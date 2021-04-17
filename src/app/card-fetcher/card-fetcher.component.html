@@ -1,0 +1,11 @@
+<div>
+    <p>Hello World!</p>
+</div>
+<div>
+    <!-- <img [src]="imgLink" width="480" height="670"> -->
+</div>
+<div *ngFor="let i of imgLinkArray">
+    <a [href]="i" download>
+        <img [src]="i" width="480" height="670" download>
+    </a>
+</div>

@@ -1,0 +1,679 @@
+﻿Set,Card #,Card Name,Type,Cost,Light,Fire,Water,Wind,Darkness,Void
+cmf,004,Dream of Juliet,Chant (Quickcast),2,1,,,,,1
+cmf,026,Hunter in the Black Forest,Resonator,1,,1,,,,
+cmf,056,Swordsman of the Full Moon,Resonator,4,,,2,,,2
+cmf,067,Elvish Priest,Resonator,1,,,,1,,
+cmf,069,Gretel,Resonator,2,,,,1,,1
+cmf,071,Law of Silence,Chant (Quickcast),2,,,,2,,
+cmf,088,Pumpkin Witch,Resonator,3,,,,,1,2
+cmf,093,Spiral of Despair,Chant ,2,,,,,2,
+cmf,096,Magic Stone of Black Silence,Special Magic Stone,0,,,,,,
+cmf,097,Magic Stone of Deep Wood,Special Magic Stone,0,,,,,,
+cmf,098,Magic Stone of Hearth's Core,Special Magic Stone,0,,,,,,
+cmf,099,Magic Stone of Heat Ray,Special Magic Stone,0,,,,,,
+cmf,100,Magic Stone of Heaven's Rift,Special Magic Stone,0,,,,,,
+tat,018,The Queen's Butler,Resonator,1,1,,,,,
+tat,024,Duel of Truth,Chant (Quickcast),1,,1,,,,
+tat,031,"Little Dread, the Fake Red Moon",Resonator,3,,2,,,,1
+tat,032,Rapid Decay,Chant,1,,1,,,,
+tat,039,"Cheshire Cat, the Grinning Remnant",Resonator,1,,,1,,,
+tat,062,"Glinda, the Fairy",Resonator,2,,,,2,,
+tat,072,Xeex the Ancient Magic,Chant (Quickcast),2,,,,2,,
+tat,083,"Mephistopheles, the Abyssal Tyrant",Resonator,4,,,,,2,2
+tat,084,Necronomicon,Addition,3,,,,,3,
+tat,088,Stoning to Death,Chant (Quickcast),2,,,,,2,
+tat,090,Whispers from the Abyss,Chant (Quickcast),2,,,,,1,1
+tat,091,"Almerius, the Levitating Stone",True Magic Stone,0,,,,,,
+tat,092,"Feethsing, the Holy Wind Stone",True Magic Stone,0,,,,,,
+tat,093,"Grusbalesta, the Sealing Stone",True Magic Stone,0,,,,,,
+tat,094,Magic Stone of Blasting Waves,Special Magic Stone,0,,,,,,
+tat,095,Magic Stone of Dark Depth,Special Magic Stone,0,,,,,,
+tat,096,Magic Stone of Gusting Skies,Special Magic Stone,0,,,,,,
+tat,097,Magic Stone of Light Vapors,Special Magic Stone,0,,,,,,
+tat,098,Magic Stone of Scorched Bales,Special Magic Stone,0,,,,,,
+tat,099,"Milest, The Ghostly Flame Stone",True Magic Stone,0,,,,,,
+tat,100,"Moojdart, the Fantasy Stone",True Magic Stone,0,,,,,,
+mpr,014,Sign to the Future,Chant (Quickcast),2,1,,,,,1
+mpr,023,"Blazer, the Eater of Dimensions",Resonator,5,,3,,,,2
+mpr,041,"Etna, the Snow Queen",Resonator,3,,,2,,,1
+mpr,043,Glimpse of Kaguya,Chant (Quickcast),2,,,1,,,1
+mpr,061,Familiar of Holy Wind,Resonator,1,,,,1,,
+mpr,062,"Fiethsing, the Magus of Holy Wind",Resonator,3,,,,2,,1
+mpr,065,"Morgiana, the Wise Servant",Resonator,1,,,,1,,
+mpr,090,"Zero, the Magus of Null",Resonator,3,,,,,2,1
+mpr,091,"Alice, the Guardian of Dimensions",Resonator,3,1,,1,,,1
+mpr,098,"Little Red, the Pure Stone",True Magic Stone,0,,,,,,
+mpr,099,Magic Stone of Moon Light,Special Magic Stone,0,,,,,,
+mpr,100,Magic Stone of Moon Shade,Special Magic Stone,0,,,,,,
+moa,011,Ame-No-Habakiri,Addition (Weapon),2,,2,,,,
+moa,019,"Susanowo, the Ten-Fist Sword",Resonator,6,,3,,,,3
+vin001,017,Banzai Attack,Chant ,4,,2,,,,2
+vin001,077,Ryoma Sakamoto,Resonator,2,,,,,,2
+vin001,078,Shakespeare,Resonator,3,,,,,,3
+skl,003,"Bedivere, the Restorer of Souls",Resonator,3,2,,,,,1
+skl,005,Celestial Wing Seraph,Resonator,5,2,,,,,3
+skl,009,"Gwiber, the White Dragon",Resonator,5,1,,,,,4
+skl,021,"Draig, the Red Dragon",Resonator,5,,1,,,,4
+skl,025,Flame King's Shout,Chant,3,,2,,,,1
+skl,026,"Gareth, the Dauntless Knight",Resonator,3,,2,,,,1
+skl,031,"Snow White, the Valkyrie of Passion",Resonator,3,,2,,,,1
+skl,034,Alice's Castling,Chant (Quickcast),1,,,1,,,
+skl,035,Alice's Little Scout,Resonator,1,,,1,,,
+skl,036,Charm of the Princess,Chant ,2,,,2,,,X
+skl,037,"Cinderella, the Valkyrie of Glass",Resonator,2,,,2,,,
+skl,052,"Behemoth, the Earth Eater",Resonator,5,,,,2,,3
+skl,053,Blessing of Yggdrasil,Chant,2,,,,1,,1
+skl,058,Keen Sense,Chant (Quickcast),2,,,,1,,1
+skl,061,Rapid Growth,Chant (Quickcast),1,,,,1,,
+skl,066,"Arthur, the Dead Lord of Vengeance",Resonator,4,,,,,2,2
+skl,079,Soulhunt,Chant,1,,,,,1,
+skl,081,Underground Dragger,Resonator,3,,,,,2,1
+skl,095,"Artemis, the God's Bow",Regalia,0,,,,,,0
+skl,096,"Death Schythe, the Life Reaper",Regalia,0,,,,,,0
+skl,097,"Deep Blue, the Phantom Board",Regalia,0,,,,,,0
+skl,098,"Gleipnir, the Red Binding of Fate",Regalia,0,,,,,,0
+skl,099,Horn of the Sacred Beasts,Regalia,0,,,,,,0
+skl,100,"Marybell, the Steel Doll",Regalia,0,,,,,,0
+ttw,003,"Arthur Pendragon, King of the Round Table",Resonator,5,2,,,,,3
+ttw,009,Grand Cross,Chant,2,2,,,,,
+ttw,016,The Final Word,Chant (Quickcast),1,1,,,,,
+ttw,021,Burn to Cinders,Chant (Quickcast),2,,2,,,,
+ttw,027,"Guinevere, the Jealous Queen",Resonator,1,,1,,,,
+ttw,029,"Lancelot, the Knight of Mad Demon",Resonator,2,,2,,,,
+ttw,037,"Adombrali, the Unfathomable",Resonator,3,,,2,,,1
+ttw,055,Beastly Attack,Chant (Quickcast),3,,,,2,,1
+ttw,062,"Pricia, Beast Queen in Hiding",Resonator,3,,,,2,,1
+ttw,064,Rewriting Laws,Chant,2,,,,1,,1
+ttw,068,The Beast Queen's Counter Attack,Chant,2,,,,2,,
+ttw,075,Dance of the Shadows,Chant (Quickcast),4,,,,,1,3
+ttw,088,Shadow Doppelganger,Resonator,4,,,,,1,3
+ttw,089,The Scorn of Dark Alice,Chant,1,,,,,1,
+ttw,090,Unseen Pressure,Chant (Quickcast),1,,,,,1,
+ttw,099,"Laevateinn, the Demon Sword",Regalia,0,,,,,,0
+ttw,100,"Schrodinger, the Fallen Black Cat",Regalia,3,,,,,,3
+ttw,102,Ruler's Memoria,Special Magic Stone,0,,,,,,
+tms,005,"Izanagi, Keeper of the Seal",Resonator,6,2,,,,,4
+tms,008,Luminescent Bamboo Bullet,Chant,2,1,,,,,1
+tms,013,Shining Strike,Chant (Quickcast),1,1,,,,,
+tms,016,Tsukuyomi Noble,Resonator,2,2,,,,,
+tms,021,Demon Flame,Chant (Quickcast),1,,1,,,,
+tms,029,Rukh Egg,Resonator,1,,1,,,,
+tms,043,Prison in the Lunar Lake,Chant (Standby),3,,,1,,,2
+tms,049,"Valentina, Puppet Monarch",Resonator,4,,,2,,,2
+tms,053,"Avatar of the Seven Lands, Alice",Resonator,6,,,,3,,3
+tms,055,Foment of the World Tree,Chant,2,,,,2,,
+tms,059,Moonbreeze Elf,Resonator,1,,,,1,,
+tms,060,Pricia's Call to Action,Chant (Quickcast),1,,,,1,,
+tms,063,Timekeeper Elf,Resonator,3,,,,1,,2
+tms,064,Wall of Wind,Chant (Quickcast),1,,,,1,,
+tms,065,Wind Secluded Refuge,Addition,2,,,,1,,1
+tms,075,"Fallen Angelic Destroyer, Lucifer",Resonator,4,,,,,2,2
+tms,083,Space-Time Collapse,Chant,2,,,,,2,
+tms,084,The Executioner,Resonator,1,,,,,1,
+tms,087,"Marybell, Insane Self-Aware Machine",Resonator,5,,,,,,5
+tms,088,"Pricia, Pursuant of Exploding Flame",Resonator,3,,1,,1,,1
+tms,089,Seal of Wind and Light,Chant (Quickcast),2,1,,,1,,
+tms,090,Space-Time Anomaly,Chant (Quickcast),2,,,1,,1,
+tms,091,"Blade of the Seven Lands, Excalibur X",Regalia,3,,,,,,3
+tms,092,"Heavenly Instrument, Hydromonica",Regalia,0,,,,,,0
+tms,094,"Interdimensional Vessel, Apollo",Regalia,0,,,,,,0
+tms,096,Black Moon's Memoria,Special Magic Stone,0,,,,,,
+tms,099,Moonbreeze's Memoria,Special Magic Stone,0,,,,,,
+bfa,007,Interdimensional Escape,Chant (Quickcast),3,2,,,,,1
+bfa,011,Rabbit of Moonlit Nights,Resonator,1,1,,,,,
+bfa,028,"True Successor of Certo, Volga",Resonator,2,,2,,,,
+bfa,042,"Shion, Liberator of Shangri-La",Resonator,2,,,2,,,
+bfa,061,Black Moonbeam,Chant (Quickcast),2,,,,,2,
+bfa,070,Lapis' Dark Storm,Chant,2,,,,,2,
+bfa,076,Alice of Light/Alice of Shadow,Resonator (Shift),3,1,,,,,2
+bfa,077,"Lars, Inheritor of the Scared Spirit/Glorian Princess of Water, Charlotte",Resonator (Shift),2,,1,,,,1
+bfa,078,"Reflect, the Beginning of Time/Refrain, the End of Ages",Resonator (Shift),1,,,,1,,
+bfa,079,"Slayer of the Overlord, Pricia/Possessor Princess of Love, Valentina",Resonator (Shift),2,,,,1,,1
+bfa,080,"Interdimensional Monarch, Gill Lapis/Space-Time Pursuer, Gill Lapis",Resonator (Shift),3,,,,,2,1
+bfa,081,"Attoractia, Dimension of the Seven Kings/Illusory Demonic Globe, Attoractia",Addition/Regalia,2,,,,,,2
+bfa,096,Call to Action's Memoria,Special Magic Stone,0,,,,,,
+bfa,097,Brutal Conqueror's Memoria,Special Magic Stone,0,,,,,,
+bfa,098,Aloof Researcher's Memoria,Special Magic Stone,0,,,,,,
+bfa,099,First Flight's Memoria,Special Magic Stone,0,,,,,,
+bfa,100,Sorrowful Necromancy's Memoria,Special Magic Stone,0,,,,,,
+vin002,042,Sniping From the Blind Spot,Chant (Quickcast),1,,,1,,,
+vin002,053,Destructive Assault,Chant,1,,,,1,,
+vin002,076,Class G's Tank,Regalia,2,,,,,,2
+vin002,080,Ragnite,Regalia,3,,,,,,3
+sdl1,005,Kid Puss in Boots,Resonator,1,1,,,,,
+sdl1,007,Magic Sweets,Chant (Quickcast),1,1,,,,,
+sdl1,008,Manifestation of Power,Chant (Quickcast),2,1,,,,,1
+sdl2,006,Lightning Strike,Chant (Quickcast),1,,1,,,,
+sdl3,002,Ancient Knowledge ,Chant (Quickcast),4,,,2,,,2
+sdl3,004,Ice Dragon of Altea,Resonator,9,,,2,,,7
+sdl4,004,Home of the Sages,Addition,2,,,,1,,1
+sdl4,005,Sacred Elf,Resonator,1,,,,1,,
+sdl4,007,"Tama, Familiar of Holy Wind",Resonator,1,,,,1,,
+sdl4,009,Two-Fold Chant,Chant (Quickcast),2,,,,1,,1
+cfc,002,Dreams of Flight,Chant (Quickcast),1,1,,,,,
+cfc,006,"Glorious, the Silver Knight",Resonator,3,2,,,,,1
+cfc,017,Zero's Magic Light,Chant (Quickcast),2,2,,,,,
+cfc,022,"Fairytale Library, Alexandria",Addition,2,,1,,,,1
+cfc,037,"Captain Hook, the Pirate",Resonator,5,,,2,,,3
+cfc,040,Charlotte's Water Transformation Magic,Chant (Quickcast),1,,,1,,,
+cfc,041,"Cheshire Cat, Guide to the Mysterious World",Resonator,2,,,1,,,1
+cfc,043,"Lumia, Sealed in the Frozen Casket/Lumia, Saint of World Awakening",Resonator (Shift),3,,,1,,,2
+cfc,049,Shackles of Ice,Addition,1,,,1,,,
+cfc,053,Cloning Magic,Chant (Quickcast),2,,,,1,,1
+cfc,058,Heavenly Gust,Chant (Quickcast),2,,,,2,,
+cfc,060,Magic Stone Analysis,Chant,2,,,,1,,1
+cfc,062,Red Riding Hood,Resonator,2,,,,2,,
+cfc,064,Sha Wujing,Resonator,3,,,,1,,2
+cfc,065,"Sorceress of Heavenly Wind, Melfee",Resonator,2,,,,1,,1
+cfc,071,"Azathoth, Hunter of Reality",Resonator,8,,,,,2,6
+cfc,079,"Rinka, Second Daughter of Mikage",Resonator,2,,,,,2,
+cfc,083,The Nameless Mist,Chant,1,,,,,1,
+lel,001,"Amaterasu, Guide of Light",Resonator,3,2,,,,,1
+lel,002,Amaterasu's Foresight,Chant (Quickcast),2,1,,,,,1
+lel,004,Lumia's Purification,Chant,3,2,,,,,1
+lel,018,"Charlotte, Wielder of the Scared Spirit",Resonator,4,,,3,,,1
+lel,023,Rachel's Smile,Chant (Quickcast),5,,,2,,,3
+lel,025,"Fiethsing, the Fate Spinning Winds",Resonator,2,,,,1,,1
+lel,026,Final Breeze,Chant (Quickcast),2,,,,1,,1
+lel,027,Gale Force,Chant (Quickcast),1,,,,1,,
+lel,030,Magic Stone Life Form,Resonator,1,,,,1,,
+lel,031,Planting Beans,Chant,1,,,,1,,
+lel,036,Fated Reunion,Chant,2,,,,,1,1
+lel,038,Shadow of Lapis,Resonator,1,,,,,1,
+lel,039,"Yashahime, First Daughter of Mikage",Resonator,3,,,,,2,1
+lel,043,"Ammit, Beast of Gluttony",Resonator,7,,,,1,1,5
+lel,045,Barrier Seal,Addition,2,1,1,,,,
+lel,049,Curse of the Kyuubi,Chant (Quickcast),2,,,,1,1,X
+lel,050,Deceptive Dream,Resonator,4,,,1,,1,2
+lel,051,Demonic Instigator,Resonator,3,,1,1,,,1
+lel,055,Faria's Summoning,Chant (Quickcast),2,1,,,1,,
+lel,056,Fiethsing's Monocle,Addition,2,1,,,1,,
+lel,059,"Griphon, Racing Across Darkness",Resonator,6,,,,1,1,4
+lel,060,"Grusbalesta, Magic Stone Researcher",Resonator,3,,,,1,1,1
+lel,061,Grusbalesta's Secret Technique,Chant (Quickcast),2,,,,1,1,
+lel,068,Kaguya's Moonbeam Butterfly,Chant,2,1,,,1,,X
+lel,072,Lumia's Judgement,Chant,2,1,1,,,,X
+lel,073,Magic Rebound,Chant (Quickcast),2,,,1,,1,
+lel,078,"Nightmare, the Ashen Dream",Resonator,3,,,1,,1,1
+lel,079,"Nyarlathotep, the Crimson Radiance",Resonator,2,1,1,,,,
+lel,081,Priest of Divine Protection,Resonator,3,1,1,,,,1
+lel,082,Prokaryotic Being,Resonator,2,,1,1,,,
+lel,088,Steam Explosion,Chant,2,,1,1,,,X
+lel,090,The Manticore,Resonator,5,,,,1,1,3
+lel,091,Tuning of Wind and Darkness,Chant,3,,,,1,1,1
+lel,092,Twin-Headed Dragon,Resonator,4,,1,1,,,2
+lel,093,Valentina's Reach,Chant ,2,,,1,,1,X
+lel,094,Wetlands of Magical Origin,Addition,2,,,,1,1,
+lel,096,"Awakened Magic Stone, the Earth",Special Magic Stone,0,,,,,,
+lel,097,Killing Stone,Special Magic Stone,0,,,,,,
+lel,098,Magic Stone of Vaporization,Special Magic Stone,0,,,,,,
+lel,099,Pricia's Memoria,Special Magic Stone,0,,,,,,
+lel,100,Remains of Attoractia,Special Magic Stone,0,,,,,,
+vin003,001,"Arla, the Light Wing",Resonator,4,2,,,,,2
+vin003,004,"Faria, Paladin of the Dawn",Resonator,2,2,,,,,
+vin003,008,Knight Lord of Godspeed,Resonator,5,2,,,,,3
+vin003,009,Light Wizard,Resonator,1,1,,,,,
+vin003,017,"Barbatos, World's Greatest Eccentric",Resonator,4,,2,,,,2
+vin003,024,Fire Wizard,Resonator,1,,1,,,,
+vin003,027,"Melgis, King of Conquest",Resonator,2,,2,,,,
+vin003,028,"Salamander, Envoy of Fire",Resonator,4,,2,,,,2
+vin003,029,"Shimazu Yoshihiro, Feudal Flame Lord",Resonator,3,,2,,,,1
+vin003,030,"Sylvia Gill Palarilias, Infernal Dragon",Resonator,3,,2,,,,1
+vin003,034,"Chronos, the God of Time",Resonator,4,,,2,,,2
+vin003,042,"Tomoe Gozen, Merciful Aqua Twin Swords",Resonator,2,,,1,,,1
+vin003,043,"Triton, Emperor of the Seven Seas",Resonator,2,,,2,,,
+vin003,044,"Valentina, Maiden of the Oceans",Resonator,6,,,2,,,4
+vin003,045,Water Wizard,Resonator,1,,,1,,,
+vin003,047,"Frigg, Goddess of Abundant Harvests",Resonator,5,,,,2,,3
+vin003,051,"Little Red, Fairy Tale of Air ",Resonator,1,,,,1,,
+vin003,052,"Oberon, Lord of Elves",Resonator,4,,,,2,,2
+vin003,053,"Pricia, Wild Child",Resonator,1,,,,1,,
+vin003,056,"Scheherazade, the Prophet",Resonator,4,,,,4,,
+vin003,061,"Abdul Alhazred, Poet of Madness",Resonator,2,,,,,2,
+vin003,064,Darkness Wizard,Resonator,1,,,,,1,
+vin003,067,"Gill Lapis, the Pure Youth",Resonator,6,,,,,3,3
+vin003,069,"Loki, Being of the End",Resonator,2,,,,,2,
+vin003,070,"Rezzard, the Vampire Lord",Resonator,3,,,,,3,
+vin003,071,"Sariel, Lord of the Moons",Resonator,4,,,,,2,2
+vin003,072,"Shade, Envoy of Darkness",Resonator,2,,,,,2,
+vin003,078,"Jeanne d'Arc, the Maid of Orleans",Resonator,3,1,,1,,,1
+vin003,079,"Karmic Governer, Laplace",Resonator,5,,1,,1,,3
+vin003,081,"Odin, the Omniscient",Resonator,6,,,,1,1,4
+vin003,083,"Snow White, the Avenger",Resonator,3,1,1,,,,1
+vin003,084,"Vafthruthnir, Giant Wiseman",Resonator,4,,,1,1,,2
+vin003,085,"Yggdrasil, the First Tree",Resonator,4,1,,,1,,2
+vin003,086,Burning Water Magic Stone,Special Magic Stone,0,,,,,,
+vin003,087,Gusting Darkness Magic Stone,Special Magic Stone,0,,,,,,
+vin003,088,Magic Stone of Murky Waters,Special Magic Stone,0,,,,,,
+vin003,089,Magic Stone of Nature's Beauty,Special Magic Stone,0,,,,,,
+vin003,090,Magic Stone of Purgatory,Special Magic Stone,0,,,,,,
+vin003,091,Magic Stone of Radiant Waves,Special Magic Stone,0,,,,,,
+vin003,092,Magic Stone of Summer's Breeze,Special Magic Stone,0,,,,,,
+vin003,093,Misty Wind Magic Stone,Special Magic Stone,0,,,,,,
+vin003,094,Shadowy Light Magic Stone,Special Magic Stone,0,,,,,,
+vin003,095,Sparkling Fire Magic Stone,Special Magic Stone,0,,,,,,
+rde,002,Guardian of Altean Law,Resonator,3,2,,,,,1
+rde,010,Memory to Memoria,Chant,1,,1,,,,
+rde,011,"Milest, the First Flame",Resonator,3,,3,,,,
+rde,015,Sprinting Flame Horse,Resonator,1,,1,,,,
+rde,020,"Eia, God of Water",Resonator,4,,,2,,,2
+rde,023,"Undine, the Spirit of Water",Resonator,2,,,1,,,1
+rde,025,Divine Bird of Attoractia,Resonator,1,,,,1,,
+rde,028,Miracle Millenia Medicine,Addition,1,,,,1,,
+rde,045,Black Hole of the Spirit World,Addition,4,,2,,,2,
+rde,048,Concord of Saints and Beasts,Chant (Quickcast),3,,1,,1,,1
+rde,050,Door of Time,Chant,2,,,1,1,,X
+rde,051,Dragon of Fire and Wind,Resonator,3,,1,,1,,1
+rde,053,End of Days,Chant,2,,1,,,1,X
+rde,054,Erasure,Chant,4,1,,,,1,2
+rde,065,Kaguya's Pictorial Scroll,Addition,3,,,1,1,,1
+rde,067,"Mariabella, the Machine Hearted",Resonator,4,,2,,1,,1
+rde,069,Millennia Bond,Chant (Quickcast),2,,,1,1,,
+rde,077,Pricia's Leap,Chant,2,,1,,1,,X
+rde,081,Schrodinger's Observation,Chant,2,1,,,,1,X
+rde,084,"Sissei, Pricia's Barrier",Addition,2,,1,,1,,
+rde,093,"Valentina, the Twilight Passion",Resonator,4, ,1,,,1,2
+rde,095,Will o'the Wisp,Resonator,2,1,,1,,,
+rde,096,Ancient Magic Stone,Special Magic Stone,0,,,,,,
+rde,097,Kaguya's Stone of Sorrow,Special Magic Stone,0,,,,,,
+rde,098,Magic Stone of the Ebon Home,Special Magic Stone,0,,,,,,
+rde,099,Memoria of Reincarnation,Special Magic Stone,0,,,,,,
+rde,100,Stone of the Dragonoids,Special Magic Stone,0,,,,,,
+enw,002,"Arla, Demonic Flying Ace",Resonator,3,1, ,,,,2
+enw,010,Release,Chant,2,1,,,,,1
+enw,016,"Zero, the King's Blade",Resonator,2,2,,,,,
+enw,036,"Alice, Girl of the Blue Planet",Resonator,2,,,2,,,
+enw,043,Flute's Water Dragon,Resonator,1,,,1,,,
+enw,049,The Cheshire Cat's Assistance,Chant,1,,,1,,,
+enw,051,Umr At-Tawil,Resonator,7,,,2,,,5
+enw,052,Confront the Unknown,Chant (Quickcast),2,,,,1,,1
+enw,060,"Pricia, Ready for the Final Battle",Resonator,5,,,,2,,3
+enw,063,Severing Winds,Chant (Quickcast),4,,,,2,,2
+enw,075,Heteroclite Excalibur,Chant,1,,,,,1,
+enw,076,"Mikage Seijuro, Patriarch of the Vampires",Resonator,3,,,,,2,1
+enw,077,Neo Barrier of Shadows,Addition,2,,,,,1,1
+enw,084,The Final Battle,Chant,1,,,,,1,X
+enw,086,Dawn of the Earth,Chant (Quickcast),2,1,,1,,,
+enw,087,"Gill Lapis, Usurper of Maddening Power",Resonator,3,1,,,,1,1
+enw,092,"Sylvia, Blade of the Supreme King",Resonator,2,,1,,1,, 
+enw,093,"Ultimate Swordsmaster, Faria",Resonator,4,1,,,1,,2
+enw,094,"Valentina, the Crumbling Illusion",Resonator,7,,,1,,1,5
+enw,096,"Machina, King of Accursed Machines",Resonator,3,,,,,,3
+enw,099,Star Fragment,Special Magic Stone,0,,,,,,
+enw,100,Time Altering Magic Stone,Special Magic Stone,0,,,,,,
+sdr2,011,Mad Boar of Mt Hoelle,Resonator,2,,2,,,,
+sdr4,008,Travelling Trader,Resonator,1,,,,1,,
+sdr4,010,Vanish,Chant (Quickcast),3,,,,3,,
+sdr4,012,Spirit Stone,Special Magic Stone,0,,,,,,
+sdr5,007,"Grimm, the Pitch Black Vampire",Resonator,4,,,,,2,2
+acn,018,"Orphica, Dancer in the White Mist",Resonator,2,2,,,,,
+acn,042,Fiend Fire,Chant,1,,1,,,,X
+acn,049,High Speed,Chant,1,,1,,,,
+acn,052,"Kain, Demon of Vice",Resonator,4,,2,,,,2
+acn,069,Keeze's Call,Chant (Quickcast),1,,,1,,,
+acn,077,Seabed Investigation,Chant,2,,,2,,,
+acn,079,Shaela's Foresight,Chant (Quickcast),2,,,2,,,
+acn,081,Spinning Aquasol,Chant (Quickcast),1,,,1,,,
+acn,086,Absolute Awareness,Chant ,2,,,,2,,
+acn,094,Faerur's Command,Chant,7,,,,3,,4
+acn,096,Faerur's Spell,Chant (Quickcast),1,,,,1,,
+acn,123,Dark Riding Hood,Resonator,3,,,,,3,
+acn,129,Lethal Arrow,Chant (Quickcast),1,,,,,1,
+acn,140,Truth Amongst Darkness,Chant,3,,,,,1,2
+acn,144,Idol of Magic,Addition,1,,,,,,1
+acn,147,Statue in the Sacred Temple,Addition,2,,,,,,2
+adk,017,"Ra, the Golden Bird",Resonator,2,2,,,,,
+adk,025,The Floating Isle,Addition,3,2,,,,,1
+adk,029,Winds of Gold,Chant (Quickcast),1,1,,,,,
+adk,031,Callous Blaze,Chant (Quickcast),1,,1,,,,
+adk,045,"Frayla, Servant of Demon Fire",Resonator,2,,1,,,,1
+adk,061,Ayu's Pictorial Scroll,Addition,2,,,1,,,1
+adk,063,Ayu's Sword Strike,Chant (Quickcast),1,,,1,,,
+adk,070,Lowly Spirit Bug,Resonator,1,,,1,,,
+adk,073,Magical Wind Chime,Addition,2,,,2,,,
+adk,075,Misty Dragon Spirit,Resonator,4,,,2,,,2
+adk,076,Mosasaurus,Resonator,5,,,2,,,3
+adk,078,Optional Posession,Chant (Quickcast),1,,,1,,,
+adk,079,Shayla's Return,Chant (Quickcast),1,,,1,,,
+adk,088,"Ciel, Sorceress Priestess",Resonator,3,,,,2,,1
+adk,089,Ciel's Familiar Mikay,Resonator,2,,,,1,,1
+adk,091,Destruction of the Portal,Chant (Quickcast),2,,,,1,,1
+adk,106,Other World Dreams,Chant (Quickcast),1,,,,1,,
+adk,119,"Beelzebub, Lord of Flies",Resonator,5,,,,,2,3
+adk,123,Command of Life and Death,Chant,2,,,,,1,1
+adk,130,Deadly Housefly,Resonator,1,,,,,1,
+adk,134,Hilda and Saffina,Resonator,4,,,,,4,
+adk,135,"Jeanne d'Arc, Mad Maiden",Resonator,2,,,,,2,
+adk,146,Angel Statue of the Tower,Addition,2,,,,,,2
+tsw,008,Flourishing Hope/Burgeoning Despair,Chant (Quickcast),1,1,,,,,
+tsw,016,Life Stealing Altar/Soul Returning Altar,Addition,1,1,,,,,
+tsw,018,Mephistopheles/Mephistopheles,Resonator,3,2,,,,,1
+tsw,019,Miscalculation,Chant (Quickcast),1,1,,,,,
+tsw,025,Separation of Fates,Chant (Quickcast),1,1,,,,,
+tsw,057,"Ultra Dragon, Shooting Star",Resonator,3,,3,,,,
+tsw,094,"Laurite, Seven Luminaries Astrologian",Resonator,1,,,,1,,
+tsw,095,Laurite's Deletion Magic,Chant (Quickcast),1,,,,1,,X
+tsw,096,Laurite's Wind,Chant (Quickcast),2,,,,2,,
+tsw,103,"Rachel, the Ancient Library Researcher",Resonator,3,,,,2,,1
+tsw,143,Thought Control,Chant,1,,,,,1,
+tsw,146,Ruined Story,Chant (Quickcast),2,,,,1,1,
+tsw,148,Magic Stone of Hope/Magic Stone of Despair,Special Magic Stone,0,,,,,,
+tsw,149,Null Magic Stone,Special Magic Stone,0,,,,,,
+wom,003,Arrival of the Hero,Chant (Quickcast),2,2,,,,,
+wom,004,"Atom Seikhart, the Envoy of Valhalla",Resonator,3,1,,,,,2
+wom,042,"Welser, the Arch Mage of Fire",Resonator,6,,3,,,,3
+wom,061,"Unyielding Dragon Lord, Ragnarok",Resonator,6,,,3,,,3
+wom,070,Laurite's Seven Disciples,Resonator,3,,,,2,,1
+wom,076,"Reincarnation of the Holy Tree, Yggdrasil",Resonator,2,,,,2,,
+wom,086,Winds of Salvation,Chant (Quickcast),3,,,,2,,1
+wom,094,Glint of Insight,Chant,1,,,,,1,
+wom,100,"Rei, the Black Hour/Zero",Resonator,2,,,,,1,1
+wom,108,"Vice Leader of the Chivalrous Thieves, Blazer",Resonator,3,,,,,1,2
+wom,109,Heroic Epic for the Thousandth Night,Chant,3,,1,,,1,1
+wom,110,"Attoractia, City of Verdant Green",Addition,2,,1,,1,,
+wom,111,Beyond the Threshold of Time,Chant,3,,,1,1,,1
+wom,117,"The Kingdom of Diversity, Light Palace",Addition,2,1,,1,,,
+sdv1,001,Acolyte of the Sun,Resonator,1,1,,,,,
+sdv1,009,"Eir, Valkyrie of Mercy",Resonator,3,2,,,,,1
+sdv2,018,Sandworm,Resonator,1,,1,,,,
+sdv2,019,"Set, the Commander of Destruction",Resonator,4,,4,,,,
+sdv3,010,Hansel of the Misty Wood,Resonator,2,,,1,,,1
+sdv3,021,Scarecrow Guide,Resonator,1,,,1,,,
+sdv4,002,"Chiyome, the Captivating Kunoichi",Resonator,4,,,,2,,2
+sdv4,004,Fairy of the Lost Isles,Resonator,1,,,,1,,
+sdv5,012,Patchwork Frankenstein,Resonator,2,,,,,2,
+sdv5,016,Skeleton Horde,Resonator,1,,,,,1,
+ndr,003,Balmung,Chant,4,2,,,,,2
+ndr,004,Blessing of the Sun,Chant,2,2,,,,,
+ndr,006,Commander of Minerva,Resonator,2,2,,,,,
+ndr,007,"Country of the Sun, Minerva",Addition,2,1,,,,,1
+ndr,018,Spear of the Valkyire,Chant (Quickcast),2,1,,,,,1
+ndr,028,"City of Mirage, Sandora",Addition,2,,1,,,,1
+ndr,033,"Osiris, Lord of the Afterlife",Resonator,3,,2,,,,1
+ndr,034,Sandstorm,Chant,1,,1,,,,
+ndr,041,"Arondight, the Nitrogen Blade",Chant (Quickcast),1,,,1,,,
+ndr,044,"Hamelin, the Sound of Temptation",Resonator,5,,,3,,,2
+ndr,045,Invitation,Chant,3,,,2,,,1
+ndr,047,"Jormungandr, Little Eater of Worlds",Resonator,1,,,1,,,
+ndr,064,Explore the Unknown,Chant,1,,,,1,,
+ndr,068,"Jubei, the One-Eyed Swordsmaster",Resonator,5,,,,2,,3
+ndr,069,"Karura, the Crow Tengu",Resonator,5,,,,2,,3
+ndr,075,Song of the Fairies,Chant (Quickcast),3,,,,2,,1
+ndr,076,Squall of the Tengu,Chant (Quickcast),3,,,,2,,1
+ndr,079,"The Village of the Spirited Away, Kouga",Addition,1,,,,1,,
+ndr,082,"Azazel, the Fallen Angel of Gloom",Resonator,4,,,,,2,2
+ndr,083,"Belial, the Evil from the Scriptures",Resonator,6,,,,,3,3
+ndr,092,Life Severing Blade,Chant (Quickcast),3,,,,,1,2
+ndr,093,Look of Corruption,Chant,1,,,,,1,
+ndr,095,Minister of Grief,Resonator,4,,,,,2,2
+ndr,096,Oborozuki,Resonator,2,,,,,2,
+ndr,099,Skeleton Knight,Resonator,4,,,,,2,2
+ndr,102,Magic Stone of Chaos,Special Magic Stone,0,,,,,,
+ndr,103,Magic Stone of Corruption,Special Magic Stone,0,,,,,,
+ndr,106,Magic Stone of Faith,Special Magic Stone,0,,,,,,
+ndr,107,Magic Stone of Omniscience,Special Magic Stone,0,,,,,,
+ndr,108,Magic Stone of the Hermit,Special Magic Stone,0,,,,,,
+ndr,109,Magic Stone of the Undead,Special Magic Stone,0,,,,,,
+snv,002,Barrier of Faith,Chant (Quickcast),1,1,,,,,
+snv,030,Ruins Beneath the Sands,Addition,2,,2,,,,
+snv,043,Diverse Evolution,Chant,3,,,2,,,1
+snv,053,"Schrodinger, the Harlequin Phenomena",Resonator,4,,,1,,,3
+snv,056,Skyfall,Chant,1,,,1,,,
+snv,073,"Remyu, Cat Tongued Tea Master",Resonator,5,,,,2,,3
+snv,078,The Six Jizo Statues ,Resonator,1,,,,1,,
+snv,079,The Unsealing of God,Chant,1,,,,1,,
+snv,081,"Amon, Conspirer of Atrocities",Resonator,5,,,,,2,3
+snv,082,"Astema, the Returnee of Hatred",Resonator,3,,,,,2,1
+snv,083,"Athenia, Sealed God of the Ruins",Resonator,5,,,,,2,3
+snv,087,Contract Demon,Resonator,2,,,,,2,
+snv,092,March of the Dead,Chant,1,,,,,1,
+snv,094,"Orpheus, the Immortal Player",Resonator,2,,,,,2,
+snv,095,Power of Immortality,Chant (Quickcast),2,,,,,1,1
+aoa,019,Volley,Chant (Quickcast),1,1,,,,,
+aoa,032,"Nyarlethotep, the Return of Chaos",Resonator,2,,2,,,,
+aoa,035,"Shu, Ruler of Air",Resonator,1,,1,,,,
+aoa,039,"Ushuah, the Swordsman of Eternal Flame",Resonator,6,,3,,,,3
+aoa,048,"Garmheld, Half of God",Resonator,3,,,2,,,1
+aoa,051,Loki's Insight,Chant (Quickcast),2,,,1,,,1
+aoa,061,Two Hundred IQ,Chant,2,,,,1,,1
+aoa,084,"Diabolos, Sealed God of Madness",Resonator,5,,,,,2,3
+aoa,089,Freed from the Altar,Chant,2,,,,,1,1
+aoa,091,Harvesting Season,Chant,2,,,,,1,1
+aoa,092,"Lailah, Maiden of the Swamps",Resonator,1,,,,,1,
+aoa,093,"Laurier, Dark Corpse Sorceress",Resonator,3,,,,,2,1
+aoa,095,Mana Transmuter,Resonator,3,,,,,1,2
+aoa,096,"Oborozuki, Caller of Gods",Resonator,4,,,,,4,
+aoa,099,Sacrificial Altar,Addition,2,,,,,1,1
+dbv,002,Angel of Zeus,Resonator,1,1,,,,,
+dbv,003,"Angroda, Giant of the Setting Sun",Resonator,7,3,,,,,4
+dbv,009,"Dark Alice, Rabbit Princess",Resonator,1,1,,,,,
+dbv,015,Messenger of Odin,Resonator,1,1,,,,,
+dbv,020,Desert Miner,Resonator,1,,1,,,,
+dbv,024,"Isis, Last of the Ascendants",Resonator,3,,2,,,,1
+dbv,033,"Surtr, the Explosion Giant",Resonator,7,,3,,,,4
+dbv,035,Tiny Fire and Water Dragon,Resonator,1,,1,,,,
+dbv,037,"Arthur, Knight of the Final Act",Resonator,2,,,1,,,1
+dbv,038,"Bergelmir, Giant of Eternal Ice",Resonator,7,,,3,,,4
+dbv,039,Clockwork Girl,Resonator,1,,,1,,,
+dbv,053,Shadow of Chronos,Resonator,1,,,1,,,
+dbv,055,Acolyte of Shiva,Resonator,1,,,,1,,
+dbv,056,"Bastet, Creator of Cats",Resonator,1,,,,1,,
+dbv,059,Calico Cat Shikigami,Resonator,1,,,,1,,
+dbv,071,"Trou, Giant of Destruction",Resonator,7,,,,3,,4
+dbv,075,Fallen Angel of Firey Vengeance,Resonator,1,,,,,1,
+dbv,081,"Lucifer, Leader of the Fallen Angels",Resonator,3,,,,,2,1
+dbv,082,Onlooking Vampire,Resonator,1,,,,,1,
+dbv,089,"Utgarda Loki, Giant of Darkness",Resonator,7,,,,,3,4
+dbv,091,"Alice, Zeus Incarnate",Resonator,3,1,,1,,,1
+dbv,092,"Athenia, Diety of Harvest and Corruption",Resonator,3,,,,1,1,1
+dbv,093,"Deus Ex Machina, God of Machines",Resonator,2,,,1,1,,
+dbv,094,"Genshi Tenson, God of Flame",Resonator,3,,1,1,,,1
+dbv,095,"Kaguya, Sealed God of the Moon",Resonator,3,1,,,1,,1
+dbv,096,"Nyarlathotep, God Devouring Messiah",Resonator,2,1,1,,,,
+dbv,097,"Odin, Supreme God",Resonator,6,2,,,,2,2
+dbv,098,Perfect Loki,Resonator,2,,,1,,1,
+dbv,099,"Satan, God of the Fallen",Resonator,5,,1,,,1,3
+dbv,100,"Shiva, God of Destruction",Resonator,5,,1,,2,,2
+sdao1,012,"Perceval, the Fascinated by Holy Grail",Resonator,1,,1,,,,
+sdao1,020,Awakening of the Flame King,Chant (Quickcast),3,,2,,,1,
+sdao1,021,Awakening of the Sacred Queen,Chant (Quickcast),3,2,,1,,,
+sdao1,022,Bloody Break,Chant (Quickcast),2,,1,,,1,
+sdao1,029,Sacred Wave Blade,Chant (Quickcast),2,1,,1,,,
+sdao1,030,Traveler in Wonderland,Resonator,3,2,,1,,,
+sdao1,033,Attoractia's Memoria,Special Magic Stone,0,,,,,,
+aopr,002,Kusinagi Motoko,Resonator,7,,,,,,7
+aopr,004,Kusinagi Motoko and Section 9,Resonator,3,,,,,,3
+ao1,007,"Izanami, the God of Life",Resonator,3,2,,,,,1
+ao1,010,"Oroboros, the Reincarnating Light Serpent",Resonator,5,5,,,,,
+ao1,011,Parry,Chant (Quickcast),1,1,,,,,
+ao1,015,Seal of Lennith,Addition,1,1,,,,,
+ao1,032,Regalia Break,Chant (Quickcast),1,,1,,,,
+ao1,034,Sanguine Arena,Addition,1,,1,,,,
+ao1,039,Bewildering Charm,Chant (Quickcast),1,,,1,,,
+ao1,041,"Vala, the Bewildering Mage",Resonator,2,,,2,,,
+ao1,044,Dark Indication,Chant,1,,,,,1,
+ao1,047,"Athena, the Guardian of Blaze",Resonator,3,2,1,,,,
+ao1,049,Blazer ,Resonator,4,,2,,,2,
+ao1,059,Light of Raze and Revive,Chant (Quickcast),2,1,1,,,,
+sdao2,005,"Perceval, the Charmed Knight",Resonator,1,,,1,,,
+sdao2,013,Pricia's Encouragement,Chant (Quickcast),1,,,,1,,
+sdao2,018,Awakening of the Beast Queen,Chant (Quickcast),3,,1,,2,,
+sdao2,025,Magna's Guardian Beast,Resonator,3,,1,,2,,
+ao2,002,Secret Duel in the Moonlight,Chant,1,,1,,,,
+ao2,025,Don't Cheat!,Chant (Quickcast),3,,,,3,,
+ao2,037,Aura of the Sacred Sword,Chant (Quickcast),2,1,,1,,,
+ao2,038,Awakening of Ambition,Chant,2,,,1,,1,
+ao2,039,Burning Rush! ,Chant (Quickcast),2,,1,,1,,
+ao2,049,Nameless Knight,Resonator,2,1,,1,,,
+ao2,055,Wanderer in the Nightmare Land,Resonator,3,,,1,,2,
+gits2045,003,Android Harlot,Resonator,1,,,,,,1
+gits2045,004,Aramaki and Togusa,Resonator,3,,,,,,3
+gits2045,013,Batou and Togusa,Resonator,4,,,,,,4
+gits2045,017,Borma,Resonator,5,,,,,,5
+gits2045,034,"Kusanagi Motoko, Boarding Tachikoma",Resonator,7,,,,,,7
+gits2045,037,"Kusanagi Motoko, the Major",Resonator,2,,,,,,2
+gits2045,046,"Purin Esaki, the Girl in Love",Resonator,1,,,,,,1
+gits2045,067,"Togusa, the Competent Investigator",Resonator,1,,,,,,1
+gits2045,075,Home Ministry,Special Magic Stone,0,,,,,,
+gits2045,076,NSA Headquarters,Special Magic Stone,0,,,,,,
+gits2045,077,Prime Minister's Office,Special Magic Stone,0,,,,,,
+gits2045,078,Section 9 Headquarters,Special Magic Stone,0,,,,,,
+gits2045sd,002,Batou and Kusanagi Motoko,Resonator,5,,,,,,5
+gits2045sd,006,"Kusanagi Motoko, in Body Suit",Resonator,4,,,,,,4
+gits2045sd,008,Optical Camouflage,Chant (Quickcast),1,,,,,,1
+gits2045sd,013,Gated Town,Special Magic Stone,0,,,,,,
+ao3,006,Crystallization,Chant (Quickcast),1,1,,,,,
+ao3,013,Mourning Angel,Resonator,1,1,,,,,
+ao3,014,"Pierre, the Godspeed Archer",Resonator,1,1,,,,,
+ao3,035,Faurecia's Journey,Chant (Quickcast),1,,,,1,,
+ao3,038,"Perceval, the Flying Knight",Resonator,1,,,,1,,
+ao3,046,Mikage Reiya,Resonator,1,,,,,1,
+ao3,047,Moan of the Dead,Chant (Quickcast),1,,,,,1,
+ao3,051,Residents of the Black City,Resonator,1,,,,,1,
+ao3,055,A Part of True Power,Chant (Quickcast),2,,,,1,1,
+ao3,056,Angel of Healing,Resonator,3,2,,,1,,
+ao3,058,Awakening of the Undead Lord,Chant (Quickcast),2,,,,1,1,
+ao3,059,Awakening of the Winged Lord,Chant (Quickcast),2,1,,,1,,
+ao3,066,Earthly Flash,Chant (Quickcast),2,1,,,1,,
+ao3,067,"Faurecia, the Virtuous Vampire",Resonator,2,,,,1,1,
+ao3,071,Heavenly Flash,Chant,4,2,,,2,,
+ao3,074,Mikage Seijuro,Resonator,4,,,,1,3,
+ao3,075,Mikage Seijuro's Game of Dreams,Chant,4,,,,2,2,
+ao3,082,"Sigurd, the Convenant King",Resonator,2,,,,1,1,
+ao3,084,The End of Friendship,Chant (Quickcast),2,,,,1,1,
+ao3,085,The Last Sacred Sword,Chant,3,,2,,,1,
+pofa,001,Intimidation,Chant (Quickcast),1,1,,,,,
+pofa,004,Mage Jack,Resonator,1,1,,,,,
+pofa,007,Schrodinger's Cry,Chant (Quickcast),1,1,,,,,
+pofa,009,The Road to the Scared Queen,Addition,1,1,,,,,
+pofa,015,Wizard of Vell Savaria,Resonator,1,1,,,,,
+pofa,016,Workshop Assistant Researcher,Resonator,3,2,,,,,1
+pofa,017,Yggdrasil's Grace,Chant (Quickcast),1,1,,,,,
+pofa,019,"Alisaris, Minion of Lapis",Resonator,2,,2,,,,
+pofa,021,Blaze Tornado,Chant,3,,2,,,,1
+pofa,023,Magical Arrow,Chant (Quickcast),1,,1,,,,
+pofa,027,Swordsmaster of Exploding Flame,Resonator,1,,1,,,,
+pofa,028,Sylvia's Burning Flame,Chant (Quickcast),1,,1,,,,
+pofa,029,The Road to the Flame King,Addition,1,,1,,,,
+pofa,033,Random Walk,Chant (Quickcast),1,,,1,,,
+pofa,038,Behemoth,Resonator,4,,,,3,,1
+pofa,040,A Meeting in the Darkest Night,Chant,1,,,,,1,
+pofa,045,Black Moon Ray,Chant (Quickcast),1,,,,,1,
+pofa,051,Curse of Caduceus,Addition,1,,,,,1,
+pofa,052,Dark Alice's Smile,Chant,1,,,,,1,
+pofa,064,Mind Break,Chant,2,,,,,2,
+pofa,073,Shadow X,Resonator,1,,,,,1,
+pofa,082,Attack Stance,Addition,2,1,1,,,,
+pofa,085,Cage of Mother Goose,Addition,2,1,,,,1,
+pofa,087,Defense Stance,Addition,2,1,,,1,,
+pofa,096,Mad Pyromancer,Resonator,2,,1,,,1,
+pofa,097,Magic Stance,Addition,2,1,,,1,,
+pofa,098,Magic Storing Golem,Resonator,2,,,1,1,,
+pofa,100,Necromancer,Resonator,3,,,,1,2,
+pofa,101,Nidhogg,Resonator,4,2,,,,2,
+pofa,111,The Final Stance,Addition,5,1,1,1,1,1,
+pofa,112,The Origins of the Seven Lands,Addition,5,1,1,1,1,1,
+pofa,114,Titania,Resonator,4,1,,,1,,2
+pofa,119,Ziz,Resonator,2,,,1,1,,
+edl,001,Disspelling Stone,Chant (Quickcast),1,1,,,,,
+edl,002,"Endless Starlight, the Star Sword",Chant (Quickcast),1,1,,,,,
+edl,003,Exorcist Mage at the Academy,Resonator,1,1,,,,,
+edl,004,"Flute, Captive Dragonoid Child//Group of Comets",Alternate,5,4,,,,,1
+edl,012,"Selmeria, Summoner of Spirits//Dance of Spirits",Alternate,4,4,,,,,
+edl,020,"Arle, the Seven-Tailed Fox//Arle's Flame",Alternate,3,,3,,,,
+edl,021,Burning Rabbit Dash,Chant,2,,2,,,,
+edl,023,Claw of the Dragonoid,Chant (Quickcast),1,,1,,,,
+edl,027,Groundsplitter Rabbit//Split Heaven and Earth,Alternate,3,,3,,,,
+edl,035,Shrine of the Dragonoids,Addition,1,,1,,,,
+edl,036,Spirit of Scorched Bales,Resonator,3,,3,,,,
+edl,038,Thunderwolf//Thunder,Alternate,4,,4,,,,
+edl,039,Academy Guard of Lykeion,Resonator,1,,,1,,,
+edl,041,"Chelina, Sorceress of Sending Back//Send Back",Alternate,2,,,2,,,
+edl,042,Crown of the Ancient King,Chant (Quickcast),2,,,2,,,
+edl,043,Endless Purse,Chant (Quickcast),1,,,1,,,
+edl,044,Insatiable Desire for Treasure,Chant (Quickcast),2,,,2,,,
+edl,045,Jewel of the Panda King,Chant (Quickcast),2,,,2,,,
+edl,046,"Kiki, Selesta's Partner//Kiki's Exploration",Alternate,2,,,2,,,
+edl,048,Mermaid's Thunder Parasol,Chant (Quickcast),1,,,1,,,
+edl,049,"Mirage, Fantasy Guide//Foresee",Alternate,4,,,4,,,
+edl,058,"Altesing, Mischevious Boy//A Glimpse of the Prodigy",Alternate,5,,,,5,,
+edl,059,Altesing's Secret Hideout,Addition,1,,,,1,,
+edl,061,Elixir's Love,Chant,2,,,,1,,1
+edl,062,"Lykeion, the Magic Academy",Addition,3,,,,3,,
+edl,063,Magic Crest of Wind,Addition,3,,,,1,,2
+edl,064,Magical Dragon,Resonator,5,,,,5,,
+edl,066,Monsterous Rush,Chant,2,,,,2,,
+edl,068,Spirit of Magic,Resonator,1,,,,1,,
+edl,069,Spirit of the Soil//Loamy Soil,Alternate,5,,,,3,,2
+edl,070,Stormy Sky,Chant,1,,,,1,,
+edl,075,Wind of the Star,Chant (Quickcast),2,,,,2,,
+edl,077,Abhorrent Revival,Chant,3,,,,,3,
+edl,078,Arm of the Demon,Chant (Quickcast),1,,,,,1,
+edl,079,Bone Dragon,Resonator,5,,,,,5,
+edl,083,Interdimensional Graveyard,Addition,1,,,,,1,
+edl,085,Lonely Vampire,Resonator,1,,,,,1,
+edl,092,The Elegant Mikage Sisters//Eternal Reccurence,Alternate,8,,,,,5,3
+edl,093,"The Hidden history ""Mikage""",Addition,1,,,,,1,
+edl,094,"Tsuiya, Cursed Spawn of the Star//Curse of Ragnarok",Alternate,3,,,,,3,
+edl,097,Epic Stone of the Blood,Special Magic Stone,0,,,,,,
+edl,098,Epic Stone of the Dragon,Special Magic Stone,0,,,,,,
+edl,099,Epic Stone of the Elements,Special Magic Stone,0,,,,,,
+edl,100,Epic Stone of the Star,Special Magic Stone,0,,,,,,
+edl,101,Epic Stone of the Treasure,Special Magic Stone,0,,,,,,
+msw,001,A Duet of Light,Chant,2,2,,,,,
+msw,004,Gathering of the Six Sages,Chant (Quickcast),1,1,,,,,
+msw,005,Guardian Wizard,Resonator,2,2,,,,,
+msw,007,Messenger From the Spirit Village,Resonator,2,1,,,,,1
+msw,008,Princess Kaguya//Flying Bamboo,Alternate,4,2,,,,,2
+msw,014,The Awakening of Almerius,Chant (Quickcast),2,2,,,,,
+msw,015,The Awakening of Zero,Chant (Quickcast),1,1,,,,,
+msw,016,The Beginning of a Fairy Tale,Chant (Quickcast),1,1,,,,,
+msw,019,A Duet of Fire,Chant,2,,2,,,,
+msw,020,Cane of the Salamander,Addition,1,,1,,,,
+msw,022,"Elfina, Spirit of Trials",Resonator,2,,2,,,,
+msw,029,Snow White of the Red Apple//Apple Avenger,Alternate,3,,3,,,,
+msw,032,The Awakening of Milest,Chant,1,,1,,,,X
+msw,034,A Duet of Water,Chant (Quickcast),3,,,2,,,1
+msw,035,"Cinderella, Freed from the Ashes//Rampaging Pumpkin Carriage",Alternate,5,,,4,,,1
+msw,036,Fairy Tale Rabbit,Resonator,1,,,1,,,
+msw,037,"Fiola, Spirit of Oblivion ",Resonator,2,,,2,,,
+msw,038,Fountain of the Oblivion Moon,Addition,4,,,2,,,2
+msw,039,Illusionary Flower of Sorrow,Addition,1,,,1,,,
+msw,040,Illusionary Mermaid,Resonator,1,,,1,,,
+msw,043,"Neverend, Fairy Tale Dragon",Resonator,1,,,1,,,
+msw,046,Spirit of Knowledge,Resonator,1,,,1,,,
+msw,047,The Awakening of Moojdart,Chant,2,,,2,,,
+msw,048,Three-Eyed Fortune Teller,Resonator,2,,,2,,,
+msw,049,A Blank Page,Addition,3,,,,2,,1
+msw,050,A Duet of Wind,Chant (Quickcast),4,,,,2,,2
+msw,051,An Ancestor's Portrait,Addition,2,,,,1,,1
+msw,055,"Little Red, Fairy Tale of Air//Wind of Gods",Alternate,2,,,,2,,
+msw,058,Magic Stone Devotee,Resonator,1,,,,1,,
+msw,059,"Scheherazade, Weaver of Fairy Tales",Resonator,3,,,,1,,2
+msw,060,The Awakening of Fiethsing,Chant ,1,,,,1,,X
+msw,062,The Release of the Fairy Tales,Chant,2,,,,1,,1
+msw,063,"Trish, Spirit of Autumn Wind",Resonator,3,,,,2,,1
+msw,064,"Welser, Master of the Six Sages//His Last Lecture",Alternate,3,,,,3,,
+msw,065,Wind Stone Shot,Chant (Quickcast),2,,,,1,,1
+msw,066,A Duet of Darkness,Chant,2,,,,,2,
+msw,067,A World Invaded,Chant,3,,,,,1,2
+msw,068,"Abdul Alhazred, Poet of Madness//Dark Pulse",Alternate,6,,,,,4,2
+msw,069,Assault from the Demonic World,Chant (Quickcast),1,,,,,1,
+msw,070,Awakening of the Magic Stones,Chant (Quickcast),1,,,,,1,
+msw,071,"Darksphere, Spirit of the Dark Night",Resonator,3,,,,,1,2
+msw,072,Extraction Wizard,Resonator,1,,,,,1,
+msw,074,Lilias Petal//Awakening of the Nine-Tailed Fox,Alternate,4,,,,,4,
+msw,076,Secluded Fox Village,Addition,1,,,,,1,
+msw,077,Sparkling Boon of the Magic Stones,Chant,3,,,,,1,2
+msw,079,Student at the Institute,Resonator,5,,,,,1,4
+msw,080,The Awakening of Grusbalesta,Chant (Quickcast),7,,,,,1,6
+msw,081,The Transformed,Resonator,1,,,,,1,
+msw,082,Ultra Magic Stone Golem,Resonator,9,,,,,1,8
+msw,084,"Azathoth, Manifestation of Death",Resonator,2,,,1,,1,
+msw,087,Magic Stone Research Institute,Addition,2,,,,1,1,
+msw,090,"Nyarlethotep, Bringer of War",Resonator,2,,1,,,1,
+msw,092,"Shub-Niggurath, Gatekeeper of Outer World",Resonator,2,,1,,,1,
+msw,094,Symphony of the Two Great Dragons,Chant,4,2,,2,,,
+msw,099,"Yog-Sothoth, True Hunger",Resonator,2,,1,1,,,
+msw,101,The Magic Stone of the Demonic World,Special Magic Stone,0,,,,,,
+msw,102,The Magic Stone of the Six Sages,Special Magic Stone,0,,,,,,
