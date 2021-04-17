@@ -1,0 +1,98 @@
+<div class="row">
+    <div class="column1" style="background-color:#aaa;">
+        <img [src]="image">
+    </div>
+    <div class="column2" style="background-color:#bbb;">
+        <table> <!-- style="width:50%" -->
+            <tr>
+                <th>Name:</th>
+                <td>{{ name }}</td>
+            </tr>
+            <br>
+            <tr>
+                <th>Type:</th>
+                <td>{{ type }}</td>
+            </tr>
+            <br>
+            <!-- <tr>
+                <th>Cost:</th>
+                <td>{{ cost }}</td>
+            </tr>
+            <br> -->
+            <tr>
+                <th>Atk / Def:</th>
+                <td>{{ attDef }}</td>
+            </tr>
+            <br>
+            <tr>
+                <th>Race:</th>
+                <td>{{ race }}</td>
+            </tr>
+            <br>
+            <!-- <tr>
+                <th>Attribute:</th>
+                <td>{{ attribute }}</td>
+            </tr>
+            <br> -->
+            <tr>
+                <th>Card Text:</th>
+                <td>{{ text }}</td>
+            </tr>
+            <br>
+            <tr>
+                <th>Flavor Text:</th>
+                <td>{{ flavorText }}</td>
+            </tr>
+            <br>
+            <tr>
+                <th>Set Number:</th>
+                <td>{{ number }}</td>
+            </tr>
+            <br>
+            <tr>
+                <th>Rarity:</th>
+                <td>{{ rarity }}</td>
+            </tr>
+            <br>
+            <tr>
+                <th>Expansion:</th>
+                <td>{{ expansion }}</td>
+            </tr>
+            <br>
+            <!-- <tr>
+                <th>Format:</th>
+                <td>{{ format }}</td>
+            </tr>
+            <br> -->
+        </table>
+    </div>
+</div>
+<br>
+<div>
+    <table> <!-- style="width:50%" -->
+        <tr>
+            <td>
+                <button (click)="prevCard()">Previous</button>
+            </td>
+            <td>
+                <button (click)="nextCard()">Next</button>
+            </td>
+        </tr>
+    </table>
+</div>
+<br>
+<div>
+    <table> <!-- style="width:50%" -->
+        <tr>
+            <td>
+                <p>Jump to: </p>
+            </td>
+            <td>
+                <input type="text" id="jump" value="">
+            </td>
+            <td>
+                <button (click)="jumpCard()" id="jumpButton">Jump</button>
+            </td>
+        </tr>
+    </table>
+</div>

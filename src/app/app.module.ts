@@ -5,14 +5,12 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-import { CardFetcherComponent } from './card-fetcher/card-fetcher.component';
-import { ImageDownloaderComponent } from './image-downloader/image-downloader.component';
+import { CardDetailsComponent } from './card-details/card-details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    CardFetcherComponent,
-    ImageDownloaderComponent
+    CardDetailsComponent
   ],
   imports: [
     BrowserModule,

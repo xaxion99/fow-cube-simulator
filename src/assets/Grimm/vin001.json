@@ -1,0 +1,1801 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/1581",
+   "name": "Abe no Seimei",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1581/image_en/1485246840.jpg",
+   "number": "VIN001-001",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Yin-Yang Master",
+   "artist": "Riv",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, you may rest target resonator.",
+   "flavor_text": "\"Seimei-chan, the magical diviner, takes the center stage!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1582",
+   "name": "Achilles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1582/image_en/1485246841.jpg",
+   "number": "VIN001-002",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Hero",
+   "artist": "T-TRACK",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\nBanish this card: Target resonator cannot be targeted by spells or abilities your opponent controls until end of turn.",
+   "flavor_text": "\"My... My legs are my only strong point, but… I-I'll try as hard as I can!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1583",
+   "name": "Breath of the God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1583/image_en/1485246843.jpg",
+   "number": "VIN001-003",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "douzen",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Dear Lord, do you think I am on the correct path this time?\" 〜Jeanne d'Arc, the Awakened Purifier",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1584",
+   "name": "Duet of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1584/image_en/1485246844.jpg",
+   "number": "VIN001-004",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "おつまみ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "“Zero, now that I blocked the enemy, finish it!” “Okay, leave it to me!” -Almerius, the Magus of Light and Zero, the Flashing Mage-Warrior",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1585",
+   "name": "Emperor Guangwu of Han",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1585/image_en/1485246845.jpg",
+   "number": "VIN001-005",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Emperor",
+   "artist": "ぽしー",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[W][rest]: Target resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "\"Having said that, I'm busy guarding the house.\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1586",
+   "name": "Hammurabi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1586/image_en/1485246846.jpg",
+   "number": "VIN001-006",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "King",
+   "artist": "ファルまろ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhenever a resonator deals damage to this card, this card deals that much damage to that resonator.",
+   "flavor_text": "\"Even if you get defeated, get up again! Fight twice as hard!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1587",
+   "name": "Hannibal Barca",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1587/image_en/1485246848.jpg",
+   "number": "VIN001-007",
+   "type": "Ruler",
+   "race": "General",
+   "artist": "ukyo_rst",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[2]: Target resonator gains [+0/+200] until end of turn.",
+   "flavor_text": "\"Sweet, it went as I expected. Hehe, no one can escape my perfect strategies!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1588",
+   "name": "Hannibal Barca(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1588/image_en/1485246849.jpg",
+   "number": "VIN001-007J",
+   "att_def": "800 / 800",
+   "type": "J-ruler",
+   "race": "General",
+   "artist": "ukyo_rst",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhenever this card attacks, you gain 200 life.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1589",
+   "name": "Jeanne d'Arc",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1589/image_en/1485246851.jpg",
+   "number": "VIN001-008",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Saint",
+   "artist": "藤真拓哉",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field, you gain life equal to its DEF.",
+   "flavor_text": "\"Come on, victory is ours already! Hip hip hurray!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1590",
+   "name": "Louis XIV",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1590/image_en/1485246852.jpg",
+   "number": "VIN001-009",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Emperor",
+   "artist": "鍋島テツヒロ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nOther light resonators you control gain [+200/+200].",
+   "flavor_text": "\"So you say I'm beautiful? Well, it's inevitable, really. It's a law of nature, just like the sun shining!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1591",
+   "name": "March of Saints",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1591/image_en/1485246853.jpg",
+   "number": "VIN001-010",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ひがし",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "A Commander's job is not to make plans or to fight. Their job is to motivate soldiers.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1592",
+   "name": "Pride of Knights",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1592/image_en/1485246855.jpg",
+   "number": "VIN001-011",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"I won't surrender!\" —Faria, the Sacred Queen",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1593",
+   "name": "Siegfried",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1593/image_en/1485246859.jpg",
+   "number": "VIN001-012",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Hero",
+   "artist": "T-TRACK",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"The percentage of victory is 50%. Master, overconfidence is unadvisable and will lead to death.\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1594",
+   "name": "Silver Stake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1594/image_en/1485246860.jpg",
+   "number": "VIN001-013",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "(Weapon)",
+   "artist": "Mがんぢー",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[W]: Return this card to its owner's hand.",
+   "flavor_text": "A human tool that will return the mortal agony once felt back unto vampires.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1595",
+   "name": "Tutankhamun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1595/image_en/1485246862.jpg",
+   "number": "VIN001-014",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Pharaoh",
+   "artist": "たかとうすずのすけ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field, draw a card.",
+   "flavor_text": "\"Anf, anf… I t-told you, I excel at brainwork! Fighting is out of my league! You idiot!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1596",
+   "name": "Xuanzang Sanzang",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1596/image_en/1485246863.jpg",
+   "number": "VIN001-015",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 700",
+   "type": "Resonator",
+   "race": "Priest",
+   "artist": "ぱんつもりこ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"I don't wanna! I don't wanna! I can't fight for good… Nnngh... What has become of my peaceful life?",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1597",
+   "name": "Alexander",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1597/image_en/1485246864.jpg",
+   "number": "VIN001-016",
+   "type": "Ruler",
+   "race": "King",
+   "artist": "藤真拓哉",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[2]: This card deals 200 damage to target resonator.",
+   "flavor_text": "\"Listen, a king must be someone who is both smart and brave. Basically, someone like me!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1598",
+   "name": "Alexander(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1598/image_en/1485246867.jpg",
+   "number": "VIN001-016J",
+   "att_def": "1000 / 700",
+   "type": "J-ruler",
+   "race": "King",
+   "artist": "藤真拓哉",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhenever this card attacks, target fire resonator you control gains [First Strike] and [Swiftness] until end of turn.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1599",
+   "name": "Banzai Attack",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1599/image_en/1485246868.jpg",
+   "number": "VIN001-017",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "羊箱",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1600",
+   "name": "Calamity Jane",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1600/image_en/1485246869.jpg",
+   "number": "VIN001-018",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Musketeer",
+   "artist": "ぱんつもりこ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: This card deals 200 damage to target player or resonator.",
+   "flavor_text": "\"These trifling details are of no interest to me, so just get shot already...\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1601",
+   "name": "Crime and Punishment",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1601/image_en/1485246871.jpg",
+   "number": "VIN001-019",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "fzwrAym",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "Even if blood is washed from the hands, sins will not be washed away.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1602",
+   "name": "King Ashoka",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1602/image_en/1485246873.jpg",
+   "number": "VIN001-020",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "King",
+   "artist": "鍋島テツヒロ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"I don't understand that much, but can I punch it in the meantime?\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1603",
+   "name": "Kleitos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1603/image_en/1485246874.jpg",
+   "number": "VIN001-021",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Warlord",
+   "artist": "ビスケ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, it deals 400 damage to target resonator.",
+   "flavor_text": "\"Hey, everyone, sorry it took me so long!\nNow come on, let's climax from the start!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1604",
+   "name": "Kusanagi Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1604/image_en/1485246875.jpg",
+   "number": "VIN001-022",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "gozz",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nIf added resonator would deal damage, it deals that much + 200 instead.",
+   "flavor_text": "The ninth disaster, or a hope to stop all others?",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1605",
+   "name": "Lu Bu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1605/image_en/1485246878.jpg",
+   "number": "VIN001-023",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Warlord",
+   "artist": "まめでんきゅう",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nAs long as you don't control other resonators, this card gains [+500/+500].",
+   "flavor_text": "\"Huh, that's boring, so I'll pass. It's not like I really bother about that.\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1606",
+   "name": "Musashi Miyamoto",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1606/image_en/1485246879.jpg",
+   "number": "VIN001-024",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 600",
+   "type": "Resonator",
+   "race": "Swordsman",
+   "artist": "Yae",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"What are you saying? Of course fighting with two swords is better than just using one!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1607",
+   "name": "Pachacuti",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1607/image_en/1485246880.jpg",
+   "number": "VIN001-025",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 200",
+   "type": "Resonator",
+   "race": "Emperor",
+   "artist": "結城リカ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"H-hey, don't pet my head! Pachacu is a respectable adult! An a-d-u-l-t, okay?!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1608",
+   "name": "Rapid Decay",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1608/image_en/1485246881.jpg",
+   "number": "VIN001-026",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "佐々木光之介",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Sudden evolution can be the same as degradation. Oh well- evolve until you die!\" 〜Little Dread, the Fake Red Moon",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1609",
+   "name": "Saladin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1609/image_en/1485246884.jpg",
+   "number": "VIN001-027",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "General",
+   "artist": "Nidy",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhenever this card attacks, it gains [+300/+0] until end of turn.",
+   "flavor_text": "\"Yeah, I'll make you a promise. I'll lead you to victory at all costs.\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1610",
+   "name": "Sun Tzu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1610/image_en/1485246886.jpg",
+   "number": "VIN001-028",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Strategist",
+   "artist": "結城リカ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Target resonator gains [Swiftness] until end of turn.",
+   "flavor_text": "\"Why are you saying such thoughtless words, big brother? Enemies must be deceived! You've got to be on your guard, okay?!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1611",
+   "name": "Thunder",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1611/image_en/1485246888.jpg",
+   "number": "VIN001-029",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagiにゃん",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "A dazzling flash of light can sometimes change the outcome of war.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1612",
+   "name": "William Wallace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1612/image_en/1485246889.jpg",
+   "number": "VIN001-030",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 500",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "岸和田ロビン",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nThis card cannot be blocked by resonators with ATK 600 or less.",
+   "flavor_text": "\"Are you fighting?! Is it my turn?! Is it okay if I beat someone up?!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1613",
+   "name": "Aqua Magic -Tempest-",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1613/image_en/1485246890.jpg",
+   "number": "VIN001-031",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "原田みどり",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1614",
+   "name": "Captain Cook",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1614/image_en/1485246891.jpg",
+   "number": "VIN001-032",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Captain",
+   "artist": "萩原",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhenever this card deals damage to your opponent, draw a card.",
+   "flavor_text": "\"If you are aiming for the world's end, you cannot lose your heart for something like this!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1615",
+   "name": "Columbus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1615/image_en/1485246893.jpg",
+   "number": "VIN001-033",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Explorer",
+   "artist": "ぽしー",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Look at the top card of your deck. You may put it on the bottom of your deck.",
+   "flavor_text": "\"Making this egg stand upright? That's an easy victory. Just look, ahahah... If I use some glue, it will be a breeze!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1616",
+   "name": "Hanzo Hattori",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1616/image_en/1485246897.jpg",
+   "number": "VIN001-034",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Ninja",
+   "artist": "ミユキルリア",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, draw a card.",
+   "flavor_text": "\"The idea of serving you gives me the highest pleasure (t-that sounds kind of perverted).\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1617",
+   "name": "Julius Caesar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1617/image_en/1485246900.jpg",
+   "number": "VIN001-035",
+   "type": "Ruler",
+   "race": "General",
+   "artist": "岸和田ロビン",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[2]: Target resonator gains [Flying] until end of turn.",
+   "flavor_text": "\"Don't call me baldie! It's just that I have a big forehead, okay? Otherwise I'll headbutt you!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1618",
+   "name": "Julius Caesar(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1618/image_en/1485246901.jpg",
+   "number": "VIN001-035J",
+   "att_def": "800 / 1000",
+   "type": "J-ruler",
+   "race": "General",
+   "artist": "岸和田ロビン",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\nDiscard a card: Target water resonator gains [Flying] until end of turn.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1619",
+   "name": "Marco Polo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1619/image_en/1485246903.jpg",
+   "number": "VIN001-036",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Explorer",
+   "artist": "BUZZ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Mufufufu... This is quite a lot! Now it's even more profitable!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1620",
+   "name": "Napoleon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1620/image_en/1485246904.jpg",
+   "number": "VIN001-037",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Emperor",
+   "artist": "藤真拓哉",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nResonators you control with [Flying] gain [+200/+200].",
+   "flavor_text": "\"This battle is over already. Now struggle as much as you can...\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1621",
+   "name": "Paracelsus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1621/image_en/1485246905.jpg",
+   "number": "VIN001-038",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Alchemist",
+   "artist": "鍋島テツヒロ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, draw a card.",
+   "flavor_text": "\"I'm not that interested in real guys. Beautiful homunculus boys, that's the kind of Arcadia I aim at!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1622",
+   "name": "Dreams of Wonderland",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1622/image_en/1485246907.jpg",
+   "number": "VIN001-039",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ケルビン",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"What I see and what you see are two completely different things. That is the mystery of this world.\" 〜Alice in Wonderland",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1623",
+   "name": "Glimpse of Kaguya",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1623/image_en/1485246908.jpg",
+   "number": "VIN001-040",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ハタリス",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"There!\" - Kaguya, the Immortal Princess",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1624",
+   "name": "Soji Okita",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1624/image_en/1485246909.jpg",
+   "number": "VIN001-041",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator",
+   "race": "Swordsman",
+   "artist": "パセリ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[U]: This card gains [Flying] until end of turn.",
+   "flavor_text": "\"Senpai!! You should do a raid with Soji today, for the sake of justice!!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1625",
+   "name": "Tai Gong Wang",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1625/image_en/1485246911.jpg",
+   "number": "VIN001-042",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Strategist",
+   "artist": "戦友",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Tsk... Leave it to me. No game exists that Tai Gong Wang cannot beat!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1626",
+   "name": "Vainamoinen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1626/image_en/1485246912.jpg",
+   "number": "VIN001-043",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Sage",
+   "artist": "かぼちゃ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Vaina will sing until her voice falters, so please, let you all burn the flame in your hearts (for Vaina's sake)!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1627",
+   "name": "Whirlpool of Knowledge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1627/image_en/1485246913.jpg",
+   "number": "VIN001-044",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "城戸春一",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "The world holds many expressions.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1628",
+   "name": "Witch's Dagger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1628/image_en/1485246915.jpg",
+   "number": "VIN001-045",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "長崎祐子",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nAdded resonator gains \"[U][U][2] [rest]: Destroy target rested resonator.\" and \"[rest] banish this resonator: Draw three cards.\"",
+   "flavor_text": "A choice between two things.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1629",
+   "name": "Archimedes",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1629/image_en/1485246917.jpg",
+   "number": "VIN001-046",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Philosopher",
+   "artist": "T-TRACK",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhenever a magic stone is put into your field, this card gains [+200/+200] until end of turn.",
+   "flavor_text": "\"Archimedes's calculations are perfect! Now let's power it up, EUREKA!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1630",
+   "name": "Art of Sinbad",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1630/image_en/1485246919.jpg",
+   "number": "VIN001-047",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "touge369",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Hey you, wait up!\" - Sinbad, the Windrider Merchant",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1631",
+   "name": "Attila",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1631/image_en/1485246920.jpg",
+   "number": "VIN001-048",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "King",
+   "artist": "黒獅子",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, target resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "\"Violence suits me well. Getting everything I want even through sheer force, that's how I rule!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1632",
+   "name": "D'Artagnan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1632/image_en/1485246921.jpg",
+   "number": "VIN001-049",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Count",
+   "artist": "萩原",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Munch, munch... Wow! This rice is delicious, I'm so happy!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1633",
+   "name": "Darwin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1633/image_en/1485246922.jpg",
+   "number": "VIN001-050",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Scientist",
+   "artist": "岸和田ロビン",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nWind resonators you control gain [+400/+400] as long as you control six or more magic stones.",
+   "flavor_text": "\"Good gracious, it is indeed worth to observe this. This certainly is the very gift of evolution!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1634",
+   "name": "Evolution of Limits",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1634/image_en/1485246924.jpg",
+   "number": "VIN001-051",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "douzen",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Guys! Lend me your strength!\" 〜Little Red, the True Fairy Tale",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1635",
+   "name": "Genghis Khan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1635/image_en/1485246925.jpg",
+   "number": "VIN001-052",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "King",
+   "artist": "藤真拓哉",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, recover target magic stone you control.",
+   "flavor_text": "\"Come on, guys, let's act quickly! If we lose, I'll punish you!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1636",
+   "name": "Geronimo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1636/image_en/1485246926.jpg",
+   "number": "VIN001-053",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Shaman",
+   "artist": "啓々",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nThis card cannot be targeted by spells or abilities your opponent controls.",
+   "flavor_text": "\"Fuaaaaah... I'm super tired after this battle! I think I'll take a nap now.\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1637",
+   "name": "Law of Silence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1637/image_en/1485246929.jpg",
+   "number": "VIN001-054",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七海ルシア",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "These laws help keep the land in peace and tranquility.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1638",
+   "name": "Minamoto no Yoshitsune",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1638/image_en/1485246931.jpg",
+   "number": "VIN001-055",
+   "type": "Ruler",
+   "race": "Warlord",
+   "artist": "ぱんつもりこ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[2]: Target resonator gains [+200/+0] until end of turn.",
+   "flavor_text": "\"Secret technique of the eight boats leap, 'Octa Drive'! Everyone who witnessed this ability of mine is now dead!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1639",
+   "name": "Minamoto no Yoshitsune(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1639/image_en/1485246932.jpg",
+   "number": "VIN001-055J",
+   "att_def": "1000 / 1000",
+   "type": "J-ruler",
+   "race": "Warlord",
+   "artist": "ぱんつもりこ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[G][G]: This card gains [+200/+200] until end of turn.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1640",
+   "name": "Pyotr I",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1640/image_en/1485246933.jpg",
+   "number": "VIN001-056",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Emperor",
+   "artist": "がおう",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, return target resonator to its owner's hand.",
+   "flavor_text": "\"My enemies are one, two, three... Gaaah! Who cares! I'll beat all of them anyway!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1641",
+   "name": "Silver Shoes",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1641/image_en/1485246936.jpg",
+   "number": "VIN001-057",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "白野椋",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nAdded resonator gains [+300/+300].",
+   "flavor_text": "\"Nice shoes, I wish to wear them for the next fight, although I'd rather be wearing them to a ball.\" 〜Lumia, the Creator of Hope",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1642",
+   "name": "Timur",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1642/image_en/1485246937.jpg",
+   "number": "VIN001-058",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 1000",
+   "type": "Resonator",
+   "race": "King",
+   "artist": "ぱんつもりこ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"In all things, a solid foundation is very important! You need to create a steady life project!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1643",
+   "name": "William Tell",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1643/image_en/1485246939.jpg",
+   "number": "VIN001-059",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Hero",
+   "artist": "mamuru",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Are you a bad person? Or a good person? 'cause if you are a bad person, I'll shoot you!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1644",
+   "name": "Wind of Gods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1644/image_en/1485246941.jpg",
+   "number": "VIN001-060",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "狛蜜ザキ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "Can't you hear the voice of the wind? Now I'll make you hear it.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1645",
+   "name": "Binding Chain",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1645/image_en/1485246943.jpg",
+   "number": "VIN001-061",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "竜風",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1646",
+   "name": "Dante",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1646/image_en/1485246944.jpg",
+   "number": "VIN001-062",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 800",
+   "type": "Resonator",
+   "race": "Poet",
+   "artist": "T-TRACK",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Go to Hell! Listen to my verses!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1647",
+   "name": "Demon's Curse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1647/image_en/1485246946.jpg",
+   "number": "VIN001-063",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "白野椋",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen added resonator is put into a graveyard from a field ⇒ This card deals 500 damage to that resonator's controller.",
+   "flavor_text": "This curse is a pain close to pleasure.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1648",
+   "name": "Edward, the Black Prince",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1648/image_en/1485246947.jpg",
+   "number": "VIN001-064",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Prince",
+   "artist": "Riv",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, you lose 500 life.",
+   "flavor_text": "\"A - ny - wa - y, I hate men, okay? If you get that, could you please stay the hell away from me?\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1649",
+   "name": "Faust",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1649/image_en/1485246948.jpg",
+   "number": "VIN001-065",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Alchemist",
+   "artist": "人丸",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[B][B]: This card gains [+600/+600] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "\"M-mr. Mephistopheles, what should we do?\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1650",
+   "name": "Michizane Sugawara",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1650/image_en/1485246950.jpg",
+   "number": "VIN001-066",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Yin-Yang Master",
+   "artist": "ぽしー",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhenever this card deals damage, you gain that much life.",
+   "flavor_text": "\"If there's something troubling you, feel free to call your teacher anytime. I'll always lend you my knowledge!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1651",
+   "name": "Mozart",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1651/image_en/1485246953.jpg",
+   "number": "VIN001-067",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Composer",
+   "artist": "人丸",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field, your opponent banishes a resonator.",
+   "flavor_text": "\"Would you show me your bare buttocks? I'm sure they will give me some inspiration.\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1652",
+   "name": "Nobunaga Oda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1652/image_en/1485246955.jpg",
+   "number": "VIN001-068",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Archenemy",
+   "artist": "藤真拓哉",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nNon-darkness resonators gain [-200/-200].",
+   "flavor_text": "\"Bwahahahahaha! I'll tear both my enemies and my allies apart!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1653",
+   "name": "Nostradamus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1653/image_en/1485246957.jpg",
+   "number": "VIN001-069",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Prophet",
+   "artist": "たん",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, search your deck for a card. Then shuffle the rest of your deck and put that card on top of it.",
+   "flavor_text": "\"I had a vision! Today you... yeah, you won't die.\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1654",
+   "name": "Rasputin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1654/image_en/1485246958.jpg",
+   "number": "VIN001-070",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "鍋島テツヒロ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field, you may pay 200 life. If you do, put it into its owner's hand.",
+   "flavor_text": "\"Hohohohoho! Does it hurt? Is it painful? Come on, admit that you like it!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1655",
+   "name": "Ritual of Millennia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1655/image_en/1485246960.jpg",
+   "number": "VIN001-071",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "小泉哲哉",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Stay alive, you must keep fighting. This is a millenary ritual.\" -Kaguya, the Tale of the Bamboo Cutter",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1656",
+   "name": "Solomon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1656/image_en/1485246961.jpg",
+   "number": "VIN001-072",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "King",
+   "artist": "煎茶",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nAs long as your life is 2000 or less, this card gains [+200/+200].",
+   "flavor_text": "\"You should entertain me as much as you can, boy. And if you do, maybe I'll even lend you a hand.\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1657",
+   "name": "Stoning to Death",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1657/image_en/1485246963.jpg",
+   "number": "VIN001-073",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Fushikaden K.K.",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "flavor_text": "\"Death is just one form. A complete death is the destruction of your entirety.\" 〜Abdul Alhazred, the Harbinger of Despair",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1658",
+   "name": "Tunnel Vision",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1658/image_en/1485246966.jpg",
+   "number": "VIN001-074",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "路真行方",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1659",
+   "name": "Vlad Tepes",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1659/image_en/1485246968.jpg",
+   "number": "VIN001-075",
+   "type": "Ruler",
+   "race": "Vampire",
+   "artist": "鍋島テツヒロ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[2]: This card deals 200 damage to target opponent. You gain 200 life.",
+   "flavor_text": "\"What's wrong? Even though I'm quite tall, I won't look down on you! It's just that I drink milk every day!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1660",
+   "name": "Vlad Tepes(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1660/image_en/1485246969.jpg",
+   "number": "VIN001-075J",
+   "att_def": "800 / 1000",
+   "type": "J-ruler",
+   "race": "Vampire",
+   "artist": "鍋島テツヒロ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[B][2], banish a darkness resonator: This card gains [Imperishable] until end of turn.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1661",
+   "name": "Leonardo da Vinci",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1661/image_en/1485246970.jpg",
+   "number": "VIN001-076",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Artist",
+   "artist": "Prime",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[1]: Choose an attribute. This card becomes the chosen attribute until end of turn.",
+   "flavor_text": "\"A little while ago I came up with this very good idea... Speaking of which, would you mind being the subject for my experiment?\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1662",
+   "name": "Ryoma Sakamoto",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1662/image_en/1485246971.jpg",
+   "number": "VIN001-077",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Musketeer",
+   "artist": "人丸",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[1]: Produce one will of any attribute.",
+   "flavor_text": "\"C-come on, let's not fight! We should all be friends, and be like 'love and peace'!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1663",
+   "name": "Shakespeare",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1663/image_en/1485246973.jpg",
+   "number": "VIN001-078",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Poet",
+   "artist": "戦友",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Automatic\nWhen this card enters your field, look at the top card of your magic stone deck. If you don't control a magic stone with the same name as that card, you may put it into your field.",
+   "flavor_text": "\"Don't worry, your pitiable existence will become my sustenance. So feel free to fall down whenever you're ready, ahahah!\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1664",
+   "name": "Socrates",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1664/image_en/1485246975.jpg",
+   "number": "VIN001-079",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Philosopher",
+   "artist": "cuboon",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Continuous\nThis card gains [+200/+200] for each different attribute among cards you control.",
+   "flavor_text": "\"Socrates once said: 'Eat to live, don't live to eat'.\"",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1665",
+   "name": "Magic Stone of Black Silence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1665/image_en/1485246979.jpg",
+   "number": "VIN001-080",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [G] or [B].",
+   "flavor_text": "A darkness cast from the absence of light; A tranquility devoid of all sound.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1666",
+   "name": "Magic Stone of Blasting Waves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1666/image_en/1485246980.jpg",
+   "number": "VIN001-081",
+   "type": "Special Magic Stone",
+   "artist": "サウマロ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1667",
+   "name": "Magic Stone of Dark Depth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1667/image_en/1485246981.jpg",
+   "number": "VIN001-082",
+   "type": "Special Magic Stone",
+   "artist": "夕子",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "flavor_text": "Movements within the dark and murky depths.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1668",
+   "name": "Magic Stone of Deep Wood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1668/image_en/1485246983.jpg",
+   "number": "VIN001-083",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [G] or [U].",
+   "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1669",
+   "name": "Magic Stone of Gusting Skies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1669/image_en/1485246985.jpg",
+   "number": "VIN001-084",
+   "type": "Special Magic Stone",
+   "artist": "アサヒナ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [W] or [G].",
+   "flavor_text": "A momentary shine that reflects in the sky.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1670",
+   "name": "Magic Stone of Hearth's Core",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1670/image_en/1485246987.jpg",
+   "number": "VIN001-085",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [R] or [U].",
+   "flavor_text": "A passion like burning flames; A presence as cold as ice.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1671",
+   "name": "Magic Stone of Heat Ray",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1671/image_en/1485246989.jpg",
+   "number": "VIN001-086",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [W] or [R].",
+   "flavor_text": "A piercing gleam of blinding light; An incandescent glow that cannot be touched.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1672",
+   "name": "Magic Stone of Heaven's Rift",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1672/image_en/1485246990.jpg",
+   "number": "VIN001-087",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1673",
+   "name": "Magic Stone of Light Vapors",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1673/image_en/1485246992.jpg",
+   "number": "VIN001-088",
+   "type": "Special Magic Stone",
+   "artist": "河北亜希",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [W] or [U].",
+   "flavor_text": "The shining paths that branch from the crossroad.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1674",
+   "name": "Magic Stone of Scorched Bales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1674/image_en/1485246993.jpg",
+   "number": "VIN001-089",
+   "type": "Special Magic Stone",
+   "artist": "tokiwa",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [B] or [R].",
+   "flavor_text": "Hidden within the night, the burning spiral of seeds.",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1675",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1675/image_en/1485246995.jpg",
+   "number": "VIN001-090",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1676",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1676/image_en/1485246996.jpg",
+   "number": "VIN001-091",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1677",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1677/image_en/1485246998.jpg",
+   "number": "VIN001-092",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1678",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1678/image_en/1485246999.jpg",
+   "number": "VIN001-093",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Vingolf \"Engage Knights\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1679",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/1679/image_en/1485247002.jpg",
+   "number": "VIN001-094",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Vingolf \"Engage Knights\"",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Vingolf \"Engage Knights\""
+  }
+ ]
+}

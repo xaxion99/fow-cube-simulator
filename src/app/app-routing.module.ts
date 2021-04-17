@@ -1,12 +1,9 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { CardFetcherComponent } from './card-fetcher/card-fetcher.component';
-import { ImageDownloaderComponent } from './image-downloader/image-downloader.component';
-
+import { CardDetailsComponent } from './card-details/card-details.component';
 
 const routes: Routes = [
-  { path: 'card-fetcher', component: CardFetcherComponent},
-  { path: 'image-downloader', component: ImageDownloaderComponent}
+  { path: '', component: CardDetailsComponent}
 ];
 
 @NgModule({

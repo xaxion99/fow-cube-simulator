@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ImageDownloaderComponent } from './image-downloader.component';
+import { CardDetailsComponent } from './card-details.component';
 
-describe('ImageDownloaderComponent', () => {
-  let component: ImageDownloaderComponent;
-  let fixture: ComponentFixture<ImageDownloaderComponent>;
+describe('CardDetailsComponent', () => {
+  let component: CardDetailsComponent;
+  let fixture: ComponentFixture<CardDetailsComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ ImageDownloaderComponent ]
+      declarations: [ CardDetailsComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(ImageDownloaderComponent);
+    fixture = TestBed.createComponent(CardDetailsComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

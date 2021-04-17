@@ -1,0 +1,2200 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/1311",
+   "name": "Breath of the God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1311/image_en/1485243373.jpg",
+   "number": "TAT-001",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "douzen",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"Dear Lord, do you think I am on the correct path this time?\" 〜Jeanne d'Arc, the Awakened Purifier",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1312",
+   "name": "Caterina, the Saint of Fantasy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1312/image_en/1485243374.jpg",
+   "number": "TAT-002",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fantasy/Saint",
+   "artist": "gekko",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nOther resonators you control gain [+100/+100].",
+   "flavor_text": "Jeanne's fantasy is within her mind. Her current mind holds a deep compassion for humans.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1313",
+   "name": "Don Quijote, the Wandering Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1313/image_en/1485243375.jpg",
+   "number": "TAT-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Knight/Human",
+   "artist": "るみえ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "His misunderstanding has caused magic stones to grow out of control. He believes himself a valiant knight, with common folk as his invincible soldiers.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1314",
+   "name": "Grimm, the Avenger of Fairy Tales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1314/image_en/1485243376.jpg",
+   "number": "TAT-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "城戸春一",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\n[Enter] Choose target resonator. Remove it from the game if it's darkness. Otherwise, it gains [+200/+200] until end of turn. [Awakening [W]]：[Enter] If your J/ruler is \"Sacred Princess of Guidance\" or \"Lumia, the Creator of Hope\", J/resonators your opponent controls lose all abilities until end of turn.",
+   "flavor_text": "The book \"Fairy Tale of the Red Moon\" notes a story about Prince Grimms's valiant fight against the dark.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1315",
+   "name": "Guardian of Tower",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1315/image_en/1485243378.jpg",
+   "number": "TAT-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator",
+   "race": "Ancient/Human",
+   "artist": "見田航介",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nIf you control a Tower, this card gains [+0/+600].",
+   "flavor_text": "\"All the keys are here. Please, come in.\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1316",
+   "name": "Jeanne d'Arc, the Awakening Purity",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1316/image_en/1485243778.jpg",
+   "number": "TAT-006",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Saint/Human",
+   "artist": "長崎祐子",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nEach turn, prevent the first damage that would be dealt to a Fantasy or Human J/resonator you control.",
+   "flavor_text": "When Jeanne holds her sword up high, all are lost in admiration, and morale will rise.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1317",
+   "name": "Jump to the Sky",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1317/image_en/1485243783.jpg",
+   "number": "TAT-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"What is this light...!?\" 〜Lumia, the Creator of Hope",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1318",
+   "name": "Light of Lumia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1318/image_en/1485243785.jpg",
+   "number": "TAT-008",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "下江クリス",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "The light will cast the dark away.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1319",
+   "name": "Longinus, the Holy Lance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1319/image_en/1485243786.jpg",
+   "number": "TAT-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "Relic/Treasury Item",
+   "artist": "Mz.縞",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nAdded resonator gains [+500/+500], cannot be targeted by darkness spells or darkness card's abilities and prevent all damage that would be dealt to it by darkness cards.",
+   "flavor_text": "That is a spear, and a fortune-teller's key.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1320",
+   "name": "Lumiel, the Tower of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1320/image_en/1485243788.jpg",
+   "number": "TAT-010",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Tower",
+   "artist": "Cola",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ Put hope counters equal to the number of resonators you control on this card. Then, if there are ten or more hope counters on this card, banish it and destroy all resonators and additions your opponent controls.",
+   "flavor_text": "This tower grows to the heavens, as if blessed by God.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1321",
+   "name": "March of Saints",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1321/image_en/1485243789.jpg",
+   "number": "TAT-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ひがし",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "A Commander's job is not to make plans or to fight. Their job is to motivate soldiers.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1322",
+   "name": "Pure Spirit of Fantasy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1322/image_en/1485243791.jpg",
+   "number": "TAT-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fantasy",
+   "artist": "古城ばんび",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "Jeanne was released from her demons by Lumia, and embraced her awakened purity.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1323",
+   "name": "Realm of Pure Spirits",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1323/image_en/1485243794.jpg",
+   "number": "TAT-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "今野隼史",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nRecovered resonators you control cannot be targeted by spells or abilities your opponent controls.",
+   "flavor_text": "\"Pure ideals are impossible to destroy.\" 〜Jeanne d'Arc, the Awakened Purifier",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1324",
+   "name": "Sacred Princess of Guidance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1324/image_en/1485243797.jpg",
+   "number": "TAT-014",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Princess",
+   "artist": "下江クリス",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n(Rest): You gain 300 life.",
+   "flavor_text": "Such determination for one so small.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1325",
+   "name": "Lumia, the Creator of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1325/image_en/1485243798.jpg",
+   "number": "TAT-014J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Savior/Human",
+   "artist": "下江クリス",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[0]: If there are no cards in your removed area, remove the top three cards of your deck from the game face down. You may look at them at any time.",
+   "flavor_text": "True hope is a power that can always begin anew. She casts hope where all seems lost.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1326",
+   "name": "Sacred Scepter of Exorcism",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1326/image_en/1485243800.jpg",
+   "number": "TAT-015",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "Weapon",
+   "artist": "Lunallena",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nAdded resonator gains \"[rest]: Rest target resonator. If it's a Demon, it cannot be recovered as long as this card is in a field. \"",
+   "flavor_text": "Holy powers can put evil under control, but never forget the price for these summons.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1327",
+   "name": "Seeking Sky Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1327/image_en/1485243801.jpg",
+   "number": "TAT-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Soldier/Human",
+   "artist": "Nagiにゃん",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\n[Enter] You may look at the top card of your opponent's deck.",
+   "flavor_text": "A strong scout will understand a threat and know where to fight it. They'll know if it becomes too dangerous.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1328",
+   "name": "Sleeping Beauty",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1328/image_en/1485243803.jpg",
+   "number": "TAT-017",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "0 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "碧風羽",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[1] (Rest): Resonators you control gain [+200/+200] as long as this card is rested.",
+   "flavor_text": "\"This baby's sleeping face looks as though she could sleep for one hundred years more.\" 〜Sacred Princess of Guidance",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1329",
+   "name": "The Queen's Butler",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1329/image_en/1485243805.jpg",
+   "number": "TAT-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Butler/Human",
+   "artist": "佐々木光之介",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nYour J/ruler cannot be targeted by spells or abilities your opponent controls.",
+   "flavor_text": "\"The land held festivals when the Queen gave birth to twins. Princess Lumia was harder to care for than Prince Grimm, but we still took our time with both of them.\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1330",
+   "name": "Beowulf, the Blazing Wolf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1330/image_en/1485243805.jpg",
+   "number": "TAT-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 500",
+   "type": "Resonator",
+   "race": "Nightmare/WereWolf",
+   "artist": "石商",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nIf this card would deal damage to your opponent or to a resonator, it deals double that much instead.",
+   "flavor_text": "The hero who obeyed Little Red Riding Hood decides to bare his teeth.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1331",
+   "name": "Big-Bang Revolution",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1331/image_en/1485243809.jpg",
+   "number": "TAT-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "佐々木光之介",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "Destruction can lead to growth.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1332",
+   "name": "Card Soldier \"Diamond\"",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1332/image_en/1485243810.jpg",
+   "number": "TAT-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Card Soldier",
+   "artist": "みえ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 200 damage to target resonator.",
+   "flavor_text": "A diamond is obstinate and direct.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1333",
+   "name": "Card Soldier \"Heart\"",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1333/image_en/1485243812.jpg",
+   "number": "TAT-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 700",
+   "type": "Resonator",
+   "race": "Card Soldier",
+   "artist": "みえ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nIf damage would be dealt to a \"Queen of Hearts\" you control, it's dealt to this card instead.",
+   "flavor_text": "A heart is a dreamer and passionate.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1334",
+   "name": "Dragon King's Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1334/image_en/1485244013.jpg",
+   "number": "TAT-023",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "森野ヒロ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "This fire could burn even normal fire.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1335",
+   "name": "Duel of Truth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1335/image_en/1485244036.jpg",
+   "number": "TAT-024",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "見田航介",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "The \"real\" fight took three days. And now...",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1336",
+   "name": "Endless War",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1336/image_en/1485244037.jpg",
+   "number": "TAT-025",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Mad",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nResonators must attack if able.",
+   "flavor_text": "When all the soldiers are finally destroyed, this endless fight shall finish.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1337",
+   "name": "Falltgold, the Dragoon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1337/image_en/1485244038.jpg",
+   "number": "TAT-026",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Knight",
+   "artist": "kakotomirai",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Search your deck for a Dragon resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Strong ones, fight with me!\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1338",
+   "name": "Bahamut, the Dragon King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1338/image_en/1485244039.jpg",
+   "number": "TAT-026J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Dragon",
+   "artist": "kakotomirai",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\nBanish a fire resonator: This card gains [Imperishable] until end of turn.",
+   "flavor_text": "Many dragons write down their terrifying experiences for future generations. However Bahamut will not partake in this tradition.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1339",
+   "name": "Forced Growth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1339/image_en/1485244041.jpg",
+   "number": "TAT-027",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "douzen",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nAdded resonator gains [+400/-400].",
+   "flavor_text": "Heightened growth has its side effects.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1340",
+   "name": "Fthaggua, the Flame Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1340/image_en/1485244043.jpg",
+   "number": "TAT-028",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Flame Spirit/Cthulhu",
+   "artist": "Moopic",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nThis card gains [+200/+200] for each spell card in your graveyard.",
+   "flavor_text": "Alice had seen many worlds but never saw animals like these before.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1341",
+   "name": "Gliding Dragon Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1341/image_en/1485244045.jpg",
+   "number": "TAT-029",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 800",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "Mz.縞",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[R]: This card gains [+100/+0] until end of turn.",
+   "flavor_text": "They are controlled by strong emotions, like fear and despair.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1342",
+   "name": "Kusanagi Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1342/image_en/1485244047.jpg",
+   "number": "TAT-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "gozz",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nIf added resonator would deal damage, it deals that much + 200 instead.",
+   "flavor_text": "The ninth disaster, or a hope to stop all others?",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1343",
+   "name": "Little Dread, the Fake Red Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1343/image_en/1485244048.jpg",
+   "number": "TAT-031",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Nightmare",
+   "artist": "Azusa",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"Did you find one out? There are still 799 lies left.\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1344",
+   "name": "Rapid Decay",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1344/image_en/1485244049.jpg",
+   "number": "TAT-032",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "佐々木光之介",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"Sudden evolution can be the same as degradation. Oh well- evolve until you die!\" 〜Little Dread, the Fake Red Moon",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1345",
+   "name": "Realm of the Dragon King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1345/image_en/1485244051.jpg",
+   "number": "TAT-033",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "ORETO",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhenever a non-Dragon resonator enters a field ⇒ This card deals 500 damage to it. If you control \"Bahamut, the Dragon King\", this card deals 800 damage instead.",
+   "flavor_text": "The weak cannot survive in the Dragon King's domain.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1346",
+   "name": "Redbird of Omen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1346/image_en/1485244053.jpg",
+   "number": "TAT-034",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 700",
+   "type": "Resonator",
+   "race": "Bird",
+   "artist": "サウマロ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nAt the end of your turn ⇒ Put an omen counter on this card.",
+   "flavor_text": "The bird looked over all and flew back towards the red moon.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1347",
+   "name": "Wicked Witch of the West",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1347/image_en/1485244056.jpg",
+   "number": "TAT-035",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "100 / 200",
+   "type": "Resonator",
+   "race": "Nightmare/Witch",
+   "artist": "ひがし",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen this card becomes targeted by water spells or water card's abilities ⇒ Destroy it.",
+   "flavor_text": "She is frightened of the dark, and water is a most volatile poison to her.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1348",
+   "name": "Yamata-no-Orochi, the Eight Disasters",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1348/image_en/1485244058.jpg",
+   "number": "TAT-036",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "200 / 2000",
+   "type": "Resonator",
+   "race": "Nightmare/Dragon",
+   "artist": "gozz",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may search your deck for a card named \"Kusanagi Sword\" and add it to a resonator. Then shuffle your deck.",
+   "flavor_text": "Lumia understands instinctively, without logic, that this is what people fear.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1349",
+   "name": "Alice in Wonderland",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1349/image_en/1485244059.jpg",
+   "number": "TAT-037",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Little Girl",
+   "artist": "Wednesday",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Judgement\n[J-Activate]: any number of will. You cannot choose to pay [0].",
+   "flavor_text": "\"Hey Grimm, do you think it was a good idea? I've entrusted your hopes to the Princess.\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1350",
+   "name": "Alice, the Drifter in the World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1350/image_en/1485244060.jpg",
+   "number": "TAT-037J",
+   "rarity": "JR",
+   "att_def": "700 / 700",
+   "type": "J-Ruler",
+   "race": "Wanderer/Little Girl",
+   "artist": "Wednesday",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\n[Enter] If you paid [W] for doing judgment, you gain 1000 life. If you paid [U], draw a card. If you paid [B], target opponent discard a card. If you paid [R], this card deals 1000 damage to up to one target resonator. If you paid [G], destroy up to one target addition. If you paid will of each attribute and will produced from \"Moojdart, the Fantasy Stone\", this card gains [Flying] and [Swiftness] until end of turn.",
+   "flavor_text": "\"Being renowned all across the world is not important to me, observing and keeping the world in balance is important.\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1351",
+   "name": "Alice's World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1351/image_en/1485244062.jpg",
+   "number": "TAT-038",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Fushikaden K.K.",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\n[Enter] Take an extra turn after this one.",
+   "flavor_text": "\"Welcome to my world.\" 〜Alice, the Drifter in the World",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1352",
+   "name": "Cheshire Cat, the Grinning Remnant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1352/image_en/1485244063.jpg",
+   "number": "TAT-039",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "石商",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen this card is put into a graveyard from a field ⇒ Shuffle it into its owner's deck.",
+   "flavor_text": "\"The Hatter and March Hare over there are crazy. But don't worry, for you and I are already crazy. That's why we're in this world.\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1353",
+   "name": "Crossroad of Worlds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1353/image_en/1485244068.jpg",
+   "number": "TAT-040",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagiにゃん",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"I don't really understand Alice's power either. But, I found out that I shouldn't try to understand.\" 〜Lumia, the Creator of Hope",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1354",
+   "name": "Destructive Flow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1354/image_en/1485244069.jpg",
+   "number": "TAT-041",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七海ルシア",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "People saw the floods and became happy by it, and even more so from the water's new flow.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1355",
+   "name": "Dreams of Wonderland",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1355/image_en/1485244070.jpg",
+   "number": "TAT-042",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ケルビン",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"What I see and what you see are two completely different things. That is the mystery of this world.\" 〜Alice in Wonderland",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1356",
+   "name": "Humpty Dumpty",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1356/image_en/1485244072.jpg",
+   "number": "TAT-043",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "ケルビン",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[U], banish this card: Reveal the top card of your deck. If it's a resonator, put it into your field. Otherwise, put it into your graveyard.",
+   "flavor_text": "Lumia looked disgusted when she saw the egg-shaped animals. Then Humpty Dumpty turned to her and said: \"You don't seem comfortable at all!\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1357",
+   "name": "Little Mermaid of Tragic Love",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1357/image_en/1485244073.jpg",
+   "number": "TAT-044",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 300",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "長崎祐子",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nYour opponent must block this card if able.",
+   "flavor_text": "The Mermaid Princess was sad about her tragic love, but she never regretted it.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1358",
+   "name": "Mad Hatter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1358/image_en/1485244074.jpg",
+   "number": "TAT-045",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "乃希",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"Why is a raven like a writing desk?\" 〜Alice in Wonderland",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1359",
+   "name": "Mad Tea-Party",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1359/image_en/1485244078.jpg",
+   "number": "TAT-046",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Kawaryu",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nWhenever a resonator you control becomes targeted by spells or abilities other than through ⇒ Choose a new target at random. (Choose at random among all the legal targets including the original one.)",
+   "flavor_text": "The crazy tea party is far from ending. Those who try to end it wind up crazy themselves.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1360",
+   "name": "March Hare",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1360/image_en/1485244079.jpg",
+   "number": "TAT-047",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "乃希",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhenever this card attacks ⇒ Reveal the top card of your deck. If its total cost is even, the next damage this card would deal this turn is dealt to you instead.",
+   "flavor_text": "\"Me kicking somebody and you kicking me are like the same thing. Whatever happens, it's still kicking.\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1361",
+   "name": "Riina, the Girl with Nothing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1361/image_en/1485244080.jpg",
+   "number": "TAT-048",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "夕子",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[0]: Target resonator you control loses all abilities until end of turn.",
+   "flavor_text": "Even though she lost all she had, she would never lose her kindness.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1362",
+   "name": "Seashore Fisherman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1362/image_en/1485244081.jpg",
+   "number": "TAT-049",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Human/Fisherman",
+   "artist": "gekko",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Reveal the top card of your deck. If it's a resonator, put it back, look at the top four cards of your deck and put them in any order. If it's an addition, put it into your hand. If it's a spell card, rest target resonator.",
+   "flavor_text": "\"Recently, I've been catching some mysterious things, that don't look like they should even exist in our world.\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1363",
+   "name": "Shallows Giant Dolphin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1363/image_en/1485244083.jpg",
+   "number": "TAT-050",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 1000",
+   "type": "Resonator",
+   "race": "Dolphin",
+   "artist": "佐久間さのすけ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhenever this card blocks ⇒ Rest target resonator.",
+   "flavor_text": "Dolphins make good sentries as they cry at the sight of enemies.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1364",
+   "name": "Sleeping Rat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1364/image_en/1485244085.jpg",
+   "number": "TAT-051",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale/Rat",
+   "artist": "河北亜希",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"Twinkle, twinkle, little bat, how I wonder what you're at... Up above the world you fly, like a tea tray in the sky!\" 〜Alice in Wonderland",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1365",
+   "name": "Star Money",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1365/image_en/1485244087.jpg",
+   "number": "TAT-052",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "夕子",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nAdded resonator gains [+700/+700] if it has no printed abilities.",
+   "flavor_text": "This silver coin is only granted to special people.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1366",
+   "name": "Whirlpool of Knowledge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1366/image_en/1485244088.jpg",
+   "number": "TAT-053",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "城戸春一",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "The world holds many expressions.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1367",
+   "name": "Witch's Dagger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1367/image_en/1485244090.jpg",
+   "number": "TAT-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "長崎祐子",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nAdded resonator gains \"[U][U][2] [rest]: Destroy target rested resonator.\" and \"[rest] banish this resonator: Draw three cards.\"",
+   "flavor_text": "A choice between two things.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1368",
+   "name": "Brainless Scarecrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1368/image_en/1485244091.jpg",
+   "number": "TAT-055",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "アサヒナ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nThis card gains [+300/+300] for each achievement counter on it.",
+   "flavor_text": "\"I'm nothing but straw, and I lack a brain. I wonder if the wizard could grant my wish. Can I come with you?\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1369",
+   "name": "Cowardly Lion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1369/image_en/1485244092.jpg",
+   "number": "TAT-056",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "ハタリス",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nThis card gains [+300/+300] for each achievement counter on it.",
+   "flavor_text": "\"I'm the king of beasts, but I'm not brave. Would the wizard make me brave?\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1370",
+   "name": "Crimson Girl in the Sky",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1370/image_en/1485244094.jpg",
+   "number": "TAT-057",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Little Girl",
+   "artist": "祀花よう子",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Judgement\n[G][G][1].",
+   "flavor_text": "You never know whether the true story has been told or not.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1371",
+   "name": "Little Red, the True Fairy Tale",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1371/image_en/1485244096.jpg",
+   "number": "TAT-057J",
+   "rarity": "JR",
+   "att_def": "800 / 1000",
+   "type": "J-Ruler",
+   "race": "Fairy Tale/Ancient",
+   "artist": "祀花よう子",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nIf a spell or ability would decrease ATK or DEF of resonators you control, it decreases none instead.",
+   "flavor_text": "\"I have waited more than a hundred of years for this moment... allies, let me take my world, my appearance and my story back!\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1372",
+   "name": "Dorothy, the Lost Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1372/image_en/1485244098.jpg",
+   "number": "TAT-058",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "今野隼史",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ Put the top card of your magic stone deck into your magic stone area.",
+   "flavor_text": "Dorothy, wearing her silver shoes, chose to fight alongside the Zenithian Castle's protectors without a worry.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1373",
+   "name": "Dragonslayer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1373/image_en/1485244099.jpg",
+   "number": "TAT-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "CλT",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nIf added resonator would be dealt damage, prevent 500 of it.",
+   "flavor_text": "A sword made for one day's fight.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1374",
+   "name": "Evolution of Limits",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1374/image_en/1485244100.jpg",
+   "number": "TAT-060",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "douzen",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"Guys! Lend me your strength!\" 〜Little Red, the True Fairy Tale",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1375",
+   "name": "Gardea, the Guardian Dragon of Heaven",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1375/image_en/1485244102.jpg",
+   "number": "TAT-061",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Ancient/Dragon",
+   "artist": "Mad",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]:Target resonator you control gains [+400/+0] until end of turn.",
+   "flavor_text": "\"It\" protects eternal time within there.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1376",
+   "name": "Glinda, the Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1376/image_en/1485244103.jpg",
+   "number": "TAT-062",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "碧風羽",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\nBanish this card: Cancel target normal spell unless its controller pays [2].",
+   "flavor_text": "That smile can make everyone feel safe.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1377",
+   "name": "Guide of Heaven",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1377/image_en/1485244105.jpg",
+   "number": "TAT-063",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Ancient/Elf",
+   "artist": "塗夢",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]： Reveal the top card of your deck. If it's an Elf resonator, put it into your hand.",
+   "flavor_text": "\"I'm nothing but a guide, an onlooker in this story. From here on, you shall all continue this tale.\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1378",
+   "name": "Heartless Tin Man",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1378/image_en/1485244106.jpg",
+   "number": "TAT-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "小泉哲哉",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nThis card gains [+300/+300] for each achievement counter on it.",
+   "flavor_text": "\"I'm made from tin plates, and I lack a heart. Do you think if I see the wizard, he could grant me one?\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1379",
+   "name": "Oz, the Great Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1379/image_en/1485244112.jpg",
+   "number": "TAT-065",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "tokiwa",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\n[Enter] Search your deck for a chant card with total cost 1, reveal it and put it into your hand. If it's \"Oz's Magic\", you may play it without paying its cost instead putting it into your hand. Then shuffle your deck.",
+   "flavor_text": "These abilities are a form of magic.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1380",
+   "name": "Oz's Magic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1380/image_en/1485244165.jpg",
+   "number": "TAT-066",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "His ability is to help solve problems.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1381",
+   "name": "Portal of Truth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1381/image_en/1485244167.jpg",
+   "number": "TAT-067",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "塗夢",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "The door sees lies so only the truth may pass.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1382",
+   "name": "Realm of Evolution",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1382/image_en/1485244169.jpg",
+   "number": "TAT-068",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "ハタリス",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[G], Banish this card: Search your deck for a Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"I can... still fight!!!\" 〜Little Red, the True Fairy Tale",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1383",
+   "name": "Refarth, the Castle in Heaven",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1383/image_en/1485244172.jpg",
+   "number": "TAT-069",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Cola",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\nBanish this card: Target resonator gains [+400/+400] until end of turn.",
+   "flavor_text": "The power of hope's light covered Lumia's people and took them to the Zenithian castle.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1384",
+   "name": "Silver Shoes",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1384/image_en/1485244174.jpg",
+   "number": "TAT-070",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "白野椋",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nAdded resonator gains [+300/+300].",
+   "flavor_text": "\"Nice shoes, I wish to wear them for the next fight, although I'd rather be wearing them to a ball.\" 〜Lumia, the Creator of Hope",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1385",
+   "name": "Wolf in the Sky",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1385/image_en/1485244175.jpg",
+   "number": "TAT-071",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 400",
+   "type": "Resonator",
+   "race": "Ancient/Wolf",
+   "artist": "スギカワタクミ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhenever this card attacks ⇒ It gains [+400/+0] until end of turn.",
+   "flavor_text": "A Zenithian castle flows slowly in time by an ancient power. Many of the animals live a very long time due to this ancient power.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1386",
+   "name": "Xeex the Ancient Magic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1386/image_en/1485244176.jpg",
+   "number": "TAT-072",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "スギカワタクミ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "Time moves quickly when the Crimson Girl in the Sky holds the Holy Wind Stone, and then the truth will become apparent.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1387",
+   "name": "Al-Haber, the Tower of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1387/image_en/1485244178.jpg",
+   "number": "TAT-073",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Tower",
+   "artist": "Cola",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ If there are seven or more despair counters on this card, banish it and you may search your deck for up to two darkness resonators and play them without paying their cost. Then shuffle your deck.",
+   "flavor_text": "This tower grows to the heavens, as if to defy God.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1388",
+   "name": "Card Soldier \"Club\"",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1388/image_en/1485244180.jpg",
+   "number": "TAT-074",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Nightmare/Card Soldier",
+   "artist": "みえ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\n[Enter] Reveal the top four cards of your deck. Put a Card Soldier card among them into your hand. Put the rest into your graveyard.",
+   "flavor_text": "A Club is shy and servile.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1389",
+   "name": "Card Soldier \"Spade\"",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1389/image_en/1485244183.jpg",
+   "number": "TAT-075",
+   "rarity": "c",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Nightmare/Card Soldier",
+   "artist": "みえ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nThis card gains [+200/+200] for each other Card Soldier you control.",
+   "flavor_text": "A spade is haughty and arrogant.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1390",
+   "name": "Death Sentence from the Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1390/image_en/1485244185.jpg",
+   "number": "TAT-076",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Moopic",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "How tiresome you are... off with their heads! 〜Queen of Hearts",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1391",
+   "name": "Demon's Curse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1391/image_en/1485244187.jpg",
+   "number": "TAT-077",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "白野椋",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen added resonator is put into a graveyard from a field ⇒ This card deals 500 damage to that resonator's controller.",
+   "flavor_text": "This curse is a pain close to pleasure.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1392",
+   "name": "Ebony Devil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1392/image_en/1485244188.jpg",
+   "number": "TAT-078",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "古城ばんび",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nAt the end of your turn ⇒ This card deals 200 damage to you.",
+   "flavor_text": "Imps are obvious trouble makers. Even the magicians who collect them know this.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1393",
+   "name": "Ebony Prophet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1393/image_en/1485244190.jpg",
+   "number": "TAT-079",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Prophet",
+   "artist": "gozz",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Target resonator gains [-300/-300] until end of turn.",
+   "flavor_text": "The black prophecy foretells of a dire future.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1394",
+   "name": "Abdul Alhazred, the Harbinger of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1394/image_en/1485244191.jpg",
+   "number": "TAT-079J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Wizard",
+   "artist": "gozz",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[0]: Target resonator or addition loses all abilities until end of turn. Play this ability up to twice per turn.",
+   "flavor_text": "\"Dracula fell... such a pity. The time has come for me to erase all...\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1395",
+   "name": "Elder Things",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1395/image_en/1485244201.jpg",
+   "number": "TAT-080",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "kawaryu",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nThis card gains [+200/+200] for each resonator in all graveyards.",
+   "flavor_text": "\"Soon... we are close to the beginning.\" ~ Abdul Alhazred, the Harbinger of Despair",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1396",
+   "name": "Joker's Clothes",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1396/image_en/1485244208.jpg",
+   "number": "TAT-081",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "Clothes",
+   "artist": "古城ばんび",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen this card is put into a graveyard from a field ⇒ You may add it to target resonator you control.",
+   "flavor_text": "The Joker is an Ace. Once you become a Joker, you will always fear the Queen.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1397",
+   "name": "Laplacia, the Demon of Fate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1397/image_en/1485244210.jpg",
+   "number": "TAT-082",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "草薙蝶炎",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Put the top card of your deck and the top card of your opponent's deck into their owners' graveyards.",
+   "flavor_text": "That evil wasn't interested in the things that he could see.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1398",
+   "name": "Mephistopheles, the Abyssal Tyrant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1398/image_en/1485244211.jpg",
+   "number": "TAT-083",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "touge369",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nAt the end of your turn ⇒ Banish another resonator you control.",
+   "flavor_text": "To summon an evil as dark as Mephistophele's, your soul is the very least of his requirements.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1399",
+   "name": "Necronomicon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1399/image_en/1485244213.jpg",
+   "number": "TAT-084",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Relic",
+   "artist": "Mz.縞",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nAt the end of your turn ⇒ Discard your hand.",
+   "flavor_text": "This note is nothing.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1400",
+   "name": "Neithardt, the Demon Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1400/image_en/1485244215.jpg",
+   "number": "TAT-085",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Demon/Knight",
+   "artist": "Mがんぢー",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Continuous\nThis card cannot be targeted by light chants or light card's abilities and prevent all damage that would be dealt to this card by light cards.",
+   "flavor_text": "\"Those who refuse the power of the dark will eventually give in to their servile desires.\" 〜Abdul Alhazred, the Harbinger of Despair",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1401",
+   "name": "Queen of Hearts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1401/image_en/1485244217.jpg",
+   "number": "TAT-086",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator",
+   "race": "Nightmare",
+   "artist": "百舌鳥",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest], banish two Card Soldiers: Destroy target resonator.",
+   "flavor_text": "\"No need to give them trial... I already cut their head off!\"",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1402",
+   "name": "Spire Shadow Drake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1402/image_en/1485244223.jpg",
+   "number": "TAT-087",
+   "rarity": "u",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 600",
+   "type": "Resonator",
+   "race": "Drake",
+   "artist": "松本エイト",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"Aesop said when drakes take flight in the night sky, it means something bad will happen. I feel uneasy.\" 〜Sacred Princess of Guidance",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1403",
+   "name": "Stoning to Death",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1403/image_en/1485244224.jpg",
+   "number": "TAT-088",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Fushikaden K.K.",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "\"Death is just one form. A complete death is the destruction of your entirety.\" 〜Abdul Alhazred, the Harbinger of Despair",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1404",
+   "name": "Summoning Art of Alhazred",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1404/image_en/1485244226.jpg",
+   "number": "TAT-089",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "Alhazred completely controls the power of the dark.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1405",
+   "name": "Whisper from the Abyss",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1405/image_en/1485244228.jpg",
+   "number": "TAT-090",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七海ルシア",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "flavor_text": "That voice will make you feel faint whenever you hear it.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1406",
+   "name": "Almerius, the Levitating Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1406/image_en/1485244230.jpg",
+   "number": "TAT-091",
+   "rarity": "SR",
+   "type": "Special Magic Stone/True Magic Stone",
+   "artist": "松本エイト",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
+   "flavor_text": "\"The true fairy stone is a legendary stone that was sealed by an ancient magician with his magic and very own soul... The princess is sleeping again...\"\"Haha Lumia hates studying. I'll learn it all, so don't worry.\"\"You are too soft on her, Prince Grimm...\" 〜One Past-scene at the Light Palace",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1407",
+   "name": "Feethsing, the Holy Wind Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1407/image_en/1485244231.jpg",
+   "number": "TAT-092",
+   "rarity": "SR",
+   "type": "Special Magic Stone/True Magic Stone",
+   "artist": "長崎祐子",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
+   "flavor_text": "The true fairy stone provides the Zenithian castle's magic power.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1408",
+   "name": "Grusbalesta, the Sealing Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1408/image_en/1485244234.jpg",
+   "number": "TAT-093",
+   "rarity": "SR",
+   "type": "Special Magic Stone/True Magic Stone",
+   "artist": "Moopic",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
+   "flavor_text": "This stone's real power is to seal magic away. But as long as Alhazred possesses it, the dark will continue to grow.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1409",
+   "name": "Magic Stone of Blasting Waves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1409/image_en/1485244235.jpg",
+   "number": "TAT-094",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "サウマロ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1410",
+   "name": "Magic Stone of Dark Depth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1410/image_en/1485244236.jpg",
+   "number": "TAT-095",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "夕子",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "flavor_text": "Movements within the dark and murky depths.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1411",
+   "name": "Magic Stone of Gusting Skies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1411/image_en/1485244238.jpg",
+   "number": "TAT-096",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "アサヒナ",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [W] or [G].",
+   "flavor_text": "A momentary shine that reflects in the sky.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1412",
+   "name": "Magic Stone of Light Vapors",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1412/image_en/1485244239.jpg",
+   "number": "TAT-097",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "河北亜希",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [W] or [U].",
+   "flavor_text": "The shining paths that branch from the crossroad.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1413",
+   "name": "Magic Stone of Scorched Bales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1413/image_en/1485244241.jpg",
+   "number": "TAT-098",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "tokiwa",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [B] or [R].",
+   "flavor_text": "Hidden within the night, the burning spiral of seeds.",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1414",
+   "name": "Milest, the Ghostly Flame Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1414/image_en/1485244244.jpg",
+   "number": "TAT-099",
+   "rarity": "SR",
+   "type": "Special Magic Stone/True Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
+   "flavor_text": "\"Just burn through.\" 〜Bahamut, the Dragon King",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1415",
+   "name": "Moojdart, the Fantasy Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1415/image_en/1485244245.jpg",
+   "number": "TAT-100",
+   "rarity": "SR",
+   "type": "Special Magic Stone/True Magic Stone",
+   "artist": "七海ルシア",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them",
+   "flavor_text": "\"Did you see a good dream?\" 〜Alice in Wonderland",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1416",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1416/image_en/1485244246.jpg",
+   "number": "TAT-101",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "原田みどり",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1417",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1417/image_en/1485244248.jpg",
+   "number": "TAT-102",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "原田みどり",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1418",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1418/image_en/1485244249.jpg",
+   "number": "TAT-103",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "原田みどり",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1419",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1419/image_en/1485244250.jpg",
+   "number": "TAT-104",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "原田みどり",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1420",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/1420/image_en/1485244253.jpg",
+   "number": "TAT-105",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "原田みどり",
+   "expansion": "The Castle of Heaven and The Two Towers",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "The Castle of Heaven and The Two Towers"
+  }
+ ]
+}

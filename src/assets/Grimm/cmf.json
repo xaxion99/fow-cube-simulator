@@ -1,0 +1,2230 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/1198",
+   "name": "Aesop, the Prince's Tutor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1198/image_en/1485242181.jpg",
+   "number": "CMF-001",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "城戸春一",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nFairy Tales you control cannot be targeted by spells or abilities your opponent controls.",
+   "flavor_text": "After seeing Prince Grimm's interest in them, he too realized the mysterious power of fairy tales. That is why he teaches them.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1199",
+   "name": "Blinded Prince",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1199/image_en/1485242182.jpg",
+   "number": "CMF-002",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human/Prince",
+   "artist": "ハタリス",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[0]: This card loses all abilities until end of turn. Play this ability only if you control \"Rapunzel, the Long-Haired Princess\".",
+   "flavor_text": "The magical power held within Rapunzel's tears restores the eyesight of the once cursed prince. —from the fairy tale \"Rapunzel\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1200",
+   "name": "Clothes Tailor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1200/image_en/1485242184.jpg",
+   "number": "CMF-003",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "tokiwa",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Move target [Addition: Resonator] you control onto another resonator.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1201",
+   "name": "Dream of Juliet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1201/image_en/1485242185.jpg",
+   "number": "CMF-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "Juliet's dream was to live with Romeo happily ever after. Now it is time for that dream to become reality.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1202",
+   "name": "Grimm, the Fairy Tale Prince",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1202/image_en/1485242186.jpg",
+   "number": "CMF-005",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "城戸春一",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[1], discard a Fairy Tale resonator: Search your deck for a Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your deck. Play this ability only once per turn.",
+   "flavor_text": "Prince Grimm never needed to read fairy tales; the spirits within told him of their own stories.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1203",
+   "name": "Holy Grail",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1203/image_en/1485242189.jpg",
+   "number": "CMF-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "(Relic)",
+   "artist": "Mz.縞",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Remove all damage that was dealt to target J-ruler this turn.",
+   "flavor_text": "One of the man-made relics of this world. Nobody knows how to use the grail to its full potential.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1204",
+   "name": "Jeweled Branch of Horai",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1204/image_en/1485242192.jpg",
+   "number": "CMF-007",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "(Treasury Item)",
+   "artist": "Cola",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[W], [rest]: Rest up to two target fire and/or darkness resonators.",
+   "flavor_text": "How does one distinguish between the real and a fake? It's simple - destroy all but one. That then becomes the real one. —Fakes,Fake Master",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1205",
+   "name": "Juliet, the Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1205/image_en/1485242193.jpg",
+   "number": "CMF-008",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "gekko",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nAs long as you control \"Romeo, the Despair\", Nightmare resonators lose Nightmare and gain Fairy Tale.",
+   "flavor_text": "\"O Romeo, Romeo! Wherefore art thou Romeo?\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1206",
+   "name": "King's Servant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1206/image_en/1485242195.jpg",
+   "number": "CMF-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "見田航介",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Put target [Addition:Resonator] from your graveyard into your hand.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1207",
+   "name": "Knight of Loyalty",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1207/image_en/1485242196.jpg",
+   "number": "CMF-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human/Knight",
+   "artist": "サウマロ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\nBanish this card: Target light J/resonator you control cannot be targeted by spells or abilities until end of turn.",
+   "flavor_text": "\"I am not afraid to die for my lord... being unable to protect my lord is my true fear.\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1208",
+   "name": "Light of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1208/image_en/1485242198.jpg",
+   "number": "CMF-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "みえ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1209",
+   "name": "Light Palace, the King's Castle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1209/image_en/1485242199.jpg",
+   "number": "CMF-012",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "(Castle)",
+   "artist": "Moopic",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[W], banish this card: Destroy target addition.",
+   "flavor_text": "A shining symbol of hope for the human race.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1210",
+   "name": "Pandora, Girl of the Box",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1210/image_en/1485242202.jpg",
+   "number": "CMF-013/087",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "碧風羽",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Judgement\n[W][B][3]",
+   "flavor_text": "She must ask her heart for that which she truly desires - true hope or absolute despair...",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1211",
+   "name": "Pandora of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1211/image_en/1485242203.jpg",
+   "number": "CMF-013J",
+   "rarity": "JR",
+   "att_def": "400 / 800",
+   "type": "J-Ruler",
+   "race": "Human",
+   "artist": "碧風羽",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Destroy all resonators.",
+   "flavor_text": "True hope begins to write the story of the future.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1212",
+   "name": "Rapunzel, the Long-Haired Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1212/image_en/1485242204.jpg",
+   "number": "CMF-014",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "ハタリス",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Target resonator gains [+200/+0] and [Flying] until end of turn.",
+   "flavor_text": "\"If you use her hair I think it might be possible to climb the tower and reach the skies!\". —Swordman of Full Moon",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1213",
+   "name": "Return to Stories",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1213/image_en/1485242206.jpg",
+   "number": "CMF-015",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七海ルシア",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1214",
+   "name": "Silver Stake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1214/image_en/1485242207.jpg",
+   "number": "CMF-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "(Weapon)",
+   "artist": "Mがんぢー",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[W]: Return this card to its owner's hand.",
+   "flavor_text": "A human tool that will return the mortal agony once felt back unto vampires.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1215",
+   "name": "Tell a Fairy Tale",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1215/image_en/1485242209.jpg",
+   "number": "CMF-017",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七海ルシア",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1216",
+   "name": "The Emperor with New Clothes",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1216/image_en/1485242211.jpg",
+   "number": "CMF-018",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "douzen",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\nYour opponent cannot add [Addition: Resonator] cards.",
+   "flavor_text": "\"Perhaps you should try some new clothes on too!\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1217",
+   "name": "Tinker Bell, the Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1217/image_en/1485242213.jpg",
+   "number": "CMF-019",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator",
+   "race": "Fairy Tale/Spirit",
+   "artist": "トリダモノ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nThis card gains [+200/+200] for each Fairy Tale you control.",
+   "flavor_text": "The size of one's spirit is what shall determine a fight.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1218",
+   "name": "Basket of Little Red",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1218/image_en/1485242214.jpg",
+   "number": "CMF-020",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "(Arcane Item)",
+   "artist": "河北亜希",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[R]: Return this card to its owner's hand.",
+   "flavor_text": "Nobody knows what is inside the basket - not even Little Red Riding Hood herself.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1219",
+   "name": "Bloody Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1219/image_en/1485242216.jpg",
+   "number": "CMF-021",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Moon",
+   "artist": "七海ルシア",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\nBanish this card: Destroy target special magic stone.",
+   "flavor_text": "As the wolves indulge themselves in the night, humanity will start to fade.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1220",
+   "name": "Clockwork Apple Bomb",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1220/image_en/1485242217.jpg",
+   "number": "CMF-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "塗夢",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1221",
+   "name": "Commander of Wolves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1221/image_en/1485242219.jpg",
+   "number": "CMF-023",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 500",
+   "type": "Resonator",
+   "race": "Nightmare/Werewolf",
+   "artist": "スギカワタクミ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]This card deals 400 damage to target resonator for each Werewolf you control.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1222",
+   "name": "Gilles de Rais, the Golden Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1222/image_en/1485242221.jpg",
+   "number": "CMF-024",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 1200",
+   "type": "Resonator",
+   "race": "Fantasy/Dragon",
+   "artist": "kakotomirai",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhen this card is destroyed ⇒ You may banish three fire magic stones. If you do, put this card from your graveyard into your field.",
+   "flavor_text": "\"If my fantasies become reality, then your reality shall become fantasy.\" —Jeanne d'Arc, the Flame of Hatred",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1223",
+   "name": "Granny by the Fireplace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1223/image_en/1485242223.jpg",
+   "number": "CMF-025",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "100 / 1200",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "河北亜希",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhenever a Werewolf enters a field ⇒ Switch the ATK and DEF of this card until end of turn.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1224",
+   "name": "Hunter in Black Forest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1224/image_en/1485242224.jpg",
+   "number": "CMF-026",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "見田航介",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1225",
+   "name": "Little Red Riding Hood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1225/image_en/1485242226.jpg",
+   "number": "CMF-027",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Little Girl",
+   "artist": "Azusa",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Judgement\n[0] Play this ability only if you put a Moon into a field this turn.",
+   "flavor_text": "\"Once upon a time there was a dear little girl who always wore a red hood...\" —from the fairy tale \"Little Red Riding Hood\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1226",
+   "name": "Little Red, the Wolf Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1226/image_en/1485242227.jpg",
+   "number": "CMF-027J",
+   "rarity": "JR",
+   "att_def": "1200 / 200",
+   "type": "J-Ruler",
+   "race": "Little Wolf-Girl",
+   "artist": "Azusa",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nAt the end of turn ⇒ Put this card into your ruler area as a ruler.",
+   "flavor_text": "As a wolf girl, Little Red was alot more honest than the wolf she once knew.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1227",
+   "name": "Loup-Garou, the New Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1227/image_en/1485242229.jpg",
+   "number": "CMF-028",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Nightmare/Werewolf",
+   "artist": "草薙蝶炎",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nWhenever a Werewolf you control attacks ⇒ This card deals 100 damage to your opponent. If you control a Moon, this card deals 200 damage instead.",
+   "flavor_text": "Wolves attack before their foes have chance to defend. That is their way.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1228",
+   "name": "Moon Night Pouncer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1228/image_en/1485242231.jpg",
+   "number": "CMF-029",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Nightmare/Werewolf",
+   "artist": "松本エイト",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nWhenever you play a normal spell ⇒ This card gains [First Strike] and [Swiftness] until end of turn.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1229",
+   "name": "Murderous Snowman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1229/image_en/1485242233.jpg",
+   "number": "CMF-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Nightmare/Snow",
+   "artist": "サウマロ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Banish a magic stone.",
+   "flavor_text": "\"He has turned on his own creators, and is destined to disappear someday.\" —Snow White",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1230",
+   "name": "Poison Apple",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1230/image_en/1485242234.jpg",
+   "number": "CMF-031",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Mz.縞",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "Snow White finds pleasure in seeing the effects in those who eat the apple and how they die.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1231",
+   "name": "Purifying Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1231/image_en/1485242235.jpg",
+   "number": "CMF-032",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "The memories of the very flames that roasted her alive grants her power.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1232",
+   "name": "Red Hot Iron Shoes",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1232/image_en/1485242236.jpg",
+   "number": "CMF-033",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "Arcane Item",
+   "artist": "草薙蝶炎",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhenever added resonator becomes rested ⇒ This card deals 500 damage to that resonator's controller.",
+   "flavor_text": "\"Dance... Until you die.\" —Snow White",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1233",
+   "name": "Robe of Fire-Rat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1233/image_en/1485242238.jpg",
+   "number": "CMF-034",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "(Treasury Item)",
+   "artist": "Cola",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Prevent all damage that would be dealt by target fire resonator until end of turn.",
+   "flavor_text": "\"What?! I can't use this to keep myself warm!\" —Little Red Riding Hood",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1234",
+   "name": "Seven Dwarfs",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1234/image_en/1485242240.jpg",
+   "number": "CMF-035",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Nightmare/Killer",
+   "artist": "下江クリス",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nAs you choose a card to attack, you must choose this card if able.",
+   "flavor_text": "With seven heads together, they could do some great things. But then again, they could do some terrible things too.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1235",
+   "name": "Snow White",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1235/image_en/1485242242.jpg",
+   "number": "CMF-036",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "今野隼史",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Judgement\n[1], discard \"Poison Apple\"",
+   "flavor_text": "Perhaps she had a Nightmare while she was sleeping?",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1236",
+   "name": "Bloody Snow White",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1236/image_en/1485242243.jpg",
+   "number": "CMF-036J",
+   "rarity": "JR",
+   "att_def": "1300 / 1300",
+   "type": "J-Ruler",
+   "race": "Nightmare/Human",
+   "artist": "今野隼史",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[1], discard \"Poison Apple\": Destroy target resonator.",
+   "flavor_text": "Ignoring her better judgment, she took a bite out of the apple. The first bite was sweet; but the second was much more bitter...",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1237",
+   "name": "Wolf-Haunted in Black Forest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1237/image_en/1485242244.jpg",
+   "number": "CMF-037",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 300",
+   "type": "Resonator",
+   "race": "Nightmare/Werewolf",
+   "artist": "もぐも",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhen this card is destroyed ⇒ If you don't control a Moon, this card deals 500 damage to you.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1238",
+   "name": "Thunder",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1238/image_en/1485242246.jpg",
+   "number": "CMF-038",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagiにゃん",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "A dazzling flash of light can sometimes change the outcome of war.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1239",
+   "name": "Archer of the Crescent Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1239/image_en/1485242249.jpg",
+   "number": "CMF-039",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "長崎祐子",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nThis card gains [+300/+300] for each other Wererabbit you control.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1240",
+   "name": "Charles VII",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1240/image_en/1485242256.jpg",
+   "number": "CMF-040",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Nightmare/Human",
+   "artist": "スギカワタクミ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[1], banish a Human resonator: Return target resonator to its owner's hand.",
+   "flavor_text": "The assumed emperor conjured up by an illusion.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1241",
+   "name": "Deep Ones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1241/image_en/1485242257.jpg",
+   "number": "CMF-041",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "douzen",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nThis card gains [+200/+200] for each resonator in your graveyard.",
+   "flavor_text": "The Prince Grimm was unable to figure out where exactly these beings had come from.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1242",
+   "name": "Five Challenges",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1242/image_en/1485242258.jpg",
+   "number": "CMF-042",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhen you put a Treasury Item into a field ⇒ Put this card from your graveyard into your hand.",
+   "flavor_text": "There is no one challenge too difficult to achieve.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1243",
+   "name": "Hamelin's Pied Piper",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1243/image_en/1485242260.jpg",
+   "number": "CMF-043",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Fairy Tale/Mage",
+   "artist": "みえ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhenever this card attacks ⇒ Rest target resonator your opponent controls. It doesn't recover during the recovery phase as long as this card is in a field.",
+   "flavor_text": "The sounds of his flute can entice anything; even vampires.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1244",
+   "name": "Heavenly Feathered Robe",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1244/image_en/1485242261.jpg",
+   "number": "CMF-044",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "(Treasury Item)",
+   "artist": "夕子",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nGain control of added resonator if its total cost is 2 or less. That resonator's attribute becomes water.",
+   "flavor_text": "\"Sometimes it's easier to establish consciousness anew than to alter parts of it.\" —Seer of Blue Moon",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1245",
+   "name": "Inquisition",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1245/image_en/1485242263.jpg",
+   "number": "CMF-045",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "\"Please! I'm not a witch! Dear Lord, please help me...\" —Jeanne d'Arc, the Flame of Hatred",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1246",
+   "name": "Knight of the New Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1246/image_en/1485242268.jpg",
+   "number": "CMF-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Wererabbit/Knight",
+   "artist": "夕子",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Draw a card, then discard a card.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1247",
+   "name": "Nameless Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1247/image_en/1485242269.jpg",
+   "number": "CMF-047",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "ひがし",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Judgement\n[R][U][2] If a Human was put into your graveyard from a field this turn, you may pay [0] to play this ability instead.",
+   "flavor_text": "\"Who... am I? ...You? These voices...\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1248",
+   "name": "Jeanne d'Arc, the Flame of Hatred",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1248/image_en/1485242271.jpg",
+   "number": "CMF-047J",
+   "rarity": "JR",
+   "att_def": "1200 / 1200",
+   "type": "J-Ruler",
+   "race": "Nightmare/Human",
+   "artist": "ピスケ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Prevent all damage that would be dealt by target Human resonator until end of turn.",
+   "flavor_text": "\"I can hear the voice of God... it tells me to pass judgment on all sinners!\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1249",
+   "name": "One-Inch Boy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1249/image_en/1485242272.jpg",
+   "number": "CMF-048",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "100 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "るみえ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhenever this card deals damage to a resonator ⇒ Destroy that resonator.",
+   "flavor_text": "\"Lucky I'm small - I can clearly see all your weak points!\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1250",
+   "name": "Pale Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1250/image_en/1485242274.jpg",
+   "number": "CMF-049",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Moon",
+   "artist": "kawaryu",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[U], banish this card: Return target resonator to its owner's hand.",
+   "flavor_text": "The night of the rabbits is initiated through ancient and secret maneuvers…",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1251",
+   "name": "Rabbit Kick",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1251/image_en/1485242276.jpg",
+   "number": "CMF-050",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagiにゃん",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "\"A handy technique when one is in a hurry.\" —Knight of New Moon",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1252",
+   "name": "Rat Catcher's Pipe",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1252/image_en/1485242278.jpg",
+   "number": "CMF-051",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "Arcane Item",
+   "artist": "みえ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nAs long as added resonator is \"Hamelin's Pied Piper\", it gains \"pay [U]: Recover this card. \"",
+   "flavor_text": "The sounds of the flute influence the heart, rather than the ears.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1253",
+   "name": "Seer of the Blue Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1253/image_en/1485242280.jpg",
+   "number": "CMF-052",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "百舌鳥",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nYou pay [1] to put cards into your standby area rather than pay [2].",
+   "flavor_text": "\"Once the blue moon shines in the night sky, the prophecies shall come true.\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1254",
+   "name": "Kaguya, Princess of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1254/image_en/1485242281.jpg",
+   "number": "CMF-052J",
+   "rarity": "JR",
+   "type": "J-Ruler",
+   "race": "Human",
+   "artist": "百舌鳥",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[U][U][1]: Search your deck for a Treasury Item, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "When Kaguya touches the ancient treasures, they begin to shine with new life.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1255",
+   "name": "Servant of Kaguya",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1255/image_en/1485242282.jpg",
+   "number": "CMF-053",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "塗夢",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nThis card gains [+400/+400] for each Treasury Item you control.",
+   "flavor_text": "\"There are many sides to the moon, but the princess may be the only one to truly understand them all.\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1256",
+   "name": "Squirmer of the Dark",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1256/image_en/1485242284.jpg",
+   "number": "CMF-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Mad",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ Put the top three cards of your magic stone deck into your graveyard. If you cannot put three cards into your graveyard this way, banish this card and you lose 1000 life. (If you have less than three cards in your magic stone deck, put all cards of your magic stone deck into your graveyard instead.)",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1257",
+   "name": "Stone Bowl of Buddha",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1257/image_en/1485242307.jpg",
+   "number": "CMF-055",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "(Treasury Item)",
+   "artist": "Cola",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Target resonator cannot be blocked by water resonators until end of turn.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1258",
+   "name": "Swordsman of the Full Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1258/image_en/1485242305.jpg",
+   "number": "CMF-056",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "石商",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Return target resonator to its owner's hand.",
+   "flavor_text": "Kaguya commands many soldiers ranked by the shapes of the moon. Only those with the highest skill are ranked under the full moon.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1259",
+   "name": "Voice of the False God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1259/image_en/1485242308.jpg",
+   "number": "CMF-057",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "\"Oh... yes... I hear you. Oh Lord, what should I do next?\" —Jeanne d'Arc, the Flame of Hatred",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1260",
+   "name": "Absolute Cake Zone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1260/image_en/1485242309.jpg",
+   "number": "CMF-058",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "アサヒナ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "Children would do anything for sweets. They'll never forgive whoever gets in the way of them.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1261",
+   "name": "Aramis, the Three Musketeers",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1261/image_en/1485242313.jpg",
+   "number": "CMF-059",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale/Musketeer",
+   "artist": "下江クリス",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Produce [G] for each Musketeer resonator you control.",
+   "flavor_text": "\"Actually, I don't like to fight very much. Let's leave it to Athos and Porthos eh? I'll support them!\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1262",
+   "name": "Athos, the Three Musketeers",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1262/image_en/1485242315.jpg",
+   "number": "CMF-060",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale/Musketeer",
+   "artist": "下江クリス",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Search your deck for an [Addition: Resonator], reveal it and put it into your hand. If your ruler is \"Puss in Boots\" or your J-ruler is \"D'Artagnan, the Bayoneteer\", you may add it to this card instead. Then shuffle your deck.",
+   "flavor_text": "When the bond between these allies formed, they cheered with joy. These shouts soon became their battlecry.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1263",
+   "name": "Christie, the Wind Tracker",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1263/image_en/1485242316.jpg",
+   "number": "CMF-061",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Elf",
+   "artist": "touge369",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Draw a card. Play this ability only if you have exactly five cards in your hand.",
+   "flavor_text": "A cunning tracker chases that which cannot be seen with naked eyes.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1264",
+   "name": "Helsing, the Vampire Hunter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1264/image_en/1485242319.jpg",
+   "number": "CMF-061J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Elf",
+   "artist": "touge369",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Target non-Human J/resonator loses all abilities until end of turn. At the end of turn ⇒ destroy it.",
+   "flavor_text": "\"I lost my faith a long time ago. Slaying vampires is my only motivation now.\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1265",
+   "name": "Cottage of Cakes",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1265/image_en/1485242320.jpg",
+   "number": "CMF-062",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "(House)",
+   "artist": "佐久間さのすけ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[G], [rest]: Remove target resonator you control from the game.",
+   "flavor_text": "Adults bore easily due to their experiences. Children on the other hand will always have fun.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1266",
+   "name": "Cowrie of Swallows",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1266/image_en/1485242321.jpg",
+   "number": "CMF-063",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "(Treasury Item)",
+   "artist": "Cola",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Target wind resonator cannot be targeted by spells or abilities your opponent controls until end of turn.",
+   "flavor_text": "You cannot obtain your desire merely through hard times.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1267",
+   "name": "Crucifix",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1267/image_en/1485242324.jpg",
+   "number": "CMF-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "(Weapon)",
+   "artist": "Mがんぢー",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nAdded resonator gains [-1000/-1000] if it's a Vampire. Otherwise, it cannot be attacked or targeted by spells or abilities your opponent controls.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1268",
+   "name": "Elvish Bowman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1268/image_en/1485242326.jpg",
+   "number": "CMF-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "トリダモノ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Destroy target addition.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1269",
+   "name": "Elvish Exorcist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1269/image_en/1485242328.jpg",
+   "number": "CMF-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "mn3画",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Destroy target Vampire resonator.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1270",
+   "name": "Elvish Priest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1270/image_en/1485242332.jpg",
+   "number": "CMF-067",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 400",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Moopic",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1271",
+   "name": "Fina, the Silver Player",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1271/image_en/1485242334.jpg",
+   "number": "CMF-068",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "佐久間さのすけ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nOther Elves you control gain [+400/+400].",
+   "flavor_text": "She performs two different renditions- the first a hymn to inspire one with courage; the other a requiem which leads one into everlasting sleep.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1272",
+   "name": "Gretel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1272/image_en/1485242336.jpg",
+   "number": "CMF-069",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "乃希",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Reveal the top card of your magic stone deck. If it's a wind magic stone, put it into your magic stone area.",
+   "flavor_text": "\"Brother! these sweets are ours now! We must protect them!\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1273",
+   "name": "Hansel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1273/image_en/1485242337.jpg",
+   "number": "CMF-070",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "乃希",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ Draw a card.",
+   "flavor_text": "\"Gretel, look at that! A huge house made of candy!\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1274",
+   "name": "Law of Silence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1274/image_en/1485242338.jpg",
+   "number": "CMF-071",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七海ルシア",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "These laws help keep the land in peace and tranquility.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1275",
+   "name": "Musketeer's Bayonet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1275/image_en/1485242340.jpg",
+   "number": "CMF-072",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "(Weapon)",
+   "artist": "サウマロ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nAdded resonator gains [+400/+0]. If it's a Musketeer, it also gains [First Strike] and [Pierce].",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1276",
+   "name": "Porthos, the Three Musketeers",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1276/image_en/1485242343.jpg",
+   "number": "CMF-073",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale/Musketeer",
+   "artist": "下江クリス",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "\"How troublesome... I have no choice now but to show my full power!\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1277",
+   "name": "Puss in Boots",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1277/image_en/1485242344.jpg",
+   "number": "CMF-074",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Fairy Tale/Cat",
+   "artist": "ケルビン",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nYou may pay [1] less to play Musketeer resonators.",
+   "flavor_text": "\"Give me my boots, my hat and good company, then there's nothing I can't do!\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1278",
+   "name": "D'Artagnan, the Bayoneteer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1278/image_en/1485242345.jpg",
+   "number": "CMF-074J",
+   "rarity": "JR",
+   "att_def": "1000 / 800",
+   "type": "J-Ruler",
+   "race": "Fairy Tale/Musketeer",
+   "artist": "ケルビン",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nMusketeer resonators you control gain [+400/+400].",
+   "flavor_text": "They taught their foes the weakness in fighting alone. They never gave them chance to use that lesson for next time.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1279",
+   "name": "Siege Warfare",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1279/image_en/1485242347.jpg",
+   "number": "CMF-075",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "下江クリス",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1280",
+   "name": "Silver Bullet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1280/image_en/1485242350.jpg",
+   "number": "CMF-076",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "松本エイト",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "\"A bullet shot from an unknown place... that is the worst possibility.\" —Athos, the Three Musketeers",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1281",
+   "name": "Alucard, the Dark Noble",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1281/image_en/1485242352.jpg",
+   "number": "CMF-077",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Vampire",
+   "artist": "Fushikaden",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Target resonator gains [+0/-300] until end of turn.",
+   "flavor_text": "\"Fear is a disease that infects most quickly. These nightmares will soon spread throughout the world.\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1282",
+   "name": "Dracula, the Demonic One",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1282/image_en/1485242354.jpg",
+   "number": "CMF-077J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Vampire",
+   "artist": "Fushikaden",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ If it was dealt damage by this card this turn, put it into your field under your control. It gains Nightmare and Vampire in addition to its own race.",
+   "flavor_text": "Many have crossed his path, and all end up his undead slaves.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1283",
+   "name": "Alvarez, the Demon Castle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1283/image_en/1485242357.jpg",
+   "number": "CMF-078",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "(Castle)",
+   "artist": "Moopic",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[B], banish this card: Put target Vampire resonator from your graveyard into your hand.",
+   "flavor_text": "A paradise of despair for those who were once human, but remain no more.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1284",
+   "name": "Black Coffin of Vampires",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1284/image_en/1485242358.jpg",
+   "number": "CMF-079",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "(Tool)",
+   "artist": "Cola",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[B]: Return this card to its owner's hand.",
+   "flavor_text": "\"Vampire or not, trapped in here you will remain quiet for good.\" —Alucard, the Dark Noble",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1285",
+   "name": "Bloodsucking Impulse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1285/image_en/1485242359.jpg",
+   "number": "CMF-080",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "石商",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "\"As humans need food and water, vampires need humans as food. There will never be an understanding.\" —Christie, the Wind Tracker",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1286",
+   "name": "Carmilla, the Queen of Vampires",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1286/image_en/1485242361.jpg",
+   "number": "CMF-081",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Mad",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Destroy target non-Vampire resonator. If your ruler is \"Alucard, the Dark Noble\" or your J-ruler is \"Dracula, the Demonic One\", and the resonator destroyed this way is a Human, put it into your field under your control. It loses all races and becomes a Vampire.",
+   "flavor_text": "Warlock Dracula summons his best vampires for the highest of his biddings.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1287",
+   "name": "Cinderella, the Ashen Maiden",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1287/image_en/1485242362.jpg",
+   "number": "CMF-082",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Nightmare/Human",
+   "artist": "lack",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\nBanish a resonator: This card deals 200 damage to each resonator your opponent controls.",
+   "flavor_text": "\"Oh? This prince is all used up. I must go find another.\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1288",
+   "name": "Deadman Prince",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1288/image_en/1485242365.jpg",
+   "number": "CMF-083",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Nightmare/Immortal/Prince",
+   "artist": "Mz.縞",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Put target resonator from your graveyard into your hand.",
+   "flavor_text": "He mistakenly believed Snow White was already dead. That is why he took her body to his castle.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1289",
+   "name": "Jewels on Dragon's Neck",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1289/image_en/1485242367.jpg",
+   "number": "CMF-084",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "(Treasury Item)",
+   "artist": "Cola",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[B], [rest]: Put target darkness addition from your graveyard into your hand.",
+   "flavor_text": "\"Oh? You want something unreasonable? Then you must suffer something unbearable.\" —from the fairy tale \"The Tale of the Bamboo Cutter\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1290",
+   "name": "Lora, the Blood Speaker",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1290/image_en/1485242371.jpg",
+   "number": "CMF-085",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "tokiwa",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Search your deck for a Vampire resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "She loves telling humans of old tales, but they never reach the end before her thirst takes over.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1291",
+   "name": "Midnight Bell",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1291/image_en/1485242373.jpg",
+   "number": "CMF-086",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "長崎祐子",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "No one can escape the spell-dismissing properties of the bells toll at midnight.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1292",
+   "name": "Pandora of Dark",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1292/image_en/1485242375.jpg",
+   "number": "CMF-087J",
+   "rarity": "JR",
+   "att_def": "400 / 800",
+   "type": "J-Ruler",
+   "race": "Human",
+   "artist": "碧風羽",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Your opponent discards his or her hand.",
+   "flavor_text": "Then, all hope was shut from this world.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1293",
+   "name": "Pumpkin Witch",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1293/image_en/1485242377.jpg",
+   "number": "CMF-088",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "300 / 800",
+   "type": "Resonator",
+   "race": "Nightmare/Witch",
+   "artist": "kakotomirai",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\n[Enter]Resonators you control gain [Flying] and [Swiftness] until end of turn.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1294",
+   "name": "Resurrection of Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1294/image_en/1485242380.jpg",
+   "number": "CMF-089",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "\"The time has come. I shall rule this world through eternal night.\" —Alucard, the Dark Noble",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1295",
+   "name": "Romeo, the Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1295/image_en/1485242381.jpg",
+   "number": "CMF-090",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Nightmare/Immortal",
+   "artist": "gekko",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Automatic\nWhen this card is put into your graveyard from a field ⇒ If you control \"Juliet, the Hope\", you may pay [B]. If you do, put this card from your graveyard into your field.",
+   "flavor_text": "\"Oh, Juliet, why must thou depart without me? I cannot live if it must be without you.\"",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1296",
+   "name": "Servant of Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1296/image_en/1485242383.jpg",
+   "number": "CMF-091",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "てつお",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nAs your opponent plays a spell or ability targeting a Vampire you control, he or she must choose this card as one of its targets if able.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1297",
+   "name": "Slipper of Cinderella",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1297/image_en/1485242386.jpg",
+   "number": "CMF-092",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "(Arcane Item)",
+   "artist": "河北亜希",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nAdded resonator gains [+600/+600] if it's darkness and its printed ATK and DEF is [400/400]. Otherwise, it gains [-400/-400].",
+   "flavor_text": "\"You cut off your own toes to fit into this shoe? What foolish sisters!\" —Cinderella, the Ashen Maiden",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1298",
+   "name": "Spiral of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1298/image_en/1485242387.jpg",
+   "number": "CMF-093",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "古城バンビ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "flavor_text": "Those chains shall cast upon you a feeling of despair never felt before. You'll wish for a quick death.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1299",
+   "name": "Vampire Bat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/1299/image_en/1485242389.jpg",
+   "number": "CMF-094",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "下江クリス",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[B]: This card gains [+200/+0] until end of turn.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1300",
+   "name": "Vampire's Staff",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1300/image_en/1485242392.jpg",
+   "number": "CMF-095",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "kawaryu",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Continuous\nAt the beginning of your recovery phase ⇒ Reveal the top card of your deck. This card deals 100 damage to target player for each will symbol on the attribute cost of the revealed card and you gain that much life.",
+   "flavor_text": "Even a vampire must pay the price of blood.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1301",
+   "name": "Magic Stone of Black Silence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1301/image_en/1485242393.jpg",
+   "number": "CMF-096",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [G] or [B].",
+   "flavor_text": "A darkness cast from the absence of light; A tranquility devoid of all sound.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1302",
+   "name": "Magic Stone of Deep Wood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1302/image_en/1485242395.jpg",
+   "number": "CMF-097",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [G] or [U].",
+   "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1303",
+   "name": "Magic Stone of Hearth's Core",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1303/image_en/1485242396.jpg",
+   "number": "CMF-098",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [R] or [U].",
+   "flavor_text": "A passion like burning flames; A presence as cold as ice.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1304",
+   "name": "Magic Stone of Heat Ray",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1304/image_en/1485242399.jpg",
+   "number": "CMF-099",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [W] or [R].",
+   "flavor_text": "A piercing gleam of blinding light; An incandescent glow that cannot be touched.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1305",
+   "name": "Magic Stone of Heaven's Rift",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1305/image_en/1485242400.jpg",
+   "number": "CMF-100",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1306",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1306/image_en/1485242402.jpg",
+   "number": "CMF-101",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1307",
+   "name": "Flame Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1307/image_en/1485242403.jpg",
+   "number": "CMF-102",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1308",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1308/image_en/1485242404.jpg",
+   "number": "CMF-103",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1309",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1309/image_en/1485242406.jpg",
+   "number": "CMF-104",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1310",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/1310/image_en/1485242407.jpg",
+   "number": "CMF-105",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "光芒",
+   "expansion": "Crimson Moon'sFairy Tale",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Crimson Moon'sFairy Tale"
+  }
+ ]
+}

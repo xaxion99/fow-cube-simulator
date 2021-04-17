@@ -1,0 +1,1149 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/1531",
+   "name": "Almerius, the Magus of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1531/image_en/1485246297.jpg",
+   "number": "MOA-001",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Six Sages/Human",
+   "artist": "ぽん吉",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nRemove a knowledge counter from this card: Remove target attacking resonator from the game.",
+   "flavor_text": "“In the end I will have to join the battle, I still find it annoying having to cooperate with those five.”",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1532",
+   "name": "Duet of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1532/image_en/1485246298.jpg",
+   "number": "MOA-002",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "おつまみ",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "“Zero, now that I blocked the enemy, finish it!” “Okay, leave it to me!” -Almerius, the Magus of Light and Zero, the Flashing Mage-Warrior",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1533",
+   "name": "Grimm, the Heroic King of Aspiration",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1533/image_en/1485246300.jpg",
+   "number": "MOA-003",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "城戸春一",
+   "expansion": "The Millennia of Ages",
+   "text": "Continuous\nOther light resonators you control gain [+200/+200].",
+   "flavor_text": "The prince who aspired to fairy tales has grown up, becoming a king who inspires all.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1534",
+   "name": "Kaguya, the Tale of the Bamboo Cutter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1534/image_en/1485246301.jpg",
+   "number": "MOA-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "もぐも",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nRemove three knowledge counters from any number of resonators you control: Remove target resonator from the game.",
+   "flavor_text": "“Kaguya was born together with the moon, she quickly grew like bamboo, and now is preparing to fight a war for the destiny of the world.” -Scheherazade, the Teller of the Crimson Moon",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1535",
+   "name": "Lumia, the Saint Lady of World Rebirth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1535/image_en/1485246303.jpg",
+   "number": "MOA-005",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "下江クリス",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nBanish this card: You gain life equal to the damage that was dealt to you this turn.",
+   "flavor_text": "The story of regeneration is longer than that of destruction. Although no hero will be born on the Texts, her deeds will remain forever in the hearts of people.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1536",
+   "name": "Pandora, the Princess of History Chanter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1536/image_en/1485246305.jpg",
+   "number": "MOA-006",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "碧風羽",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "“From now on I will take care of it, I will protect everyday's hope!”",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1537",
+   "name": "Pandora's Box of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1537/image_en/1485246308.jpg",
+   "number": "MOA-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Relic",
+   "artist": "gekko",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nBanish this card: Put a resonator or [Addition:Field] card removed by this card into your field rested.",
+   "flavor_text": "It contains the future, all hope is inside it.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1538",
+   "name": "Shining Bamboo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1538/image_en/1485246309.jpg",
+   "number": "MOA-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Treasury Item",
+   "artist": "Moopic",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\n[rest]: Recover target resonator named \"Kaguya, the Tale of the Bamboo Cutter\".",
+   "flavor_text": "“From the sparkling bamboo came out a pretty little girl almost four inches tall.” -Tale of the Bamboo Cutter",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1539",
+   "name": "Temporal Spell of Millennia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1539/image_en/1485246311.jpg",
+   "number": "MOA-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ひがし",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "Giving up immortality, Kaguya was able to lift the elisir's curse and confine the Cthulhus into human bodies.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1540",
+   "name": "Zero, the Flashing Mage-Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1540/image_en/1485246312.jpg",
+   "number": "MOA-010",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Six Sages/Human",
+   "artist": "lack",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nRemove a knowledge counter from this card: Prevent the next 300 damage that would be dealt to target resonator this turn.",
+   "flavor_text": "Appeared with the lightning, her only purpose is to defeat the enemy to preserve peace in the world.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1541",
+   "name": "Ame-no-Habakiri",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1541/image_en/1485246314.jpg",
+   "number": "MOA-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "Weapon",
+   "artist": "gozz",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\nWhenever added resonator deals damage to a resonator your opponent controls, this card deals that much damage to that resonator's controller.",
+   "flavor_text": "Even what doesn't yield at the first blow, surrenders to the cut of this sword.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1542",
+   "name": "Blazer, the Awakener",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1542/image_en/1485246315.jpg",
+   "number": "MOA-012",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1200 / 800",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "草薙蝶炎",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\n[R]: This card gains [First Strike] until end of turn.",
+   "flavor_text": "\"Is that one fine? Hey, do you hear me? Good, go back to your dimension!\" -Alice, the Guardian of Dimensions",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1543",
+   "name": "Cthugha, the Living Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1543/image_en/1485246320.jpg",
+   "number": "MOA-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "佐々木光之介",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "\"I hate the heat! Milest, take care of it! \" -Moojdart, the Quenn of Fantasy World",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1544",
+   "name": "Emissary of Another Dimension",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1544/image_en/1485246321.jpg",
+   "number": "MOA-014",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "見田航介",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nBanish this card: Destroy target card in a standby area.",
+   "flavor_text": "It appeared in this world from nothing.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1545",
+   "name": "Fetal Movement in Outer World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1545/image_en/1485246324.jpg",
+   "number": "MOA-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "草薙蝶炎",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "Alice felt she was the reason for which the other inhabitants of the outer world were interested in this world. But she also felt she still had to go back.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1546",
+   "name": "Ghostflame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1546/image_en/1485246325.jpg",
+   "number": "MOA-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Mz.縞",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\n[R][R][1]: Put this card from your graveyard into your hand.",
+   "flavor_text": "Not even persistent rain could extinguish this flame.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1547",
+   "name": "Little Red, the Hope of Millennia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1547/image_en/1485246327.jpg",
+   "number": "MOA-017",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "祀花よう子",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\n[rest], discard a card with \"Apple\" in its name: This card deals 1000 damage to target resonator.",
+   "flavor_text": "Granny! I'm back!",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1548",
+   "name": "Milest, the Invisible Ghostly Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1548/image_en/1485246329.jpg",
+   "number": "MOA-018",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 300",
+   "type": "Resonator",
+   "race": "Six Sages/Spirit",
+   "artist": "Mz.縞",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nRemove a knowledge counter from this card: This card deals 300 damage to target player or resonator.",
+   "flavor_text": "\"I wonder if the others couldn't see it either: I cannot feel it with my wind.\" -Fiethsing, the Elvish Oracle",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1549",
+   "name": "Susanowo, the Ten-Fist Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1549/image_en/1485246331.jpg",
+   "number": "MOA-019",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "gozz",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\n[Enter] This card deals damage equal to its ATK to target resonator your opponent controls.",
+   "flavor_text": "That power was genuine, but his temper was moot, even the six sages had no idea how to treat it.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1550",
+   "name": "Wormhole",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1550/image_en/1485246332.jpg",
+   "number": "MOA-020",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Singularity",
+   "artist": "佐々木光之介",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\n[1][X], [rest]: Put a resonator with total cost X or less from your hand into your field. It gains [Swiftness] until end of turn.",
+   "flavor_text": "Where it led, no one knew.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1551",
+   "name": "Alice's Pursuit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1551/image_en/1485246333.jpg",
+   "number": "MOA-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Wednesday",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "\"Well, let me take a ride around.\" -Alice, the Guardian of Dimensions",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1552",
+   "name": "Alice's Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1552/image_en/1485246336.jpg",
+   "number": "MOA-022",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fantasy",
+   "artist": "ケルビン",
+   "expansion": "The Millennia of Ages",
+   "text": "Continuous\nThis card cannot be targeted by spells or abilities.",
+   "flavor_text": "\"Moojdart, I'm borrowing your power, ok?\" -Alice, the Guardian of Dimensions",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1553",
+   "name": "Emperor of Millennia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1553/image_en/1485246338.jpg",
+   "number": "MOA-023",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "kawaryu",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\n[rest]: Draw a card.",
+   "flavor_text": "Also over the millennia, Kaguya will continue to stay in his mind.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1554",
+   "name": "House of the Old Man",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1554/image_en/1485246339.jpg",
+   "number": "MOA-024",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Residence",
+   "artist": "佐久間さのすけ",
+   "expansion": "The Millennia of Ages",
+   "text": "Continuous\nMagic stones you control gain \"[rest]: Produce one will of any attribute.\" .",
+   "flavor_text": "Here, where everything started.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1555",
+   "name": "Lunya, the Liar Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1555/image_en/1485246341.jpg",
+   "number": "MOA-025",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "夕子",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from your field, recover this card.",
+   "flavor_text": "As a result of Kaguya's technique, some Cthulhus are recalled and reincarnated as humans.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1556",
+   "name": "Moojdart, the Queen of Fantasy World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1556/image_en/1485246343.jpg",
+   "number": "MOA-026",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 900",
+   "type": "Resonator",
+   "race": "Six Sages/Spirit",
+   "artist": "石商",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nRemove two knowledge counters from this card: Draw a card.",
+   "flavor_text": "\"I can rely on her during a fight, but the fact that she is so elusive creates a lot of problems.\" -Zero, the Flashing Mage-Warrior",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1557",
+   "name": "Moon Incarnation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1557/image_en/1485246344.jpg",
+   "number": "MOA-027",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七海ルシア",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "\"The key for the world salvation is on that moon.\" -Scheherazade, the Teller of the Crimson Moon",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1558",
+   "name": "Oracle of Tsukuyomi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1558/image_en/1485246345.jpg",
+   "number": "MOA-028",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "長崎祐子",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field, reveal the top card of your deck. If it's a Wererabbit, put it into your field. Otherwise, put it into your graveyard.",
+   "flavor_text": "Even if the moon disappeared, the world would continue its history.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1559",
+   "name": "Purplemist, the Fantasy Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1559/image_en/1485246348.jpg",
+   "number": "MOA-029",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Fantasy/Dragon",
+   "artist": "ケルビン",
+   "expansion": "The Millennia of Ages",
+   "text": "Continuous\nThis card cannot be targeted by spells or abilities.",
+   "flavor_text": "\"The lack of a physical body is not only a weakness.\" -Moojdart, the Queen of the Fantasy World",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1560",
+   "name": "Transparent Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1560/image_en/1485246350.jpg",
+   "number": "MOA-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Moon",
+   "artist": "河北亜希",
+   "expansion": "The Millennia of Ages",
+   "text": "Continuous\nMagic stones with non-will activate abilities don't recover during recovery phase.",
+   "flavor_text": "The moon has fulfilled his duty, now silently accompanies the end of the story.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1561",
+   "name": "Bastet, the Elder God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1561/image_en/1485246352.jpg",
+   "number": "MOA-031",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Moopic",
+   "expansion": "The Millennia of Ages",
+   "text": "Continuous\nThis card gains [+100/+100] for each card in your opponent's graveyard.",
+   "flavor_text": "There are also Cthulhus that are friendly towards humans, she was one of them. Being whimsical as a cat, no one trusted her. No one, except Fiethsing.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1562",
+   "name": "Christie, the Warden of Sanctuary",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1562/image_en/1485246353.jpg",
+   "number": "MOA-032",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "touge369",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nRest five recovered Elves you control: You gain 500 life and draw two cards.",
+   "flavor_text": "After the tracker found the last vampire, she went back to her village to defend the elves and became their protector.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1563",
+   "name": "Fiethsing, the Elvish Oracle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1563/image_en/1485246355.jpg",
+   "number": "MOA-033",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 1000",
+   "type": "Resonator",
+   "race": "Six Sages/Elf",
+   "artist": "狛蜜ザキ",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nRemove a knowledge counter from this card: Cancel target spell unless its controller pays [1].",
+   "flavor_text": "\"That woman is really whimsical, she could be a prodigy, but to me she is a child.\" -Grusbalesta, the Keeper of Magic Stones",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1564",
+   "name": "Hansel and Gretel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1564/image_en/1485246356.jpg",
+   "number": "MOA-034",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "乃希",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\nWhen this card enters your field, draw a card and put the top card of your magic stone deck into your magic stone area rested.",
+   "flavor_text": "“After all these sweets I'm really full... So big bro, let's open a bakery and spread sweets for everyone!”",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1565",
+   "name": "Leaves of Yggdrasil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1565/image_en/1485246357.jpg",
+   "number": "MOA-035",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "Treasury Item",
+   "artist": "みえ",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\nWhen added resonator is put into a graveyard from a field, put that resonator into its owner's field.",
+   "flavor_text": "This is the essence of life itself.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1566",
+   "name": "Liberate the World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1566/image_en/1485246359.jpg",
+   "number": "MOA-036",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "上木乃アロエ",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "“This is the story that binds the worlds together.” -Scheherazade, the Teller of the Crimson Moon",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1567",
+   "name": "Melfee, the Successor of Sacred Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1567/image_en/1485246362.jpg",
+   "number": "MOA-037",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "j-peg",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nRest two recovered Elves you control: Produce one will of any attribute.",
+   "flavor_text": "Reminding the conversation she had with Little Red on the Castle in Heaven, she turned her eyes to it. Found its way, she rode the wind to save the world.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1568",
+   "name": "Refarth, the Wind Castle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1568/image_en/1485246363.jpg",
+   "number": "MOA-038",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Castle",
+   "artist": "Cola",
+   "expansion": "The Millennia of Ages",
+   "text": "Continuous\nPrevent all damage that would be dealt by normal spells to resonators you control.",
+   "flavor_text": "The wind that blows from this castle travels toward far skies.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1569",
+   "name": "Scheherazade, the Teller of the Crimson Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1569/image_en/1485246372.jpg",
+   "number": "MOA-039",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1200",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "乃希",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\n[G][G][3], [rest]: Remove target resonator from the game.",
+   "flavor_text": "Well, shall we start the first story?",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1570",
+   "name": "Wind of Gods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1570/image_en/1485246373.jpg",
+   "number": "MOA-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "狛蜜ザキ",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "Can't you hear the voice of the wind? Now I'll make you hear it.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1571",
+   "name": "Aria, the Last Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1571/image_en/1485246375.jpg",
+   "number": "MOA-041",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "古城ばんび",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field, put target Vampire card with total cost 2 or less from your graveyard into your hand.",
+   "flavor_text": "She didn't crave blood. In history it has never been seen a vampire like her.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1572",
+   "name": "Book of Eibon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1572/image_en/1485246376.jpg",
+   "number": "MOA-042",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Relic",
+   "artist": "tokiwa",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\nWhen this card leaves your field, banish the resonator put into your field by this card.",
+   "flavor_text": "The book of Eibon was written at the end of the battle thousands of years ago.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1573",
+   "name": "Dark Pulse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1573/image_en/1485246380.jpg",
+   "number": "MOA-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "塗夢",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "It was the last cry of the Cthulhus, but it took away many lives.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1574",
+   "name": "Eibon, the Mage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1574/image_en/1485246381.jpg",
+   "number": "MOA-044",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "tokiwa",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\n[B][B][1]: Target resonator gains [-400/-400] until end of turn.",
+   "flavor_text": "\"Oh, I hope my wish will soon come true!\"",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1575",
+   "name": "Grusbalesta, the Keeper of Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1575/image_en/1485246382.jpg",
+   "number": "MOA-045",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Six Sages/Human",
+   "artist": "fzwrAym",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\nRemove a knowledge counter from this card: Target resonator gains [+0/-400] until end of turn.",
+   "flavor_text": "He was aware of the risks of using the magic stones, thus he made his the problem and the task of solving it",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1576",
+   "name": "Hazzard, the Dark Forest Augur",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1576/image_en/1485246383.jpg",
+   "number": "MOA-046",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Augur",
+   "artist": "スギカワタクミ",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ this card deals 200 damage to target player or resonator.",
+   "flavor_text": "\"This sensation... then i'm still alive... but even though I'm alive there's nothing I can do in this state.\" -Lumia, the Saint Lady of World Rebirth",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2610",
+   "name": "Mephistopheles, the Demon Collaborator",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2610/image_en/1487735834.jpg",
+   "number": "MOA-047",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "松本エイト",
+   "expansion": "The Millennia of Ages",
+   "text": "Activate\n[rest]: Target resonator gains [+200/+0] until end of turn.",
+   "flavor_text": "\"Incredible, the world is full of wonders. Who would have thought the Demon I faced once would have become my own collaborator.\" -Lumia, the Saint Lady of World Rebirth",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1578",
+   "name": "Mount Immortal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1578/image_en/1485246386.jpg",
+   "number": "MOA-048",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Mountain",
+   "artist": "Nagiにゃん",
+   "expansion": "The Millennia of Ages",
+   "text": "Continuous\nNon-darkness resonators gain [-200/-200].",
+   "flavor_text": "On that land, even if the body dies, hatred remains.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1579",
+   "name": "Nyarlathotep, the Usurper",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1579/image_en/1485246387.jpg",
+   "number": "MOA-049",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "ネム",
+   "expansion": "The Millennia of Ages",
+   "text": "Automatic\n[Enter] You may look at target player's hand and choose a card. He or she discards that card.",
+   "flavor_text": "He used to steal to anyone: both enemies and allies.",
+   "all_sets": "The Millennia of Ages"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1580",
+   "name": "Ritual of Millennia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/1580/image_en/1485246388.jpg",
+   "number": "MOA-050",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "小泉哲哉",
+   "expansion": "The Millennia of Ages",
+   "flavor_text": "\"Stay alive, you must keep fighting. This is a millenary ritual.\" -Kaguya, the Tale of the Bamboo Cutter",
+   "all_sets": "The Millennia of Ages"
+  }
+ ]
+}
