@@ -1,0 +1,2293 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/762",
+   "name": "Alice, Girl of the Lake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/762/image_en/1486705858.jpg",
+   "number": "TTW-001",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "Wednesday",
+   "expansion": "The Twilight Wanderer",
+   "text": "Judgement\n[8]. You may pay [1] less to play this ability for each Fairy you control.",
+   "flavor_text": "While dozing off, Alice saw a dream. A dream of a world she used to belong to.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/763",
+   "name": "Alice, Fairy Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/763/image_en/1486705862.jpg",
+   "number": "TTW-001J",
+   "rarity": "JR",
+   "att_def": "900 / 900",
+   "type": "J-Ruler",
+   "race": "Queen/Fairy",
+   "artist": "Wednesday",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nGod's Art [Reminiscence of Utopia] [W][W]: J/resonators you control gain [+200/+200]. Search your deck for a card named \"Excalibur, the Spirit God's Sword\" and put it into your field. Then shuffle your deck. (Play God's Art [Reminiscence of Utopia] only once per game.)",
+   "flavor_text": "When Alice awoke, she remembered what needed to be done, and the foe that must be defeated.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/764",
+   "name": "Alice's Little Supply Force",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/764/image_en/1486705864.jpg",
+   "number": "TTW-002",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "城戸春一",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[W], banish this card：Recover target resonator.",
+   "flavor_text": "Alice called the final soldier from the Ancient Treasury, and turned to face the battle.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/765",
+   "name": "Arthur Pendragon, King of the Round Table",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/765/image_en/1486705866.jpg",
+   "number": "TTW-003",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "lack",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Target resonator gains [0/+800] until end of turn.",
+   "flavor_text": "With the power he holds, he is ready to take on any burden.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/766",
+   "name": "Elaine, the Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/766/image_en/1486705868.jpg",
+   "number": "TTW-004",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "長崎祐子",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nOther Fairy J/resonators you control gain [+200/0].",
+   "flavor_text": "When that fairy smiles, it signals an attack that will tear the opponent to pieces.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/767",
+   "name": "Fairy of the Lake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/767/image_en/1486705870.jpg",
+   "number": "TTW-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "夕子",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "To protect the girl laying by the lake, these fairies took flight.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/768",
+   "name": "Galahad, the Son of the God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/768/image_en/1486705873.jpg",
+   "number": "TTW-006",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "touge369",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.",
+   "flavor_text": "\"Galahad was recognized as the greatest knight of King Arthur.\" —Tales of King Arthur",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/769",
+   "name": "Gawain, the Knight of the Sun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/769/image_en/1486705875.jpg",
+   "number": "TTW-007",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 700",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "ORETO",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
+   "flavor_text": "\"I failed to protect my ruler in the past. In this world, I'll protect you at any cost.\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/770",
+   "name": "Gloria's Castle Town",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/770/image_en/1486705877.jpg",
+   "number": "TTW-008",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Castle",
+   "artist": "Fushikaden K.K.",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
+   "flavor_text": "Gloria lived a period of high prosperity under the guidance of the Sacred Queen.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/771",
+   "name": "Grand Cross",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/771/image_en/1486705879.jpg",
+   "number": "TTW-009",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "あき",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nRemove target addition or resonator that has or shares the highest ATK from the game. As long as your J-ruler is \"Alice, Fairy Queen\", you may pay [W][W] less to play its God's Art abilities this turn.",
+   "flavor_text": "\"Now feel the light of hope, Grand Cross!\"—Alice, Fairy Queen",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/772",
+   "name": "Justice of God's Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/772/image_en/1486705881.jpg",
+   "number": "TTW-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "みえ",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "\"Invaders! I'll cut you in two!\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/773",
+   "name": "Light Sprite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/773/image_en/1486705883.jpg",
+   "number": "TTW-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 300",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "みえ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Gain 100 life for each Fairy you control.",
+   "flavor_text": "\"Such a warm light...are you the ones who saved me?\"—Alice, Girl of the Lake",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/774",
+   "name": "Nimue, the Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/774/image_en/1486705888.jpg",
+   "number": "TTW-012",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "上木乃アロエ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nOther Fairy J/resonators you control gain [+200/0].",
+   "flavor_text": "When that fairy smiles, it signals a defense that will save any ally.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/775",
+   "name": "Perceval, the Seeker of Holy Grail",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/775/image_en/1486705890.jpg",
+   "number": "TTW-013",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "碧風羽",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Prevent all damage that would be dealt to target J-ruler or Knight of the Round Table until end of turn.",
+   "flavor_text": "To her, this is the beginning of a new search for the Grail.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/776",
+   "name": "Pride of Knights",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/776/image_en/1486705892.jpg",
+   "number": "TTW-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "\"I won't surrender!\" —Faria, the Sacred Queen",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/777",
+   "name": "Protection of the Fairies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/777/image_en/1486705893.jpg",
+   "number": "TTW-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "白野椋",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Prevent the next damage that would be dealt to target resonator until end of turn.",
+   "flavor_text": "\"That power...it could kill in an instant, but instead they prolong the suffering.\" —Dark Alice, Maiden of Slaughter",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/778",
+   "name": "The Final Word",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/778/image_en/1486705896.jpg",
+   "number": "TTW-016",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "みえ",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "\"Alice, don't worry about me! Run!\" —Faria, the Sacred Queen",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/779",
+   "name": "Viviane, Lady of the Lake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/77/779/image_en/1486705898.jpg",
+   "number": "TTW-017",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "祀花よう子",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever a Fairy resonator enters your field ⇒ Fairy J/resonators you control gain [+200/+200] until end of turn.",
+   "flavor_text": "Providing guidance to generations of heroes.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/780",
+   "name": "Young Knight of Gloria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/780/image_en/1486705901.jpg",
+   "number": "TTW-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "サウマロ",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "They proudly serve their lord, and fight to the last to protect Gloria. Anything else would be unfitting of a knight.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/781",
+   "name": "Barrier of Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/781/image_en/1486705903.jpg",
+   "number": "TTW-019",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Fushikaden K.K.",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nIf a normal spell you control would deal damage, it deals that much +200 instead.",
+   "flavor_text": "\"Isn't this world kind of warm?\" \"No, I'm a little cold.\" \"Really?\" \"Really.\" —Reflect, Child of Potential and Refrain, Child of Convergence",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/782",
+   "name": "Beat of the Phoenix Wings",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/782/image_en/1486705905.jpg",
+   "number": "TTW-020",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "From the wings emerged an inescapable flame.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/783",
+   "name": "Burn to Cinders",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/783/image_en/1486705906.jpg",
+   "number": "TTW-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "All was reduced to ashes, even the memory.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/784",
+   "name": "Caldera-Born Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/784/image_en/1486705908.jpg",
+   "number": "TTW-022",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "松本エイト",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "A battle is decided by strength. A hunt is decided by speed.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/785",
+   "name": "Flame Dragon Commandant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/785/image_en/1486705910.jpg",
+   "number": "TTW-023",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "乃希",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nAs long as you control a Dragon, this card gains [Flying].",
+   "flavor_text": "To bond with a dragon is to leave the lands of Certo behind. It is an ancient art of survival.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/786",
+   "name": "Flame Sprite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/786/image_en/1486705913.jpg",
+   "number": "TTW-024",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 300",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "Fushikaden K.K.",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: This card deals 100 damage to target resonator for each Fairy you control.",
+   "flavor_text": "Passing warmth becomes searing heat.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/787",
+   "name": "Flamewing Wyvern",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/787/image_en/1486705915.jpg",
+   "number": "TTW-025",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "七海ルシア",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[R]: This card gains [+200/0] until end of turn.",
+   "flavor_text": "The fact that dragons breathe fire is useful in battle, but makes it difficult to tame them.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/788",
+   "name": "Flash of Demon Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/788/image_en/1486705916.jpg",
+   "number": "TTW-026",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "小泉哲哉",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "\"Let the weak be squashed!\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/789",
+   "name": "Guinevere, the Jealous Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/78/789/image_en/1486705918.jpg",
+   "number": "TTW-027",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Queen",
+   "artist": "祀花よう子",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[R], [rest]: Target resonator you control gains [+400/+400] until end of turn. When it deals or is dealt damage this turn, banish it.",
+   "flavor_text": "\"Oh, seems I made another mistake...please bring me the next one.\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/790",
+   "name": "Hector de Maris, the Acolyte of Mad Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/790/image_en/1486705919.jpg",
+   "number": "TTW-028",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "ハタリス",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [+400/0] until end of turn.",
+   "flavor_text": "\"This world? I don't care. I'll follow Lancelot anywhere, come what may.\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/791",
+   "name": "Lancelot, the Knight of Mad Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/791/image_en/1486705921.jpg",
+   "number": "TTW-029",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "スギカワタクミ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[R]: This card gains [+100/0] until end of turn.",
+   "flavor_text": "The nature of a summoned hero depends on the nature of the summoner. The power of the demon sword changed him into a cruel knight.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/792",
+   "name": "Magic Matchstick",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/792/image_en/1486705924.jpg",
+   "number": "TTW-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "白野椋",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: This card deals 200 damage to target J/resonator.",
+   "flavor_text": "These bright burning matches proved too difficult to sell, but they helped sell a lot of water.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/793",
+   "name": "Phoenix, the Flame of the World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/793/image_en/1486705926.jpg",
+   "number": "TTW-031",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Phoenix",
+   "artist": "gozz",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may pay [R][R]. If you do, put this card into its owner's field.",
+   "flavor_text": "Even the immortal flame cannot match a fragment of the Original King's power.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/794",
+   "name": "Sylvia Gill Palarilias",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/794/image_en/1486705930.jpg",
+   "number": "TTW-032",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Minion of Primogenitor",
+   "artist": "SIGMAN",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nFire magic stones you control gain \"[rest]: Produce [G]\".",
+   "flavor_text": "\"So, shall I show you the power that defeated Blazer?\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/795",
+   "name": "Sylvia Gill Palarilias(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/795/image_en/1486705931.jpg",
+   "number": "TTW-032J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Minion of Primogenitor/Dragon",
+   "artist": "SIGMAN",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever a J/resonator that was dealt damage by this card this turn is destroyed ⇒ You may recover up to three target magic stones you control.",
+   "flavor_text": "With just the beat of her wings she twisted and contorted the battlefield.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/796",
+   "name": "Sylvia's Clanmate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/796/image_en/1486705933.jpg",
+   "number": "TTW-033",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "七海ルシア",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[R]: This card gains [+100/0] until end of turn.",
+   "flavor_text": "They're prepared to make the necessary sacrifice.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/797",
+   "name": "Sylvia's Roar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/797/image_en/1486705935.jpg",
+   "number": "TTW-034",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SIGMAN",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "\"All this playing around stops here and now!\" —Sylvia Gill Palarilias",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/798",
+   "name": "The Little Match Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/798/image_en/1486705939.jpg",
+   "number": "TTW-035",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "碧風羽",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nDiscard a card named \"Magic Matchstick\": This card deals 400 damage to target J/resonator.",
+   "flavor_text": "I can't even sell one... everyone, look how bright they burn!",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/799",
+   "name": "Whelp Drake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/79/799/image_en/1486705940.jpg",
+   "number": "TTW-036",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "佐久間さのすけ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.",
+   "flavor_text": "Despite their little bodies, baby dragons are extremely combative.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/800",
+   "name": "Adombrali, the Unfathomable",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/800/image_en/1486705942.jpg",
+   "number": "TTW-037",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 800",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Cthulhu",
+   "artist": "スギカワタクミ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ If it was played by its [Incarnation], for each different attribute among all banished resonators do the following:\n[W]: Gain 400 life.\n[R]: This card deals 400 damage to up to one target resonator.\n[U]: Draw a card.\n[G]: Produce [W], [R], [U], [G], or [B].\n[B]: Your opponent loses 400 life.",
+   "flavor_text": "What it is, what it wants. Even those who have seen it cannot say.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/801",
+   "name": "All Consuming Suspicion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/801/image_en/1486705944.jpg",
+   "number": "TTW-038",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "古城ばんび",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Draw a card.",
+   "flavor_text": "\"Once planted, it grows wildly. That is its power.\" —Overlord of the Seven Lands, Valentina",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/802",
+   "name": "Hera, Goddess of Jealousy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/802/image_en/1486705946.jpg",
+   "number": "TTW-039",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Goddess",
+   "artist": "ネム",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may destroy target regalia with total cost 0. If you do, draw a card.",
+   "flavor_text": "\"No one needs regalia, but me!\" —Alice, the Valkyrie of Fairy Tales",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/803",
+   "name": "Insomniac Dormouse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/803/image_en/1486705947.jpg",
+   "number": "TTW-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "佐久間さのすけ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Rest target resonator with total cost less than or equal to the number of tea party counters on this card. It doesn't recover during its controller's next recovery phase. Then remove all tea party counters from this card.",
+   "flavor_text": "\"You guys have certainly changed a bit.\" —Alice, the Valkyrie of Fairy Tales",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/804",
+   "name": "Invasion Ship, Golden Hind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/804/image_en/1486705951.jpg",
+   "number": "TTW-041",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "kakotomirai",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest], [U][1]: Rest target resonator. It doesn't recover during the recovery phase as long as this card is rested.",
+   "flavor_text": "That ship was built to house a special kind of fighting power.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/805",
+   "name": "Laying the Foundation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/805/image_en/1486705953.jpg",
+   "number": "TTW-042",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "\"Alright, now hand it over, as promised.\"—Overlord of the Seven Lands, Valentina",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/806",
+   "name": "Leviathan, the First of the Sea",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/806/image_en/1486705955.jpg",
+   "number": "TTW-043",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Beast",
+   "artist": "松本エイト",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish three water magic stones: Rest all resonators your opponent controls.",
+   "flavor_text": "Those who saw it lost everything. All that was left was their fear.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/807",
+   "name": "Maritime Lookout",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/807/image_en/1486705956.jpg",
+   "number": "TTW-044",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "塗夢",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ Return target fire resonator to its owner's hand.",
+   "flavor_text": "Her motto is \"Don't mix fire and water.\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/808",
+   "name": "Valentina, Plotting Lord of the Seas",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/808/image_en/1486705958.jpg",
+   "number": "TTW-045",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Overlord",
+   "artist": "石商",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[U][1]: Search your deck for a regalia, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"There is only one path to victory, make allies.\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/809",
+   "name": "Overlord of the Seven Lands, Valentina",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/80/809/image_en/1486705961.jpg",
+   "number": "TTW-045J",
+   "rarity": "JR",
+   "att_def": "700 / 700",
+   "type": "J-Ruler",
+   "race": "Overlord",
+   "artist": "石商",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may reveal any number of Seven Kings J-Rulers with different names you own from outside the game and keep them revealed until end of game.This card gains [+100/+100] for each card revealed this way and it gains all of those cards names and God's Art abilities.",
+   "flavor_text": "\"To rule, the greatest love, it's satisfying enough just to obtain such power, like love for a child.\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/810",
+   "name": "Sane Hatter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/810/image_en/1486705993.jpg",
+   "number": "TTW-046",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "ユウキリリー",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Return target resonator with total cost less than or equal to the number of tea party counters on this card to its owner's hand. Then remove all tea party counters from this card.",
+   "flavor_text": "The Sane Hatter chose his words carefully and moved about calmly. \"First, why don't we have some tea?\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/811",
+   "name": "Send Back",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/811/image_en/1486705996.jpg",
+   "number": "TTW-047",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nReturn target addition, resonator, or regalia to its owner's hand.",
+   "flavor_text": "The tiniest gap in a strategy can decide a battle.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/812",
+   "name": "September Hare",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/812/image_en/1486705998.jpg",
+   "number": "TTW-048",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "ひがし",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[Rest]: If there are two or more tea party counters on this card, draw a card. If you do, remove all tea party counters from this card.",
+   "flavor_text": "The September Hare pondered the meaning of his intelligence. Upon realizing there was no answer, he decided to ponder something else.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/813",
+   "name": "Suseri-hime, Goddess of Passion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/813/image_en/1486706000.jpg",
+   "number": "TTW-049",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "200 / 900",
+   "type": "Resonator",
+   "race": "Goddess",
+   "artist": "長崎祐子",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[U]: This card gains [0/+100] until end of turn.",
+   "flavor_text": "Passion can overpower other emotions in an instant.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/814",
+   "name": "The Overlord's Baptism",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/814/image_en/1486706002.jpg",
+   "number": "TTW-050",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "佐々木光之助",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nChoose a race. Return all resonators of the chosen race to their owners' hands. As long as your J-ruler is \"Overlord of the Seven Lands, Valentina\", you may pay [2] to play its next God's Art ability rather than pay its cost this turn.",
+   "flavor_text": "\"I'll remove anyone who stands in my way. So, who shall join me?\" —Overlord of the Seven Lands, Valentina",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/815",
+   "name": "The Overlord's Invasion Party",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/815/image_en/1486706003.jpg",
+   "number": "TTW-051",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "gozz",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nThis card gains [+100/+100] for each water magic stone you control.",
+   "flavor_text": "Valentina's subjugation of the Seven Lands was rushed. Yet she knew the celebration of a quick victory only meant losing it in the future.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/816",
+   "name": "Valentina's Zealot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/816/image_en/1486706006.jpg",
+   "number": "TTW-052",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 500",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "見田航介",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Your J-ruler cannot be targeted by chants or abilities until end of turn.",
+   "flavor_text": "To a fanatic, death isn't always such a bad thing.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/817",
+   "name": "Wall of Ideas",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/817/image_en/1486706007.jpg",
+   "number": "TTW-053",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "塗夢",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "\"Should we soften them up?\" \"No, we have to make them tougher.\" \"Really?\" \"Really.\"—Reflect, Child of Potential and Refrain, Child of Convergence",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/818",
+   "name": "Water Sprite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/818/image_en/1486706009.jpg",
+   "number": "TTW-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 300",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "下江クリス",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your deck. If it's a Fairy resonator, put it into your hand.",
+   "flavor_text": "\"Friends, I need your help!\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/819",
+   "name": "Beastly Attack",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/81/819/image_en/1486706010.jpg",
+   "number": "TTW-055",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七海ルシア",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "The strength of the blow was so great it even reached the summoner.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/820",
+   "name": "Drop of Yggdrasil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/820/image_en/1486706012.jpg",
+   "number": "TTW-056",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "みえ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Target resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "Contained in this single drop is the power of the great forest.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/821",
+   "name": "Familiar of Refrain",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/821/image_en/1486706014.jpg",
+   "number": "TTW-057",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "乃希",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nIf magic counters would be put on your J/ruler, put that many plus one instead.",
+   "flavor_text": "\"Do you remember why we came to this world?\" \"No, I don't remember.\" \"Really?\" \"Really.\" —Reflect, Child of Potential and Refrain, Child of Convergence",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/822",
+   "name": "Final Forfeit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/822/image_en/1486706016.jpg",
+   "number": "TTW-058",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "You won't find anything here. That's the intended result.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/823",
+   "name": "Fruit of Yggdrasil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/823/image_en/1486706018.jpg",
+   "number": "TTW-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Fruit",
+   "artist": "長崎祐子",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "flavor_text": "Steadily ripening, little by little.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/824",
+   "name": "Holy Ground of the Four Sacred Beasts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/824/image_en/1486706019.jpg",
+   "number": "TTW-060",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Mad",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nYou may pay [1] less to play [Evolution] abilities of resonators you control.",
+   "flavor_text": "\"Everyone, you must grow strong. They're coming to take this place from us.\"—Pricia, Beast Queen in Hiding",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/825",
+   "name": "Hraesvelgr, Drinker of Death",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/825/image_en/1486706021.jpg",
+   "number": "TTW-061",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "kakotomirai",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever an evolution counter is put on this card ⇒ Target player shuffles all magic stones from their graveyard into their magic stone deck and shuffles all other cards from their graveyard into their deck.",
+   "flavor_text": "The cycle of life has the power to purge impurity from itself.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/826",
+   "name": "Pricia, Beast Queen in Hiding",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/826/image_en/1486706023.jpg",
+   "number": "TTW-062",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human/Beast",
+   "artist": "fzwrAym",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[G]: Choose any number of attributes. This card becomes those attributes until end of turn.",
+   "flavor_text": "Strength from adversity. Growth from necessity.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/827",
+   "name": "Reflect, Child of Potential",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/827/image_en/1486706025.jpg",
+   "number": "TTW-063",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Little Boy",
+   "artist": "ケルビン",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[0]: Choose one. Play this ability only during your turn and only once per turn -\nTarget resonator gains [+200/+200] until end of turn. Put a magic counter on this card;\nor draw a card, put a card from your hand on the bottom of your deck. Put a magic counter on this card;\nor recover target resonator at the end of turn. Put a magic counter on this card.",
+   "flavor_text": "A power not seen in this world is gathering.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/828",
+   "name": "Refrain, Child of Convergence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/828/image_en/1486706027.jpg",
+   "number": "TTW-063J",
+   "rarity": "JR",
+   "type": "J-Ruler",
+   "race": "Little Girl",
+   "artist": "ケルビン",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest], remove four magic counters from this card: Search your deck for a card and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "When all possibilities converge at one point, the resulting power will manifest itself.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/829",
+   "name": "Rewriting Laws",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/82/829/image_en/1486706029.jpg",
+   "number": "TTW-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagiにゃん",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nMagic stones you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\" until end of turn. Recover up to two magic stones you control. Draw a card.",
+   "flavor_text": "\"Does it mean we can do anything?\" \"No, it means we can only do what we can.\" \"Really?\" \"Really.\"—Reflect, Child of Potential and Refrain, Child of Convergence",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/830",
+   "name": "Servant of Reflect",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/830/image_en/1486706030.jpg",
+   "number": "TTW-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "古城ばんび",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nRemove a magic counter from your J/ruler: Return this card to its owner's hand.",
+   "flavor_text": "It has a power that doesn't belong in this world.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/831",
+   "name": "Spell-Weaver Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/831/image_en/1486706032.jpg",
+   "number": "TTW-066",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "桂福蔵",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put three magic counters on your J/ruler.",
+   "flavor_text": "The winds she summon release strong magic.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/832",
+   "name": "Spirit of Yggdrasil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/832/image_en/1486706033.jpg",
+   "number": "TTW-067",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "ハタリス",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever an addition is added to this card ⇒ Draw a card.",
+   "flavor_text": "It's connected to all of the ancient forest.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/833",
+   "name": "The Beast Queen's Counterattack",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/833/image_en/1486706035.jpg",
+   "number": "TTW-068",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "fzwrAym",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nTarget J/resonator you control gains [+400/+400] until end of turn. Then that card and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
+   "flavor_text": "\"Valentina! I'll never forgive you!\" —Pricia, Beast Queen in Hiding",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/834",
+   "name": "The Beast Queen's Guardian",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/834/image_en/1486706038.jpg",
+   "number": "TTW-069",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "夕子",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nAs long as there are one or more evolution counters on this card, it gains [+300/+300].",
+   "flavor_text": "Evolving means adapting to a new environment.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/835",
+   "name": "Vedfolnir, Eraser of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/835/image_en/1486706040.jpg",
+   "number": "TTW-070",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "kakotomirai",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever an evolution counter is put on this card ⇒ Search your deck for a card named \"Drop of Yggdrasil\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Should a drop of Yggdrasil ever fall, run.\" —Proverb of Shisei, the Ancient Forest",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/836",
+   "name": "Wind Sprite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/836/image_en/1486706041.jpg",
+   "number": "TTW-071",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "白野椋",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Produce [W].",
+   "flavor_text": "The fairies call the soothing breeze from far off skies.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/837",
+   "name": "Ziz, the Bird that Envelopes the Sky",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/837/image_en/1486706043.jpg",
+   "number": "TTW-072",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Beast",
+   "artist": "Mad",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever an evolution counter is put on this card ⇒ You may put an evolution counter on target resonator with no evolution counters on it.",
+   "flavor_text": "Clouds aren't the only things that darken the skies.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/838",
+   "name": "Barrier of Shadows",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/838/image_en/1486706044.jpg",
+   "number": "TTW-073",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Fushikaden K.K.",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nYour opponent pays [1] more to play regalia's activate abilities.",
+   "flavor_text": "Designed specifically to combat against Seven Kings.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/839",
+   "name": "Black Ribbon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/83/839/image_en/1486706046.jpg",
+   "number": "TTW-074",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "Cola",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Target resonator gains [-400/-400] until end of turn.",
+   "flavor_text": "Trying to take it off only makes it worse.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/840",
+   "name": "Dance of the Shadows",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/840/image_en/1486706052.jpg",
+   "number": "TTW-075",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ひがし",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "A taboo in the old world.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/841",
+   "name": "Girl in Twilight Garb",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/841/image_en/1486706053.jpg",
+   "number": "TTW-076",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "祀花よう子",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[B]: Remove target card in your opponent's graveyard from the game.",
+   "flavor_text": "In the middle of the great conference, the girl appeared. With a shadow darker than black. Her arrival signaled the coming darkness, a darkness reflected in the girl's own heart.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/842",
+   "name": "Dark Alice, Maiden of Slaughter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/842/image_en/1486706056.jpg",
+   "number": "TTW-076J",
+   "rarity": "JR",
+   "att_def": "900 / 900",
+   "type": "J-Ruler",
+   "race": "Shadow/Knight",
+   "artist": "祀花よう子",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nGod's Art [Walpurgis Night] [B][B]: J/resonators your opponent controls gain [-200/-200]. Search your deck for a card named \"Schrödinger, the Fallen Black Cat\" and put it into your field. Then shuffle your deck. (Play God's Art [Walpurgis Night] only once per game.)",
+   "flavor_text": "\"Everyone, I bid you hello...and goodbye.\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/843",
+   "name": "Dark Alice's Familiar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/843/image_en/1486706057.jpg",
+   "number": "TTW-077",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 200",
+   "type": "Resonator",
+   "race": "Shadow/Bat",
+   "artist": "あき",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your deck. If it's a Shadow resonator, put it into your hand.",
+   "flavor_text": "As the light shines brighter, so too do the shadows grow.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/844",
+   "name": "Dark Alice's Shadow Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/844/image_en/1486706059.jpg",
+   "number": "TTW-078",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Shadow/Soldier",
+   "artist": "tokiwa",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Target resonator gains [-200/-200] until end of turn.",
+   "flavor_text": "Even if this warrior should vanish, the shadow of the blade shall still find its mark.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/845",
+   "name": "Dark Arla, the Shadow Wing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/845/image_en/1486706060.jpg",
+   "number": "TTW-079",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 500",
+   "type": "Resonator",
+   "race": "Shadow/Seven Kings",
+   "artist": "今野隼史",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[B][1]: This card deals 600 damage to target resonator with [Flying].",
+   "flavor_text": "The drive to protect the skies became the drive to destroy them.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/846",
+   "name": "Dark Faria, Shadow Princess of Ebony",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/846/image_en/1486706063.jpg",
+   "number": "TTW-080",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Shadow/Seven Kings",
+   "artist": "猫囃子 (Nekobayashi)",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever this card deals damage ⇒ You gain that much life.",
+   "flavor_text": "\"How was it?\" \"Meeow~\" \"Really? That's good.\" —Dark Alice, Maiden of Slaughter and Schrödinger, the Fallen Black Cat",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/847",
+   "name": "Dark Melgis, the Shadow Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/847/image_en/1486706064.jpg",
+   "number": "TTW-081",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Shadow/Seven Kings",
+   "artist": "gekko",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "\"Was it good?\" \"Meeow~\" \"Yeah, that's the kind of guy he was.\"—Dark Alice, Maiden of Slaughter and Schrödinger, the Fallen Black Cat",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/848",
+   "name": "Dark Rezzard, the Dying Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/848/image_en/1486706065.jpg",
+   "number": "TTW-082",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Shadow/Seven Kings",
+   "artist": "touge369",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ You may banish another resonator. If you do, your opponent discards a card and banishes a resonator.",
+   "flavor_text": "All constitution was removed. Replaced by something darker. In time his entire being fell into that darkness.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/849",
+   "name": "Elisabeth, Shadow Princess of Blood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/84/849/image_en/1486706067.jpg",
+   "number": "TTW-083",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 900",
+   "type": "Resonator",
+   "race": "Shadow/Vampire",
+   "artist": "乃希",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen a resonator is put into a graveyard from your opponent's field ⇒ Recover this card and it gains [+400/0] until end of turn.",
+   "flavor_text": "Blood and fear preserve her beauty.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/850",
+   "name": "Jeanne d'Arc, Shadow Princess of Purity",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/850/image_en/1486706068.jpg",
+   "number": "TTW-084",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Shadow",
+   "artist": "Azusa",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen a resonator is put into a graveyard from your opponent's field ⇒ Rest target resonator your opponent controls.",
+   "flavor_text": "\"Alice, I'm scattering the memory of our world to all worlds. That way we're sure to find it again.\" —Scheherazade, the Teller of the Crimson Moon",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/851",
+   "name": "Progenitor Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/851/image_en/1486706070.jpg",
+   "number": "TTW-085",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 300",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "森野ヒロ",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "It asks, \"What is the true nature of the lords of these lands?\" It answers, \"Those who never show their true faces.\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/852",
+   "name": "Recollection of Dystopia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/852/image_en/1486706073.jpg",
+   "number": "TTW-086",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "スギカワタクミ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nYour opponent banishes a resonator. As long as your J-ruler is \"Dark Alice, Maiden of Slaughter\", you may pay [B][B] less to play its God's Art abilities this turn.",
+   "flavor_text": "\"Alice, are you still dreaming of our world? Reality isn't as kind as fairy tales.\" —Dark Alice, Maiden of Slaughter",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/853",
+   "name": "Shadow Assassin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/853/image_en/1486706074.jpg",
+   "number": "TTW-087",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 500",
+   "type": "Resonator",
+   "race": "Shadow",
+   "artist": "Nagiにゃん",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card deals damage to a resonator ⇒ Destroy that resonator.",
+   "flavor_text": "All it takes is a scratch.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/854",
+   "name": "Shadow Doppelganger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/854/image_en/1486706075.jpg",
+   "number": "TTW-088",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator",
+   "race": "Shadow",
+   "artist": "kawaryu",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nAs this card enters your field, you may remove a resonator in your graveyard from the game. If you do, this card enters your field as a copy of the card removed this way.",
+   "flavor_text": "The spitting image... made of shadow of course.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/855",
+   "name": "The Scorn of Dark Alice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/855/image_en/1486706077.jpg",
+   "number": "TTW-089",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "白野椋",
+   "expansion": "The Twilight Wanderer",
+   "text": "Continuous\nLook at target opponent's hand and choose a resonator. They discard that card.",
+   "flavor_text": "\"I don't need that memory.\"—Dark Alice, Maiden of Slaughter",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/856",
+   "name": "Unseen Pressure",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/856/image_en/1486706078.jpg",
+   "number": "TTW-090",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "The Twilight Wanderer",
+   "flavor_text": "Sometimes it's what you don't see that terrifies.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/857",
+   "name": "Dark Machina, Gliding Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/857/image_en/1486706080.jpg",
+   "number": "TTW-091",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Shadow/Seven Kings",
+   "artist": "るみえ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card with no attribute, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Marybell? Where is my Marybell?\"",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/858",
+   "name": "Deployable Defense Device",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/858/image_en/1486706083.jpg",
+   "number": "TTW-092",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 1200",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "草薙蝶炎",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Target addition or regalia cannot be destroyed until end of turn.",
+   "flavor_text": "Designed for durability and quick usage.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/859",
+   "name": "Mass Produced Giant Land Mine",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/85/859/image_en/1486706085.jpg",
+   "number": "TTW-093",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 100",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "森野ヒロ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhen this card enters your field from a chant area ⇒ It deals 1000 damage to target attacking J/resonator.",
+   "flavor_text": "\"That machine king made some pretty interesting stuff.\" —Dark Alice, Maiden of Slaughter",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/860",
+   "name": "Mechanical Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/860/image_en/1486706086.jpg",
+   "number": "TTW-094",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine/Knight of the Round Table",
+   "artist": "竿",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[1]: This card gains [Precision] until end of turn.",
+   "flavor_text": "A knight more faithful than any other.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/861",
+   "name": "Mechanical Sprite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/861/image_en/1486706088.jpg",
+   "number": "TTW-095",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Machine/Fairy",
+   "artist": "サウマロ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[1]: This card gains [Flying] until end of turn.",
+   "flavor_text": "Anything that flutters about the sky will be accepted by the fairies.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/862",
+   "name": "Change the World, Orb of Illusion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/862/image_en/1486706090.jpg",
+   "number": "TTW-096",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "草薙蝶炎",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[G], [rest], remove two magic counters from your J/ruler: Draw a card.",
+   "flavor_text": "A mysterious object that appears different to everyone.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/863",
+   "name": "Excalibur, the God's Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/863/image_en/1486706091.jpg",
+   "number": "TTW-097",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "猫囃子 (Nekobayashi)",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "flavor_text": "The sword destined to the chosen one.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/864",
+   "name": "Excalibur, the Spirit God's Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/864/image_en/1486706094.jpg",
+   "number": "TTW-098",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "猫囃子 (Nekobayashi)",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "flavor_text": "\"Faria, this was your intention, wasn't it? I understand. I'll open the path to the future.\"—Alice, Fairy Queen",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/865",
+   "name": "Laevateinn, the Demon Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/865/image_en/1486706095.jpg",
+   "number": "TTW-099",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "douzen",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "flavor_text": "The sword destined to those who crave power.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/866",
+   "name": "Schrödinger, the Fallen Black Cat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/866/image_en/1486706098.jpg",
+   "number": "TTW-100",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "上木乃アロエ",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "flavor_text": "\"My cat will feast on your existence. From it you shall be reborn. I wonder... what will you become?\" —Dark Alice, Maiden of Slaughter",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/867",
+   "name": "Fairy's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/867/image_en/1486706100.jpg",
+   "number": "TTW-101",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "下江クリス",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[W], [rest]: Target Fairy resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "It's a memory the future chose not to forget.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/868",
+   "name": "Ruler's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/868/image_en/1486706102.jpg",
+   "number": "TTW-102",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "瞬く (Ga-show)",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Produce [W], [R], [U], [G], or [B].",
+   "flavor_text": "It's a memory carved by the victor.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/869",
+   "name": "Sacred Beast's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/86/869/image_en/1486706104.jpg",
+   "number": "TTW-103",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Cola",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[G], [rest]: Target Four Sacred Beasts or Beast J/resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "It's a memory fostered by Yggdrasil.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/870",
+   "name": "Shadow's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/870/image_en/1486706109.jpg",
+   "number": "TTW-104",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "城戸春一",
+   "expansion": "The Twilight Wanderer",
+   "text": "Automatic\nWhenever a Shadow resonator enters your field ⇒ Target resonator gains [-100/0] until end of turn.",
+   "flavor_text": "It's a world's memory of revenge.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/871",
+   "name": "Unyielding Flame's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/871/image_en/1486706111.jpg",
+   "number": "TTW-105",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "gekko",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: If target resonator would deal damage this turn, it deals that much +200 instead.",
+   "flavor_text": "It's a memory of tenacity.",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/872",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/872/image_en/1486706112.jpg",
+   "number": "TTW-106",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Moopic",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/873",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/873/image_en/1486706114.jpg",
+   "number": "TTW-107",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Moopic",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/874",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/874/image_en/1486706116.jpg",
+   "number": "TTW-108",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Moopic",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/875",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/875/image_en/1486706118.jpg",
+   "number": "TTW-109",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Moopic",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "The Twilight Wanderer"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/876",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/876/image_en/1486706120.jpg",
+   "number": "TTW-110",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Moopic",
+   "expansion": "The Twilight Wanderer",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "The Twilight Wanderer"
+  }
+ ]
+}

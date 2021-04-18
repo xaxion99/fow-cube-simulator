@@ -1,0 +1,1305 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/4540",
+   "name": "Acrobatic Shot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4540/image_en/d0744796-1d36-4bd9-9b12-b8ca25c84756.jpg",
+   "number": "GITS2045-001",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4541",
+   "name": "Ada Byron",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4541/image_en/3e2363ee-575f-4adc-8bdb-03ca19b97922.jpg",
+   "number": "GITS2045-002",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Put a Machine from your graveyard into your hand.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4542",
+   "name": "Android Harlot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4542/image_en/ac7e5743-7a6d-49ee-85fe-575be1bb7e35.jpg",
+   "number": "GITS2045-003",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 300",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\nBanish this card: Draw a card. Then discard a card.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4543",
+   "name": "Aramaki & Togusa",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4543/image_en/179c0d67-aa93-4c6d-ae0c-8f2e5487bb81.jpg",
+   "number": "GITS2045-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Draw two cards.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4544",
+   "name": "Aramaki, An Executive of the Public Security",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4544/image_en/b04299a7-968b-4fe3-825c-84b7b209fdad.jpg",
+   "number": "GITS2045-005",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "600 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Draw two cards.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4545",
+   "name": "Armed Suit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4545/image_en/e13bd88f-8871-462d-aea7-cbc15071f336.jpg",
+   "number": "GITS2045-006",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Addition",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Continuous\nResonators you control gain [+400/+400].",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4546",
+   "name": "Armored Car",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4546/image_en/5c8f5e8f-3f62-4aaa-854d-2d96dfb9d082.jpg",
+   "number": "GITS2045-007",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4547",
+   "name": "Batou",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4547/image_en/e50d6468-0e49-4873-a0eb-e4e669fcbe27.jpg",
+   "number": "GITS2045-008",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\n[Dive][4]: Target resonator gains [+1500/+1500] until end of turn.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4548",
+   "name": "Batou & Ishikawa",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4548/image_en/472bc285-38c5-4f8a-9e86-9701ebc895e0.jpg",
+   "number": "GITS2045-009",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Continuous\nThis card cannot be attacked.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4549",
+   "name": "Batou & Motoko",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4549/image_en/9282c8f4-2c2f-4a02-a8c2-0d9009a85171.jpg",
+   "number": "GITS2045-010",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search for a card with \"Batou\" or \"Motoko\" in its name but not \"Batou & Motoko\", and put it into the field. Then shuffle your deck.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4550",
+   "name": "Batou & Saito",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4550/image_en/cdb8f6cb-0953-485e-bcc1-a781d3d88780.jpg",
+   "number": "GITS2045-011",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Destroy target resonator with total cost 3 or less.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4551",
+   "name": "Batou & Stan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4551/image_en/60e890da-323c-44b5-8c88-60d4c1d6f8d8.jpg",
+   "number": "GITS2045-012",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Destroy target resonator.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4552",
+   "name": "Batou & Togusa",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4552/image_en/c415660a-e7ac-4038-b0bf-8f6d20b2d9a4.jpg",
+   "number": "GITS2045-013",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Return target resonator to its owner's hand.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4553",
+   "name": "Batou, a Mercenary Crew",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4553/image_en/55faccee-a6bf-4951-b7c6-38185e0c742f.jpg",
+   "number": "GITS2045-014",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "att_def": "2000 / 1500",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4554",
+   "name": "Batou, the Ranger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4554/image_en/36e2b63e-0aa2-4dec-9399-c90c03a390d8.jpg",
+   "number": "GITS2045-015",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Continuous\nThis card cannot be cancelled.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4555",
+   "name": "Blackhawk",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4555/image_en/9230f9c4-e407-4de3-981d-126e0a95ba98.jpg",
+   "number": "GITS2045-016",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "att_def": "1300 / 1300",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\nWhenever this card attacks ⇒ This card deals 1300 damage to another target resonator.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4556",
+   "name": "Borma",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4556/image_en/961dbf34-33f1-496f-8630-62308e7e6bcc.jpg",
+   "number": "GITS2045-017",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\n[Dive][4]: Destroy all resonators with total cost 3 or less.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4557",
+   "name": "Buggy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4557/image_en/3a546031-e6da-46ec-8d65-6f6f0467200f.jpg",
+   "number": "GITS2045-018",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Reveal the top 4 cards of your deck. You may put a Machine or Human from among them into your hand. Put the rest on the bottom of your deck in any order.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4558",
+   "name": "Civil with Business Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4558/image_en/6c924c8d-ce12-4be3-b020-b13214bb4dac.jpg",
+   "number": "GITS2045-019",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Draw a card.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4559",
+   "name": "Cyber Interface",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4559/image_en/e8ba4720-e474-49c7-99d9-9f794d898807.jpg",
+   "number": "GITS2045-020",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4560",
+   "name": "Delta-Cyborged Army",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4560/image_en/e54cb912-b5ad-4514-b0fe-e8a97a809601.jpg",
+   "number": "GITS2045-021",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4561",
+   "name": "Evasion Action",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4561/image_en/4f090229-ce3f-46ad-a94c-d7d5a5a182f8.jpg",
+   "number": "GITS2045-022",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4562",
+   "name": "Gary Harts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4562/image_en/0a84071e-4b19-49bc-a58b-2501fde55a95.jpg",
+   "number": "GITS2045-023",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "400 / 1200",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4563",
+   "name": "Gaze with Curiosity",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4563/image_en/7c1f51cb-46f4-4711-a7d5-b47c6c104d7e.jpg",
+   "number": "GITS2045-024",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4564",
+   "name": "Ghost Meeting",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4564/image_en/e6be0ba3-fddc-4d3f-86fe-d7650c024944.jpg",
+   "number": "GITS2045-025",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4565",
+   "name": "Hacker with a Brief",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4565/image_en/d22cf131-1ad4-42be-85ee-b69cf968e73d.jpg",
+   "number": "GITS2045-026",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "100 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4566",
+   "name": "Head Mounted Display",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4566/image_en/bb380ba1-e4e3-4830-8b0f-0b648e13bf47.jpg",
+   "number": "GITS2045-027",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Addition",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\nWhenever a resonator enters your field ⇒ Look at your opponent's hand.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4567",
+   "name": "Infiltration Reconnaissance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4567/image_en/6270659b-c97b-4d13-83d9-95b57edaf9be.jpg",
+   "number": "GITS2045-028",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4568",
+   "name": "Ishikawa & Motoko",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4568/image_en/4e2a2dfe-290d-4b88-85ad-2627c96fd5b1.jpg",
+   "number": "GITS2045-029",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Destroy target non-J-Ruler, non-magic stone entity.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4569",
+   "name": "Ishikawa, the Experienced Crew",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4569/image_en/83a3781e-a67a-46c7-8837-32b1206444b7.jpg",
+   "number": "GITS2045-030",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\n[Dive][3]: Destroy target addition. (Pay [3] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4570",
+   "name": "John Smith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4570/image_en/e5e92763-ba80-49ba-8199-e0853a01f138.jpg",
+   "number": "GITS2045-031",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Rest target resonator.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4571",
+   "name": "Jumping",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4571/image_en/29517b11-adf8-4638-a374-7184558a9472.jpg",
+   "number": "GITS2045-032",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4572",
+   "name": "Kurisu Otomo Teito",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4572/image_en/c7a0856a-8687-4579-83b8-fa748319b23d.jpg",
+   "number": "GITS2045-033",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "800 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\nWhenever this card is targeted by a spell or ability ⇒ Draw a card.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4573",
+   "name": "Kusanagi Motoko, Boarding Tachikoma",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4573/image_en/9cbacad8-c17e-4267-990b-969645711df2.jpg",
+   "number": "GITS2045-034",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/07.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Rest all resonators your opponent controls.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4574",
+   "name": "Kusanagi Motoko, in Formal Wear",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4574/image_en/5f2bce5c-de7a-469c-a239-d5701ffec17f.jpg",
+   "number": "GITS2045-035",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Choose a card with [Dive] from your deck. Remove it from the game with a cyberbrain counter on it. Then shuffle your deck.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4575",
+   "name": "Kusanagi Motoko, the Captain of Mercenary",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4575/image_en/619cf4b9-b87c-4f6f-aebb-7ebaca9ae952.jpg",
+   "number": "GITS2045-036",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4576",
+   "name": "Kusanagi Motoko, the Major",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4576/image_en/e9ad7f76-1b42-4886-9670-bef8a235091b.jpg",
+   "number": "GITS2045-037",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Continuous\nThe named card can't be played.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4577",
+   "name": "Laying Down of Arms",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4577/image_en/fd9880e4-6557-4c70-ba6b-b6c02f79a93b.jpg",
+   "number": "GITS2045-038",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4578",
+   "name": "Maid Robot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4578/image_en/7c37d389-3964-4b97-adf6-96f424a42227.jpg",
+   "number": "GITS2045-039",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4579",
+   "name": "Nomads",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4579/image_en/8eb404c5-5cde-4869-9658-8263024f2136.jpg",
+   "number": "GITS2045-040",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4580",
+   "name": "Onslaught",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4580/image_en/545972a0-3af8-43d7-a706-6083cdabe3d5.jpg",
+   "number": "GITS2045-041",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4581",
+   "name": "Patric Huge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4581/image_en/de944021-ce6c-45e4-938a-a78a8f279ea4.jpg",
+   "number": "GITS2045-042",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1000 / 1700",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4582",
+   "name": "Paz",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4582/image_en/3736e166-499b-4f09-871f-0ac183b6f894.jpg",
+   "number": "GITS2045-043",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\n[Dive][2]: You gain 600 life.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4583",
+   "name": "Presidential Order",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4583/image_en/627cfa0e-eb7a-4bdd-bb50-767a0d267c96.jpg",
+   "number": "GITS2045-044",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4584",
+   "name": "Purin Esaki, an Investigator",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4584/image_en/d13bd298-e498-4198-9d1f-81bbe8bd11d7.jpg",
+   "number": "GITS2045-045",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4585",
+   "name": "Purin Esaki, the Girl in Love",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4585/image_en/1f71a68c-de77-49e1-8532-196b1f3f029d.jpg",
+   "number": "GITS2045-046",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\n[Rest]: Produce [1]",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4586",
+   "name": "Raydist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4586/image_en/98eccec9-6d93-4b63-9c52-80518c26d4b3.jpg",
+   "number": "GITS2045-047",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Your opponent discard a card from their hand.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4587",
+   "name": "Roundhouse Kick",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4587/image_en/1f1c8b82-d6b8-4719-8837-856182c91841.jpg",
+   "number": "GITS2045-048",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4588",
+   "name": "Saito & Stan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4588/image_en/00ee97ad-9993-48b9-800d-b9a08802eb21.jpg",
+   "number": "GITS2045-049",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\nWhen this card is put into graveyard from the field ⇒ Draw a card.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4589",
+   "name": "Saito, Boarding Tachikoma",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4589/image_en/888e0bcd-66f3-4a39-bdf0-39eae5f7b7b6.jpg",
+   "number": "GITS2045-050",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4590",
+   "name": "Saito, in Relax",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4590/image_en/062e2012-0e9f-42f4-a877-70ffd3f77c6a.jpg",
+   "number": "GITS2045-051",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "700 / 600",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4591",
+   "name": "Saito, the Skilled Sniper",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4591/image_en/7b4f077e-cf6e-46fe-9f41-da44851e8967.jpg",
+   "number": "GITS2045-052",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\n[Rest]: This card deals 400 damage to target resonator.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4592",
+   "name": "Saito, the Sniper",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4592/image_en/917dbc4f-04ab-4436-9580-fe98ffbfdd62.jpg",
+   "number": "GITS2045-053",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\n[Dive][3]: Destroy target resonator. You lose 400 life.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4593",
+   "name": "Sanji Yaguchi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4593/image_en/1eda372f-c867-44fa-957c-057a026dd783.jpg",
+   "number": "GITS2045-054",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1600 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4594",
+   "name": "Secret Agent",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4594/image_en/545b4e51-df2e-43d6-b1d4-821ebccc699d.jpg",
+   "number": "GITS2045-055",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Continuous\nThis card cannot be blocked.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4595",
+   "name": "Security Robot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4595/image_en/fe766835-6c64-4851-903b-c61bb3e9572d.jpg",
+   "number": "GITS2045-056",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4596",
+   "name": "SP",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4596/image_en/2fc00bfb-4bee-45de-abdb-403d13a1a2be.jpg",
+   "number": "GITS2045-057",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\nBanish this card: Target resonator gains [Barrier].",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4597",
+   "name": "Spider-Type Drone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4597/image_en/01dfdea7-9865-4791-ac10-f92ea2106077.jpg",
+   "number": "GITS2045-058",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Look at the top card of your opponent's deck. You may put it on the bottom of the deck.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4598",
+   "name": "Stan, the Good Helper",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4598/image_en/dd1bf6f2-8c86-4d69-b431-de732652573d.jpg",
+   "number": "GITS2045-059",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Put target resonator from your graveyard into your hand.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4599",
+   "name": "Stan, the Noob",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/45/4599/image_en/cbefceb8-4239-477b-b8d8-042c40bfd3f1.jpg",
+   "number": "GITS2045-060",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4600",
+   "name": "Stealth Drone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4600/image_en/8a3d158b-98ab-4ad2-8013-5081f1811f9d.jpg",
+   "number": "GITS2045-061",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\nWhenever this card attacks ⇒ This card deals 800 damage to another target resonator.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4601",
+   "name": "Tachikoma A",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4601/image_en/25d11866-da42-426c-a9ce-7dd255534ea8.jpg",
+   "number": "GITS2045-062",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Target resonator gains [+600/+600].",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4602",
+   "name": "Tachikoma B",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4602/image_en/f4bd0425-1e51-4d69-a49e-536aa33e8597.jpg",
+   "number": "GITS2045-063",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Return target resonator to its owner's hand.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4603",
+   "name": "The President of Obsidian Inc.",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4603/image_en/6df06282-7764-4e93-b31e-ab257da059a2.jpg",
+   "number": "GITS2045-064",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4604",
+   "name": "Togusa",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4604/image_en/bf6a5e53-f52c-4067-b6ed-33b879b8d906.jpg",
+   "number": "GITS2045-065",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4605",
+   "name": "Togusa, in the Secret Order",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4605/image_en/b123a123-5e0c-4f50-9c5b-1eea992c8545.jpg",
+   "number": "GITS2045-066",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\n[2]: Remove target card in a graveyard from the game.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4606",
+   "name": "Togusa, the Competent Investigator",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4606/image_en/f2016b23-5d79-4ea6-bbea-a00038e4edcf.jpg",
+   "number": "GITS2045-067",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Look at the top 3 cards of your deck. Put a card from among them into your hand, and the rest on the top of your deck in any order.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4607",
+   "name": "Top Secret Document",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4607/image_en/29bd3e65-054c-452b-bb96-59334ca177cf.jpg",
+   "number": "GITS2045-068",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4608",
+   "name": "Truck",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4608/image_en/d000f257-8feb-4df1-a8db-251cea4aed77.jpg",
+   "number": "GITS2045-069",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "att_def": "1300 / 1500",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Reveal the top 4 cards of your deck. You may put up to 2 Machine and/or Human cards from among them into your hand. Put the rest on the bottom of the deck in any order.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4609",
+   "name": "Wasp-Type Drone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4609/image_en/0f69455d-2a34-494e-a928-b998b5c0dc8e.jpg",
+   "number": "GITS2045-070",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Automatic\nWhenever this card attacks ⇒ Put the top card of your opponent's deck into the graveyard.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4610",
+   "name": "Watchdog Robot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4610/image_en/57609183-1261-4073-8d49-cec567b500fb.jpg",
+   "number": "GITS2045-071",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "text": "Activate\nBanish this card: This card deals 200 damage to target resonator.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4611",
+   "name": "Wired Anchor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4611/image_en/df2be9b7-7a65-43a7-a491-5d08808d3712.jpg",
+   "number": "GITS2045-072",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4612",
+   "name": "Worldwide Default",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4612/image_en/ceed9f3e-3f3e-419d-a82b-7b3e77fa7d3c.jpg",
+   "number": "GITS2045-073",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/07.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4613",
+   "name": "Edwards Air Force Base",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4613/image_en/4b5a39bc-fed8-47ee-932e-4da26385b962.jpg",
+   "number": "GITS2045-074",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4614",
+   "name": "Home Ministry",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4614/image_en/0a88be33-c3f0-4ca7-b0f5-df3ef61c9071.jpg",
+   "number": "GITS2045-075",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4615",
+   "name": "NSA Headquarters",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4615/image_en/e3fd57ce-99b5-4f09-a951-d4dc34a9309f.jpg",
+   "number": "GITS2045-076",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4616",
+   "name": "Prime Minister's Office",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4616/image_en/267f0ddc-2039-4d29-8bf7-edc142441593.jpg",
+   "number": "GITS2045-077",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4617",
+   "name": "Section 9 New Headquarters",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/46/4617/image_en/bdbf6707-4ed4-43dd-9294-8fde758ff140.jpg",
+   "number": "GITS2045-078",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
+  }
+ ]
+}

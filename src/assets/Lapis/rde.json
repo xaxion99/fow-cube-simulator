@@ -1,0 +1,2411 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/2497",
+   "name": "Dragon Power",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/2497/image_en/1485841285.jpg",
+   "number": "RDE-001",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "gozz",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "The power that enabled the opposition of Alhama'at.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2498",
+   "name": "Guardian of Altean Law",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/2498/image_en/1485841286.jpg",
+   "number": "RDE-002",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 1000",
+   "type": "Resonator",
+   "race": "Ancient",
+   "artist": "douzen",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nEach turn, J/resonators your opponent controls cannot attack unless it's your opponent's first attack this turn.",
+   "flavor_text": "\"Restraint is the true strength of law.\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2499",
+   "name": "Rachel, Nephilim Commander",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/2499/image_en/1485841287.jpg",
+   "number": "RDE-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Ancient/Angel/Demon",
+   "artist": "Azusa",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put target Demon with total cost 1 from your graveyard into your field.",
+   "flavor_text": "To save demons is the hope of all angels.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2500",
+   "name": "Ryula, Alabaster Dragon Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2500/image_en/1485841289.jpg",
+   "number": "RDE-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Ancient/Dragonoid",
+   "artist": "ishishou",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nOther Ancients and Dragonoids you control gain [+200/+200].",
+   "flavor_text": "\"Millium. I give you my power.\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2501",
+   "name": "Shield of the Nephilim",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2501/image_en/1485841291.jpg",
+   "number": "RDE-005",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "Mana can become shield or sword.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2502",
+   "name": "Tiny Alabaster Drake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2502/image_en/1485841293.jpg",
+   "number": "RDE-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "100 / 300",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Sanosuke Sakuma",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhenever this card attacks ⇒ [Force]1 (Roll a die.) This card gains [+X00/0] until end of turn, where X is the result of the roll.",
+   "flavor_text": "Force emboldens those that stand against evil.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2503",
+   "name": "Unleashed Dragonoid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2503/image_en/1485841296.jpg",
+   "number": "RDE-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 800",
+   "type": "Resonator",
+   "race": "Ancient/Dragonoid",
+   "artist": "JURI",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhenever this card attacks ⇒ [Force]1 (Roll a die.) This card gains [+X00/0] until end of turn, where X is the result of the roll.",
+   "flavor_text": "The ancient Dragonoids were enslaved by Alhama'at long ago.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2504",
+   "name": "Zero's Wrath",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2504/image_en/1485841297.jpg",
+   "number": "RDE-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "lack",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "So strong was Zero's anger and sorrow, that Alteans caught up in it vanished without a trace.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2505",
+   "name": "Fiery Soldier of Milest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2505/image_en/1485841299.jpg",
+   "number": "RDE-009",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "M ganzy",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nTreat this card as a fire magic stone.",
+   "flavor_text": "To burn is fire's only desire.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2506",
+   "name": "Memory to Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2506/image_en/1485841300.jpg",
+   "number": "RDE-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Fragmented souls, nourish my power.\" -Gill Lapis, Conqueror of Attoractia",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2507",
+   "name": "Milest, the First Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2507/image_en/1485841301.jpg",
+   "number": "RDE-011",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Six Sages",
+   "artist": "SIGMAN",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Fire Magic Stone ⇒ This card gains [+100/0] for each fire magic stone you control and [Pierce] until end of turn.",
+   "flavor_text": "\"Now this doesn't look like a very happy reunion.\" -Almerius, Summoner of Spirits",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2508",
+   "name": "Reincarnation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2508/image_en/1485841303.jpg",
+   "number": "RDE-012",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Reincarnation. This is the new power I found!\" -Reincarnated Maiden of Flame, Pricia",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2509",
+   "name": "Rising Fire Strike",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2509/image_en/1485841306.jpg",
+   "number": "RDE-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SAO",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "Those that fear heights look to others for the strength.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2510",
+   "name": "Salamander, the Spirit of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2510/image_en/1485841307.jpg",
+   "number": "RDE-014",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 100",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\nBanish this card: This card deals damage equal to its ATK to target J/resonator.",
+   "flavor_text": "Almerius, master of spirits that she was, controlled spirits of all elements.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2511",
+   "name": "Sprinting Flame Horse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2511/image_en/1485841308.jpg",
+   "number": "RDE-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Nanami Lusia",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[Inheritance][R]: Target J/resonator gains [+200/+200] and [Swiftness] until end of turn.",
+   "flavor_text": "\"Be careful he doesn't buck you off. Ah! Not so fast! It's hot.\" -Pricia, True Beastmaster",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2512",
+   "name": "Vengeful Attoractian Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2512/image_en/1485841310.jpg",
+   "number": "RDE-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "RYUEMON",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Fire Magic Stone (Whenever a fire magic stone enters your field.) ⇒ This card deals 200 damage to target opponent.",
+   "flavor_text": "Using Attoractia, Lapis attacked his father with the regalia's memories of grief and destruction.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2513",
+   "name": "Apprentice Wererabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2513/image_en/1485841311.jpg",
+   "number": "RDE-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 300",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "yua",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Water Magic Stone (Whenever a water magic stone enters your field.) ⇒ This card gains [+300/+300] and [Flying] until end of turn.",
+   "flavor_text": "\"I can fly too!...sometimes.\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2514",
+   "name": "Charlotte's Water Dragon Technique",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2514/image_en/1485841313.jpg",
+   "number": "RDE-018",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"This time, turn to a dragon!\" -Charlotte, Wielder of the Sacred Spirit",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2515",
+   "name": "Dragonoid Jailor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2515/image_en/1485841315.jpg",
+   "number": "RDE-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Ancient/Dragonoid",
+   "artist": "Mayo",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest]: [Force]1 (Roll a die.) Target J/resonator gains [-X00/0] until end of turn, where X is the result of the roll.",
+   "flavor_text": "With help from the Dragonoids, Millium's team snuck deep into enemy territory.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2516",
+   "name": "Eia, God of Water",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2516/image_en/1485841317.jpg",
+   "number": "RDE-020",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "Mayo",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Water Magic Stone ⇒ Draw a card.",
+   "flavor_text": "Kaguya's prayer awoke ancient myths.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2517",
+   "name": "Kaguya's Decision",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2517/image_en/1485841318.jpg",
+   "number": "RDE-021",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "uekino aroe",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Even if I have to come back in a new body again. One day...I will save you.\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2518",
+   "name": "Manservant to the Water God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2518/image_en/1485841320.jpg",
+   "number": "RDE-022",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Shirono Muku",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nTreat this card as a water magic stone.",
+   "flavor_text": "To surge and flow is water's only desire.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2519",
+   "name": "Undine, the Spirit of Water",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2519/image_en/1485841321.jpg",
+   "number": "RDE-023",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Matsurika Yoko",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may return target resonator your opponent controls with total cost less than or equal to the number of water magic stones you control to its owner's hand.",
+   "flavor_text": "\"Where's Fiethsing?\"...Silence was all the answer Almerius needed.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2520",
+   "name": "Water Kimono of Twelve Parts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2520/image_en/1485841323.jpg",
+   "number": "RDE-024",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Treasury Item",
+   "artist": "ShiroYayoi",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card is bestowed to a resonator ⇒ If you control a resonator and twelve \"Water Kimono of Twelve Parts\" bestowed to it, you win the game.",
+   "flavor_text": "If twelve are ever assembled, they create an unparalleled beauty.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2521",
+   "name": "Divine Bird of Attoractia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2521/image_en/1485841326.jpg",
+   "number": "RDE-025",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Divine Beast",
+   "artist": "Hayama Kohei",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card leaves your field for a non-field zone ⇒ Draw a card.",
+   "flavor_text": "Summoning the beasts from Attoractia, Pricia readied herself for her final clash with Valentina.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2522",
+   "name": "Gilgamesh, Immortal Hunter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2522/image_en/1485841331.jpg",
+   "number": "RDE-026",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 1000",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Wind Magic Stone ⇒ Produce [W], [R], [U], [G], or [B].",
+   "flavor_text": "Kaguya asked the man if there was a way to save a dead soul. The man answered that only undeath was possible for such a thing.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2523",
+   "name": "Heavenly Ox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2523/image_en/1485841333.jpg",
+   "number": "RDE-027",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Nekobayashi",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest]: Target J/resonator gains [+700/+700] until end of turn.",
+   "flavor_text": "\"Rely on me if you will, but don't trouble me with your worries.\" -Gilgamesh, Immortal Hunter",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2524",
+   "name": "Miracle Millennia Medicine",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2524/image_en/1485841335.jpg",
+   "number": "RDE-028",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Treasury Item",
+   "artist": "noki",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\nBanish this card: Target up to three non-magic stone cards in a single graveyard. The owner of those cards shuffles them into their deck.",
+   "flavor_text": "Even such a fabled medicine proved ineffectual in restoring the dead to life.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2525",
+   "name": "Research!",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2525/image_en/1485841336.jpg",
+   "number": "RDE-029",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "saumaro",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Well then, for now, I shall aid your quest. I've certainly got the time.\" -Gilgamesh, Immortal Hunter",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2526",
+   "name": "Silph, the Spirit of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2526/image_en/1485841338.jpg",
+   "number": "RDE-030",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Nekobayashi",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhenever another Spirit enters a field ⇒ Put a [+100/+100] counter on this card.",
+   "flavor_text": "Almerius' skill with spirits worked as a chemical reaction, synergizing with them.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2527",
+   "name": "Spinning Myths",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2527/image_en/1485841341.jpg",
+   "number": "RDE-031",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kamijyo Roro",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "Fairy tales are told, myths are spun.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2528",
+   "name": "Wind Clad Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2528/image_en/1485841342.jpg",
+   "number": "RDE-032",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "uekino aroe",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put a [100/100] wind Elf resonator token into your field.",
+   "flavor_text": "Even the winds sang a remorseful song upon Fiethsing's death.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2529",
+   "name": "Alhama'at's Purge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2529/image_en/1485841346.jpg",
+   "number": "RDE-033",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "Nanami Lusia",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"I require nothing else from you.\" -Gill Alhama'at",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2530",
+   "name": "Buer, Great President of Hell",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2530/image_en/1485841348.jpg",
+   "number": "RDE-034",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "tokiwa",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\nBanish a resonator: This card gains [+200/+200] until end of turn.",
+   "flavor_text": "A demon commander is always last to leave the battlefield.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2531",
+   "name": "Demon Captain, Eligos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2531/image_en/1485841350.jpg",
+   "number": "RDE-035",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "touge369",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put target Demon resonator with total cost 3 or less from your graveyard into your field.",
+   "flavor_text": "None dare disobey her orders.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2532",
+   "name": "Demon Orderly",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2532/image_en/1485841351.jpg",
+   "number": "RDE-036",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "bambi kojo",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nTreat this card as a darkness magic stone.",
+   "flavor_text": "The creature wastes no time with speech. Its arrival tells all that needs to be told.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2533",
+   "name": "Fury of the Obsidian Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2533/image_en/1485841354.jpg",
+   "number": "RDE-037",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Wretched, inferior creatures!\" -Viola, Obsidian Dragon Princess",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2534",
+   "name": "The Insane Dark Hatter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2534/image_en/1485841355.jpg",
+   "number": "RDE-038",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "yuhki lily",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest]: This card and target resonator gain [0/-400] until end of turn.",
+   "flavor_text": "\"So what if I go crazy from time to time. What's the problem?\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2535",
+   "name": "Viola, Obsidian Dragon Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2535/image_en/1485841357.jpg",
+   "number": "RDE-039",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Ancient/Dragonoid",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[Inheritance][B][B]: Your J-ruler gains [Imperishable] until end of turn. If your J-ruler is \"Ebon Dragon Emperor, Gill Alhama'at\", you may pay [B][B] less to play this card's [Inheritance] abilities.",
+   "flavor_text": "\"This body, this heart, beats only for Alhama'at.\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2536",
+   "name": "Viola's Machinations",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2536/image_en/1485841358.jpg",
+   "number": "RDE-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "Viola can sap the will of enemies, using it to power Alhama'at.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2537",
+   "name": "Alabaster Dragon Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2537/image_en/1485841360.jpg",
+   "number": "RDE-041",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Ancient/Dragonoid",
+   "artist": "SIGMAN",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ [Force]1 (Roll a die.) Put X [+100/+100] counters on this card, where X is the result of the roll.",
+   "flavor_text": "The power of the Dragonoids is now known by a new name. Force.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2538",
+   "name": "Alice's World of Madness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2538/image_en/1485841362.jpg",
+   "number": "RDE-042",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nResonators gain [-200/-200].",
+   "flavor_text": "Alice created a world that would steal away anyone's sanity.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2539",
+   "name": "Almerius, Summoner of Spirits",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2539/image_en/1485841364.jpg",
+   "number": "RDE-043",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Six Sages",
+   "artist": "ponkichi",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhenever a Spirit enters your field ⇒ You gain 400 life.",
+   "flavor_text": "Leader of the six sages, master of spirits.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2540",
+   "name": "Black Heart Alice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2540/image_en/1485841366.jpg",
+   "number": "RDE-044",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 1000",
+   "type": "Resonator",
+   "race": "Wanderer/Fairy Tale",
+   "artist": "Wednesday",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[W][B][1], banish a non-token resonator: Destroy target non-magic stone, non-J/ruler card.",
+   "flavor_text": "In pure light or shadow, there is order. In a swirl of both, there is only chaos.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2541",
+   "name": "Black Hole of the Spirit World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2541/image_en/1485841367.jpg",
+   "number": "RDE-045",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "M ganzy",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous",
+   "flavor_text": "A place where no life can survive.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2542",
+   "name": "Blazer, Prisoner of Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2542/image_en/1485841368.jpg",
+   "number": "RDE-046",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dragon/Zombie",
+   "artist": "kakotomirai",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[R][R][B][B][2]: Put this card from your graveyard into your field.",
+   "flavor_text": "Mindless, the creature revived again and again.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2543",
+   "name": "Burning Pot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2543/image_en/1485841370.jpg",
+   "number": "RDE-047",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "700 / 100",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "Slipping past most any defense required swift and careful attacks.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2544",
+   "name": "Concord of Saints and Beasts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2544/image_en/1485841372.jpg",
+   "number": "RDE-048",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Faria!\" \"Pricia, it's good to see you again.\" \"I..you...what happened to us?\" \"We can talk about that later. We've got work to do.\" \"Is...that...\" \"Yes...its Alice.\" -Faria, Ruler of Divine Beasts and Reincarnated Maiden of Flame, Pricia",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2545",
+   "name": "Cryptid of Tenacious Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2545/image_en/1485841375.jpg",
+   "number": "RDE-049",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Nagi-nyan",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ Remove the top card of your opponent's deck from the game.",
+   "flavor_text": "\"Time to settle an old family affair.\" -Gill Lapis, Rebel of Darkest Fires",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2546",
+   "name": "Door of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2546/image_en/1485841376.jpg",
+   "number": "RDE-050",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "BANAMONS*",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "To open it is to look upon unknowable truths. Its toll is hefty indeed.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2547",
+   "name": "Dragon of Fire and Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2547/image_en/1485841378.jpg",
+   "number": "RDE-051",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "ComamitsuZaki",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Wind Magic Stone (Whenever a wind magic stone enters your field.) ⇒ This card gains [0/+500] and [Flying] until end of turn.",
+   "flavor_text": "Fire means it's angry. Wind means it's leaving.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2548",
+   "name": "Earthfallen Giant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2548/image_en/1485841379.jpg",
+   "number": "RDE-052",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nAt end of turn ⇒ Banish this card.",
+   "flavor_text": "The giants that fall from the sky are the worst of their kind.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2549",
+   "name": "End of Days",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2549/image_en/1485841381.jpg",
+   "number": "RDE-053",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "M ganzy",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "The end came swiftly.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2550",
+   "name": "Erasure",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2550/image_en/1485841383.jpg",
+   "number": "RDE-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "sasaki kounosuke",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Meaningless existences.\" -Gill Alhama'at",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2551",
+   "name": "Fallen Angel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2551/image_en/1485841386.jpg",
+   "number": "RDE-055",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "Sakai Yuuki",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ This card deals 400 damage to target player. You gain 400 life.",
+   "flavor_text": "\"Madness and love. Two sides of the same coin.\" -Rachel, Nephilim Commander",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2552",
+   "name": "Fallen Saint",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2552/image_en/1485841387.jpg",
+   "number": "RDE-056",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Yuji Azuma",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhenever this card blocks or is blocked by a J/resonator ⇒ That J/resonator gains [-200/-200] until end of turn.",
+   "flavor_text": "The best protection is swift death.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2553",
+   "name": "Fiery Bird of Reincarnation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2553/image_en/1485841390.jpg",
+   "number": "RDE-057",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Moopic",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card leaves your field for a non-field zone ⇒ Reveal cards from the top of your deck until you reveal a resonator. Put that card into your hand and the rest on the bottom of your deck in a random order.",
+   "flavor_text": "Life continues in spirals, moving from one to the next.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2554",
+   "name": "Fiery Fox of Reincarnation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2554/image_en/1485841392.jpg",
+   "number": "RDE-058",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "touge369",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest], banish a magic stone: Put the top card of your magic stone deck into your field.",
+   "flavor_text": "Always the same, yet always changing. Like the world itself.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2555",
+   "name": "Forest Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2555/image_en/1485841394.jpg",
+   "number": "RDE-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "YAMAMOTO−NAOKI",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[G]: This card gains [0/+200] until end of turn.",
+   "flavor_text": "The spirits stood, ever vigilant in their charges.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2556",
+   "name": "Gill Alhama'at",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2556/image_en/1485841395.jpg",
+   "number": "RDE-060",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Emperor",
+   "artist": "gekko",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Light Magic Stone or Darkness Magic Stone ⇒ Put a mana counter on this card.",
+   "flavor_text": "\"Lapis. Do you truly believe yourself to be my child? A pity.\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2557",
+   "name": "Ebon Dragon Emperor, Gill Alhama'at",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2557/image_en/1485841399.jpg",
+   "number": "RDE-060J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-ruler",
+   "race": "Dragon",
+   "artist": "gekko",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Light Magic Stone or Darkness Magic Stone ⇒ Put two mana counters on this card.",
+   "flavor_text": "Alhama'at and Viola combined, exacerbating his power dramatically.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2558",
+   "name": "Gill Alhama'at, He Who Grasps All",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2558/image_en/1485841401.jpg",
+   "number": "RDE-060J*",
+   "rarity": "JR*",
+   "att_def": "2000 / 2000",
+   "type": "J-ruler",
+   "race": "Wizard",
+   "artist": "gekko",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nYou may play Ancient Magic cards from your hand without paying their cost.",
+   "flavor_text": "It's the end.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2559",
+   "name": "Gill Lapis, Conqueror of Attoractia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2559/image_en/1485841404.jpg",
+   "number": "RDE-061",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "Nem",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[0]: If target non-magic stone card your opponent controls would be put into a graveyard this turn, remove it from the game instead. Play this ability only during your turn and only once per turn.",
+   "flavor_text": "Attoractia in hand, Lapis arrived. His plans were nearly complete.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2560",
+   "name": "Gill Lapis, Rebel of Darkest Fires",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2560/image_en/1485841405.jpg",
+   "number": "RDE-061J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-ruler",
+   "race": "Wanderer",
+   "artist": "Nem",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[R][B]: Put two target non-magic stone cards from your opponent's removed area on the bottom of their deck. If you do, destroy target resonator.",
+   "flavor_text": "\"If I can just get Alhama'at's magic stone...\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2561",
+   "name": "Glistening Chick",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2561/image_en/1485841407.jpg",
+   "number": "RDE-062",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Treasury Item/Bird",
+   "artist": "Takamura Haluki",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhenever this card becomes rested ⇒ You may rest target resonator.",
+   "flavor_text": "Chasing that which sparkles is a basic instinct.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2562",
+   "name": "Gnome, the Spirit of Earth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2562/image_en/1485841409.jpg",
+   "number": "RDE-063",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 1000",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Cola",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Light Magic Stone or Water Magic Stone ⇒ Target a rested resonator. Destroy it or return it to its owner's hand.",
+   "flavor_text": "The great earth buries its enemies and nourishes its allies.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2563",
+   "name": "Kaguya, Tears of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2563/image_en/1485841412.jpg",
+   "number": "RDE-064",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wizard",
+   "artist": "Kamijyo Roro",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[0]: Reveal the top card of your deck. If it's a Treasury Item, put it into your hand. Play this ability only during your turn and only once per turn.",
+   "flavor_text": "Kaguya's tears streamed down her face, and slowly coalesced into a magic stone.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2564",
+   "name": "Kaguya, Millennium Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2564/image_en/1485841413.jpg",
+   "number": "RDE-064J",
+   "rarity": "JR",
+   "type": "J-ruler",
+   "race": "Moon Princess",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\nRest five recovered Treasury Items you control: This card becomes a [1500/1500] with [Flying] until end of turn.",
+   "flavor_text": "As her tears fell to the earth, Kaguya awoke to a new power, her heart focused on Fiethsing.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2565",
+   "name": "Kaguya's Pictorial Scroll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2565/image_en/1485841415.jpg",
+   "number": "RDE-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Treasury Item",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nYou may play cards from your removed area that were removed by this card.",
+   "flavor_text": "A curious object. Every time one opens it, it seems to have more blank paper.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2566",
+   "name": "Kingdom of the Spirits",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2566/image_en/1485841416.jpg",
+   "number": "RDE-066",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest]，discard a Spirit: Choose one - You gain 600 life; or draw a card.",
+   "flavor_text": "It's said the first spirits were born here.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2567",
+   "name": "Mariabella, the Machine Hearted",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2567/image_en/1485841418.jpg",
+   "number": "RDE-067",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "Rumie",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\nRemove a breeze counter from this card: Cancel target chant spell unless its controller pays [1].",
+   "flavor_text": "Faria felt the echoes of a powerful spirit from the fragment of Attoractia she took from Valentina.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2568",
+   "name": "Mermaid of Lifegiving",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2568/image_en/1485841420.jpg",
+   "number": "RDE-068",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "Miko Yamazaki[",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ [Force]1 (Roll a die.) You gain 100 life multiplied by the result of the roll.",
+   "flavor_text": "\"This light...so nostalgic. So Almerius is free.\" -Grusbalesta, Magic Stone Researcher",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2569",
+   "name": "Millennia Bond",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2569/image_en/1485841425.jpg",
+   "number": "RDE-069",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ComamitsuZaki",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Kaguya. I have lived long enough. Look now to the future.\" \"But...but...\" \"Promise me.\" \"Okay, but one day I'll bring you-\" \"No. No magic can truly save the dead.\" -Fiethsing's Final Winds and Kaguya, Tears of the Moon",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2570",
+   "name": "Millium, Successor of the Dragon Crest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2570/image_en/1485841426.jpg",
+   "number": "RDE-070",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "Haruichi Kido",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhenever you roll one or more dice using [Force] ⇒ Put a dragon power counter on this card.",
+   "flavor_text": "\"You're giving that power to me?\" \"Yes, it has to be you.\" \"But...why?\" \"You are a descendant of the one who can wield such a power.\" -Millium, Successor of the Dragon Crest and Ryula, Alabaster Dragon Princess",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2571",
+   "name": "Millium, the Sacred Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2571/image_en/1485841427.jpg",
+   "number": "RDE-070J",
+   "rarity": "JR",
+   "att_def": "0 / 0",
+   "type": "J-ruler",
+   "race": "Dragon",
+   "artist": "Haruichi Kido",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ If there are forty or more [+100/+100] counters on this card, destroy all J/resonators your opponent controls.",
+   "flavor_text": "Fusing with Ryula, the two became a mighty dragon. The last hope to stop Alhama'at.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2572",
+   "name": "Millium's Roar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2572/image_en/1485841429.jpg",
+   "number": "RDE-071",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Haruichi Kido",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "In dragon form, Millium's roar echoed across the lands.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2573",
+   "name": "Moon View Rabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2573/image_en/1485841430.jpg",
+   "number": "RDE-072",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Rabbit/Treasury Item",
+   "artist": "mie",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nYou may rest a Moon you control rather than pay this card's cost.",
+   "flavor_text": "A rabbit that appeared alongside the moon.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2574",
+   "name": "Moonlit Treasury Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2574/image_en/1485841432.jpg",
+   "number": "RDE-073",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 1200",
+   "type": "Resonator",
+   "race": "Treasury Item",
+   "artist": "RYUEMON",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "flavor_text": "The awakened Kaguya used the moonlight to transform the plants into something marvelous.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2575",
+   "name": "Mystia, Manager of the Treasury",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2575/image_en/1485841435.jpg",
+   "number": "RDE-074",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "ShiroYayoi",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may put a Treasury Item with total cost 3 or less from your hand into your field.",
+   "flavor_text": "\"One treasure, two, three. Ah, Lady Kaguya, how may I help you?\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2576",
+   "name": "Nightmoon Blossom",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2576/image_en/1485841436.jpg",
+   "number": "RDE-075",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 700",
+   "type": "Resonator",
+   "race": "Treasury Item",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "The nightmoon blooms quietly out of sight.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2577",
+   "name": "Pricia, True Beastmaster",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2577/image_en/1485841448.jpg",
+   "number": "RDE-076",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human/Beast",
+   "artist": "fzwrAym",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Wind Magic Stone ⇒ Target resonator you control gains [Flying] until end of turn.",
+   "flavor_text": "Her soul returned to its body after Valentina had been expelled, and Pricia awoke to the truth of other worlds.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2578",
+   "name": "Reincarnated Maiden of Flame, Pricia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2578/image_en/1485841450.jpg",
+   "number": "RDE-076J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-ruler",
+   "race": "Wanderer",
+   "artist": "fzwrAym",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\nGod's Art [Second Wind] [R][G]: Recover this card. J/resonators you control gain [Swiftness] and [Flying] until end of turn. Play this ability only if a fire magic stone and a wind magic stone were put into your field this turn.",
+   "flavor_text": "\"The heart of this world beats on. Let us fight! Everyone, together!\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2579",
+   "name": "Pricia's Leap",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2579/image_en/1485841451.jpg",
+   "number": "RDE-077",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yua",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "Sends you higher than anything else.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2580",
+   "name": "Rain of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2580/image_en/1485841453.jpg",
+   "number": "RDE-078",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "YK",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "Energy for friends, emaciation for foes.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2581",
+   "name": "Rapid Shot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2581/image_en/1485841455.jpg",
+   "number": "RDE-079",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Master Machina's enemy!\" -Mariabella, the Machine Hearted",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2582",
+   "name": "Schrödinger, the Cat in Flux",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2582/image_en/1485841457.jpg",
+   "number": "RDE-080",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 600",
+   "type": "Resonator",
+   "race": "Shadow",
+   "artist": "Matsurika Yoko",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card leaves your field for a non-field zone ⇒ Destroy all Shadow resonator tokens you control.",
+   "flavor_text": "The cat meowed and the world changed around it.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2583",
+   "name": "Schrödinger's Observation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2583/image_en/1485841458.jpg",
+   "number": "RDE-081",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Matsurika Yoko",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "Observation leads to judgment. Cruel, painful judgment.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2584",
+   "name": "Searing Dead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2584/image_en/1485841459.jpg",
+   "number": "RDE-082",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "Mad",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may put target non-magic stone card from your opponent's removed area on the bottom of their deck. If you do, this card deals 400 damage to target opponent.",
+   "flavor_text": "Fueled by the rage of its enemies.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2585",
+   "name": "Secret Messenger of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2585/image_en/1485841461.jpg",
+   "number": "RDE-083",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Kamijyo Roro",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ This card deals 400 damage multiplied by the number of Vampires you control to target resonator your opponent controls.",
+   "flavor_text": "\"Assistance is unnecessary.\" Lapis said to the messenger.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2586",
+   "name": "Sissei, Pricia's Barrier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2586/image_en/1485841463.jpg",
+   "number": "RDE-084",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Continuous\nMagic stones you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\"",
+   "flavor_text": "A land that lived on in Pricia's heart.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2587",
+   "name": "Spirit of Sacred Rains",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2587/image_en/1485841465.jpg",
+   "number": "RDE-085",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Misa Tsutsui",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[Inheritance][W][U][1]: Spirits you control cannot be destroyed until end of turn.",
+   "flavor_text": "Sacred rains that wash away all tragedy.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2588",
+   "name": "Swirling Demon Dimension",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2588/image_en/1485841467.jpg",
+   "number": "RDE-086",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"A power I can make good use of.\" -Gill Lapis, Conqueror of Attoractia",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2589",
+   "name": "The Alabaster Dragon Princess' Rescue",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2589/image_en/1485841468.jpg",
+   "number": "RDE-087",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SIE NANAHARA",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "When Millium rescued Ryula, he felt her power was one that opposed Alhama'at. An ageless lineage tied to great powers.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2590",
+   "name": "The Dark March Hare",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2590/image_en/1485841469.jpg",
+   "number": "RDE-088",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Kutori PanYa",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Darkness Magic Stone ⇒ Resonators your opponent controls gain [-100/-100] until end of turn.",
+   "flavor_text": "\"It's been a while since our last tea party. Let's have some...fun.\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2591",
+   "name": "The Dark Sleeping Dormouse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2591/image_en/1485841471.jpg",
+   "number": "RDE-089",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "hatarisu",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\n[Resonance] Light Magic Stone or Darkness Magic Stone (Whenever a light magic stone or darkness magic stone enters your field.) ⇒ This card may gain [+700/-700] until end of turn.",
+   "flavor_text": "It seems its mood changes when it's awake.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2592",
+   "name": "The First Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2592/image_en/1485841472.jpg",
+   "number": "RDE-090",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Moon/Treasury Item",
+   "artist": "Moopic",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card becomes rested ⇒ Target resonator gains [-200/0] until end of turn.",
+   "flavor_text": "The satellite of the Earth, the true moon.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2593",
+   "name": "The Two Dragon Princesses",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2593/image_en/1485841476.jpg",
+   "number": "RDE-091",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "\"Viola, I won't forgive your treachery.\" \"Is it really treachery if I was never on your side?\" -Ryula, Alabaster Dragon Princess and Viola, Obsidian Dragon Princess",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2594",
+   "name": "Unending Hatred",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2594/image_en/1485841480.jpg",
+   "number": "RDE-092",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yuji Azuma",
+   "expansion": "Return of the Dragon Emperor",
+   "flavor_text": "Alice's heart full of hatred, she faced down Lapis. As Dark Alice intended.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2595",
+   "name": "Valentina, the Twilight Passion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2595/image_en/1485841481.jpg",
+   "number": "RDE-093",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Twelve Apostles",
+   "artist": "j-peg",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[0]: Put three target non-magic stone cards from your opponent's removed area on the bottom of their deck. If you do, this card gains [+500/+500] until end of turn.",
+   "flavor_text": "\"Good thing I planned ahead. I'll make good use of your body, Shion.\"",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2596",
+   "name": "Water-Wind Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2596/image_en/1485841483.jpg",
+   "number": "RDE-094",
+   "rarity": "Ｃ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 1200",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ Look at the top four cards of your deck and put them back in any order.",
+   "flavor_text": "The shadows that move forecast the things to come.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2597",
+   "name": "Will o'the Wisp",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2597/image_en/1485841484.jpg",
+   "number": "RDE-095",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Tsukumi",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhenever this card is dealt damage ⇒ You gain that much life.",
+   "flavor_text": "The unseen things are numerous and busy.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2598",
+   "name": "Ancient Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2598/image_en/1485841486.jpg",
+   "number": "RDE-096",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest], remove a mana counter from your J/ruler: Produce [W], [R], [U], [G], or [B].",
+   "flavor_text": "A prototype magic stone from the celestial plane.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2599",
+   "name": "Kaguya's Stone of Sorrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/2599/image_en/1485841490.jpg",
+   "number": "RDE-097",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ Look at the top two cards of your deck and put them back in any order.",
+   "flavor_text": "The result of Kaguya's tears.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2600",
+   "name": "Magic Stone of the Ebon Home",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2600/image_en/1485841492.jpg",
+   "number": "RDE-098",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Mad",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ Remove the top card of your opponent's deck from the game.",
+   "flavor_text": "Traitorous fire and dark memories.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2601",
+   "name": "Memoria of Reincarnation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2601/image_en/1485841494.jpg",
+   "number": "RDE-099",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "hatarisu",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card leaves your field for a non-field zone ⇒ Draw a card.",
+   "flavor_text": "The stone at which now and then collide.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2602",
+   "name": "Stone of the Dragonoids",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2602/image_en/1485841495.jpg",
+   "number": "RDE-100",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "gozz",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Automatic\nWhen this card enters your field ⇒ If your ruler is \"Millium, Successor of the Dragon Crest\", put a dragon power counter on it.",
+   "flavor_text": "A stone that can seal away Alhama'at. The true power of the Dragonoids.",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2603",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2603/image_en/1485841497.jpg",
+   "number": "RDE-101",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Sakai Yuuki",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2604",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2604/image_en/1488532394.jpg",
+   "number": "RDE-102",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Shirono Muku",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2605",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2605/image_en/1485841501.jpg",
+   "number": "RDE-103",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Miko Yamazaki",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2606",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2606/image_en/1485841502.jpg",
+   "number": "RDE-104",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Takamura Haluki",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2607",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2607/image_en/1485841503.jpg",
+   "number": "RDE-105",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "BANAMONS*",
+   "expansion": "Return of the Dragon Emperor",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2745",
+   "name": "Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2745/image_en/d48434bf-193d-4da6-bad3-72ce34448078.jpg",
+   "number": "007",
+   "rarity": "T",
+   "att_def": "500 / 500",
+   "type": "Resonator Token",
+   "race": "Shadow",
+   "artist": "Rungsak-san",
+   "expansion": "Return of the Dragon Emperor",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2746",
+   "name": "Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2746/image_en/96cc002a-f3a3-496a-a20e-cade1d456f90.jpg",
+   "number": "007*",
+   "rarity": "T",
+   "att_def": "500 / 500",
+   "type": "Resonator Token",
+   "race": "Shadow",
+   "artist": "Oguchi",
+   "expansion": "Return of the Dragon Emperor",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2747",
+   "name": "Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2747/image_en/21e4e4f8-5e5f-4b94-8a01-41fd7d3164cc.jpg",
+   "number": "008",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Elf",
+   "artist": "noki",
+   "expansion": "Return of the Dragon Emperor",
+   "all_sets": "Return of the Dragon Emperor"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2748",
+   "name": "Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2748/image_en/7e4eb8d3-ca32-47da-a458-6dfc05f2f6a2.jpg",
+   "number": "008*",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Elf",
+   "artist": "noki",
+   "expansion": "Return of the Dragon Emperor",
+   "all_sets": "Return of the Dragon Emperor"
+  }
+ ]
+}

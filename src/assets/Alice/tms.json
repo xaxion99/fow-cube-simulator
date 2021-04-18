@@ -1,0 +1,2160 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/877",
+   "name": "Angel of Wisdom, Cherudim",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/877/image_en/1485237411.jpg",
+   "number": "TMS-001",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "城戸春一",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "Though Arla was defeated, his will lived on. It drove his followers to shoot down the evil that invaded the skies.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/878",
+   "name": "Crescent Moon Magician",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/878/image_en/1485237412.jpg",
+   "number": "TMS-002",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "長崎祐子",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "With the magic stone she entrusted to Alice, Kaguya found her way across the dimensional gap. With the memory of Grimm's world she summoned the wererabbits.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/879",
+   "name": "Friend from Another World, Kaguya",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/87/879/image_en/1485237414.jpg",
+   "number": "TMS-003",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer/Little Girl",
+   "artist": "桂福蔵",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever a Moon enters your field ⇒ You may draw a card.",
+   "flavor_text": "\"Sheesh, she's become such a showoff. Now who's fault could that be?\" \"Are you saying it's my fault? It's clearly yours.\"—Fiethsing and Zero",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/880",
+   "name": "Kaguya, the Moonlit Savior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/880/image_en/1485237415.jpg",
+   "number": "TMS-003J",
+   "rarity": "JR",
+   "att_def": "700 / 900",
+   "type": "J-Ruler",
+   "race": "Wizard",
+   "artist": "桂福蔵",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\nGod's Art [Light of the Sacred Moon] [W][M][3]: Rest all J/resonators your opponent controls. Then recover all magic stones you control. You may pay [Awakening] costs [M] less this turn. (Play God's Art [Light of the Sacred Moon] only once per game.)",
+   "flavor_text": "\"An ally of justice shall appear from the moon! And who could that mysterious hero be? Obviously it's me!\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/881",
+   "name": "Holy Moon of Pure Nights",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/881/image_en/1485237417.jpg",
+   "number": "TMS-004",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Moon",
+   "artist": "狛蜜ザキ",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[M][2]: Rest target J-ruler.",
+   "flavor_text": "\"That's...the same moon from Earth...why is it here? -Avatar of the Seven Lands, Alice",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/882",
+   "name": "Izanagi, Keeper of the Seal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/882/image_en/1485237418.jpg",
+   "number": "TMS-005",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1100 / 1100",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "touge369",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nThis card gains [+300/+300] for each card in all removed areas that was removed by this card.",
+   "flavor_text": "\"My only purpose is to keep the seal from being broken.\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/883",
+   "name": "Kaguya's Premonition",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/883/image_en/1485237421.jpg",
+   "number": "TMS-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "白野椋",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"I sense something...a presence..hehe I've always wanted to say that.\" -Kaguya, the Moonlit Savior",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/884",
+   "name": "Knight of the Solstice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/884/image_en/1485237422.jpg",
+   "number": "TMS-007",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "石商",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a Moon, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Even when she perishes, the moon remains.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/885",
+   "name": "Luminescent Bamboo Bullet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/885/image_en/1485237423.jpg",
+   "number": "TMS-008",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "Change the bamboo into bullets and rain them down on the enemy.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/886",
+   "name": "Lunar Ibis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/886/image_en/1485237424.jpg",
+   "number": "TMS-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Bird",
+   "artist": "白野椋",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "It brings happiness down from the moon.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/887",
+   "name": "Moonbreeze Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/887/image_en/1485237426.jpg",
+   "number": "TMS-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 200",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "gekko",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[M]: Fairies you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "\"The power of the moon protects us all!\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/888",
+   "name": "Pale Savior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/888/image_en/1485237427.jpg",
+   "number": "TMS-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "塗夢",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "An ally of justice always appears just in the nick of time.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/889",
+   "name": "Seal of Shining Bamboo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/88/889/image_en/1485237431.jpg",
+   "number": "TMS-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "race": "Treasury Item",
+   "artist": "七海ルシア",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[M]: Rest added resonator.",
+   "flavor_text": "Bamboo proves to be a pretty versatile material.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/890",
+   "name": "Shining Strike",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/890/image_en/1485237432.jpg",
+   "number": "TMS-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "みえ",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"I learned this one from Zero!\" -Kaguya, the Moonlit Savior",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/891",
+   "name": "Temple Monk",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/891/image_en/1485237433.jpg",
+   "number": "TMS-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Bishop",
+   "artist": "おつまみ",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card enters your field ⇒ You gain 400 life.",
+   "flavor_text": "\"Not only the body, but even the spirit is healed.\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/892",
+   "name": "Tristan, the Knight of SoRow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/892/image_en/1485237435.jpg",
+   "number": "TMS-015",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "ハタリス",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever this card attacks ⇒ Resonators you control gain [+100/0] until end of turn.",
+   "flavor_text": "The sad man can be both strong and kind.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/893",
+   "name": "Tsukuyomi Noble",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/893/image_en/1485237436.jpg",
+   "number": "TMS-016",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Myth/Moon",
+   "artist": "七原しえ",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nPlayers cannot play activate abilities of resonators they control unless they control a Moon.",
+   "flavor_text": "\"What? You guys didn't have a moon?!\" -Kaguya, the Moonlit Savior",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/894",
+   "name": "Veteran Master",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/894/image_en/1485237438.jpg",
+   "number": "TMS-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "見田航介",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[Rest]: Target resonator with total cost 2 or less gains [+200/+200] until end of turn.",
+   "flavor_text": "The kingdom of Gloria, like all the seven kingdoms, used to practice conscription, as many countries aspired to expand their territories.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/895",
+   "name": "Athena, Titan of Revenge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/895/image_en/1485237441.jpg",
+   "number": "TMS-018",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Twelve Apostles",
+   "artist": "lack",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[R]: This card deals 100 damage to each player.",
+   "flavor_text": "\"Come on, hit me with everything you've got.\" -Conqueror of the Black Moon, Gill Lapis",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/896",
+   "name": "Blazing Metropolis, Vell-Savaria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/896/image_en/1485237443.jpg",
+   "number": "TMS-019",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Nagiにゃん",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nIf a card would be put into your graveyard from anywhere, remove it from the game instead.",
+   "flavor_text": "From the memories of disaster, that town's flame burns eternal.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/897",
+   "name": "Blessing of Athena",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/897/image_en/1485237444.jpg",
+   "number": "TMS-020",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "サウマロ",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever added resonator attacks ⇒ It gains [+500/+500] until end of turn and it deals 500 damage to you.",
+   "flavor_text": "With a flame in your heart, even wounds can't keep you from your goal.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/898",
+   "name": "Demonflame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/898/image_en/1485237446.jpg",
+   "number": "TMS-021",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagiにゃん",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"Burn!\" -Melgis, the Flame King",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/899",
+   "name": "Infernal Spirit of Vell-Savaria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/89/899/image_en/1485237447.jpg",
+   "number": "TMS-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "スギカワタクミ",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever this card attacks ⇒ It deals 200 damage to you.",
+   "flavor_text": "Pain becomes the desire for revenge, it doesn't matter who it's exacted upon.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/900",
+   "name": "Keeper of the Future, Skuld",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/900/image_en/1485237449.jpg",
+   "number": "TMS-023",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Goddess",
+   "artist": "弥生しろ",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Swiftness].",
+   "flavor_text": "...The future shall be erased.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/901",
+   "name": "Keeper of the Past, Urthr",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/901/image_en/1485237452.jpg",
+   "number": "TMS-024",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Goddess",
+   "artist": "弥生しろ",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Precision].",
+   "flavor_text": "When the past is sealed...",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/902",
+   "name": "Keeper of the Present, Verdandi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/902/image_en/1485237453.jpg",
+   "number": "TMS-025",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Goddess",
+   "artist": "弥生しろ",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nAs long as there are ten or more cards in your removed area, this card gains [+900/+900] and [First Strike].",
+   "flavor_text": "...And the present lies scorched...",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/903",
+   "name": "Memory of Disappearance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/903/image_en/1485237456.jpg",
+   "number": "TMS-026",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "古城ばんび",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "In the infinite expanse of time, though countless memories are lost, countless memories persist.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/904",
+   "name": "Memory of Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/904/image_en/1485237458.jpg",
+   "number": "TMS-027",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ハタリス",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"Those who remember the fear of fire always burn the best.\" -Timeline Arsonist, Alisaris",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/905",
+   "name": "Mordred, the Traitor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/905/image_en/1485237460.jpg",
+   "number": "TMS-028",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "Mad",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever this card attacks ⇒ You may banish another resonator. If you do, this card deals 1000 damage to target resonator.",
+   "flavor_text": "Rebellious to any authority.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/906",
+   "name": "Rukh Egg",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/906/image_en/1485237461.jpg",
+   "number": "TMS-029",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Egg",
+   "artist": "白野椋",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a fire resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Soldiers of Certo often go pick up eggs to get food, but some of them become food themselves for what is born from these eggs.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/907",
+   "name": "Spirit of Certo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/907/image_en/1485237464.jpg",
+   "number": "TMS-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 400",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "森野ヒロ",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "The power of the cursed sword has shaped the flame giving it birth.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/908",
+   "name": "The Observer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/908/image_en/1485237465.jpg",
+   "number": "TMS-031",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wizard",
+   "artist": "BANAMONS*",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nYou may pay [1] less to play this ability for each card in your removed area.",
+   "flavor_text": "Observations are recorded. They manifest as disasters and are eventually forgotten.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/909",
+   "name": "Timeline Arsonist, Alisaris",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/90/909/image_en/1485237466.jpg",
+   "number": "TMS-031J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Wizard",
+   "artist": "BANAMONS*",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\nGod's Art [Total Recall] [R][R][2]: This card deals 100 damage to each J/resonator your opponent controls for each card in your removed area. Then, you may put any number of cards from your removed area into your graveyard. (Play God's Art [Total Recall] only once per game.)",
+   "flavor_text": "\"You're just as much a prisoner of time as he is.\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/910",
+   "name": "Time Traveling Emissary",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/910/image_en/1485237468.jpg",
+   "number": "TMS-032",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "塗夢",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest], remove the top card of your deck from the game: This card deals 200 damage to target resonator.",
+   "flavor_text": "Time is always progressing forward. That can be inconvenient for some.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/911",
+   "name": "Torching the Timeline",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/911/image_en/1485237469.jpg",
+   "number": "TMS-033",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Moopic",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"Before the flames of time, all is reduced to ash.\" -Timeline Arsonist, Alisaris",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/912",
+   "name": "Vell-Savarian Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/912/image_en/1485237473.jpg",
+   "number": "TMS-034",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "佐久間さのすけ",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card enters your field ⇒ Remove the top two cards of your deck from the game.",
+   "flavor_text": "That kind of dragon only eats time.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/913",
+   "name": "Dance of Inspiration",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/913/image_en/1485237494.jpg",
+   "number": "TMS-035",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "あき",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"It's not over yet!\" -Coup d'Etat Mastermind, Shion",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/914",
+   "name": "Drill Sergeant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/914/image_en/1485237495.jpg",
+   "number": "TMS-036",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "下江クリス",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Reveal the top card of your deck. If it's a resonator, resonators you control gain [+300/+300] until end of turn. Otherwise, return this card to its owner's hand.",
+   "flavor_text": "Shion's soldiers don't make mistakes.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/915",
+   "name": "Dying Swallow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/915/image_en/1485237497.jpg",
+   "number": "TMS-037",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "碧風羽",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[U][U][U], [rest]: Put this card on top of your deck. Search your deck for up to three Fairy Tale resonators, reveal them and put them into your hand. Then shuffle your deck",
+   "flavor_text": "\"Such a poor creature...Don't worry, I'll help you.\" -Thumbelina",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/916",
+   "name": "Flower Kingdom",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/916/image_en/1485237499.jpg",
+   "number": "TMS-038",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "みえ",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[U][1]: Target resonator loses all races and becomes a Fairy Tale until end of turn.",
+   "flavor_text": "You can't see it from this world, but somewhere there exists a fantastic fairy tale world.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/917",
+   "name": "Magic Conductor's Baton",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/917/image_en/1485237500.jpg",
+   "number": "TMS-039",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "今野隼史",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\nAdded resonator gains \"[rest]: Recover another target resonator.\"",
+   "flavor_text": "With a wave of the baton, one can dictate another's movements.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/918",
+   "name": "Muse, Celestial of Music",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/918/image_en/1485237502.jpg",
+   "number": "TMS-040",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "今野隼史",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nIf a resonator you control would be dealt damage less than its DEF, prevent it.",
+   "flavor_text": "Shion's summon filled the battlefield with uplifting music. Inspiration swept through the ranks of her soldiers.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/919",
+   "name": "Musician of Shangri-La",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/91/919/image_en/1485237507.jpg",
+   "number": "TMS-041",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "kawaryu",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Reveal the top card of your deck. If it's a resonator, this card gains [+200/+200] until end of turn. Otherwise, return this card to its owner's hand.",
+   "flavor_text": "If the audience reception is poor, the performer runs home immediately.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/920",
+   "name": "Peasant Revolt",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/920/image_en/1485237509.jpg",
+   "number": "TMS-042",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "るみえ",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may put a water resonator with total cost 1 from your hand into your field.",
+   "flavor_text": "\"Our target is Valentina. Alright everyone, let's go.\" -Coup d'Etat Mastermind, Shion",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/921",
+   "name": "Prison in the Lunar Lake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/921/image_en/1485237510.jpg",
+   "number": "TMS-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "上木乃アロエ",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "Whatever poor creature was swallowed by the lake, disappeared into darkness.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/922",
+   "name": "Puppet Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/922/image_en/1485237511.jpg",
+   "number": "TMS-044",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "七海ルシア",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\nDiscard a card: This card gains [+200/+200] until end of turn.",
+   "flavor_text": "Cornered by the rebellion, Valentina had no choice but to bribe them with her amassed fortune.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/923",
+   "name": "Shion's Hymn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/923/image_en/1485237513.jpg",
+   "number": "TMS-045",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "みえ",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "When Shangri-La fell to Shion's insurrection, the streets filled with songs of praise for the new leader.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/924",
+   "name": "Songstress of Shangri-La",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/924/image_en/1485237514.jpg",
+   "number": "TMS-046",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Songstress",
+   "artist": "j-peg",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nYou may look at the top card of your deck at any time.",
+   "flavor_text": "Her songs resonated in the hearts of warriors everywhere.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/925",
+   "name": "Coup d'Etat Mastermind, Shion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/925/image_en/1485237516.jpg",
+   "number": "TMS-046J",
+   "rarity": "JR",
+   "att_def": "900 / 1000",
+   "type": "J-Ruler",
+   "race": "Traitor",
+   "artist": "j-peg",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\nGod's Art [Serenade of Rebellion] [U][U]: This card gains [+500/+500] until end of turn. Then it deals damage equal to its ATK to target J/resonator your opponent controls. (Play God's Art [Serenade of Rebellion] only once per game.)",
+   "flavor_text": "\"Oh Lady Valentina, you've changed beyond recognition. So I send you this, my final requiem.\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/926",
+   "name": "The Flower Prince",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/926/image_en/1485237518.jpg",
+   "number": "TMS-047",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale/Prince",
+   "artist": "上木乃アロエ",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\nRest another recovered Fairy Tale resonator you control: This card gains [0/+200] until end of turn.",
+   "flavor_text": "Many pined for the prince. Eventually that jealousy became dangerous, and he had to protect those close to him.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/927",
+   "name": "Thumbelina",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/927/image_en/1485237519.jpg",
+   "number": "TMS-048",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "碧風羽",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Target J/resonator gains [+200/+200] for each support counter on this card until end of turn. Then remove all support counters from this card.",
+   "flavor_text": "\"You can do it!\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/928",
+   "name": "Valentina, Puppet Monarch",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/928/image_en/1485237520.jpg",
+   "number": "TMS-049",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Human",
+   "artist": "石商",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card enters your field ⇒ Gain control of target resonator your opponent controls as long as this card is in a field.",
+   "flavor_text": "She was willing to go to any lengths to make Alice her own. Even so far as to be controlled by another.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/929",
+   "name": "Valentina's Resistance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/92/929/image_en/1485237522.jpg",
+   "number": "TMS-050",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "古城ばんび",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"Don't get in my way!\" -Valentina, Puppet Monarch",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/930",
+   "name": "Wererabbit of the Aqua Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/930/image_en/1485237523.jpg",
+   "number": "TMS-051",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "狛蜜ザキ",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card enters your field ⇒ Return target resonator with total cost 2 or less to its owner's hand.",
+   "flavor_text": "”No moon for you! Go home! Go home!”",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/931",
+   "name": "Ambush!",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/931/image_en/1485237526.jpg",
+   "number": "TMS-052",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "Guerilla warfare was an effective strategy against Valentina.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/932",
+   "name": "Avatar of the Seven Lands, Alice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/932/image_en/1485237528.jpg",
+   "number": "TMS-053",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Avatar",
+   "artist": "Wednesday",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nIf damage would be dealt to you, it's dealt to this card instead.",
+   "flavor_text": "\"Yggdrasil's power tells me I have to stop you! Even if I can't win, I won't lose!\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/933",
+   "name": "Child of the Forest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/933/image_en/1485237529.jpg",
+   "number": "TMS-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 900",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Moopic",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nPrevent all damage that would be dealt to this card by J-rulers.",
+   "flavor_text": "The tiny spirits that lived in Yggdrasil held an immense power that they used to repel enemies.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/934",
+   "name": "Foment of the World Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/934/image_en/1485237531.jpg",
+   "number": "TMS-055",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "nocras",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "Life surrounds the world.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/935",
+   "name": "Heart StiRing Sage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/935/image_en/1485237532.jpg",
+   "number": "TMS-056",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "草薙蝶炎",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Target resonator's ATK becomes equal to its DEF until end of turn.",
+   "flavor_text": "\"You have the power! Believe in yourself!\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/936",
+   "name": "Huanglong, Leader of the Four Sacred Beasts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/936/image_en/1485237534.jpg",
+   "number": "TMS-057",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Divine Beast",
+   "artist": "kakotomirai",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nThis card gains [+100/+100] for each Four Sacred Beasts you control.",
+   "flavor_text": "In order to protect Pricia, the Four Sacred Beasts were given life again by Huanglong.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/937",
+   "name": "Kujata, Sacred Ox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/937/image_en/1485237537.jpg",
+   "number": "TMS-058",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "ケルビン",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever an evolution counter is put on this card ⇒ This card and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
+   "flavor_text": "\"When Kujata prepares to charge, you'd better get out of the way, unless you want to get eaten.\" -Pricia, Pursuant of Exploding Flame",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/938",
+   "name": "Moonbreeze Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/938/image_en/1485237539.jpg",
+   "number": "TMS-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 400",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "乃希",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Produce [M].",
+   "flavor_text": "Life from the moon, protection from the wind.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/939",
+   "name": "Pricia's Call to Action",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/93/939/image_en/1485237540.jpg",
+   "number": "TMS-060",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "夕子",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "By mimicking the movements of beasts, Pricia was able to move even quicker.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/940",
+   "name": "Rhythm of Life",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/940/image_en/1485237542.jpg",
+   "number": "TMS-061",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "竿",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Put it into its owner's hand.",
+   "flavor_text": "The sound of all living things in harmony.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/941",
+   "name": "Servant to the Sacred Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/941/image_en/1485237543.jpg",
+   "number": "TMS-062",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[M]: This card gains [0/+400] until end of turn.",
+   "flavor_text": "Serve the moon and know its protection.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/942",
+   "name": "Timekeeper Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/942/image_en/1485237544.jpg",
+   "number": "TMS-063",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "夕子",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put the top card of your magic stone deck into your magic stone area rested.",
+   "flavor_text": "\"Looks like the fight's already started. Hold on Alice, I'm on my way!\" -Kaguya, the Moonlit Savior",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/943",
+   "name": "Wall of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/943/image_en/1485237548.jpg",
+   "number": "TMS-064",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "あき",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"And I learned this one from Fiethsing!\" -Kaguya, the Moonlit Savior",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/944",
+   "name": "Wind-Secluded Refuge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/944/image_en/1485237549.jpg",
+   "number": "TMS-065",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "サウマロ",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen a spell or ability your opponent controls targets a J/resonator you control ⇒ You may banish this card. If you do, cancel that spell or ability.",
+   "flavor_text": "\"Shion, you wait here. Leave the rest to me.\" -Pricia, Pursuant of Exploding Flame",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/945",
+   "name": "Wolf in the Moonlight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/945/image_en/1485237550.jpg",
+   "number": "TMS-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "松本エイト",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nAs long as there are one or more evolution counters on this card, it gains [+300/+300] and [Precision].",
+   "flavor_text": "The moon and the wolf have an inseparable bond.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/946",
+   "name": "World Tree Protector",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/946/image_en/1485237551.jpg",
+   "number": "TMS-067",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Avatar",
+   "artist": "gozz",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nThis card gains [+200/+200] for each Avatar in your graveyard.",
+   "flavor_text": "Defeat only strengthens their resolve.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/947",
+   "name": "Yggdrasil, the World Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/947/image_en/1489114794.jpg",
+   "number": "TMS-068",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Ethereal Tree",
+   "artist": "草薙蝶炎",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nIf damage dealt by a source your opponent controls would reduce your life to 0 or less for the first time this game, it reduces your life to 100 instead. Then you may search your deck and/or hand for up to one card named \"Avatar of the Seven Lands, Alice\" and up to one card named \"Blade of the Seven Lands, Excalibur X\" and put them into your field. Then shuffle your deck.",
+   "flavor_text": "This world continues to resist Lapis' control to the very last.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/948",
+   "name": "Auspicious Bird of the Black Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/948/image_en/1485237555.jpg",
+   "number": "TMS-069",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Bird",
+   "artist": "ハタリス",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[M]: This card gains [+200/+200] and [Flying] until end of turn.",
+   "flavor_text": "The black moon only grants power to those the Primogenitor trusts.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/949",
+   "name": "Black Moon Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/94/949/image_en/1485237558.jpg",
+   "number": "TMS-070",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "古城ばんび",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Put target non-darkness Fairy from your graveyard into your hand.",
+   "flavor_text": "\"Even if I die, another will take my place.\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/950",
+   "name": "Call of the Primogenitor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/950/image_en/1485237559.jpg",
+   "number": "TMS-071",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "佐々木光之介",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "None can refuse the call of the Primogenitor. Not even the dead.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/951",
+   "name": "Conqueror of the Black Moon, Gill Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/951/image_en/1485237560.jpg",
+   "number": "TMS-072",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "ネム",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nYour opponent pays [1] more to play regalia's activate abilities.",
+   "flavor_text": "\"I finally found you...\" -Avatar of the Seven Lands, Alice",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/952",
+   "name": "Gill Lapis, the Primogenitor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/952/image_en/1485237563.jpg",
+   "number": "TMS-072J",
+   "rarity": "JR",
+   "att_def": "1200 / 1200",
+   "type": "J-Ruler",
+   "race": "Subjugator",
+   "artist": "ネム",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\nGod's Art [Space-Time Control] [B][M][2]: Search your opponent's deck for a resonator, regalia, and/or [Addition:Field] and put them into your field. Then your opponent shuffles their deck. (Play God's Art [Space-Time Control] only once per game.)",
+   "flavor_text": "\"I see, you're survivors from that planet. Perfect. You've saved me the trouble of hunting you down.\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/953",
+   "name": "Demon of the Black Moon, Lilith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/953/image_en/1485237565.jpg",
+   "number": "TMS-073",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "祀花よう子",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"Hmm...so, who's next?\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/954",
+   "name": "Demonic Commander",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/954/image_en/1485237567.jpg",
+   "number": "TMS-074",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "ひがし",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ They discard a card.",
+   "flavor_text": "When a demon laughs, you know something's been stolen.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/955",
+   "name": "Fallen Angelic Destroyer, Lucifer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/955/image_en/1485237571.jpg",
+   "number": "TMS-075",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Angel/Demon",
+   "artist": "Mad",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[B][M]: Whenever this card deals damage this turn ⇒ You gain that much life. Play this ability only once per turn.",
+   "flavor_text": "\"Follow me, and I shall be your angel. Oppose me, and I shall be your demon.\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/956",
+   "name": "Fallen Hero",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/956/image_en/1485237572.jpg",
+   "number": "TMS-076",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "SIGMAN",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[M]: This card gains [+100/+100] and [Precision] until end of turn.",
+   "flavor_text": "\"Believing in something only makes it easier to break you.\" -Conqueror of the Black Moon, Gill Lapis",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/957",
+   "name": "Izanami, the Sealed Terror",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/957/image_en/1485237573.jpg",
+   "number": "TMS-077",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Myth",
+   "artist": "石商",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[B][M], remove this card in your graveyard from the game: Your opponent discards a card.",
+   "flavor_text": "\"This world is trying to shut me out, huh? Fine. I'll put a curse on everything.\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/958",
+   "name": "Izanami's Curse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/958/image_en/1485237575.jpg",
+   "number": "TMS-078",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "If the curses pile up, they become quite the burden.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/959",
+   "name": "Knight's Shade",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/95/959/image_en/1485237576.jpg",
+   "number": "TMS-079",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Shadow/Knight",
+   "artist": "坂井結城",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Each player banishes a non-Shadow resonator.",
+   "flavor_text": "Shadow only welcomes shadow.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/960",
+   "name": "Nighttime Raiders",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/960/image_en/1485237578.jpg",
+   "number": "TMS-080",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "スギカワタクミ",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "Darkness pursues the fearful.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/961",
+   "name": "Pitch Black Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/961/image_en/1485237582.jpg",
+   "number": "TMS-081",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Moon",
+   "artist": "ひがし",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[M], discard a resonator: Put another target resonator from your graveyard into your hand.",
+   "flavor_text": "When the true black moon hangs in the sky, the true conqueror shall appear.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/962",
+   "name": "Silencing Spell",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/962/image_en/1485237583.jpg",
+   "number": "TMS-082",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "長崎祐子",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nAdded resonator gains \"You pay [2] more to play normal spells.\".",
+   "flavor_text": "Silence is golden.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/963",
+   "name": "Space-Time Collapse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/963/image_en/1485237584.jpg",
+   "number": "TMS-083",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "\"This is boring, let's finish this, shall we?\" -Gill Lapis, the Primogenitor",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/964",
+   "name": "The Executioner",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/964/image_en/1485237585.jpg",
+   "number": "TMS-084",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "ユウキリリー",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ Destroy target resonator with total cost 3 or less.",
+   "flavor_text": "Be careful walking about at night. No one knows what lurks in the dark corners of the world.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/965",
+   "name": "Witch of the Night",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/965/image_en/1485237587.jpg",
+   "number": "TMS-085",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Witch",
+   "artist": "tokiwa",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[M]: Target resonator gains [-200/0] until end of turn.",
+   "flavor_text": "The witch appears on a moonlit night to curse all those who cross her path.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/966",
+   "name": "Magic Screw",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/966/image_en/1485237588.jpg",
+   "number": "TMS-086",
+   "rarity": "Ｃ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "gozz",
+   "expansion": "The Moonlit Savior",
+   "text": "Continuous\nAdded resonator gains [+600/+600] as long as it is with no attribute.",
+   "flavor_text": "This strange screw will fit perfectly in any machine.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/967",
+   "name": "Marybell, Insane Self-Aware Machine",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/967/image_en/1485237591.jpg",
+   "number": "TMS-087",
+   "rarity": "Ｒ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "るみえ",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[1], rest another recovered resonator you control: This card gains [+X/+Y] until end of turn, where X is the ATK and Y is the DEF of the resonator rested this way. This card gains that resonator's symbol skills until end of turn.",
+   "flavor_text": "\"Let's go! Marybell, ready for action!\" -Pricia, Pursuant of Exploding Flame",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/968",
+   "name": "Pricia, Pursuant of Exploding Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/968/image_en/1485237593.jpg",
+   "number": "TMS-088",
+   "rarity": "Ｒ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "fzwrAym",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 500 damage to your opponent.",
+   "flavor_text": "\"Everyone, please, lend me your strength. I have to be the one who stops Valentina!\"",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/969",
+   "name": "Seal of Wind and Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/96/969/image_en/1485237595.jpg",
+   "number": "TMS-089",
+   "rarity": "Ｃ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "Light and wind can be so captivating, they can make one forget what they were doing.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/970",
+   "name": "Space-Time Anomaly",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/970/image_en/1485237596.jpg",
+   "number": "TMS-090",
+   "rarity": "Ｃ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "touge369",
+   "expansion": "The Moonlit Savior",
+   "flavor_text": "The weak shall be disposed of.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/971",
+   "name": "Blade of the Seven Lands, Excalibur X",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/971/image_en/1485237598.jpg",
+   "number": "TMS-091",
+   "rarity": "Ｒ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "SIGMAN",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhenever your J-ruler or an \"Avatar of the Seven Lands, Alice\" you control becomes targeted by spells or abilities ⇒ Cancel that spell or ability unless its controller pays [2].",
+   "flavor_text": "Excalibur has the power to evolve with its wielder.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/972",
+   "name": "Heavenly Instrument, Hydromonica",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/972/image_en/1485237599.jpg",
+   "number": "TMS-092",
+   "rarity": "Ｒ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "祀花よう子",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\nDiscard another card named \"Heavenly Instrument, Hydromonica\": Draw a card.",
+   "flavor_text": "Shion played a melody that inspired her troops like no other.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/973",
+   "name": "Illusory Demonic Globe, The Earth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/973/image_en/1485237601.jpg",
+   "number": "TMS-093",
+   "rarity": "Ｒ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "Mad",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest], banish this card: If your J-ruler is \"Gill Lapis, the Primogenitor\", put it into your ruler area, as a ruler.",
+   "flavor_text": "Formerly planet Earth. Even now an entire planet's worth of terror flows forth from the creation.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/974",
+   "name": "Interdimensional Vessel, Apollo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/974/image_en/1485237602.jpg",
+   "number": "TMS-094",
+   "rarity": "Ｒ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "kawaryu",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest], banish this card: Return target resonator you control to its owner's hand.",
+   "flavor_text": "\"Hahaha! Pretty cool, huh?\" -Kaguya, the Moonlit Savior",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/975",
+   "name": "Orb of Disaster, Ifrit Glass",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/975/image_en/1485237604.jpg",
+   "number": "TMS-095",
+   "rarity": "Ｒ",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "城戸春一",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[R][R], banish this card: Put a non-regalia card from your removed area into your hand.\nIf your J/ruler is \"The Observer\" or \"Timeline Arsonist, Alisaris\", put up to two non-regalia cards from your removed area into your hand instead. (Reveal any face down card before putting it from your removed area into your hand this way.)",
+   "flavor_text": "Should it ever break, the world shall know unending fire.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/976",
+   "name": "Black Moon's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/976/image_en/1485237606.jpg",
+   "number": "TMS-096",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "gozz",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Produce [M] or [B].",
+   "flavor_text": "Light is stolen away into the sky.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/977",
+   "name": "Disaster's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/977/image_en/1485237607.jpg",
+   "number": "TMS-097",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Remove the top card of your deck from the game.",
+   "flavor_text": "The memory of disaster is still being carved in Vell-Savaria.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/978",
+   "name": "Hymnal's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/978/image_en/1485237609.jpg",
+   "number": "TMS-098",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "fzwrAym",
+   "expansion": "The Moonlit Savior",
+   "text": "Automatic\nWhen this card enters your magic stone area ⇒ Name a card. Reveal the top card of your deck, if it's the named card, put it into your hand.",
+   "flavor_text": "So long as Shion's song continues, this memoria shall shine.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/979",
+   "name": "Moonbreeze's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/97/979/image_en/1485237611.jpg",
+   "number": "TMS-099",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "乃希",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Produce [M] or [W].",
+   "flavor_text": "Light shines down from above.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/980",
+   "name": "Yggdrasil's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/980/image_en/1485237612.jpg",
+   "number": "TMS-100",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "ケルビン",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[G], [rest]: Recover target resonator. Play this ability only during your opponent's turn.",
+   "flavor_text": "The memory of the will of an entire world.",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/981",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/981/image_en/1485237614.jpg",
+   "number": "TMS-101",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "gozz",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/982",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/982/image_en/1485237616.jpg",
+   "number": "TMS-102",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "坂井結城",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/983",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/983/image_en/1485237617.jpg",
+   "number": "TMS-103",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "下江クリス",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/984",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/984/image_en/1485237619.jpg",
+   "number": "TMS-104",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "BANAMONS*",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "The Moonlit Savior"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/985",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/985/image_en/1485237621.jpg",
+   "number": "TMS-105",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "たかむらはるき",
+   "expansion": "The Moonlit Savior",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "The Moonlit Savior"
+  }
+ ]
+}

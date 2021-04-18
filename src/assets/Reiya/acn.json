@@ -1,0 +1,3617 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/2824",
+   "name": "Conjure Constructs",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2824/image_en/461e5904-3276-49f1-81d6-4da20da2043e.jpg",
+   "number": "ACN-001",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Amorphous. Constantly forming and dissolving.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2825",
+   "name": "Crippling Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2825/image_en/7e00bb18-0769-45e7-8f6a-1692585cca7a.jpg",
+   "number": "ACN-002",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Moopic",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Turn to dust.\" -Pandora, Guardian of the Sacred Temple",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2826",
+   "name": "Discovery",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2826/image_en/4944ec64-fcc8-43ce-8f3a-71ba6e88ceb2.jpg",
+   "number": "ACN-003",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagi-nyan",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Ah, another excellent turn of events!\" -Taegrus Pearlshine",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2827",
+   "name": "Gem Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2827/image_en/c91c1565-6133-44c5-afe0-94a9eba4e473.jpg",
+   "number": "ACN-004",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Fujinaka Ryu",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card leaves the field ⇒ Gain a gem of any attribute.",
+   "flavor_text": "An unusual creature studded with gems.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2828",
+   "name": "Gem Blade Emerald",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2828/image_en/37c807fc-e15b-484f-b9cd-3ee1e2895453.jpg",
+   "number": "ACN-005",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "yuhki lily",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Recover up to four target magic stones if you control a wind gem.",
+   "flavor_text": "It's said that wind gems clear one's mind and heart.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2829",
+   "name": "Gem Minister Garnet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2829/image_en/0a5f355b-e081-494b-b33f-a1159b4a902e.jpg",
+   "number": "ACN-006",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "500 / 900",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Nekobayashi",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Gain a gem of any attribute. Draw a card.",
+   "flavor_text": "\"Lord Pearlshine is always asking the impossible. I wish he'd worry about things a little more.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2830",
+   "name": "Gem Trader",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2830/image_en/932a5fd8-897a-4498-a7e8-ac97e04f109c.jpg",
+   "number": "ACN-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Matsurika Yoko",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Gain a light gem.",
+   "flavor_text": "Real gems won't fade, even after decades.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2831",
+   "name": "Heavy Arms Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2831/image_en/7c6fccc3-723c-48d6-9690-5a674d293a8f.jpg",
+   "number": "ACN-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Cola",
+   "expansion": "Ancient Nights",
+   "text": "Continuous\nThis card gains [+400/+400] as long as there are three or more different attributes among all gems you control.",
+   "flavor_text": "Weight becomes strength.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2832",
+   "name": "Jewel Bullet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2832/image_en/3848fc26-4f5f-4390-8402-cb5ac9f68d2c.jpg",
+   "number": "ACN-009",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ponkichi",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Pow!\" \"Bam!\" -Shin-Shin&Rei-Rei, Acrobatic Twins",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2833",
+   "name": "Jewel Protection",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2833/image_en/92415432-0a9e-406e-a044-db01310a6406.jpg",
+   "number": "ACN-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"What's wrong Gill? Don't tell me you're going soft?\" -Taegrus Pearlshine",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2834",
+   "name": "Jewel Shield",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2834/image_en/b51e4744-1a61-4931-a659-194747df989e.jpg",
+   "number": "ACN-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"I told you to cut that out!\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2835",
+   "name": "Jewel Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2835/image_en/b96c8223-5287-42d0-8fae-7fe064b7cb58.jpg",
+   "number": "ACN-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "saumaro",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"How's that? Do I look as cool as the king?\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2836",
+   "name": "Jeweler of Sasaru Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2836/image_en/06e26f16-efc0-4ef5-b648-9591859df78b.jpg",
+   "number": "ACN-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "300 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "ShiroYayoi",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[rest], banish a light gem: Gain a gem of any attribute.",
+   "flavor_text": "As the color changes, so does the mood.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2837",
+   "name": "Light of Transmigration",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2837/image_en/eaf95310-8f15-4853-9b4b-9819ff6eca64.jpg",
+   "number": "ACN-014",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tsukumi",
+   "expansion": "Ancient Nights",
+   "flavor_text": "The light enveloped Pandora.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2838",
+   "name": "Magic Light Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2838/image_en/49bca05f-a409-48cb-9a67-0dee99ab3f51.jpg",
+   "number": "ACN-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Moopic",
+   "expansion": "Ancient Nights",
+   "flavor_text": "A servant loyal to Pandora's every command.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2839",
+   "name": "Magic Shield Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2839/image_en/59938bef-07bf-4dad-a2fa-175bb4e16fba.jpg",
+   "number": "ACN-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 1500",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Moopic",
+   "expansion": "Ancient Nights",
+   "flavor_text": "The guardian of the sacred temple was called Pandora.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2840",
+   "name": "Magic Sword Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2840/image_en/a909dad3-c57c-490a-8c52-246d299eb986.jpg",
+   "number": "ACN-017",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "800 / 600",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Moopic",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"These soldiers do not feel pain, and do not know mercy.\" -Pandora, Guardian of the Sacred Temple",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2841",
+   "name": "Orphica, Dancer in the White Mist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2841/image_en/445288af-25b4-4158-972b-4b3214794c60.jpg",
+   "number": "ACN-018",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Shirai Hidemi",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a Panda, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Do not fear, my children. We shall hide here.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2842",
+   "name": "Panda Acrobat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2842/image_en/f17b5da5-e13d-46bc-8baf-7fe139c91580.jpg",
+   "number": "ACN-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "AKI",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ You may banish a gem. If you do, rest target resonator.",
+   "flavor_text": "\"Acts so exciting you'll lose yourself in them!\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2843",
+   "name": "Pandora",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2843/image_en/d1ea703d-755e-4e1c-93f1-c5b172764574.jpg",
+   "number": "ACN-020",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Guardian",
+   "artist": "Foo Midori",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n【Hair Ornament of Light】[0]: Target Golem you control is mobilized until end of turn. Play this ability only once per turn.",
+   "flavor_text": "\"Leave, now. You'll go no further.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2844",
+   "name": "Pandora, Guardian of the Sacred Temple",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2844/image_en/cc6c5c99-3f29-4f6e-8d59-715f9df33f98.jpg",
+   "number": "ACN-020 J",
+   "rarity": "JR",
+   "att_def": "1000 / 2000",
+   "type": "J-ruler",
+   "race": "Guardian",
+   "artist": "Foo Midori",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n【Hair Ornament of Light】[w][w][２]: Golems you control gain [+400/+400] until end of turn.",
+   "flavor_text": "\"I will show trespassers no mercy. That is my purpose.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2845",
+   "name": "Profitable Transactions",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2845/image_en/bb542046-3cb8-4344-8894-9ddfed4a8840.jpg",
+   "number": "ACN-021",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "noki",
+   "expansion": "Ancient Nights",
+   "flavor_text": "The power of gems makes anything possible.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2846",
+   "name": "Reduction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2846/image_en/232f89ec-f3d1-4ded-93c2-5f47c8690c14.jpg",
+   "number": "ACN-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "hatarisu",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Leave here and never return.\" -Pandora, Guardian of the Sacred Temple",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2847",
+   "name": "Sacred Temple of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2847/image_en/be69d94e-41a8-498a-9dbb-17bb043a67ac.jpg",
+   "number": "ACN-023",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nAt end of turn ⇒ If you don't control a resonator, you may banish this card. If you do, search your deck for a Golem and put it into the field. Then shuffle your deck.",
+   "flavor_text": "A massive, box-like structure that contains chaos.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2848",
+   "name": "Shin-Shin&Rei-Rei, Acrobatic Twins",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2848/image_en/cffb2567-4c6b-44b3-9717-7f9ae2a12ddb.jpg",
+   "number": "ACN-024",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "ponkichi",
+   "expansion": "Ancient Nights",
+   "text": "Activate\nWhen this card enters the field ⇒ You may banish two light gems. If you do, search your deck for a Panda and put it into the field. Then shuffle your deck.",
+   "flavor_text": "Acrobatics are the forefront of Panda culture. The twins are prodigies of the art that have captivated many.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2849",
+   "name": "Summon Magic Warriors",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2849/image_en/d0696ecb-37e3-4594-9ec5-8a509a77b779.jpg",
+   "number": "ACN-025",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Haruichi Kido",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Tch, how troublesome.\" -Frayla",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2850",
+   "name": "Ultimate Magic Warrior, Gear Atmos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2850/image_en/faba3bbd-2b41-4e13-8465-673d831d9a2e.jpg",
+   "number": "ACN-026",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "2000 / 2000",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Moopic",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target resonator your opponent controls.",
+   "flavor_text": "The ultimate soldier, born of alchemical synthesis.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2851",
+   "name": "White Cat of Sasaru Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2851/image_en/9cb8e06b-c003-4c0d-9ba4-2897134484a3.jpg",
+   "number": "ACN-027",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Cat",
+   "artist": "Sanosuke Sakuma",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Gain a gem of any attribute.",
+   "flavor_text": "It was curiosity that lead to the discovery of gems.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2852",
+   "name": "White Raven",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2852/image_en/e00b0e19-10fc-40ea-80ea-8ccf0a46ff68.jpg",
+   "number": "ACN-028",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Bird",
+   "artist": "Shirono Muku",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ You may banish a gem. If you do, draw a card.",
+   "flavor_text": "The white ravens collect and separate gems by cut and year.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2853",
+   "name": "Wing Rider Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2853/image_en/214024e6-5e76-45e9-8f4a-b75d3108d60e.jpg",
+   "number": "ACN-029",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 1200",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "ComamitsuZaki",
+   "expansion": "Ancient Nights",
+   "text": "Continuous\nThis card gains [Flying] as long as you control a water gem.",
+   "flavor_text": "Wings made of gems never break.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2854",
+   "name": "Apprentice Beast Tamer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2854/image_en/4f1f0ffe-b43d-44d5-8c58-bacad6cb7aa7.jpg",
+   "number": "ACN-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Rumie",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Target Beast gains [+400/+400] and [Swiftness] until end of turn.",
+   "flavor_text": "If you can't handle the beasts of this region, you'll never survive here.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2855",
+   "name": "Archaeopteryx",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2855/image_en/b3f375bb-513e-4412-861f-53291c1459ae.jpg",
+   "number": "ACN-031",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "gozz",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Known as the king of the skies.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2856",
+   "name": "Beast Den on Mt. Hoelle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2856/image_en/c4b26b45-4c24-401b-bdb8-4bb520abc25d.jpg",
+   "number": "ACN-032",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Hayama Kohei",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[r][r], banish this card: Search your deck for a Dragonoid, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "While all of the red dragonoids live on Mt. Hoelle, only the strongest live at the summit.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2857",
+   "name": "Burning Awakening",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2857/image_en/53e784d8-50e8-48ca-a211-a2f25cfef238.jpg",
+   "number": "ACN-033",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "sasaki kounosuke",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Haa!\" -Kirik Rerik",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2858",
+   "name": "Demon Watcher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2858/image_en/3ccba061-9d7b-4b3d-9aad-1440f46b4642.jpg",
+   "number": "ACN-034",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 600",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "Saiko Takaki",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ It deals 600 damage to target resonator.",
+   "flavor_text": "Kaim's eyes see all there is on this world.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2859",
+   "name": "Devil's Advocate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2859/image_en/4ddcfe53-f365-4800-bfe8-e3d168ea1eba.jpg",
+   "number": "ACN-035",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Ancient Nights",
+   "flavor_text": "The demons whisper prophecies of the future. Of hope and ruin.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2860",
+   "name": "Dino-Rush",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2860/image_en/da8e637b-932b-4408-91ab-ac128f7b0b16.jpg",
+   "number": "ACN-036",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nanami Lusia",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"You sure like to talk big, huh? If you think you can stop it, then try!\" -Kirik Rerik",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2861",
+   "name": "Dragon Call",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2861/image_en/bddb34f4-4ec9-4635-8c0a-51dc1d280e21.jpg",
+   "number": "ACN-037",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Wherever you are, there's always something that answers this call.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2862",
+   "name": "Dragonoid Martial Artist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2862/image_en/abd7b788-b1f1-4169-aaee-6b7c791b9625.jpg",
+   "number": "ACN-038",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1400 / 800",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "gajumaru",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Trials of strength are the best way for red dragonoids to make their names known.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2863",
+   "name": "Environmental Researcher, Fabre",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2863/image_en/649efc01-9db3-4e85-a9a8-3a77a6f43fe6.jpg",
+   "number": "ACN-039",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.",
+   "flavor_text": "\"I'm headed to the mountain. No, it'd be better to say I'm headed back to the mountain.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2864",
+   "name": "Eruptiphant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2864/image_en/63457f4f-d9ea-40c7-84eb-fa04b332b243.jpg",
+   "number": "ACN-040",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Hayama Kohei",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever another resonator you control attacks ⇒ This card gains [+100/+100] until end of turn.",
+   "flavor_text": "A beast known as the most dangerous among denizens of Mt. Hoelle.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2865",
+   "name": "Explorer on Mt. Hoelle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2865/image_en/f8bda622-13e1-4a40-b4c7-707115c18420.jpg",
+   "number": "ACN-041",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "j-peg",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Reveal the top card of your deck. If it's a chant, put it into your hand.",
+   "flavor_text": "\"So this is the place Fabre was talking about. Wow! Look at all those strange things...\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2866",
+   "name": "Fiend Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2866/image_en/d9b98453-b34c-4c89-ad3e-648eff39f4cb.jpg",
+   "number": "ACN-042",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "EM-MIKA",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Kaim's flame burns the soul.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2867",
+   "name": "Fire Dragon's Egg",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2867/image_en/df79be50-ee7e-407f-9552-dde0fcf972fb.jpg",
+   "number": "ACN-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 100",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "SO",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.",
+   "flavor_text": "Ruthless, even at birth.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2868",
+   "name": "Flame Style",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2868/image_en/0c599ea9-0ccb-437e-9404-d4cc985cfe0f.jpg",
+   "number": "ACN-044",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Ancient Nights",
+   "flavor_text": "The state of the volcano can change on a whim.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2869",
+   "name": "Flying Drill",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2869/image_en/d33d8d46-3b1e-484a-a799-6cc80ffc8555.jpg",
+   "number": "ACN-045",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "mie",
+   "expansion": "Ancient Nights",
+   "flavor_text": "No one ever said the sky was safe.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2870",
+   "name": "Food Supply",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2870/image_en/66845e6a-b24c-4d39-b025-9e55fb9402c3.jpg",
+   "number": "ACN-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Ancient Nights",
+   "flavor_text": "The better the meal the stronger the fighter will feel.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2871",
+   "name": "Gourmet Chef, Sherry Shera",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2871/image_en/2aca502f-813d-442e-b2fc-2a841b1b80d7.jpg",
+   "number": "ACN-047",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put ten strength counters on your J/ruler.",
+   "flavor_text": "Years of practice have lead him to become the greatest cook in the land.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2872",
+   "name": "Hell Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2872/image_en/3b97af54-730c-493f-a932-431dd5e920a9.jpg",
+   "number": "ACN-048",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "AKI",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Build upon the basics. Hone them, to develop your own skills.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2873",
+   "name": "High Speed",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2873/image_en/6d549087-8d58-42e8-a752-27a4ad4e4877.jpg",
+   "number": "ACN-049",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "maximerious",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"As expected Kirik, your speed is incredible.\" -Gill, the Gifted Conjurer",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2874",
+   "name": "Hoelle Pig",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2874/image_en/2e5ed45c-bb42-4bcd-b7c3-df2803a7d72c.jpg",
+   "number": "ACN-050",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 300",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Ancient Nights",
+   "text": "Activate\nBanish this card: Recover your ruler.",
+   "flavor_text": "At ten years, their meat reaches the height of flavor.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2875",
+   "name": "Hoellesaurus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2875/image_en/66892ac3-fa4f-4984-be2b-3bc51cf7eb62.jpg",
+   "number": "ACN-051",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Nanami Lusia",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ It deals 300 damage to target J/resonator.",
+   "flavor_text": "\"Now where did these things come from?\" -Environmental Researcher, Fabre",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2876",
+   "name": "Kaim, Demon of Vice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2876/image_en/03b43552-c167-40e8-9ceb-8b862f20be86.jpg",
+   "number": "ACN-052",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[r], banish a resonator: This card gains [Swiftness] until end of turn.",
+   "flavor_text": "Plotting in secret, lurking in the shadows of the world. He makes bargains with mortals.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2877",
+   "name": "Master of Faithful Beasts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2877/image_en/e4018f3f-bf03-413f-9a65-bd2bd36e6c96.jpg",
+   "number": "ACN-053",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "ponkichi",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a Beast, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "The beasts of Mt. Hoelle have always gotten on well with the red dragonoids.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2878",
+   "name": "Red Cap",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2878/image_en/3e2329a7-b081-4a4c-be26-93c664c8338c.jpg",
+   "number": "ACN-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Evil Spirit",
+   "artist": "Cola",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Red Cap\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "An emissary from the demonic realm.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2879",
+   "name": "Stone Tongued Basilisk",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2879/image_en/37ef831f-159d-4a66-8a1d-8ebde0a315ec.jpg",
+   "number": "ACN-055",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Mad",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever this card attacks ⇒ It gains [+200/0] until end of turn.",
+   "flavor_text": "\"Careful, flicking their tongues means they're about to attack.\" -Environmental Researcher, Fabre",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2880",
+   "name": "Two-Horned Almiraj",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2880/image_en/19ce698e-e627-40f5-84c5-669f79c04bab.jpg",
+   "number": "ACN-056",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "mie",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ It deals 500 damage to you.",
+   "flavor_text": "One horn's for the enemy, the other's for you.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2881",
+   "name": "Vanish in Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2881/image_en/44f2a86d-e234-48d2-a9df-b202798b8a71.jpg",
+   "number": "ACN-057",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "SIGMAN",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Get out of here.\" -Kirik Rerik",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2882",
+   "name": "Alternating Current Crystal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2882/image_en/648f111f-88e3-4091-aaaf-12457a7e74dd.jpg",
+   "number": "ACN-058",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Magic Lifeform",
+   "artist": "Mad",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[u][1], [rest]: You may put a Golem from your hand into the field.",
+   "flavor_text": "An otherworldly crystal that seems to perpetually generate energy.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2883",
+   "name": "Aqua Rifle Mermaid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2883/image_en/a1023417-d6f7-4ba8-8199-e055769cda5d.jpg",
+   "number": "ACN-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Rest target resonator. If the weather is rain, return it to its owner's hand instead.",
+   "flavor_text": "The merfolk discovered an ocean cave concealed in lightning.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2884",
+   "name": "Aquamarine, Panda Diplomat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2884/image_en/3a4ed946-4e7c-4736-8ca9-8177674f2448.jpg",
+   "number": "ACN-060",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "tokiwa",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ You may banish a water gem. If you do, search your deck for a Mermaid, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "The water gem entrusted by Pearlshine grants water breathing.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2885",
+   "name": "Bubble Golem",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2885/image_en/69e96125-aa1c-4b2a-b924-48a481a1fb6c.jpg",
+   "number": "ACN-061",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nAt end of battle ⇒ Banish this card if it attacked or blocked.",
+   "flavor_text": "It dissolves into the earth with its enemies.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2886",
+   "name": "Cleansing Rain",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2886/image_en/dd4f6e42-95cc-4ed8-807e-917c5bf70fd5.jpg",
+   "number": "ACN-062",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Let's go! Splash!\" -Shaela, the Mermaid Princess",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2887",
+   "name": "Confinement",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2887/image_en/7c33032c-264c-4948-83d4-faf63e9e1e1e.jpg",
+   "number": "ACN-063",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "noki",
+   "expansion": "Ancient Nights",
+   "flavor_text": "The dark elves were ill-prepared against the powerful water magic.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2888",
+   "name": "Coral Reef Mermaid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2888/image_en/7445e29a-dd8c-491e-8406-c5dd5d0a7424.jpg",
+   "number": "ACN-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "Pisuke",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Return target resonator your opponent controls to its owner's hand.",
+   "flavor_text": "\"Don't take me lightly!\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2889",
+   "name": "Electrical Discharge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2889/image_en/0d027284-d845-46cf-9a2e-46317e7c2f47.jpg",
+   "number": "ACN-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "douzen",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Princess, don't touch that please!\" -Princess Shaela's Attendant",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2890",
+   "name": "Giant Squid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2890/image_en/9d45993f-8c85-4d12-a0fd-598e15af5e7d.jpg",
+   "number": "ACN-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 1000",
+   "type": "Resonator",
+   "race": "Squid",
+   "artist": "gozz",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Red dragonoids know of this squid's delicious flavor. Unfortunately, the squid's favorite food is dragonoids.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2891",
+   "name": "Guard at the Coral Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2891/image_en/fa7b2e89-add8-4920-9768-e2cdadd7d8ce.jpg",
+   "number": "ACN-067",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 1200",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Look at the top card of your deck. You may put it on the bottom of your deck.",
+   "flavor_text": "\"We don't let any suspicious persons pass...it's easy since we have no visitors.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2892",
+   "name": "Keez, the Wise Dolphin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2892/image_en/8ee8244f-ef5e-4894-bac4-467cfb87ccb6.jpg",
+   "number": "ACN-068",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "700 / 1000",
+   "type": "Resonator",
+   "race": "Dolphin",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[u]: This card gains [Flying] until end of turn.",
+   "flavor_text": "The dolphin's call carries its thoughts across the oceans.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2893",
+   "name": "Keez's Call",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2893/image_en/fe114d8e-4c4b-4180-a3bc-42d345e8c497.jpg",
+   "number": "ACN-069",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Keez's voice can immobilize opponents.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2894",
+   "name": "Magic Sound Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2894/image_en/825c708b-0980-493b-b775-f7cce219c2f8.jpg",
+   "number": "ACN-070",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "RYUEMON",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever your opponent plays a chant ⇒ Recover this card.",
+   "flavor_text": "A golem that perceives the world via the currents of magic.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2895",
+   "name": "Magic Water Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2895/image_en/a3e0b518-0cc4-4d31-887b-8faf37fdef51.jpg",
+   "number": "ACN-071",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "SO",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"That thing can fly?\" -Gill, the Gifted Conjurer",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2896",
+   "name": "Magical Tidal Surge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2896/image_en/a7249bf5-b221-48fd-96b0-cc69e85221a1.jpg",
+   "number": "ACN-072",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SIE NANAHARA",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Oh great waves, swallow all in your path!\" -Shaela, the Mermaid Princess",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2897",
+   "name": "Mega Thunderfish",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2897/image_en/88ce108c-61f0-4732-af21-848e7d682f65.jpg",
+   "number": "ACN-073",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fish",
+   "artist": "douzen",
+   "expansion": "Ancient Nights",
+   "text": "Continuous\nThis card gains [+200/+200] and [Swiftness] as long as the weather is thunderstorm.",
+   "flavor_text": "Leads a school of smaller thunderfish.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2898",
+   "name": "Ocean Floor Archelon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2898/image_en/ea8d5a6e-fe0e-4627-b4c6-937a0bbda5fc.jpg",
+   "number": "ACN-074",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "600 / 2000",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Mad",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[u][u][u][u]: This card gains [+400/+1000] until end of turn. This card cannot be blocked until end of turn.",
+   "flavor_text": "Apex creature of the ocean floors.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2899",
+   "name": "Pandora's Order",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/2899/image_en/eed3b5af-ff46-4d26-b5a8-2edcee120ba5.jpg",
+   "number": "ACN-075",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Disappear.\" -Pandora, Guardian of the Sacred Temple",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2900",
+   "name": "Princess Shaela's Attendant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2900/image_en/1f7751f7-e9a7-4b22-afca-fe0ae6c28f8e.jpg",
+   "number": "ACN-076",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "YK",
+   "expansion": "Ancient Nights",
+   "text": "Continuous\nThis card gains [+200/+200] as long as the weather is rain.",
+   "flavor_text": "Attendants quickly learn never to take their eyes off Princess Shaela. Ever.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2901",
+   "name": "Seabed Investigation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2901/image_en/bb7f2b6a-aeeb-4d1a-80e9-89b8c3dc1c4a.jpg",
+   "number": "ACN-077",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "RYUEMON",
+   "expansion": "Ancient Nights",
+   "flavor_text": "There has yet to be anyone who can penetrate the caves guarded by thunderfish.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2902",
+   "name": "Shaela's Elite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2902/image_en/9698afb4-1a39-446c-9959-e0788ea1bcaf.jpg",
+   "number": "ACN-078",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "noki",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a Mermaid not named \"Shaela's Elite\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Protecting Princess Shaela with their lives.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2903",
+   "name": "Shaela's Foresight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2903/image_en/2a13e6d7-d0ed-435f-a9f3-377cc405e622.jpg",
+   "number": "ACN-079",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ShiroYayoi",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Is something happening?\" -Shaela, the Mermaid Princess",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2904",
+   "name": "Song of Sympathy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2904/image_en/34e7559b-6a6d-47cb-92a4-73741304d8b8.jpg",
+   "number": "ACN-080",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ShiroYayoi",
+   "expansion": "Ancient Nights",
+   "flavor_text": "A song that blanks one's mind and restructures their will.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2905",
+   "name": "Spinning Aquasol",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2905/image_en/c026b249-d580-4434-82a5-a73f2308a6b0.jpg",
+   "number": "ACN-081",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Spin it and let your thoughts spin around back to you.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2906",
+   "name": "The Coral Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2906/image_en/ba1b6137-893c-4e18-b01e-76fc1aecca22.jpg",
+   "number": "ACN-082",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[u][u][２]: Draw a card.",
+   "flavor_text": "Shaela's home. The palace at the center of the underwater city.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2907",
+   "name": "Thunderfish",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2907/image_en/5af8dd35-2087-4906-b387-3b55d6152aca.jpg",
+   "number": "ACN-083",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fish",
+   "artist": "douzen",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card if the weather is rain.",
+   "flavor_text": "These fish live near the lightning caves.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2908",
+   "name": "Waterfowl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2908/image_en/e6fd0bde-2744-46ea-9bbb-fdf8a0bc7062.jpg",
+   "number": "ACN-084",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Bird",
+   "artist": "Misa Tsutsui",
+   "expansion": "Ancient Nights",
+   "text": "Activate\nThis card gains [+100/+200] as long as the weather is rain.",
+   "flavor_text": "Somehow, this bird flies better in the rain.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2909",
+   "name": "Weather Change: Rain",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2909/image_en/fbe61076-e8d6-4294-b55e-77d77beef144.jpg",
+   "number": "ACN-085",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tsukumi",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Let's have good weather today~\" -Shaela, the Mermaid Princess",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2910",
+   "name": "Absolute Awareness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2910/image_en/8450e036-d7f4-4987-8d9d-368d3e5b2cc5.jpg",
+   "number": "ACN-086",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "gekko",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Gill understands the laws of magic at a genius level.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2911",
+   "name": "Arrow Trap",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2911/image_en/26b095b5-d678-45b3-9be7-2c4081fbb56a.jpg",
+   "number": "ACN-087",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Now!\" -Trap Master Lemuria",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2912",
+   "name": "Bullseye Bow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2912/image_en/39349518-e686-4488-90d3-bd6cfcd70d79.jpg",
+   "number": "ACN-088",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "BANAMONS*",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"No prey escapes my bow.\" -Tia Letoliel, Archer Princess of Elves",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2913",
+   "name": "Commander of the Crowd",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2913/image_en/3d724b35-49c1-4a52-9a45-b8de80963174.jpg",
+   "number": "ACN-089",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Nekobayashi",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever this card attacks ⇒ Other Elves you control gain [+100/+100] until end of turn.",
+   "flavor_text": "Leadership and organization are elvish specialties.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2914",
+   "name": "Elemental Blast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2914/image_en/8db0cd00-409e-4c5f-977b-0bd3ae11b149.jpg",
+   "number": "ACN-090",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "gekko",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Might of the wind, Elemental Blast!\" -Gill, the Gifted Conjurer",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2915",
+   "name": "Elf in the Trees",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2915/image_en/96dcbe96-cc6d-443c-a0c1-0c6e13da9cfc.jpg",
+   "number": "ACN-091",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "noki",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ Produce [g].",
+   "flavor_text": "A magical aura sleeps within the trees.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2916",
+   "name": "Elvish Hunter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2916/image_en/539b26fe-7317-4ad0-a386-3ca341d88fb2.jpg",
+   "number": "ACN-092",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Sanosuke Sakuma",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ It deals 100 damage multiplied by the number of Elves you control to target resonator.",
+   "flavor_text": "Elves and dark elves alike learn archery from birth.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2917",
+   "name": "Faerur Letoliel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2917/image_en/da3543d8-dc0d-497b-bd2c-97b0677fdded.jpg",
+   "number": "ACN-093",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Elf",
+   "artist": "Kamijo Roro",
+   "expansion": "Ancient Nights",
+   "text": "Activate\nRest two recovered Elf resonators you control: Recover target magic stone. Play this ability only once per turn.",
+   "flavor_text": "Lord of the elves and ruler beyond the portal. All elvenkind pledge their lives to him.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2918",
+   "name": "Faerur Letoliel, King of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2918/image_en/8c24e44c-ab87-4eac-b361-9e25279f69b0.jpg",
+   "number": "ACN-093 J",
+   "rarity": "JR",
+   "att_def": "800 / 1000",
+   "type": "J-ruler",
+   "race": "Elf",
+   "artist": "Kamijo Roro",
+   "expansion": "Ancient Nights",
+   "text": "Activate\nRemove a gale protection counter from this card: Target Elf gains [+300/+300] until end of turn.",
+   "flavor_text": "\"Gill. I told you that no dark elf may ever enter these lands.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2919",
+   "name": "Faerur's Command",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2919/image_en/ab7f40d6-2d14-41ca-ba22-a2b5767ae516.jpg",
+   "number": "ACN-094",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kamijo Roro",
+   "expansion": "Ancient Nights",
+   "flavor_text": "With only a word, Faerur defeated the dark elf forces.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2920",
+   "name": "Faerur's Escort",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2920/image_en/e6f588b4-3855-4462-b5db-30436082a89a.jpg",
+   "number": "ACN-095",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Target an Elf. At the next end of turn ⇒ Recover it.",
+   "flavor_text": "King Faerur is ever accompanied by his mighty guards.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2921",
+   "name": "Faerur's Spell",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2921/image_en/346bbb3a-a99a-4edd-a215-1d15dd5a0d61.jpg",
+   "number": "ACN-096",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kamijo Roro",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Clever girl.\" -Faerur Letoliel, King of Wind",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2922",
+   "name": "Gentle Breeze Elemental",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2922/image_en/84a31404-d0db-4101-8288-6b2ffdc4a540.jpg",
+   "number": "ACN-097",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic/Elemental",
+   "artist": "gozz",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Alright, let's get this started again.\" -Gill, the Gifted Conjurer",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2923",
+   "name": "Great Tornado",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2923/image_en/66ba4dbf-ae9d-4a85-85e9-8d0fb6bbcdf5.jpg",
+   "number": "ACN-098",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SAO",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"You filthy creatures shall go no further!\" -Faerur Letoliel, King of Wind",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2924",
+   "name": "Leaf Archer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2924/image_en/5be3a2b2-e8a6-46e1-8f5d-e65c7ffbdc16.jpg",
+   "number": "ACN-099",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 1200",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "Misa Tsutsui",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[g][g], [rest]: This card deals 600 damage to target resonator with [Flying].",
+   "flavor_text": "The fact that it can even use a bow astounds enemies.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2925",
+   "name": "Leaf Fighter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2925/image_en/887b43ff-f2bf-4289-b0c9-325d49902478.jpg",
+   "number": "ACN-100",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "kawaryu",
+   "expansion": "Ancient Nights",
+   "flavor_text": "A creature that never changes with the passage of time.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2926",
+   "name": "Leaf Guard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2926/image_en/e0efebd8-a57f-4e4c-a99d-618e2b7c3526.jpg",
+   "number": "ACN-101",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 800",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "uekino aroe",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Try to buy me some time, okay?\" -Gill, the Gifted Conjurer",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2927",
+   "name": "Leaf Healer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2927/image_en/5126d31c-dff5-44c5-8ed3-87ff7befc1b3.jpg",
+   "number": "ACN-102",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 1500",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "yua",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nAt the end of your turn ⇒ Recover all resonators you control.",
+   "flavor_text": "A cool breeze that cures fatigue.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2928",
+   "name": "Leaf Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2928/image_en/5b238959-49f5-4d47-943e-aa88a2092039.jpg",
+   "number": "ACN-103",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "Shirono Muku",
+   "expansion": "Ancient Nights",
+   "text": "Activate\nRemove an Elemental in your graveyard from the game: This card gains [Barrier] until end of turn.",
+   "flavor_text": "Protect and serve.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2929",
+   "name": "Messenger of the King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2929/image_en/23c7a52d-fe57-4ab3-b021-e40067d162d6.jpg",
+   "number": "ACN-104",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Tsukumi",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Up to two target Elves gain [+200/+200] until end of turn.",
+   "flavor_text": "\"Frayla's made her move.\" -Faerur Letoliel, King of Wind",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2930",
+   "name": "Portal in the Woods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2930/image_en/d762552e-6f4d-4a30-9489-0580c249c33d.jpg",
+   "number": "ACN-105",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nAt the end of your turn ⇒ Remove a guidance counter from this card. If you do, put a [100/100] wind Elf resonator token into the field.",
+   "flavor_text": "Those worthy may pass, others are denied entry.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2931",
+   "name": "Spirit Caller Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2931/image_en/6faa3501-251c-475c-a6b3-e2297dc4c689.jpg",
+   "number": "ACN-106",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Miko Yamazaki",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put a [100/100] wind Elf resonator token into the field.",
+   "flavor_text": "\"In times of danger, it's always best to bring a friend.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2932",
+   "name": "Spiritual Guidance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2932/image_en/fc6fea4c-bb13-432e-a5ca-63ecab7021fd.jpg",
+   "number": "ACN-107",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Can you hear it? The voices of the spirits.\" -Gill, the Gifted Conjurer",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2933",
+   "name": "Tia Letoliel, Archer Princess of Elves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2933/image_en/44849f5f-8d3b-463e-a45e-2e433af6ecd9.jpg",
+   "number": "ACN-108",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Mayo",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[g][g][g][3], [rest]: This card deals 1000 damage to target player.",
+   "flavor_text": "The gentle hearted master of archery.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2934",
+   "name": "Tia's White Falcon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2934/image_en/2dbe19fc-887e-41dd-800d-d55d5557cfc9.jpg",
+   "number": "ACN-109",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "kakotomirai",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever this card attacks ⇒ It deals 200 damage to target player or resonator.",
+   "flavor_text": "\"Come!\" -Tia Letoliel, Archer Princess of Elves",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2935",
+   "name": "Trap Master Lemuria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2935/image_en/980afe1a-26a9-4057-8f58-1d479c40f453.jpg",
+   "number": "ACN-110",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 1000",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ It deals 800 damage to target attacking resonator.",
+   "flavor_text": "\"Use everything to your advantage, even the environment.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2936",
+   "name": "Tree Root Sprite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2936/image_en/128a9212-fe6c-41f6-9fa9-d0cd46079282.jpg",
+   "number": "ACN-111",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "Takamura Haluki",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Choose one - Destroy target non-magic stone, non-J/resonator entity; or search your deck for an Elemental and put it into your graveyard. Then shuffle your deck.",
+   "flavor_text": "The future is uncertain, like the whims of fairies.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2937",
+   "name": "Wind Blade",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2937/image_en/076e5f37-e7e2-4a06-adb4-50cf8463c1fe.jpg",
+   "number": "ACN-112",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Elemental",
+   "artist": "Saiko Takaki",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Don't blame me if you die!\" -Gill, the Gifted Conjurer",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2938",
+   "name": "Wind Ferryman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2938/image_en/ca803c83-4592-470d-a885-ea622bc6b382.jpg",
+   "number": "ACN-113",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "JURI",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Look at the top three cards of your deck. You may reveal an Elemental or Spirit Magic from among them and put it into your hand. Put the rest on the bottom of your deck in any order.",
+   "flavor_text": "A journey is a series of choices.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2939",
+   "name": "Winds of Vitality",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2939/image_en/50eae299-98bd-4614-8822-0894d80edf10.jpg",
+   "number": "ACN-114",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "Shirono Muku",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Don't blame me if you die!\" -Gill, the Gifted Conjurer",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2940",
+   "name": "Ahriman, Malicious Eye in the Dark",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2940/image_en/5828dbed-283e-4e70-8e6c-612ca80a1bd1.jpg",
+   "number": "ACN-115",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Familiar",
+   "artist": "MaraMara GuGu",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put a mystery counter on your J/ruler.",
+   "flavor_text": "\"They've arrived.\" -Reiya, Fourth Daughter of the Mikage",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2941",
+   "name": "Black Blood Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2941/image_en/38f0c894-d534-4692-bfda-0625f5680a7e.jpg",
+   "number": "ACN-116",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "yuhki lily",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever this card deals damage ⇒ You gain that much life.",
+   "flavor_text": "Its blood flows only for combat.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2942",
+   "name": "Bloodspray",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2942/image_en/c9e7c7db-b5cc-47fe-84cd-b91270cdd417.jpg",
+   "number": "ACN-117",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "tokiwa",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Reiya's blood turns as sharp as a blade in the light of the moon.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2943",
+   "name": "Dark Elf of the Murky Grove",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2943/image_en/05a13fb7-c6e1-4b5a-8eb8-5ddd333b36fe.jpg",
+   "number": "ACN-118",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Azusa",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever damage is dealt to you ⇒ Put a [+100/+100] counter on this card.",
+   "flavor_text": "Pain turns to hatred, and lights a fire in the heart.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2944",
+   "name": "Dark Elf Sorcerer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2944/image_en/af11dacf-0397-4704-ad4e-4c223a3ab5b5.jpg",
+   "number": "ACN-119",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Saiko Takaki",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever a ruler or resonator you control deals damage to you ⇒ This card deals that much damage to your opponent.",
+   "flavor_text": "An elf that shares pain and pleasure.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2945",
+   "name": "Dark Elf Spy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2945/image_en/a2c9575f-4987-4ade-a5eb-f7e9c47fd529.jpg",
+   "number": "ACN-120",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Motohiro Ichinomiya",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nAt the end of your turn ⇒ This card deals 100 damage to each player.",
+   "flavor_text": "Frayla's actions set the world on a fated path of ruin.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2946",
+   "name": "Dark Night Butterfly",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2946/image_en/bf3096f0-1a13-4c0e-b612-4550468e1e20.jpg",
+   "number": "ACN-121",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "Takamura Haluki",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Once more, the butterflies took flight.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2947",
+   "name": "Dark Revolution",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2947/image_en/82298a13-a662-4bf4-97b5-df4cb3722c76.jpg",
+   "number": "ACN-122",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Ancient Nights",
+   "flavor_text": "With the gates to Outer World open, the world was engulfed in chaos.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2948",
+   "name": "Dark Riding Hood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2948/image_en/81c8cabf-fa79-4a4b-86d0-51db28c19b93.jpg",
+   "number": "ACN-123",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Matsurika Yoko",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever this card attacks ⇒ It deals 200 damage to target player or resonator. You gain 200 life.",
+   "flavor_text": "A fairy tale bound and written in blood.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2949",
+   "name": "Demonic Rabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2949/image_en/a2d49743-ef02-46b7-886b-99140b6b622a.jpg",
+   "number": "ACN-124",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Rabbit/Demon",
+   "artist": "hatarisu",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ It deals 500 damage to you.",
+   "flavor_text": "A strange creature from the Outer World.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2950",
+   "name": "Feast on Mortals",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2950/image_en/340ea3cd-efd8-4733-b7e1-6d2ea4734d39.jpg",
+   "number": "ACN-125",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"No more worthless existences.\" -Kaim, Demon of Vice",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2951",
+   "name": "Frayla",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2951/image_en/6c1d0675-3ff3-4147-bc01-37454dc9df41.jpg",
+   "number": "ACN-126",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Dark Elf",
+   "artist": "ishishou",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nAt the end of your turn ⇒ You may put target Dark Elf from your graveyard into your hand. If you do, this card deals 300 damage to you.",
+   "flavor_text": "\"Don't stop, Gill. Not now, not ever. Even if I die.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2952",
+   "name": "Frayla, the Revolutionist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2952/image_en/2a417aed-9c81-4420-93e6-339afcf28230.jpg",
+   "number": "ACN-126 J",
+   "rarity": "JR",
+   "att_def": "1000 / 800",
+   "type": "J-ruler",
+   "race": "Dark Elf",
+   "artist": "ishishou",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[r][b]: This card deals 100 damage multiplied by the number of Dark Elves you control to your opponent.",
+   "flavor_text": "\"I call upon you, all who live in oppression! Rise up, and defy fate!\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2953",
+   "name": "Gate to Outer World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2953/image_en/7d899a55-5595-4511-ac95-0b5f3bc2c1f3.jpg",
+   "number": "ACN-127",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[rest], [X]: Put a resonator with total cost X from a removed area that was removed by this card into the field.",
+   "flavor_text": "The forbidden gate.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2954",
+   "name": "Hilda, Frayla's Left Hand",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2954/image_en/dd02d6b3-3e56-458e-a54c-45e9045c5155.jpg",
+   "number": "ACN-128",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 500",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Nem",
+   "expansion": "Ancient Nights",
+   "text": "Continuous\nThis card gains [+300/+200] as long as your life is 2000 or less.",
+   "flavor_text": "\"I'm ready when you are.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2955",
+   "name": "Lethal Arrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2955/image_en/e5d4fb53-ed0b-4584-a65c-9f87ae0a607a.jpg",
+   "number": "ACN-129",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ishishou",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Never show a weakness to the dark elves.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2956",
+   "name": "Moon in the Mist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2956/image_en/659c1f70-9694-4c37-9088-138a5e30426c.jpg",
+   "number": "ACN-130",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "lack",
+   "expansion": "Ancient Nights",
+   "flavor_text": "The moon is more than a part of the sky.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2957",
+   "name": "Moonlight Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2957/image_en/d8a60938-d438-49da-aeb7-79a98b536a9e.jpg",
+   "number": "ACN-131",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "BANAMONS*",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Peace always ends when one least expects it.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2958",
+   "name": "Saffina, Frayla's Right Hand",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2958/image_en/e886c490-27ad-48e1-9b89-7fb31d6b5f16.jpg",
+   "number": "ACN-132",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 400",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Rumie",
+   "expansion": "Ancient Nights",
+   "text": "Continuous\nThis card gains [+200/+300] as long as your life is 2000 or less.",
+   "flavor_text": "\"Are you ready, Hilda?\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2959",
+   "name": "Shade Assassin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2959/image_en/46220e02-2af3-4680-975a-7df038708202.jpg",
+   "number": "ACN-133",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Saskia Gutekunst",
+   "expansion": "Ancient Nights",
+   "text": "Continuous\nThis card gains [Swiftness] as long as you control another Dark Elf.",
+   "flavor_text": "A good distraction makes for easy assassination.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2960",
+   "name": "Stealth Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2960/image_en/4f945021-42dc-4700-975c-cd9fd88d83c1.jpg",
+   "number": "ACN-134",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 600",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "tokiwa",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ It deals 600 damage to your opponent.",
+   "flavor_text": "\"Frayla? I trust you're well. Although I don't really care.\" -Kaim, Demon of Vice",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2961",
+   "name": "Sword of the New Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2961/image_en/ceb2acbd-e0f6-4486-a170-6c620aeb3de4.jpg",
+   "number": "ACN-135",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "AKI",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Even after ten years, she appeared exactly the same to Gill and the others.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2962",
+   "name": "Tactics of the Dark Elves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2962/image_en/d95c9801-c71a-47c1-bda0-f454095df34d.jpg",
+   "number": "ACN-136",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nem",
+   "expansion": "Ancient Nights",
+   "flavor_text": "The element of surprise can turn the smallest attacks fatal.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2963",
+   "name": "The Three Evil Little Pigs",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2963/image_en/e765e1a9-46e8-4a87-9061-6342f9c27a1e.jpg",
+   "number": "ACN-137",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Kelvin",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ It deals 400 damage to your opponent.\" and a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ You gain 400 life.\" into the field.",
+   "flavor_text": "They were born the same, but they won't die the same.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2964",
+   "name": "Transforming Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2964/image_en/f05ec775-8648-4e76-b405-a15dd6e23433.jpg",
+   "number": "ACN-138",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 400",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Haruichi Kido",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever this card deals damage ⇒ You gain that much life.",
+   "flavor_text": "Survival adaptations are just another form of evolution.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2965",
+   "name": "Treasonous Guard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2965/image_en/411b7b32-b18e-40d5-a079-666077570754.jpg",
+   "number": "ACN-139",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "touge369",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ It deals 200 damage to each player.",
+   "flavor_text": "\"We will bring liberation to all.\" -Frayla, the Revolutionist",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2966",
+   "name": "Truth Amongst Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2966/image_en/544b19d3-636e-48fe-b73e-cb7e2f7f35ee.jpg",
+   "number": "ACN-140",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Matsurika Yoko",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Sorry, I can't let you know our plans just yet.\" -Dark Riding Hood",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2967",
+   "name": "Vicious Wounded Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2967/image_en/59e8b518-5b1a-402c-887d-1c050699762d.jpg",
+   "number": "ACN-141",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Hayama Kohei",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put two mystery counters on your J/ruler.",
+   "flavor_text": "You'd better kill it in one blow. If you don't, it only gets worse.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2968",
+   "name": "Vitality Drain",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2968/image_en/1b655794-caed-4782-8f28-b4290d46c9cb.jpg",
+   "number": "ACN-142",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "lack",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Life flows like water, from the weak to the strong.\" -Reiya, Fourth Daughter of the Mikage",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2969",
+   "name": "Wolf's Rain",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2969/image_en/cb277134-f65e-4add-93a4-87cebf83f468.jpg",
+   "number": "ACN-143",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Matsurika Yoko",
+   "expansion": "Ancient Nights",
+   "flavor_text": "\"Please.\" -Dark Riding Hood",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2970",
+   "name": "Idol of Magic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2970/image_en/f0aca449-7d6c-4871-9345-5f007e7b9cc1.jpg",
+   "number": "ACN-144",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
+   "flavor_text": "A transforming magic.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2971",
+   "name": "Idol of Vitality",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2971/image_en/2d53c8af-d119-4de5-aa56-044c56dad643.jpg",
+   "number": "ACN-145",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Haruki Komai",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], banish this card: Target J/resonator gains [+200/+200] until end of turn. Draw a card.",
+   "flavor_text": "Touching it fills you with vitality.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2972",
+   "name": "Idol of Willpower",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2972/image_en/f650c5d2-82c6-41bb-a900-07d8d4343f23.jpg",
+   "number": "ACN-146",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "hatarisu",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], banish this card: You gain 500 life. Draw a card.",
+   "flavor_text": "Overflowing with energy.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2973",
+   "name": "Statue in the Sacred Temple",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2973/image_en/39e47143-dc0b-4d4b-94f0-0c3716d3d0e2.jpg",
+   "number": "ACN-147",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Miko Yamazaki",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[w][r][u][g][b], banish this card: Put a [1000/1000] light Angel resonator token with [Flying] into the field.",
+   "flavor_text": "This statue watches over the temple eternally. It is said it guards against intruders.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2974",
+   "name": "Demonic Soulstone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2974/image_en/314f2304-591e-454f-ae2c-dd310bd45797.jpg",
+   "number": "ACN-148",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Saiko Takaki",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[2], [rest]: This card deals 100 damage multiplied by the number of Dark Elves you control to each player.",
+   "flavor_text": "A fiendish stone that speaks to the souls of mortals.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2975",
+   "name": "Mysterious Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2975/image_en/75ec94b2-6d12-48bc-9a56-a2711b3eb757.jpg",
+   "number": "ACN-149",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[w], [rest], banish this card: Put target Golem from your graveyard into your hand.",
+   "flavor_text": "A stone housing a mysterious sacred power.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2976",
+   "name": "Saintly Elven Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2976/image_en/f2704add-ef23-4bd8-9616-08d8f0cefe95.jpg",
+   "number": "ACN-150",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Mad",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[rest]: Target Elf gains [+100/+100] until end of turn.",
+   "flavor_text": "A stone at the center of the elven world's power.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2977",
+   "name": "[Variant] Wing Rider Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2977/image_en/85ede3ac-2e11-44dc-9a55-dc6db4c76805.jpg",
+   "number": "ACN-151",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 1000",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "ComamitsuZaki",
+   "expansion": "Ancient Nights",
+   "text": "Continuous\nThis card gains [Flying] as long as you control a water gem.",
+   "flavor_text": "Wings made of gems never break.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2978",
+   "name": "[Variant] Stone Tongued Basilisk",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2978/image_en/ca5b1176-07b0-4c3b-ac6c-961369535535.jpg",
+   "number": "ACN-152",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Mad",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhenever this card attacks ⇒ Target resonator can't block this turn.",
+   "flavor_text": "\"Careful, flicking their tongues means they're about to attack.\" -Environmental Researcher, Fabre",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2979",
+   "name": "[Variant] Giant Squid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2979/image_en/933f5760-e08e-418c-ad82-a8acb9ea8623.jpg",
+   "number": "ACN-153",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 1000",
+   "type": "Resonator",
+   "race": "Squid",
+   "artist": "gozz",
+   "expansion": "Ancient Nights",
+   "flavor_text": "Red dragonoids know of this squid's delicious flavor. Unfortunately, the squid's favorite food is dragonoids.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2980",
+   "name": "[Variant] Faerur's Escort",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2980/image_en/d7b3523a-d8d7-4329-949a-aff6317b015d.jpg",
+   "number": "ACN-154",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Target Elf can't be destroyed until the beginning of your next turn.",
+   "flavor_text": "King Faerur is ever accompanied by his mighty guards.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2981",
+   "name": "[Variant] Vicious Wounded Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2981/image_en/9571cdec-bef0-4261-b167-d9f7ddaab239.jpg",
+   "number": "ACN-155",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 900",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Hayama Kohei",
+   "expansion": "Ancient Nights",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put two mystery counters on your J/ruler.",
+   "flavor_text": "You'd better kill it in one blow. If you don't, it only gets worse.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2982",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2982/image_en/3df6ce67-573d-4182-b10f-17d9481f7ba1.jpg",
+   "number": "ACN-156",
+   "type": "Basic Magic Stone",
+   "artist": "Kok_Narak",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2983",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2983/image_en/313ee8b7-e70e-417a-a2b6-caaccfc15384.jpg",
+   "number": "ACN-157",
+   "type": "Basic Magic Stone",
+   "artist": "Kok_Narak",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2984",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2984/image_en/70b64778-8432-4b51-bf19-0d3a1f17cab5.jpg",
+   "number": "ACN-158",
+   "type": "Basic Magic Stone",
+   "artist": "Nammza666",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2985",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2985/image_en/60b5d4d1-eafd-4f3a-9792-2eae087c888c.jpg",
+   "number": "ACN-159",
+   "type": "Basic Magic Stone",
+   "artist": "MaraMara GuGu",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2986",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2986/image_en/c2c17bdd-dc77-44c4-a99e-0f080a6ac714.jpg",
+   "number": "ACN-160",
+   "type": "Basic Magic Stone",
+   "artist": "Adarin",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2987",
+   "name": "Treasure Hunter Fierica",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2987/image_en/3bb9d3ab-03ac-4a6c-a421-e01c9e36be3a.jpg",
+   "number": "ACN-161",
+   "type": "Basic Ruler",
+   "race": "Human",
+   "artist": "fzwrAym",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "Treasure hunting is life.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2988",
+   "name": "Treasure Hunter Fierica(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2988/image_en/2f3320e3-5a8f-4db1-b8f5-5a35fab2a5ec.jpg",
+   "number": "ACN-161 J",
+   "att_def": "1000 / 1000",
+   "type": "Basic J-ruler",
+   "race": "Human",
+   "artist": "fzwrAym",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "\"Treasure is always in the dangerous spots. Peril equals profit!\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2989",
+   "name": "Martial Artist Pialle Eille",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2989/image_en/c333e2fe-e93f-42bb-8fbe-7bb8358910b2.jpg",
+   "number": "ACN-162",
+   "type": "Basic Ruler",
+   "race": "Dragonoid",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "The girl's heart burned like a fire.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2990",
+   "name": "Martial Artist Pialle Eille(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2990/image_en/7533d4fd-d31e-4f42-ad28-d3b0cfd6115d.jpg",
+   "number": "ACN-162 J",
+   "att_def": "1000 / 1000",
+   "type": "Basic J-ruler",
+   "race": "Dragonoid",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "\"Just wait 'till next year Kirik. I'll definitely beat you.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2991",
+   "name": "Mephina, Mermaid Shaman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2991/image_en/07480971-3c18-4090-b856-0d6204729559.jpg",
+   "number": "ACN-163",
+   "type": "Basic Ruler",
+   "race": "Mermaid",
+   "artist": "Nekobayashi",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "Prayers reach the sky.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2992",
+   "name": "Mephina, Mermaid Shaman(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2992/image_en/4f6a1190-4bbd-4b8a-96b8-9c19c3746b03.jpg",
+   "number": "ACN-163 J",
+   "att_def": "1000 / 1000",
+   "type": "Basic J-ruler",
+   "race": "Mermaid",
+   "artist": "Nekobayashi",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "\"I will protect the palace while Princess Shaela is away.\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2993",
+   "name": "Leaf Elder",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2993/image_en/910148a8-fa16-491e-9fa3-85a6d1500d9f.jpg",
+   "number": "ACN-164",
+   "type": "Basic Ruler",
+   "race": "Elemental",
+   "artist": "noki",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "An unusual leaf elemental who holds a special power.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2994",
+   "name": "Leaf Elder(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2994/image_en/16d740ae-68ae-4ecd-a8b1-85dcb3602cc0.jpg",
+   "number": "ACN-164 J",
+   "att_def": "1000 / 1000",
+   "type": "Basic J-ruler",
+   "race": "Elemental",
+   "artist": "noki",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "His breath is the wind.",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2995",
+   "name": "Bloodsucking Butler",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2995/image_en/a45e97bc-c19c-46bd-be80-d2c1ca06b84b.jpg",
+   "number": "ACN-165",
+   "type": "Basic Ruler",
+   "race": "Vampire",
+   "artist": "JURI",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "\"What shall it be this evening, Lady Reiya?\"",
+   "all_sets": "Ancient Nights"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2996",
+   "name": "Bloodsucking Butler(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/2996/image_en/17be02b0-016d-41b1-a808-40680d31d43b.jpg",
+   "number": "ACN-165 J",
+   "att_def": "1000 / 1000",
+   "type": "Basic J-ruler",
+   "race": "Vampire",
+   "artist": "JURI",
+   "expansion": "Ancient Nights",
+   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "\"As you wish. I shall prepare a blood feast.\"",
+   "all_sets": "Ancient Nights"
+  }
+ ]
+}

@@ -1,0 +1,2302 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/986",
+   "name": "Avalon, Illusionary Home of Knights",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/986/image_en/1485239989.jpg",
+   "number": "BFA-001",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "城戸春一",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nKnights of the Round Table you control gain [+200/+200].",
+   "flavor_text": "The lost land of knights, reborn from Faria's will.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/987",
+   "name": "Bors, Returned Adventurer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/987/image_en/1485239990.jpg",
+   "number": "BFA-002",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "祀花よう子",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field or attacks ⇒ Target Knight of the Round Table gains [+400/+400] until end of turn.",
+   "flavor_text": "Ever seeking to do good, even in strange lands.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/988",
+   "name": "Circle of Trust",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/988/image_en/1485239992.jpg",
+   "number": "BFA-003",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "あき",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "The fairies entrusted their power to others. Then that power returned to them.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/989",
+   "name": "Fairy of Sacred Vision",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/98/989/image_en/1485239993.jpg",
+   "number": "BFA-004",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "100 / 600",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "七原しえ",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\nBanish this card: Destroy target addition or card in a standby area.",
+   "flavor_text": "The eye of a fairy perceives all.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/990",
+   "name": "Gathering of Fairies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/990/image_en/1485239995.jpg",
+   "number": "BFA-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "坂井結城",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "Even gathering enough fairies together is enough to produce powerful magic.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/991",
+   "name": "Guardian Angel, Raphael",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/991/image_en/1485239998.jpg",
+   "number": "BFA-006",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 800",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "石商",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nYour opponent cannot play activate abilities of J/rulers or regalia during your turn.",
+   "flavor_text": "Rather than defend against awoken creatures, it's better to just keep everyone asleep.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/992",
+   "name": "Interdimensional Escape",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/992/image_en/1485240023.jpg",
+   "number": "BFA-007",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "Only Kaguya, Alice, and Charlotte managed to escape.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/993",
+   "name": "Kaguya, Rabbit Princess of the Lunar Halo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/993/image_en/1485240042.jpg",
+   "number": "BFA-008",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Little Girl",
+   "artist": "桂福蔵",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from your field ⇒ Put a [+100/+100] counter on this card.",
+   "flavor_text": "\"Let's go everyone! Let's bust on through!\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/994",
+   "name": "Last People of Gloria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/994/image_en/1485240043.jpg",
+   "number": "BFA-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "JURI",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field or leaves your field for a non-field zone ⇒ You gain 700 life.",
+   "flavor_text": "Glorians fight so that they might rebuild their home.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/995",
+   "name": "Life Profiteering Priest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/995/image_en/1485240045.jpg",
+   "number": "BFA-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Priest",
+   "artist": "田島幸枝",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nWhenever another resonator enters your field ⇒ You gain 200 life.",
+   "flavor_text": "The wheel of life turns and turns.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/996",
+   "name": "Rabbit of Moonlit Nights",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/996/image_en/1485240046.jpg",
+   "number": "BFA-011",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Rabbit",
+   "artist": "mie",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\nBanish this card: Rest target J/resonator.",
+   "flavor_text": "Foolish is the warrior who readies himself for sword and spell, but not rabbits.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/997",
+   "name": "Rabbit Trap",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/997/image_en/1485240057.jpg",
+   "number": "BFA-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"Gotcha! Go go bunny buddies!\" -Kaguya, Rabbit Princess of the Lunar Halo",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/998",
+   "name": "Reflective Water Shield",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/998/image_en/1485240060.jpg",
+   "number": "BFA-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "乃希",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nPrevent all non-battle damage that would be dealt to added resonator by fire cards.",
+   "flavor_text": "Not even the hottest flame can pierce that shield.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/999",
+   "name": "Sacred Knight of the North",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/99/999/image_en/1485240061.jpg",
+   "number": "BFA-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "篁ふみ",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nWhenever you gain life ⇒ This card gains [+200/0] until end of turn.",
+   "flavor_text": "Faria always said to protect your family and the people took it to heart. The entire nation is their family.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1000",
+   "name": "Sacred Knight of the South",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1000/image_en/1485240062.jpg",
+   "number": "BFA-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "篁ふみ",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nWhenever you gain life ⇒ This card gains [0/+200] until end of turn.",
+   "flavor_text": "Northerners and Southerns have different ways of defending, but their purpose unites them.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1001",
+   "name": "Alisaris, Avatar of Destruction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1001/image_en/1485240063.jpg",
+   "number": "BFA-016",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Avatar",
+   "artist": "BANAMONS*",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may play a fire chant card with total cost 3 or less without [Trigger] from your removed area without paying its cost.",
+   "flavor_text": "\"At last...the power of calamity. With this, Lapis' victory is assured.\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1002",
+   "name": "Battle for Attoractia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1002/image_en/1485240074.jpg",
+   "number": "BFA-017",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "Alice and Kaguya defeated Alisaris, but Lapis still held powers alien to this or any other world.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1003",
+   "name": "Blood Boil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1003/image_en/1485240076.jpg",
+   "number": "BFA-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Moopic",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "Ruin predates glory.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1004",
+   "name": "Blood Covered War Axe",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1004/image_en/1485240078.jpg",
+   "number": "BFA-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "gozz",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nAdded resonator gains [+400/0] and \"Whenever this card attacks, it deals 200 damage to each other resonator\".",
+   "flavor_text": "While the blood sprays on enemies and allies alike, only allies are actually happy about it.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1005",
+   "name": "Bloodfire Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1005/image_en/1485240080.jpg",
+   "number": "BFA-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "草薙蝶炎",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ It deals 500 damage to target resonator you control.",
+   "flavor_text": "Unable to control its own fire, this dragon sometimes burns itself.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1006",
+   "name": "Enraged Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1006/image_en/1485240082.jpg",
+   "number": "BFA-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "下江クリス",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nAs long as your opponent controls a darkness magic stone, this card gains [+200/+200] and [Swiftness].",
+   "flavor_text": "No one is really sure exactly who she's angry at.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1007",
+   "name": "Flame Soldier of Volga",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1007/image_en/1485240083.jpg",
+   "number": "BFA-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "kawaryu",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhenever this card is dealt damage ⇒ It gains [+200/0] and [Swiftness] until end of turn.",
+   "flavor_text": "Pain means nothing. On the contrary, it only becomes power. The soldiers of Volga know not the burden of a valuable life.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1008",
+   "name": "Flame Trap",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1008/image_en/1485240085.jpg",
+   "number": "BFA-023",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"I can never afford to be careless. Not with myself, or my friends.\" -Faria, Chosen Girl",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1009",
+   "name": "Lapis' Beast of Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1009/image_en/1485240087.jpg",
+   "number": "BFA-024",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "七海ルシア",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ It deals 600 damage to target resonator.",
+   "flavor_text": "This ferocious beast of fire cooks its prey while eating it.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1010",
+   "name": "Napping Lion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1010/image_en/1485240088.jpg",
+   "number": "BFA-025",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "上條ロロ",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nThis card cannot attack or block unless it's damaged.",
+   "flavor_text": "It doesn't even notice those that draw close to it.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1011",
+   "name": "Ring of Fate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1011/image_en/1485240089.jpg",
+   "number": "BFA-026",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "BANAMONS*",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "Even turning back time can't save you from your memories.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1012",
+   "name": "Sanguine Arena",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1012/image_en/1485240091.jpg",
+   "number": "BFA-027",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "gozz",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest]: This card deals 200 damage to each resonator. Play this ability only if you control a resonator.",
+   "flavor_text": "The battle that took place here years ago between Melgis and Volga ended in an instant.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1013",
+   "name": "True Successor of Certo, Volga",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1013/image_en/1485240092.jpg",
+   "number": "BFA-028",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "King",
+   "artist": "Azusa",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhenever this card is dealt damage ⇒ It deals that much damage to your opponent.",
+   "flavor_text": "\"Feel my pain!\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1014",
+   "name": "Vell-Savarian Apparition",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1014/image_en/1485240094.jpg",
+   "number": "BFA-029",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Illusion",
+   "artist": "tokiwa",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card in your deck is removed from the game ⇒ Put it into your field.",
+   "flavor_text": "In Vell-Savaria, nothing dies. Not even hatred.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1015",
+   "name": "Ywain, Knight of Lions",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1015/image_en/1485240095.jpg",
+   "number": "BFA-030",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "上條ロロ",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhenever this card attacks ⇒ It deals 200 damage to each resonator.",
+   "flavor_text": "He preferred combat to needless conversing.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1016",
+   "name": "Bulwark Architect",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1016/image_en/1485240098.jpg",
+   "number": "BFA-031",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "ユウキリリー",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest]: Target resonator with no attribute gains [0/+400] until end of turn.",
+   "flavor_text": "Making strong machines is his life's calling.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1017",
+   "name": "Croco-Shark",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1017/image_en/1485240100.jpg",
+   "number": "BFA-032",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fantasy",
+   "artist": "ハタリス",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nThis card gains [+200/+200] for each other \"Croco-Shark\" you control.",
+   "flavor_text": "\"What's in the river? Oh er...don't worry about it.\" -Hare of Inaba",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1018",
+   "name": "Croco-Shark Crossing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1018/image_en/1485240101.jpg",
+   "number": "BFA-033",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "上木乃アロエ",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest]: Target resonator and all other resonators with the same name gain [+300/+300] until end of turn.",
+   "flavor_text": "Croco-Sharks will trudge through anything.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1019",
+   "name": "Disassembly Line",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1019/image_en/1485240102.jpg",
+   "number": "BFA-034",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "松本エイト",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"Recycling? Okay! Leave it to me!\" -Small Assistant, Mariabella",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1020",
+   "name": "Down the Drain",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1020/image_en/1485240104.jpg",
+   "number": "BFA-035",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "夕子",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"This heat is unbearable. Someone fix it, now.\" -Titania, Prideful Queen",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1021",
+   "name": "Engineer of Leginus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1021/image_en/1485240112.jpg",
+   "number": "BFA-036",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "城戸春一",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nYou may pay [1] less to play spells with no attribute, to a minimum free cost of 1.",
+   "flavor_text": "Proper planning makes production productive.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1022",
+   "name": "Fairy Flower Extract",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1022/image_en/1485240117.jpg",
+   "number": "BFA-037",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "長崎祐子",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nAdded resonator becomes a [200/300].",
+   "flavor_text": "Anyone who takes the extract shrinks to the size of a fairy.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1023",
+   "name": "Machine Sympathizer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1023/image_en/1485240118.jpg",
+   "number": "BFA-038",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "lack",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nThis card gains [+200/+200] for each resonator with no attribute you control.",
+   "flavor_text": "\"It's coming! The rise of the machines is coming!\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1024",
+   "name": "Queen's Envoy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1024/image_en/1485240119.jpg",
+   "number": "BFA-039",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 300",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "nocras",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nThis card can block while rested.",
+   "flavor_text": "The queen is willing to sacrifice anything to protect herself.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1025",
+   "name": "Separation of Body and Soul",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1025/image_en/1485240120.jpg",
+   "number": "BFA-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Moopic",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"Lies are so easy to rip apart.\" -Possessor Princess of Love, Valentina",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1026",
+   "name": "Set Free",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1026/image_en/1485240122.jpg",
+   "number": "BFA-041",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "j-peg",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"The time for freedom has come! Everyone, please, join me for a song!\" -Shion, Liberator of Shangri-La",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1027",
+   "name": "Shion, Liberator of Shangri-La",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1027/image_en/1485240124.jpg",
+   "number": "BFA-042",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "j-peg",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[U],[rest], discard a card: Return another target resonator to its owner's hand.",
+   "flavor_text": "\"Until today I fought for the oppressed. Today, I sing for all!\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1028",
+   "name": "Spectating Magician",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1028/image_en/1485240127.jpg",
+   "number": "BFA-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 800",
+   "type": "Resonator",
+   "race": "Wizard/Ancient",
+   "artist": "スギカワタクミ",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put target cahnt card without [Trigget] from your graveyard into your hand. If that card's total cost is 1, you may play it without paying its cost instead of putting it into your hand.",
+   "flavor_text": "Onlookers were transfixed on the black moon, not noticing their collapsing world.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1029",
+   "name": "Technician of Leginus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1029/image_en/1485240129.jpg",
+   "number": "BFA-044",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "松本エイト",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top two cards of your deck. Put up to two cards with no attribute from among them into your hand. Put the rest into your graveyard.",
+   "flavor_text": "On a good day he'll come with two new inventions, on a bad day he'll come with nothing.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1030",
+   "name": "Titania, Prideful Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1030/image_en/1485240130.jpg",
+   "number": "BFA-045",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Fairy",
+   "artist": "祀花よう子",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nOther water resonators and other Fairy resonators you control gain [+200/+200].",
+   "flavor_text": "Those who call her prideful always seem to turn up missing.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1031",
+   "name": "Alice's Little Decoy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1031/image_en/1485240131.jpg",
+   "number": "BFA-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "gozz",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\nBanish this card: Return up to two target resonators you control to their owners' hands.",
+   "flavor_text": "Alice summoned decoys to divert the enemy's attack.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1032",
+   "name": "Earthbound Wingman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1032/image_en/1485240133.jpg",
+   "number": "BFA-047",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Wingman",
+   "artist": "長崎祐子",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhenever this card attacks ⇒ You may recover target magic stone.",
+   "flavor_text": "Those wings bring new life to dying winds.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1033",
+   "name": "Escort of the Fairy King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1033/image_en/1485240135.jpg",
+   "number": "BFA-048",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 600",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "乃希",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\n[Quickcast]",
+   "flavor_text": "All this fairy can do is beat back those that draw near.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1034",
+   "name": "Hare of Inaba",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1034/image_en/1485240138.jpg",
+   "number": "BFA-049",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "白井秀実",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nThis card gains [Flying] and [Swiftness] as long as you control a Fantasy resonator.",
+   "flavor_text": "\"Alright everyone, let's get hopping! Just don't cry if you get hurt!\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1035",
+   "name": "High Speed Dash",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1035/image_en/1485240140.jpg",
+   "number": "BFA-050",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "桂福蔵",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"We're outta here!\" -Kaguya, Rabbit Princess of the Lunar Halo",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1036",
+   "name": "Home of the Wingmen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1036/image_en/1485240141.jpg",
+   "number": "BFA-051",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "tokiwa",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest]: Target resonator with [Flying] gains [+300/+300] until end of turn.",
+   "flavor_text": "An Armalla on the ground.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1037",
+   "name": "Midsummer's Night King, Oberon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1037/image_en/1485240142.jpg",
+   "number": "BFA-052",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "まよ",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\n[Quickcast]",
+   "flavor_text": "When the king appears, the fairies buzz about. Even if they aren't busy, they pretend they are.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1038",
+   "name": "Moonbreeze Rabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1038/image_en/1485240143.jpg",
+   "number": "BFA-053",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Rabbit",
+   "artist": "白野椋",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\nBanish this card: Produce [G] or [M].",
+   "flavor_text": "That rabbit came and went as quickly as the wind, and left a calming warmth.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1039",
+   "name": "Protection of Alice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1039/image_en/1485240145.jpg",
+   "number": "BFA-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "白野椋",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nAdded resonator gains [+200/+200] for each resonator you control.",
+   "flavor_text": "Alice's power is shared with all her allies.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1040",
+   "name": "Song of the Fairy King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1040/image_en/1485240148.jpg",
+   "number": "BFA-055",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "まよ",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "The song of the fairy king gave the fairies the power to fight a second time.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1041",
+   "name": "Survivors of Sissei",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1041/image_en/1485240149.jpg",
+   "number": "BFA-056",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "夕子",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nThis card gains [+400/+400] as long as you control another Beast resonator.",
+   "flavor_text": "The creatures of Sissei wait patiently for their queen to return.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1042",
+   "name": "The Last Drop",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1042/image_en/1485240152.jpg",
+   "number": "BFA-057",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "あき",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "The last drop fell to Alice's hands.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1043",
+   "name": "Time-Gazer Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1043/image_en/1485240153.jpg",
+   "number": "BFA-058",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 800",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "坂井結城",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[M]: Look at the top three cards of your deck and put them back in any order.",
+   "flavor_text": "Though there are many who can see the future, there are few who can change it.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1044",
+   "name": "Wing Trap",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1044/image_en/1485240155.jpg",
+   "number": "BFA-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "今野隼史",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "Earthbound creatures know not the advantages of flight.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1045",
+   "name": "Yggdor, Beast of the World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1045/image_en/1485240156.jpg",
+   "number": "BFA-060",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/08.png"
+    }
+   ],
+   "att_def": "1400 / 1400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "kakotomirai",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nBlocking does not cause this card to rest.",
+   "flavor_text": "The spirit of the world tree, the last of its hope.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1046",
+   "name": "Black Moonbeam",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1046/image_en/1485240159.jpg",
+   "number": "BFA-061",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "(Ancient Magic)",
+   "artist": "佐々木光之介",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"Tsk, forcing me to use this much power...\" -Interdimensional Monarch, Gill Lapis",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1047",
+   "name": "Collapsing World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1047/image_en/1485240160.jpg",
+   "number": "BFA-062",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "gozz",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nAt the beginning of each player's turn ⇒ That player banishes a resonator.",
+   "flavor_text": "Life was swallowed into the gaping maw of the dying world.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1048",
+   "name": "Corrosion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1048/image_en/1485240161.jpg",
+   "number": "BFA-063",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "白井秀実",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nAdded resonator gains [+800/-400].",
+   "flavor_text": "Madness, like any other weapon, can be a tool for friend or foe.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1049",
+   "name": "Covert Operative",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1049/image_en/1485240163.jpg",
+   "number": "BFA-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "狛蜜ザキ",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ Cancel target spell or ability targeting a card in your standby area. If you do, draw a card.",
+   "flavor_text": "Never leave a trace, anything less is unacceptable.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1050",
+   "name": "Death Trap",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1050/image_en/1485240164.jpg",
+   "number": "BFA-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "Hatred and revenge, call demons in the dark.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1051",
+   "name": "Eyes in the Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1051/image_en/1485240166.jpg",
+   "number": "BFA-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"A feeling of being watched? Of course. Stare long enough at the darkness and it stares back.\" -Rezzard, Dark Necromancer",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1052",
+   "name": "Fairy Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1052/image_en/1485240167.jpg",
+   "number": "BFA-067",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy/Shadow",
+   "artist": "碧風羽",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target resonator with total cost 1.",
+   "flavor_text": "\"It hurts! It hurts! Now you too! Feel how much it hurts!\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1053",
+   "name": "Hades, Lord of the Dead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1053/image_en/1485240168.jpg",
+   "number": "BFA-068",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/08.png"
+    }
+   ],
+   "att_def": "1400 / 1400",
+   "type": "Resonator",
+   "race": "Twelve Apostles",
+   "artist": "fzwrAym",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[B][B],[rest]: Put target resonator with [Stealth] you control into its owner's standby area face down.",
+   "flavor_text": "The true master of all who dwell in death and darkness.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1054",
+   "name": "Lapis' Dark Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1054/image_en/1485240170.jpg",
+   "number": "BFA-069",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "佐久間さのすけ",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target resonator with total cost 3 or less.",
+   "flavor_text": "This creature is cursed to never stop eating.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1055",
+   "name": "Lapis' Dark Storm",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1055/image_en/1485240171.jpg",
+   "number": "BFA-070",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "Winds that only carry the promise of ruthless destruction.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1056",
+   "name": "Melder, Last of the Dead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1056/image_en/1485240174.jpg",
+   "number": "BFA-071",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "touge369",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [-400/-400] for each resonator with [Stealth] you control until end of turn.",
+   "flavor_text": "To stop his son, Rezzard's father rose as the last of the undead.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1057",
+   "name": "Messenger Familiar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1057/image_en/1485240175.jpg",
+   "number": "BFA-072",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Familiar",
+   "artist": "上木乃アロエ",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a Twelve Apostle, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Perfectly harmless, as long as it's still alive.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1058",
+   "name": "Remnants of Niflheim",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1058/image_en/1485240177.jpg",
+   "number": "BFA-073",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "Moopic",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nThis card gains [+100/+100] for each card in your standby area.",
+   "flavor_text": "Unseen power gathers in the darkness.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1059",
+   "name": "Riza, First of the Dead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1059/image_en/1485240178.jpg",
+   "number": "BFA-074",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "touge369",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may pay 1000 life. If you do, search your deck for a card and put it into your standby area face down. Then shuffle your deck.",
+   "flavor_text": "The resurrected body of Rezzard's mother. All but her love was brought back.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1060",
+   "name": "Rotting Black Moon Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1060/image_en/1485240179.jpg",
+   "number": "BFA-075",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dragon/Zombie",
+   "artist": "Mad",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[M]: This card and target resonator gain [-200/-200] until end of turn.",
+   "flavor_text": "The corrosion doesn't stop with the dragon.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1061",
+   "name": "Alice of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1061/image_en/1485240181.jpg",
+   "number": "BFA-076",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Guardian",
+   "artist": "Wednesday",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nOther J/resonators you control gain [0/+200].",
+   "flavor_text": "As Alice fought Lapis, she fought another as well. Her own shadow.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1062",
+   "name": "Alice of Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1062/image_en/1485240182.jpg",
+   "number": "BFA-076*",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator (Shift)",
+   "race": "Murderer/Shadow",
+   "artist": "Wednesday",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nOther J/resonators you control gain [+200/0].",
+   "flavor_text": "\"I told you, you were weak! Ready Schrödinger? I'm going to kill every single of you!\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1063",
+   "name": "Lars, Inheritor of the Sacred Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1063/image_en/1485240188.jpg",
+   "number": "BFA-077",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "猫囃子",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nPrevent all damage that would be dealt to this card during your turn.",
+   "flavor_text": "\"With this power I can finally save Charlotte and maybe even...\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1064",
+   "name": "Glorian Princess of Water, Charlotte",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1064/image_en/1485240190.jpg",
+   "number": "BFA-077*",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator (Shift)",
+   "race": "Wizard",
+   "artist": "猫囃子",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\nRemove four [+100/+100] counters from this card: Draw a card.",
+   "flavor_text": "\"Wow, the world sure is big! I wonder where Lars and Faria are...\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1065",
+   "name": "Reflect, the Beginning of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1065/image_en/1485240191.jpg",
+   "number": "BFA-078",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Little Boy",
+   "artist": "ケルビン",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[1]: Put a magic counter on this card.",
+   "flavor_text": "\"It's finally starting.\" \"No, it's finally over.\" \"Really?\" \"Really.\" - Reflect, the Beginning of Time and Refain, the End of Ages",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1066",
+   "name": "Refrain, the End of Ages",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1066/image_en/1485240193.jpg",
+   "number": "BFA-078*",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator (Shift)",
+   "race": "Little Girl",
+   "artist": "ケルビン",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\nRemove four magic counters from this card: Destroy all additions, regalia, resonators, and J-rulers.",
+   "flavor_text": "When this world ended, they too, disappeared. Off to report to someone, somewhere.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1067",
+   "name": "Slayer of the Overlord, Pricia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1067/image_en/1485240194.jpg",
+   "number": "BFA-079",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "fzwrAym",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[1]: This card gains [+100/+100] until end of turn.",
+   "flavor_text": "\"We...we beat her right? So why do I feel so...strange?\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1068",
+   "name": "Possessor Princess of Love, Valentina",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1068/image_en/1485240196.jpg",
+   "number": "BFA-079*",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator (Shift)",
+   "race": "Twelve Apostles",
+   "artist": "fzwrAym",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Gain control of target resonator.",
+   "flavor_text": "\"This body isn't comfortable at all. But that's okay. You're next, Alice.\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1069",
+   "name": "Interdimensional Monarch, Gill Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1069/image_en/1485240198.jpg",
+   "number": "BFA-080",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Conqueror",
+   "artist": "ネム",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\nDiscard a Twelve Apostle: This card gains [+400/+400] and [Precision] until end of turn.",
+   "flavor_text": "\"This world...like all worlds...belongs to me.\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1070",
+   "name": "Space-Time Pursuer, Gill Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1070/image_en/1485240201.jpg",
+   "number": "BFA-080*",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator (Shift)",
+   "race": "Wanderer",
+   "artist": "ネム",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field or shifts ⇒ Choose one -\nYou may pay [0] to play [Shift] abilities of target card in a field rather than pay their cost until end of turn;\nor you may put a Twelve Apostle from your hand into your field. It gains [Swiftness] until end of turn. Remove it from the game at end of turn.",
+   "flavor_text": "\"Wherever you run I will find you. I am the fate of all. That is true control.\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1071",
+   "name": "Attoractia, Dimension of the Seven Kings",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1071/image_en/1485240202.jpg",
+   "number": "BFA-081",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "ひがし",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "flavor_text": "\"Attoractia, a name that shall be but a footnote in the legacy of my reign.\" - Interdimensional Monarch, Gill Lapis",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1072",
+   "name": "Illusory Demonic Globe, Attoractia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1072/image_en/1485240205.jpg",
+   "number": "BFA-081*",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/07.png"
+    }
+   ],
+   "type": "Regalia (Shift)",
+   "artist": "ひがし",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest], put six cards in any removed area that were removed by this card into their owners' graveyards: You win the game.",
+   "flavor_text": "\"I may have lost the Earth, but it matters little. This planet will make a fine replacement.\" -Space-Time Pursuer, Gill Lapis",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1073",
+   "name": "Artificial Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1073/image_en/1485240206.jpg",
+   "number": "BFA-082",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 1500",
+   "type": "Resonator",
+   "race": "Machine/Moon",
+   "artist": "スギカワタクミ",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "It's a truly marvelous recreation.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1074",
+   "name": "Dummy Doll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1074/image_en/1485240207.jpg",
+   "number": "BFA-083",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "佐久間さのすけ",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ Cancel target spell or ability targeting a Machine you control. If you do, draw a card.",
+   "flavor_text": "\"Ah, don't touch that! You'll set it off.\" -Small Assistant, Mariabella",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1075",
+   "name": "Machine Lab of Leginus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1075/image_en/1485240209.jpg",
+   "number": "BFA-084",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Machine",
+   "artist": "kakotomirai",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put target Machine with total cost 2 or less from your graveyard into your field.",
+   "flavor_text": "Maintaining materials means recycling.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1076",
+   "name": "Mariabella's Work",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1076/image_en/1485240211.jpg",
+   "number": "BFA-085",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "Battle for Attractia",
+   "flavor_text": "\"This goes here, and this goes there. It's perfect!\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1077",
+   "name": "Remote Control Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1077/image_en/1485240213.jpg",
+   "number": "BFA-086",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Machine/Beast",
+   "artist": "ＳＩＧＭＡＮ",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nYou may pay [1] less to play this card for each Machine you control.",
+   "flavor_text": "Depending on the signal, machines can operate fast or slow.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1078",
+   "name": "Remote Control Golem",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1078/image_en/1485240214.jpg",
+   "number": "BFA-087",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/10.png"
+    }
+   ],
+   "att_def": "2000 / 2000",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "ＳＩＧＭＡＮ",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nThis card cannot be destroyed.",
+   "flavor_text": "The remote connection between machines may even prevent their destruction.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1079",
+   "name": "Small Assistant, Mariabella",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1079/image_en/1485240215.jpg",
+   "number": "BFA-088",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "artist": "るみえ",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\nRemove this card in your graveyard from the game: Produce [2]. Spend this will only to play activate abilities of \"Marybell, the Steel Doll\" or to play \"Marybell, Insane Self-Aware Machine\".",
+   "flavor_text": "\"Master Machina...I will finish your research.\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1080",
+   "name": "The Ro-Box",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1080/image_en/1485240217.jpg",
+   "number": "BFA-089",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "竿",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Reveal cards from the top of your deck until you reveal a Machine with total cost 1. Put that card into your field and shuffle the rest into your deck.",
+   "flavor_text": "Machine creates machine.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1081",
+   "name": "Tick-Tock Automaton",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1081/image_en/1485240218.jpg",
+   "number": "BFA-090",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "400 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Cola",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Reveal cards from the top of your deck until you reveal a Machine with total cost 2. Put that card into your field and shuffle the rest into your deck.",
+   "flavor_text": "\"I wonder what it will do next.\" -Small Assistant, Mariabella",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1082",
+   "name": "Memoria of the Seven Lands",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1082/image_en/1485240220.jpg",
+   "number": "BFA-091/092/093/094/095",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Heroic Spirit",
+   "artist": "Cola",
+   "expansion": "Battle for Attractia",
+   "text": "Judgement\n[4].",
+   "flavor_text": "A memoria that projects the images of great people from Attoractia.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1083",
+   "name": "Faria, Chosen Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1083/image_en/1485240221.jpg",
+   "number": "BFA-091J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-ruler",
+   "race": "Heroic Spirit",
+   "artist": "猫囃子",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhenever you gain life ⇒ Put a [+100/+100] counter on each J/resonator you control.",
+   "flavor_text": "\"Brother...I promise I'll protect this land. So please...come home safe.\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1084",
+   "name": "Melgis, Conqueror of Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1084/image_en/1485240224.jpg",
+   "number": "BFA-092J",
+   "rarity": "JR",
+   "att_def": "1000 / 600",
+   "type": "J-ruler",
+   "race": "Heroic Spirit",
+   "artist": "gekko",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhen this card enters your field ⇒ If you control a \"Brutal Conqueror's Memoria\" reveal the top three cards of your deck. Put all resonators with total cost 3 or less from among them into your field. They gain [Swiftness] until end of turn. Put the rest on top of your deck in any order. If you control four \"Brutal Conqueror's Memoria\" put all resonators from among them into your field instead of all resonators with total cost 3 or less.",
+   "flavor_text": "\"I will defeat Volga and rule Certo. Those who wish to live, join me now!\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1085",
+   "name": "Machina, Clever Researcher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1085/image_en/1485240225.jpg",
+   "number": "BFA-093J",
+   "rarity": "JR",
+   "att_def": "800 / 800",
+   "type": "J-ruler",
+   "race": "Heroic Spirit",
+   "artist": "るみえ",
+   "expansion": "Battle for Attractia",
+   "text": "Continuous\nThis card gains [+200/+200] for each Machine you control.",
+   "flavor_text": "\"Mariabella, it's so close. It just needs something. Just one thing more and it will be perfect. But what? What am I missing?\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1086",
+   "name": "Arla, Guardian of the Skies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1086/image_en/1485240227.jpg",
+   "number": "BFA-094J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-ruler",
+   "race": "Heroic Spirit",
+   "artist": "今野隼史",
+   "expansion": "Battle for Attractia",
+   "text": "Automatic\nWhenever a resonator you control attacks, recover target magic stone you control.",
+   "flavor_text": "\"We cannot escape the problems of this world in the skies. I will guard this world, all of it.\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1087",
+   "name": "Rezzard, Dark Necromancer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1087/image_en/1485240229.jpg",
+   "number": "BFA-095J",
+   "rarity": "JR",
+   "att_def": "800 / 1000",
+   "type": "J-ruler",
+   "race": "Heroic Spirit",
+   "artist": "touge369",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[B]: You may put a card from your hand into your standby area face down.",
+   "flavor_text": "\"Look, mother. Look how well I've honed my craft. I can save you, I know I can! Mother? Why won't you answer me?\"",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1088",
+   "name": "Call to Action's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1088/image_en/1485240258.jpg",
+   "number": "BFA-096",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "弥生しろ",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[W][1],[rest]: You gain 100 life.",
+   "flavor_text": "It's a memory of a girl chosen by fate.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1089",
+   "name": "Brutal Conqueror's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1089/image_en/1485240260.jpg",
+   "number": "BFA-097",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "草薙蝶炎",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[R][2],[rest]: This card deals 100 damage to your opponent.",
+   "flavor_text": "It's a memory of a decisive battle.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1090",
+   "name": "Aloof Researcher's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1090/image_en/1485240261.jpg",
+   "number": "BFA-098",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "七海ルシア",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[U][1],[rest]: Draw a card, then discard a card.",
+   "flavor_text": "It's a memory of determination and ruin.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1091",
+   "name": "First Flight's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1091/image_en/1485240263.jpg",
+   "number": "BFA-099",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "狛蜜ザキ",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[G],[rest]: Produce [W],[R],[U],[G], or [B].",
+   "flavor_text": "It's a memory of a city's first trip to the clouds.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1092",
+   "name": "Sorrowful Necromancy's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1092/image_en/1485240264.jpg",
+   "number": "BFA-100",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "碧風羽",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[B][1],[rest]: Remove target card in a graveyard from the game.",
+   "flavor_text": "It's a memory of a twisted love.",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1093",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1093/image_en/1485240265.jpg",
+   "number": "BFA-101",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1094",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1094/image_en/1485240268.jpg",
+   "number": "BFA-102",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "BANAMONS*",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1095",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1095/image_en/1485240269.jpg",
+   "number": "BFA-103",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "たかむらはるき",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1096",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1096/image_en/1485240270.jpg",
+   "number": "BFA-104",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "坂井結城",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Battle for Attractia"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1097",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1097/image_en/1485240272.jpg",
+   "number": "BFA-105",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "gozz",
+   "expansion": "Battle for Attractia",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Battle for Attractia"
+  }
+ ]
+}

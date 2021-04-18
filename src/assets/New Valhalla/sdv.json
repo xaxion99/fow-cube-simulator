@@ -1,0 +1,2391 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/3750",
+   "name": "Acolyte of the Sun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3750/image_en/09e46ffb-ee62-4e7b-b47e-283b55df0bc7.jpg",
+   "number": "SDV1-001",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Shirono Muku",
+   "expansion": "Starter Deck",
+   "flavor_text": "The light of faith becomes the source of life.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3751",
+   "name": "Atom Seikhart",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3751/image_en/20846f5c-7d3e-4911-94a3-d0b989b73a17.jpg",
+   "number": "SDV1-002",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Rabbit",
+   "artist": "Saiko Takaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "A hundred years prior, Kaguya's influence transformed many rabbits into wererabbits. The only true rabbit remaining is he.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3752",
+   "name": "Atom Seikhart, the Shimmering Rabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3752/image_en/d3d61e50-1dcd-44d1-8950-98551c87933d.jpg",
+   "number": "SDV1-002J",
+   "rarity": "R",
+   "att_def": "800 / 1200",
+   "type": "J-Ruler",
+   "race": "Rabbit",
+   "artist": "Saiko Takaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Is it finally time? It would seem my services are needed once again.\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3753",
+   "name": "Bethor, the Angel of Treasure",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3753/image_en/5f3349bc-2008-413e-acaf-63091ee34b29.jpg",
+   "number": "SDV1-003",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "yuko",
+   "expansion": "Starter Deck",
+   "flavor_text": "As long as her wings still fly, nobody, not even Atom, dared near the treasure.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3754",
+   "name": "Bewilder",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3754/image_en/4185413e-8db4-49ad-8036-246f7be706c0.jpg",
+   "number": "SDV1-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "hatarisu",
+   "expansion": "Starter Deck",
+   "flavor_text": "Hallucinations produce momentary confusion.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3755",
+   "name": "Brunhild",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3755/image_en/86b88a33-20b5-43d9-a3f1-62f7798ad210.jpg",
+   "number": "SDV1-005",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Valkyrie",
+   "artist": "jugemt",
+   "expansion": "Starter Deck",
+   "flavor_text": "The leader of the Valkyries and the voice of Odin.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3756",
+   "name": "Brunhild, Caller of Spirits",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3756/image_en/d1541da0-c713-4581-b46c-f024727ee1c5.jpg",
+   "number": "SDV1-005J",
+   "rarity": "R",
+   "att_def": "1200 / 1200",
+   "type": "J-Ruler",
+   "race": "Valkyrie",
+   "artist": "jugemt",
+   "expansion": "Starter Deck",
+   "flavor_text": "Souls chosen by Brunhild return to the battlefield as heroes.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3757",
+   "name": "Brunhild's Wrath",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3757/image_en/bf43bffd-5381-4405-9afd-034f9e281253.jpg",
+   "number": "SDV1-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "Kamijo Roro",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Don't expect those girls to show you any goodwill. Their faith is an ideology far removed from the likes of compassion.\" -Atom Seikhart",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3758",
+   "name": "Dispel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3758/image_en/9ee28c85-bb0c-487c-a29b-7d65310d766f.jpg",
+   "number": "SDV1-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Rune(Divinity2)",
+   "artist": "BANAMONS*",
+   "expansion": "Starter Deck",
+   "flavor_text": "Everything that does not adhere to their faith is a target for destruction.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3759",
+   "name": "Einherjar's Summons",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3759/image_en/0141fd76-b231-46c9-9068-5f47a5fa2d53.jpg",
+   "number": "SDV1-008",
+   "rarity": "U",
+   "type": "Rune(Divinity2)",
+   "artist": "Miko Yamazaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "Brunhild ushers in the souls of the fallen heroes.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3760",
+   "name": "Eir, Valkyrie of Mercy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3760/image_en/bcf13c4d-eff4-4321-8a7c-ff1a90ab3160.jpg",
+   "number": "SDV1-009",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "SIGMAN",
+   "expansion": "Starter Deck",
+   "flavor_text": "The warrior who fell in battle is given another chance at glory.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3761",
+   "name": "Karmic Reversal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3761/image_en/3dcafc0b-f786-4f34-b1a9-bf9a8ec431e2.jpg",
+   "number": "SDV1-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "haniwa",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Carelessness bares face just as one thinks they've won. That is to say, the best time to turn the tables is at the very last moment of the battle.\" -Atom Seikhart",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3762",
+   "name": "Mini Meteor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3762/image_en/0f800eaa-d9e4-4636-aa3c-df76339db47c.jpg",
+   "number": "SDV1-011",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "gozz",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"What's wrong? This much isn't anything to be afraid of.\" -Atom Seikhart",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3763",
+   "name": "Odin's Judgment",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3763/image_en/2120bf52-2ffd-46e7-a56b-d10caa93ad5e.jpg",
+   "number": "SDV1-012",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Master Rune(Divinity 2)",
+   "artist": "jugemt",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Lord, grant your benevolent judgement upon these knaves.\" -Brunhild",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3764",
+   "name": "Phaleg, the Angel of War",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3764/image_en/ae30867c-3ba0-4397-942c-e1a0184f3c62.jpg",
+   "number": "SDV1-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "tokiwa",
+   "expansion": "Starter Deck",
+   "flavor_text": "War is determined by who makes the first strike.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3765",
+   "name": "Phul, the Administrator of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3765/image_en/8fecf4d9-0deb-432f-b21a-829ebeff0f08.jpg",
+   "number": "SDV1-014",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "suranaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "The angels dispatched by Zeus had protected Lunar Heaven this whole time.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3766",
+   "name": "Ring of Legend",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3766/image_en/6110c447-c9cc-4826-bd02-e92e460b5a59.jpg",
+   "number": "SDV1-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "Misa Tsutsui",
+   "expansion": "Starter Deck",
+   "flavor_text": "The real deal is more than simple decoration.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3767",
+   "name": "Sigrun, Valkyrie of Victory",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3767/image_en/4d7b8f20-f95f-4e33-9ed8-38308c4fb88b.jpg",
+   "number": "SDV1-016",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "SIE NANAHARA",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Victory shall be attained by our hands!\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3768",
+   "name": "Sorceress of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3768/image_en/e3844a1a-a663-469a-983c-fec539bef54f.jpg",
+   "number": "SDV1-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "Starter Deck",
+   "flavor_text": "The rabbits of Lunar Heaven have learned to utilize the vestiges of magic left from activated runes, amplifying their own power.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3769",
+   "name": "The Valkyrie's Chosen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3769/image_en/fddbf202-4972-4d74-8d71-8704be7e702f.jpg",
+   "number": "SDV1-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Haruichi Kido",
+   "expansion": "Starter Deck",
+   "flavor_text": "Within the soldier lies an unwavering spirit.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3770",
+   "name": "Turn Tail",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3770/image_en/77d0b408-a570-4ce0-976f-563a94529662.jpg",
+   "number": "SDV1-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "sasaki kounosuke",
+   "expansion": "Starter Deck",
+   "flavor_text": "First lesson of Lunar Heaven Academy: How to Run Away.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3771",
+   "name": "Warrior of the Sun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3771/image_en/3b159f03-7bbe-4aa7-8745-ca2ebaec9372.jpg",
+   "number": "SDV1-020",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "The sun grants upon the warrior the courage needed to fight.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3772",
+   "name": "Wererabbit Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3772/image_en/cd20ae99-b124-402e-98d0-dfe3cb3a50f0.jpg",
+   "number": "SDV1-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "gajumaru",
+   "expansion": "Starter Deck",
+   "flavor_text": "The rabbit's ears heard the sounds of a distant battle. Following them, he leapt into the fray.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3773",
+   "name": "Zeus' Grand Lightning",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3773/image_en/3e4ebd2d-2bf7-40c4-8c77-9ed264949556.jpg",
+   "number": "SDV1-022",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Master Rune(Divinity 2)",
+   "artist": "Saiko Takaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Don't resent me for this!\" -Atom Seikhart",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3774",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3774/image_en/7e6bacad-2a06-4a9c-ac48-05b41d009288.jpg",
+   "number": "SDV1-023",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "AshesBomber",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3775",
+   "name": "Chu-Ko-Nu Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3775/image_en/c83a124a-c839-43bc-a7d9-49901f44a9a7.jpg",
+   "number": "SDV2-001",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Starter Deck",
+   "flavor_text": "The last bolt is oneself.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3776",
+   "name": "Concealed Khopesh",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3776/image_en/6eac9bdb-4fe9-40ff-ab2d-cbee777efe2c.jpg",
+   "number": "SDV2-002",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "Tatsuki Mutou",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"This will be the last thing you see!\" -Isis",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3777",
+   "name": "Dragon Dance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3777/image_en/1581af01-1fea-4f0d-9bbb-df19ca1758e6.jpg",
+   "number": "SDV2-003",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Starter Deck",
+   "flavor_text": "The dance of the dragon inspires the soldiers.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3778",
+   "name": "Dragon of Kunlun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3778/image_en/56a7f09b-295e-4422-8e61-e889cd5086bc.jpg",
+   "number": "SDV2-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Shosuke",
+   "expansion": "Starter Deck",
+   "flavor_text": "A dragon's warm reception begins with fire.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3779",
+   "name": "Dragon's Flight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3779/image_en/350344a4-4619-44e9-aca4-64666fe4036a.jpg",
+   "number": "SDV2-005",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "suranaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "Whenever a dragon begins flight, the vast lands of Kunlun start to sway.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3780",
+   "name": "Explosion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3780/image_en/b296de57-7b14-4f5a-b9a2-07c99644e63f.jpg",
+   "number": "SDV2-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "Mad",
+   "expansion": "Starter Deck",
+   "flavor_text": "Only silence followed the explosion.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3781",
+   "name": "Flame Enchant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3781/image_en/11b95660-8ddb-44fa-99c5-9d81a0e9b079.jpg",
+   "number": "SDV2-007",
+   "rarity": "C",
+   "type": "Rune(Divinity 2)",
+   "artist": "Tsukumi",
+   "expansion": "Starter Deck",
+   "flavor_text": "The divine power sleeping within Isis grants her the ability to enchant objects with fire.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3782",
+   "name": "Flame Soldier Formation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3782/image_en/eb184197-eb94-46c2-9af9-5f85fd91d7a9.jpg",
+   "number": "SDV2-008",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Master Rune(Divinity 2)",
+   "artist": "douzen",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"While a frontal attack may be good, we should also incorporate some other strategies... Hey, Pang Tong! You listening?\" -Zhuge Liang",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3783",
+   "name": "Fu Xi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3783/image_en/5db3940f-8d8e-4a64-901d-29ad9d14b4d3.jpg",
+   "number": "SDV2-009",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Monarch",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Starter Deck",
+   "flavor_text": "The ruler of Kunlun is always prepared for war.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3784",
+   "name": "Fu Xi, King of Kunlun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3784/image_en/b3e79d69-dad9-4c5d-b016-a4b15f508040.jpg",
+   "number": "SDV2-009J",
+   "rarity": "R",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Monarch",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Let me show you what it means to be king.\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3785",
+   "name": "Giant Sandstorm",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3785/image_en/bedc03e0-fe6a-4676-985c-e4892362358f.jpg",
+   "number": "SDV2-010",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "SAO",
+   "expansion": "Starter Deck",
+   "flavor_text": "The sand loves Sandora, but cares little for anything else.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3786",
+   "name": "Isis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3786/image_en/5b235c53-ea53-4b6b-a421-45b529e5b515.jpg",
+   "number": "SDV2-011",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Ascendant",
+   "artist": "Matsurika Yoko",
+   "expansion": "Starter Deck",
+   "flavor_text": "The gods who birthed Sandora from nothing distributed their own power to a few humans, those of which would later rule as Ascendants.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3787",
+   "name": "Isis, the Hundred Weapon Master",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3787/image_en/205eda1e-5fb9-46e4-be8c-3d4bb6d4638b.jpg",
+   "number": "SDV2-011J",
+   "rarity": "R",
+   "att_def": "1400 / 800",
+   "type": "J-Ruler",
+   "race": "Ascendant",
+   "artist": "Matsurika Yoko",
+   "expansion": "Starter Deck",
+   "flavor_text": "Her ultimate attack resembles petals scattering in the wind, earning her the title the \"Flower of the Desert\".",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3788",
+   "name": "Magician of Molding",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3788/image_en/a230bb1b-8e6f-4d0c-9972-096cb9805d1f.jpg",
+   "number": "SDV2-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "j-peg",
+   "expansion": "Starter Deck",
+   "flavor_text": "Using a little imagination, sand can be molded into anything.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3789",
+   "name": "Pang Tong",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3789/image_en/4cbf3858-9b70-42cc-b691-cbe051784b5e.jpg",
+   "number": "SDV2-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "gekko",
+   "expansion": "Starter Deck",
+   "flavor_text": "Known affectionately as the \"Young Phoenix\", this young man serves as Fu Xi's advisor.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3790",
+   "name": "Poison Stinger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3790/image_en/006acf55-db95-4d9c-9318-d9d43ce90e99.jpg",
+   "number": "SDV2-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "yuko",
+   "expansion": "Starter Deck",
+   "flavor_text": "The actual damage the stinger does is low, but it contains a poison that lowers the target's resistances considerably.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3791",
+   "name": "Reckless Flame Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3791/image_en/24b6ec24-4537-4a0d-be4d-5152607d2703.jpg",
+   "number": "SDV2-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Moopic",
+   "expansion": "Starter Deck",
+   "flavor_text": "There is no greater beauty than the burning of life.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3792",
+   "name": "Sand Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3792/image_en/83159dba-75b0-4bb9-852b-19873227be60.jpg",
+   "number": "SDV2-016",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Sand/Dragon",
+   "artist": "SO",
+   "expansion": "Starter Deck",
+   "flavor_text": "The needed materials are all around Sandora.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3793",
+   "name": "Sandora Blacksmith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3793/image_en/ac9776f9-2ac4-4b38-9959-b74b46b64bfd.jpg",
+   "number": "SDV2-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "AKI",
+   "expansion": "Starter Deck",
+   "flavor_text": "When crafting arms, the slightest mistake can be the difference between life and death.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3794",
+   "name": "Sandworm",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3794/image_en/55ad690f-20cf-4f53-ac7e-4f1fd7a60224.jpg",
+   "number": "SDV2-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "Insect",
+   "artist": "Hayama Kohei",
+   "expansion": "Starter Deck",
+   "flavor_text": "A swift and intelligent hunter of the desert.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3795",
+   "name": "Set, the Commander of Destruction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3795/image_en/289aaad2-e8cc-40f9-b7c7-45f24f2231aa.jpg",
+   "number": "SDV2-019",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Ascendant",
+   "artist": "IWAO",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Let's see which breaks first, your mind or your body.\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3796",
+   "name": "Soldier Ambush",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3796/image_en/e12a0925-4dd7-44a6-b735-6886b93511cd.jpg",
+   "number": "SDV2-020",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "gozz",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"This is where you'll meet your end!...I always wanted to try saying that!\" -Pang Tong",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3797",
+   "name": "Tiger of Kunlun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3797/image_en/f11087b6-81fe-46fd-9fc6-7c62f941fb57.jpg",
+   "number": "SDV2-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "TAKUMI",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"It's not that the tiger is strong, you're all just too weak.\" -Fu Xi",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3798",
+   "name": "Whirlwind Conflagration",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3798/image_en/37542444-98d9-46a7-a450-9d78bdcaafe7.jpg",
+   "number": "SDV2-022",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Master Rune(Divinity 2)",
+   "artist": "Matsurika Yoko",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Shed as much blood as you like. In the end, the sand will wash it all away.\" -Isis",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3799",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3799/image_en/7af7de6f-b753-45de-856a-08d2f1c90edc.jpg",
+   "number": "SDV2-023",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Flaya",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3800",
+   "name": "Anti-Matter Cannon, Excalibur",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3800/image_en/6e1ea959-1af8-4ad9-8407-c241440690e7.jpg",
+   "number": "SDV3-001",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Master Rune(Divinity 2)",
+   "artist": "Shinichi Chiba",
+   "expansion": "Starter Deck",
+   "flavor_text": "Sky Round's ultimate weapon.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3801",
+   "name": "Arthur",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3801/image_en/2064d379-0043-465e-ba38-386eee431bc9.jpg",
+   "number": "SDV3-002",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Machine",
+   "artist": "Shinichi Chiba",
+   "expansion": "Starter Deck",
+   "flavor_text": "Within the castle in the sky lies Arthur and his knights of steel.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3802",
+   "name": "Arthur, King of Machines",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3802/image_en/1e7428d6-929d-4682-a82f-bbac8eb60b7f.jpg",
+   "number": "SDV3-002J",
+   "rarity": "R",
+   "att_def": "0 / 800",
+   "type": "J-Ruler",
+   "race": "Machine",
+   "artist": "Shinichi Chiba",
+   "expansion": "Starter Deck",
+   "flavor_text": "The knights, created by Deus Ex Machina, continue to carry out their duties in this world.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3803",
+   "name": "Caliburn, the Sword of Judgment",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3803/image_en/71b40126-ebd3-4e87-8b56-44c973567fcf.jpg",
+   "number": "SDV3-003",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "KONNO Takashi",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"I'll let you choose who survives.\" -Arthur",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3804",
+   "name": "Charm",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3804/image_en/d8670b75-1728-4e00-b757-ff8223d67a1b.jpg",
+   "number": "SDV3-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "tokiwa",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Come to me.\" -Loki",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3805",
+   "name": "Checkmate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3805/image_en/99838f5a-4373-41e8-b886-8df5885c0f07.jpg",
+   "number": "SDV3-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "AKI",
+   "expansion": "Starter Deck",
+   "flavor_text": "This is the end.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3806",
+   "name": "Consume",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3806/image_en/42071a73-6135-415b-be0b-9a37c38ba59b.jpg",
+   "number": "SDV3-006",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Master Rune(Divinity 2)",
+   "artist": "ishishou",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Mmm, bon app?tit.\" -Loki",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3807",
+   "name": "Donut Drone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3807/image_en/c626136f-163c-435d-88f1-3d63b522fcdf.jpg",
+   "number": "SDV3-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "M ganzy",
+   "expansion": "Starter Deck",
+   "flavor_text": "Excellent for reconnaissance, as well as for scrap parts.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3808",
+   "name": "Gawain, the Swift Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3808/image_en/0fde7feb-0f76-41ae-b712-d035a6c82d99.jpg",
+   "number": "SDV3-008",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Mad",
+   "expansion": "Starter Deck",
+   "flavor_text": "Those who are granted knightship undergo alterations in order to better serve their lord.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3809",
+   "name": "Gretel of Misty Woods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3809/image_en/3c8e742b-9f9d-4644-9da6-7a9e2c1ad39e.jpg",
+   "number": "SDV3-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "noki",
+   "expansion": "Starter Deck",
+   "flavor_text": "Loki took interest in the children's story of another world, one where fairy tales flourished. It wouldn't hurt to have another world to play in.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3810",
+   "name": "Hansel of Misty Woods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3810/image_en/a2d66fbf-950d-4b75-8ff9-ad22ddf5073f.jpg",
+   "number": "SDV3-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "noki",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Welcome, children.\" -Loki",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3811",
+   "name": "Loki",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3811/image_en/8b0783c0-0baa-4dae-81c7-7494c61970ae.jpg",
+   "number": "SDV3-011",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Witch",
+   "artist": "ishishou",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Now then, let's get this show on the road.\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3812",
+   "name": "Loki, the Witch of Chaos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3812/image_en/4e48ca02-87be-4d64-b25e-00615aa482bc.jpg",
+   "number": "SDV3-011J",
+   "rarity": "R",
+   "att_def": "800 / 1200",
+   "type": "J-Ruler",
+   "race": "Witch",
+   "artist": "ishishou",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"The power of the gods... Hehehe... I wonder, will they manage to master it?\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3813",
+   "name": "Loki's Watchdog, Fenrir",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3813/image_en/70e4bb69-68b8-44eb-8f1f-017077610d1f.jpg",
+   "number": "SDV3-012",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Kelvin",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Grab me some too, Fenrir!\" -Loki",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3814",
+   "name": "Maintenance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3814/image_en/4648a42d-89a6-4b91-b44d-5accb73d34e5.jpg",
+   "number": "SDV3-013",
+   "rarity": "C",
+   "type": "Rune(Divinity 2)",
+   "artist": "Shinichi Chiba",
+   "expansion": "Starter Deck",
+   "flavor_text": "For these knights, oil is the same as blood.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3815",
+   "name": "Mechanical Bishop",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3815/image_en/c6d15a64-36b8-416d-ada3-2da268ff0099.jpg",
+   "number": "SDV3-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Starter Deck",
+   "flavor_text": "Just like how humans save one another, machines do the same.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3816",
+   "name": "Mechanical Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3816/image_en/c56f2f25-7e2a-452b-81a6-70f579c6f452.jpg",
+   "number": "SDV3-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "sasaki kounosuke",
+   "expansion": "Starter Deck",
+   "flavor_text": "The fact that they only move as instructed has its ups and downs.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3817",
+   "name": "Monstrosify",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3817/image_en/6d1b3e45-8979-4eb6-86cd-8e061e9b9c15.jpg",
+   "number": "SDV3-016",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "douzen",
+   "expansion": "Starter Deck",
+   "flavor_text": "The weaker the person, the more fearsome the monster they hold in their heart.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3818",
+   "name": "Overflowing Knowledge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3818/image_en/22b8a33a-a3f8-4c16-b693-4220f2bc775f.jpg",
+   "number": "SDV3-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "yuko",
+   "expansion": "Starter Deck",
+   "flavor_text": "Loki sealed away her infinite pool of knowledge, releasing it piece by piece whenever she felt the need.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3819",
+   "name": "Perceval, the Shining Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3819/image_en/5f743598-9a30-4c38-97ff-20b9bfd4d631.jpg",
+   "number": "SDV3-018",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "jitari",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Stand back. I'll handle the rest.\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3820",
+   "name": "Petrification",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3820/image_en/8ca319db-50e2-4faf-915e-dc16f3615ea2.jpg",
+   "number": "SDV3-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "uekino aroe",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"I'm going to go take a nap, quiet down for me.\" -Loki",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3821",
+   "name": "Reconnaissance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3821/image_en/2aeb9fb3-7838-40ba-b280-1c6e1026bf4d.jpg",
+   "number": "SDV3-020",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "M ganzy",
+   "expansion": "Starter Deck",
+   "flavor_text": "The Knights of Sky Round are always watching over the world.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3822",
+   "name": "Scarecrow Guide",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3822/image_en/f89e18d4-575c-4dc8-995e-0ab08c538e4e.jpg",
+   "number": "SDV3-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "This harrowing scarecrow leads unwise travelers deep into the forest, never to be seen again.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3823",
+   "name": "Witch's House",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3823/image_en/c92bfa7b-d42d-46f2-a764-b4cde3254849.jpg",
+   "number": "SDV3-022",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "jitari",
+   "expansion": "Starter Deck",
+   "flavor_text": "Hansel and Gretel came upon a strange cottage in the woods.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3824",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3824/image_en/a72b5179-f6dc-44b3-a06e-e6aba7715598.jpg",
+   "number": "SDV3-023",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "ManKan",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3825",
+   "name": "Chamimi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3825/image_en/530b655d-7638-44a5-984f-1cac7fea9439.jpg",
+   "number": "SDV4-001",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Mimi Tribe",
+   "artist": "mie",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"If a trespasser comes, let me know right away mi-!\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3826",
+   "name": "Chamimi, Guardian of the Sacred Bow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3826/image_en/c99703c1-1a75-4ee2-8e88-49d5c6f2776b.jpg",
+   "number": "SDV4-001J",
+   "rarity": "R",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Mimi Tribe",
+   "artist": "mie",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"You'll regret stepping foot onto our sacred grounds mi-!\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3827",
+   "name": "Chiyome, the Captivating Kunoichi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3827/image_en/291b13d8-8ac4-4e81-8b72-6273dec0edb9.jpg",
+   "number": "SDV4-002",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Cat/Ninja",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Starter Deck",
+   "flavor_text": "Her seduction techniques are the best in the world. It's a shame they only work on cats.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3828",
+   "name": "Elephant Rush!!",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3828/image_en/2698c5ec-df9e-42c5-866b-132f83cc2f18.jpg",
+   "number": "SDV4-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Master Rune(Divinity 2)",
+   "artist": "gozz",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Stomp them underfoot mi-!\" -Chamimi",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3829",
+   "name": "Fairy of the Lost Isles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3829/image_en/64f60220-ff11-4fcb-b946-41c5c458dd04.jpg",
+   "number": "SDV4-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "QK",
+   "expansion": "Starter Deck",
+   "flavor_text": "The Mimi tribe consider the fairies close friends. The fairies, on the other hand, find the constant \"Mi-! Mi-!\" to be annoying and would rather they didn't.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3830",
+   "name": "Forest Meditation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3830/image_en/2f856800-4861-412e-bb82-e542c5aaa99f.jpg",
+   "number": "SDV4-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "gozz",
+   "expansion": "Starter Deck",
+   "flavor_text": "The god of the forest grants a mysterious power to those who pray.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3831",
+   "name": "Fuhma Shuriken",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3831/image_en/084fd1af-09ca-4f11-9964-1f6e6e67e66c.jpg",
+   "number": "SDV4-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "Nagi-nyan",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"My shurikens do quite a number. A well placed one can incapacitate any foe.\" -Hanzo",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3832",
+   "name": "Grand Mallet Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3832/image_en/3bbc54a2-3d63-47a1-b059-709fbbe7fe67.jpg",
+   "number": "SDV4-007",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Starter Deck",
+   "flavor_text": "A giant mallet has merit as both a weapon and a tenderizer.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3833",
+   "name": "Hanzo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3833/image_en/bf6065d9-f051-4faf-bd19-750c8bc980f5.jpg",
+   "number": "SDV4-008",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Cat/Ninja",
+   "artist": "ComamitsuZaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "The Kouga are a peculiar group of cats and youkai. Why is a cat in charge? Only god knows.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3834",
+   "name": "Hanzo, Chief of the Kouga",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3834/image_en/fb5b10bc-8f98-4c4a-ade1-22f57931447c.jpg",
+   "number": "SDV4-008J",
+   "rarity": "R",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Cat/Ninja",
+   "artist": "ComamitsuZaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Would you kindly surrender to me? No? Very well then, while it is not my nature to kill, I see it cannot be helped!\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3835",
+   "name": "Huge Toad",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3835/image_en/bdbd9b8c-189c-4825-af33-a520e05c2d5e.jpg",
+   "number": "SDV4-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Kamijo Roro",
+   "expansion": "Starter Deck",
+   "flavor_text": "While it may be Jiraiya's ride, its strength is nothing to scoff at.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3836",
+   "name": "Jiraiya, the Toad User",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3836/image_en/d7138935-e48c-4d3c-9aa1-4acec339c96f.jpg",
+   "number": "SDV4-010",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Cat/Ninja",
+   "artist": "Kamijo Roro",
+   "expansion": "Starter Deck",
+   "flavor_text": "Even if Jiraiya is defeated, the toads continue the fight. Such a strong drive is one of their appeals.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3837",
+   "name": "Mu, the Hero of the Greatshield",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3837/image_en/5646025f-805a-4376-aea5-dfa651151458.jpg",
+   "number": "SDV4-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "kawaryu",
+   "expansion": "Starter Deck",
+   "flavor_text": "While he may be small in stature, his courage is anything but.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3838",
+   "name": "Pygmy Hippo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3838/image_en/17bb3c4d-bf92-45b4-9de9-347276cddfb8.jpg",
+   "number": "SDV4-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "sasaki kounosuke",
+   "expansion": "Starter Deck",
+   "flavor_text": "Lost Isles' unique ecosystem comes with a trove of rare animals.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3839",
+   "name": "Raft Downstream",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3839/image_en/9ee9aac0-8688-4766-a93d-be8229998081.jpg",
+   "number": "SDV4-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "mie",
+   "expansion": "Starter Deck",
+   "flavor_text": "The river is the most dangerous place in Lost Isles. You never know when a Mimi tribesman will come flowing down.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3840",
+   "name": "Rapid Fire Mi-!!",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3840/image_en/436ff392-0551-46c7-9fcf-18ba866e844f.jpg",
+   "number": "SDV4-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "BANAMONS*",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Kill 'em all mi-!\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3841",
+   "name": "Sanctuary Elephant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3841/image_en/e3236025-6891-4afa-af82-921952007be1.jpg",
+   "number": "SDV4-015",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "gozz",
+   "expansion": "Starter Deck",
+   "flavor_text": "Raising such robust elephants also carries a downside. Every now and then an elephant gets too excited, crushing a Mimi tribe dwelling. A sad \"Mi...\" can be heard when this happens.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3842",
+   "name": "Sealing Scroll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3842/image_en/35635457-45bc-48e6-a5f4-64b62fcec17a.jpg",
+   "number": "SDV4-016",
+   "rarity": "R",
+   "type": "Master Rune(Divinity 2)",
+   "artist": "Miko Yamazaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "This divine power sealing technique is a secret art passed down only to the chiefs of the Kouga clan.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3843",
+   "name": "Shadow Step",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3843/image_en/b4d12f01-9927-4335-af5d-f74f9cda86f9.jpg",
+   "number": "SDV4-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "kawaryu",
+   "expansion": "Starter Deck",
+   "flavor_text": "If he felt like it, he could even outrun his shadow.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3844",
+   "name": "Snipe Away Mi-!!",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3844/image_en/a59f2eaa-83f2-41a1-a576-87334dcfc6f5.jpg",
+   "number": "SDV4-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "Shirono Muku",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"It's too late to beg for your lives mi-!\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3845",
+   "name": "Soot Sprite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3845/image_en/7dc99e0a-50b5-419a-a7b6-14f27653db92.jpg",
+   "number": "SDV4-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Youkai",
+   "artist": "RYUEMON",
+   "expansion": "Starter Deck",
+   "flavor_text": "The Kouga utilized these small youkai as messengers.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3846",
+   "name": "Spirited Away",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3846/image_en/5ce543f8-8310-47b7-a9df-3a05c34e384b.jpg",
+   "number": "SDV4-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "ComamitsuZaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Not even I know where they go.\" -Hanzo",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3847",
+   "name": "The Hundred Eyed One",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3847/image_en/321ec4a5-a1e9-4da5-9a35-47677f8bc14b.jpg",
+   "number": "SDV4-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Youkai",
+   "artist": "SIE NANAHARA",
+   "expansion": "Starter Deck",
+   "flavor_text": "Despite all the eyes, its eyesight is surprisingly poor.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3848",
+   "name": "Whirlwind Technique",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3848/image_en/4fa9deb0-bb80-4959-9955-02c2c3fbc138.jpg",
+   "number": "SDV4-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "sasaki kounosuke",
+   "expansion": "Starter Deck",
+   "flavor_text": "A technique to protect from projectiles.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3849",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3849/image_en/3d41c794-bb68-4882-8733-1b51e57bcb84.jpg",
+   "number": "SDV4-023",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "zhowee",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3850",
+   "name": "Armaros, the Fallen Angel of Nullification",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3850/image_en/1c3fe013-7f2d-46cf-8745-27aa3bdb6a94.jpg",
+   "number": "SDV5-001",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fallen Angel",
+   "artist": "Ippei SOEDA",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"One would do best not to carelessly approach. Of course, I'll do the same.\" -Atom Seikhart",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3851",
+   "name": "Black Rosario",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3851/image_en/d26b5743-906b-49b4-a371-d2bb2c1abf78.jpg",
+   "number": "SDV5-002",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Master Rune(Divinity 2)",
+   "artist": "Hayama Kohei",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"This grave-post shall be my last gift to you.\" -Lucifer",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3852",
+   "name": "Cycle of Death",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3852/image_en/905a51a0-f9af-4f9c-b7b1-165708c710f2.jpg",
+   "number": "SDV5-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Master Rune(Divinity 2)",
+   "artist": "Kotakan",
+   "expansion": "Starter Deck",
+   "flavor_text": "We are born unequal, yet die all the same.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3853",
+   "name": "Demon Division",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3853/image_en/0790caa4-9c07-4ae0-84ff-4627a5702fb4.jpg",
+   "number": "SDV5-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "douzen",
+   "expansion": "Starter Deck",
+   "flavor_text": "The demons will always hear out your wish. Whether or not they grant it is up to their whims.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3854",
+   "name": "Fanatic of Grief",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3854/image_en/6fcae2c9-6830-4067-8069-ecf2862b520a.jpg",
+   "number": "SDV5-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Cola",
+   "expansion": "Starter Deck",
+   "flavor_text": "Faith is always accompanied by madness.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3855",
+   "name": "Fleurety",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3855/image_en/c893d9d9-4165-4287-9a58-ef5cdf9e40d0.jpg",
+   "number": "SDV5-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "ShiroYayoi",
+   "expansion": "Starter Deck",
+   "flavor_text": "The rains of Rainruins bore holes into one's spirit.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3856",
+   "name": "Immortal Commander",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3856/image_en/96c54904-8c09-498c-a3f0-e7b979d6c036.jpg",
+   "number": "SDV5-007",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Starter Deck",
+   "flavor_text": "Vampires reign as the strongest of the undead.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3857",
+   "name": "Jet-Black Wings",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3857/image_en/b6f8c4a4-6d16-401f-9d8e-45aeba5da1aa.jpg",
+   "number": "SDV5-008",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "Nekobayashi",
+   "expansion": "Starter Deck",
+   "flavor_text": "The jet-black wings dance about in the sky, all who touch it have their lives taken away.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3858",
+   "name": "Lich",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3858/image_en/5c00d722-1d6d-45b2-b7ec-46ca2680e276.jpg",
+   "number": "SDV5-009",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Deathless",
+   "artist": "Kotakan",
+   "expansion": "Starter Deck",
+   "flavor_text": "Those with noble spirit in life gain immense dark power when turned undead.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3859",
+   "name": "Lich, the Saint of Death",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3859/image_en/3acd787d-5a18-4b03-ae8e-f8d7ad03ec84.jpg",
+   "number": "SDV5-009J",
+   "rarity": "R",
+   "att_def": "600 / 1200",
+   "type": "J-Ruler",
+   "race": "Deathless",
+   "artist": "Kotakan",
+   "expansion": "Starter Deck",
+   "flavor_text": "Death itself speaks highly of the Lich.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3860",
+   "name": "Lower Fallen Angel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3860/image_en/b67e707c-aa37-4d81-9231-0ede55bdbfc4.jpg",
+   "number": "SDV5-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "Fallen Angel",
+   "artist": "yuko",
+   "expansion": "Starter Deck",
+   "flavor_text": "An army of grief blankets the sky, an ill omen for those below.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3861",
+   "name": "Lucifer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3861/image_en/82a4e354-0610-45ce-8417-6218d3456c1f.jpg",
+   "number": "SDV5-011",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Fallen Angel",
+   "artist": "Nekobayashi",
+   "expansion": "Starter Deck",
+   "flavor_text": "The leader of the fallen angels chose the depths of these ancient ruins as his home.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3862",
+   "name": "Lucifer, Fallen Angel of Sorrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3862/image_en/499adbc3-79eb-4336-9c44-64e16e912d8d.jpg",
+   "number": "SDV5-011J",
+   "rarity": "R",
+   "att_def": "800 / 800",
+   "type": "J-Ruler",
+   "race": "Fallen Angel",
+   "artist": "Nekobayashi",
+   "expansion": "Starter Deck",
+   "flavor_text": "As his tears fell, so did the last of his love.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3863",
+   "name": "Patchwork Frankenstein",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3863/image_en/c17516e9-a319-4998-950b-c047376016f5.jpg",
+   "number": "SDV5-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "Miko Yamazaki",
+   "expansion": "Starter Deck",
+   "flavor_text": "Each time it moves, another piece comes falling off.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3864",
+   "name": "Putrefy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3864/image_en/1306dfe4-e183-46db-b61d-db19a720ba3d.jpg",
+   "number": "SDV5-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "gozz",
+   "expansion": "Starter Deck",
+   "flavor_text": "The best way to prolong the pain.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3865",
+   "name": "Scythe of the Reaper",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3865/image_en/f67d4154-7e1d-4444-9b71-f12bd5952b01.jpg",
+   "number": "SDV5-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "Mad",
+   "expansion": "Starter Deck",
+   "flavor_text": "The weak may try to run, but death always follows.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3866",
+   "name": "Shemhaza, the Fallen Angel of Sadism",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3866/image_en/57d8ff62-2748-40d0-ac04-049ef9ab97cb.jpg",
+   "number": "SDV5-015",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Fallen Angel",
+   "artist": "touge369",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Now, offer your body and soul to me.\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3867",
+   "name": "Skeleton Horde",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3867/image_en/1035845a-b88f-4bea-b0da-af5c32feb849.jpg",
+   "number": "SDV5-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Skeleton",
+   "artist": "Tatsuki Mutou",
+   "expansion": "Starter Deck",
+   "flavor_text": "Even if you crush their bones, they'll reassemble and stand again.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3868",
+   "name": "Specter Rush",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3868/image_en/ce06a91b-6853-4022-9f04-d3b3945aa76c.jpg",
+   "number": "SDV5-017",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "IWAO",
+   "expansion": "Starter Deck",
+   "flavor_text": "Death eventually comes to claim the souls of the living.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3869",
+   "name": "Sword of Lament",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3869/image_en/885c17c4-a394-4f2a-a902-170ebf37ea8e.jpg",
+   "number": "SDV5-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "Starter Deck",
+   "flavor_text": "A blade of cruelty.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3870",
+   "name": "Tears of the Fallen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3870/image_en/07deae6c-49eb-432e-9e2f-64bb3dab25d2.jpg",
+   "number": "SDV5-019",
+   "rarity": "C",
+   "type": "Rune(Divinity 2)",
+   "artist": "Tsukumi",
+   "expansion": "Starter Deck",
+   "flavor_text": "The tears of the heartbroken rain down on this land.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3871",
+   "name": "Undeath",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3871/image_en/4e7e43c8-74ff-4385-b2b5-55eca3df0ee9.jpg",
+   "number": "SDV5-020",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "tokiwa",
+   "expansion": "Starter Deck",
+   "flavor_text": "The chasm of the abyss loves the dead, almost as much as it loves to bring them back.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3872",
+   "name": "Vlad, the Insatiable",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3872/image_en/2c47be7a-6f27-452e-b8a7-5fe88c9e077e.jpg",
+   "number": "SDV5-021",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "kurisu",
+   "expansion": "Starter Deck",
+   "flavor_text": "A vampire's thirst never ceases.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3873",
+   "name": "Wanderer of the Abyss",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3873/image_en/05a2aede-c3af-4617-a521-cff6b12b957b.jpg",
+   "number": "SDV5-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "haniwa",
+   "expansion": "Starter Deck",
+   "flavor_text": "As long as you are in the abyss, you can never run out of the dead.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3874",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3874/image_en/dce916dd-b4b7-4f32-bbb3-707f3c10a70b.jpg",
+   "number": "SDV5-023",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Elnino Vin",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Starter Deck"
+  }
+ ]
+}

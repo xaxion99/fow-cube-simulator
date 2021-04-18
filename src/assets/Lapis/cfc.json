@@ -1,0 +1,2104 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/107",
+   "name": "Dreaming Girl, Wendy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/107/image_en/1485219117.jpg",
+   "number": "CFC-001",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "上條ロロ(Kamijo Roro)",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nAs long as you control \"Eternal Boy, Peter Pan\", this card cannot be attacked and gains [Flying].",
+   "flavor_text": "A girl who dreamt of flying in the wide open world.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/108",
+   "name": "Dreams of Flight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/108/image_en/1485219118.jpg",
+   "number": "CFC-002",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "あき",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "Millium's power was divided among his Fairy Tale servants.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/109",
+   "name": "Escape from Crisis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/109/image_en/1485219119.jpg",
+   "number": "CFC-003",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"Are you alright? Step back, leave the rest to me.\" -Glorius, the Silver Knight",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/110",
+   "name": "Eternal Boy, Peter Pan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/110/image_en/1485219120.jpg",
+   "number": "CFC-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "あき",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a Fairy Tale resonator with total cost 1 and put it into your field. Then shuffle your deck.",
+   "flavor_text": "An eternal youth carries with him eternal dreams.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/111",
+   "name": "Fairy of Neverland",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/111/image_en/1485219122.jpg",
+   "number": "CFC-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale/Fairy",
+   "artist": "たかむらはるき",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nFairy Tale resonators you control with total cost 1 gain [Flying].",
+   "flavor_text": "\"You can fly too! Ah...well maybe if you were a bit lighter...\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/112",
+   "name": "Glorius, the Silver Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/112/image_en/1485219125.jpg",
+   "number": "CFC-006",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "mie",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[R]: This card gains [+200/0] and [First Strike] until end of turn.",
+   "flavor_text": "A knight who appeared when Charlotte was in danger.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/113",
+   "name": "Glorius' Summoned Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/113/image_en/1485219128.jpg",
+   "number": "CFC-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "JURI",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen another J/resonator enters your field ⇒ It gains [+200/+200] until end of turn.",
+   "flavor_text": "\"Great spirits of the past, lend me the power to save this world.\" -Glorius, the Silver Knight",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/114",
+   "name": "Neverland, the Parallel World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/114/image_en/1485219130.jpg",
+   "number": "CFC-008",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "田島幸枝",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nAt the beginning of your turn ⇒ Remove the top card of your deck from the game. If it's a Fairy Tale resonator, you may play it this turn.",
+   "flavor_text": "\"Haha! Welcome to Neverland!\" -Eternal Boy, Peter Pan",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/115",
+   "name": "Pandora, the Hope Weaving Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/115/image_en/1485219131.jpg",
+   "number": "CFC-009",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "碧風羽",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nIf you would roll one or more dice using [Force], roll that many dice plus one instead.",
+   "flavor_text": "Hopes connect to other hopes.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/116",
+   "name": "Pandora's Mark of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/116/image_en/1485219157.jpg",
+   "number": "CFC-010",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "佐々木光之介",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[Bestow] [W], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "flavor_text": "That box never seems to run out of hope.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/117",
+   "name": "Pumpkin Carriage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/117/image_en/1485219159.jpg",
+   "number": "CFC-011",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 1200",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "坂井結城",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Target Fairy Tale resonator gains [+200/+1200] until end of turn.",
+   "flavor_text": "\"This carriage looks pretty sturdy.\" -Light Dress Cinderella",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/118",
+   "name": "Retelling Stories",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/118/image_en/1485219173.jpg",
+   "number": "CFC-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "古城ばんび",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"Fairy tales will continue on. So long as there are stories in this world.\" -Grimm, King of Fairy Tales",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/119",
+   "name": "Safeguard of the Light Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/119/image_en/1485219179.jpg",
+   "number": "CFC-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "戯々",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[W]: This card gains [0/+200] until end of turn.",
+   "flavor_text": "Protectors don't mind necessary destruction.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/120",
+   "name": "Storytelling Bard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/120/image_en/1485219181.jpg",
+   "number": "CFC-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "上木乃アロエ",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: You gain 200 life.",
+   "flavor_text": "Ensuring that folklore passes on to the hearts and minds of the next generation.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/121",
+   "name": "Zero, Six Sage of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/121/image_en/1485219182.jpg",
+   "number": "CFC-015",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human/Six Sages",
+   "artist": "lack",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[B]: Target J/resonator loses [Flying], [First Strike], [Swiftness], [Precision], and [Imperishable] until end of turn.",
+   "flavor_text": "\"Fieth? Where'd she go? Honestly, that woman...\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/122",
+   "name": "Zero, Master of the Magic Saber",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/122/image_en/1485219183.jpg",
+   "number": "CFC-015J",
+   "rarity": "JR",
+   "att_def": "1100 / 1100",
+   "type": "J-ruler",
+   "race": "Human/Six Sages",
+   "artist": "lack",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nJ/resonators your opponent controls lose and cannot gain [Flying], [First Strike], [Swiftness], [Precision], and [Imperishable].",
+   "flavor_text": "\"I won't let you underestimate me again. I haven't forgotten what you said that day.\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/123",
+   "name": "Zero's Familiar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/123/image_en/1485219185.jpg",
+   "number": "CFC-016",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "坂井結城",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nThis card gains [+300/+300] as long as you control \"Zero, Master of the Magic Saber\".",
+   "flavor_text": "\"There you are, Fieth. I bet you just wandered off on your own again.\" -Zero, Six Sage of Light",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/124",
+   "name": "Zero's Magic Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/124/image_en/1485219187.jpg",
+   "number": "CFC-017",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"Disappear into the light!\" -Zero, Master of the Magic Saber",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/125",
+   "name": "Ancient Heartfelt Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/125/image_en/1485219190.jpg",
+   "number": "CFC-018",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "七原しえ",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "The ancient mana magic of Altea used simple chants.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/126",
+   "name": "Combat Wizard of Altea",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/126/image_en/1485219191.jpg",
+   "number": "CFC-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 200",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "tokiｗa",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\nRemove a mana counter from your J/ruler: This card gains [Swiftness] until end of turn.",
+   "flavor_text": "Mana is a forgotten power present in all ancient things.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/127",
+   "name": "Demon of the Crest, Namblot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/127/image_en/1485219193.jpg",
+   "number": "CFC-020",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Seven Luminaries Demon",
+   "artist": "弥生しろ",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nAt end of turn ⇒ Return this card to its owner's hand.",
+   "flavor_text": "That demon acts as a catalyst for fire mana when it merges with Mars' weapon.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/128",
+   "name": "Dragon Knight of Altea",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/128/image_en/1485219194.jpg",
+   "number": "CFC-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dragon Knight",
+   "artist": "松本エイト",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[R]: This card gains [Flying] until end of turn.",
+   "flavor_text": "Altea made use of ancient dragons.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/129",
+   "name": "Fairy Tale Library, Alexandria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/12/129/image_en/1485219197.jpg",
+   "number": "CFC-022",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "kawaryu",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nResonators you control of the chosen race gain [Swiftness].",
+   "flavor_text": "That library holds a limitless number of stories.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/130",
+   "name": "Fiery Chariot, Red Boy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/130/image_en/1485219199.jpg",
+   "number": "CFC-023",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1400 / 1400",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "猫えモン",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card enters your field ⇒ It deals 500 damage to each J/resonator your opponent controls, plus an additional 100 damage for each different attribute among all wills spent to play this card.",
+   "flavor_text": "The flames from the explosion painted the sky with a myriad of colors.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/131",
+   "name": "Flame Dragon of Altea",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/131/image_en/1485219209.jpg",
+   "number": "CFC-024",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nYou pay [1] more to play this card for each card in your hand.",
+   "flavor_text": "Fire dragons are adept at sniffing out magic on the battlefield.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/132",
+   "name": "Introspective Jutsu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/132/image_en/1485219210.jpg",
+   "number": "CFC-025",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "猫えモン",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"My body's burning uuuuuup!\" -Fiery Chariot, Red Boy",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/133",
+   "name": "Invitation of Disaster",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/133/image_en/1485219211.jpg",
+   "number": "CFC-026",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "ひがし",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "At that time, a never before seen fire blotted out the sky.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/134",
+   "name": "Mars, Fortuneteller of the Fire Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/134/image_en/1485219215.jpg",
+   "number": "CFC-027",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Luminaries Mage",
+   "artist": "弥生しろ",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\nRemove a mana counter from this card: Produce [R]. Spend this will only to play Ancient Magic cards.",
+   "flavor_text": "The second great wizard of Altea appeared abruptly from a rift. Bringing with him demons and fire.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/135",
+   "name": "Mars, Dark Commander of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/135/image_en/1485219217.jpg",
+   "number": "CFC-027J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-ruler",
+   "race": "Dark Commander",
+   "artist": "弥生しろ",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\nRemove a mana counter from this card: Produce [R]. Spend this will only to play Ancient Magic cards.",
+   "flavor_text": "\"You don't measure up to the power of mana. I'll show you true fire.\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/136",
+   "name": "Sacred Radiant Soul",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/136/image_en/1485219219.jpg",
+   "number": "CFC-028",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "白野椋",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[Bestow] [R], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "flavor_text": "\"This power isn't just for show!\" -Charlotte, the Mage of Sacred Spirit",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/137",
+   "name": "Spirit of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/137/image_en/1485219221.jpg",
+   "number": "CFC-029",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "城戸春一",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nIf a fire chant would deal damage, it deals that much +200 instead.",
+   "flavor_text": "Fire fuels fire.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/138",
+   "name": "Stalking Tiger in the Woods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/138/image_en/1485219223.jpg",
+   "number": "CFC-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "gekko",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"Tigers are strong from the start! Just like me!\" -Tiger Lily, Tribal Princess",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/139",
+   "name": "The Ox King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/13/139/image_en/1485219224.jpg",
+   "number": "CFC-031",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "ユウキリリー",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhenever a resonator that was dealt damage by this card this turn is put into a graveyard ⇒ Put five [+100/+100] counters on this card.",
+   "flavor_text": "He never comes home with anyone, but always seems to be collecting war trophies.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/140",
+   "name": "Tiger Charge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/140/image_en/1485219226.jpg",
+   "number": "CFC-032",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "乃希",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "Anyone can gain the strength of a tiger.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/141",
+   "name": "Tiger Lily, Tribal Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/141/image_en/1485219227.jpg",
+   "number": "CFC-033",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "乃希",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nIf this card would deal damage to a J/resonator, it deals double that much instead.",
+   "flavor_text": "\"My punch doesn't just hit once!\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/142",
+   "name": "Tiny Reconnaissance Drake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/142/image_en/1485219229.jpg",
+   "number": "CFC-034",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "佐川明日香",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nYou may pay [1] less to play resonators with total cost 5 or more.",
+   "flavor_text": "Scouting reduces risk and increases strategic information.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/143",
+   "name": "Altea, Nation of Dark Magics",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/143/image_en/1485219234.jpg",
+   "number": "CFC-035",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "gozz",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nEach turn, you may pay [0] to play your first chant rather than pay its cost.",
+   "flavor_text": "That sorcerous nation appeared from a distortion in space. Crossing over thousands of years.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/144",
+   "name": "Ancient Automaton",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/144/image_en/1485219236.jpg",
+   "number": "CFC-036",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Automaton",
+   "artist": "Moopic",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nThis card gains [+200/+200] for each addition you control.",
+   "flavor_text": "This mechanical soldier moves through the power of ancient magic.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/145",
+   "name": "Captain Hook, the Pirate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/145/image_en/1485219238.jpg",
+   "number": "CFC-037",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "桂福蔵",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card enters your field ⇒ Choose one -\nPut up to two target special magic stones on top of their owners' magic stone decks in any order;\nor return up to two target resonators to their owners' hands.",
+   "flavor_text": "Many have fallen prey to his hook.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/146",
+   "name": "Charlotte, Determined Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/146/image_en/1485219240.jpg",
+   "number": "CFC-038",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[U], discard a card: Rest target resonator.",
+   "flavor_text": "With Alice's power gone and Kaguya on a journey to seek the secrets of the moon and magic stones, the girl had nothing but her will to find her way.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/147",
+   "name": "Charlotte, the Mage of Sacred Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/147/image_en/1485219241.jpg",
+   "number": "CFC-038J",
+   "rarity": "JR",
+   "att_def": "400 / 1200",
+   "type": "J-ruler",
+   "race": "Human",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[U][1], discard a card: Return target resonator to its owner's hand.",
+   "flavor_text": "\"I won't lose my way anymore. Brother, sister...watch what I can do!\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/148",
+   "name": "Charlotte's Protector",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/148/image_en/1485219243.jpg",
+   "number": "CFC-039",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "Mad",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card is put into a graveyard from your hand ⇒ Draw a card.",
+   "flavor_text": "The spirits of Attoractia granted her the power to protect herself.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/149",
+   "name": "Charlotte's Water Transformation Magic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/14/149/image_en/1485219246.jpg",
+   "number": "CFC-040",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "佐川明日香",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"Take that! Turn into a bear!\" -Charlotte, Determined Girl",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/150",
+   "name": "Cheshire Cat, Guide to the Mysterious World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/150/image_en/1485219247.jpg",
+   "number": "CFC-041",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "石商",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[0]: Choose one. Play this ability only once per turn -\nRemove a card in your hand from the game;\nor put a card from a removed area that was removed by this card into your hand.",
+   "flavor_text": "\"Alice is out of comission, so I'll be taking over. My way's a bit different, but I can handle it.\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/151",
+   "name": "Guide to the Ancient Ice Wall",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/151/image_en/1485219249.jpg",
+   "number": "CFC-042",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "白野椋",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhenever you play a water chant or addition ⇒ Target resonator cannot be blocked until end of turn.",
+   "flavor_text": "\"Now which way was that secret path again? Perhaps a little coin could refresh my memory.\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/152",
+   "name": "Lumia, Sealed in the Frozen Casket",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/152/image_en/1485219250.jpg",
+   "number": "CFC-043",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "下江クリス",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest], rest a recovered light J/resonator, a recovered fire J/resonator, and a recovered water J/resonator you control: Shift this card.",
+   "flavor_text": "\"Hehehe, I'll save you. That's no lie.\" -Nyarlathotep, the True False Legend",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/153",
+   "name": "Lumia, Saint of World Awakening",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/153/image_en/1485219252.jpg",
+   "number": "CFC-043*",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/07.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator (Shift)",
+   "race": "Human",
+   "artist": "下江クリス",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card enters your field or shifts ⇒ Your life becomes 4000. Put up to one target chant from your graveyard into your hand.",
+   "flavor_text": "With Lumia free from the casket, her power restored the regalia back to planet Earth.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/154",
+   "name": "Melt to Nothing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/154/image_en/1485219254.jpg",
+   "number": "CFC-044",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "上木乃アロエ",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\nJ/resonators you control gain \"[rest]: Return target resonator your opponent controls to its owner's hand.\" until end of turn.",
+   "flavor_text": "With Mercurius defeated, her power faded, and the frozen casket came open.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/155",
+   "name": "Mermaid of Neverland",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/155/image_en/1485219258.jpg",
+   "number": "CFC-045",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "fzwrAym",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "flavor_text": "Even in water their songs can be heard.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/156",
+   "name": "Rabbit of the Aqua Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/156/image_en/1485219259.jpg",
+   "number": "CFC-046",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Rabbit",
+   "artist": "mie",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\nBanish this card: Draw a card, then discard a card.",
+   "flavor_text": "Though lonely, the rabbit didn't give in.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/157",
+   "name": "Return to the Moon Wererabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/157/image_en/1485219260.jpg",
+   "number": "CFC-047",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "ネム",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may put target addition on top of its owner's deck.",
+   "flavor_text": "\"I've got something else to take care of, so you guys watch over Millium, okay?\" -Kaguya, Seeker of the Magic Stones",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/158",
+   "name": "Rising from the Depths",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/158/image_en/1485219262.jpg",
+   "number": "CFC-048",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "gozz",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"Finally back.\" -Mars, Dark Commander of Fire",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/159",
+   "name": "Shackles of Ice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/15/159/image_en/1485219263.jpg",
+   "number": "CFC-049",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "長崎祐子",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[Bestow] [U], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "flavor_text": "Magic shackles that seal away special magic.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/160",
+   "name": "Stargazing Fortune Teller",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/160/image_en/1485219265.jpg",
+   "number": "CFC-050",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "城戸春一",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[U][U][1], [rest]: Draw a card.",
+   "flavor_text": "\"With the next card I'll...er...oh that one's no good. Maybe the next one...\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/161",
+   "name": "Summon from Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/161/image_en/1485219269.jpg",
+   "number": "CFC-051",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "j-peg",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "The memories of Attoractia come to the aid of Charlotte's summons.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/162",
+   "name": "Bird of Paradise, Dancing in the Sky",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/162/image_en/1485219270.jpg",
+   "number": "CFC-052",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "gekko",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card named \"Bird of Paradise, Dancing in the Sky\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Their dance serves only to call more of their friends.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/163",
+   "name": "Cloning Magic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/163/image_en/1485219271.jpg",
+   "number": "CFC-053",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ねじしき",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nTarget resonator gains \"Whenever you play an activate ability of this card ⇒ Copy that ability. You may choose new targets for the copy.\" until end of turn.",
+   "flavor_text": "With a toss of a single hair, Sun Wukong created a perfect copy of himself.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/164",
+   "name": "Crea, Musician of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/164/image_en/1485219273.jpg",
+   "number": "CFC-054",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "佐久間さのすけ",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\nRest a recovered Elf resonator you control: Target Elf J/resonator gains [+100/+100] until end of turn.",
+   "flavor_text": "No matter how far away they might be, all elves can hear that song.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/165",
+   "name": "Elf of the Gusty Hill",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/165/image_en/1485219274.jpg",
+   "number": "CFC-055",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "yua",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "Responding to Fiethsing's call, the elves rose to fight the vampires.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/166",
+   "name": "Favorable Winds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/166/image_en/1485219276.jpg",
+   "number": "CFC-056",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"The wind always brings such wonderful things. Especially my wind.\" -Fiethsing, Six Sage of Wind",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/167",
+   "name": "Flying Cloud",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/167/image_en/1485219280.jpg",
+   "number": "CFC-057",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Nagiにゃん",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[Bestow] [G], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "flavor_text": "\"They have to dream and believe? Just to fly? Those fairy tale guys must have it rough.\" -Great Sky Sage, Sun Wukong",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/168",
+   "name": "Heavenly Gust",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/168/image_en/1485219281.jpg",
+   "number": "CFC-058",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "j-peg",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"Melfee! Now!\" -Fiethsing, Master Magus of Holy Wind",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/169",
+   "name": "Magic Born Vegetation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/16/169/image_en/1485219284.jpg",
+   "number": "CFC-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 100",
+   "type": "Resonator",
+   "race": "Vegetation",
+   "artist": "Mがんぢー",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest], banish this card: Produce [G] for each magic counter on this card.",
+   "flavor_text": "\"Melfee, bring me that plant. It'll be useful.\" -Fiethsing, Six Sage of Wind",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/170",
+   "name": "Magic Stone Analysis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/170/image_en/1485219286.jpg",
+   "number": "CFC-060",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "狛蜜ザキ",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"Hmm. In order to understand this stone...I'll have to bring it back to Grusbalesta! Haha! I'm so smart.\" -Kaguya, Seeker of the Magic Stones",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/171",
+   "name": "Protector of the Forest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/171/image_en/1485219287.jpg",
+   "number": "CFC-061",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "松本エイト",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "The forest remains hidden. So who's been guarding it?",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/172",
+   "name": "Red Riding Hood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/172/image_en/1485219289.jpg",
+   "number": "CFC-062",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "祀花よう子",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nThis card gains [Swiftness], [First Strike], and [Precision] as long as you control seven or more magic stones.",
+   "flavor_text": "\"A crimson monster? It's you again!\" \"Hehehe, but this time I come as a friend, it's no lie.\" \"You think I'll believe you?\" \"It doesn't matter. I need your help.\" -Red Riding Hood and Nyarlathotep, the True False Legend",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/173",
+   "name": "Secluded Elven Village, Amonsulle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/173/image_en/1485219292.jpg",
+   "number": "CFC-063",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "佐川明日香",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nJ/resonators you control can block J/resonators with [Flying].",
+   "flavor_text": "Home of the elves. It cannot be seen from the outside, though outside is visible from within.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/174",
+   "name": "Sha Wujing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/174/image_en/1485219293.jpg",
+   "number": "CFC-064",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 700",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "touge369",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nYour opponent pays [1] more to play chants.",
+   "flavor_text": "\"Zhu Bajie, you mind if we finish this quickly?\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/175",
+   "name": "Sorceress of Heavenly Wind, Melfee",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/175/image_en/1485219295.jpg",
+   "number": "CFC-065",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 600",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "j-peg",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [W], [R], [U], [G], or [B].",
+   "flavor_text": "A gentle wind that cradles all.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/176",
+   "name": "The Monkey King Born from Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/176/image_en/1485219296.jpg",
+   "number": "CFC-066",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "kakotomirai",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[G]: Search your deck for a card named \"Flying Cloud\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"So this is the world the kids were talking about. Guess I'd better have a look around.\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/177",
+   "name": "Great Sky Sage, Sun Wukong",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/177/image_en/1485219297.jpg",
+   "number": "CFC-066J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-ruler",
+   "race": "Myth",
+   "artist": "kakotomirai",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[0]: You may put a card named \"Flying Cloud\" from your hand into your field.",
+   "flavor_text": "\"Alright! Let's get buckwild!\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/178",
+   "name": "Wiseman of Amonsulle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/178/image_en/1485219299.jpg",
+   "number": "CFC-067",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Cola",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top three cards of your deck. Put an Elf resonator from among them into your hand and the rest on the bottom of your deck in any order.",
+   "flavor_text": "\"Wisdom is not borrowed, only lended.\" -Elvish Teachings",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/179",
+   "name": "Zhu Bajie",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/17/179/image_en/1485219303.jpg",
+   "number": "CFC-068",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "駒井春樹",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Continuous\nYour opponent pays [1] more to play additions and regalia.",
+   "flavor_text": "\"Looks like we'll have to call Sun Wukong again. Right, Sha Wujing?\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/180",
+   "name": "Alhazred's Zealot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/180/image_en/1485219304.jpg",
+   "number": "CFC-069",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "スギカワタクミ",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "Believers are captivated, mind and soul.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/181",
+   "name": "An Encounter with Cthulhu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/181/image_en/1485219306.jpg",
+   "number": "CFC-070",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "The mere sight of the great ones is enough to erase lesser beings from existence.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/182",
+   "name": "Azathoth, Hunter of Reality",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/182/image_en/1485219307.jpg",
+   "number": "CFC-071",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "att_def": "2000 / 2000",
+   "type": "Resonator",
+   "race": "Human/Cthulhu",
+   "artist": "桂福蔵",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, destroy it. If you do, this card deals 2000 damage to you.",
+   "flavor_text": "Within him sleeps an abominable power. Ancient and terrible.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/183",
+   "name": "Creature from Chaos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/183/image_en/1485219309.jpg",
+   "number": "CFC-072",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "ねじしき",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card deals damage to a J/resonator ⇒ Destroy that J/resonator.",
+   "flavor_text": "In the world of chaos, life is easily stolen.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/184",
+   "name": "Eternal Recurrence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/184/image_en/1485219310.jpg",
+   "number": "CFC-073",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ヤマモトナオキ",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"All becomes ash in time.\" -Eternal Vampire, Mikage Seijuro",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/185",
+   "name": "Mad Oni",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/185/image_en/1485219316.jpg",
+   "number": "CFC-074",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 300",
+   "type": "Resonator",
+   "race": "Oni",
+   "artist": "kawaryu",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "No options means no chance for confusion.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/186",
+   "name": "Oni Governor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/186/image_en/1485219317.jpg",
+   "number": "CFC-075",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1100 / 1100",
+   "type": "Resonator",
+   "race": "Oni",
+   "artist": "七海ルシア",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest], banish a resonator: Destroy target resonator with total cost 3 or less.",
+   "flavor_text": "That oni is always looking for a subordinate of a good throwing size, and a proper target.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/187",
+   "name": "Priest of Darkness, Abdul Alhazred",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/187/image_en/1485219318.jpg",
+   "number": "CFC-076",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "gozz",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[B][B][2], banish this card: You may put a Cthulhu resonator from your hand into your field.",
+   "flavor_text": "With Lumia trapped in the Frozen Coffin, Alhazred's power returned.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/188",
+   "name": "Princess of the Dragon Palace, Otohime",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/188/image_en/1485219575.jpg",
+   "number": "CFC-077",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "上條ロロ(Kamijo Roro)",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: You may bestow a card named \"The Black Treasure Box\" from your hand to target resonator.",
+   "flavor_text": "\"Welcome to the Dragon Palace. I know it's a bit sudden, but would you mind holding onto something for me?\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/189",
+   "name": "Resonance of Madness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/18/189/image_en/1485219333.jpg",
+   "number": "CFC-078",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "\"Death is equitable.\" -Yog-Sothoth, the Chaos of 1000 Doors",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/190",
+   "name": "Rinka, Second Daughter of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/190/image_en/1485219331.jpg",
+   "number": "CFC-079",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Azusa",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\nRemove a [+100/+100] counter from this card: This card gains [Flying] until end of turn.",
+   "flavor_text": "\"Like Shara's, my blood isn't very sweet.\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/191",
+   "name": "Servant of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/191/image_en/1485219579.jpg",
+   "number": "CFC-080",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "篁ふみ",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put a [+100/+100] counter on target resonator. If your opponent controls a special magic stone, put two [+100/+100] counters on that resonator instead.",
+   "flavor_text": "Blood becomes power.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/192",
+   "name": "The Black Treasure Box",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/192/image_en/1485219581.jpg",
+   "number": "CFC-081",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Cola",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[Bestow] [B], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "flavor_text": "Never open it. That box invites only death.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/193",
+   "name": "The Gate of the Silver Key",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/193/image_en/1485219583.jpg",
+   "number": "CFC-082",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[B][B][2], banish this card: Your opponent discards a card.",
+   "flavor_text": "\"Huh? Isn't that...hehehe. Things are getting interesting.\" -Nyarlathotep, the True False Legend",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/194",
+   "name": "The Nameless Mist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/194/image_en/1485219584.jpg",
+   "number": "CFC-083",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "スギカワタクミ",
+   "expansion": "Curse of the Frozen Casket",
+   "flavor_text": "When you venture into the mist, you always lose something.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/195",
+   "name": "Umr at-Tawil, Master of 1000 Keys",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/195/image_en/1485219586.jpg",
+   "number": "CFC-084",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "白井秀実",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Judgement\n[B][X]",
+   "flavor_text": "No one but Lunya believed there truly was a thief with the key for every lock.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/196",
+   "name": "Yog-Sothoth, the Chaos of 1000 Doors",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/196/image_en/1485219608.jpg",
+   "number": "CFC-084J",
+   "rarity": "JR",
+   "att_def": "1500 / 1500",
+   "type": "J-ruler",
+   "race": "Human/Cthulhu",
+   "artist": "白井秀実",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nAt beginning of turn ⇒ If there are no limit counters on this card, put it into your ruler area, as a ruler. If you do, you lose 500 life.",
+   "flavor_text": "\"Open whichever you like. Each one leads you closer to madness.\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/197",
+   "name": "Urashima Taro",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/197/image_en/1485219615.jpg",
+   "number": "CFC-085",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "祀花よう子",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a card named \"The Black Treasure Box\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Hey! You over there! Leave the finishing blow to me!\"",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/198",
+   "name": "Magic Stone of Black Silence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/198/image_en/1485219617.jpg",
+   "number": "CFC-086",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Moopic",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [G] or [B].",
+   "flavor_text": "A darkness cast from the absence of light; A tranquility devoid of all sound.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/199",
+   "name": "Magic Stone of Blasting Waves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/19/199/image_en/1485219618.jpg",
+   "number": "CFC-087",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "下江クリス",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/200",
+   "name": "Magic Stone of Dark Depth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/200/image_en/1485219620.jpg",
+   "number": "CFC-088",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "長崎祐子",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "flavor_text": "Movements within the dark and murky depths.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/201",
+   "name": "Magic Stone of Deep Wood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/201/image_en/1485219621.jpg",
+   "number": "CFC-089",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "佐々木光之介",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [G] or [U].",
+   "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/202",
+   "name": "Magic Stone of Gusting Skies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/202/image_en/1485219623.jpg",
+   "number": "CFC-090",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [W] or [G].",
+   "flavor_text": "A momentary shine that reflects in the sky.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/203",
+   "name": "Magic Stone of Hearth's Core",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/203/image_en/1485219626.jpg",
+   "number": "CFC-091",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "gozz",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [R] or [U].",
+   "flavor_text": "A passion like burning flames; A presence as cold as ice.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/204",
+   "name": "Magic Stone of Heat Ray",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/204/image_en/1485219627.jpg",
+   "number": "CFC-092",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "長崎祐子",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [W] or [R].",
+   "flavor_text": "A piercing gleam of blinding light; An incandescent glow that cannot be touched.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/205",
+   "name": "Magic Stone of Heaven's Rift",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/205/image_en/1485219629.jpg",
+   "number": "CFC-093",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/206",
+   "name": "Magic Stone of Light Vapors",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/206/image_en/1485219630.jpg",
+   "number": "CFC-094",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Moopic",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [W] or [U].",
+   "flavor_text": "The shining paths that branch from the crossroad.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/207",
+   "name": "Magic Stone of Scorched Bales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/207/image_en/1485219631.jpg",
+   "number": "CFC-095",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Nagiにゃん",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [B] or [R].",
+   "flavor_text": "Hidden within the night, the burning spiral of seeds.",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/208",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/208/image_en/1485219633.jpg",
+   "number": "CFC-096",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "たかむらはるき",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/209",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/20/209/image_en/1485219636.jpg",
+   "number": "CFC-097",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "gozz",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/210",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/210/image_en/1485219637.jpg",
+   "number": "CFC-098",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "坂井結城",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/211",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/211/image_en/1485219638.jpg",
+   "number": "CFC-099",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Curse of the Frozen Casket"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/212",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/212/image_en/1485219639.jpg",
+   "number": "CFC-100",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "白野椋",
+   "expansion": "Curse of the Frozen Casket",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Curse of the Frozen Casket"
+  }
+ ]
+}

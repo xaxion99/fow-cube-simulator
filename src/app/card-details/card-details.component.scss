@@ -4,8 +4,30 @@
 
 .column1 {
     flex: 33%;
+    height: 552px;
+    background-color: #aaa;
 }
 
 .column2 {
     flex: 67%;
+    height: 552px;
+    background-color:#bbb;
+}
+ul#costbreakdown {
+    padding-inline-start: 0px;
+}
+
+ul#costbreakdown li {
+    display:inline;
+}
+
+img#cardimage {
+    width: 350px; 
+    height: 488px; 
+    padding: 32px;
+}
+
+img#cost {
+    width: 20px; 
+    height: 20px;
 }

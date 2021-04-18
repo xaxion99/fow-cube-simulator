@@ -1,0 +1,2288 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/648",
+   "name": "Arla, the Winged Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/648/image_en/1485235224.jpg",
+   "number": "SKL-001",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Kings",
+   "artist": "今野準史",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[W][W]: Target resonator with [Flying] you control gains [+200/+200] until end of turn.",
+   "flavor_text": "The ruler of Armalla, the flying city. The wingmen who live on Armalla, the heavenly garden, do not hesitate to sacrifice themselves in its defense. The angels, are summoned to fight thanks to the magic stones.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/649",
+   "name": "Arla, the Hegemon of the Sky",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/649/image_en/1485235225.jpg",
+   "number": "SKL-001J",
+   "rarity": "JR",
+   "att_def": "900 / 700",
+   "type": "J-Ruler",
+   "race": "Seven Kings",
+   "artist": "今野隼史",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nGod's Art [W][W][2]: Whenever a J/resonator you control attacks this turn ⇒ this card deals 400 damage to target resonator your opponent controls for each time J/resonators you control attacked this turn. (Play God's Art only once per game.)",
+   "flavor_text": "\"The sky is weeping... the world is changing unrestrainedly.\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/650",
+   "name": "Bai Hu, the Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/650/image_en/1485235227.jpg",
+   "number": "SKL-002",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Four Sacred Beasts",
+   "artist": "fzwrAym",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ You gain 200 life for each Four Sacred Beasts you control.",
+   "flavor_text": "It's the Patron's symbol.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/651",
+   "name": "Bedivere, the Restorer of Souls",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/651/image_en/1485235228.jpg",
+   "number": "SKL-003",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "kakotomirai",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may remove target resonator with 1000 or more ATK from the game.",
+   "flavor_text": "\"The soul just wants a place to go, nothing more.\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/652",
+   "name": "Blessed Holy Wolf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/652/image_en/1485235230.jpg",
+   "number": "SKL-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Holy Beast",
+   "artist": "瞬く",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may destroy target addition.",
+   "flavor_text": "The kingdom offers its blessing to anyone and wolves aren’t an exception. These sacred beasts are allied with us in the protection of the kingdom.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/653",
+   "name": "Celestial Wing Seraph",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/653/image_en/1485235238.jpg",
+   "number": "SKL-005",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "ピスケ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever this card attacks ⇒ You gain 300 life for each Angel you control.",
+   "flavor_text": "Summoned by Winged Lord, they are the highest rank in the angelic orders.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/654",
+   "name": "Dignified Seraph",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/654/image_en/1485235241.jpg",
+   "number": "SKL-006",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "乃希",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "The angelic figure inspires the people to the point where every insecurity vanishes.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/655",
+   "name": "Faria, the Sacred Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/655/image_en/1485235243.jpg",
+   "number": "SKL-007",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Kings",
+   "artist": "Mad",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[W][W]: You gain 200 life.",
+   "flavor_text": "The Sacred Queen Faria, the one who ruled upon Gloria, The Holy Land, was a honest and pure person. Her servants' loyalty to her was supreme. She hated the war, but the people of Gloria thought that she was the most suitable to rule the Seven Kingdoms.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/656",
+   "name": "Faria, the Ruler of God Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/656/image_en/1485235244.jpg",
+   "number": "SKL-007J",
+   "rarity": "JR",
+   "att_def": "800 / 800",
+   "type": "J-Ruler",
+   "race": "Seven Kings",
+   "artist": "Mad",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nGod's Art [W][W][4]: Recover all resonators you control. Play God's Art only once per game.",
+   "flavor_text": "“Sacred Sword that resonates with the spirit of the hero, grant me your power!”",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/657",
+   "name": "Give Wings",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/657/image_en/1485235249.jpg",
+   "number": "SKL-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "古城バンビ",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"With these, you'll be able to fly in the sky!\" -Wingman of Armalla",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/658",
+   "name": "Gwiber, the White Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/658/image_en/1485235251.jpg",
+   "number": "SKL-009",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "kakotomirai",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
+   "flavor_text": "It’s the incarnation of the ideals.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/659",
+   "name": "Heavenly Garden of Armalla",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/65/659/image_en/1485235253.jpg",
+   "number": "SKL-010",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Garden",
+   "artist": "Fushikaden K.K.",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[W][W], [rest]: Rest target resonator without [Flying].",
+   "flavor_text": "The wonderful view of the heavenly garden is granted only to those who are able to fly in the sky.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/660",
+   "name": "Herald of the Winged Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/660/image_en/1485235255.jpg",
+   "number": "SKL-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wingman",
+   "artist": "みえ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nPrevent all damage that would be dealt to this card by fire resonators.",
+   "flavor_text": "When the Herald of the Winged Lord got to Alice, he began to talk to her choosing his words very carefully.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/661",
+   "name": "Invigoration of the Winged Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/661/image_en/1485235257.jpg",
+   "number": "SKL-012",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"The battle has yet to begin. Follow me!\" -Arla, the Winged Lord",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/662",
+   "name": "Little Angel of Armalla",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/662/image_en/1485235258.jpg",
+   "number": "SKL-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "夕子",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nBanish this card: You gain 300 life.",
+   "flavor_text": "In Armalla, little angels are busy flying around all day to prepare for war.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/663",
+   "name": "Order of the Sacred Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/663/image_en/1485235260.jpg",
+   "number": "SKL-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "The ruler’s words inspire anyone who is faithful to her.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/664",
+   "name": "Protection of the Seraph",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/664/image_en/1485235261.jpg",
+   "number": "SKL-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "下江クリス",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nAdded resonator cannot be attacked or targeted by Chants or abilities your opponent controls.",
+   "flavor_text": "A divine blessing, gives absolute protection against the darkness. It also protects from fire, wind and water... and from the light if it'll ever be necessary.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/665",
+   "name": "Protective Barrier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/665/image_en/1485235263.jpg",
+   "number": "SKL-016",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "上木乃アロエ",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "Thanks to its protection, we are granted enough time to sharpen our blades once again.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/666",
+   "name": "Wingman of Armalla",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/666/image_en/1485235266.jpg",
+   "number": "SKL-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 600",
+   "type": "Resonator",
+   "race": "Wingman",
+   "artist": "上木乃アロエ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest]: Target resonator gains [Flying] until end of turn.",
+   "flavor_text": "The strong sense of responsibility drove this man to wake up even after death.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/667",
+   "name": "Alice's Little Assault Force",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/667/image_en/1485235267.jpg",
+   "number": "SKL-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "小泉哲哉",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nBanish this card: This card deals 200 damage to target player or resonator.",
+   "flavor_text": "Alice, summon a soldier from the Ancient Treasure: I'll think about our next move!",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/668",
+   "name": "Certo, the Blazing Volcano",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/668/image_en/1485235268.jpg",
+   "number": "SKL-019",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Mountain",
+   "artist": "Cola",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
+   "flavor_text": "The volcano is the future. Only the chosen ones will survive.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/669",
+   "name": "Dragoon of Certo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/66/669/image_en/1485235270.jpg",
+   "number": "SKL-020",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "今野準史",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "A kingdom based on strength will have an absolute loyalty imposed by law. Obviously if the strength will be lost, everything would collapse.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/670",
+   "name": "Draig, the Red Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/670/image_en/1485235272.jpg",
+   "number": "SKL-021",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "kakotomirai",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nYou may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.",
+   "flavor_text": "Reality will break the symbol.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/671",
+   "name": "Familiar of Primogenitor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/671/image_en/1485235274.jpg",
+   "number": "SKL-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 100",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "古城",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[R], banish this card: Target resonator gains [+400/0] until end of turn.",
+   "flavor_text": "\"This sensation... it's as if I had already felt it.\" -Alice, the Girl in the Looking Glass",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/672",
+   "name": "Fear of Battle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/672/image_en/1485235277.jpg",
+   "number": "SKL-023",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "七海ルシア",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[R][R]: Add this card to another target resonator.",
+   "flavor_text": "\"Tremble before me!\" -Melgis, the Flame King",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/673",
+   "name": "Flame Cat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/673/image_en/1485235278.jpg",
+   "number": "SKL-024",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 400",
+   "type": "Resonator",
+   "race": "Magical Beast",
+   "artist": "佐々木光之介",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "Seeking help from the feline of Cento means obtaining a significant increase in one's strenght.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/674",
+   "name": "Flame King's Shout",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/674/image_en/1485235280.jpg",
+   "number": "SKL-025",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "His cry shakes the earth and spurs whoever desires war.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/675",
+   "name": "Gareth, the Dauntless Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/675/image_en/1485235283.jpg",
+   "number": "SKL-026",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "ORETO",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nIf this card would be dealt 700 or less damage, prevent it.",
+   "flavor_text": "A body sustained by an indomitable spirit.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/676",
+   "name": "Melgis, the Flame King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/676/image_en/1485235289.jpg",
+   "number": "SKL-027",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Kings",
+   "artist": "gekko",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[R][R]: This card deals 200 damage to target opponent.",
+   "flavor_text": "The top of the big volcano is occupied by the Kingdom of Certo, ruled by the Flame King. On this desolate land, the kingdom survives thanks to war, getting resources from other countries. For this reason, Certo needs an extremely strong ruler.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/677",
+   "name": "Melgis, the One Charmed by the Demon Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/677/image_en/1485235290.jpg",
+   "number": "SKL-027J",
+   "rarity": "JR",
+   "att_def": "1000 / 500",
+   "type": "J-Ruler",
+   "race": "Seven Kings",
+   "artist": "gekko",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nGod's Art [R][R][4]: Destroy target resonator. This card gains [+X/0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art only once per game.",
+   "flavor_text": "\"Cursed sword, take my anger and give me your strength.\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/678",
+   "name": "Ouroboros, the Snake of Reincarnation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/678/image_en/1485235294.jpg",
+   "number": "SKL-028",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "2000 / 2000",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Snake",
+   "artist": "douzen",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Put it on the bottom of its owner's deck.",
+   "flavor_text": "Ouroboros is the reincarnation of the world and it incarnates its first rule perfectly.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/679",
+   "name": "Phantom of Primogenitor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/67/679/image_en/1485235295.jpg",
+   "number": "SKL-029",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "スギカワタクミ",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "The calamity came out of nowhere.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/680",
+   "name": "Shadow Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/680/image_en/1485235296.jpg",
+   "number": "SKL-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "白野椋",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "Embers of an ancient world.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/681",
+   "name": "Snow White, the Valkyrie of Passion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/681/image_en/1485235298.jpg",
+   "number": "SKL-031",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "碧風羽",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever this card attacks ⇒ It may deal 300 damage to target resonator for each passion counter on it. If it does, remove all passion counters from it.",
+   "flavor_text": "\"I'll burn my heart a bright red, like a ripe apple. Hey, do you dwarves too think like me? Perfect! They should have left it here.\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/682",
+   "name": "War Dance of the Valkyries",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/682/image_en/1485235299.jpg",
+   "number": "SKL-032",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "碧風羽",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"Come on Snow White, it's like a dance, let's start!\" \"Don't shout, it's too embarassing!\" -Cinderella, the Valkyrie of Glass and Snow White, the Valkyrie of Passion",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/683",
+   "name": "Zhu Que, the Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/683/image_en/1485235303.jpg",
+   "number": "SKL-033",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Four Sacred Beasts",
+   "artist": "松本エイト",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ It deals 200 damage to target resonator for each Four Sacred Beasts you control.",
+   "flavor_text": "That is the symbol of destruction.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/684",
+   "name": "Alice's Castling",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/684/image_en/1485235307.jpg",
+   "number": "SKL-034",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ひがし",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"It's not trick, it's not illusion!\" -Alice, the Girl in the Looking Glass",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/685",
+   "name": "Alice's Little Scout",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/685/image_en/1485235308.jpg",
+   "number": "SKL-035",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "城戸春一",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
+   "flavor_text": "Once Alice summoned another soldier from the Ancient Treasure, she began her preparations for the incoming war.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/686",
+   "name": "Charm of the Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/686/image_en/1485235310.jpg",
+   "number": "SKL-036",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "j-peg",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"Look carefully, this is what reigning means.\" -Valentina, the Princess of Love",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/687",
+   "name": "Cinderella, the Valkyrie of Glass",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/687/image_en/1485235311.jpg",
+   "number": "SKL-037",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "碧風羽",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[U][U]: Return this card to its owner's hand.",
+   "flavor_text": "The beautiful and transparent princess made of glass.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/688",
+   "name": "Euryale, the Dark Eye of Blindness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/688/image_en/1485235313.jpg",
+   "number": "SKL-038",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Gorgon",
+   "artist": "桂福蔵",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[U]: Target Gorgon gains [+200/0] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Once you lock your eyes with it, regardless of its power, you'll be deprived of your freedom of movement.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/689",
+   "name": "Foresee",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/68/689/image_en/1485235315.jpg",
+   "number": "SKL-039",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ハタリス",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"I see a shadow approaching above this world: it's the sign of the impending battle. The fate of the world lies both in the hands of the warriors of the light and those of the shadow.\" -The Prediction of a Fortune-Teller",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/690",
+   "name": "Heat Gaze",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/690/image_en/1485235319.jpg",
+   "number": "SKL-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "夕子",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nAs long as this card is added to a water resonator, it gains \"Prevent all damage that would be dealt to this card by chants or abilities.\".",
+   "flavor_text": "One gaze alone was enough to set the bodies on fire.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/691",
+   "name": "Medusa, the Dead Eye of Petrification",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/691/image_en/1485235321.jpg",
+   "number": "SKL-041",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Gorgon",
+   "artist": "石商",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[U]: Gorgons you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Once you lock your eyes with it, regardless of your bond with reality, you'll be deprived of your connection with the world.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/692",
+   "name": "Petrifying Gaze",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/692/image_en/1485235322.jpg",
+   "number": "SKL-042",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七海ルシア",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"Oh, you're so stiff, is it the tension?\" -Valentina, the Princess of Love",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/693",
+   "name": "Sailor of Shangri-La",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/693/image_en/1485235323.jpg",
+   "number": "SKL-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "ぽん吉",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ Return target resonator to its owner's hand.",
+   "flavor_text": "\"What's your problem?! Get away from here!\" -Valentina, the Princess of Love",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/694",
+   "name": "Shangri-La, the Paradise on the Ocean",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/694/image_en/1485235325.jpg",
+   "number": "SKL-044",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Fushikaden K.K.",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nAs long as you have five or more cards in your hand, water resonators you control gain [+100/+100].",
+   "flavor_text": "\"Welcome to my paradise.\" -Valentina, the Princess of Love",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/695",
+   "name": "Squire of the Ocean Lady",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/695/image_en/1485235326.jpg",
+   "number": "SKL-045",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "塗夢",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "flavor_text": "She's been put in charge by the Lady of the Ocean to assess the visitors of the city. She must ascertain their strength and, most importantly, the beauty of their faces.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/696",
+   "name": "Stheno, the Evil Eye of Temptation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/696/image_en/1485235328.jpg",
+   "number": "SKL-046",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Gorgon",
+   "artist": "藤田",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[U]: Target Gorgon gains [0/+200] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Once you lock your eyes with it, regardless of your will, you'll be deprived of your freedom to love.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/697",
+   "name": "Trader of Shangri-La",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/697/image_en/1485235329.jpg",
+   "number": "SKL-047",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Moopic",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest]: Draw a card, then put a card from your hand on the bottom of your deck.",
+   "flavor_text": "The seaside town of Shangri-La is the center of world trade. Here merchants can greatly profit from their business.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/698",
+   "name": "Valentina, the Princess of Love",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/698/image_en/1485235331.jpg",
+   "number": "SKL-048",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Kings",
+   "artist": "石商",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[U][U]: You may put a water resonator with total cost 2 or less from your hand into your field.",
+   "flavor_text": "The ruler who controls the city that lives on trading: Shangri-La. She loves destiny and beautiful things infinitely. She felt that Alice was destined to be her and so she aimed to own her.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/699",
+   "name": "Valentina, the Ruler of Paradise",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/69/699/image_en/1485235332.jpg",
+   "number": "SKL-048J",
+   "rarity": "JR",
+   "att_def": "500 / 500",
+   "type": "J-Ruler",
+   "race": "Seven Kings",
+   "artist": "石商",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nGod's Art [U][U][2]: Gain control of target resonator. (Play God's Art only once per game.)",
+   "flavor_text": "\"Alice, you'll definitely be mine... this is a meeting decided by fate!\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/700",
+   "name": "Xuan Wu, the Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/700/image_en/1485235334.jpg",
+   "number": "SKL-049",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Four Sacred Beasts",
+   "artist": "Mad",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever this card blocks ⇒ Prevent the next damage it would be dealt until end of turn.",
+   "flavor_text": "That is the symbol of immobility.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/701",
+   "name": "Afanc, the Phantom Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/701/image_en/1485235336.jpg",
+   "number": "SKL-050",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "ハタリス",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "That figure instilled a little courage in the heart of those who saw it.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/702",
+   "name": "Alice's Little Guardian",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/702/image_en/1485235340.jpg",
+   "number": "SKL-051",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "乃希",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nBanish this card: Prevent all damage that would be dealt by target resonator until end of turn.",
+   "flavor_text": "With its divine relic, Alice summons more soldiers to her protection.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/703",
+   "name": "Behemoth, the Earth Eater",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/703/image_en/1485235341.jpg",
+   "number": "SKL-052",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Beast",
+   "artist": "スギカワタクミ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever this card deals damage to a resonator while attacking ⇒ It deals that much damage to your opponent.",
+   "flavor_text": "\"That beast is not from this forest. My instinct is telling me that it's dangerous.\" -Pricia, the Beast Lady",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/704",
+   "name": "Blessing of Yggdrasil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/704/image_en/1485235342.jpg",
+   "number": "SKL-053",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "j-peg",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "Part of the story of the tree of life goes alongside a part of the history of magic stones. And the history of the world is inscribed in this connection.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/705",
+   "name": "Branch of Yggdrasil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/705/image_en/1485235344.jpg",
+   "number": "SKL-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "Cola",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nAdded resonator gains [0/+400].",
+   "flavor_text": "The branch of the tree of life is considered an amulet of this world.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/706",
+   "name": "Elite Commander",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/706/image_en/1485235346.jpg",
+   "number": "SKL-055",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "見田航介",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nRest three recovered Beasts you control: Reveal the top card of your deck. If it's a Beast resonator, put it into your hand.",
+   "flavor_text": "In this forest, people attract beasts, and the beasts attract more beasts.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/707",
+   "name": "Guardian of the Forest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/707/image_en/1485235348.jpg",
+   "number": "SKL-056",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "長崎祐子",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[G]: This card gains [+200/+200] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "The forest of Shisei is the source of power of the beasts.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/708",
+   "name": "Herald of the Beast Lady",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/708/image_en/1485235350.jpg",
+   "number": "SKL-057",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "佐久間さのすけ",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "The Beast Lady is not acting with the aim of conquering. Even ruling is simply part of the game.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/709",
+   "name": "Keen Sense",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/70/709/image_en/1485235351.jpg",
+   "number": "SKL-058",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "白野椋",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"I can smell it, it's over there!\" -Pricia, the Beast Lady",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/710",
+   "name": "Pricia, the Beast Lady",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/710/image_en/1485235352.jpg",
+   "number": "SKL-059",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Kings",
+   "artist": "fzwrAym",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[G][G]: Target Beast or Four Sacred Beasts gains [+100/+100] until end of turn.",
+   "flavor_text": "The ancient forest is the kingdom of the Beast Lady. She grew up here, learning to communicate with all the wild beasts. She's considered the ruler, they all obey her, even the four sacred beasts.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/711",
+   "name": "Pricia, the Commander of the Sacred Beasts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/711/image_en/1485235355.jpg",
+   "number": "SKL-059J",
+   "rarity": "JR",
+   "att_def": "800 / 800",
+   "type": "J-Ruler",
+   "race": "Seven Kings",
+   "artist": "fzwrAym",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nGod's Art [G][G][G][x]: Search your deck for up to X Four Sacred Beasts resonators with different names, reveal them and put them into your hand. Then put up to X Four Sacred Beasts resonators with different names from your hand into your field and shuffle your deck. (Play God's Art only once per game.)",
+   "flavor_text": "\"Hey guys, what do we play today?\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/712",
+   "name": "Qing Long, the Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/712/image_en/1485235357.jpg",
+   "number": "SKL-060",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Four Sacred Beasts",
+   "artist": "ケルビン",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[1]: Other Four Sacred Beasts resonators you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "That is the symbol of rampage.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/713",
+   "name": "Rapid Growth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/713/image_en/1485235359.jpg",
+   "number": "SKL-061",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "瞬く",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "The miracle that the world achieved.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/714",
+   "name": "Ratatoskr, the Spirit Beast of Yggdrasil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/714/image_en/1485235360.jpg",
+   "number": "SKL-062",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "kakotomirai",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever another resonator enters your field ⇒ This card gains [+200/+200] until end of turn.",
+   "flavor_text": "Forest dwellers can hardly see the Sacred Beast of Yggdrasil. But when the beast appears to someone it does it as a sign of good luck or terrible misfortune.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/715",
+   "name": "Sissei, the Ancient Forest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/715/image_en/1485235362.jpg",
+   "number": "SKL-063",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Forest",
+   "artist": "ケルビン",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from your field ⇒ You may pay [G][G][1]. If you do, draw a card.",
+   "flavor_text": "Yggdrasil, the tree of life is safe in this forest: the area that surrounds it doesn't belong to anyone and it's considered a sacred temple.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/716",
+   "name": "Sprint of the Beast Lady",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/716/image_en/1485235366.jpg",
+   "number": "SKL-064",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "みえ",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "“I'm ready to start!!!” -Pricia, the Beast Lady",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/717",
+   "name": "Sprinting Wolf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/717/image_en/1485235368.jpg",
+   "number": "SKL-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "ひがし",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"How rude! I hate the savages!\" -Valentina, the Princess of Love",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/718",
+   "name": "Arthur, the Dead Lord of Vengeance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/718/image_en/1485235369.jpg",
+   "number": "SKL-066",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "lack",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nRemove three resonators in your graveyard from the game: Put this card from your graveyard into your hand.",
+   "flavor_text": "\"His mind has been emptied completely, I am confident that from now on he will not betray me!\" -Rezzard, the Undead Lord",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/719",
+   "name": "Dark Purge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/71/719/image_en/1485235371.jpg",
+   "number": "SKL-067",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"I hate the darkness because... because it shrouds my beauty!\" -Valentina, the Princess of Love",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/720",
+   "name": "Endless Night",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/720/image_en/1485235376.jpg",
+   "number": "SKL-068",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "あき",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "Besides destruction, fear is sowed as well.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/721",
+   "name": "Forbidden Spell of the Undead Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/721/image_en/1485235379.jpg",
+   "number": "SKL-069",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "The fury coming from the old world.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/722",
+   "name": "Herald of the Undead Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/722/image_en/1485235380.jpg",
+   "number": "SKL-070",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "j-peg",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "For them darkness and suspicion are the best allies.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/723",
+   "name": "Hunter of Souls",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/723/image_en/1485235382.jpg",
+   "number": "SKL-071",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Reaper",
+   "artist": "下江クリス",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ This card deals 200 damage to your opponent and you gain 200 life.",
+   "flavor_text": "Don't ask the God of Death where the spirits go. If by chance you'll ever ask him, you may find that out with your very own soul.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/724",
+   "name": "Merlin, the Wizard of Distress",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/724/image_en/1485235384.jpg",
+   "number": "SKL-072",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "猫噺子",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field from a chant area ⇒ Target resonator your opponent controls gains [-700/-700] until end of turn.",
+   "flavor_text": "This pain can be felt from the deepest darkness.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/725",
+   "name": "Necromancy of the Undead Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/725/image_en/1485235386.jpg",
+   "number": "SKL-073",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "Moopic",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever a resonator enters your field ⇒ You may add this card from your graveyard to that resonator.",
+   "flavor_text": "There isn't a better way to get new servants.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/726",
+   "name": "Niflheim, the Realm of the Dead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/726/image_en/1485235401.jpg",
+   "number": "SKL-074",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Grave",
+   "artist": "tokiwa",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nBanish this card: Put the top five cards of your deck into your graveyard.",
+   "flavor_text": "\"Come on, you joined the group already!\" -Rezzard, the Undead Lord",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/727",
+   "name": "Persephone, the Nether Empress",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/727/image_en/1485235402.jpg",
+   "number": "SKL-075",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Queen",
+   "artist": "祀花よう子",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field from a chant area ⇒ Put target resonator with total cost 4 or less from your graveyard into your field.",
+   "flavor_text": "\"Hey Rezzard, since you're here, I hope you'll call me if things start getting interesting!\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/728",
+   "name": "Prowler of Niflheim",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/728/image_en/1485235403.jpg",
+   "number": "SKL-076",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "森野ヒロ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put the top two cards of your deck into your graveyard.",
+   "flavor_text": "For Niflheim Wanderers, death is merely a way to increase the number of followers.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/729",
+   "name": "Rezzard, the Undead Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/72/729/image_en/1485235408.jpg",
+   "number": "SKL-077",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Kings/Vampire",
+   "artist": "touge369",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[B][B]: Put the top two cards of your deck into your graveyard.",
+   "flavor_text": "The vampire who rules Nifelheim, the realm of the dead. His nature is brutal and cruel and subtle as well. Hiding in the shadows, he observes the changes in the world, waiting for the right moment to strike.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/730",
+   "name": "Rezzard, the Desecrating Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/730/image_en/1485235410.jpg",
+   "number": "SKL-077J",
+   "rarity": "JR",
+   "att_def": "500 / 500",
+   "type": "J-Ruler",
+   "race": "Seven Kings/Vampire",
+   "artist": "touge369",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nGod's Art [B][B][4]: Remove any number of resonators in your graveyard from the game. For each card removed this way, each player banishes a resonator and discards a card. (Play God's Art only once per game.)",
+   "flavor_text": "\"Death comes to all, without distinction. I am the only exception.\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/731",
+   "name": "Scion of Ancient Lore",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/731/image_en/1485235416.jpg",
+   "number": "SKL-078",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Nagiにゃん",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ It deals 400 damage to your opponent and you gain 400 life.",
+   "flavor_text": "Only the delicious blood can elate a vampire.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/732",
+   "name": "Soulhunt",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/732/image_en/1485235419.jpg",
+   "number": "SKL-079",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "The word \"sacrifice\" means \"gain\" for the Undead Lord.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/733",
+   "name": "Soulless Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/733/image_en/1485235420.jpg",
+   "number": "SKL-080",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "おつまみ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put the top two cards of your deck into your graveyard.",
+   "flavor_text": "\"Will, Soul and... Life, all unnecessary things in this world!\" -Rezzard, the Undead Lord",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/734",
+   "name": "Underground Dragger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/734/image_en/1485235421.jpg",
+   "number": "SKL-081",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "tokiwa",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ Destroy target resonator your opponent controls that dealt damage this turn.",
+   "flavor_text": "\"Maybe repeating constantly to pay attention will make them pay attention in the end. Although maybe paying attention won't be enough in that dark land.\" -Faria, the Sacred Queen",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/735",
+   "name": "Charging Assaulter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/735/image_en/1485235423.jpg",
+   "number": "SKL-082",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "kawaryu",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhenever this card is blocked ⇒ It gains [+200/0] until end of turn.",
+   "flavor_text": "Those matters won't even leave you the time to give orders.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/736",
+   "name": "Clockwork Scout Plane",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/736/image_en/1485235426.jpg",
+   "number": "SKL-083",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "douzen",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"I'm uncomfortable seeing how they're able to easily jump into the void.\" -Arla, the Winged Lord",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/737",
+   "name": "Clockwork Soldiers",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/737/image_en/1485235429.jpg",
+   "number": "SKL-084",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Cola",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[1]: This card gains [+200/0] until end of turn. At the end of turn ⇒ Banish it.",
+   "flavor_text": "Despite their mechanisms being small, they hide a mortal blow.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/738",
+   "name": "Imitation Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/738/image_en/1485235435.jpg",
+   "number": "SKL-085",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Machine/Dragon",
+   "artist": "松本エイト",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Automatic\nWhen this card is dealt damage ⇒ Destroy it.",
+   "flavor_text": "\"It was able to copy that as well... and it did not use papier-m?ch?, did it?\" -Melgis, the Flame King",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/739",
+   "name": "Leginus, the Mechanical City",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/73/739/image_en/1485235436.jpg",
+   "number": "SKL-086",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Machine",
+   "artist": "Nagiにゃん",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[2], [rest]: Target resonator loses [Flying], [First Strike], [Pierce] or [Precision] until end of turn. If it does, another target resonator gains that ability until end of turn.",
+   "flavor_text": "That city keeps producing cold machines with no feelings, endlessly.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/740",
+   "name": "Machina, the Machine Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/740/image_en/1485235437.jpg",
+   "number": "SKL-087",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Kings",
+   "artist": "るみえ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[x]: Search your deck for an addition or resonator with total cost X or less with no attribute, reveal it and put it into your hand. Then shuffle your deck. Play this ability only once per turn.",
+   "flavor_text": "The ruler of Leginus and creator of all the machines. He's managed to create a nearly infinite source of energy thanks to the magic stones. He has no interest in anything other than his research. He considers the entire world his personal laboratory.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/741",
+   "name": "Machina, the Mechanical Emperor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/741/image_en/1485235439.jpg",
+   "number": "SKL-087J",
+   "rarity": "JR",
+   "att_def": "800 / 800",
+   "type": "J-Ruler",
+   "race": "Seven Kings",
+   "artist": "るみえ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nGod's Art [3]: Resonators with no attribute you control cannot be destroyed this turn. (Play God's Art only once per game.)",
+   "flavor_text": "\"Go Marybell, with this fight we'll test your abilities.\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/742",
+   "name": "March of the Machine Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/742/image_en/1485235440.jpg",
+   "number": "SKL-088",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Fushikaden K.K.",
+   "expansion": "The Seven Kings of the Lands",
+   "flavor_text": "\"Attack!\" -Machina, the Machine Lord",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/743",
+   "name": "Power Supply Team",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/743/image_en/1485235442.jpg",
+   "number": "SKL-089",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "SIGMAN",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nBanish this card: Recover target resonator.",
+   "flavor_text": "The power supply team has only one purpose: to use all its members to provide assistance and spare parts.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/744",
+   "name": "Special Armor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/744/image_en/1485235446.jpg",
+   "number": "SKL-090",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "サウマロ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nIf added resonator would be destroyed, banish this card instead. If you do, remove all damage from that resonator.",
+   "flavor_text": "\"Since it cannot be scratched, I'll have to rip it away!\" -Pricia, the Beast Lady",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/745",
+   "name": "Winding Mender",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/745/image_en/1485235447.jpg",
+   "number": "SKL-091",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "城戸春一",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest]: Target Machine J/resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "They can fix anything perfectly, but they have one great weakness: they cannot move instantly.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/746",
+   "name": "Alice, the Girl in the Looking Glass",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/746/image_en/1485235448.jpg",
+   "number": "SKL-092/093",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer/Pawn",
+   "artist": "Wednesday",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest]: Search your deck for a card named \"Deep Blue, the Phantom Board\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Alice touched the divine relic and retrieved some of her memories. These were reflected on the mirror and took shape alongside her.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/747",
+   "name": "Alice, the Saint of Healing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/747/image_en/1485235449.jpg",
+   "number": "SKL-092J",
+   "rarity": "JR",
+   "att_def": "400 / 1500",
+   "type": "J-Ruler",
+   "race": "Bishop",
+   "artist": "Wednesday",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nGod's Art [U][G]: J/resonators you control cannot be targeted by chants or abilities until end of turn. Draw three cards. (Play God's Art only once per game.)",
+   "flavor_text": "\"I haven't forgotten about that time. I will show you that I shall defend everyone once again!\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/748",
+   "name": "Alice, the Valkyrie of Fairy Tales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/748/image_en/1485235451.jpg",
+   "number": "SKL-093J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Knight",
+   "artist": "Wednesday",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nGod's Art [U][R]: This card deals 500 damage to target resonator. You may pay [1]. If you do, copy this ability. You may choose new targets for the copy. (Play God's Art only once per game.)",
+   "flavor_text": "\"Magic stones of Grimm's world, lend me a piece of your memories!\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/749",
+   "name": "Blazer Gill Rabus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/74/749/image_en/1485235479.jpg",
+   "number": "SKL-094",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Minion of Primogenitor",
+   "artist": "草薙蝶炎",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nMagic stones you control gain \"[rest]: Produce [R].\".",
+   "flavor_text": "\"Uff, you sure are perstering me!\" -Alice, the Girl in the Looking Glass",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/750",
+   "name": "Blazer Gill Rabus(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/750/image_en/1485235481.jpg",
+   "number": "SKL-094J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Minion of Primogenitor",
+   "artist": "草薙蝶炎",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Continuous\nThis card gains [+400/+400] as long as you don't control a resonator.",
+   "flavor_text": "\"The strength of a relentless obsession.\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/751",
+   "name": "Artemis, the God's Bow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/751/image_en/1485235482.jpg",
+   "number": "SKL-095",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "今野隼史",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest], remove four arrow counters from this card: Destroy target J/resonator with [Flying].",
+   "flavor_text": "This bow can hit the unseen as well.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/752",
+   "name": "Deathscythe, the Life Reaper",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/752/image_en/1485235483.jpg",
+   "number": "SKL-096",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "SIGMAN",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nRemove three cards in your graveyard from the game: Put this card from your graveyard into your hand.",
+   "flavor_text": "The body is heavy, life is light.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/753",
+   "name": "Deep Blue, the Phantom Board",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/753/image_en/1485235486.jpg",
+   "number": "SKL-097",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "gozz",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nDiscard another card named \"Deep Blue, the Phantom Board\": Produce [R], [U] or [G].",
+   "flavor_text": "What remains of an ancient world.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/754",
+   "name": "Gleipnir, the Red Binding of Fate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/754/image_en/1485235487.jpg",
+   "number": "SKL-098",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "長崎祐子",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nDiscard another card named \"Gleipnir, the Red Binding of Fate\": Draw a card.",
+   "flavor_text": "People believe that their actions are the result of their own free will, but they do not know that their destiny has been manipulated.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/755",
+   "name": "Horn of Sacred Beasts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/755/image_en/1485235488.jpg",
+   "number": "SKL-099",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "Cola",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\nBanish this card: Target player shuffles all magic stones from his or her graveyard into his or her magic stone deck, then shuffles all other cards from his or her graveyard into his or her deck.",
+   "flavor_text": "Its sound is almost imperceptible, but the soldiers of the Beast Lady can recognize it immediately.",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/756",
+   "name": "Marybell, the Steel Doll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/756/image_en/1485235492.jpg",
+   "number": "SKL-100",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "るみえ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[1], [rest], banish this card: Destroy target regalia.",
+   "flavor_text": "\"Master, what are your orders? Shall I beat them to death? Crush them to death? Or tear them apart? Please give orders for the method of extermination required.\"",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/757",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/757/image_en/1485235493.jpg",
+   "number": "SKL-101",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "古城バンビ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/758",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/758/image_en/1485235494.jpg",
+   "number": "SKL-102",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/759",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/75/759/image_en/1485235495.jpg",
+   "number": "SKL-103",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "佐々木光之助",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/760",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/760/image_en/1485235497.jpg",
+   "number": "SKL-104",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "白野椋",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "The Seven Kings of the Lands"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/761",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/76/761/image_en/1485235499.jpg",
+   "number": "SKL-105",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "森野ヒロ",
+   "expansion": "The Seven Kings of the Lands",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "The Seven Kings of the Lands"
+  }
+ ]
+}

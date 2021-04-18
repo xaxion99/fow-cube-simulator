@@ -1,0 +1,1891 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/1098",
+   "name": "Alicia Melchiott(W)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1098/image_en/1485240652.jpg",
+   "number": "VIN002-001",
+   "type": "Ruler",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Judgement\n[7]. You may pay [1] less to play this ability for each Squad 7 resonator you control.",
+   "flavor_text": "\"When this is over...there's something I want to tell you.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1099",
+   "name": "Alicia Gunther",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/10/1099/image_en/1485240654.jpg",
+   "number": "VIN002-001J",
+   "att_def": "400 / 1000",
+   "type": "J-Ruler",
+   "race": "Baker",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nSquad 7 resonators you control gain [+200/+200].",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1100",
+   "name": "Clementia F?rster",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1100/image_en/1485240655.jpg",
+   "number": "VIN002-002",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Researcher",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your main deck for an addition, reveal it and put it into your hand. Then shuffle your main deck.",
+   "flavor_text": "\"Is this the best you can manage? How disappointing.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1101",
+   "name": "Edy Nelson",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1101/image_en/1485240656.jpg",
+   "number": "VIN002-003",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen a Squad 7 you control is destroyed ⇒ Rest this card.",
+   "flavor_text": "\"Another Edy legend is born!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1102",
+   "name": "Elshan Flower",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1102/image_en/1485240658.jpg",
+   "number": "VIN002-004",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1103",
+   "name": "First-Aid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1103/image_en/1485240659.jpg",
+   "number": "VIN002-005",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1104",
+   "name": "Flak Jacket",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1104/image_en/1485240662.jpg",
+   "number": "VIN002-006",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition：J/Resonator",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nPrevent all damage that would be dealt to added J/resonator.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1105",
+   "name": "Homer Peron",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1105/image_en/1485240664.jpg",
+   "number": "VIN002-007",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ You gain 500 life.",
+   "flavor_text": "\"Hehe...A battle of death, despair, and pleasure is beginning.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1106",
+   "name": "Irene Ellet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1106/image_en/1485240665.jpg",
+   "number": "VIN002-008",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Reporter",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your main deck. If it's a Squad 7, put it into your hand.",
+   "flavor_text": "\"The best stories are always in the most dangerous places! I'm the bravest reporter GBS has!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1107",
+   "name": "Jann Walker",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1107/image_en/1485240666.jpg",
+   "number": "VIN002-009",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target Tank.",
+   "flavor_text": "\"This is the epitome of muscle!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1108",
+   "name": "Lynn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1108/image_en/1485240668.jpg",
+   "number": "VIN002-010",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "flavor_text": "\"With the pride of all Darcsens...\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1109",
+   "name": "Marina Wulfstan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1109/image_en/1485240669.jpg",
+   "number": "VIN002-011",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Rest target resonator.",
+   "flavor_text": "\"I've made it this far alone...\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1110",
+   "name": "Martha Lipponen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1110/image_en/1485240672.jpg",
+   "number": "VIN002-012",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Servant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "flavor_text": "\"It's not like running will cause the baby to fall right out. This is my fifth, so I think it's safe to say I know what I'm talking about.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1111",
+   "name": "Susie Evans",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1111/image_en/1485240673.jpg",
+   "number": "VIN002-013",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "0 / 600",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Look at the top three cards of your main deck or magic stone deck and put them back in any order.",
+   "flavor_text": "\"I've had enough of killing... and being killed...\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1112",
+   "name": "Symbol of Peace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1112/image_en/1485240674.jpg",
+   "number": "VIN002-014",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "flavor_text": "A flower that blooms all across Gallia, it produces many small white seeds.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1113",
+   "name": "Welvar Glenn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1113/image_en/1485240675.jpg",
+   "number": "VIN002-015",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Clerk",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[W][W],[rest]: Recover target resonator.",
+   "flavor_text": "\"Hey, Avan. What'll it be?\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1114",
+   "name": "Alfons Auclair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1114/image_en/1485240685.jpg",
+   "number": "VIN002-016",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator must block this turn if able.",
+   "flavor_text": "\"I'll always be cocky and chubby.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1115",
+   "name": "Amy Apple",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1115/image_en/1485240687.jpg",
+   "number": "VIN002-017",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 400",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nThis card cannot be attacked.",
+   "flavor_text": "\"If you die, I will cry.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1116",
+   "name": "Bombardment",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1116/image_en/1485240689.jpg",
+   "number": "VIN002-018",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1117",
+   "name": "Carisa Contzen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1117/image_en/1485240691.jpg",
+   "number": "VIN002-019",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[R][1],[rest]: Search your main deck for a regalia with total cost 1 or more, reveal it and put it into your hand. Then shuffle your main deck.",
+   "flavor_text": "\"God is a patron, a source of money.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1118",
+   "name": "Clarissa Callaghan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1118/image_en/1485240694.jpg",
+   "number": "VIN002-020",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Target resonator gains [Swiftness] until end of turn.",
+   "flavor_text": "\"Yes... I will fight! For a peaceful future...!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1119",
+   "name": "Courageous Stand",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1119/image_en/1485240695.jpg",
+   "number": "VIN002-021",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1120",
+   "name": "Frederica Lipps",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1120/image_en/1485240696.jpg",
+   "number": "VIN002-022",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "300 / 700",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Gain control of target recovered resonator your opponent controls until end of turn. It gains [Swiftness] until end of turn.",
+   "flavor_text": "\"Men are so stupid... it's adorable.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1121",
+   "name": "Gusurg",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1121/image_en/1485240698.jpg",
+   "number": "VIN002-023",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "flavor_text": "\"The Darcsen spirit exists in that endless, boundless sky...\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1122",
+   "name": "Imca",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1122/image_en/1485240699.jpg",
+   "number": "VIN002-024",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nAs long as your opponent controls a J-ruler, this card gains [Swiftness] and [+500/+500].",
+   "flavor_text": "\"The death of one specific individual... I wish for nothing beyond that.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1123",
+   "name": "Kurt Irving",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1123/image_en/1485240700.jpg",
+   "number": "VIN002-025",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\n[First Strike]",
+   "flavor_text": "\"I will regain my name... no matter what.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1124",
+   "name": "Large Explosion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1124/image_en/1485240702.jpg",
+   "number": "VIN002-026",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1125",
+   "name": "Leila Peron",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1125/image_en/1485240703.jpg",
+   "number": "VIN002-027",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[R][R],[rest]: This card deals damage equal to its ATK to target resonator.",
+   "flavor_text": "\"I'm going to build a world without war for you all!!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1126",
+   "name": "Margit Ravelli",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1126/image_en/1485240704.jpg",
+   "number": "VIN002-028",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhenever this card attacks ⇒ Resonators you control gain [+300/+300] until end of turn.",
+   "flavor_text": "\"Don't presume to speak to me so casually. Unlike you lot, I shouldn't be here.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1127",
+   "name": "Riela Marcellis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1127/image_en/1485240706.jpg",
+   "number": "VIN002-029",
+   "type": "Ruler",
+   "race": "Military/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Judgement\n[9]. You may pay [1] less to play this ability for each Nameless resonator you control.",
+   "flavor_text": "\"There was one person who told me I'm not the Grim Reaper.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1128",
+   "name": "Riela Marcellis(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1128/image_en/1485240708.jpg",
+   "number": "VIN002-029J",
+   "att_def": "1000 / 600",
+   "type": "J-Ruler",
+   "race": "Valkyrur/Nameless",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ It deals 1000 damage to target resonator.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1129",
+   "name": "Riela's Lance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1129/image_en/1485240709.jpg",
+   "number": "VIN002-030",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition：J/Resonator",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nAdded J/resonator gains [+1000/0].",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1130",
+   "name": "Alicia Melchiott(U)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1130/image_en/1485240711.jpg",
+   "number": "VIN002-031",
+   "type": "Ruler",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Judgement\n[7]. You may pay [1] less to play this ability for each Squad 7 resonator you control.",
+   "flavor_text": "\"When I think about the war I realize that I wasn't just fighting for my life, I was fighting for a new one.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1131",
+   "name": "Alicia Melchiott(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1131/image_en/1485240713.jpg",
+   "number": "VIN002-031J",
+   "att_def": "800 / 800",
+   "type": "J-Ruler",
+   "race": "Valkyrur/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\nWhen this card enters your field ⇒ You may add an [Addition:J/Resonator] from your hand to this card.",
+   "flavor_text": "\"As long as I live, I'll protect my home and the people of Gallia.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1132",
+   "name": "Alicia's Lance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1132/image_en/1485240714.jpg",
+   "number": "VIN002-032",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition：J/Resonator",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhenever damage is dealt to added J/resonator ⇒ Draw a card.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1133",
+   "name": "Brigitte \"Rosie\" Stark",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1133/image_en/1485240716.jpg",
+   "number": "VIN002-033",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhenever this card blocks or is blocked ⇒ It gains [-300/-300] until end of turn.",
+   "flavor_text": "\"Why is a Darcsen in our group? You don't actually expect us to fight together, do you?\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1134",
+   "name": "Cordelia Gi Randgriz",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1134/image_en/1485240721.jpg",
+   "number": "VIN002-034",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 600",
+   "type": "Resonator",
+   "race": "Archduchess",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[U][U][1],[rest], discard a card: Return target resonator to its owner's hand.",
+   "flavor_text": "\"I am destined to preserve the lands of Gallia, and the Valkyrian bloodline... nothing more.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1135",
+   "name": "Eleanor Varrot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1135/image_en/1485240722.jpg",
+   "number": "VIN002-035",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Military",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may put a Squad 7 with total cost 3 or less from your hand into your field.",
+   "flavor_text": "\"I expect great things from you. That is all.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1136",
+   "name": "Faldio Landzaat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1136/image_en/1485240723.jpg",
+   "number": "VIN002-036",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Military",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nThis card gains [+300/+300] as long as you control a regalia.",
+   "flavor_text": "\"It wasn't so long ago that we were just 'schoolmates'... and now we're going to be 'comrades'.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1137",
+   "name": "Isara Gunther",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1137/image_en/1485240728.jpg",
+   "number": "VIN002-037",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\nBanish this card: Draw a card.",
+   "flavor_text": "\"You can't just do what you want here. Get out, now.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1138",
+   "name": "Kreis Czherny",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1138/image_en/1485240730.jpg",
+   "number": "VIN002-038",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "flavor_text": "\"I hope to be an engineer like Isara some day.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1139",
+   "name": "Largo Potter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1139/image_en/1485240732.jpg",
+   "number": "VIN002-039",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhenever this card attacks ⇒ It gains [+100/+100] for each Squad 7 resonator you control until end of turn.",
+   "flavor_text": "\"There's nothing worth teaching you that won't learn better on the battlefield.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1140",
+   "name": "Maurits von Borg",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1140/image_en/1485240735.jpg",
+   "number": "VIN002-040",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 1000",
+   "type": "Resonator",
+   "race": "Prime Minister",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nIf damage would be dealt to a \"Cordelia Gi Randgriz\" you control, it's dealt to this card instead.",
+   "flavor_text": "\"It'll be bad publicity if they find out what we're doing. Gallia will be born again as a new glorious nation in my image! Hahahaha!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1141",
+   "name": "Momentary Respite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1141/image_en/1485240736.jpg",
+   "number": "VIN002-041",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1142",
+   "name": "Sniping from the Blind Spot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1142/image_en/1485240738.jpg",
+   "number": "VIN002-042",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1143",
+   "name": "The Carefree Three",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1143/image_en/1485240739.jpg",
+   "number": "VIN002-043",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1144",
+   "name": "Welkin Gunther",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1144/image_en/1485240741.jpg",
+   "number": "VIN002-044",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Return target resonator to its owner's hand if you control less resonators than your opponent.",
+   "flavor_text": "\"I'll protect you. You, who are more precious to me than anything.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1145",
+   "name": "Zaka",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1145/image_en/1485240742.jpg",
+   "number": "VIN002-045",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Military/Squad 7",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your main deck for a card named \"Edelweiss\", reveal it and put it into your hand. Then shuffle your main deck.",
+   "flavor_text": "\"Name's Zaka. Looks like we'll be working together.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1146",
+   "name": "Alexis Hilden",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1146/image_en/1485240744.jpg",
+   "number": "VIN002-046",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Student",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "flavor_text": "\"I am me! Nothing else!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1147",
+   "name": "Aliasse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1147/image_en/1485240746.jpg",
+   "number": "VIN002-047",
+   "type": "Ruler",
+   "race": "Student/Class G",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Judgement\n[5]",
+   "flavor_text": "\"All right, guys! Here we gooo!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1148",
+   "name": "Aliasse(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1148/image_en/1485240748.jpg",
+   "number": "VIN002-047J",
+   "att_def": "800 / 1000",
+   "type": "J-Ruler",
+   "race": "Valkyrur",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhenever this card attacks ⇒ Recover all magic stones you control.",
+   "flavor_text": "\"I want to protect everyone in Class G.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1149",
+   "name": "Aliasse's Lance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1149/image_en/1485240750.jpg",
+   "number": "VIN002-048",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition：J/Resonator",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nAdded J/resonator gains [+100/+100] for each recovered magic stone you control.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1150",
+   "name": "Anisette Nelson",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1150/image_en/1485240753.jpg",
+   "number": "VIN002-049",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Student",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "flavor_text": "\"Don't get close to my sister!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1151",
+   "name": "Avan Hardins",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1151/image_en/1485240755.jpg",
+   "number": "VIN002-050",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Student/Class G",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nYou may pay [1] less to play this card for each Student resonator you control.",
+   "flavor_text": "\"I'm the class rep! I'll handle it!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1152",
+   "name": "Bulletproof Barrier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1152/image_en/1485240756.jpg",
+   "number": "VIN002-051",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1153",
+   "name": "Cosette Coalhearth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1153/image_en/1485240757.jpg",
+   "number": "VIN002-052",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Student/Class G",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nOther resonators you control gain [+400/+400].",
+   "flavor_text": "\"Eh? Huh? What am I doing?\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1154",
+   "name": "Destructive Assault",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1154/image_en/1485240759.jpg",
+   "number": "VIN002-053",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1155",
+   "name": "Juliana Everhart",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1155/image_en/1485240760.jpg",
+   "number": "VIN002-054",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Student/Class Rep",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[G]: This card gains [+200/+200] until end of turn.",
+   "flavor_text": "\"The fact I attend the same school as you humiliates me.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1156",
+   "name": "Lavinia Lane",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1156/image_en/1485240763.jpg",
+   "number": "VIN002-055",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Student/Class G",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Recover target regalia.",
+   "flavor_text": "\"You have to treat tanks with proper care. Remember it!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1157",
+   "name": "Magari",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1157/image_en/1485240764.jpg",
+   "number": "VIN002-056",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Student",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [G][G].",
+   "flavor_text": "\"...I didn't say anything...sorry...\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1158",
+   "name": "Marion Siegbahn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1158/image_en/1485240767.jpg",
+   "number": "VIN002-057",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Student",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen you play an addition ⇒ Draw a card.",
+   "flavor_text": "\"Good day to you, Avan.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1159",
+   "name": "Power of Unity",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1159/image_en/1485240768.jpg",
+   "number": "VIN002-058",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1160",
+   "name": "Rene Randall",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1160/image_en/1485240769.jpg",
+   "number": "VIN002-059",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Student",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nCards named \"Magari\" you control cannot be targeted by spells or abilities your opponent controls.",
+   "flavor_text": "\"I won't forgive anyone who hurts Magari!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1161",
+   "name": "Zeri",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1161/image_en/1485240770.jpg",
+   "number": "VIN002-060",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Student/Class G",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put the top card of your magic stone deck into your magic stone area if you control less magic stones than your opponent.",
+   "flavor_text": "\"I'm not praising you, I'm informing you of your inefficacy as a leader.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1162",
+   "name": "Audrey Gassenarl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1162/image_en/1485240772.jpg",
+   "number": "VIN002-061",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Military/Gallian Army",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nThis card gains [+200/+200] as long as you control another Gallian Army.",
+   "flavor_text": "\"The impure of Gallia shall be purged...Fire!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1163",
+   "name": "Baldren Gassenarl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1163/image_en/1485240773.jpg",
+   "number": "VIN002-062",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Military/Gallian Army",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Your opponent loses 400 life.",
+   "flavor_text": "\"We shall craft a pure and strong people!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1164",
+   "name": "Berthold Gregor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1164/image_en/1485240776.jpg",
+   "number": "VIN002-063",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 500",
+   "type": "Resonator",
+   "race": "Military/Drei Stern",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhenever this card attacks ⇒ Target resonator gains [-400/-400] until end of turn.",
+   "flavor_text": "\"Our forces are comprised of fools. It's a disgrace to the Emperor.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1165",
+   "name": "Dahau",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1165/image_en/1485240777.jpg",
+   "number": "VIN002-064",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Military/Calamity Raven",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put target resonator from your graveyard into your hand.",
+   "flavor_text": "\"If it helps to build a Darcsen nation that will last a thousand years, I will be satisfied!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1166",
+   "name": "Dirk Gassenarl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1166/image_en/1485240778.jpg",
+   "number": "VIN002-065",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Military/Gallian Army",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "flavor_text": "\"...Understood.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1167",
+   "name": "Gilbert Gassenarl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1167/image_en/1485240779.jpg",
+   "number": "VIN002-066",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Military/Gallian Army",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nOther Gallian Armies you control gain [+200/+200].",
+   "flavor_text": "\"I hold the power of Gallia in the palm of my hand!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1168",
+   "name": "Hammer of the Valkyrur",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1168/image_en/1485240781.jpg",
+   "number": "VIN002-067",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1169",
+   "name": "Lydia Agthe",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1169/image_en/1485240783.jpg",
+   "number": "VIN002-068",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Military/Calamity Raven",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Rest it if you don't control another Calamity Raven.",
+   "flavor_text": "\"I like you more now than I did before the gun showed up. You're still a lowlife, though.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1170",
+   "name": "Maximilian",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1170/image_en/1485240787.jpg",
+   "number": "VIN002-069",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1200",
+   "type": "Resonator",
+   "race": "Military/Imperial General",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ You gain 400 life.",
+   "flavor_text": "\"Looks like we'll need a controlled purification of the area.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1171",
+   "name": "Radi Jaeger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1171/image_en/1485240788.jpg",
+   "number": "VIN002-070",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Military/Drei Stern",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator your opponent controls gains [-200/-200] until end of turn.",
+   "flavor_text": "\"If it's for the sake of my country, I don't mind being a dog of Maximilian.\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1172",
+   "name": "Ragnide Gas",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1172/image_en/1485240789.jpg",
+   "number": "VIN002-071",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1173",
+   "name": "Schemes of the Empire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1173/image_en/1485240791.jpg",
+   "number": "VIN002-072",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1174",
+   "name": "Selvaria Bles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1174/image_en/1485240792.jpg",
+   "number": "VIN002-073",
+   "type": "Ruler",
+   "race": "Military/Drei Stern",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Judgement\n[Judgment][6]. You may pay [3] less to play this ability if you control \"Maximilian\".",
+   "flavor_text": "\"I will use my powers for the purposes of my lord!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1175",
+   "name": "Selvaria Bles(J)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1175/image_en/1485240795.jpg",
+   "number": "VIN002-073J",
+   "att_def": "900 / 700",
+   "type": "J-Ruler",
+   "race": "Valkyrur/Drei Stern",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Up to two target resonators gain [-300/-300] for each Drei Stern you control.",
+   "flavor_text": "\"The power of the Valkyrur is within me too!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1176",
+   "name": "Selvaria's Lance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1176/image_en/1485240801.jpg",
+   "number": "VIN002-074",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition：J/Resonator",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Automatic\nAdded J/resonator gains [+400/+400] and \"Whenever this card deals damage ⇒ You gain that much life.\".",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1177",
+   "name": "Zig",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1177/image_en/1485240804.jpg",
+   "number": "VIN002-075",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 700",
+   "type": "Resonator",
+   "race": "Military/Calamity Raven",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Continuous\nAs long as you control \"Dahau\", this card gains [+400/0].",
+   "flavor_text": "\"I have a dream! I have an ideal that must be made reality: independence!\"",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1178",
+   "name": "Class G's Tank",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1178/image_en/1485240805.jpg",
+   "number": "VIN002-076",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Regalia",
+   "race": "Tank",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[4],[rest]: Rest target J/resonator.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1179",
+   "name": "Edelweiss",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1179/image_en/1485240806.jpg",
+   "number": "VIN002-077",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Regalia",
+   "race": "Tank",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\nBanish this card: Squad 7 you control gain [+400/+400] until end of turn. Play this ability only if you control a J-ruler.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1180",
+   "name": "Imperial Tank",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1180/image_en/1485240808.jpg",
+   "number": "VIN002-078",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Regalia",
+   "race": "Tank",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest], banish a resonator: Your J-ruler gains [+500/+500] until end of turn.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1181",
+   "name": "Nameless Tank",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1181/image_en/1485240809.jpg",
+   "number": "VIN002-079",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Regalia",
+   "race": "Tank",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: If your J-ruler would deal damage this turn, it deals that much +200 instead.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1182",
+   "name": "Ragnite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1182/image_en/1485240812.jpg",
+   "number": "VIN002-080",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "SEGA",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[W][W],[rest], banish this card: Recover your J-ruler.",
+   "flavor_text": "Refined ragnite was found to contain powerful healing properties. It is distributed as medical gear called ragnaid.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1183",
+   "name": "Magic Stone of Black Silence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1183/image_en/1485240813.jpg",
+   "number": "VIN002-081",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [G] or [B].",
+   "flavor_text": "A darkness cast from the absence of light; A tranquility devoid of all sound.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1184",
+   "name": "Magic Stone of Blasting Waves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1184/image_en/1485240814.jpg",
+   "number": "VIN002-082",
+   "type": "Special Magic Stone",
+   "artist": "サウマロ",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1185",
+   "name": "Magic Stone of Dark Depth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1185/image_en/1485240816.jpg",
+   "number": "VIN002-083",
+   "type": "Special Magic Stone",
+   "artist": "夕子",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "flavor_text": "Movements within the dark and murky depths.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1186",
+   "name": "Magic Stone of Deep Wood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1186/image_en/1485240820.jpg",
+   "number": "VIN002-084",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [G] or [U].",
+   "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1187",
+   "name": "Magic Stone of Gusting Skies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1187/image_en/1485240822.jpg",
+   "number": "VIN002-085",
+   "type": "Special Magic Stone",
+   "artist": "アサヒナ",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [W] or [G].",
+   "flavor_text": "A momentary shine that reflects in the sky.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1188",
+   "name": "Magic Stone of Hearth's Core",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1188/image_en/1485240840.jpg",
+   "number": "VIN002-086",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [R] or [U].",
+   "flavor_text": "A passion like burning flames; A presence as cold as ice.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1189",
+   "name": "Magic Stone of Heat Ray",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1189/image_en/1485240842.jpg",
+   "number": "VIN002-087",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [W] or [R].",
+   "flavor_text": "A piercing gleam of blinding light; An incandescent glow that cannot be touched.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1190",
+   "name": "Magic Stone of Heaven's Rift",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1190/image_en/1485240843.jpg",
+   "number": "VIN002-088",
+   "type": "Special Magic Stone",
+   "artist": "影山キナ",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1191",
+   "name": "Magic Stone of Light Vapors",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1191/image_en/1485240844.jpg",
+   "number": "VIN002-089",
+   "type": "Special Magic Stone",
+   "artist": "河北亜希",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [W] or [U].",
+   "flavor_text": "The shining paths that branch from the crossroad.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1192",
+   "name": "Magic Stone of Scorched Bales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1192/image_en/1485240845.jpg",
+   "number": "VIN002-090",
+   "type": "Special Magic Stone",
+   "artist": "tokiwa",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [B] or [R].",
+   "flavor_text": "Hidden within the night, the burning spiral of seeds.",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1193",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1193/image_en/1485240847.jpg",
+   "number": "VIN002-091",
+   "type": "Basic Magic Stone",
+   "artist": "FLEN",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1194",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1194/image_en/1485240850.jpg",
+   "number": "VIN002-092",
+   "type": "Basic Magic Stone",
+   "artist": "FLEN",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1195",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1195/image_en/1485240851.jpg",
+   "number": "VIN002-093",
+   "type": "Basic Magic Stone",
+   "artist": "FLEN",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1196",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1196/image_en/1485240853.jpg",
+   "number": "VIN002-094",
+   "type": "Basic Magic Stone",
+   "artist": "FLEN",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/1197",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/11/1197/image_en/1485240854.jpg",
+   "number": "VIN002-095",
+   "type": "Basic Magic Stone",
+   "artist": "FLEN",
+   "expansion": "Vingolf \"Valkyria Chronicles\"",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Vingolf \"Valkyria Chronicles\""
+  }
+ ]
+}

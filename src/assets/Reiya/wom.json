@@ -1,0 +1,2792 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/3388",
+   "name": "A Mother's Love",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3388/image_en/501a8a64-4449-4a30-8c5a-3822a93fd7d7.jpg",
+   "number": "WOM-001",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Aura",
+   "artist": "Retro",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "A step towards a different history will lead to a new destiny.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3389",
+   "name": "Alexandrite's Crash",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3389/image_en/b1bb913c-c863-4ba3-a8ea-4a6abc400f32.jpg",
+   "number": "WOM-002",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shinichi Chiba",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Anyone left onboard? No? Seems I might as well disembark then.\" -Taegrus Pearlshine",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3390",
+   "name": "Arrival of the Hero",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3390/image_en/892f930d-0ad5-47bc-9e86-11a876357ada.jpg",
+   "number": "WOM-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"The hero always arrives in the time of need.\" -Taegrus Pearlshine",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3391",
+   "name": "Atom Seikhart, the Envoy of Valhalla",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3391/image_en/4dacfa8f-d1cb-4621-ae22-377ca1057a79.jpg",
+   "number": "WOM-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Rabbit",
+   "artist": "Saiko Takaki",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ You may remove target non-magic stone, non-J-ruler entity from the game.",
+   "flavor_text": "\"Everyone's always worrying over pointless things. Just come with me instead!\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3392",
+   "name": "Aura of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3392/image_en/bb3bb8d6-6faa-4f1f-a1da-e8d531bffc73.jpg",
+   "number": "WOM-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Aura",
+   "artist": "Haruichi Kido",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "A will that refuses to submit.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3393",
+   "name": "Beast of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3393/image_en/81531eef-c765-441c-8a40-300da700c002.jpg",
+   "number": "WOM-006",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Retro",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nThis card gains [+100/+100] for each gem you control.",
+   "flavor_text": "\"Too much of one thing? Nonsense. You can never have enough gems!\" -Taegrus Pearlshine",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3394",
+   "name": "Gem Blade Amethyst",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3394/image_en/deb7bd5c-635c-4bca-aca2-02602fdd4a5e.jpg",
+   "number": "WOM-007",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Haruki Komai",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nYou may pay [1] less to play this card for each gem you banished this turn.",
+   "flavor_text": "Each fragmented gem fuels her fighting spirit.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3395",
+   "name": "Grimmia's Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3395/image_en/f099fdff-5c3d-4fbc-b7be-e7167ee5959c.jpg",
+   "number": "WOM-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale/Fairy",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "Grimm received Lumia's hope, and once again manifested into this world.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3396",
+   "name": "Holy Prince's Nanny, Citrin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3396/image_en/a57098bc-2443-4a23-b067-c0001efd12a6.jpg",
+   "number": "WOM-009",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Nekobayashi",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Prevent the next 500 damage that would be dealt to target J/resonator or yourself this turn.",
+   "flavor_text": "She has always watched over the prince without fail, by his side since birth.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3397",
+   "name": "Honorable Thief Guild Member",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3397/image_en/1d899635-cce1-41c6-adf7-8ba4c7b1ee8f.jpg",
+   "number": "WOM-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Mayo",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your turn ⇒ You gain 100 life for each card in your hand.",
+   "flavor_text": "\"Just so you know, I ain't doing this just for fun.\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3398",
+   "name": "Isolate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3398/image_en/9bb37a9b-7b45-4465-bfc3-d8102d841a76.jpg",
+   "number": "WOM-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Saiko Takaki",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Once all this is over, I have something to tell you guys. About Valhalla, the beginning of everything.\" -Atom Seikhart",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3399",
+   "name": "Jewel Illusion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3399/image_en/c520323c-0731-4e7e-9279-26d236fc469d.jpg",
+   "number": "WOM-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "JURI",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "Illusions manifested by light are not easily distinguished from reality.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3400",
+   "name": "Naughty Child's Chastising",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3400/image_en/b7728645-79ec-4df9-9bf3-5b23e414db27.jpg",
+   "number": "WOM-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "fzwrAym",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Having such a naughty little brother is no good. I'll make sure to set you straight!\" -Fierica, Honorable Thief",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3401",
+   "name": "Panda Carpenter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3401/image_en/574efaa3-90f2-4c64-8dc3-458d53c25d7e.jpg",
+   "number": "WOM-014",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Nagi-nyan",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target addition. If you do, search your deck for an addition, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Someone made this one too gaudy as well, but we can fix it!\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3402",
+   "name": "Power Gem Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3402/image_en/15a024c7-ceb5-44a6-aa62-1f588194ef7c.jpg",
+   "number": "WOM-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 300",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Hayama Kohei",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nThis card gains [+100/+100] as long as you control two or more Pandas.",
+   "flavor_text": "\"Even when divided amongst friends, the radiance of the gems never declines.\" -Teachings handed down at Sasaru",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3403",
+   "name": "Resuscitating Will",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3403/image_en/aff8a5fb-bc11-4df8-9bc1-a6d43002a040.jpg",
+   "number": "WOM-016",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Aura",
+   "artist": "Haruichi Kido",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Onii-sama... next time... in the future.\" -Lumia",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3404",
+   "name": "Technique Gem Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3404/image_en/948803d6-320f-4edc-bf02-6cc6ea1fcfdc.jpg",
+   "number": "WOM-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Hayama Kohei",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nThis card gains [+100/+100] as long as you control two or more Pandas.",
+   "flavor_text": "\"A true guardian protects something more than simple gems.\" -Teachings handed down at Sasaru",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3405",
+   "name": "The Second Advent of Hope, Grimmia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3405/image_en/20419829-c31e-435e-bea8-934fce621df6.jpg",
+   "number": "WOM-018",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Fairy Tale/Avatar",
+   "artist": "Haruichi Kido",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nRemove an Aura in your graveyard from the game: This card gains [Flying], [Drain], and [Barrier] until end of turn.",
+   "flavor_text": "Soaring to rebirth.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3406",
+   "name": "White Leaf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3406/image_en/5bff2cbc-69f3-4fd8-ab1a-932a9e095d11.jpg",
+   "number": "WOM-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "hatarisu",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nBanish this card: You gain 800 life.",
+   "flavor_text": "White for mending.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3407",
+   "name": "Xiang Xiang, the Holy Prince",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3407/image_en/f244beef-6004-4bcc-8ead-9c8dbc6b2e1a.jpg",
+   "number": "WOM-020",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "JURI",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhenever you gain life ⇒ You may banish a light gem. If you do, this card deals damage to target resonator equal to the amount of life you gained.",
+   "flavor_text": "\"When you speak of the child loved by god, surely you refer to the prince?\" -Holy Prince's Nanny, Citrin",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3408",
+   "name": "Xiang Xiang's Bodyguard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3408/image_en/eab2fa7a-e1eb-46e4-ae23-9648116ea91e.jpg",
+   "number": "WOM-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "100 / 700",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "haniwa",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your turn ⇒ Gain a gem of any attribute.",
+   "flavor_text": "The bodyguards are of course, paid in gems.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3409",
+   "name": "Burnt Cooking",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3409/image_en/4aa0a126-cda1-4a3f-a8d7-be171b9e1f0e.jpg",
+   "number": "WOM-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "M ganzy",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Where'd you pick that up from?\" \"Got it as a prize from the tournament.\" \"Is the food that girl makes even edible?\" \"Even poison is medicine to a dragonoid.\" -Kirik and Pialle",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3410",
+   "name": "Dragon Hunter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3410/image_en/5adc6639-3fc3-4992-9653-a54e99e3e9e0.jpg",
+   "number": "WOM-023",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 1000",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "touge369",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nIf this card would deal damage to a Dragon or Beast, it deals double that much instead.",
+   "flavor_text": "\"Leave the hunting to me, it'll be over in a second.\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3411",
+   "name": "Dread Touch",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3411/image_en/0122ec68-ac0d-4929-be25-1eb540a26141.jpg",
+   "number": "WOM-024",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Nanami Lusia",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhenever this card attacks a J/resonator ⇒ This card gains [+600/0] until end of turn.",
+   "flavor_text": "Apparently, the dinosaurs came from the future. But all the Dragonoids cared about was how to cook them!",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3412",
+   "name": "Earthquake Observer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3412/image_en/44ed1746-030b-45e1-b381-59badddb625e.jpg",
+   "number": "WOM-025",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Ippei SOEDA",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhenever your opponent plays a chant ⇒ This card gains [+200/+200] and [Barrier] until end of turn.",
+   "flavor_text": "Upon seeing the eruption of Mt. Hoelle, he escaped to shelter without alerting anyone.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3413",
+   "name": "Eruption",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3413/image_en/067c8810-4344-4a43-bac1-ac0f7b75ed40.jpg",
+   "number": "WOM-026",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kittikarn Kunsook",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "The sudden eruption of Mt. Hoelle had a large impact on the Dragonoids lives.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3414",
+   "name": "Fire Bow Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3414/image_en/b305084c-1cac-460a-a0fe-e2736b9974e2.jpg",
+   "number": "WOM-027",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "kawaryu",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ It deals 800 damage to target J/resonator.",
+   "flavor_text": "Isn't it a waste of time to prepare a fire? Rather, isn't it a waste of time to cook at all?",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3415",
+   "name": "Firebird",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3415/image_en/749d9498-cb81-47fa-86a2-a66bf965c1d2.jpg",
+   "number": "WOM-028",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "AKI",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "The blood of the dragon transformed into a firebird and soared over the battlefield.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3416",
+   "name": "Ground and Air Supremacy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3416/image_en/3bc18e50-d3c8-410f-9086-927faee29dc4.jpg",
+   "number": "WOM-029",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "When the two fought together, nobody could stand a chance.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3417",
+   "name": "Hoelle Pig Squadron",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3417/image_en/2bc890ce-871c-4d64-ad9b-b1ee3fe5dcfd.jpg",
+   "number": "WOM-030",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Hoelle Pig\" and put it into the field. If you control \"Piggy, Hoelle's Great Hero Pig\", search your deck for any number of cards named \"Hoelle Pig\" and put them into the field instead. Entities put into the field this way gain [Swiftness] until end of turn. Then shuffle your deck..",
+   "flavor_text": "\"Pi- Pi-! (Don't flee! Stand your ground pigs!)\" -Piggy, Hoelle's Great Hero Pig",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3418",
+   "name": "Kaiser Phoenix",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3418/image_en/c8b20008-87eb-4d52-b577-bee7e8676ba9.jpg",
+   "number": "WOM-031",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "kakotomirai",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "After a burnout, a grand rebirth is sure to occur.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3419",
+   "name": "Lava Majin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3419/image_en/dd1f766c-e35c-48ff-b6cf-740c77efec57.jpg",
+   "number": "WOM-032",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "douzen",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhenever this card is dealt damage ⇒ It deals that much damage to target J/resonator.",
+   "flavor_text": "This being of wild magic power harms everything it touches.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3420",
+   "name": "Mt. Hoelle Bodyguard Squad",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3420/image_en/77b0beb3-7868-44bb-b815-0e261397701b.jpg",
+   "number": "WOM-033",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 500",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "sasaki kounosuke",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhenever this card blocks ⇒ Recover it and it gains [+300/0] until end of turn.",
+   "flavor_text": "When the situation runs dire, their fighting spirit ignites.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3421",
+   "name": "Pialle's Cook, Sylvia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3421/image_en/97a4ccaa-36c9-4294-8ad3-7240f0514b53.jpg",
+   "number": "WOM-034",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 600",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "SIGMAN",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nRemove a spoiled cuisine counter from this card: Another target J/resonator gains [-400/-400] until end of turn.",
+   "flavor_text": "\"Pialle-san! This time for sure it's edible so... please try it!",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3422",
+   "name": "Power Spike",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3422/image_en/17150fcc-c6eb-40d6-96d2-a755e775a53b.jpg",
+   "number": "WOM-035",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"My special spikes do quite the damage.\" -Pialle Eille",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3423",
+   "name": "Prismatic Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3423/image_en/5866a3ef-3cf5-4432-9a00-5516ec0a2e0b.jpg",
+   "number": "WOM-036",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirai Hidemi",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Ho ho ho... This is what you call thinking on one's feet.\" -Welser, the Archmage of Fire",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3424",
+   "name": "Red Leaf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3424/image_en/1f680d0b-4ef4-4ef2-904c-d6633e8fc972.jpg",
+   "number": "WOM-037",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nBanish this card: This card deals 500 damage to target J/resonator.",
+   "flavor_text": "Red for passion.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3425",
+   "name": "Reunion between the Master and Pupil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3425/image_en/185d7bd5-419f-4ac6-8fd3-dd854d157b8d.jpg",
+   "number": "WOM-038",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "hatarisu",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Gramps! It's been a while. Have you been well?\" \"Been well? You realize I died, right?\" \"That makes two of us.\" \"...Well, that's true.\" -Fiethsing and Welser",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3426",
+   "name": "Scarlet's Testament",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3426/image_en/33e364c9-dda7-4ac7-9e5f-42c1ffe48228.jpg",
+   "number": "WOM-039",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Aura",
+   "artist": "yuko",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "The girl gave her last words before fading away. Surely, they had a tinge of truth to them.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3427",
+   "name": "Sprinting Time Horse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3427/image_en/40582bc1-0e36-4ded-8cab-c2ff7ea2e027.jpg",
+   "number": "WOM-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "gozz",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put four strength counters on your J/ruler.",
+   "flavor_text": "It burns as fast as it runs.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3428",
+   "name": "The Three Sisters of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3428/image_en/295d8be4-f539-44eb-a187-b1ba0ae627c6.jpg",
+   "number": "WOM-041",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "ShiroYayoi",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ Choose one at random - Remove the top card of your deck from the game. You may play that card until end of turn; or you pay [r] less to play your next chant this turn; or your opponent cannot play chants until end of turn.",
+   "flavor_text": "The cause of many chaotic phenomenon, the junction of space-time.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3429",
+   "name": "Welser, the Archmage of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3429/image_en/8a632dab-51bb-43c0-855c-c64043a02bd7.jpg",
+   "number": "WOM-042",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1400 / 1400",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Shirai Hidemi",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhenever you play a chant ⇒ Copy it. You may choose new targets for the copy. This ability triggers only once per turn.",
+   "flavor_text": "Welser's soul and memory, wavering in this world, was brought back to its original form by Fiethsing's wind through sheer happenstance.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3430",
+   "name": "Analyst of the Ocean Floors, Alisaris",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3430/image_en/ee9a4572-efef-4b2b-8104-e45ef312f8ae.jpg",
+   "number": "WOM-043",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "BANAMONS*",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[Time][Time][Time]: Return target non-magic stone, non-J-ruler entity to its owner's hand.",
+   "flavor_text": "\"While it's true I used to research time... Well, if it's for Shaela-sama, give me any order and it shall be done.\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3431",
+   "name": "Blue Leaf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3431/image_en/b94fe14c-b168-4183-89b2-e0717bc9b7e7.jpg",
+   "number": "WOM-044",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "RYUEMON",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nBanish this card: Return target resonator with total cost 2 or less to its owner's hand.",
+   "flavor_text": "Blue for tranquility.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3432",
+   "name": "Drifting Little Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3432/image_en/a517a5ad-9ce8-4e4d-be26-dffdc8a1b328.jpg",
+   "number": "WOM-045",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Moon/Treasury Item",
+   "artist": "jitari",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nRest four \"Drifting Little Moon\" you control: Destroy target resonator.",
+   "flavor_text": "\"Let's destroy those things. There's one each for Pearlshine, Kirik, Shaela, and I to break.\" -Gill",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3433",
+   "name": "Lightning Speed Crash",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3433/image_en/000e719c-4017-4cdf-9c4c-27238707ba7a.jpg",
+   "number": "WOM-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Aura",
+   "artist": "gozz",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Let's go! One hit, one kill!!!\" -Shaela",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3434",
+   "name": "Lightning Waterfowl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3434/image_en/80bb9080-849c-4996-82c1-4508dda0d7bb.jpg",
+   "number": "WOM-047",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nThis card gains [Swiftness] and [Barrier] as long as the weather is thunderstorm.",
+   "flavor_text": "Only those who received divine protection from lightning can keep up with Shaela.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3435",
+   "name": "Magic Soldier of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3435/image_en/464ee54e-c09b-452f-bb05-a26afad73b24.jpg",
+   "number": "WOM-048",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Moopic",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Draw a card, then discard a card.",
+   "flavor_text": "A time-construct golem.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3436",
+   "name": "Meditation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3436/image_en/384a0f0a-052c-43f2-8924-dacfa0e49b70.jpg",
+   "number": "WOM-049",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "The last respite before the decisive battle.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3437",
+   "name": "Praying Mermaid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3437/image_en/c72e9b77-65ba-4132-9632-3939fb5166a1.jpg",
+   "number": "WOM-050",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "Matsurika Yoko",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ The weather is thunderstorm until end of turn.",
+   "flavor_text": "\"Shaela-sama's light will surely repel the darkness that covers the world!\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3438",
+   "name": "Roar of the Soul",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3438/image_en/a7ae2638-86db-41fb-89ca-b5c7684a4fcd.jpg",
+   "number": "WOM-051",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "jugemt",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "The more you desire something, the farther away it gets...",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3439",
+   "name": "Spirit of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3439/image_en/05dbd9ee-aba9-4ea7-a72f-e17db3fdcb79.jpg",
+   "number": "WOM-052",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 1200",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Nekobayashi",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[1]: Produce [Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants. Play this ability only once per turn.",
+   "flavor_text": "This spirit will serve their master until the end of time.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3440",
+   "name": "The Distortion of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3440/image_en/618821d1-dbc4-4956-9184-bfd56a98bdd9.jpg",
+   "number": "WOM-053",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Retro",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "At that moment, everyone heard the sound of space being ripped apart.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3441",
+   "name": "The Dragon Lord's Breath",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3441/image_en/e6e66927-a935-4a00-99f3-d25fe7895cb5.jpg",
+   "number": "WOM-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "jugemt",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "The breath of the Dragon Lord convolutes and contorts time.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3442",
+   "name": "The End of Possession",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3442/image_en/b66db9d6-c824-4a83-b0b9-99eb2236eafc.jpg",
+   "number": "WOM-055",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Misa Tsutsui",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "As the light of the moon fades away, the time for this sham of a possession fades as well.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3443",
+   "name": "The Last Thunder",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3443/image_en/46c21681-6002-4724-9b0f-f4767aa55b35.jpg",
+   "number": "WOM-056",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SIE NANAHARA",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"This attack contains my everything!\" -Shaela",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3444",
+   "name": "The Time Spinning Witch",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3444/image_en/aacb995e-da08-4691-bba3-0f075e518aca.jpg",
+   "number": "WOM-057",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Witch",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[0]: Produce [Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants. Play this ability only once per turn.",
+   "flavor_text": "A wish for salvation inverted into a wish for ruin.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3445",
+   "name": "The Time Spinning Witch",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3445/image_en/c085fb1f-83f0-4be3-87f8-1250e2d9983f.jpg",
+   "number": "WOM-057J",
+   "rarity": "R",
+   "att_def": "800 / 1200",
+   "type": "J-Ruler",
+   "race": "Witch",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[0]: Produce [Time][Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants. Play this ability only once per turn.",
+   "flavor_text": "And then that ruinous wish swallows up everything, all the way down to the last moment in time.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3446",
+   "name": "Unbound Princess of Time, Kaguya",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3446/image_en/508eb93c-0e59-44f5-9b68-06860413f994.jpg",
+   "number": "WOM-057J*",
+   "rarity": "R",
+   "type": "J-Ruler",
+   "race": "Little Girl",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ Choose one - Produce [w], [r], [u], [g], or [b]; or draw a card.",
+   "flavor_text": "A miracle is happening.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3447",
+   "name": "The Witch's Minion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3447/image_en/4e2a3b32-4bfb-47d4-9af3-61744d101b74.jpg",
+   "number": "WOM-058",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Saiko Takaki",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ Produce [Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants.",
+   "flavor_text": "Following all the threats, overtaking all the enemies, the Time Spinning Witch arrived from the future.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3448",
+   "name": "Time Bound Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3448/image_en/9297fbf8-720a-443c-8710-4fc8b16ecd1b.jpg",
+   "number": "WOM-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Ghost",
+   "artist": "kakiken",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhenever you play a God's Art ⇒ You may put this card from your graveyard into the field.",
+   "flavor_text": "Not even death can free you from the curse of time.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3449",
+   "name": "Time Dilation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3449/image_en/8f7a4cb0-e807-487c-bd84-9d64d0f43de1.jpg",
+   "number": "WOM-060",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kakiken",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "To the Time Spinning Witch, the past and future are merely meant to fade away.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3450",
+   "name": "Unyielding Dragon Lord, Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3450/image_en/3e19533e-447d-4229-afc7-dd17b5591a56.jpg",
+   "number": "WOM-061",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "jugemt",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nDiscard seven cards: Destroy target non-magic stone entity.",
+   "flavor_text": "From another dimension, the ruler appeared.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3451",
+   "name": "Wererabbit of the Null Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3451/image_en/5f08aecd-7d10-48f1-a97f-cacd41ed52ad.jpg",
+   "number": "WOM-062",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "Miko Yamazaki",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Each player draws a card.",
+   "flavor_text": "This imitation of a moon shall never cease to be.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3452",
+   "name": "Wings of Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3452/image_en/f4ad9fcf-5add-4c68-9fc8-f588af4bb3b8.jpg",
+   "number": "WOM-063",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[Time]: This card gains [+200/+200] and [Flying] until end of turn.",
+   "flavor_text": "The dragon rode the streams of time and soared over the world.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3453",
+   "name": "Witch's Lament",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3453/image_en/faad61b3-9a31-43d3-adf2-af74220dc7ef.jpg",
+   "number": "WOM-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Saiko Takaki",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "The Witch's song of lament makes one forget everything.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3454",
+   "name": "Cecil and Tia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3454/image_en/2cb764c3-4d10-4249-a3e6-1a780c8b5cdf.jpg",
+   "number": "WOM-065",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Kamijo Roro",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[Rest]: Recover two target magic stones.",
+   "flavor_text": "The two who fought for the sake of the elves had inherited Faerur's strength and kindness.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3455",
+   "name": "Ciel, Ancestor of the Priestess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3455/image_en/9aaa8557-ce18-448e-a810-5b920cd53635.jpg",
+   "number": "WOM-066",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Elf",
+   "artist": "ComamitsuZaki",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the end of your turn ⇒ Attach target Aura in your graveyard to this card.",
+   "flavor_text": "\"Who's there? Lend you my body you say... can't be helped, just this once.\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3456",
+   "name": "Phantom Wind Fiethsing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3456/image_en/5038f835-182f-4f8f-8fa4-ee195b539c0c.jpg",
+   "number": "WOM-066J",
+   "rarity": "R",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Elf",
+   "artist": "ComamitsuZaki",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card is destroyed ⇒ Remove all Auras attached to it from the game.",
+   "flavor_text": "The wind that carried this world to the future had disappeared like a dream.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3457",
+   "name": "Fairy of the Holy Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3457/image_en/17f6cebb-2a97-4128-9e89-6639b7429ee3.jpg",
+   "number": "WOM-067",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "Tsukumi",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nYou gain [Barrier].",
+   "flavor_text": "The breath of Attoractia blesses this wonderful world.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3458",
+   "name": "Fifth Element",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3458/image_en/606a7ec1-576b-4043-9d7c-85ef828393a2.jpg",
+   "number": "WOM-068",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "SO",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "The hordes of elementals swept away their enemies like a stampede, leaving nothing behind.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3459",
+   "name": "Herbivorous Beast, Silomosaurus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3459/image_en/1320474c-5358-4aea-8090-4e29d6c6d4f8.jpg",
+   "number": "WOM-069",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "0 / 1500",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Moopic",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nThis card gains [+300/0] for each wind magic stone you control.",
+   "flavor_text": "Being herbivorous doesn't necessarily mean it's harmless.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3460",
+   "name": "Laurite's Seven Disciples",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3460/image_en/9c067318-8552-45dd-bf95-690f4da2a516.jpg",
+   "number": "WOM-070",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "yuko",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field or at the beginning of your main phase ⇒ This card gains [＋200/＋200], [Swiftness], [Flying], [First Strike], [Precision], [Drain], or [Barrier] until end of turn. If you control \"Laurite, Seven Luminaries Astrologian\", it gains all those abilities instead.",
+   "flavor_text": "\"Will you lend me your strength for the sake of this world?\" Gill asked. They were puzzled by his question. No one had ever made such a request to them before.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3461",
+   "name": "Leaf Assassin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3461/image_en/4be2ec7e-a6b5-4d7a-a0a8-e7f654aa1ee2.jpg",
+   "number": "WOM-071",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "Miko Yamazaki",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Reveal any number of Elementals from your hand. This card deals 200 damage to target J/resonator for each card revealed this way.",
+   "flavor_text": "Gill returned from his confrontation with Alhama'at, with new memories and powers he now rejoins his allies.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3462",
+   "name": "Leaf Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3462/image_en/eec9a771-347c-4264-a12e-4e73da2e2934.jpg",
+   "number": "WOM-072",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Elemental/Dragon",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nRemove an Elemental in your graveyard from the game: Put a [+100/+100] counter on this card. Play this ability only once per turn.",
+   "flavor_text": "Names reflect one's spirit. One's spirit reflects their capability.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3463",
+   "name": "Leaf Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3463/image_en/9b7ad6cc-eb27-4b49-867c-7822d39a691f.jpg",
+   "number": "WOM-073",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 500",
+   "type": "Resonator",
+   "race": "Elemental/Fairy",
+   "artist": "Shirono Muku",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "flavor_text": "\"This will be the final battle. I'm counting on you my elemental friends.\" -Gill",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3464",
+   "name": "Leaf Paladin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3464/image_en/2aa7aefc-276b-4a75-87b3-c2a85d04d24d.jpg",
+   "number": "WOM-074",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "mie",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a light Elemental, fire Elemental, water Elemental, and/or darkness Elemental, reveal them and put them into your hand. Then shuffle your deck.",
+   "flavor_text": "Using the magic power of the demon lord as a reference, Gill produced five attributes of elementals and made a powerful team.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3465",
+   "name": "Power of the Emperor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3465/image_en/a771f641-eb8d-4e44-a181-e10b0faf8238.jpg",
+   "number": "WOM-075",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "A fragment of Alhama'at's power was passed down to Gill.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3466",
+   "name": "Reincarnation of the Holy Tree, Yggdrasil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3466/image_en/a0dddeec-ce42-4ccf-8c58-e8caa7d15b64.jpg",
+   "number": "WOM-076",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Ethereal Tree/Elemental",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhenever another resonator you control is put into a graveyard from the field ⇒ Search your deck for a resonator with total cost less than that resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "The final story that Scheherazade had entrusted.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3467",
+   "name": "Seed of Rebirth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3467/image_en/184a05f1-5b23-480d-8401-287a58368894.jpg",
+   "number": "WOM-077",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "noki",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"I see... she did it to protect this.\" -Reiya, Fourth Daughter of the Mikage",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3468",
+   "name": "Spirit Searching",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3468/image_en/3e498d69-f59c-40d4-b648-8eab0167d522.jpg",
+   "number": "WOM-078",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "gekko",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"The future is something we have to shape ourselves.\" -Gill",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3469",
+   "name": "The End of Dreams",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3469/image_en/67e3cfca-811e-4bc7-9da1-33f09348bb70.jpg",
+   "number": "WOM-079",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"We've made it back.\" \"Uwahh, thanks to you we did. I barely managed anything.\" -Reiya and Gill",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3470",
+   "name": "The Last Audience",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3470/image_en/8a95a205-1ca7-4847-8ab9-34f0a7befa14.jpg",
+   "number": "WOM-080",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 700",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "Sanosuke Sakuma",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nYour opponent must attack this card if able.",
+   "flavor_text": "The end roll for Scheherazade's story has yet to come.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3471",
+   "name": "Time Composing Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3471/image_en/a0dbc07b-bf69-4a93-9783-c516fff8f528.jpg",
+   "number": "WOM-081",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "j-peg",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[Rest]: Look at the top card of your deck. You may put it on the bottom of your deck.",
+   "flavor_text": "Only those who know the future, have a right to change it.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3472",
+   "name": "Viviane, the Envoy of Rebirth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3472/image_en/f1506fb3-5102-4a0c-bb1f-9c760f6df381.jpg",
+   "number": "WOM-082",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "Matsurika Yoko",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put target non-magic stone card from your graveyard into your hand.",
+   "flavor_text": "Led by Yggdrasil, she landed in a world different from Attoractia.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3473",
+   "name": "Whirling Winds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3473/image_en/3645e518-fa0c-4af7-b27c-d4e9b0fe0b31.jpg",
+   "number": "WOM-083",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Aura",
+   "artist": "ComamitsuZaki",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"You should probably distance yourself from me right now.\" -Fiethsing",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3474",
+   "name": "Wind Blade Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3474/image_en/4f39d87d-e72b-46ed-a056-3f2c20e3bb02.jpg",
+   "number": "WOM-084",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Cola",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[g]: This card gains [+100/+100] until end of turn.",
+   "flavor_text": "\"The wind's noisier than usual... who could be coming?\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3475",
+   "name": "Winds of Guidance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3475/image_en/91de9286-42c3-48fe-a806-37c228f92cae.jpg",
+   "number": "WOM-085",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Aura",
+   "artist": "AKI",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "As Fiethsing took a step, winds of many colors blew about as the nearby scenery began to transform.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3476",
+   "name": "Winds of Salvation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3476/image_en/01296d87-0315-472c-82c7-d56b6d6a4c7d.jpg",
+   "number": "WOM-086",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Aura",
+   "artist": "ComamitsuZaki",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Just offering one's hand won't save anyone.\" -Fiethsing",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3477",
+   "name": "Bird of Demise",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3477/image_en/7b8ed7fc-a2be-462a-9c4a-1094e033ba1d.jpg",
+   "number": "WOM-087",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Hayama Kohei",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Don't think ya can eat that one.\" -Kirik Rerik",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3478",
+   "name": "Black Leaf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3478/image_en/76a95c03-e125-4302-a051-54a672c4ea38.jpg",
+   "number": "WOM-088",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "Nekobayashi",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nBanish this card: Target J/resonator gains [-400/-400] until end of turn.",
+   "flavor_text": "Black for sabotage.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3479",
+   "name": "Bloodied Winds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3479/image_en/5b64a5ed-2224-495f-a8dd-f0653a6586a1.jpg",
+   "number": "WOM-089",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "gekko",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Gill, lend me your power.\" -Reiya, Fourth Daughter of the Mikage",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3480",
+   "name": "Dark Bokuro",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3480/image_en/74854502-180a-4348-b61a-649ce142c136.jpg",
+   "number": "WOM-090",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Misa Tsutsui",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nYour opponent pays [1] more to play chants during your turn.",
+   "flavor_text": "A small interloper that snatches your opponent's field of view.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3481",
+   "name": "Demon in the Moonlight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3481/image_en/e31b6cd0-e73b-4620-b868-9d714151bac5.jpg",
+   "number": "WOM-091",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "tokiwa",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[Time]: This card gains \"When this card deals damage to a J/resonator ⇒ Destroy that J/resonator.\" until end of turn.",
+   "flavor_text": "The cunningness of this demon only grows greater with the passing of time.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3482",
+   "name": "Essence of the Void",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3482/image_en/f02b0521-018c-4d8f-ba95-c177c3c22c6d.jpg",
+   "number": "WOM-092",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target damaged resonator.",
+   "flavor_text": "Grasping the existence of that thing is no easy task.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3483",
+   "name": "Every Last Ounce of Strength",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3483/image_en/46fbb8f5-e35a-4c55-a871-42b06e8c5b80.jpg",
+   "number": "WOM-093",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "Reiya unleashed all the remaining power in her blood.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3484",
+   "name": "Glint of Insight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3484/image_en/19ffa72a-ae0b-4123-9afb-7c81fb4e3541.jpg",
+   "number": "WOM-094",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "Nagi-nyan",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Not being able to use your power is the same as having no power at all.\" -Reiya, Fourth Daughter of the Mikage",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3485",
+   "name": "Kintaro",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3485/image_en/4f7849f8-f7bd-465d-ac95-f188c5b2d62c.jpg",
+   "number": "WOM-095",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Shindo Saeko",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put a [+100/+100] counter on it for each Fairy Tale and non-Fairy Tale Beast you control.",
+   "flavor_text": "\"This power is to protect my friends.\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3486",
+   "name": "Kintaro's Partner",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3486/image_en/e5146774-852a-47e0-acb9-0a29fe5cdd00.jpg",
+   "number": "WOM-096",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale/Beast",
+   "artist": "Moopic",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Target J/resonator gains [-200/-200] until end of turn.",
+   "flavor_text": "Even one as kind as he, will become ferocious if his friends are hurt.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3487",
+   "name": "Knight of the Black Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3487/image_en/fc4a7100-5c32-4fb7-b4b6-55dfbb22beb1.jpg",
+   "number": "WOM-097",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "KONNO Takashi",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card enters the field ⇒ Each player discards a card.",
+   "flavor_text": "To return this world to nothing, those girls desire nothing more.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3488",
+   "name": "Life or Death Struggle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3488/image_en/26a616af-a7af-4b57-9ee2-b5b76c72c026.jpg",
+   "number": "WOM-098",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "Is this the finale of demise, or the prelude to rebirth?",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3489",
+   "name": "Moonlit Canopy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3489/image_en/277f3baa-66fd-4847-8d9a-94ee2858d936.jpg",
+   "number": "WOM-099",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of each player's main phase ⇒ That player loses 400 life.",
+   "flavor_text": "The battlegrounds for the decisive battle.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3490",
+   "name": "Rei, the Black Owl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3490/image_en/509dedda-a6a8-4fc8-b830-618c413ec21c.jpg",
+   "number": "WOM-100",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Ashes",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ Invert this card.",
+   "flavor_text": "She waits ever patiently for the time to be right.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3491",
+   "name": "Zero",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3491/image_en/951e733c-2b5a-40ae-980f-29a5ae4dc5c9.jpg",
+   "number": "WOM-100*",
+   "att_def": "800 / 900",
+   "type": "Resonator",
+   "race": "Human/Inverse",
+   "artist": "lack",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nEntities you control gain \"Whenever this card is targeted by a spell or ability ⇒ Cancel that spell or ability. This ability triggers only once per turn.\".",
+   "flavor_text": "\"Goodness gracious, I'm finally back. Now then, where's Fieth?\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3492",
+   "name": "Rei's Gale",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3492/image_en/c2a539f5-886d-4478-9ee3-b7ec536dce73.jpg",
+   "number": "WOM-101",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Ashes",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "Everything pierced by Rei's black feathers became bound to the ground by the power of darkness.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3493",
+   "name": "Reiya, Fourth Daughter of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3493/image_en/672e5f4e-a472-45e0-903e-6577030cbb3c.jpg",
+   "number": "WOM-102",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Vampire",
+   "artist": "lack",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[rest]: Put a mystery counter on this card.",
+   "flavor_text": "The Ominous Moon feeds on the life of its wielder.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3494",
+   "name": "Reiya, Fourth Daughter of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3494/image_en/7d7490c5-0529-4ce7-acc4-3fb121600f23.jpg",
+   "number": "WOM-102J",
+   "rarity": "R",
+   "att_def": "1200 / 1200",
+   "type": "J-Ruler",
+   "race": "Vampire",
+   "artist": "lack",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[Rest], remove a mystery counter from this card: Destroy target resonator.",
+   "flavor_text": "With determination in hand, forge your own path to the future.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3495",
+   "name": "Requiem of the Soul",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3495/image_en/5d29ac6e-5bce-4444-8e27-686cde58e7be.jpg",
+   "number": "WOM-103",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yuko",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "In remembrance of those who died so far, Reiya played a requiem for the soul.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3496",
+   "name": "Sleeping Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3496/image_en/69542f3d-0086-4445-807e-5e2a2f45724a.jpg",
+   "number": "WOM-104",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ This card gains [+200/0] and [Flying] until end of turn.",
+   "flavor_text": "\"Here's to meeting again on another night.\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3497",
+   "name": "The Night Before the Decisive Battle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3497/image_en/cd462a1a-2cfe-4139-bf7c-dd6523c1c9e5.jpg",
+   "number": "WOM-105",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Mad",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "The night before the decisive battle with the Time Spinning Witch, Reiya told Gill everything that had happened up till now.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3498",
+   "name": "The Resistor of Destiny",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3498/image_en/b07e54b8-2811-46f1-a832-3293f1a8fdcd.jpg",
+   "number": "WOM-106",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "ishishou",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Target J/resonator gains [-300/-300] until end of turn.",
+   "flavor_text": "A change in consciousness amongst the dark elves began to alter their ill-fated destiny.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3499",
+   "name": "Time Reversal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/3499/image_en/212271ee-3de2-4e86-a052-820fb4a42a7b.jpg",
+   "number": "WOM-107",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Miko Yamazaki",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Time is not yours alone to control!\" -Reiya, Daughter of the Mikage",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3500",
+   "name": "Vice-Leader of the Chivalrous Thieves, Blazer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3500/image_en/8ba95431-e65d-48cb-b1e9-faa1abd2d815.jpg",
+   "number": "WOM-108",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Automatic\nAt the beginning of your main phase ⇒ Draw a card.",
+   "flavor_text": "\"If my sister finds out we're done for! Our group will be forced to disband I tell ya! Disband!\"",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3501",
+   "name": "A Heroic Epic for the Thousandth Night",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3501/image_en/3e98787b-aa82-42e8-848e-aace56144a04.jpg",
+   "number": "WOM-109",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Fairy Tales? Nay, epics are more my specialty. Let's see... this next story is about the one who saved the world on countless occasions. This next story is about the Inheritor of the Stars.\" -Scheherazade, the Weaver of Tales",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3502",
+   "name": "Attoractia, City of Verdant Green",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3502/image_en/44e3729c-35a5-4041-8ac9-5a6b145cbb89.jpg",
+   "number": "WOM-110",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "AKI",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[Rest]: Produce [r] or [g]. If you spend this will to play a resonator, it gains [Swiftness] as it enters the field until end of turn.",
+   "flavor_text": "Over 10,000 years ago, underneath the magnificent Yggdrasil, a city lush with green was formed. The city was particularly known as a sightseeing spot, as people visited from all over to see places like Valentina's Theatre or Machina's Atelier.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3503",
+   "name": "Beyond the Threshold of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3503/image_en/289e06f0-414a-4a56-bdd1-c13028a2f82b.jpg",
+   "number": "WOM-111",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Mad",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "Time began to spin out of control, to an era 10,000 years prior.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3504",
+   "name": "Inheritor of the Stars, Gill Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3504/image_en/5ec452dc-4532-416c-81f4-416d0d36351d.jpg",
+   "number": "WOM-112",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Vampire/Human/Guardian",
+   "artist": "Nem",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nRemove an Elemental in your graveyard from the game: Produce [w], [r], [u], [g], or [b]. Put a [+100/+100] counter on this card. Play this ability only once per turn.",
+   "flavor_text": "Since then, there hasn't been a soul alive that knew the whereabouts of Reiya and Gill. However, the hero who inherited that power and spirit will undoubtedly become the guardian of this world... that hero's name is...",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3505",
+   "name": "Invitation to Valhalla",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3505/image_en/7c125cb9-707b-4307-aac8-5fce65af0ecb.jpg",
+   "number": "WOM-113",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Did you like what you saw? Now then, we best be on our way.\" -Atom Seikhart",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3506",
+   "name": "Journey to the Future",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3506/image_en/7fd1ebd5-2114-4c92-bffa-0a0f4366a323.jpg",
+   "number": "WOM-114",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "BANAMONS*",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"Where will you go from here?\" \"My role is done. Furthermore, I don't have any power left in me to do anything.\" \"Come with me then. You still owe me for the power I lent you.\" \"...Very well.\" -Gill and Reiya",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3507",
+   "name": "Reincarnation of the Soul",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3507/image_en/a4d701c0-35f5-4107-8b8a-0ef06e666a0f.jpg",
+   "number": "WOM-115",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "mita kura",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "All souls enter the cycle and start a new future. Even souls that were toyed with by fate are reborn anew.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3508",
+   "name": "Restoration",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3508/image_en/586a7a27-75ae-4b10-887f-ee0e4b1c60be.jpg",
+   "number": "WOM-116",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"It's time we built a new royal palace. A new palace needs a new name. Let's see... how about 'Light Palace'? Yes, that'll do just fine.\" -Taegrus Pearlshine",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3509",
+   "name": "The Kingdom of Diversity, Light Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3509/image_en/22c4d4ae-ef4e-4b79-b175-7285e0d21390.jpg",
+   "number": "WOM-117",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Miko Yamazaki",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nResonators you control gain [Flying], [Swiftness], [First Strike], [Precision], [Barrier] and/or [Drain] as long as you control a J-ruler with that ability.",
+   "flavor_text": "While investigating a magical distortion, Grimm, the king of Light Palace, saved Pandora who had appeared from a gap in time. While a serious encounter did not occur this time, Grimm felt that an encounter with fate was near.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3510",
+   "name": "The Path We Part",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3510/image_en/2b5d9a68-d411-4760-a894-87bc32294655.jpg",
+   "number": "WOM-118",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "\"I'll be going on another self-training journey. Take care of yourself Shaela.\" \"You too, Kirik.\" -Kirik and Shaela",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3511",
+   "name": "Ethereal Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3511/image_en/9efb4f63-143e-4e40-8ed0-92fd4da6bdbc.jpg",
+   "number": "WOM-119",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Ashes",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\nBanish this card: Put an Aura from your removed area into your hand.",
+   "flavor_text": "Our most distant wishes will one day become reality.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3512",
+   "name": "Magic Stone of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3512/image_en/908f164f-f19c-47a9-8b12-9b8ea778b26b.jpg",
+   "number": "WOM-120",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Saiko Takaki",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[Rest]: Produce [time].",
+   "flavor_text": "A magic stone with memories of the distant future.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3513",
+   "name": "【Variant】Grimmia's Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3513/image_en/501486f3-b6e5-4a06-b4f2-f97bf97176d7.jpg",
+   "number": "WOM-121",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale/Fairy",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "Grimm received Lumia's hope, and once again manifested into this world.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3514",
+   "name": "【Variant】Dread Touch",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3514/image_en/58dd7445-29d9-4a0a-a092-95ca66656858.jpg",
+   "number": "WOM-122",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Nanami Lusia",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "Apparently, the dinosaurs came from the future. But all the Dragonoids cared about was how to cook them!",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3515",
+   "name": "【Variant】Wings of Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3515/image_en/777d304f-5e99-4158-8145-725f14583597.jpg",
+   "number": "WOM-123",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Activate\n[u]: This card gains [Flying] until end of turn.",
+   "flavor_text": "The dragon rode the streams of time and soared over the world.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3516",
+   "name": "【Variant】Herbivorous Beast, Silomosaurus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3516/image_en/98ad344a-5208-46ff-a2b8-7b07df72220f.jpg",
+   "number": "WOM-124",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Moopic",
+   "expansion": "Winds of the Ominous Moon",
+   "text": "Continuous\nThis card gains [+100/+100] for each wind magic stone you control.",
+   "flavor_text": "Being herbivorous doesn't necessarily mean it's harmless.",
+   "all_sets": "Winds of the Ominous Moon"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3517",
+   "name": "【Variant】Essence of the Void",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/3517/image_en/4960b75e-6809-44ee-9b9c-49112a95a5bd.jpg",
+   "number": "WOM-125",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Winds of the Ominous Moon",
+   "flavor_text": "Grasping the existence of that thing is no easy task.",
+   "all_sets": "Winds of the Ominous Moon"
+  }
+ ]
+}

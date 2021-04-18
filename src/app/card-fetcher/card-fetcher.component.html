@@ -1,0 +1,53 @@
+<div>
+    <table>
+        <tr>
+            <td>
+                <p>Select Cluster: </p>
+            </td>
+            <td>
+                <select [(ngModel)]="cluster" (change)="clusterSelected($event)">
+                    <option value="" [disabled] selected>Select a Cluster:</option>
+                    <option *ngFor="let c of clusters | keyvalue" [value]="c.key" [innerHTML]="c.key"></option>
+                </select>
+            </td>
+            <td>
+                <select [(ngModel)]="set" (change)="setSelected($event)">
+                    <option value="" [disabled] selected>Select a Set:</option>
+                    <option *ngFor="let c of clusters[cluster]" [value]="c" [innerHTML]="c"></option>
+                </select>
+            </td>
+        </tr>
+    </table>
+</div>
+<br>
+<app-card-details [card]="card"></app-card-details>
+<br>
+<div>
+    <table>
+        <tr>
+            <td>
+                <button (click)="prevCard()">Previous</button>
+            </td>
+            <td>
+                <button (click)="nextCard()">Next</button>
+            </td>
+        </tr>
+    </table>
+</div>
+<br>
+<div>
+    <table>
+        <tr>
+            <td>
+                <p>Jump to: </p>
+            </td>
+            <td>
+                <input type="text" id="jump" value="">
+            </td>
+            <td>
+                <button (click)="jumpCard()" id="jumpButton">Jump</button>
+            </td>
+        </tr>
+    </table>
+</div>
+<br>

@@ -1,0 +1,3633 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/3177",
+   "name": "Aimul's Unicorn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3177/image_en/c5784cdd-8a5a-4981-8ae4-da41ffdbb4aa.jpg",
+   "number": "TSW-001",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "hatarisu",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever you do judgment of a ruler ⇒ Invert this card. (Flip it over.)",
+   "flavor_text": "You can't tell what's lurking beneath its outward appearance.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3178",
+   "name": "Aimul's Twisted Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3178/image_en/9bc9b86c-3000-4040-90a4-6ffcbc55f05e.jpg",
+   "number": "TSW-001*",
+   "rarity": "C",
+   "att_def": "800 / 600",
+   "type": "Resonator",
+   "race": "Beast/Inverse",
+   "artist": "hatarisu",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card inverts ⇒ Destroy target resonator with ATK less than this card's ATK.",
+   "flavor_text": "”Ah, perhaps that was too rough of a greeting?\" - Aimul, Princess of Despair",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3179",
+   "name": "Angel of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3179/image_en/657badac-4180-4f60-942d-03e3a0def778.jpg",
+   "number": "TSW-002",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 300",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "Mayo",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever you gain life ⇒ Put a [+100/+100] counter on this card.",
+   "flavor_text": "An angel carrying hope...",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3180",
+   "name": "Angel of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3180/image_en/e6644857-3822-4024-9a99-3ec617b10d04.jpg",
+   "number": "TSW-002*",
+   "rarity": "U",
+   "att_def": "400 / 500",
+   "type": "Resonator",
+   "race": "Angel/Inverse",
+   "artist": "Mayo",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card inverts ⇒ Destroy target resonator if there is a [+100/+100] counter on this card.",
+   "flavor_text": "...invites despair in the end.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3181",
+   "name": "Dr. Jekyll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3181/image_en/8b771c30-8c4a-4426-8077-904ded8a33a4.jpg",
+   "number": "TSW-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Kamijo Roro",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nYou may pay [w] less to do judgment.",
+   "flavor_text": "Anyone can change...",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3182",
+   "name": "Ms. Hyde",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3182/image_en/b841dc6a-1909-484c-853b-0201f9126ff9.jpg",
+   "number": "TSW-003*",
+   "rarity": "R",
+   "att_def": "800 / 900",
+   "type": "Resonator",
+   "race": "Human/Inverse",
+   "artist": "Kamijo Roro",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nOther Inverse resonators you control gain [+400/+400].",
+   "flavor_text": "...good or evil.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3183",
+   "name": "Escaped Jeweler",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3183/image_en/a785e97f-f9ca-45a6-a01e-79d1a66940cd.jpg",
+   "number": "TSW-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Matsurika Yoko",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[w], [rest], return this card to its owner's hand: Rest target resonator.",
+   "flavor_text": "As Sasaru Palace collapsed, the jeweler made off with the most valuable gems without ever looking back.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3184",
+   "name": "False Peace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3184/image_en/50de34cb-cc46-4818-8670-15edb902f771.jpg",
+   "number": "TSW-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirai Hidemi",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Come now, you can still fight, can't you?\" -Princess of Fleeting Hope",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3185",
+   "name": "Deadly Pox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3185/image_en/e6e18bbb-7fa6-46d1-aed7-c0748a3ee3ea.jpg",
+   "number": "TSW-005*",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Inverse",
+   "artist": "Shirai Hidemi",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Fall into despair.\" -Aimul, Princess of Despair",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3186",
+   "name": "Fierica, Honorable Thief",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3186/image_en/7d32c252-1fbf-448a-9970-a3b67600d50d.jpg",
+   "number": "TSW-006",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "fzwrAym",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nBanish five gems: Destroy target addition.",
+   "flavor_text": "Due to her never leaving any treasure behind, other treasure hunters have taken to calling her \"Fierica the Thorough\".",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3187",
+   "name": "Fierica's Expedition",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3187/image_en/9346b1ed-bcf4-408e-874a-963ad4286e6e.jpg",
+   "number": "TSW-007",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "fzwrAym",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "While exploring for treasures and ruins, she also seeks her long lost younger brother.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3188",
+   "name": "Flourishing Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3188/image_en/7e94a118-0e78-47e2-8066-023ae58ab653.jpg",
+   "number": "TSW-008",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Haruichi Kido",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Remember, the will to be reborn.\" -Grimm, Hope from the Future",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3189",
+   "name": "Burgeoning Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3189/image_en/ba4ff5a1-76f9-49ef-87df-926b4001fd73.jpg",
+   "number": "TSW-008*",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Inverse",
+   "artist": "Haruichi Kido",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Ahh, so you finally remember me, Onii-sama? Then you should have no regrets. Die now, peacefully.\" -Aimul, Princess of Despair",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3190",
+   "name": "Gem Hammer Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3190/image_en/5e315c54-b5e4-4b97-88c9-17847b46170d.jpg",
+   "number": "TSW-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "kawaryu",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card gains [+400/+400] as long as you control ten or more gems.",
+   "flavor_text": "Happiness is relative to one's number of gems.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3191",
+   "name": "Gem Mallet Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3191/image_en/f8ae6053-d69a-4b61-ad0d-7bde65c88c38.jpg",
+   "number": "TSW-010",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "100 / 400",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Nakaba Higurashi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest], banish three gems that share an attribute: Produce two wills of an attribute shared with all gems banished this way.",
+   "flavor_text": "A powerful magic swell can shatter gems.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3192",
+   "name": "Jewel Aura",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3192/image_en/b2690e25-f92e-4be3-8c47-8ca73452010a.jpg",
+   "number": "TSW-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "fzwrAym",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Fierica's spirit of inquiry turns to a spirit of ferocity in battle.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3193",
+   "name": "Jewel Step",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3193/image_en/0103dc95-7a7e-441c-bec2-3458ba06ae94.jpg",
+   "number": "TSW-012",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tsukumi",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "The pandas escaped using their gems.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3194",
+   "name": "Karmic Retribution",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3194/image_en/68061135-a4a6-4a6b-8d4f-bd507a6265aa.jpg",
+   "number": "TSW-013",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kurisu",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"People die so easily.\" -Aimul, Princess of Despair",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3195",
+   "name": "Knight of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3195/image_en/f7992c5c-de1d-4278-86a5-c04ba2c8102b.jpg",
+   "number": "TSW-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Matsurika Yoko",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever you do judgment of a ruler ⇒ Invert this card. (Flip it over.)",
+   "flavor_text": "Hope is a beautiful lie.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3196",
+   "name": "Knight of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3196/image_en/c979c16c-b83a-4c31-9d49-5c7c9f179eb9.jpg",
+   "number": "TSW-014*",
+   "rarity": "C",
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human/Inverse",
+   "artist": "Matsurika Yoko",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Despair is an inconvenient truth.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3197",
+   "name": "Light Castle, Palace of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3197/image_en/47888253-41ff-465d-b7d3-5e838da3e227.jpg",
+   "number": "TSW-015",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Shinichi Chiba",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put two [+100/+100] counters on each resonator you control.",
+   "flavor_text": "Sasaru Palace crumbled and a shining new palace was erected.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3198",
+   "name": "Dark Castle, Palace of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3198/image_en/39ec3b20-bbfb-4a6d-a24a-42fcdee9ec83.jpg",
+   "number": "TSW-015*",
+   "rarity": "U",
+   "type": "Addition",
+   "race": "Inverse",
+   "artist": "Shinichi Chiba",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card inverts ⇒ Put four [-100/-100] counters on each resonator your opponent controls.",
+   "flavor_text": "All lights must eventually go out.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3199",
+   "name": "Life Stealing Altar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3199/image_en/34e485ea-ddf4-466b-af45-5e71c0c1f7e3.jpg",
+   "number": "TSW-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Tsukumi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever a resonator you control is put into a graveyard from the field ⇒ You may pay [1]. If you do, draw a card.",
+   "flavor_text": "The ritual begins with one's own despair...",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3200",
+   "name": "Soul Returning Altar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3200/image_en/aa1ddf14-55d2-4347-b0aa-abef97967fe4.jpg",
+   "number": "TSW-016*",
+   "rarity": "C",
+   "type": "Addition",
+   "race": "Inverse",
+   "artist": "Tsukumi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nBanish a resonator: Target resonator gains [-400/-400] until end of turn.",
+   "flavor_text": "...and ends with another's.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3201",
+   "name": "Magic Transforming Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3201/image_en/7637c4a0-62b7-4822-84eb-458ad0e791ea.jpg",
+   "number": "TSW-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "kakiken",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever this card attacks ⇒ For each different attribute of the gem banished to pay this card's [Mobilize] cost during this battle, this card gains the following until end of turn:\n[w]: [0/+500]\n[r]: [Pierce]\n[u]: [Flying]\n[g]: [First Strike]\n[b]: [+500/0]",
+   "flavor_text": "Using gems, Taegrus refitted golems into much more versatile fighters.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3202",
+   "name": "Mephistopheles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3202/image_en/be40f4c1-cb9c-441c-9ba0-00734b622613.jpg",
+   "number": "TSW-018",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nJ/resonators your opponent controls enter the field rested.",
+   "flavor_text": "\"Stay.\" -Princess of Fleeting Hope",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3203",
+   "name": "Mephistopheles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3203/image_en/5af7dce2-0765-4e9f-a33b-a19fc672569c.jpg",
+   "number": "TSW-018*",
+   "rarity": "SR",
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Demon/Inverse",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nResonators entering the field under your opponent's control don't cause their own abilities to trigger.",
+   "flavor_text": "\"Come Mephistopheles. Devour everything.\" -Aimul, Princess of Despair",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3204",
+   "name": "Miscalculation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3204/image_en/ae876fa7-4d9b-4286-84f4-9ed220d3b55c.jpg",
+   "number": "TSW-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "JURI",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Welcome to my castle.\" -Aimul, Princess of Despair",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3205",
+   "name": "Panda Medium",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3205/image_en/1e08894f-a5df-4601-8936-3f434cdae46a.jpg",
+   "number": "TSW-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Retro",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Remove target card in your graveyard from the game.",
+   "flavor_text": "\"Hm? You'd like to show me something?\" -Princess of Fleeting Hope",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3206",
+   "name": "Possessed Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3206/image_en/e301752b-792e-4766-a22d-f6792bb98f4c.jpg",
+   "number": "TSW-020*",
+   "rarity": "U",
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Panda/Inverse",
+   "artist": "Retro",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Put target card from a removed area that was removed by this card into its owner's hand.",
+   "flavor_text": "\"Thank you. Keep the change.\" -Aimul, Princess of Despair",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3207",
+   "name": "Panda Performer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3207/image_en/d26fd8c5-5b31-4ea3-a143-4ccd3acb8d24.jpg",
+   "number": "TSW-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 1000",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "mie",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nBanish a gem: Switch the ATK and DEF of this card until end of turn.",
+   "flavor_text": "All of the performer's tricks use gems.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3208",
+   "name": "Princess of Fleeting Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3208/image_en/bce5e73a-7c8f-4d7f-ad97-6a83f79b296c.jpg",
+   "number": "TSW-022",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "kurisu",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[0]: Recover target resonator. Play this ability only during your opponent's turn and only once per turn.",
+   "flavor_text": "\"Onii-sama. That pitiful form...Don't worry, I shall release you.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3209",
+   "name": "Aimul, Princess of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3209/image_en/f3ed7d5d-9be6-4c1b-8073-d53d8b94823b.jpg",
+   "number": "TSW-022J",
+   "rarity": "JR",
+   "att_def": "300 / 300",
+   "type": "J-Ruler",
+   "race": "Human",
+   "artist": "kurisu",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card gains [+200/+200] for each Inverse entity you control.",
+   "flavor_text": "A false peace, a deadly sickness.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3210",
+   "name": "Relief Aid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3210/image_en/cc281235-939d-4217-a587-bb199506e627.jpg",
+   "number": "TSW-023",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Taegrus, if you need help, just say so!\" -Rose Quartz, the Panda Queen",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3211",
+   "name": "Sacred Knight of Atonement",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3211/image_en/c43c752e-e901-4a32-bf92-17c564485692.jpg",
+   "number": "TSW-024",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Azusa",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Prevent all damage that would be dealt to this card until end of turn.",
+   "flavor_text": "Standing on the battle field to atone...",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3212",
+   "name": "Dark Knight of Conviction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3212/image_en/91642228-b78a-42de-b6bc-85cb5e54769c.jpg",
+   "number": "TSW-024*",
+   "rarity": "C",
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Human/Inverse",
+   "artist": "Azusa",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever this card attacks ⇒ Target J/resonator gains [-200/-200] until end of turn.",
+   "flavor_text": "...this knight convicts the innocent.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3213",
+   "name": "Separation of Fates",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3213/image_en/85df0d8d-ca4e-4681-9667-ec4f390bc522.jpg",
+   "number": "TSW-025",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Hayama Kohei",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "To release one from their hopes.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3214",
+   "name": "The Jewel Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3214/image_en/6664160b-ed7f-489f-b06a-5b0293ae1afd.jpg",
+   "number": "TSW-026",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "j-peg",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target rested resonator. Gain a gem of any attribute.",
+   "flavor_text": "From her lips, gems fell.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3215",
+   "name": "Treasure Knight Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3215/image_en/aa26a4d9-d2fb-4e11-9a59-d35bd06845ba.jpg",
+   "number": "TSW-027",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[w][w]: Choose an ability for each different attribute among all gems you control from [Swiftness], [Precision], [First Strike], [Flying], and [Pierce]. This card gains those abilities until end of turn.",
+   "flavor_text": "Apparently, he receives a lot of complaints because his outfit sparkles too brightly.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3216",
+   "name": "White Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3216/image_en/5ac7592d-7735-4f5d-a014-51ce104d3085.jpg",
+   "number": "TSW-028",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Nakaba Higurashi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Target resonator loses all abilities until end of turn.",
+   "flavor_text": "\"There. Now nothing should be troubling you.\" -Princess of Fleeting Hope",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3217",
+   "name": "Ancient Impact",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3217/image_en/87ac016e-16b7-44f1-90e3-3ddb82c15c72.jpg",
+   "number": "TSW-029",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/07.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Hayama Kohei",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"BrEaK!\" -Scarlet, the Crimson Beast",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3218",
+   "name": "Apprentice Martial Artist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3218/image_en/0fc5e4ef-9d43-4f4e-800b-76718e67eb6a.jpg",
+   "number": "TSW-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Takumi Sugikawa",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[r]: This card gains [+100/0] until end of turn.",
+   "flavor_text": "\"Someday, I'll compete in the martial arts tournament!\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3219",
+   "name": "Combat Loving Dragonoid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3219/image_en/217fcfaf-0f03-461f-ac80-791569c6b4dd.jpg",
+   "number": "TSW-031",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 1200",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "kakiken",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever a resonator your opponent controls is put into a graveyard from the field ⇒ Put two strength counters on your J/ruler.",
+   "flavor_text": "Nothing cures a wounded heart like a good fight.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3220",
+   "name": "Dino Calling Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3220/image_en/f0b88008-cbfb-4e1b-9f08-508ec8c6e6c9.jpg",
+   "number": "TSW-032",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "tokiwa",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a Dinosaur, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Good boy.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3221",
+   "name": "Dino-Rider",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3221/image_en/35990137-2b63-40a4-b0fa-c760dbcb4c2e.jpg",
+   "number": "TSW-033",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1400 / 1400",
+   "type": "Resonator",
+   "race": "Dragonoid/Dinosaur",
+   "artist": "suranaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever a resonator dealt damage by this card this turn is put into a graveyard from the field ⇒ This card gains [Swiftness] until end of turn.",
+   "flavor_text": "\"I'Ll KiLl YoU!\" -Scarlet, the Crimson Beast",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3222",
+   "name": "Domesticated Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3222/image_en/3178ba7f-fd30-4dd2-aeee-ab0c75b4e1ba.jpg",
+   "number": "TSW-034",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Retro",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Scarlet's wave revealed the lies in everyone's hearts.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3223",
+   "name": "Dragon Aura",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3223/image_en/3318b88c-9917-4002-9b18-470b85da1020.jpg",
+   "number": "TSW-035",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"My fighting spirit burns like fire!\" -Kirik Rerik",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3224",
+   "name": "Ferocious Attack",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3224/image_en/8bed43d4-a611-41de-8f56-aaa28f29d72f.jpg",
+   "number": "TSW-036",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "SO",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Let's go, Piggy!\" -Pialle Eille, the Flaming Fist",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3225",
+   "name": "Fictitious Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3225/image_en/ac71f49c-6209-4ea4-b750-4158d6d80adb.jpg",
+   "number": "TSW-037",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"BuRn tO AsH!\" -Scarlet, the Crimson Beast",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3226",
+   "name": "Flame Claw Saber-Tooth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3226/image_en/df1d2929-c662-40c0-8d1f-0a6b9ea2a267.jpg",
+   "number": "TSW-038",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "gozz",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "The first attack is the last attack.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3227",
+   "name": "Flying Dragon of Mt. Hoelle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3227/image_en/73a2ef57-7c95-4fd5-a31f-700245d32832.jpg",
+   "number": "TSW-039",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 700",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Hayama Kohei",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nRemove a strength counter from your J/ruler: This card gains [+500/0] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Like how dragonoids play with each other, dragons play with their masters.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3228",
+   "name": "Heaven Sundering Dragon Palm",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3228/image_en/b0995f49-7bc1-484c-b6f7-fcd82746b77e.jpg",
+   "number": "TSW-040",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "AKI",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"So, this is the power of the dragon god's blood.\" -Kirik Rerik",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3229",
+   "name": "Hero's Bracelet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3229/image_en/be42db54-e85a-48be-81ed-c49373aa5b46.jpg",
+   "number": "TSW-041",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Misa Tsutsui",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nBestowed resonator gains [+400/+400], [Swiftness], [Barrier], and [Precision].",
+   "flavor_text": "It confers a sense of resoluteness within the hero who claims it.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3230",
+   "name": "Hoelle's Martial Arts Tournament",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3230/image_en/1f838486-8a38-41d3-89d6-cdc5781349a3.jpg",
+   "number": "TSW-042",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yukie TAJIMA",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Hoelle's tournament is well respected and gathers many.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3231",
+   "name": "Hollow Flame Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3231/image_en/e59263ae-f0bb-453a-ae24-13b63592ea21.jpg",
+   "number": "TSW-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "100 / 500",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Saiko Takaki",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "An unseen threat.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3232",
+   "name": "Home of the Ultra Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3232/image_en/6e0a6773-9143-4fd6-9743-46e03faacec1.jpg",
+   "number": "TSW-044",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Mad",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever a resonator with total cost 2 or less enters the field ⇒ This card deals 600 damage to it.",
+   "flavor_text": "Kirik had come to Shooting Star's den to test himself and push beyond his limits.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3233",
+   "name": "Kirik Rerik",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3233/image_en/bbf040a7-5892-4aa5-85a7-7da8d9885f48.jpg",
+   "number": "TSW-045",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Dragonoid",
+   "artist": "SIGMAN",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Put X strength counters on this card, where X is ten minus the number of strength counters on this card.",
+   "flavor_text": "With Shooting Star's defeat, Kirik gained newfound power from the creature's blood.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3234",
+   "name": "Kirik Rerik, the Draconic Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3234/image_en/c20f1790-8069-4d84-9a54-5c39ddf6cd00.jpg",
+   "number": "TSW-045J",
+   "rarity": "JR",
+   "att_def": "1200 / 1000",
+   "type": "J-Ruler",
+   "race": "Dragonoid",
+   "artist": "SIGMAN",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nRemove five strength counters from this card: This card deals 500 damage to target J/resonator.",
+   "flavor_text": "\"Dragon god! Grant me power!\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3235",
+   "name": "Mad Scarlasodon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3235/image_en/645ac214-3290-42ce-9ffe-49c97308c3fc.jpg",
+   "number": "TSW-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "douzen",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Discard a card.",
+   "flavor_text": "Like its master, it chases after things blindly.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3236",
+   "name": "Martial Arts Competitor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3236/image_en/0930c039-2d1b-4732-95fa-979aa436d9df.jpg",
+   "number": "TSW-047",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Miko Yamazaki",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "A fighter who puts speed above all else.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3237",
+   "name": "Pialle Eille, the Flaming Fist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3237/image_en/b1a8294a-8ade-407a-9f5c-2700a789f0a8.jpg",
+   "number": "TSW-048",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Yukie TAJIMA",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nRemove a strength counter from your J/ruler: This card gains [+200/+200] until end of turn. Play this ability up to two times per turn.",
+   "flavor_text": "\"You haven't gotten weaker, have you, Kirik?\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3238",
+   "name": "Piggy, Hoelle's Great Hero Pig",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3238/image_en/ebb96dd5-abb1-4331-9a2e-64395d68cedf.jpg",
+   "number": "TSW-049",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Yuko Nagasaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nRemove two strength counters from your J/ruler: Target resonator gains [Flying] until end of turn.",
+   "flavor_text": "An unusual pig who defeated many hunters and bested Pialle once. Now they travel together.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3239",
+   "name": "Piggy's Child",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3239/image_en/e21ec22b-0a4c-47b8-9e7d-3439bb40ead4.jpg",
+   "number": "TSW-050",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Yuko Nagasaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Another target Beast resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "\"Oink! Oink!\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3240",
+   "name": "Red Fang Allosaurus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3240/image_en/86bc0c64-8284-4b9d-962e-17dd96e424c1.jpg",
+   "number": "TSW-051",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1300 / 1300",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "SO",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Can't stop, won't stop… might stop.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3241",
+   "name": "Scarlet's Vision",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3241/image_en/e2f13a7c-8e49-445f-8e0f-537f19dd1e10.jpg",
+   "number": "TSW-052",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "suranaki",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Madness turns to fire, and burns all to ash.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3242",
+   "name": "Selection",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3242/image_en/bb291fdc-f770-4718-ad50-8fd5c55eeac0.jpg",
+   "number": "TSW-053",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "sasaki kounosuke",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Only the good are chosen.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3243",
+   "name": "Spirit of Mt. Hoelle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3243/image_en/3292fd7a-1bf2-4f80-85f9-6411a9675db1.jpg",
+   "number": "TSW-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "AKI",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ J/resonators you control gain [+200/+200] until end of turn.",
+   "flavor_text": "Losing his strength, Kirik borrowed the power of a spirit.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3244",
+   "name": "Twin Dragon Claw",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3244/image_en/5ef29f36-7d89-4672-a243-9fb0c6b6a3b2.jpg",
+   "number": "TSW-055",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "suranaki",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Two dragons crush two enemies.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3245",
+   "name": "Ultra Dragon Flame Sphere",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3245/image_en/4400a530-8005-4288-986b-6e86b6612805.jpg",
+   "number": "TSW-056",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Mad",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Shooting Star's flame sphere blew a mountain clean off.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3246",
+   "name": "Ultra Dragon, Shooting Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3246/image_en/3e22f4f5-e5f6-4f14-a17e-5e77a1dc93f5.jpg",
+   "number": "TSW-057",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dragon/Guardian",
+   "artist": "Mad",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Discard a card at random.",
+   "flavor_text": "None have felt the wrath of Shooting Star and lived to tell the tale.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3247",
+   "name": "Biri-Biri Ball",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3247/image_en/63a625d7-806c-49df-a1fc-aa4a1664fec7.jpg",
+   "number": "TSW-058",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kakiken",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Go numb!\" -Shaela, the Mermaid Princess",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3248",
+   "name": "Dr. Mermaid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3248/image_en/bd6a3348-9879-41d8-80e4-74d394ba7e51.jpg",
+   "number": "TSW-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 700",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "JURI",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Recover your ruler if it's water.",
+   "flavor_text": "\"Princess Shalea, please get well soon.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3249",
+   "name": "Giant Rabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3249/image_en/8563c5be-2e33-4294-987a-23ad1353f383.jpg",
+   "number": "TSW-060",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "mie",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put target resonator on top of its owner's deck.",
+   "flavor_text": "\"One that big is sure to have something good!\" Rebellious Soul, Ayu",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3250",
+   "name": "Giga Thunderfish",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3250/image_en/ee61ec36-06fe-4137-b957-67a1d8c1cf59.jpg",
+   "number": "TSW-061",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Fish",
+   "artist": "douzen",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ If the weather is thunderstorm, search your deck for a card named \"Mega Thunderfish\" and/or a card named \"Thunderfish\" and put them into the field. Then shuffle your deck.",
+   "flavor_text": "\"That was pretty scary~\" -Shaela, the Mermaid Princess",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3251",
+   "name": "Keez Corkscrew",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3251/image_en/16ef2f76-ca11-4b18-be4a-bb5188c5cf61.jpg",
+   "number": "TSW-062",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Go, Keez!\" -Shaela, the Mermaid Princess",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3252",
+   "name": "Keez, the Electric Dolphin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3252/image_en/3bd45638-4f15-4e27-8d7d-47ce121074d7.jpg",
+   "number": "TSW-063",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dolphin",
+   "artist": "Yukie TAJIMA",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card cannot be blocked as long as the weather is thunderstorm.",
+   "flavor_text": "Faster than a speeding bullet.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3253",
+   "name": "Lightning Cave",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3253/image_en/6adb8c29-1d6d-4fd1-ae92-1e4f9eb23b59.jpg",
+   "number": "TSW-064",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "douzen",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: The weather is thunderstorm until end of turn. Play this ability only if the weather is rain.",
+   "flavor_text": "Those with freedom in the air my find they have not in the sea.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3254",
+   "name": "Lightning Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3254/image_en/42ec21f2-2448-43e1-a4db-effef462853a.jpg",
+   "number": "TSW-065",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Ippei SOEDA",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card cannot attack unless the weather is thunderstorm.",
+   "flavor_text": "Lightning dances in the skies.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3255",
+   "name": "Lightning Phantom",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3255/image_en/994a39d1-757b-4560-ada0-d19f09483d58.jpg",
+   "number": "TSW-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[u]: The weather is thunderstorm until end of turn. Play this ability only if the weather is rain.",
+   "flavor_text": "An omen of a thunderstorm.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3256",
+   "name": "Lightning Shield",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3256/image_en/51f2a261-aa68-4ea1-bbd1-3abaf0b689c4.jpg",
+   "number": "TSW-067",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yuhki lily",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Go numb again!\" -Shaela, the Mermaid Princess",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3257",
+   "name": "Lonely Moon Wererabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3257/image_en/535f98e8-c4dd-44e1-998b-3fe51bb18f3e.jpg",
+   "number": "TSW-068",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "Nekobayashi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card gains [+400/+400] as long as you don't control another resonator.",
+   "flavor_text": "The moon silently weeps.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3258",
+   "name": "Lunar Prophet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3258/image_en/4989b09d-a7a6-4154-8385-8a9efea7be5d.jpg",
+   "number": "TSW-069",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "Nakaba Higurashi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Look at the top card of your deck. You may put it on the bottom of your deck. Draw a card.",
+   "flavor_text": "Beneath the moon, Gill met a mysterious prophet.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3259",
+   "name": "Magic Electric Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3259/image_en/a9b8f48b-35df-4849-897a-f57d2f08ca1e.jpg",
+   "number": "TSW-070",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "M ganzy",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card is mobilized and gains \"Whenever this card attacks or blocks ⇒ Rest target J/resonator.\", as long as the weather is thunderstorm.",
+   "flavor_text": "Electricity has dynamic power, and attack power.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3260",
+   "name": "Mephina, Thunder Cloud Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3260/image_en/33793fc8-ee68-4253-9fd4-b0baa9170031.jpg",
+   "number": "TSW-071",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "Nekobayashi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nIf a spell or ability you control would change a player's weather, that player's weather changes to thunderstorm instead.",
+   "flavor_text": "Shaela and Mephina gained new powers.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3261",
+   "name": "Mermaid Researcher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3261/image_en/d2bdbab4-dabb-4a1c-9c34-9cb676a587b2.jpg",
+   "number": "TSW-072",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "yua",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Target resonator of the chosen race gains [+200/+200] until end of turn.",
+   "flavor_text": "\"Hm? Hmmm, this fish. Has it been here since ancient times?\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3262",
+   "name": "Raijuu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3262/image_en/1e3a4e82-6d4a-4450-83b0-25b0a9f998f2.jpg",
+   "number": "TSW-073",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Hayama Kohei",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nIf the weather is thunderstorm, you may pay [2] less to play this card.",
+   "flavor_text": "This creature's speed only increases during thunderstorms.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3263",
+   "name": "Rebellious Soul, Ayu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3263/image_en/2e38b8b3-cc34-46cd-891d-1a62ec5a60b5.jpg",
+   "number": "TSW-074",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wererabbit/Soul",
+   "artist": "Misa Tsutsui",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card gains \"[rest]: This card becomes a copy of target J-ruler your opponent controls, except it doesn't become a J-ruler and it's still a resonator.\" as long as your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\". (This card is a resonator, not a J-ruler.)",
+   "flavor_text": "”Evil never prospers! Because winners aren't evil!”",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3264",
+   "name": "Sea Serpent",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3264/image_en/dd4b386b-05c6-40f1-9713-9a4c0ac273cf.jpg",
+   "number": "TSW-075",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Moopic",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card cannot be returned to its owner's hand.",
+   "flavor_text": "Not even a powerful wave can shake it.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3265",
+   "name": "Shaela",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3265/image_en/7a9aa629-9068-438d-be94-35ff347d2d86.jpg",
+   "number": "TSW-076",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Mermaid",
+   "artist": "SIE NANAHARA",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Search your deck for a card named \"Weather Change: Rain\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Shaela returned from the Lightning Cave with a mind to call her new power the Thunder Parasol.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3266",
+   "name": "Shaela, the Mermaid Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3266/image_en/af514723-0e8e-4463-a77d-a3cecea06da8.jpg",
+   "number": "TSW-076J",
+   "rarity": "JR",
+   "att_def": "1000 / 1200",
+   "type": "J-Ruler",
+   "race": "Mermaid",
+   "artist": "SIE NANAHARA",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "flavor_text": "\"This is where the shocks begin.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3267",
+   "name": "Shaela's Adventure",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3267/image_en/77b38327-3424-47b9-9d18-10aad5d727db.jpg",
+   "number": "TSW-077",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Shaela entered the Lightning Cave, and felt a new will welling up inside her.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3268",
+   "name": "Shaela's Battle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3268/image_en/aa3b9cd9-3077-4063-a31c-b80a954f3d6e.jpg",
+   "number": "TSW-078",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "douzen",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"There's no way I can lose now.\" -Shaela, the Mermaid Princess",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3269",
+   "name": "Silent Mermaid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3269/image_en/ce5307ba-657a-4a7d-afcd-1b067d554444.jpg",
+   "number": "TSW-079",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "lack",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nAs long as the weather is thunderstorm, your opponent cannot play cards during your turn.",
+   "flavor_text": "When assailed by a terrible thunderstorm, all you can do is wait for it to pass.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3270",
+   "name": "Small Whale",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3270/image_en/794e7a8d-b1fe-4bf9-b801-aa4d066bc3a3.jpg",
+   "number": "TSW-080",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Whale",
+   "artist": "Sanosuke Sakuma",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[u]: This card gains [0/+200] until end of turn.",
+   "flavor_text": "While it may be cute, chasing it will lead you into a powerful current.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3271",
+   "name": "Soaked Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3271/image_en/06f575bc-673a-41b1-a26c-751169a8f303.jpg",
+   "number": "TSW-081",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 500",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Tsukumi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card gains [+600/0] as long as the weather is thunderstorm.",
+   "flavor_text": "The panda realized that being drenched wasn't so bad.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3272",
+   "name": "Thunder Call",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3272/image_en/9a8d0093-6414-4fda-ad31-04030e607807.jpg",
+   "number": "TSW-082",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "BANAMONS*",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Shaela's magic caused a bolt of lightning to surge through the sky.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3273",
+   "name": "Thunder Wave",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3273/image_en/8adaf181-7ae0-4fff-a2d9-3ea01cb641fb.jpg",
+   "number": "TSW-083",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yukie TAJIMA",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"I'm counting on you, Keez!\" -Shaela, the Mermaid Princess",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3274",
+   "name": "Thunderstorm",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3274/image_en/9596b875-5886-4299-9363-a0807bf4f241.jpg",
+   "number": "TSW-084",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Without warning.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3275",
+   "name": "Treachery",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3275/image_en/c8c908d7-769b-44f6-a0c1-263e7278f8d8.jpg",
+   "number": "TSW-085",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Misa Tsutsui",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Your attacks are pretty useless too.\" -Rebellious Soul, Ayu",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3276",
+   "name": "Witch's Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3276/image_en/a3ed304d-de00-4bfb-80fc-a70bb3374a02.jpg",
+   "number": "TSW-086",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"She's coming.\" -Reiya, Fourth Daughter of the Mikage",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3277",
+   "name": "Approaching the Truth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3277/image_en/1b12bf14-8452-40aa-b822-a29462a41bb8.jpg",
+   "number": "TSW-087",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "gekko",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"My vision...could it mean?\" -Gill, the Gifted Conjurer",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3278",
+   "name": "Cleaning Doll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3278/image_en/71fb37eb-4ecf-4097-8510-14ca0d0fbbb5.jpg",
+   "number": "TSW-088",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "Shirono Muku",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target non-magic stone, non-J/resonator entity. If you do, you may flip a card in your extra deck face down.",
+   "flavor_text": "It's easy to make a lot of cleaning progress when there's a lot of garbage.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3279",
+   "name": "Doll Audience",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3279/image_en/875e540c-5004-473f-aeaa-b2c3ff5a5939.jpg",
+   "number": "TSW-089",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "Miko Yamazaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Target resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "An excited audience makes for a more interesting story.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3280",
+   "name": "Enormous Effigy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3280/image_en/9f42bc55-4596-4a47-acfe-93bca9ab5d90.jpg",
+   "number": "TSW-090",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1300 / 1300",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "Cola",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen a resonator deals damage to this card ⇒ Destroy that resonator.",
+   "flavor_text": "No need to drive a nail into it. It'll just crush you.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3281",
+   "name": "Evil Djinni",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3281/image_en/627ec445-d5bf-41da-a4b2-373d21bff572.jpg",
+   "number": "TSW-091",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Moopic",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "It grants wishes...but...",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3282",
+   "name": "Intervention of Reality",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3282/image_en/7ce65658-f375-4005-9526-807b06cfb675.jpg",
+   "number": "TSW-092",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ShiroYayoi",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"The boundary between story and reality is thin.\" -Scheherazade of the Catastrophic Nights",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3283",
+   "name": "Last Days of a Powerless Dragonoid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3283/image_en/fa066e6e-82b0-4f1b-9c84-ee5ea13d83cc.jpg",
+   "number": "TSW-093",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "Nakaba Higurashi",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"The dragonoid.\" \"The dragonoid?\" \"Grew so hungry he couldn't move.\" \"That sounds like the protagonist from something else!\" -Eve and Eva",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3284",
+   "name": "Laurite, Seven Luminaries Astrologian",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3284/image_en/048fcdbc-a31c-4bf1-a32a-15be4712999b.jpg",
+   "number": "TSW-094",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 200",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Kelvin",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nRemove three Spirit Magics in your graveyard from the game: Put this card from your graveyard into your hand.",
+   "flavor_text": "\"Pipe down for a moment.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3285",
+   "name": "Laurite's Deletion Magic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3285/image_en/713d1b2b-a630-4253-936e-a8b0f4464405.jpg",
+   "number": "TSW-095",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "SO",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"The master's magic is incredible.\" -Mercurius, Student of Laurite",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3286",
+   "name": "Laurite's Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3286/image_en/b67e7cfa-673e-4d0e-b0cf-f25b0636fbb1.jpg",
+   "number": "TSW-096",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "gozz",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"The master's defense magic is supreme.\" -Sol, Student of Laurite",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3287",
+   "name": "Leaf Guardsman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3287/image_en/2f277685-dc12-4458-9211-c5f3629025f1.jpg",
+   "number": "TSW-097",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 700",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "yuhki lily",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Leaf Guardsman\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Who is this who has business with an old man?\" -Laurite, Seven Luminaries Astrologian",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3288",
+   "name": "Leaf Reflector",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3288/image_en/14d145e2-0833-45a5-9377-1fb7a78c1f49.jpg",
+   "number": "TSW-098",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "sasaki kounosuke",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever a chant deals damage to this card ⇒ This card deals that much damage to your opponent.",
+   "flavor_text": "\"Old man Laurite, I finally found you.\" -Gill, the Gifted Conjurer",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3289",
+   "name": "Leaf Steward",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3289/image_en/59d8af0c-65be-454e-b29d-766849f692ef.jpg",
+   "number": "TSW-099",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "AKI",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Target resonator in your graveyard gains Elemental in addition to its other races until end of turn.",
+   "flavor_text": "A faithful companion until the grave.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3290",
+   "name": "Null Page",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3290/image_en/725aae38-f2a8-4ea6-9ec7-a92d4bb32b52.jpg",
+   "number": "TSW-100",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Misa Tsutsui",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nAs long as there is a card in any removed area that was removed by this card, your opponent cannot play cards that share a name with that card.",
+   "flavor_text": "This will decide what is written on the page.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3291",
+   "name": "Patrolling Guard Doll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3291/image_en/191dbd32-d2e1-4ae2-97ae-1219913a10ef.jpg",
+   "number": "TSW-101",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "haniwa",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "A whistling alarm sounds that only dolls can hear.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3292",
+   "name": "Puppet Maker",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3292/image_en/e3928388-ca85-4bb0-8191-b10623f43c09.jpg",
+   "number": "TSW-102",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Miko Yamazaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever a Doll enters the field under your control ⇒ Draw a card.",
+   "flavor_text": "Thanks to this man, Scheherazade's supply of dolls is limitless.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3293",
+   "name": "Rachel, the Ancient Library Researcher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3293/image_en/25f382d5-76be-4ebd-907a-adbb052874d9.jpg",
+   "number": "TSW-103",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "gajumaru",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card leaves the field ⇒ Search your deck for a card and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Too many strange things are happening. What in the world is going on.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3294",
+   "name": "Scarlet's Agony",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3294/image_en/0ee22bc7-65d6-4623-bb64-64c6760b546d.jpg",
+   "number": "TSW-104",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "Miko Yamazaki",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Go back to reality!\" \"ShUt uP!\" -Red Riding Hood and Scarlet",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3295",
+   "name": "Scheherazade's Marionette",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3295/image_en/72408f69-2504-4304-80b3-b9fd2601d7d4.jpg",
+   "number": "TSW-105",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "kakiken",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
+   "flavor_text": "The doll continued to dance mindlessly.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3296",
+   "name": "Secluded Village Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3296/image_en/9e0d0daa-e13a-4b2e-9287-80d9cc6a5628.jpg",
+   "number": "TSW-106",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "touge369",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Produce [g].",
+   "flavor_text": "From the destroyed portal, Cecil and Tia made for the secluded village.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3297",
+   "name": "Shifting Minstrel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3297/image_en/70b5ec4a-ebb4-4451-9f82-219d83953ccf.jpg",
+   "number": "TSW-107",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "uekino aroe",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Now then, everyone, would you like to hear a story?\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3298",
+   "name": "Small Flatterer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3298/image_en/65147aeb-529b-44cf-a8fa-a236165f05ec.jpg",
+   "number": "TSW-108",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ComamitsuZaki",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Watch where you step.\" \"O-okay.\" -Ciel and Lily",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3299",
+   "name": "Speaker of Eternal Night",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/3299/image_en/30b9bece-83fc-4acf-bf2f-40863757da25.jpg",
+   "number": "TSW-109",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "noki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[0]: Reveal a face-down card from your extra deck and keep it revealed until end of game. You may copy that card. If you do, you may play the copy. (You have to pay its cost.) Play this ability only once per turn.",
+   "flavor_text": "A story with no end, means a night that lasts forever.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3300",
+   "name": "Scheherazade of the Catastrophic Nights",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3300/image_en/7fc2c266-f9c5-463b-86e2-d27803afcc6f.jpg",
+   "number": "TSW-109J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Human",
+   "artist": "noki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put target Doll from your graveyard into the field.",
+   "flavor_text": "\"Dance, my puppets. Dance towards demise.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3301",
+   "name": "Story Listener, Eva",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3301/image_en/863a9319-54f1-443c-818c-4ab317919c7f.jpg",
+   "number": "TSW-110",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "ComamitsuZaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card gains [+100/+100] for each card revealed from your extra deck.",
+   "flavor_text": "Eva listened to Eve's story intently.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3302",
+   "name": "Story Speaker, Eve",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3302/image_en/945f30b9-88ba-4879-9e92-a1f850d3afb6.jpg",
+   "number": "TSW-111",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "ComamitsuZaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put target resonator your opponent controls with total cost X or less on the bottom of its owner's deck, where X is the number of cards revealed from your extra deck.",
+   "flavor_text": "Eve told a story of cruelty.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3303",
+   "name": "The Ancient Library",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3303/image_en/eef8b595-2313-4af9-8096-7dfe3de19135.jpg",
+   "number": "TSW-112",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Yuko Nagasaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nWind chants you control and you own everywhere gain Spirit Magic in addition to their other subtypes.",
+   "flavor_text": "Ancient tomes of long lost undeciphered knowledge lie in wait.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3304",
+   "name": "The Mighty Leaf Elder",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3304/image_en/e9685803-b801-4300-8ce5-25cf51cb7948.jpg",
+   "number": "TSW-113",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "noki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nOther resonators you control with \"Leaf\" in their names gain [+200/+200].",
+   "flavor_text": "The elder's calm presence emboldened the other elementals.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3305",
+   "name": "The Puppet's Last Days",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3305/image_en/70538ce5-5733-4282-9086-739f02b033d6.jpg",
+   "number": "TSW-114",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "ShiroYayoi",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Nice pitching!\" -Story Listener, Eva",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3306",
+   "name": "Unanswered Mermaid Prayers",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3306/image_en/c09585e8-6ea2-4a41-a5a3-637291357dea.jpg",
+   "number": "TSW-115",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "Nekobayashi",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Let the weather be clear tomorrow!\" \"That's right.\" \"But it'll be tough for the mermaids.\" \"How fun!\" -Eve and Eva",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3307",
+   "name": "Black Fang Tyrannosaurus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3307/image_en/56562ead-1313-4986-87ce-8412db92808c.jpg",
+   "number": "TSW-116",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "suranaki",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Strong fang means strong pain.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3308",
+   "name": "Black Star, Blazer Thieves Gang Leader",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3308/image_en/ab767af6-c6e6-4106-a2e9-f8d36091f915.jpg",
+   "number": "TSW-117",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "hatarisu",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nBanish a fire gem: This card gains [Swiftness] until end of turn.",
+   "flavor_text": "\"A thief must be courageous and swift!\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3309",
+   "name": "Black Tears",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3309/image_en/f98b75d1-6a31-4a47-ba45-2455d2135c72.jpg",
+   "number": "TSW-118",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "gekko",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Whose tears are these?\" \"That's.\" \"That's?\" \"A story for next time!\" \"It's a promise!\" -Eve and Eva",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3310",
+   "name": "Black Wing Dinosaur",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3310/image_en/a397f638-9743-4aac-af1f-d7c252556a04.jpg",
+   "number": "TSW-119",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "800 / 600",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Nanami Lusia",
+   "expansion": "The Time Spinning Witch",
+   "text": "Continuous\nThis card gains [-100/0] for each card in your hand.",
+   "flavor_text": "The dinosaurs influenced by Scarlet instantly turned to ferocious creatures.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3311",
+   "name": "Blazer Thieves Gang Underling",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3311/image_en/3c381c52-1e8b-435d-8739-25d4d85bd17b.jpg",
+   "number": "TSW-120",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Each player discards a card.",
+   "flavor_text": "\"If I don't meet the quota, the boss is going to be so angry.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3312",
+   "name": "Bloodsucking Butler, Reiya's Attendant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3312/image_en/fd797220-06a4-44ce-801f-68ae9d3edb24.jpg",
+   "number": "TSW-121",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "BANAMONS*",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nRemove a mystery counter from your J/ruler: Target J/resonator gains [-200/-200] until end of turn.",
+   "flavor_text": "He pondered the tea time menu during the fight.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3313",
+   "name": "Crumbling Majin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3313/image_en/435344dc-a0cd-4949-ad03-bdb7ab819e2d.jpg",
+   "number": "TSW-122",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "KONNO Takashi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Your opponent discards a card.",
+   "flavor_text": "With the Demon King's defeat, the majin began to crumble.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3314",
+   "name": "Dark Elf Gravekeeper",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3314/image_en/589781d9-823f-42dd-8f8e-eb7a468037b3.jpg",
+   "number": "TSW-123",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 300",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Saiko Takaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a Dark Elf and put it into your graveyard. Then shuffle your deck.",
+   "flavor_text": "\"Be at peace, my comrades.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3315",
+   "name": "Dark Impact",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3315/image_en/20f04bdb-c480-4db9-973c-9d02e3b4bd14.jpg",
+   "number": "TSW-124",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kakiken",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "”DiSaPpEaR!” -Scarlet, the Crimson Beast",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3316",
+   "name": "Dark Riding Hood, Messenger of Truth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3316/image_en/907fdffc-cf83-43ca-b295-eee31ed03aad.jpg",
+   "number": "TSW-125",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Matsurika Yoko",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nRemove a mystery counter from your J/ruler: Invert this card.",
+   "flavor_text": "\"I've been wanting to meet you.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3317",
+   "name": "Red Riding Hood, Recovered Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3317/image_en/c67d2e6c-552c-49eb-a343-eb163b895561.jpg",
+   "number": "TSW-125*",
+   "rarity": "R",
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale/Inverse",
+   "artist": "Matsurika Yoko",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"I will show you how to heal. I will show you this hope we call the future.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3318",
+   "name": "Disaster at Sasaru Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3318/image_en/885b9347-e2ce-45f0-899b-4d3c61a83f3a.jpg",
+   "number": "TSW-126",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "Miko Yamazaki",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Once upon a time, a panda died somewhere.\" \"That was fast!\" -Eve and Eva",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3319",
+   "name": "Embrace of Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3319/image_en/321977b8-e5c9-4086-83b1-555986e60543.jpg",
+   "number": "TSW-127",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Matsurika Yoko",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Sleep now. No more pain.\" -Dark Riding Hood, Messenger of Truth",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3320",
+   "name": "Evil Elemental Uprising",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3320/image_en/337aa719-5723-4de7-99ac-ad19eb6be80f.jpg",
+   "number": "TSW-128",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "haniwa",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"By the time he noticed, it was clean and empty.\" \"I like clean!\" -Eve and Eva",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3321",
+   "name": "Final Words",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3321/image_en/c255583c-8ae8-44e1-b219-87c38441e466.jpg",
+   "number": "TSW-129",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirai Hidemi",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"So this...is the power of Mikage...\" -Welser, King of Demons",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3322",
+   "name": "Grimm of the Crimson Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3322/image_en/dfbdea6c-58ea-488e-9925-087b22c87c75.jpg",
+   "number": "TSW-130",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale/Vampire",
+   "artist": "Haruichi Kido",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever you do judgment of a ruler ⇒ You may remove two mystery counters from your J/ruler. If you do, invert this card.",
+   "flavor_text": "Eternity repeats, and a crimson moon shone in the night sky once more.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3323",
+   "name": "Grimm, Hope from the Future",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3323/image_en/afade51f-cd22-4f62-bdc6-da1ce886d867.jpg",
+   "number": "TSW-130*",
+   "rarity": "SR",
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human/Inverse",
+   "artist": "Haruichi Kido",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card inverts ⇒ Target non-magic stone entity loses [Imperishable] and \"This card cannot be destroyed.\" until end of turn. Then destroy that entity.",
+   "flavor_text": "A light that was once stained in darkness. But the will of hope never fades.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3324",
+   "name": "Heavenly Fruit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3324/image_en/47c80c3f-55c9-4e2e-b2d9-d18913160fa9.jpg",
+   "number": "TSW-131",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yuko",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "A heaven for her is a hell for all others.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3325",
+   "name": "Kurosaurus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3325/image_en/80b5956c-a17a-4eea-8512-1b732bf60b03.jpg",
+   "number": "TSW-132",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Shosuke",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "An insatiable hunger.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3326",
+   "name": "Lily, the Last Flower",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3326/image_en/0e3ca69a-dad1-415b-b924-1f24ee42f5ef.jpg",
+   "number": "TSW-133",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "ishishou",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\nRemove a Dark Elf in your graveyard from the game: Put a [+100/+100] counter on this card. This card gains [Drain] until end of turn.",
+   "flavor_text": "Frayla's last daughter became the last hope of the dark elves.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3327",
+   "name": "Lily's Protector",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3327/image_en/a4c3925d-809c-4c25-9c50-8bcb08635793.jpg",
+   "number": "TSW-134",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dark Elf/Ethereal",
+   "artist": "ishishou",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card in your graveyard is removed from the game ⇒ Target Dark Elf gains [Barrier] until end of turn.",
+   "flavor_text": "To protect Lily became the dark elves' final reason to live.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3328",
+   "name": "Look of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3328/image_en/b09b72e9-ed0d-4de1-9e99-ce9a3a4c86e9.jpg",
+   "number": "TSW-135",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "JURI",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Scarlet's eyes told a story of lies and truths.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3329",
+   "name": "Lurker in the Null",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3329/image_en/1bfc582a-384e-47c9-869a-90f6f5909c8a.jpg",
+   "number": "TSW-136",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "jugemt",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever this card deals damage to a resonator ⇒ Destroy that resonator.",
+   "flavor_text": "A being that exists only to end lives.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3330",
+   "name": "Null Illusion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3330/image_en/66957bac-395d-4df6-b652-f68e4a87080d.jpg",
+   "number": "TSW-137",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "tokiwa",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "When all is nothingness, all that can rightly exist are lies.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3331",
+   "name": "Refuse Collector",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3331/image_en/17150292-4591-4ef0-b476-a839f93f2b9e.jpg",
+   "number": "TSW-138",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "gajumaru",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever a player discards a card ⇒ Put a [+100/+100] counter on this card.",
+   "flavor_text": "\"One man's trash is another man's treasure.\"",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3332",
+   "name": "Revival of the Clan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3332/image_en/768ae991-8318-4cef-90fa-e801ecab108c.jpg",
+   "number": "TSW-139",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "tokiwa",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Welcome.\" -Reiya, Fourth Daughter of the Mikage",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3333",
+   "name": "Soul Concentration",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3333/image_en/02bfb744-1c73-4918-a358-ba669fb44b55.jpg",
+   "number": "TSW-140",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yua",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Reiya focused her senses.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3334",
+   "name": "Stagehand Doll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3334/image_en/b8c1199b-db7a-498d-829f-f7c9b542061d.jpg",
+   "number": "TSW-141",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 900",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever a resonator is put into your opponent's graveyard from a non-removed area. ⇒ Remove it from the game. You gain 200 life.",
+   "flavor_text": "Stagehands work unseen to make sure everything goes accordingly.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3335",
+   "name": "The Dusk Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3335/image_en/6a52bc56-ac1a-4eff-b7b7-7e281412ee63.jpg",
+   "number": "TSW-142",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Fairy Tale",
+   "artist": "yuko",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[r], discard a card: This card deals 500 damage to target resonator. This card deals 700 damage instead if you discarded a Dinosaur.",
+   "flavor_text": "The stands on the border of truth and lie.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3336",
+   "name": "Scarlet, the Crimson Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3336/image_en/b84e95ac-2c4f-454e-8c32-65c345dbdd40.jpg",
+   "number": "TSW-142J",
+   "rarity": "JR",
+   "att_def": "1000 / 200",
+   "type": "J-Ruler",
+   "race": "Cthulhu",
+   "artist": "yuko",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[r]: This card gains [+200/0] until end of turn.",
+   "flavor_text": "The girl's scars bled a brilliant crimson, and she became something far more monstrous and terrible.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3337",
+   "name": "Thought Control",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3337/image_en/93833518-be3e-40c4-af00-a2f0746a9c2c.jpg",
+   "number": "TSW-143",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "AKI",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Stories are not a democratic process.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3338",
+   "name": "Voidosaurus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3338/image_en/25ebab42-823e-4111-8eb2-30a8fda0cc73.jpg",
+   "number": "TSW-144",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1400 / 1400",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "gozz",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Though the creature's eyes were blank, its power continued to grow.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3339",
+   "name": "Null Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3339/image_en/ea20b68c-972f-4170-9a1b-affe49c0596e.jpg",
+   "number": "TSW-145",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yuko",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Fiction, reality. All will burn.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3340",
+   "name": "Ruined Story",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3340/image_en/55de6e14-7b02-4a7e-9d71-c6cee1882a49.jpg",
+   "number": "TSW-146",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Story",
+   "artist": "Moopic",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Jeers and boos from the doubtful audience could be heard.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3341",
+   "name": "Twin Blades of Hope and Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3341/image_en/c863f57c-a703-4f5d-a8bf-c45132a8280e.jpg",
+   "number": "TSW-147",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Mad",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"Hope is just someone's denial of their despair. Enough with these cheap tricks.\" -Princess of Fleeting Hope",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3342",
+   "name": "Sword of Fate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3342/image_en/bd2dd9bb-d9b9-474c-a7c2-1dc26efd3512.jpg",
+   "number": "TSW-147*",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Inverse",
+   "artist": "Mad",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Fate is terribly, horribly, unfair and cruel.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3343",
+   "name": "Magic Stone of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3343/image_en/de234f20-0a88-42e6-a5be-c03bdf87aa8f.jpg",
+   "number": "TSW-148",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Saiko Takaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Produce [w].",
+   "flavor_text": "Plant a seed of hope...",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3344",
+   "name": "Magic Stone of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3344/image_en/39f3259a-224c-4fdf-8d1f-1c9d3f971b39.jpg",
+   "number": "TSW-148*",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "race": "Inverse",
+   "artist": "Saiko Takaki",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Produce [w] or [b].",
+   "flavor_text": "...and watch despair bloom.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3345",
+   "name": "Null Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3345/image_en/ad84263b-af32-42a5-b808-55976c86dd5a.jpg",
+   "number": "TSW-149",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Nagi-nyan",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Produce [r]. This card deals 200 damage to you.",
+   "flavor_text": "A stone that grants power to those with none.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3346",
+   "name": "Speaking Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3346/image_en/174791ab-97ad-4607-a9f5-fc7c7b0d2268.jpg",
+   "number": "TSW-150",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Nekobayashi",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[rest]: Produce [b]. Spend this will only to play Story chants.",
+   "flavor_text": "A stone with unseen memories.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3347",
+   "name": "[Variant] White Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3347/image_en/0a189854-dd75-4c01-affd-01266f777f4d.jpg",
+   "number": "TSW-151",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Nakaba Higurashi",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "\"There. Now nothing should be troubling you.\" -Princess of Fleeting Hope",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3348",
+   "name": "[Variant] Mad Scarlasodon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3348/image_en/36e86506-eb6b-47a9-b1bd-713110209c39.jpg",
+   "number": "TSW-152",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "douzen",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhen this card enters the field ⇒ Discard a card.",
+   "flavor_text": "Like its master, it chases after things blindly.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3349",
+   "name": "[Variant] Small Whale",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3349/image_en/e455b2c6-b648-47d1-ae85-35d90d7d362b.jpg",
+   "number": "TSW-153",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 400",
+   "type": "Resonator",
+   "race": "Whale",
+   "artist": "Sanosuke Sakuma",
+   "expansion": "The Time Spinning Witch",
+   "text": "Activate\n[u]: This card gains [+200/0] until end of turn.",
+   "flavor_text": "While it may be cute, chasing it will lead you into a powerful current.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3350",
+   "name": "[Variant] Enormous Effigy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3350/image_en/95cd14a9-9db1-4754-97a3-0411166ac045.jpg",
+   "number": "TSW-154",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1300 / 1300",
+   "type": "Resonator",
+   "race": "Doll",
+   "artist": "Cola",
+   "expansion": "The Time Spinning Witch",
+   "text": "Automatic\nWhenever damage is dealt to you ⇒ This card deals that much damage to your opponent.",
+   "flavor_text": "No need to drive a nail into it. It'll just crush you.",
+   "all_sets": "The Time Spinning Witch"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3351",
+   "name": "[Variant] Voidosaurus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/3351/image_en/83cca403-7ff7-40a9-9cf5-ccd986ffc965.jpg",
+   "number": "TSW-155",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1400 / 1400",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "gozz",
+   "expansion": "The Time Spinning Witch",
+   "flavor_text": "Though the creature's eyes were blank, its power continued to grow.",
+   "all_sets": "The Time Spinning Witch"
+  }
+ ]
+}

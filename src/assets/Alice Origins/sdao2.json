@@ -1,0 +1,737 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/4409",
+   "name": "Barust, the Machine God of Conflagration (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4409/image_en/947fda42-57f8-4319-ae39-232751314e60.jpg",
+   "number": "SDAO2-001",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator (Stranger)",
+   "race": "Demon",
+   "artist": "Zton",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Continuous\nResonators you control gain [+200/0] while attacking.",
+   "flavor_text": "”One seeks a cure for a relative. One wants to destroy them to free the world. One seeks to return to her former self, and one wants to save a friend and his people. But the last one just wants to dominate...\" —Note of Magna 15",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4410",
+   "name": "Blue Wizard (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4410/image_en/3433d6fe-a2c9-4a00-9439-5d41700f1acf.jpg",
+   "number": "SDAO2-002",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator (Stranger)",
+   "race": "Wizard",
+   "artist": "MOGUMO",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Cancel target automatic ability of a resonator.",
+   "flavor_text": "\"She had concealed her ambition quite cleverly, but this mage can't hide from me. She has me worried, though.\" —Note of Magna 16",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4411",
+   "name": "Charm of the Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4411/image_en/ed4616a8-1610-4269-8b7f-8dab683a08dc.jpg",
+   "number": "SDAO2-003",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "j-peg",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "flavor_text": "\"Look carefully, this is what reigning means.\" -Valentina, the Princess of Love",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4412",
+   "name": "Cinderella, the Valkyrie of Glass",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4412/image_en/a4e42b85-d1bc-41c0-80b7-a7df04c9a022.jpg",
+   "number": "SDAO2-004",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Foo Midori",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\n[U][U]: Return this card to its owner's hand.",
+   "flavor_text": "The beautiful and transparent princess made of glass.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4413",
+   "name": "Perceval, the Charmed Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4413/image_en/c0ddf833-74e1-402c-ad75-a7110fdc3a28.jpg",
+   "number": "SDAO2-005",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "jugemt",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\nBanish this card: Foresee 1.",
+   "flavor_text": "The blue Holy Grail responds to the charm of Valentina.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4414",
+   "name": "Triton, the Prince of Ocean (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4414/image_en/9c5424a0-9187-4b7b-a117-c94b194cd7e3.jpg",
+   "number": "SDAO2-006",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator (Stranger)",
+   "race": "God",
+   "artist": "pochiharu",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Continuous\nOther water J/resonators you control gain [+200/+200].",
+   "flavor_text": "\"They will discover Vell-Savaria and find some regalia there. The mage will most likely betray them, but I dare not to interfere too much with the events of this world.\" —Note of Magna 17",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4415",
+   "name": "Valentina's Zealot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4415/image_en/c7e52ec3-a672-4965-9c7c-5673b309b9f5.jpg",
+   "number": "SDAO2-007",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 500",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "Mita Kosuke",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\nBanish this card: Your J-ruler cannot be targeted by chants or abilities until end of turn.",
+   "flavor_text": "To a fanatic, death isn't always such a bad thing.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4416",
+   "name": "Afanc, the Phantom Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4416/image_en/6d2e51e6-de1e-4841-8c1c-531f1f5d793d.jpg",
+   "number": "SDAO2-008",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "hatarisu",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "That figure instilled a little courage in the heart of those who saw it.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4417",
+   "name": "Deep Green Magician, Liz (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4417/image_en/40177f52-bd91-4e76-8671-fd80c3831bed.jpg",
+   "number": "SDAO2-009",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator (Stranger)",
+   "race": "Elf",
+   "artist": "toridamono",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Cancel target chant spell.",
+   "flavor_text": "\"Yggdrasil's little girl awakened her powers without knowing and will soon go confronting her fate.\" —Note of Magna 12",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4418",
+   "name": "Friendly Seeking Mole",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4418/image_en/d1e2c3d2-a4e3-43a4-b498-c7040a2c8dde.jpg",
+   "number": "SDAO2-010",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Haruki Komai",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Put a friendship counter on your J/ruler. Then, if there are three or more friendship counters on your J/ruler, search your deck for a wind regalia, reveal it, and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Treasure is a proof of friendship.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4419",
+   "name": "Green Wizard (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4419/image_en/b3a8449e-1dc5-4361-968a-7e081d85a6ec.jpg",
+   "number": "SDAO2-011",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator (Stranger)",
+   "race": "Wizard",
+   "artist": "Kitakaze Tomohiro",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\n[G]: Target J/resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "\"My regalia will have a big impact on the people of this world, although those with more talent will also be more affected by them.\" —Note of Magna 11",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4420",
+   "name": "Herald of the Beast Lady",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4420/image_en/1383acf8-f04f-454d-842c-781f3078e80e.jpg",
+   "number": "SDAO2-012",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Sanosuke Sakuma",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "flavor_text": "The Beast Lady is not acting with the aim of conquering. Even ruling is simply part of the game.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4421",
+   "name": "Pricia's Encouragement",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4421/image_en/9c053d08-8bcd-4b61-975b-320e74a12a7a.jpg",
+   "number": "SDAO2-013",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "QK",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "flavor_text": "\"Go! Hang in there! Don't lose!\" —Pricia",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4422",
+   "name": "Rapid Growth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4422/image_en/3aca2da4-70fd-4708-a10c-812e8465ad0c.jpg",
+   "number": "SDAO2-014",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "matataku",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "flavor_text": "The miracle that the world achieved.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4423",
+   "name": "Sprinting Wolf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4423/image_en/c41f4bf8-c47c-4d41-b5b7-c24ec789590d.jpg",
+   "number": "SDAO2-015",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Yuji Azuma",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "flavor_text": "\"How rude! I hate the savages!\" -Valentina, the Princess of Love",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4424",
+   "name": "Yggnitsvay, the Guardian of Green Branch (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4424/image_en/ec8d4f02-30ef-484b-97c4-e05c2617b21d.jpg",
+   "number": "SDAO2-016",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator (Stranger)",
+   "race": "Spirit",
+   "artist": "hakurou",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Recover target J/resonator.",
+   "flavor_text": "\"However, somebody not of this world already sensed the power of my regalia, and is searching for them, he might even find my city, Vell-Savaria.\" —Note of Magna 13",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4425",
+   "name": "Loki, the Ancient Demon Lord (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4425/image_en/ba0825b6-0378-48a4-91e9-8ed7f5c5f469.jpg",
+   "number": "SDAO2-017",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/07.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator (Stranger)",
+   "race": "God",
+   "artist": "ishishou",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Remove all other resonators from the game.",
+   "flavor_text": "\"Because the fate of this world should be in the hands of the people of this world, not mine.\" —Note of Magna 18",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4426",
+   "name": "Awakening of the Beast Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4426/image_en/6305c6c3-244a-4ce3-81f6-3e88eb8cee1a.jpg",
+   "number": "SDAO2-018",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "uekino aroe",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "flavor_text": "Pricia stood up to protect her home and playground, not knowing that her actions would change the fate of the world.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4427",
+   "name": "Claw of the Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4427/image_en/26e95914-6f58-49a9-a068-054db912d549.jpg",
+   "number": "SDAO2-019",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "fzwrAym",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\n[Rest]: Produce two wills in any combination of [R] and/or [G]. Spend this will only to play God's Art abilities, (Strangers), or Sword Arts.",
+   "flavor_text": "The bond of friendship becomes power and overcomes all obstacles.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4428",
+   "name": "El Chif?n, the Pet Dragon of the Lord of the Seas",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4428/image_en/dbfc6c41-4c3c-4942-95cb-1ed5ad400d00.jpg",
+   "number": "SDAO2-020",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Kotakan",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Destroy all resonators with total cost 1 or less your opponent controls.",
+   "flavor_text": "It is still loyal to its lord, even when he is not himself anymore.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4429",
+   "name": "Eureka, the Puppet Lord of the Seas",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4429/image_en/0caf584e-f27c-4cec-8c4f-32f3886c7811.jpg",
+   "number": "SDAO2-021",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "King",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Continuous\nAs long as you control \"El Chif?n, the Pet Dragon of the Lord of the Seas\", this card gains [Flying] and [Barrier].",
+   "flavor_text": "Once bound, a soul will never be able to return.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4430",
+   "name": "Freya, the Goddess of Full Moon (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4430/image_en/d55de3c3-70c0-4335-9848-e40d73df9ae8.jpg",
+   "number": "SDAO2-022",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator (Stranger)",
+   "race": "Goddess",
+   "artist": "Pisuke",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Destroy target resonator with total cost 3 or less. You gain life equal to its DEF.",
+   "flavor_text": "\"However, if somebody from outside this world would try to take control of my regalia, then I will have to fight him. Otherwise, the fate of other worlds would be at stake as well.\" —Note of Magna 19",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4431",
+   "name": "Guardian of Outland (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4431/image_en/27763dc4-7f0c-4a82-a696-928fc4c078aa.jpg",
+   "number": "SDAO2-023",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 2000",
+   "type": "Resonator (Stranger)",
+   "race": "Treeman",
+   "artist": "KONNO Takashi",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\nAt the beginning of your turn ⇒ This card's ATK becomes equal to its DEF until end of turn.",
+   "flavor_text": "\"I met five travelers on the roads of this world, seeking the power of the regalia together, but each with their own secret agenda.\" —Note of Magna 14",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4432",
+   "name": "Lovers' Lock",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4432/image_en/3f281dac-fcf2-4d5a-bd59-093fc7b43260.jpg",
+   "number": "SDAO2-024",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "ishishou",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\n[Rest]: Produce two wills in any combination of [B] and/or [D]. Spend this will only to play God's Art abilities, (Strangers), or Mage Arts.",
+   "flavor_text": "\"A beautiful chain is the epitome of binding. When you notice, it's already too late.\" —Valentina",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4433",
+   "name": "Magna's Guardian Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4433/image_en/37482822-ccaa-4f85-a61e-092fc72cafd9.jpg",
+   "number": "SDAO2-025",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ You may search your deck for up to two resonators with total cost 1, and put them into the field. Then shuffle your deck.",
+   "flavor_text": "Magna sent his guardian beast to help Pricia's growth.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4434",
+   "name": "Masked Prince",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4434/image_en/b140a324-f25c-4b1e-bd83-1dc41e6a2f85.jpg",
+   "number": "SDAO2-026",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Kamijo Roro",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\n[Rest]: Put a glass counter on a \"Cinderella, the Valkyrie of Glass\" you control.",
+   "flavor_text": "Reality is stranger even than fairy tales.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4435",
+   "name": "Morrigan, the Goddess of Tragic Love (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4435/image_en/6357dadd-5b33-459d-b358-09b8403e3484.jpg",
+   "number": "SDAO2-027",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "900 / 1000",
+   "type": "Resonator (Stranger)",
+   "race": "Goddess",
+   "artist": "Hatori Kyoka",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Look at your opponent's hand. Choose a card. They remove that card from the game.",
+   "flavor_text": "\"For now, I will just keep watching the story of the ambitious mage and the innocent little girl.\" —Note of Magna 20",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4436",
+   "name": "Pricia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4436/image_en/7f51dd28-06fa-419c-bd25-0e6a5a792383.jpg",
+   "number": "SDAO2-028",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Little Girl",
+   "artist": "fzwrAym",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\nWhenever a wind regalia enters the field under your control ⇒ Choose one, if the regalia is \"Claw of the Sacred Beast\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or put a [600/600] wind Beast resonator token into the field; or put two friendship counters on this card; or you may pay [0] to do judgment until end of turn.",
+   "flavor_text": "An innocent girl growing up in the forest of Sissei, making fast friends with beasts and animals.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4438",
+   "name": "Space-Time Anomaly",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4438/image_en/49213268-d392-4e1c-870c-3bc0148b570b.jpg",
+   "number": "SDAO2-029",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "touge369",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "flavor_text": "The weak shall be disposed of.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4439",
+   "name": "The Princess of Love Takes Control",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4439/image_en/ead488a2-d5d5-4692-a119-e91b63a8d80f.jpg",
+   "number": "SDAO2-030",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "yua",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "flavor_text": "With the arrival of Valentina, Shangri-La entered a time of prosperity and growth.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4440",
+   "name": "Valentina",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4440/image_en/ca1f62c0-30fc-491c-854d-a251297eda94.jpg",
+   "number": "SDAO2-031",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Wizard",
+   "artist": "ishishou",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\nWhenever a water regalia enters the field under your control ⇒ Choose one, if the regalia is \"Lovers' Lock\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or return target resonator to its owner's hand; or target resonator's ATK becomes 0 until end of turn; or you may pay [0] to do judgment until end of turn.",
+   "flavor_text": "\"Your Majesty, please, rest assured. Leave everything to me, and all will be fine.\"",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4442",
+   "name": "World Tree Fox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4442/image_en/d70a1c3d-6568-4052-84c1-2b350bd44ef3.jpg",
+   "number": "SDAO2-032",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Miko Yamazaki",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Put a friendship counter on your J/ruler. Then, if there are three or more friendship counters on your J/ruler, choose a card from your Stranger deck at random and put it into your hand.",
+   "flavor_text": "\"A new friend? Glad to meet ya!\" —Pricia",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4443",
+   "name": "Attoractia’s Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4443/image_en/48349a2e-1664-4f71-9d99-20d8ee8b12d4.jpg",
+   "number": "SDAO2-033",
+   "type": "Special Magic Stone",
+   "artist": "Moopic",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "flavor_text": "\"This is the powersource Lord Magna made to extract the memories. He calls it a Memoria.\" Lenneth, the Priestess of Vell-Savaria",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4444",
+   "name": "Magic Stone of Blasting Waves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4444/image_en/b7d3bb59-1163-41f4-8d84-4e58c5f4ccfb.jpg",
+   "number": "SDAO2-034",
+   "type": "Special Magic Stone",
+   "artist": "kurisu",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4445",
+   "name": "Magic Stone of Dark Depth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4445/image_en/cfb972d1-475e-4024-955b-3e77dca0096e.jpg",
+   "number": "SDAO2-035",
+   "type": "Special Magic Stone",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "flavor_text": "Movements within the dark and murky depths.",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4446",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4446/image_en/6180b8b3-2a88-47af-b6ac-7bbee21587c5.jpg",
+   "number": "SDAO2-036",
+   "type": "Basic Magic Stone",
+   "artist": "KOBO",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4447",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4447/image_en/ee550c46-df76-42d5-8f5c-04044662e5f6.jpg",
+   "number": "SDAO2-037",
+   "type": "Basic Magic Stone",
+   "artist": "KOBO",
+   "expansion": "Alice Origin 2nd Start Deck",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Alice Origin 2nd Start Deck"
+  }
+ ]
+}

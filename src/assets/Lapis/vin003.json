@@ -1,0 +1,2108 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/503",
+   "name": "Arla, the Light Wing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/503/image_en/1485233481.jpg",
+   "number": "VIN003-001",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "KONNO Takashi",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[W][W][W], [rest]: Destroy target J/resonator with [Flying].",
+   "flavor_text": "\"I'll protect the skies forever. Artemis, lend me your power!\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/504",
+   "name": "Arthur, Paladin King of the Round Table",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/504/image_en/1485233482.jpg",
+   "number": "VIN003-002",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "Fumi Takamura",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nJ/resonators you control of the chosen race gain [+200/+200].",
+   "flavor_text": "\"I shall create a new round table.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/505",
+   "name": "Dragon Knight Commander, Siegfried",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/505/image_en/1485233484.jpg",
+   "number": "VIN003-003",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dragon Knight",
+   "artist": "saumaro",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nThis card gains [+600/+600] and [Flying] as long as you control a Dragon.",
+   "flavor_text": "Dragons rule the sky. Siegfried rules the dragons.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/506",
+   "name": "Faria, Paladin of the Dawn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/506/image_en/1485233485.jpg",
+   "number": "VIN003-004",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Paladin",
+   "artist": "Nekobayashi",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[W][W]: Cancel target spell or ability targeting this card.",
+   "flavor_text": "\"You want to take me on alone? Haha, this'll be interesting.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/507",
+   "name": "Gloria's Castle Town",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/507/image_en/1485233486.jpg",
+   "number": "VIN003-005",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Castle",
+   "artist": "FushikadKusanagi Tyouenen K.K.",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
+   "flavor_text": "Gloria lived a period of high prosperity under the guidance of the Sacred Queen.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/508",
+   "name": "Grimm, the Legendary King of Fairy Tales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/508/image_en/1485233488.jpg",
+   "number": "VIN003-006",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Haruichi Kido",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nThis card gains \"Whenever this card attacks or blocks ⇒ [Force]1. This card gains [+X00/+X00] until end of turn, where X is the result of the roll.\" as long as your J/ruler is \"Millium, Prince of the Light Palace\" or \"Millium, Voice of a New Generation\".",
+   "flavor_text": "Fairy Tales share bonds that span any distance.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/509",
+   "name": "Guardian of Light Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/509/image_en/1485233491.jpg",
+   "number": "VIN003-007",
+   "type": "Ruler",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\n[Resonance] Light Magic Stone ⇒ Target resonator you control gains [+200/+200] until end of turn.",
+   "flavor_text": "The light guardian welcomes all champions of justice.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/510",
+   "name": "Avatar of Light Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/510/image_en/1485233492.jpg",
+   "number": "VIN003-007J",
+   "att_def": "1000 / 1200",
+   "type": "J-ruler",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Destroy all non-magic stone, non-J-ruler cards.",
+   "flavor_text": "The avatar's light swallows all.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/511",
+   "name": "Knight Lord of Godspeed",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/511/image_en/1485233493.jpg",
+   "number": "VIN003-008",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "JURI",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ J/resonators you control gain [Precision] until end of turn.",
+   "flavor_text": "God like speed that brings victory on the battlefield.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/512",
+   "name": "Light Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/512/image_en/1485233495.jpg",
+   "number": "VIN003-009",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Haruichi Kido",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhenever you play a light chant ⇒ You gain 200 life.",
+   "flavor_text": "Light embodies healing and judgment.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/513",
+   "name": "Lumia, Saint of Creation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/513/image_en/1485233496.jpg",
+   "number": "VIN003-010",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "kurisu",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nYou may play cards removed by this card.",
+   "flavor_text": "Changing the world doesn't change her plans.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/514",
+   "name": "Manifestation of Power",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/514/image_en/1485233497.jpg",
+   "number": "VIN003-011",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Haruichi Kido",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"What is this power?\" -Millium, Prince of the Light Palace",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/515",
+   "name": "Protective Barrier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/515/image_en/1485233501.jpg",
+   "number": "VIN003-012",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "uekino aroe",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "Thanks to its protection, we are granted enough time to sharpen our blades once again.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/516",
+   "name": "Sol, Envoy of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/516/image_en/1485233503.jpg",
+   "number": "VIN003-013",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "YK",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your magic stone deck. If it's a non-special light magic stone, put it into your field.",
+   "flavor_text": "Bringer of pure, sacred light.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/517",
+   "name": "The Final Word",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/517/image_en/1485233506.jpg",
+   "number": "VIN003-014",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"Alice, don't worry about me! Run!\" —Faria, the Sacred Queen",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/518",
+   "name": "Zero's Magic Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/518/image_en/1485233507.jpg",
+   "number": "VIN003-015",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "saumaro",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"Disappear into the light!\" -Zero, Master of the Magic Saber",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/519",
+   "name": "Bahamut, Phantasmal Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/519/image_en/1485233508.jpg",
+   "number": "VIN003-016",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "kakotomirai",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ It deals 700 damage to target player or J/resonator.",
+   "flavor_text": "The proper offering can summon a great creature.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/520",
+   "name": "Barbatos, World's Greatest Eccentric",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/520/image_en/1485233510.jpg",
+   "number": "VIN003-017",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 100",
+   "type": "Resonator",
+   "race": "Daimyo",
+   "artist": "Haruichi Kido",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Rest all other J/resonators.",
+   "flavor_text": "\"Friends, enemies! Be quiet! It's my time to shine.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/521",
+   "name": "Barust, Machine Deity of Purgatory",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/521/image_en/1485233528.jpg",
+   "number": "VIN003-018",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "0 / 100",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "ShiroYayoi",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], banish two magic stones: Destroy target special magic stone.",
+   "flavor_text": "Power is attainable for a price.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/522",
+   "name": "Blood Boil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/522/image_en/1485233531.jpg",
+   "number": "VIN003-019",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Moopic",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "Ruin predates glory.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/523",
+   "name": "Burn to Cinders",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/523/image_en/1485233532.jpg",
+   "number": "VIN003-020",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "All was reduced to ashes, even the memory.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/524",
+   "name": "Cain, Treacherous Killer of the Gods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/524/image_en/1485233533.jpg",
+   "number": "VIN003-021",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Kusanagi Toyed",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest]: This card deals 200 damage to target opponent.",
+   "flavor_text": "\"God is dead!\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/525",
+   "name": "Certo, the Blazing Volcano",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/525/image_en/1485233534.jpg",
+   "number": "VIN003-022",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Mountain",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
+   "flavor_text": "The volcano is the future. Only the chosen ones will survive.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/526",
+   "name": "Demonflame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/526/image_en/1485233536.jpg",
+   "number": "VIN003-023",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagi-nyan",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"Burn!\" -Melgis, the Flame King",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/527",
+   "name": "Fire Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/527/image_en/1485233538.jpg",
+   "number": "VIN003-024",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "kawaryu",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhenever you play a fire chant ⇒ This card may deal 100 damage to target J/resonator.",
+   "flavor_text": "Fire embodies passion and conquest.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/528",
+   "name": "Guardian of Fire Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/528/image_en/1485233539.jpg",
+   "number": "VIN003-025",
+   "type": "Ruler",
+   "race": "Dragon",
+   "artist": "douzen",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\n[Resonance] Fire Magic Stone ⇒ This card may deal 200 damage to target resonator.",
+   "flavor_text": "The fire guardian welcomes all warriors with a fire in their heart.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/529",
+   "name": "Avatar of Fire Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/52/529/image_en/1485233541.jpg",
+   "number": "VIN003-025J",
+   "att_def": "1200 / 1000",
+   "type": "J-ruler",
+   "race": "Dragon",
+   "artist": "douzen",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nIf a resonator dealt damage by this card this turn would be put into a graveyard, remove it from the game instead.",
+   "flavor_text": "The avatar's fire burns all to ash.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/530",
+   "name": "Introspective Jutsu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/530/image_en/1485233542.jpg",
+   "number": "VIN003-026",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Hayama Kihei",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"My body's burning uuuuuup!\" -Fiery Chariot, Red Boy",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/531",
+   "name": "Melgis, King of Conquest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/531/image_en/1485233544.jpg",
+   "number": "VIN003-027",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Swordsman",
+   "artist": "gekko",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nPlayers cannot gain life.",
+   "flavor_text": "\"No running away from the fight this time, Faria.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/532",
+   "name": "Salamander, Envoy of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/532/image_en/1485233545.jpg",
+   "number": "VIN003-028",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Rumie",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ It deals 600 damage to target opponent and target resonator your opponent controls.",
+   "flavor_text": "The envoy's flames scorch the body and soul.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/533",
+   "name": "Shimazu Yoshihiro, Feudal Flame Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/533/image_en/1485233548.jpg",
+   "number": "VIN003-029",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Daimyo",
+   "artist": "yuhki lily",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhenever a J/resonator you control is blocked ⇒ Destroy it and the blocking J/resonator.",
+   "flavor_text": "\"Survival is not the point of battle. Victory is.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/534",
+   "name": "Sylvia Gill Palarilias, Infernal Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/534/image_en/1485233549.jpg",
+   "number": "VIN003-030",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 700",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "SIGMAN",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nThis card gains [Swiftness] as long as your J/ruler is \"Sylvia Gill Palarilias\".",
+   "flavor_text": "\"My soul is forever bound to Lapis.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/535",
+   "name": "Alice, Dimensional Traveler",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/535/image_en/1485233551.jpg",
+   "number": "VIN003-031",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "Wednesday",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nIf this card would be put into a graveyard from your field, put it on the bottom of its owner's deck instead.",
+   "flavor_text": "\"Oh? You found me huh?\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/536",
+   "name": "Charlotte's Water Transformation Magic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/536/image_en/1485233559.jpg",
+   "number": "VIN003-032",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"Take that! Turn into a bear!\" -Charlotte, Determined Girl",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/537",
+   "name": "Charm of the Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/537/image_en/1485233568.jpg",
+   "number": "VIN003-033",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nekobayashi",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"Look carefully, this is what reigning means.\" -Valentina, the Princess of Love",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/538",
+   "name": "Chronos, the God of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/538/image_en/1485233571.jpg",
+   "number": "VIN003-034",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "kakotomirai",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nAt the beginning of your turn ⇒ Draw a card.",
+   "flavor_text": "\"Time is equitable. Except when you're the boss.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/539",
+   "name": "Dance of Inspiration",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/53/539/image_en/1485233573.jpg",
+   "number": "VIN003-035",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "aki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"It's not over yet!\" -Coup d'Etat Mastermind, Shion",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/540",
+   "name": "Guardian of Water Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/540/image_en/1485233574.jpg",
+   "number": "VIN003-036",
+   "type": "Ruler",
+   "race": "Dragon",
+   "artist": "Hayama Kohei",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\n[Resonance] Water Magic Stone ⇒ Look at the top card of your deck, then put it on the top or bottom of your deck.",
+   "flavor_text": "The water guardian welcomes all those of nobility and grace.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/541",
+   "name": "Avatar of Water Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/541/image_en/1485233576.jpg",
+   "number": "VIN003-036J",
+   "att_def": "1100 / 1100",
+   "type": "J-ruler",
+   "race": "Dragon",
+   "artist": "Hayama Kohei",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Return all resonators your opponent controls to their owners' hand.",
+   "flavor_text": "The avatar's water washes away any trace of what was there.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/542",
+   "name": "Kaguya, Guardian of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/542/image_en/1485233577.jpg",
+   "number": "VIN003-037",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nRabbit resonators you control gain [+100/+100] as long as you control a Moon addition.",
+   "flavor_text": "A full moon viewing is made better with rabbits.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/543",
+   "name": "Nymph, Envoy of Water",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/543/image_en/1485233580.jpg",
+   "number": "VIN003-038",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "700 / 1200",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Kamijo Roro",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "This spirit of water is not always bound by gravity.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/544",
+   "name": "Separation of Body and Soul",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/544/image_en/1485233581.jpg",
+   "number": "VIN003-039",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Moopic",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"Lies are so easy to rip apart.\" -Possessor Princess of Love, Valentina",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/545",
+   "name": "Shackles of Ice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/545/image_en/1485233587.jpg",
+   "number": "VIN003-040",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[Bestow] [U], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "flavor_text": "Magic shackles that seal away special magic.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/546",
+   "name": "Shion, the Entrancing Songstress",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/546/image_en/1485233588.jpg",
+   "number": "VIN003-041",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "j-peg",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nThis card gains [Barrier] (Resonator) as long as your J/ruler is \"Songstress of Shangri-La\" or \"Coup d'Etat Mastermind, Shion\".",
+   "flavor_text": "Music is magic that captures the heart.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/547",
+   "name": "Tomoe Gozen, Merciful Aqua Twin Swords",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/547/image_en/1485233590.jpg",
+   "number": "VIN003-042",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Swordsman",
+   "artist": "Tsukumi",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "Perfect vision. No blind spots.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/548",
+   "name": "Triton, Emperor of the Seven Seas",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/548/image_en/1485233591.jpg",
+   "number": "VIN003-043",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "Matsurika Yoko",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Gain control of target resonator until end of turn.",
+   "flavor_text": "\"Are you sure? Alright, follow me!\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/549",
+   "name": "Valentina, Maiden of the Oceans",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/54/549/image_en/1485233593.jpg",
+   "number": "VIN003-044",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "ishishou",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], discard three cards: Gain control of target resonator.",
+   "flavor_text": "\"Here's my trump card; you die.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/550",
+   "name": "Water Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/550/image_en/1485233594.jpg",
+   "number": "VIN003-045",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Shirai Hidemi",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhenever you play a water chant ⇒ Look at the top card of your deck, then put it on the top or bottom of your deck.",
+   "flavor_text": "Water embodies time and currents.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/551",
+   "name": "Count D'Artagnan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/551/image_en/1485233596.jpg",
+   "number": "VIN003-046",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Catman/Musketeer",
+   "artist": "Kelvin",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[G]: This card deals 100 damage to target resonator. It loses [Flying] until end of turn.",
+   "flavor_text": "\"My aim can perfectly drop a soaring bird.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/552",
+   "name": "Frigg, Goddess of Abundant Harvests",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/552/image_en/1485233599.jpg",
+   "number": "VIN003-047",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "SIE NANAHARA",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put up to one target resonator, up to one target addition, and up to one target chant from your graveyard into your hand.",
+   "flavor_text": "Her love brings the harvest, keeping the world fed.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/553",
+   "name": "Guardian of Wind Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/553/image_en/1485233600.jpg",
+   "number": "VIN003-048",
+   "type": "Ruler",
+   "race": "Dragon",
+   "artist": "Saiko Takaki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[Resonance] Wind Magic Stone ⇒ Target resonator gains \"[rest]: Produce [W], [R], [U], [G], or [B].\" until end of turn.",
+   "flavor_text": "The wind guardian greets champions with a mighty gust.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/554",
+   "name": "Avatar of Wind Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/554/image_en/1485233602.jpg",
+   "number": "VIN003-048J",
+   "att_def": "1000 / 1200",
+   "type": "J-ruler",
+   "race": "Dragon",
+   "artist": "Saiko Takaki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\nResonators you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\".",
+   "flavor_text": "The avatar's wind inspires the will of everyone.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/555",
+   "name": "Heavenly Gust",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/555/image_en/1485233603.jpg",
+   "number": "VIN003-049",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "j-peg",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"Melfee! Now!\" -Fiethsing, Master Magus of Holy Wind",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/556",
+   "name": "Helsing, Hunter of the Undead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/556/image_en/1485233604.jpg",
+   "number": "VIN003-050",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 700",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "touge369",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nPrevent all damage that would be dealt to this card by darkness resonators.",
+   "flavor_text": "There is no darkness that may harm Helsing.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/557",
+   "name": "Little Red, Fairy Tale of Air",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/557/image_en/1485233607.jpg",
+   "number": "VIN003-051",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Matsurika Yoko",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nThis card gains [Swiftness] as long as you control a non-special wind magic stone.",
+   "flavor_text": "The girl's story has continued for ages, encompassing a collection of many adventures.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/558",
+   "name": "Oberon, Lord of Elves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/558/image_en/1485233608.jpg",
+   "number": "VIN003-052",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Foo Midori",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put three [100/100] wind Elf resonator tokens into your field.",
+   "flavor_text": "\"Come, my brothers!\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/559",
+   "name": "Pricia, Wild Child",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/55/559/image_en/1485233611.jpg",
+   "number": "VIN003-053",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Human/Beast",
+   "artist": "fzwrAym",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nThis card gains [Precision] and [+100/+100] as long as your J/ruler is \"Pricia, the Beast Lady\" or \"Pricia, the Commander of Sacred Beasts\".",
+   "flavor_text": "\"What is this place? Faria? Wahoo! Let's play!\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/560",
+   "name": "Pricia's Call to Action",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/560/image_en/1485233612.jpg",
+   "number": "VIN003-054",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "YK",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "By mimicking the movements of beasts, Pricia was able to move even quicker.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/561",
+   "name": "Rapid Growth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/561/image_en/1485233614.jpg",
+   "number": "VIN003-055",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "matataku",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "The miracle that the world achieved.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/562",
+   "name": "Scheherazade, the Prophet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/562/image_en/1485233615.jpg",
+   "number": "VIN003-056",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "noki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put target resonator on top of its owner's deck.",
+   "flavor_text": "\"The future is one of many possibilities. No two are the same, but there is only one we will see.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/563",
+   "name": "Silph, Envoy of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/563/image_en/1485233617.jpg",
+   "number": "VIN003-057",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "noki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\n[Resonance] Wind Magic Stone ⇒ Recover this card.",
+   "flavor_text": "The winds blow twice.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/564",
+   "name": "The Beast Queen's Counterattack",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/564/image_en/1485233621.jpg",
+   "number": "VIN003-058",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "fzwrAym",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nTarget J/resonator you control gains [+400/+400] until end of turn. Then that card and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
+   "flavor_text": "\"Valentina! I'll never forgive you!\" —Pricia, Beast Queen in Hiding",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/565",
+   "name": "The World Tree's Guardian",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/565/image_en/1485233622.jpg",
+   "number": "VIN003-059",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Treeman",
+   "artist": "KONNO Takashi",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[G]: This card gains [+200/+200] until end of turn.",
+   "flavor_text": "\"You will abide by the laws of the world tree.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/566",
+   "name": "Wind-Secluded Refuge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/566/image_en/1485233624.jpg",
+   "number": "VIN003-060",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "saumaro",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen a spell or ability your opponent controls targets a J/resonator you control ⇒ You may banish this card. If you do, cancel that spell or ability.",
+   "flavor_text": "\"Shion, you wait here. Leave the rest to me.\" -Pricia, Pursuant of Exploding Flame",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/567",
+   "name": "Abdul Alhazred, Poet of Madness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/567/image_en/1485233625.jpg",
+   "number": "VIN003-061",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "gozz",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nResonators entering your opponent's field don't cause their own abilities to trigger.",
+   "flavor_text": "The songs of madness torture the soldiers of the enemy.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/568",
+   "name": "Baleful Avatar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/568/image_en/1485233627.jpg",
+   "number": "VIN003-062",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "Avatar",
+   "artist": "hatarisu",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Your opponent discards a card.",
+   "flavor_text": "The link between sorrow and resentment.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/569",
+   "name": "Dark Purge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/56/569/image_en/1485233631.jpg",
+   "number": "VIN003-063",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "saumaro",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "\"I hate the darkness because... because it shrouds my beauty!\" -Valentina, the Princess of Love",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/570",
+   "name": "Darkness Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/570/image_en/1485233632.jpg",
+   "number": "VIN003-064",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Moopic",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhenever you play a darkness chant ⇒ You may put the top card of your deck into your graveyard.",
+   "flavor_text": "Darkness embodies chaos and thievery.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/571",
+   "name": "Dracula, King of the Undead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/571/image_en/1485233633.jpg",
+   "number": "VIN003-065",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Saiko Takaki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nYour J-ruler gains [Imperishable] and Vampire in addition to its own races.",
+   "flavor_text": "\"The strength of the vampire is that no one wants to believe he is real.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/572",
+   "name": "Endless Night",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/572/image_en/1485233635.jpg",
+   "number": "VIN003-066",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "aki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "Besides destruction, fear is sowed as well.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/573",
+   "name": "Gill Lapis, the Pure Youth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/573/image_en/1485233637.jpg",
+   "number": "VIN003-067",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "Kutori PanYa",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Your opponent chooses a card they control. Destroy all non-magic stone cards except this card and the chosen card. Put X [+100/+100] counters on this card, where X is the number of cards destroyed this way.",
+   "flavor_text": "\"Have I returned to?....No. This world is meaningless, I will erase it.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/574",
+   "name": "Guardian of Darkness Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/574/image_en/1485233639.jpg",
+   "number": "VIN003-068",
+   "type": "Ruler",
+   "race": "Dragon",
+   "artist": "Mad",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\n[Resonance] Darkness Magic Stone ⇒ Target J/resonator gains [-100/-100] until end of turn.",
+   "flavor_text": "The darkness guardian addresses the worthy in a jet black void.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/575",
+   "name": "Avatar of Darkness Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/575/image_en/1485233664.jpg",
+   "number": "VIN003-068J",
+   "att_def": "1200 / 1000",
+   "type": "J-ruler",
+   "race": "Dragon",
+   "artist": "Mad",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Your opponent banishes two resonators.",
+   "flavor_text": "The avatar's darkness steals everything away.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/576",
+   "name": "Loki, Being of the End",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/576/image_en/1485233666.jpg",
+   "number": "VIN003-069",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 100",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "ishishou",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nThis card gains [Flying] and \"Whenever this card deals damage ⇒ You gain that much life.\" as long as you have ten or more cards in your graveyard.",
+   "flavor_text": "Death is not the end. The end is far worse.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/577",
+   "name": "Rezzard, the Vampire Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/577/image_en/1485233667.jpg",
+   "number": "VIN003-070",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "touge369",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nThis card gains \"Whenever this card deals damage ⇒ You gain that much life.\" as long as your J/ruler is \"Rezzard, the Undead Lord\" or \"Rezzard, the Desecrating Vampire\".",
+   "flavor_text": "\"Do not misunderstand. I offer an invitation to a new life, not fixing your old one.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/578",
+   "name": "Sariel, Lord of the Moons",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/578/image_en/1485233669.jpg",
+   "number": "VIN003-071",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 800",
+   "type": "Resonator",
+   "race": "Fallen Angel",
+   "artist": "lack",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[B], [rest], banish another resonator: Put target resonator from your graveyard into your field. Play this ability only during your turn.",
+   "flavor_text": "Moonlight blurs the line between the living and dead.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/579",
+   "name": "Shade, Envoy of Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/57/579/image_en/1485233671.jpg",
+   "number": "VIN003-072",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "touge369",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\n[Resonance] Darkness Magic Stone ⇒ You may pay [B][B][B]. If you do, put this card from your graveyard into your hand.",
+   "flavor_text": "Creeping unseen through the darkness. You only see it when it's too late.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/580",
+   "name": "The Gate of the Silver Key",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/580/image_en/1485233673.jpg",
+   "number": "VIN003-073",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[B][B][2], banish this card: Your opponent discards a card.",
+   "flavor_text": "\"Huh? Isn't that...hehehe. Things are getting interesting.\" -Nyarlathotep, the True False Legend",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/581",
+   "name": "The Scorn of Dark Alice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/581/image_en/1485233674.jpg",
+   "number": "VIN003-074",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nLook at target opponent's hand and choose a resonator. They discard that card.",
+   "flavor_text": "\"I don't need that memory.\"—Dark Alice, Maiden of Slaughter",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/582",
+   "name": "Unseen Pressure",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/582/image_en/1485233676.jpg",
+   "number": "VIN003-075",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "flavor_text": "Sometimes it's what you don't see that terrifies.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/583",
+   "name": "Alisaris, Scholar of Phenomena",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/583/image_en/1485233677.jpg",
+   "number": "VIN003-076",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 600",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "BANAMONS*",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may play a chant card from your removed area.",
+   "flavor_text": "\"My records are ready to strike at a moment's notice.\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/584",
+   "name": "Blazer Gill Rabus, the Pursuer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/584/image_en/1485233679.jpg",
+   "number": "VIN003-077",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Minion of Primogenitor",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target J-ruler.",
+   "flavor_text": "Pursuing his target through death and beyond. It is all he knows now.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/585",
+   "name": "Jeanne d'Arc, the Maid of Orl?ans",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/585/image_en/1485233681.jpg",
+   "number": "VIN003-078",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
+   "flavor_text": "The woman fights for her country, and the people are eternally grateful.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/586",
+   "name": "Karmic Governor, Laplace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/586/image_en/1485233682.jpg",
+   "number": "VIN003-079",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Clown",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhenever this card attacks ⇒ J/resonators you control gain [Flying] and [First Strike] until end of turn.",
+   "flavor_text": "The start is abrupt. The end is inevitable.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/587",
+   "name": "Machina, the Clockwork King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/587/image_en/1485233686.jpg",
+   "number": "VIN003-080",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Rumie",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your deck. If it's a Machine, you may put it into your field. At the next end of turn ⇒ Return it to its owner's hand.",
+   "flavor_text": "Still searching for someone's lost heart.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/588",
+   "name": "Odin the Omniscient",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/588/image_en/1485233687.jpg",
+   "number": "VIN003-081",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "kakotomirai",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nIf you would produce will with a magic stone you control, you produce that will plus one of the same kind as another will produced this way instead.",
+   "flavor_text": "Omniscience means omnipotence.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/589",
+   "name": "Pandora, the Goddess of Light and Dark",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/58/589/image_en/1485233689.jpg",
+   "number": "VIN003-082",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Ancient/Human",
+   "artist": "Foo Midori",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhenever this card blocks ⇒ [Force] 1. You gain X00 life, where X is the result of the roll.",
+   "flavor_text": "\"I see...I remember now. I'm...\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/590",
+   "name": "Snow White, the Avenger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/590/image_en/1485233690.jpg",
+   "number": "VIN003-083",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "KONNO Takashi",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Continuous\nThis card gains [+400/+400] as long as your life is 1000 or less.",
+   "flavor_text": "Revenge is sweeter than any apple.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/591",
+   "name": "Vafthruthnir, Giant Wiseman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/591/image_en/1485233692.jpg",
+   "number": "VIN003-084",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Giant",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Cancel target resonator spell.",
+   "flavor_text": "\"Oh, sorry. Were you in the middle of something?\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/592",
+   "name": "Yggdrasil, the First Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/592/image_en/1485233693.jpg",
+   "number": "VIN003-085",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 1200",
+   "type": "Resonator",
+   "race": "Treasure Tree",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest]: Produce two wills in any combination of attributes.",
+   "flavor_text": "The light of Yggdrasil shines with many colors.",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/593",
+   "name": "Burning Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/593/image_en/1485233696.jpg",
+   "number": "VIN003-086",
+   "type": "Special Magic Stone",
+   "artist": "sasaki kounosuke",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [U].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/594",
+   "name": "Gusting Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/594/image_en/1485233697.jpg",
+   "number": "VIN003-087",
+   "type": "Special Magic Stone",
+   "artist": "touge369",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [B].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/595",
+   "name": "Magic Stone of Murky Waters",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/595/image_en/1485233699.jpg",
+   "number": "VIN003-088",
+   "type": "Special Magic Stone",
+   "artist": "tokiwa",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [B].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/596",
+   "name": "Magic Stone of Nature's Beauty",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/596/image_en/1485233700.jpg",
+   "number": "VIN003-089",
+   "type": "Special Magic Stone",
+   "artist": "ShiroYayoi",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [W].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/597",
+   "name": "Magic Stone of Purgatory",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/597/image_en/1485233701.jpg",
+   "number": "VIN003-090",
+   "type": "Special Magic Stone",
+   "artist": "gozz",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [R].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/598",
+   "name": "Magic Stone of Radiant Waves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/598/image_en/1485233703.jpg",
+   "number": "VIN003-091",
+   "type": "Special Magic Stone",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [U].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/599",
+   "name": "Magic Stone of Summer's Breeze",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/59/599/image_en/1485233705.jpg",
+   "number": "VIN003-092",
+   "type": "Special Magic Stone",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [G].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/600",
+   "name": "Misty Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/600/image_en/1485233708.jpg",
+   "number": "VIN003-093",
+   "type": "Special Magic Stone",
+   "artist": "kurisu",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [G].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/601",
+   "name": "Shadowy Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/601/image_en/1485233709.jpg",
+   "number": "VIN003-094",
+   "type": "Special Magic Stone",
+   "artist": "BANAMONS*",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [W].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/602",
+   "name": "Sparkling Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/602/image_en/1485233711.jpg",
+   "number": "VIN003-095",
+   "type": "Special Magic Stone",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest], remove a magic counter from this card: Produce [R].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/603",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/603/image_en/1485233714.jpg",
+   "number": "VIN003-096",
+   "type": "Basic Magic Stone",
+   "artist": "Matsurika Yoko",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/604",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/604/image_en/1485233716.jpg",
+   "number": "VIN003-097",
+   "type": "Basic Magic Stone",
+   "artist": "SIGMAN",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/605",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/605/image_en/1485233720.jpg",
+   "number": "VIN003-098",
+   "type": "Basic Magic Stone",
+   "artist": "lack",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/606",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/606/image_en/1485233721.jpg",
+   "number": "VIN003-099",
+   "type": "Basic Magic Stone",
+   "artist": "Wednesday",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/607",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/607/image_en/1485233722.jpg",
+   "number": "VIN003-100",
+   "type": "Basic Magic Stone",
+   "artist": "ComamitsuZaki",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/608",
+   "name": "Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/608/image_en/1485233726.jpg",
+   "number": "004",
+   "att_def": "500 / 500",
+   "type": "Rsonator Token",
+   "artist": "koubou",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/609",
+   "name": "Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/60/609/image_en/1485233728.jpg",
+   "number": "004*",
+   "att_def": "500 / 500",
+   "type": "Rsonator Token",
+   "artist": "Shirono Muku",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/610",
+   "name": "Rabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/610/image_en/1485233730.jpg",
+   "number": "005",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "artist": "bambi kojo",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/611",
+   "name": "Rabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/611/image_en/1485233733.jpg",
+   "number": "005*",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "artist": "mie",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2608",
+   "name": "Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2608/image_en/1487664927.jpg",
+   "number": "006",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Elf",
+   "artist": "Fushikaden K.K.",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2609",
+   "name": "Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2609/image_en/1487664929.jpg",
+   "number": "006*",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Elf",
+   "artist": "zarusoba",
+   "expansion": "Vingolf \"Ruler All Stars\"",
+   "all_sets": "Vingolf \"Ruler All Stars\""
+  }
+ ]
+}

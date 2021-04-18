@@ -1,0 +1,2813 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/4710",
+   "name": "Gill Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4710/image_en/f0446daa-9c38-4b23-9c10-c4f91e865d56.jpg",
+   "number": "AO4 Buy a Box-1",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "j-peg",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may pay the attribute cost of Minions and Moon Arts with any will.",
+   "flavor_text": "And the moon shines on the true ruler of this world.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4711",
+   "name": "Gill Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4711/image_en/3144a448-4ead-42a2-bf69-7454110404a2.jpg",
+   "number": "AO4 Buy a Box-1",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "j-peg",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may pay the attribute cost of Minions and Moon Arts with any will.",
+   "flavor_text": "And the moon shines on the true ruler of this world.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4712",
+   "name": "Dark Alice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4712/image_en/76b587f0-030f-45fd-b391-ee97d4c5e9c5.jpg",
+   "number": "AO4 Buy a Box-2",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhenever a darkness regalia enters the field under your control >>> Choose one, then, if the regalia is \"Unknown Mother Goose\", choose one again;\n- Gain two light crystals.\n- Gain two darkness crystals.",
+   "flavor_text": "Traveling through endless darkness, she seeks the light beyond.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4713",
+   "name": "Dark Alice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4713/image_en/ceb6d955-6bd6-4afe-b257-7c828cd14bb6.jpg",
+   "number": "AO4 Buy a Box-2",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhenever a darkness regalia enters the field under your control >>> Choose one, then, if the regalia is \"Unknown Mother Goose\", choose one again;\n- Gain two light crystals.\n- Gain two darkness crystals.",
+   "flavor_text": "Traveling through endless darkness, she seeks the light beyond.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4714",
+   "name": "Magna, the Creator of Regalia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4714/image_en/eeaa7d36-2bc6-411c-8d3b-02cab65e665a.jpg",
+   "number": "AO4 Buy a Box-3",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Wizard",
+   "artist": "Kotakan",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may have (Stranger) resonators in your deck. You may not have more than one copy of any (Stranger) resonator in your deck.",
+   "flavor_text": "Magna created all regalia in this world, and divided his memories of Valhalla among them. The regalia will keep their power as long as Magna exists.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4715",
+   "name": "Magna, the Creator of Regalia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4715/image_en/256ab128-d9b0-4374-9585-4b395727c8d1.jpg",
+   "number": "AO4 Buy a Box-3",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Wizard",
+   "artist": "Kotakan",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may have (Stranger) resonators in your deck. You may not have more than one copy of any (Stranger) resonator in your deck.",
+   "flavor_text": "Magna created all regalia in this world, and divided his memories of Valhalla among them. The regalia will keep their power as long as Magna exists.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4716",
+   "name": "Intimidation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4716/image_en/b256a629-11cd-4b08-bc3a-8b22968f8cd9.jpg",
+   "number": "PofA-001",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "The roar of Behemoth keeps the darkness away.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4717",
+   "name": "King of Kings",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4717/image_en/861032e6-b961-4b93-a52b-8c2c3b613ec8.jpg",
+   "number": "PofA-002",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "AKI",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nBanish a light crystal, discard this card: Target J/resonator gains [+400/+400] until end of turn. Draw a card.",
+   "flavor_text": "The King is a dependable card.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4718",
+   "name": "Lenneth's Wish",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4718/image_en/667abf20-716a-4d44-acc5-6a28fc0ef8e0.jpg",
+   "number": "PofA-003",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "tokiwa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "There is only one way of salvation.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4719",
+   "name": "Mage Jack",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4719/image_en/4f3c5dd1-4ed8-4a57-b9d0-99d1a7ddb125.jpg",
+   "number": "PofA-004",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "AKI",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nBanish a light crystal: You gain 200 life.",
+   "flavor_text": "The Jack is a prudent card.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4720",
+   "name": "Return of the Soul",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4720/image_en/e42ffc37-8d60-493f-8022-25385ab54862.jpg",
+   "number": "PofA-005",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art, Mage Art",
+   "artist": "uekino aroe",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"Good luck, Lord Magna ...\" ーLenneth",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4721",
+   "name": "Richesse, the Swordsman (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4721/image_en/ae9b267a-31f8-41ef-8556-05de24728870.jpg",
+   "number": "PofA-006",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 1100",
+   "type": "Resonator (Stranger)",
+   "race": "Swordsman",
+   "artist": "nisizawagomiri",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> Rest target resonator. It doesn't recover during the recovery phase as long as this card is in the field.",
+   "flavor_text": "\"Of course, if I win, this will not happen. But I have a bad feeling about it ... and my intuition never goes wrong.\" ーNote of Magna 39",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4722",
+   "name": "Schr?dinger's Cry",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4722/image_en/7de34428-176f-4ea8-9b71-81e571f8fb14.jpg",
+   "number": "PofA-007",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Misa Tsutsui",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"Behave yourself.\" ーDark Alice",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4723",
+   "name": "Summoning Art of Magna",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4723/image_en/9494a085-5cde-4abb-b189-835d2c1a7b4f.jpg",
+   "number": "PofA-008",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Kamijo Roro",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "Strangers are the remnants of Valhalla; they resonate in Magna's memories. He can manipulate them as he likes and use them as his power.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4724",
+   "name": "The Road to the Sacred Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4724/image_en/c8387afa-23a1-440d-9830-40df46f5a5bb.jpg",
+   "number": "PofA-009",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Nekobayashi",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nResonators entering the field under your opponent's control enter the field rested.",
+   "flavor_text": "This is the road Faria travels to protect her country.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4725",
+   "name": "The Road to the Winged Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4725/image_en/3cb260cf-9eef-462e-a0d0-d961b6949fa2.jpg",
+   "number": "PofA-010",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "KONNO Takashi",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nAngels you control gain [Barrier] (Resonator).",
+   "flavor_text": "This is the road Arla travels for peace, and for his friends.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4726",
+   "name": "Three of a Kind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4726/image_en/0365c7b0-1108-4791-824c-806929facd9a.jpg",
+   "number": "PofA-011",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "KAZTO FURUYA",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"Well, this time … Huh, not a bad hand.\" ーDark Alice",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4727",
+   "name": "Tsukuyomi Noble",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4727/image_en/bacd054d-07df-4189-ab36-9c145f1feea9.jpg",
+   "number": "PofA-012",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Myth/Moon",
+   "artist": "SIE NANAHARA",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nPlayers cannot play activate abilities of resonators they control unless they control a Moon.",
+   "flavor_text": "\"What? You guys didn't have a moon?!\" -Kaguya, the Moonlit Savior",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4728",
+   "name": "Valkyrie, the Weaver of Destiny (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4728/image_en/4aa24b34-e6cd-401b-bd03-2e730cac28c2.jpg",
+   "number": "PofA-013",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "1000 / 1400",
+   "type": "Resonator (Stranger)",
+   "race": "Valkyrie",
+   "artist": "Azusa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card leaves the field >>> Put all cards from all removed areas that were removed by this card into the field under their owners' control.",
+   "flavor_text": "\"Also, all regalia will lose the power of Valhalla, and everything related to it. They will become mere items of power, amplifying the traits of their respective owners.\" ーNote of Magna 38",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4729",
+   "name": "White Wolf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4729/image_en/7eb3c25b-ad89-4aee-805c-0dd486ae8277.jpg",
+   "number": "PofA-014",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale, Beast",
+   "artist": "SO",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nThis card gains [+200/+200] for each light crystal you control.",
+   "flavor_text": "\"Oh, a visitor from that world. Well, I'm busy now, so I'll deal with it later.\" ーGill Lapis",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4730",
+   "name": "Wizard of Vell-Savaria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4730/image_en/1a98c0e5-b2e0-456b-8d61-b297de4d4bb2.jpg",
+   "number": "PofA-015",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "yuko",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> Another target resonator gains [Barrier] until end of turn.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4731",
+   "name": "Workshop Assistant Researcher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4731/image_en/c0047820-a7f9-47ab-a7c1-c0aaa4a3f02b.jpg",
+   "number": "PofA-016",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Nem",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"Welcome. What we research here? That's classified.\"",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4732",
+   "name": "Yggdrasil's Grace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4732/image_en/f550aecf-9072-4694-a0a1-1d173be7f169.jpg",
+   "number": "PofA-017",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ShiroYayoi",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4733",
+   "name": "Agni, the Pyre War God (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4733/image_en/9f50f1e3-0ed8-4252-9d9a-4ef602173328.jpg",
+   "number": "PofA-018",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator (Stranger)",
+   "race": "Deity",
+   "artist": "Foo Midori",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nThis card gains [+400/+400] for each other (Stranger) resonator you control.",
+   "flavor_text": "\"This way, my powers can't be fully taken from me.\" ーNote of Magna 37",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4734",
+   "name": "Alisaris, Minion of Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4734/image_en/9c3d617c-eaae-4ffc-ae91-10b2136bc83a.jpg",
+   "number": "PofA-019",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Minion",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Limit Break]\n[Quickcast]\nYou may pay [R] less to play this card.\nWhen you remove counters by this card >>> Put a [+100/+100] counter on each J/resonator you control for each counter removed this way.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4735",
+   "name": "Athena, Titan of Revenge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4735/image_en/687ecb6e-ead0-4c7e-b133-6e4476601a0a.jpg",
+   "number": "PofA-020",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Twelve Apostles",
+   "artist": "lack",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[R]: This card deals 100 damage to each player.",
+   "flavor_text": "\"Come on, hit me with everything you've got.\" -Conqueror of the Black Moon, Gill Lapis",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4736",
+   "name": "Blaze Tornado",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4736/image_en/bb5a7d72-c21a-4a6d-b38f-087e2d294d66.jpg",
+   "number": "PofA-021",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Mad",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4737",
+   "name": "Hino Kagutsuchino Mikoto, the Flaming God of Fate (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4737/image_en/77663b1b-1cd4-45e2-98c9-43bf6582825c.jpg",
+   "number": "PofA-022",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "2000 / 2000",
+   "type": "Resonator (Stranger)",
+   "race": "Deity",
+   "artist": "lack",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> This card deals 1000 damage to your opponent and each J/resonator they control.",
+   "flavor_text": "\"At this rate, the protective barrier around Vell-Savaria will break soon.\" ーNote of Magna 32",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4738",
+   "name": "Magical Arrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4738/image_en/067fc46b-5fcf-4c3c-858c-7e553a7192f5.jpg",
+   "number": "PofA-023",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Saiko Takaki",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4739",
+   "name": "Ouroboros, the Snake of Reincarnation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4739/image_en/0a32452e-8c80-4b0e-ac19-fcc549a60d89.jpg",
+   "number": "PofA-024",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "2000 / 2000",
+   "type": "Resonator",
+   "race": "Twelve Apostles, Snake",
+   "artist": "douzen",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Put it on the bottom of its owner's deck.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4740",
+   "name": "Phoenix, the Flame of the World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4740/image_en/68508c59-45c0-47f9-81b4-20b447ae6426.jpg",
+   "number": "PofA-025",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Phoenix",
+   "artist": "gozz",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may pay [R][R]. If you do, put this card into its owner's field.",
+   "flavor_text": "Even the immortal flame cannot match a fragment of the Original King's power.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4741",
+   "name": "Reflect's Rushing In",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4741/image_en/2181a587-6de2-41e5-8836-8fa71d9b13b6.jpg",
+   "number": "PofA-026",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Kelvin",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"It's time to rush in, isn't it?\" \"No, it's time to get out.\" \"Really?\" \"Really.\" ーReflect & Refrain",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4742",
+   "name": "Swordsmaster of Exploding Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4742/image_en/5491361e-3ab6-4c2f-8d98-c202df180170.jpg",
+   "number": "PofA-027",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "3000 / 3000",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Nagi-nyan",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nThis card gains [-X/-X], where X is your life.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4743",
+   "name": "Sylvia's Burning Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4743/image_en/d74d45db-a4f4-40db-bb78-cd01de1bd7c5.jpg",
+   "number": "PofA-028",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "SIGMAN",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"I always tend to burn my enemies, and my food.\" ーSylvia, Minion of Lapis",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4744",
+   "name": "The Road to the Flame King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4744/image_en/8cb21c6e-8830-4377-bb5e-b5465b37dc00.jpg",
+   "number": "PofA-029",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "gekko",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nJ/resonators you control gain [Pierce].",
+   "flavor_text": "This is the road Melgis travels, regretting all the deaths he caused.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4745",
+   "name": "Gentleman Lightning Caller",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4745/image_en/77c44321-33ce-45fe-9ddf-0286621efbb2.jpg",
+   "number": "PofA-030",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "KIA ASAMIYA",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may pay [1] less to play Mage Arts.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4746",
+   "name": "Mariabella's Active Decoy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4746/image_en/c9881c35-b403-48ff-873d-794f3217d6dc.jpg",
+   "number": "PofA-031",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Machine",
+   "artist": "Shinichi Chiba",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[Rest]：Rest target resonator your opponent controls. Play this ability only if you control \"Marybell Type Zero\".",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4747",
+   "name": "Princess of Dragon Palace (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4747/image_en/aece6e5c-c2b4-4cee-9a65-3aa21a10068e.jpg",
+   "number": "PofA-032",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator (Stranger)",
+   "race": "Deity",
+   "artist": "Toridamono",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhenever a resonator with total cost 3 or more enters the field under your control >>> You may put this card from your graveyard into the field.",
+   "flavor_text": "\"My last wish is to keep this world in balance. If you read this, please help making my wish come true.\" ーNote of Magna 40",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4748",
+   "name": "Random Walk",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4748/image_en/a32653a7-851d-4cd4-beb5-a55b0f7fec1e.jpg",
+   "number": "PofA-033",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Saiko Takaki",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "If you follow Adombrali, you lose track of your purpose and your destination.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4749",
+   "name": "Refrain's Getting Out",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4749/image_en/b2d034a6-853b-4558-bd65-5c81cb5df7ba.jpg",
+   "number": "PofA-034",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Kelvin",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4750",
+   "name": "The Road to the Machine Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4750/image_en/5b277437-dbf2-4a2f-b740-b017d9d73e32.jpg",
+   "number": "PofA-035",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Rumie",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may spend any will produced by cards named \"Marybell Type Zero\" you control to play Machines.",
+   "flavor_text": "This is the road Machina travels as the last wish of his assistant.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4751",
+   "name": "The Road to the Princess of Love",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4751/image_en/44ebd64f-3717-43d7-bcc7-09c178fc571f.jpg",
+   "number": "PofA-036",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Kamijo Roro",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[B][B][1]: Return this card to its owner's hand.",
+   "flavor_text": "This is the road Valentina travels to become Overlord of the Seven Lands.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4752",
+   "name": "Amphisbaena, the Two-Headed Dragon (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4752/image_en/3fcc2210-495c-473f-812c-7aa2da588707.jpg",
+   "number": "PofA-037",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 1200",
+   "type": "Resonator (Stranger)",
+   "race": "Dragon",
+   "artist": "Tomohiro Kitakaze",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[G]: Until end of turn, if this card would deal damage, it deals double that much instead. Play this ability only once per turn.",
+   "flavor_text": "\"What I started at Yggdrasil is a ritual that will send all remnants of Valhalla's power in this world back to Valhalla, in the much dreaded case of my defeat.\" ーNote of Magna 36",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4753",
+   "name": "Behemoth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4753/image_en/9ffb9b1a-faef-4b5f-ae13-76c1c0b3ff59.jpg",
+   "number": "PofA-038",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Twelve Protective Deities, Beast",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Put all cards from all removed areas that were removed by this card into the field under your control.",
+   "flavor_text": "The rest of the Twelve Protective Deities, scattered as guardians all over Attoractia, returned to Vell-Savaria with Magna.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4754",
+   "name": "The Road to the Beast Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4754/image_en/9f820fb4-0135-437c-9722-c9dd09c58008.jpg",
+   "number": "PofA-039",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "fzwrAym",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may pay [0] to play God's Art abilities as long as there are ten or more friendship counters on your J/ruler.",
+   "flavor_text": "This is the road Pricia travels for playing with her friends.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4755",
+   "name": "A Meeting in the Darkest Night",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4755/image_en/fce74915-8dd7-4c2e-baf3-1d9659f45fbb.jpg",
+   "number": "PofA-040",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"Lapis, I have to leave now.\" \"Won't you stay a little longer? Now comes the most interesting part.\" \"I have to keep watching for signs of the scary one. When his return is imminent, I'll send you another messenger.\" ーMikage Seijuro & Gill Lapis",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4756",
+   "name": "Anubis, the Guardian of Throne (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4756/image_en/3480f16c-e10a-4656-9a0e-6bde1813d419.jpg",
+   "number": "PofA-041",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "700 / 1000",
+   "type": "Resonator (Stranger)",
+   "race": "Deity",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> Put up to two target resonators from your graveyard into your hand.",
+   "flavor_text": "\"If both Lenneth and I were defeated, this world would fall to the power of darkness. This must be avoided at all cost.\" ーNote of Magna 35",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4757",
+   "name": "Berserker of the Black Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4757/image_en/b999ffea-1d45-4233-bc28-18b4744936d4.jpg",
+   "number": "PofA-042",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Minion",
+   "artist": "ComamitsuZaki",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card is revealed by the ability of a \"Gill Lapis\" you control >>> Draw a card. You lose 400 life.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4758",
+   "name": "Bizarre Zombie",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4758/image_en/e9070958-1e5e-4155-aede-731bfedfffbd.jpg",
+   "number": "PofA-043",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "kakotomirai",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4759",
+   "name": "Black Moonlight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4759/image_en/70fddfe2-62f4-40e7-adbb-7071e5a1f9c5.jpg",
+   "number": "PofA-044",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "IWAO",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "The price of this power is the enslaving of the mind.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4760",
+   "name": "Black Moon-Ray",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4760/image_en/2883fde2-9f87-422d-b301-798dc9e6756b.jpg",
+   "number": "PofA-045",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "yua",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "The Black Moon suddenly appeared in the sky over Vell-Savaria, and its rays easily disabled the defensive barrier.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4761",
+   "name": "Black Rabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4761/image_en/2d0bad87-8108-45b9-af8e-e3f77d3ba490.jpg",
+   "number": "PofA-046",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Minion, Rabbit",
+   "artist": "Misa Tsutsui",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card is revealed by the ability of a \"Gill Lapis\" you control >>> Your opponent discards a card.",
+   "flavor_text": "Under the light of the Black Moon, these ferocious rabbits are looking for offerings.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4762",
+   "name": "Black Wolf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4762/image_en/fbd2e179-d832-475b-b269-0658b1668e41.jpg",
+   "number": "PofA-047",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale, Beast",
+   "artist": "Shosuke",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nThis card gains [+200/+200] for each darkness crystal you control.",
+   "flavor_text": "On Attoractia Dark Alice caught the scent of her old enemy. But what will the starving wolf find there, its prey or a trap to catch it?",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4763",
+   "name": "Blazer, Minion of Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4763/image_en/d7662212-554c-4e61-a236-181450442268.jpg",
+   "number": "PofA-048",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Minion",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Limit Break]\n[First Strike]\nThis card gains [+800/+800].\nWhen this card is banished by the effect of an ability you control >>> This card deals damage equal to its ATK divided as you choose to any number of target players and/or J/resonators.",
+   "flavor_text": "Bringing death, risking death.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4764",
+   "name": "Blazer's Art of Slaughter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4764/image_en/7fe4cb4f-ab07-495f-a8fb-e24c337d8e8b.jpg",
+   "number": "PofA-049",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "Mad",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "Blazer's most wanted target is coming to find him. That makes him very happy.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4765",
+   "name": "Collapsing World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4765/image_en/0a0c2bb0-53da-4480-927d-29c215b9d1e5.jpg",
+   "number": "PofA-050",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "gozz",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nAt the beginning of each player's turn ⇒ That player banishes a resonator.",
+   "flavor_text": "Life was swallowed into the gaping maw of the dying world.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4766",
+   "name": "Curse of Caduceus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4766/image_en/895ed6e7-fb18-481f-bfea-8879cad1b176.jpg",
+   "number": "PofA-051",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "sasaki kounosuke",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[Rest]: Your opponent loses 200 life.",
+   "flavor_text": "With the corruption of Lenneth, Caduceus was transformed as well.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4767",
+   "name": "Dark Alice's Smile",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4767/image_en/2da8cac5-349e-4bc0-8879-e831214b1ef5.jpg",
+   "number": "PofA-052",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Shirono Muku",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"Ha ha ha, finally caught a tail, right, Schr?dinger? … Huh? No, not yours.\" ーDark Alice",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4768",
+   "name": "Dark Summoning",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4768/image_en/a98c0397-2931-425c-adfa-25c3fae5a5bb.jpg",
+   "number": "PofA-053",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "Haruichi Kido",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "The power of Lenneth was absorbed by Gill Lapis. Now she is waiting for the time of liberation.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4769",
+   "name": "Demon of the Black Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4769/image_en/ee8463d4-9613-421f-b2a9-93c80f45f967.jpg",
+   "number": "PofA-054",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Minion, Demon",
+   "artist": "tokiwa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card is revealed by the ability of a \"Gill Lapis\" you control >>> Put two [+100/+100] counters on target J/resonator.",
+   "flavor_text": "\"Lapis is busy. Dealing with Dark Alice and the others is a job for the lower ranks.\" ーSylvia, Minion of Lapis",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4770",
+   "name": "Demon of the Black Moon, Lilith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4770/image_en/0e1be127-2c1f-4687-a9eb-03dd5a4d87eb.jpg",
+   "number": "PofA-055",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"Hmm...so, who's next?\"",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4771",
+   "name": "Distortion of the Phenomenon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4771/image_en/288162a6-b7d6-46c9-af56-85f9f01f0293.jpg",
+   "number": "PofA-056",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "Nagi-nyan",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nIf you control [Limit Break] (\"Alisaris, Minion of Lapis\"), trigger an automatic ability of a card named \"Gill Lapis\" you control instead.",
+   "flavor_text": "\"Welcome to Vell-Savaria, my Lord Lapis.\" ーAlisaris, Minion of Lapis",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4772",
+   "name": "End of the World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4772/image_en/42c44936-1966-4490-8c2f-9049285475d8.jpg",
+   "number": "PofA-057",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "gozz",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"What is this ...\" ーMagna, the Creator of Regalia",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4773",
+   "name": "Izanami, the Sealed Terror",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4773/image_en/dc4cbb70-5b36-40a8-8911-2d08c69e998a.jpg",
+   "number": "PofA-058",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Myth",
+   "artist": "ishishou",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[B][M], remove this card in your graveyard from the game: Your opponent discards a card.",
+   "flavor_text": "\"This world is trying to shut me out, huh? Fine. I'll put a curse on everything.\"",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4774",
+   "name": "Jeanne d'Arc, Heroine of Shadow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4774/image_en/af3d0daa-e669-40d4-b006-3c3aa802f7b6.jpg",
+   "number": "PofA-059",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Shadow",
+   "artist": "j-peg",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nBanish this card: Gain a light crystal and a darkness crystal.",
+   "flavor_text": "A shadow, but still dedicated to the Lord.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4775",
+   "name": "Lapis' Dark Storm",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4775/image_en/2898e5a8-bbf1-4a72-bea6-22794184b24b.jpg",
+   "number": "PofA-060",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "Winds that only carry the promise of ruthless destruction.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4776",
+   "name": "Lenneth, the Dark Priestess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4776/image_en/f75a7a5e-703a-4338-bb85-7e259a98fcf5.jpg",
+   "number": "PofA-061",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Minion",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Limit Break] (As long as you control [Limit Break] (\"Lenneth, the Dark Priestess\"), this card gains the following abilities.)\n[Flying] [Barrier] (Resonator)\n[Enter] >>> Choose one;\n- Destroy target regalia.\n- Destroy all (Stranger) resonators.\n- Reveal a Twelve Apostles from outside the game and put it into the field.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4777",
+   "name": "Magician of Outland",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4777/image_en/53bd0ed8-505f-4b93-958e-fdc38d71b748.jpg",
+   "number": "PofA-062",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "gozz",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4778",
+   "name": "Mimic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4778/image_en/88d87cba-8d53-4db7-aad5-8758e7b4f1c2.jpg",
+   "number": "PofA-063",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Misa Tsutsui",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nThis card enters the field rested.",
+   "flavor_text": "\"This thing was not summoned with my regalia. So what is it?\" ーMagna, the Creator of Regalia",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4779",
+   "name": "Mind Break",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4779/image_en/16d6b29e-0bec-42e7-b122-41dd912db0b3.jpg",
+   "number": "PofA-064",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "311tarou",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"The power structure of this world is interesting. Well, I'll go and meet Magna now.\" ーGill Lapis",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4780",
+   "name": "Miria, the Fallen Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4780/image_en/a64f8578-2bd7-42a6-b9e9-790d43d5f14e.jpg",
+   "number": "PofA-065",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Minion, Vampire",
+   "artist": "kurisu",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\n[Limit Break]\nIf this card would deal damage, it deals double that much instead.",
+   "flavor_text": "\"Yes, leaving my blood in this world could be called meddling, I guess.\" ーMikage Seijuro",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4781",
+   "name": "One Pair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4781/image_en/d7d3f8fd-8efc-40a1-98dd-99d121af95ed.jpg",
+   "number": "PofA-066",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "haniwa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4782",
+   "name": "Perceval, the Holy Grail of the Black Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4782/image_en/b160d8ba-d367-4d91-b99e-56da2cc4fec3.jpg",
+   "number": "PofA-067",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Minion, Knight of the Round Table",
+   "artist": "yuko",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nBanish this card: Put a Minion from your graveyard on top of your deck.",
+   "flavor_text": "The black Holy Grail responds to the horrors of the Black Moon.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4783",
+   "name": "Pitch Black Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4783/image_en/7ad48f08-8125-4681-8250-39d8e0e45656.jpg",
+   "number": "PofA-068",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Moon",
+   "artist": "higashi",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[M], discard a resonator: Put another target resonator from your graveyard into your hand.",
+   "flavor_text": "When the true black moon hangs in the sky, the true conqueror shall appear.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4784",
+   "name": "Pitch Black Minion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4784/image_en/8b0522c2-8b3e-4acd-86da-4e193486a9e6.jpg",
+   "number": "PofA-069",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Minion",
+   "artist": "Mad",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> Name a card. You gain [Limit Break] (Name of that card).",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4785",
+   "name": "Save the Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4785/image_en/0f3f1699-66f8-4ddf-8229-28546e667f64.jpg",
+   "number": "PofA-070",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "AKI",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nBanish a darkness crystal, discard this card: Target J/resonator gains [-400/-400] until end of turn. Draw a card.",
+   "flavor_text": "The Queen is a proud card.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4786",
+   "name": "Shadow Doppelganger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4786/image_en/7135dcd5-9fe7-47b7-aab0-12643e2b9219.jpg",
+   "number": "PofA-071",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator",
+   "race": "Shadow",
+   "artist": "kawaryu",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nAs this card enters your field, you may remove a resonator in your graveyard from the game. If you do, this card enters your field as a copy of the card removed this way.",
+   "flavor_text": "The spitting image... made of shadow of course.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4787",
+   "name": "Shadow Strike",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4787/image_en/89b90351-9f26-4d9d-b2a7-0d3fab81bb5a.jpg",
+   "number": "PofA-072",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art, Mage Art",
+   "artist": "muranako",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "This shadow strikes twice.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4788",
+   "name": "Shadow X",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4788/image_en/eebb42d8-cde6-474b-bfad-61ca5a371b85.jpg",
+   "number": "PofA-073",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "AKI",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nBanish a darkness crystal: Your opponent loses 200 life.",
+   "flavor_text": "The X is a deadly card.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4789",
+   "name": "Summoning of a Minion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4789/image_en/33e5f887-816d-41ff-9c41-035ee574bd78.jpg",
+   "number": "PofA-074",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Moon Art",
+   "artist": "jitari",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"The power of those that appeared with the Black Moon is so much greater than mine. Magna, my Lord, please come back NOW.\" ーLenneth",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4790",
+   "name": "The Road to the Undead Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4790/image_en/3d157091-3aec-4063-a0cf-dfc4acb7002c.jpg",
+   "number": "PofA-075",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "touge369",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nCards in your graveyard cannot be targeted by spells or abilities your opponent controls.",
+   "flavor_text": "This is the road Rezzard travels for his own desires.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4791",
+   "name": "The Scorn of Dark Alice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4791/image_en/26716ed6-b09e-4535-a9b0-ec0fd036d62b.jpg",
+   "number": "PofA-076",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nLook at target opponent's hand and choose a resonator. They discard that card.",
+   "flavor_text": "\"I don't need that memory.\"—Dark Alice, Maiden of Slaughter",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4792",
+   "name": "True Black Ribbon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4792/image_en/e1b8b965-2ce6-47ca-8690-4aa5575511f9.jpg",
+   "number": "PofA-077",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Return it to its owner's hand.",
+   "flavor_text": "There is only a fine line between restraint and relief.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4793",
+   "name": "Vicious Scarecrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4793/image_en/0fb7d23f-9b82-4fa6-867f-6de01c151946.jpg",
+   "number": "PofA-078",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Kelvin",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nThis card cannot attack.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4794",
+   "name": "World Ender",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4794/image_en/d95d20a5-e2b1-4516-80e8-6523568e4c0f.jpg",
+   "number": "PofA-079",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[Rest]: Produce two wills in any combination of [D] and/or [M]. Spend this will only to play God's Art abilities, Minions, or Moon Arts.",
+   "flavor_text": "A jet-black sword craving for destruction.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4795",
+   "name": "Adombrali",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4795/image_en/e77d9d0b-9b7b-4989-aec3-8678f2eb09ff.jpg",
+   "number": "PofA-080",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 800",
+   "type": "Resonator",
+   "race": "Twelve Protective Deities, Cthulhu",
+   "artist": "Saiko Takaki",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> You gain 600 life. Your opponent loses 600 life. This card deals 600 damage to target resonator. Recover target magic stone. Draw a card.",
+   "flavor_text": "\"I want it as my pet, it doesn't look like you are going to miss it.\" ーDark Alice",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4796",
+   "name": "Alice's World of Madness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4796/image_en/167d31cd-c369-4cb5-88d3-76ec91be8dd5.jpg",
+   "number": "PofA-081",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nResonators gain [-200/-200].",
+   "flavor_text": "Alice created a world that would steal away anyone's sanity.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4797",
+   "name": "Attack Stance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4797/image_en/fcf1812e-fa77-4b82-aff4-4258c528c619.jpg",
+   "number": "PofA-082",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Mage Art",
+   "artist": "Miko Yamazaki",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen a card named \"Defense Stance\", \"Magic Stance\", or \"The Final Stance\" enters the field under your control >>> Banish this card.",
+   "flavor_text": "In this stance attacks are fierce.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4798",
+   "name": "Avatar of Strangers",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4798/image_en/4f509603-93bc-4f87-9140-963cef6ef280.jpg",
+   "number": "PofA-083",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "suranaki",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "Magna and his strangers confronted Gill Lapis, feeling that his destiny was about to end.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4799",
+   "name": "Bounty Hunter of Leginus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/47/4799/image_en/fb989c5c-71bf-4ace-9990-10ffcca1db96.jpg",
+   "number": "PofA-084",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Nekobayashi",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[G]: Recover this card. Play this ability only once per turn.",
+   "flavor_text": "\"Let's go!\" \"Hey, not so fast.\"",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4800",
+   "name": "Cage of Mother Goose",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4800/image_en/e6c6dd39-5fa3-4382-9c61-43fce433c465.jpg",
+   "number": "PofA-085",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Fairy Tale",
+   "artist": "Moopic",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card leaves the field >>> Put a card from a removed area that was removed by this card into its owner's hand.",
+   "flavor_text": "\"Let you out? Only when Schr?dinger is hungry.\" ーDark Alice",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4801",
+   "name": "Dark Gaming Hall",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4801/image_en/da7ff2bd-f11e-4b67-bce4-185611a491c5.jpg",
+   "number": "PofA-086",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Fairy Tale",
+   "artist": "mita kura",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[Rest], banish all light crystals and darkness crystals: Your opponent chooses odd or even. Then, reveal the top card of your deck. If its total cost doesn't match your opponent's guess, gain twice the number of light crystals and darkness crystals banished to pay this ability's cost. (Total cost 0 counts as even.)",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4802",
+   "name": "Defense Stance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4802/image_en/08b6fd19-04fc-426e-8dd4-7bc8e55e4820.jpg",
+   "number": "PofA-087",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Mage Art",
+   "artist": "muranako",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen a card named \"Attack Stance\", \"Magic Stance\", or \"The Final Stance\" enters the field under your control >>> Banish this card.",
+   "flavor_text": "In this stance defense is like an iron wall.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4803",
+   "name": "Disappearing Power",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4803/image_en/245bb508-b45b-43ff-b10d-0f95f356d332.jpg",
+   "number": "PofA-088",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Nekobayashi",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "The world Magna made will disappear with the memory of his existence.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4804",
+   "name": "Exorcist of Certo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4804/image_en/9c0cb279-ff60-4c3a-bab0-2586a0f8e751.jpg",
+   "number": "PofA-089",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Nekobayashi",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nPay 400 life: This card deals 200 damage to each J/resonator.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4805",
+   "name": "Fafnir (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4805/image_en/e3dfd0c8-95a3-4cc2-8285-7ced433c8093.jpg",
+   "number": "PofA-090",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator (Stranger)",
+   "race": "Dragon",
+   "artist": "Hatori Kyoka",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> Choose odd or even. Destroy all other resonators with a total cost matching your choice. (Total cost 0 counts as even.)",
+   "flavor_text": "\"Something went wrong in Vell-Savaria. I left Lenneth in charge, but the usurper seems to be much stronger than I expected. I have to go back immediately, the barrier won't hold much longer.\" ーNote of Magna 34",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4806",
+   "name": "Faithless Summoner",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4806/image_en/45004152-c60e-47a4-8ee2-0efb620ac769.jpg",
+   "number": "PofA-091",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 700",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Haruichi Kido",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may choose not to recover this card during the recovery phase.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4807",
+   "name": "Grand Cross Reincarnation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4807/image_en/84df02e6-567f-494c-9b5b-3d77a965c1be.jpg",
+   "number": "PofA-092",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art, Mage Art",
+   "artist": "Kotakan",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4808",
+   "name": "Hades",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4808/image_en/ac5cac24-ae59-4b17-96a9-64c1db272bb5.jpg",
+   "number": "PofA-093",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Twelve Protective Deities",
+   "artist": "jugemt",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nIf an effect would increase ATK or DEF of resonators your opponent controls, it decreases that much instead.",
+   "flavor_text": "Getting too strong too fast might kill you.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4809",
+   "name": "Hoenir, the Bishop God (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4809/image_en/a8558805-4102-49b8-b708-47abe02879a4.jpg",
+   "number": "PofA-094",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator (Stranger)",
+   "race": "Hero",
+   "artist": "kakotomirai",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> Your opponent banishes a non-J-ruler, non-magic stone entity.",
+   "flavor_text": "\"First the one trying to conquer this world. Then the one chasing him. Oh well, the balance of this world is close to collapsing.\" ーNote of Magna 31",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4810",
+   "name": "Leviathan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4810/image_en/4e68a131-dfa0-4521-801c-b4a19eb01850.jpg",
+   "number": "PofA-095",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "1400 / 1400",
+   "type": "Resonator",
+   "race": "Twelve Protective Deities",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[W][B]: Put a light magic stone or a water magic stone from your graveyard into the field.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4811",
+   "name": "Mad Pyromancer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4811/image_en/8d62dbfb-71ef-48c6-8c24-855ec97e2d26.jpg",
+   "number": "PofA-096",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Minion",
+   "artist": "Saiko Takaki",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> Destroy all damaged resonators.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4812",
+   "name": "Magic Stance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4812/image_en/ea3d01ae-6cfe-4c46-899a-814e269476e7.jpg",
+   "number": "PofA-097",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Mage Art",
+   "artist": "hatarisu",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen a card named \"Attack Stance\", \"Defense Stance\", or \"The Final Stance\" enters the field under your control >>> Banish this card.",
+   "flavor_text": "In this stance the power of magic is enormous.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4813",
+   "name": "Magic Storing Golem",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4813/image_en/efb72584-9129-4233-9f32-50b296266363.jpg",
+   "number": "PofA-098",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Shosuke",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nBanish this card: Produce [B][G].",
+   "flavor_text": "\"A support unit that can fight. The new storage system looks good.\" ーMachina",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4814",
+   "name": "Magician of Vell-Savaria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4814/image_en/44726168-9c6d-4b14-8bbe-9d11527fec6d.jpg",
+   "number": "PofA-099",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 800",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "BANAMONS*",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nRemove the top card of your deck from the game: This card gains [+500/0] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4815",
+   "name": "Necromancer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4815/image_en/a9ae42be-e00e-4a87-ab49-8d37a7b8c97b.jpg",
+   "number": "PofA-100",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Minion",
+   "artist": "SIGMAN",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> Remove all resonators in target player's graveyard from the game. Put a [+100/+100] counter on this card for each resonator removed this way.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4816",
+   "name": "Nidhogg",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4816/image_en/21f8663f-462a-41ac-82ca-a01e774196db.jpg",
+   "number": "PofA-101",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Twelve Protective Deities",
+   "artist": "Mad",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhen this card leaves the field >>> Put all cards from all removed areas that were removed by this card into their owners' hand.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4817",
+   "name": "Nightmare Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4817/image_en/3f5331cd-a386-4e78-af7e-cf7a61b6e23d.jpg",
+   "number": "PofA-102",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "AKI",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\nWhenever another Fairy Tale resonator enters the field under your control >>> You may return this card to its owner's hand.",
+   "flavor_text": "Nightmares repeat themselves, in dreams, in reality, even in a game.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4818",
+   "name": "Paratrooper of Leginus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4818/image_en/99a36de6-2fb8-4ccc-9b34-d107949f3e29.jpg",
+   "number": "PofA-103",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Machine, Human",
+   "artist": "kakotomirai",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may pay [B] less to play this card for each Machine you control.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4819",
+   "name": "Royal Straight Flush",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4819/image_en/cc9ec56f-cc5b-45a7-a63f-9e492db7fd43.jpg",
+   "number": "PofA-104",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "noki",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "For this trump there is no second time.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4820",
+   "name": "Schr?dinger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4820/image_en/285fb8ab-38f8-403b-be2a-111c0399f6bf.jpg",
+   "number": "PofA-105",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Fairy Tale",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nBanish a darkness crystal: This card becomes a [1000/1000] resonator with [Bane] and [Precision] until end of turn.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4821",
+   "name": "Shadow Swordsmaster",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4821/image_en/fb5fe489-5bb2-4ccc-ad03-de8a500cb359.jpg",
+   "number": "PofA-106",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Shadow",
+   "artist": "Pisuke",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> You may banish any number of light and/or darkness crystals. Draw a card for each light crystal banished this way. Your opponent banishes a resonator for each darkness crystal banished this way.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4822",
+   "name": "Skycrusher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4822/image_en/4549bb13-cb94-435b-9d1d-2608ff23507d.jpg",
+   "number": "PofA-107",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Minion",
+   "artist": "kakotomirai",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nJ/resonators your opponent controls lose and cannot gain [Flying].",
+   "flavor_text": "No one rules the sky in his presence.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4823",
+   "name": "Soul Dealer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4823/image_en/b21a9def-b162-4faa-8de6-0a6dcfa543df.jpg",
+   "number": "PofA-108",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Misa Tsutsui",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[Rest]: Look at the top two cards of your deck. Put them on the top of your deck in any order.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4824",
+   "name": "Swordsman of Otherworld",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4824/image_en/ef09e817-faa8-4440-bd53-315185f4a405.jpg",
+   "number": "PofA-109",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "The memories of Otherworld sometimes summon the strangest beings.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4825",
+   "name": "Sylvia, Minion of Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4825/image_en/171de52b-93e6-485a-bda9-4125d5983b31.jpg",
+   "number": "PofA-110",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Minion, Dragonoid",
+   "artist": "SIGMAN",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Limit Break] (As long as you control [Limit Break] (\"Sylvia, Minion of Lapis\"), this card gains the following abilities.)\nThis card gains [+300/+300], [Flying] and \"Whenever this card attacks >>> It deals damage equal to its ATK to target J/resonator your opponent controls.\".",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4826",
+   "name": "The Final Stance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4826/image_en/cc147755-f03a-4da8-a8c9-5660df392832.jpg",
+   "number": "PofA-111",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Mage Art",
+   "artist": "jugemt",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> If you don't control another \"The Final Stance\", take an extra turn after this one.",
+   "flavor_text": "Magna concentrated all his remaining power, and released it in his final stance.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4827",
+   "name": "The Origin of the Seven Lands",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4827/image_en/59d2b021-6a75-4c02-9653-d8625207d267.jpg",
+   "number": "PofA-112",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "yuhki lily",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may pay [0] to play God's Art abilities of your J-ruler.",
+   "flavor_text": "The end of an era, but the origin of the Seven Lands.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4828",
+   "name": "The World of Dark Alice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4828/image_en/4beba78e-150c-4827-9500-f257f009d42d.jpg",
+   "number": "PofA-113",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "flavor_text": "\"My world is not as easy as 'His'.\" ーDark Alice",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4829",
+   "name": "Titania",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4829/image_en/18b95bcb-a07a-473e-ae74-a06796a4a4f1.jpg",
+   "number": "PofA-114",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Twelve Protective Deities",
+   "artist": "sakura moyon",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\nRest two recovered resonators you control: This card gains [Barrier] until end of turn.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4830",
+   "name": "Unknown Mother Goose",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4830/image_en/1981270d-e88e-43d0-bce0-c505efc955cb.jpg",
+   "number": "PofA-115",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[Rest]: Produce two wills in any combination of [W] and/or [D]. Spend this will only to play God's Art abilities, Fairy Tales, Shadows, or Mage Arts.",
+   "flavor_text": "Currently just a fairy tale of sad revenge.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4831",
+   "name": "Vell-Savaria, Field of the Final Battle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4831/image_en/f5108ee2-6965-4b22-b7a8-b3431eca9073.jpg",
+   "number": "PofA-116",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nYou may pay the attribute cost of Twelve Protective Deities with any will.",
+   "flavor_text": "Gill Lapis destroyed Vell-Savaria, and now the final battle is about to begin.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4832",
+   "name": "Veteran Warrior of Valhalla",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4832/image_en/d1ff5c03-65c5-4c50-9394-ef1bcdbfb80d.jpg",
+   "number": "PofA-117",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "KIA ASAMIYA",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Continuous\nThis card gains [+100/+100] for each card in your removed area.",
+   "flavor_text": "\"Battle never changes. We know that since Valhalla.\" ーMagna, the Creator of Regalia",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4833",
+   "name": "Zain, the Warrior of Condemnation (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4833/image_en/40434a47-1396-4e4c-ab66-7c6358940793.jpg",
+   "number": "PofA-118",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator (Stranger)",
+   "race": "Warrior",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Automatic\n[Enter] >>> Draw a card for each resonator put into a graveyard from the field this turn.",
+   "flavor_text": "\"I went to Yggdrasil to prepare my backup plan, but I still hope that I won't need it.\" ーNote of Magna 33",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4834",
+   "name": "Ziz",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4834/image_en/763c2449-5c82-47be-8ee6-44aa0d7af211.jpg",
+   "number": "PofA-119",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Twelve Protective Deities",
+   "artist": "gozz",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[Rest]: Produce one will of any attribute.",
+   "flavor_text": "ー",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4835",
+   "name": "Genesis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4835/image_en/f053b797-5898-42e3-bb44-47c26bd78345.jpg",
+   "number": "PofA-120",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "Kotakan",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[Rest]: Produce one will of any attribute. Spend this will only to play God's Art abilities, (Stranger) resonators, Twelve Protective Deities, Sword Arts, or Mage Arts.",
+   "flavor_text": "Harmony of the world, creation of hope.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4836",
+   "name": "Yggdrasil, Heroic Spirit of the World Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4836/image_en/7f085dff-5dbf-4875-95f6-d066ba9d5a03.jpg",
+   "number": "PofA-121",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Ethereal Tree",
+   "artist": "ishishou",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[Rest]: Produce one will of any attribute. Spend this will only to play regalia.",
+   "flavor_text": "Yggdrasil will appear when Attoractia is in danger.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4837",
+   "name": "Black Moon's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4837/image_en/fc194062-4dff-49a3-99d7-0b45d9ff9f24.jpg",
+   "number": "PofA-122",
+   "rarity": "N",
+   "type": "Special Magic Stone",
+   "artist": "gozz",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[rest]: Produce [M] or [B].",
+   "flavor_text": "Light is stolen away into the sky.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4838",
+   "name": "Magic Stone of Heaven's Rift",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4838/image_en/8c097929-f3bf-4abb-b92c-8774cd522eb8.jpg",
+   "number": "PofA-123",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Nekobayashi",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4839",
+   "name": "Ruler's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4839/image_en/7016c30d-ef42-4b40-b135-ebcbcc5c54d8.jpg",
+   "number": "PofA-124",
+   "rarity": "N",
+   "type": "Special Magic Stone",
+   "artist": "matataku",
+   "expansion": "Alice Origin 4th Booster Pack",
+   "text": "Activate\n[rest]: Produce [W], [R], [U], [G], or [B].",
+   "flavor_text": "It's a memory carved by the victor.",
+   "all_sets": "Alice Origin 4th Booster Pack"
+  }
+ ]
+}

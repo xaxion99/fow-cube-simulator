@@ -1,0 +1,1564 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/4083",
+   "name": "Acolyte of the Sun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4083/image_en/1e81d6f5-bca9-4a30-83a3-da310e36e78a.jpg",
+   "number": "DBV-001",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Shirono Muku",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The light of faith becomes the source of life.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4084",
+   "name": "Angel of Zeus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4084/image_en/2115c0b0-fc1e-41cf-b649-ddd27de3fb31.jpg",
+   "number": "DBV-002",
+   "rarity": "U",
+   "att_def": "ShiroYayoi",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4186",
+   "name": "Angrboda, Giant of the Setting Sun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4186/image_en/f269b169-2ca4-4dc2-be2a-c678f0e1f8a4.jpg",
+   "number": "DBV-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1400 / 1700",
+   "type": "Resonator",
+   "race": "Giant",
+   "artist": "SIGMAN",
+   "expansion": "The Decisive Battle of Valhalla",
+   "text": "Activate\n[W][W][1], discard this card: Destroy target rested J/resonator or addition. You gain 1000 life.",
+   "flavor_text": "\"Tempted by darkness, the Sun sinks to the Earth.\" -Perfect Loki",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4086",
+   "name": "Atom in Fairytale Land",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4086/image_en/3dcee51a-3023-4116-af33-d8276f8d372b.jpg",
+   "number": "DBV-004",
+   "rarity": "R",
+   "att_def": "Saiko Takaki",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4087",
+   "name": "Bethor, the Angel of Treasure",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4087/image_en/7a60fd0f-3986-407f-a64f-6427d1ab7abf.jpg",
+   "number": "DBV-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "yuko",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "As long as her wings still fly, nobody, not even Atom, dared near the treasure.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4088",
+   "name": "Bewilder",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4088/image_en/a61aa00b-1f5e-4434-8e7e-b7d93f71a82d.jpg",
+   "number": "DBV-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "hatarisu",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Hallucinations produce momentary confusion.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4089",
+   "name": "Brunhild, Ultimate Devotee",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4089/image_en/bfaa7f7c-b783-4549-b15c-a54bc4996f4c.jpg",
+   "number": "DBV-007",
+   "rarity": "SR",
+   "att_def": "Miko Yamazaki",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4090",
+   "name": "Brunhild's Wrath",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4090/image_en/b190debe-928e-4030-818c-f6be71f5e1ba.jpg",
+   "number": "DBV-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "Kamijo Roro",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"Don't expect those girls to show you any goodwill. Their faith is an ideology far removed from the likes of compassion.\" -Atom Seikhart",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4183",
+   "name": "Dark Alice, Rabbit Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4183/image_en/0f1088fe-9da1-4595-b1f0-992d0223e9c2.jpg",
+   "number": "DBV-009",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale/Wererabbit",
+   "artist": "Matsurika Yoko",
+   "expansion": "The Decisive Battle of Valhalla",
+   "text": "Continuous\nAs long as there is a resonator, chant, addition, and magic stone in your graveyard, magic stones you control gain \"[Rest]: Produce [W], [R], [B], [G], or [D].\".",
+   "flavor_text": "Dark Alice broke free from her doll form, only to be trapped in yet another form.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4092",
+   "name": "Dispel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4092/image_en/c16f3459-6a9e-49a1-9e19-ab8d81be1b79.jpg",
+   "number": "DBV-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Rune(Divinity2)",
+   "artist": "BANAMONS*",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Everything that does not adhere to their faith is a target for destruction.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4093",
+   "name": "Einherjar's Summons",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4093/image_en/cb008129-37cd-445c-a991-38f5a83bb409.jpg",
+   "number": "DBV-011",
+   "rarity": "C",
+   "type": "Rune(Divinity2)",
+   "artist": "Miko Yamazaki",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Brunhild ushers in the souls of the fallen heroes.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4094",
+   "name": "Eir, Valkyrie of Mercy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4094/image_en/ac6a7df5-5eda-4ac5-a580-69f0bc2c5189.jpg",
+   "number": "DBV-012",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "SIGMAN",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The warrior who fell in battle is given another chance at glory.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4095",
+   "name": "Gungnir, the True Spear",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4095/image_en/77c440f6-b970-4b3f-9d56-36eb092e6d38.jpg",
+   "number": "DBV-013",
+   "rarity": "R",
+   "att_def": "gekko",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4096",
+   "name": "Light of Keraunos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4096/image_en/b6ff16e4-f456-4b8d-96d6-20d86ed4a677.jpg",
+   "number": "DBV-014",
+   "rarity": "R",
+   "att_def": "Wednesday",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4097",
+   "name": "Messenger of Odin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4097/image_en/33863e10-1407-4104-964a-463baef53d65.jpg",
+   "number": "DBV-015",
+   "rarity": "U",
+   "att_def": "AKI",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4098",
+   "name": "Phaleg, the Angel of War",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4098/image_en/5b5032ca-d59e-495b-b0b9-cb70b5997f4a.jpg",
+   "number": "DBV-016",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "tokiwa",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "War is determined by who makes the first strike.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4099",
+   "name": "Sigrun, Valkyrie of Victory",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4099/image_en/83fdfb8a-2840-4030-bf68-3a1948a31540.jpg",
+   "number": "DBV-017",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "SIE NANAHARA",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"Victory shall be attained by our hands!\"",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4100",
+   "name": "Sorceress of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4100/image_en/cfeb40af-840c-4ed8-839e-8e408e411369.jpg",
+   "number": "DBV-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The rabbits of Lunar Heaven have learned to utilize the vestiges of magic left from activated runes, amplifying their own power.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4101",
+   "name": "Concealed Khopesh",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4101/image_en/fcadafb4-4f51-4bff-9766-f9ddddc8101c.jpg",
+   "number": "DBV-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "Tatsuki Mutou",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"This will be the last thing you see!\" -Isis",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4102",
+   "name": "Desert Miner",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4102/image_en/1367c5f8-4faa-48f0-8159-4c86407ae755.jpg",
+   "number": "DBV-020",
+   "rarity": "U",
+   "att_def": "kurisu",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4103",
+   "name": "Dragon's Flight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4103/image_en/56446f3d-7376-415b-a912-d9018bc7da22.jpg",
+   "number": "DBV-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "suranaki",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Whenever a dragon begins flight, the vast lands of Kunlun start to sway.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4104",
+   "name": "Explosion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4104/image_en/42df71c7-3b44-430e-b212-44e4e82ceea2.jpg",
+   "number": "DBV-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "Mad",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Only silence followed the explosion.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4105",
+   "name": "Godly Aura",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4105/image_en/d1e9d57c-77f7-46f2-bdf7-20b0b8a39463.jpg",
+   "number": "DBV-023",
+   "rarity": "R",
+   "att_def": "hatarisu",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4106",
+   "name": "Isis, Last of the Ascendants",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4106/image_en/2e70e084-0bc8-45f8-9311-f516f1a55d9f.jpg",
+   "number": "DBV-024",
+   "rarity": "SR",
+   "att_def": "Matsurika Yoko",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4107",
+   "name": "Lady Huang, the Concealed Expression",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4107/image_en/5ac9d94d-0cc1-4492-bfa3-d48f01c0e693.jpg",
+   "number": "DBV-025",
+   "rarity": "R",
+   "att_def": "Yukie TAJIMA",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4108",
+   "name": "Lord of Vermilion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4108/image_en/c355a2d6-dc85-4a36-b7e6-970720395ec6.jpg",
+   "number": "DBV-026",
+   "rarity": "SR",
+   "att_def": "Kotakan",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4109",
+   "name": "Pang Tong",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4109/image_en/22774772-876e-4864-af6a-104622950df4.jpg",
+   "number": "DBV-027",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "gekko",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Known affectionately as the \"Young Phoenix\", this young man serves as Fu Xi's advisor.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4110",
+   "name": "Reckless Flame Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4110/image_en/0c0824c1-8326-4df5-a0f2-e5c1ddd78c1e.jpg",
+   "number": "DBV-028",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Moopic",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "There is no greater beauty than the burning of life.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4111",
+   "name": "Sand Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4111/image_en/be622a95-4098-4568-a445-9ee4aaf1e188.jpg",
+   "number": "DBV-029",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Sand/Dragon",
+   "artist": "SO",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The needed materials are all around Sandora.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4112",
+   "name": "Sandora Blacksmith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4112/image_en/d0d8fb43-3258-479c-a441-abb141513979.jpg",
+   "number": "DBV-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "AKI",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "When crafting arms, the slightest mistake can be the difference between life and death.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4113",
+   "name": "Set, the Commander of Destruction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4113/image_en/5eab4ce4-3b58-470f-8e9d-26d6b6e44c9f.jpg",
+   "number": "DBV-031",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Ascendant",
+   "artist": "IWAO",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"Let's see which breaks first, your mind or your body.\"",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4114",
+   "name": "Soldier Ambush",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4114/image_en/910a88fa-902f-498c-aedb-c09327e800c0.jpg",
+   "number": "DBV-032",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "gozz",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"This is where you'll meet your end!...I always wanted to try saying that!\" -Pang Tong",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4115",
+   "name": "Surtr, the Explosion Giant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4115/image_en/3c7e985c-6fc2-4b78-8bde-e3debe8bc77a.jpg",
+   "number": "DBV-033",
+   "rarity": "R",
+   "att_def": "Yuko Nagasaki",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4116",
+   "name": "Tiger of Kunlun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4116/image_en/ba7926bf-8411-4a26-a201-77297ab6b9e3.jpg",
+   "number": "DBV-034",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "TAKUMI",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"It's not that the tiger is strong, you're all just too weak.\" -Fu Xi",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4117",
+   "name": "Tiny Fire and Water Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4117/image_en/ea2ce9ce-6e25-4fdb-8fc6-0e525dfe1562.jpg",
+   "number": "DBV-035",
+   "rarity": "U",
+   "att_def": "SIE NANAHARA",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4118",
+   "name": "Wrath of the Flame God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4118/image_en/f9388c34-2780-4b7b-afc0-216a6a368eb0.jpg",
+   "number": "DBV-036",
+   "rarity": "R",
+   "att_def": "Kusanagi Tyouen",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4119",
+   "name": "Arthur, Knight King of the Final Act",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4119/image_en/a210aaf1-0e5d-4cd3-a9f9-2772825767e9.jpg",
+   "number": "DBV-037",
+   "rarity": "SR",
+   "att_def": "AKI",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4120",
+   "name": "Bergelmir, Giant of Eternal Ice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4120/image_en/fb03c514-fe6b-4950-8620-9e2d4c1b5da5.jpg",
+   "number": "DBV-038",
+   "rarity": "R",
+   "att_def": "Shosuke",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4121",
+   "name": "Clockwork Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4121/image_en/efd92d47-9926-44a4-8277-6891b34b0629.jpg",
+   "number": "DBV-039",
+   "rarity": "U",
+   "att_def": "Haruichi Kido",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4122",
+   "name": "Donut Drone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4122/image_en/49486338-6c9e-4ab2-95c4-7a671771ce96.jpg",
+   "number": "DBV-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "M ganzy",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Excellent for reconnaissance, as well as for scrap parts.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4123",
+   "name": "Fenrir, Final Form",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4123/image_en/dc0d6e77-fae4-4f56-95bc-9d8cc4375d18.jpg",
+   "number": "DBV-041",
+   "rarity": "SR",
+   "att_def": "Kelvin",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4124",
+   "name": "Gawain, the Swift Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4124/image_en/3b7ff036-9007-47f7-8de6-5884f1d0c197.jpg",
+   "number": "DBV-042",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Mad",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Those who are granted knightship undergo alterations in order to better serve their lord.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4125",
+   "name": "Gretel of Misty Woods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4125/image_en/92d37508-056a-411d-8deb-ae409a3052c9.jpg",
+   "number": "DBV-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "noki",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Loki took interest in the children's story of another world, one where fairy tales flourished. It wouldn't hurt to have another world to play in.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4126",
+   "name": "Loki's Watchdog, Fenrir",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4126/image_en/448c746b-f091-4f07-ba02-ae83121f0d29.jpg",
+   "number": "DBV-044",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Kelvin",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"Grab me some too, Fenrir!\" -Loki",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4127",
+   "name": "Machine Corps",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4127/image_en/30a5998f-7cf0-4aa6-9718-69c89d699ba3.jpg",
+   "number": "DBV-045",
+   "rarity": "R",
+   "att_def": "yuhki lily",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4128",
+   "name": "Maintenance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4128/image_en/38154abd-81d3-4a09-8313-6442389d26ca.jpg",
+   "number": "DBV-046",
+   "rarity": "C",
+   "type": "Rune(Divinity 2)",
+   "artist": "Shinichi Chiba",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "For these knights, oil is the same as blood.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4129",
+   "name": "Mechanical Bishop",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4129/image_en/25e847fe-ec2f-400d-b3f7-5ca8f07f7044.jpg",
+   "number": "DBV-047",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Just like how humans save one another, machines do the same.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4130",
+   "name": "Monstrosify",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4130/image_en/2637f0b8-9b1f-4fdd-9bbd-b3381acdcd76.jpg",
+   "number": "DBV-048",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "douzen",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The weaker the person, the more fearsome the monster they hold in their heart.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4131",
+   "name": "Neo Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4131/image_en/8c12c5b8-aa54-45ae-9f31-de49b8ee1048.jpg",
+   "number": "DBV-049",
+   "rarity": "R",
+   "att_def": "suranaki",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4132",
+   "name": "Overflowing Knowledge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4132/image_en/7b29b207-6d4d-42ad-b85e-45dbe55292b0.jpg",
+   "number": "DBV-050",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "yuko",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Loki sealed away her infinite pool of knowledge, releasing it piece by piece whenever she felt the need.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4133",
+   "name": "Perceval, the Shining Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4133/image_en/72031880-8361-49ad-b6db-29c5c6537bb2.jpg",
+   "number": "DBV-051",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "jitari",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"Stand back. I'll handle the rest.\"",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4134",
+   "name": "Reconnaissance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4134/image_en/1993d969-46c2-4f32-8583-a309d97dec0a.jpg",
+   "number": "DBV-052",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "M ganzy",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The Knights of Sky Round are always watching over the world.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4135",
+   "name": "Shadow of Chronos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4135/image_en/a74b3307-77a6-4337-970b-b07cfa537c2d.jpg",
+   "number": "DBV-053",
+   "rarity": "U",
+   "att_def": "Nakaba Higurashi",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4136",
+   "name": "The Final Act",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4136/image_en/e69b4a83-b54e-4652-9a2a-cbe1599ec030.jpg",
+   "number": "DBV-054",
+   "rarity": "R",
+   "att_def": "MATSUMOTO EIGHT",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4137",
+   "name": "Acolyte of Shiva",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4137/image_en/f23fc601-17e0-47ac-9f5a-ec2b8eef6702.jpg",
+   "number": "DBV-055",
+   "rarity": "U",
+   "att_def": "yua",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4138",
+   "name": "Bastet, Creator of Cats",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4138/image_en/3a53d491-905e-4f7f-b246-429ce4f344e6.jpg",
+   "number": "DBV-056",
+   "rarity": "SR",
+   "att_def": "ComamitsuZaki",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4139",
+   "name": "Berserker Chamimi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4139/image_en/f5fc0ffa-3499-430e-83f0-741bc1453f4e.jpg",
+   "number": "DBV-057",
+   "rarity": "SR",
+   "att_def": "AKI",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4140",
+   "name": "Caith Sith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4140/image_en/e13b29e8-9d73-450b-b70f-cc24b05f69c0.jpg",
+   "number": "DBV-058",
+   "rarity": "R",
+   "att_def": "Tomomi TOMIDA",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4141",
+   "name": "Calico Cat Shikigami",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4141/image_en/d4e9463e-18c2-4a76-b44b-3c59b9d13af5.jpg",
+   "number": "DBV-059",
+   "rarity": "U",
+   "att_def": "noki",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4142",
+   "name": "Chant of Tranquility",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4142/image_en/32d3173b-8917-4f8e-b632-3d24cc3da410.jpg",
+   "number": "DBV-060",
+   "rarity": "R",
+   "att_def": "Tsukumi",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4143",
+   "name": "Chiyome, the Captivating Kunoichi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4143/image_en/6454bffd-e128-45a2-b875-3393194043dd.jpg",
+   "number": "DBV-061",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Cat/Ninja",
+   "artist": "Yukie TAJIMA",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Her seduction techniques are the best in the world. It's a shame they only work on cats.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4144",
+   "name": "Forest Meditation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4144/image_en/5acc40ef-8c89-4542-a4ed-467b4f3122db.jpg",
+   "number": "DBV-062",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "gozz",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The god of the forest grants a mysterious power to those who pray.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4145",
+   "name": "Fuhma Shuriken",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4145/image_en/28b788cf-2f36-4872-91ed-0a1e9eec7188.jpg",
+   "number": "DBV-063",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "Nagi-nyan",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"My shurikens do quite a number. A well placed one can incapacitate any foe.\" -Hanzo",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4146",
+   "name": "Huge Toad",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4146/image_en/2be17648-7cdc-48dd-b7d6-e01600f7caa8.jpg",
+   "number": "DBV-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Kamijo Roro",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "While it may be Jiraiya's ride, its strength is nothing to scoff at.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4147",
+   "name": "Jiraiya, the Toad User",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4147/image_en/6a21a827-3a54-44ba-95f3-de83d3b17791.jpg",
+   "number": "DBV-065",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Cat/Ninja",
+   "artist": "Kamijo Roro",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Even if Jiraiya is defeated, the toads continue the fight. Such a strong drive is one of their appeals.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4148",
+   "name": "Pygmy Hippo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4148/image_en/e8331ae4-ff58-4058-8794-105451bc1cba.jpg",
+   "number": "DBV-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "sasaki kounosuke",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Lost Isles' unique ecosystem comes with a trove of rare animals.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4149",
+   "name": "Relief through Destruction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4149/image_en/bd9ca028-cb22-46c1-bb05-5ff9775b3f15.jpg",
+   "number": "DBV-067",
+   "rarity": "R",
+   "att_def": "Misa Tsutsui",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4150",
+   "name": "Snipe Away Mi-!!",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4150/image_en/3e228b79-4dd1-4f15-8b15-a20bcfb9a19f.jpg",
+   "number": "DBV-068",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "BANAMONS*",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"It's too late to beg for your lives mi-!\"",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4151",
+   "name": "Soot Sprite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4151/image_en/a9a4deb0-b3f2-4475-a244-c2b8e296afb7.jpg",
+   "number": "DBV-069",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Youkai",
+   "artist": "RYUEMON",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The Kouga utilized these small youkai as messengers.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4152",
+   "name": "The Hundred Eyed One",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4152/image_en/e2ba039d-4b19-45e0-8dd4-58d8c17743bc.jpg",
+   "number": "DBV-070",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Youkai",
+   "artist": "SIE NANAHARA",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Despite all the eyes, its eyesight is surprisingly poor.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4153",
+   "name": "Trou, Giant of Destruction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4153/image_en/c07367b9-9e3e-4158-b3a8-367e9dd53563.jpg",
+   "number": "DBV-071",
+   "rarity": "R",
+   "att_def": "Moopic",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4154",
+   "name": "Whirlwind Technique",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4154/image_en/674b6369-738d-4051-b8e2-d4018835ffc0.jpg",
+   "number": "DBV-072",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "sasaki kounosuke",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "A technique to protect from projectiles.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4155",
+   "name": "Athenia's Love",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4155/image_en/8d9a8abe-fbab-417b-9825-c0092560f874.jpg",
+   "number": "DBV-073",
+   "rarity": "R",
+   "att_def": "jitari",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4156",
+   "name": "Demon Division",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4156/image_en/c6396ae9-4943-4b51-9363-5c80234530d3.jpg",
+   "number": "DBV-074",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "douzen",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The demons will always hear out your wish. Whether or not they grant it is up to their whims.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4157",
+   "name": "Fallen Angel of Fiery Vengeance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4157/image_en/3154154e-084d-43ff-a256-f5d0fc084dfc.jpg",
+   "number": "DBV-075",
+   "rarity": "U",
+   "att_def": "BANAMONS*",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4158",
+   "name": "Fanatic of Grief",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4158/image_en/bffea90a-2dd1-4232-99b8-ef99bd6b815e.jpg",
+   "number": "DBV-076",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Cola",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Faith is always accompanied by madness.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4159",
+   "name": "Fleurety",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4159/image_en/8d5c6f22-4319-41c6-9d7e-d61f81bd56a4.jpg",
+   "number": "DBV-077",
+   "rarity": "C",
+   "att_def": "ShiroYayoi",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4160",
+   "name": "Immortal Commander",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4160/image_en/617259cb-f2b0-4b12-b20d-7f93cf46a266.jpg",
+   "number": "DBV-078",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Vampires reign as the strongest of the undead.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4161",
+   "name": "Invitation to Purgatory",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4161/image_en/e8aecff6-2a9e-468f-bd81-ff684d9af3f6.jpg",
+   "number": "DBV-079",
+   "rarity": "R",
+   "att_def": "haniwa",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4162",
+   "name": "Lich, the Resurrected Cleric",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4162/image_en/6d88b821-0300-447e-ba35-892ce784d05f.jpg",
+   "number": "DBV-080",
+   "rarity": "R",
+   "att_def": "Kamijo Roro",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4163",
+   "name": "Lucifer, Leader of the Fallen Angels",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4163/image_en/8e857ab2-3e1f-42aa-a28b-8b4b85ccef2f.jpg",
+   "number": "DBV-081",
+   "rarity": "SR",
+   "att_def": "Nekobayashi",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4164",
+   "name": "Onlooking Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4164/image_en/df21fce2-873c-4d55-8a30-5b9488d2561d.jpg",
+   "number": "DBV-082",
+   "rarity": "U",
+   "att_def": "j-peg",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4165",
+   "name": "Sefirot, the Blueprint of Life",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4165/image_en/4339f532-82f1-4eeb-ac55-77529c3b86ab.jpg",
+   "number": "DBV-083",
+   "rarity": "SR",
+   "att_def": "mita kura",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4166",
+   "name": "Shemhaza, the Fallen Angel of Sadism",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4166/image_en/9e91ff47-0e28-4d38-8d6f-38b6a88fe022.jpg",
+   "number": "DBV-084",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Fallen Angel",
+   "artist": "touge369",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "\"Now, offer your body and soul to me.\"",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4167",
+   "name": "Skeleton Horde",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4167/image_en/cc85c6bb-f539-4934-b5fa-c90b1044a3e6.jpg",
+   "number": "DBV-085",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Skeleton",
+   "artist": "Tatsuki Mutou",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "Even if you crush their bones, they'll reassemble and stand again.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4168",
+   "name": "Sword of Lament",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4168/image_en/a39efa44-d398-413d-aba4-5f889fa82f21.jpg",
+   "number": "DBV-086",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Rune(Divinity 3)",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "A blade of cruelty.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4169",
+   "name": "Tears of the Fallen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4169/image_en/853fc108-cd6d-4c7b-ac37-81176bff159d.jpg",
+   "number": "DBV-087",
+   "rarity": "C",
+   "type": "Rune(Divinity 2)",
+   "artist": "Tsukumi",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The tears of the heartbroken rain down on this land.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4170",
+   "name": "Undeath",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4170/image_en/81b6696d-22f6-4eb0-9348-9c7424a04cfa.jpg",
+   "number": "DBV-088",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Rune(Divinity 2)",
+   "artist": "tokiwa",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "The chasm of the abyss loves the dead, almost as much as it loves to bring them back.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4184",
+   "name": "Utgarda Loki, Giant of Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4184/image_en/e62e46b3-2aa2-412e-83c5-5d67bd50619e.jpg",
+   "number": "DBV-089",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1800",
+   "type": "Resonator",
+   "race": "Giant",
+   "artist": "Takumi Sugikawa",
+   "expansion": "The Decisive Battle of Valhalla",
+   "text": "Activate\n[d][d][1], discard this card: Your opponent discards a card. You lose 400 life.",
+   "flavor_text": "\"The darkness continues to grow, until it consumes all.\" -Perfect Loki",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4172",
+   "name": "Vlad, the Insatiable",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4172/image_en/c6596373-3b46-4602-9601-8e537ef13691.jpg",
+   "number": "DBV-090",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "kurisu",
+   "expansion": "The Decisive Battle of Valhalla",
+   "flavor_text": "A vampire's thirst never ceases.",
+   "all_sets": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4173",
+   "name": "Alice, Zeus Incarnate",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4173/image_en/90c65ffc-b296-40fc-94d1-74ae7b9d7e56.jpg",
+   "number": "DBV-091",
+   "rarity": "SR",
+   "att_def": "Wednesday",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4174",
+   "name": "Athenia, Deity of Harvest and Corruption",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4174/image_en/35dfe475-df0d-4d7f-b68b-06694e3b7944.jpg",
+   "number": "DBV-092",
+   "rarity": "SR",
+   "att_def": "sakura moyon",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4175",
+   "name": "Deus Ex Machina, God of Machines",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4175/image_en/34c96019-9a15-40f5-ae41-fb899ddade24.jpg",
+   "number": "DBV-093",
+   "rarity": "SR",
+   "att_def": "Rumie",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4176",
+   "name": "Genshi Tenson, God of Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4176/image_en/66628deb-169d-45bd-bfe0-40e9485214ff.jpg",
+   "number": "DBV-094",
+   "rarity": "SR",
+   "att_def": "Kusanagi Tyouen",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4177",
+   "name": "Kaguya, Sealed God of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4177/image_en/2135b9d5-2cd1-47a9-89cf-110c2dc9c8f5.jpg",
+   "number": "DBV-095",
+   "rarity": "SR",
+   "att_def": "Fukuzo Katsura",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4178",
+   "name": "Nyarlathotep, God Devouring Messiah",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4178/image_en/6022eb36-778b-4f98-b5d1-6977cfda2ad4.jpg",
+   "number": "DBV-096",
+   "rarity": "SR",
+   "att_def": "yuko",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4179",
+   "name": "Odin, Supreme God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4179/image_en/7d86f703-eac4-45b0-b2c3-58ed6b0311fc.jpg",
+   "number": "DBV-097",
+   "rarity": "SR",
+   "att_def": "kakotomirai",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4180",
+   "name": "Perfect Loki",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4180/image_en/30f67a95-8253-4c16-8621-88619811714f.jpg",
+   "number": "DBV-098",
+   "rarity": "SR",
+   "att_def": "ishishou",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4181",
+   "name": "Satan, God of the Fallen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4181/image_en/c49ed171-2f4f-4054-9035-01fd32044a59.jpg",
+   "number": "DBV-099",
+   "rarity": "SR",
+   "att_def": "Mad",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4182",
+   "name": "Shiva, God of Destruction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/41/4182/image_en/759fa018-a74f-4bd9-a308-f9c6e5ddeac0.jpg",
+   "number": "DBV-100",
+   "rarity": "SR",
+   "att_def": "gozz",
+   "type": "The Decisive Battle of Valhalla",
+   "expansion": "The Decisive Battle of Valhalla"
+  }
+ ]
+}

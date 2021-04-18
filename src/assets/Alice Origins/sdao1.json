@@ -1,0 +1,719 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/4256",
+   "name": "Avalon, Illusionary Home of Knights",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4256/image_en/5c99c0bf-fae9-43f7-a95a-0153d476191f.jpg",
+   "number": "SDAO1-001",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Haruichi Kido",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Continuous\nKnights of the Round Table you control gain [+200/+200].",
+   "flavor_text": "The lost land of knights, reborn from Faria's will.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4257",
+   "name": "Bedivere, the Restorer of Souls",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4257/image_en/88915909-0ed7-49fe-945f-9099055e3ccf.jpg",
+   "number": "SDAO1-002",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "kakotomirai",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may remove target resonator with 1000 or more ATK from the game.",
+   "flavor_text": "\"The soul just wants a place to go, nothing more.\"",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4258",
+   "name": "Gawain, the Knight of the Sun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4258/image_en/fc7a5256-b835-4280-85d1-7160e0e192e5.jpg",
+   "number": "SDAO1-003",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 700",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "ORETO",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
+   "flavor_text": "\"I failed to protect my ruler in the past. In this world, I'll protect you at any cost.\"",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4259",
+   "name": "Kai, the Resonant Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4259/image_en/7a0e4691-1378-42dd-b817-060a069e092c.jpg",
+   "number": "SDAO1-004",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "311tarou",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Look at the top card of your deck. If it's a Knight of the Round Table, reveal it and put it into your hand.",
+   "flavor_text": "There are many friends at the Round Table.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4260",
+   "name": "Perceval, the Seeker of Holy Grail",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4260/image_en/bffc38ad-9d6d-4ceb-9a1e-9176753f271d.jpg",
+   "number": "SDAO1-005",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "Foo Midori",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Activate\nBanish this card: Prevent all damage that would be dealt to target J-ruler or Knight of the Round Table until end of turn.",
+   "flavor_text": "To her, this is the beginning of a new search for the Grail.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4261",
+   "name": "Siegfried, the Dragon Knight (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4261/image_en/ebf87725-472d-472f-b554-963d50a4378d.jpg",
+   "number": "SDAO1-006",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "700 / 1000",
+   "type": "Resonator (Stranger)",
+   "race": "Paladin",
+   "artist": "ezusuke",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Destroy target rested resonator.",
+   "flavor_text": "\"I made a place to live to heal my wounded body. The name is Vell-Savaria, whose meaning is 'the memory of gods' in the language of Valhalla.\" - Note of Magna 2",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4262",
+   "name": "White Wizard (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4262/image_en/fdee0854-b0a5-453a-9c9d-a11067acda92.jpg",
+   "number": "SDAO1-007",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator (Stranger)",
+   "race": "Wizard",
+   "artist": "Haruichi Kido",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Distribute two [+100/+100] counters on up to two target J/resonators you control.",
+   "flavor_text": "\"I drifted here to escape the time of Ragnarok, as the Battle of Gods will destroy Valhalla. Everything, except the Miniature World.\" - Note of Magna 1",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4263",
+   "name": "Demonflame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4263/image_en/f4f6cafe-5ad6-489b-9c46-6396207f0aeb.jpg",
+   "number": "SDAO1-008",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagi-nyan",
+   "expansion": "Alice Origin 1st Start Deck",
+   "flavor_text": "\"Burn!\" -Melgis, the Flame King",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4264",
+   "name": "Guinevere, the Jealous Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4264/image_en/7420172e-6cbc-4686-8f04-1c3e8007b105.jpg",
+   "number": "SDAO1-009",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Queen",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Activate\n[R], [rest]: Target resonator you control gains [+400/+400] until end of turn. When it deals or is dealt damage this turn, banish it.",
+   "flavor_text": "\"Oh, seems I made another mistake...please bring me the next one.\"",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4265",
+   "name": "Hector de Maris, the Acolyte of Mad Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4265/image_en/719bf394-096e-4163-8b6c-56703320ffed.jpg",
+   "number": "SDAO1-010",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "hatarisu",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [+400/0] until end of turn.",
+   "flavor_text": "\"This world? I don't care. I'll follow Lancelot anywhere, come what may.\"",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4266",
+   "name": "Lancelot, the Knight of Mad Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4266/image_en/c1e6cd45-29e4-454c-9e9f-ed7071cfa5fb.jpg",
+   "number": "SDAO1-011",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Activate\n[R]: This card gains [+100/0] until end of turn.",
+   "flavor_text": "The nature of a summoned hero depends on the nature of the summoner. The power of the demon sword changed him into a cruel knight.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4267",
+   "name": "Perceval, the Fascinated by Holy Grail",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4267/image_en/3fbdeaf5-bd34-4627-bee9-50ed8c9dda30.jpg",
+   "number": "SDAO1-012",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "Haruichi Kido",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Activate\nBanish this card: This card deals 200 damage to target player or J/resonator.",
+   "flavor_text": "The red Holy Grail responds to the ambition of Melgis.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4268",
+   "name": "Red Wizard (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4268/image_en/bb5fffa6-8144-4e87-a6b7-f60e715ff293.jpg",
+   "number": "SDAO1-013",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator (Stranger)",
+   "race": "Wizard",
+   "artist": "Yuu Fujiki",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ This card deals 600 damage to each resonator your opponent controls.",
+   "flavor_text": "\"I have quested for the source of the power. The power source of the memories from other worlds was easily found. It is a tree that can be seen from anywhere and is located in the center of the world.\" - Note of Magna 6",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4269",
+   "name": "Regulus, the King of Volcano (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4269/image_en/68053ade-cbbb-4c95-a4f4-83d3092a4cf8.jpg",
+   "number": "SDAO1-014",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator (Stranger)",
+   "race": "Beast",
+   "artist": "Shinichi Hiromoto",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\nWhenever this card is dealt damage ⇒ It deals that much damage to your opponent.",
+   "flavor_text": "\"I met a girl playing with animals near the giant tree, and she told me that its name was Yggdrasil. Apparently a part of the power of Valhalla came to this world before me, and made the tree into a container of memories.\" - Note of Magna 7",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4270",
+   "name": "Twin Swords of Water's Mercy (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4270/image_en/0592246c-a77a-44cf-ba57-3a3a00a41acc.jpg",
+   "number": "SDAO1-015",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator (Stranger)",
+   "race": "Swordsman",
+   "artist": "Pisuke",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Put target resonator on top of its owner's deck.",
+   "flavor_text": "\"Strangely, in Vell-Savaria many things like spirits, ghosts, and gods from other worlds are appearing. Maybe the memories of this world are resonating with my power and presence.\" - Note of Magna 3",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4271",
+   "name": "Undine, the Spirit (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4271/image_en/9576bcf6-e52f-4543-bef5-f44d6ebec4d4.jpg",
+   "number": "SDAO1-016",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator (Stranger)",
+   "race": "Spirit",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Return up to three target non-J/resonator non-magic stone entities to their owners' hands.",
+   "flavor_text": "\"A lady who lost her memory came to Vell-Savaria. This cannot be a coincidence, as the barrier around the city keeps visitors away. Her name is Lenneth, and without her memory she can become a container of memories.\" - Note of Magna 4",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4272",
+   "name": "Amon, the Demon Prince of Conspiracy (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4272/image_en/af0c8dc9-980d-4bb9-bf7e-6dc4f7272726.jpg",
+   "number": "SDAO1-017",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator (Stranger)",
+   "race": "Demon",
+   "artist": "ezusuke",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Draw a card for each 700 life paid as this card entered the field.",
+   "flavor_text": "\"To keep storing the power of Valhalla in this tree will be bad for this world, as this really is a lot of power.\" - Note of Magna 9",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4273",
+   "name": "Shade (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4273/image_en/f79bcaa8-ea39-4a59-b2ce-aa6a4143c6f7.jpg",
+   "number": "SDAO1-018",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator (Stranger)",
+   "race": "Spirit",
+   "artist": "lack",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Your opponent banishes a resonator.",
+   "flavor_text": "\"Yggdrasil has memories from many different worlds, including the memories of Valhalla. And I am the only one who can use or remove them.\" - Note of Magna 8",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4274",
+   "name": "Arthur, the King of Knights (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4274/image_en/8593a8f8-47ea-4d73-b778-e019343ec83f.jpg",
+   "number": "SDAO1-019",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator (Stranger)",
+   "race": "Knight of the Round Table",
+   "artist": "Hitowa",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ You may search your deck for a Knight of the Round Table and put it into the field.",
+   "flavor_text": "\"I decided to go on a quest to find out why all those memories from other worlds would suddenly appear here in this world, and left Vell-Savaria in the capable hands of Lenneth.\" - Note of Magna 5",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4275",
+   "name": "Awakening of the Flame King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4275/image_en/0364bcee-fbf3-4340-b3ee-f0e4ca5171e1.jpg",
+   "number": "SDAO1-020",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "Saiko Takaki",
+   "expansion": "Alice Origin 1st Start Deck",
+   "flavor_text": "\"Give me your power!\" - Melgis",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4276",
+   "name": "Awakening of the Sacred Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4276/image_en/7fc5df56-ac19-4b5a-90c3-d6e86d4ce824.jpg",
+   "number": "SDAO1-021",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "uekino aroe",
+   "expansion": "Alice Origin 1st Start Deck",
+   "flavor_text": "That light will be the beacon of Gloria.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4277",
+   "name": "Bloody Break",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4277/image_en/598fd00c-b085-4c74-8507-6b77eda3a85a.jpg",
+   "number": "SDAO1-022",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "yuhki lily",
+   "expansion": "Alice Origin 1st Start Deck",
+   "flavor_text": "Blood will quench thirst.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4278",
+   "name": "C? Chulainn, the Hero in a Far Land (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4278/image_en/32ba3867-2bd6-4b1e-b546-28f0085cffb8.jpg",
+   "number": "SDAO1-023",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator (Stranger)",
+   "race": "Hero",
+   "artist": "Hatori Kyoka",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\nWhenever this card attacks ⇒ Your opponent discards a card.",
+   "flavor_text": "\"I decided to remove memories from Yggdrasil to keep it stable, and put them into magical objects that now resonate strongly with those memories. The keepers of these objects will be able to use the memories and power of Valhalla and other worlds, as long as I live. And I named them Regalia.\" - Note of Magna 10",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4279",
+   "name": "Darkest Fire Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4279/image_en/4b820fdc-fbaa-4488-b3ae-99b89785707d.jpg",
+   "number": "SDAO1-024",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Destroy target damaged resonator. If you do, put two [+100/+100] counters on this card.",
+   "flavor_text": "The Darkest Fire loves blood and scars.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4280",
+   "name": "Excalibur",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4280/image_en/15984161-e2f6-458b-90bf-401d6d9da679.jpg",
+   "number": "SDAO1-025",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Continuous\nYour J-ruler gains [+400/+400].",
+   "flavor_text": "Sacred Light will shine with noble will.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4281",
+   "name": "Faria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4281/image_en/0822ab03-e286-4d8a-b6c4-4579fcb2f7f4.jpg",
+   "number": "SDAO1-026",
+   "type": "Ruler",
+   "race": "Little Girl",
+   "artist": "Nekobayashi",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\nWhenever a light regalia enters the field under your control ⇒ Choose one, if the regalia is \"Excalibur\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or destroy target rested resonator; or draw a card; or you may pay [0] to do judgment until end of turn.",
+   "flavor_text": "Her sister is ill in bed, her brother left. This little girl takes a step into the future, taking up the sword to protect her home with strong will.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4283",
+   "name": "Laevateinn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4283/image_en/06ffcb25-38b5-402a-85c1-f42e22b1381d.jpg",
+   "number": "SDAO1-027",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "saki kounosuke",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Continuous\nYour J-ruler gains [Swiftness].",
+   "flavor_text": "The souls of the heroes are exploited by insolent ambitions.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4284",
+   "name": "Melgis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4284/image_en/102ef263-b3c2-48b1-b950-ef87174a00fe.jpg",
+   "number": "SDAO1-028",
+   "type": "Ruler",
+   "race": "Warrior",
+   "artist": "gekko",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\nWhenever a fire regalia enters the field under your control ⇒ Choose one, if the regalia is \"Laevateinn\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or this card deals 500 damage to target player or J/resonator; or put a [700/100] fire Warrior resonator token with [Swiftness] into the field. At the next end of turn ⇒ Its controller banishes it; or you may pay [0] to do judgment until end of turn.",
+   "flavor_text": "His family died, his friends left him. He is all alone, trying to win every fight.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4286",
+   "name": "Sacred Wave Blade",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4286/image_en/76db4489-ba42-4d1e-89b0-96f08f8746c6.jpg",
+   "number": "SDAO1-029",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "KAZTO FURUYA",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Continuouo\nRemove target resonator or addition from the game. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.",
+   "flavor_text": "\"Never forget this!\" -Faria",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4287",
+   "name": "Traveler in Wonderland",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4287/image_en/d9bf2bd6-4cec-49d1-b486-a9e193585a57.jpg",
+   "number": "SDAO1-030",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "Wednesday",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Activate\n[0]: Choose a race. Resonators you control gain the chosen race until end of turn. Play this ability only once per turn.",
+   "flavor_text": "A traveler from another world visited Attoractia, and met with the future Sacred Queen.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4288",
+   "name": "Viviane",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4288/image_en/eead29f0-319f-48ee-9650-3d72bc670482.jpg",
+   "number": "SDAO1-031",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Automatic\n[Enter] ⇒ Search your deck for a card named \"Avalon, Illusionary Home of Knights\" and put it into the field. If you control \"Avalon, Illusionary Home of Knights\", you may search your deck for a card named \"Excalibur\" instead.",
+   "flavor_text": "\"Hero, where are you?\"",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4289",
+   "name": "Volga, the Fire King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4289/image_en/adfef5e4-14fb-49b8-9655-6010bef5529b.jpg",
+   "number": "SDAO1-032",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "King",
+   "artist": "ukuzo Katsura",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Continuou\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Laevateinn\", reveal it and put it into your hand. If your life is 2000 or less, you may put it into the field instead.",
+   "flavor_text": "\"Kid, if you can defeat me, I'll give you this sword. If I still can.\"",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4290",
+   "name": "Attoractia’s Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4290/image_en/ca03c2da-fd31-4204-9dcd-c8e04f363a49.jpg",
+   "number": "SDAO1-033",
+   "type": "Special Magic Stone",
+   "artist": "Moopic",
+   "expansion": "Alice Origin 1st Start Deck",
+   "flavor_text": "\"This is the powersource Lord Magna made to extract the memories. He calls it a Memoria.\" Lenneth, the Priestess of Vell-Savaria",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4291",
+   "name": "Magic Stone of Light Vapors",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4291/image_en/56a7dd86-b12c-436e-9af1-bc536c24db60.jpg",
+   "number": "SDAO1-034",
+   "type": "Special Magic Stone",
+   "artist": "Moopic",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Activate\n[rest]: Produce [W] or [U].",
+   "flavor_text": "The shining paths that branch from the crossroad.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4292",
+   "name": "Magic Stone of Scorched Bales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4292/image_en/9476bf32-b9d6-4321-87b3-bcb705e97b52.jpg",
+   "number": "SDAO1-035",
+   "type": "Special Magic Stone",
+   "artist": "Nagi-nyan",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Activate\n[rest]: Produce [B] or [R].",
+   "flavor_text": "Hidden within the night, the burning spiral of seeds.",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4293",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4293/image_en/1a53f697-648e-4611-845d-b78de56f0780.jpg",
+   "number": "SDAO1-036",
+   "type": "Basic Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Alice Origin 1st Start Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4294",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4294/image_en/8b3a5924-4970-4512-8f3b-4bda5ddf58a5.jpg",
+   "number": "SDAO1-037",
+   "type": "Basic Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Alice Origin 1st Start Deck",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Alice Origin 1st Start Deck"
+  }
+ ]
+}

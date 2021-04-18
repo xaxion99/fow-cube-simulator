@@ -1,0 +1,2206 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/3982",
+   "name": "Ancient Moon Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3982/image_en/29a6e173-bcb8-49c2-ba88-7476ae15c762.jpg",
+   "number": "AOA-001",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Rumie",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [+400/+400] as long as you control a Moon.",
+   "flavor_text": "Only when she looks at the moon does Ayu let such a longing expression slip. As if looking at something that can never return.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3983",
+   "name": "Arcana Collector",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3983/image_en/fde1312c-5b1b-40e2-ad4b-381c9024728d.jpg",
+   "number": "AOA-002",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "j-peg",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [+400/+400] and [Barrier] as long as you control four or more light magic stones.",
+   "flavor_text": "Arcana hold the secrets to the ultimate fate of this world.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3984",
+   "name": "Ares, Knight God Emperor of the Burial Grounds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3984/image_en/00d97389-e026-456f-9aea-5cf74151d127.jpg",
+   "number": "AOA-003",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 800",
+   "type": "Resonator",
+   "race": "Deity",
+   "artist": "Retro",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nOther light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.",
+   "flavor_text": "\"Lend me your strength, proud war god of antiquity.\" -Misteltein, the Pious Sword Saint",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3985",
+   "name": "Ballista Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3985/image_en/49c2851c-7a9d-4c95-88e3-9b072fe47e13.jpg",
+   "number": "AOA-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "700 / 1700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "yuhki lily",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nAt the end of your turn ⇒ Recover this card.",
+   "flavor_text": "Practicing repetitive drills constantly has led to perfect unceasing form.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3986",
+   "name": "Brunhild's Shield",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3986/image_en/95aa03ea-8c0a-4628-9705-66d782af6e1a.jpg",
+   "number": "AOA-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "0 / 700",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "KONNO Takashi",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nBanish this card: Target resonator gains [Eternal] until end of turn.",
+   "flavor_text": "There's no greater honor than to die for your lord.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3987",
+   "name": "Delphinius, Flying Giant Beast in the Sky",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3987/image_en/b3681c5a-5fbe-4eea-8d82-2fd48d7d40b6.jpg",
+   "number": "AOA-006",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1300 / 1500",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "SO",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Destroy all resonators with [Flying] your opponent controls.",
+   "flavor_text": "The god sealed within Linorsphairia had been influenced by Alice's fairy tale power, taking the form of a large, flying, whale-like beast.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3988",
+   "name": "Holy Knight Burial Grounds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3988/image_en/0c33ca77-a7ff-48ec-9dc3-b017538dcad9.jpg",
+   "number": "AOA-007",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "gozz",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nResonators you control gain [+200/+200] as long as there are three or more grave-post counters on this card. As long as there are seven or more grave-post counters on this card, they gain [+400/+400] instead.",
+   "flavor_text": "All alone, Ares continued to protect these grounds.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3989",
+   "name": "Holy Steed of Faith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3989/image_en/5fa8fcbc-c90c-4c21-b5ba-3a244f47c4fd.jpg",
+   "number": "AOA-008",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "tokiwa",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nWhenever a resonator you control attacks ⇒ You gain 400 life.",
+   "flavor_text": "Blessings are granted to those of great faith. Even if they may be a horse.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3990",
+   "name": "Kara, Valkyrie of the Red Lance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3990/image_en/39425d72-be0e-4bce-95e9-1d520ba5f442.jpg",
+   "number": "AOA-009",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "KAZTO FURUYA",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[r]: This card gains [+200/+200] until end of turn.",
+   "flavor_text": "She will do anything to see her lord's ambitions through.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3991",
+   "name": "Linorsphairia, Vast Land Above the Clouds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3991/image_en/539f6612-21f4-4e8d-b934-671188c6cc97.jpg",
+   "number": "AOA-010",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "mita kura",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nAt the beginning of you main phase ⇒ Produce [w]. If there are four or more runes revealed from your rune area, produce [w][w] instead.",
+   "flavor_text": "In the last moments of the war, the spirits of Linorsphairia cut off the land from that world and brought it to this one.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3992",
+   "name": "Moonlight Nocturne",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3992/image_en/d2dea38f-cca1-41c9-92c6-e88a9c8492e5.jpg",
+   "number": "AOA-011",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Saiko Takaki",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Lalalala〜♪ Hm? I'm out of tune?\" -Ayu",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3993",
+   "name": "Priest of Minerva",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3993/image_en/8795d01c-2cb7-40b0-9a62-399b8da33ac3.jpg",
+   "number": "AOA-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Lord Odin shall inevitably return to bestow victory and glory to Minerva.\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3994",
+   "name": "Sapling of the Treasure Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3994/image_en/075961d2-c89e-4896-b144-e36c44961021.jpg",
+   "number": "AOA-013",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "0 / 100",
+   "type": "Resonator",
+   "race": "Treasury Item",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[Rest], discard a card, remove this card from the game: Produce [w][w][w].",
+   "flavor_text": "The wills of many have coalesced over the years, giving birth to the treasure tree.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3995",
+   "name": "Shower of Light Blades",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3995/image_en/594feda4-dad2-4612-ba73-ade79c4b6dbc.jpg",
+   "number": "AOA-014",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Retro",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "The blades of light pour from above, turning their target into pieces in a dazzlement of light.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3996",
+   "name": "Snow of Linorsphairia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3996/image_en/9af75908-94f4-4020-b739-7860dd66ab18.jpg",
+   "number": "AOA-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mita kura",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "Wrapping all of life in its embrace, the light of Linorsphairia.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3997",
+   "name": "Soul Resonance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3997/image_en/17ab358a-2a5e-49d3-9642-0c018b229ff0.jpg",
+   "number": "AOA-016",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "hatarisu",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"To the warrior spirits resting within this earth... I shall free your souls now.\" -Misteltein, the Pious Sword Saint",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3998",
+   "name": "Spirit of Cloud",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3998/image_en/7795b8d2-ad1a-48af-8e6a-ad27416db56c.jpg",
+   "number": "AOA-017",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Haruichi Kido",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nPrevent all damage that would be dealt to this card by resonators during your opponent's turn.",
+   "flavor_text": "Try to catch cloud, all you will find is thin air.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3999",
+   "name": "Traveler in the Sea of Clouds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3999/image_en/f6a15a52-d358-427c-93c2-7fd95ea3e7a0.jpg",
+   "number": "AOA-018",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Master Rune(Divinity 2)",
+   "artist": "SO",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Fortune favors the brave! Now, let's go, let's go!\" -Ayu",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4000",
+   "name": "Volley",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4000/image_en/e52c1c66-29ad-4e23-9325-e952579f039d.jpg",
+   "number": "AOA-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant",
+   "artist": "jugemt",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Show them no mercy. Fire!\" -Brunhild",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4001",
+   "name": "Yggnitsvay, Spirit of Laurel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4001/image_en/aac56e82-0a9b-4b55-b7b0-37c765f9eaad.jpg",
+   "number": "AOA-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "ShiroYayoi",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [Drain] as long as you control seven or more light magic stones.",
+   "flavor_text": "\"Where am I? My, what a lovely moon.\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4002",
+   "name": "Asakna Training Grounds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4002/image_en/becb5ce9-6f1a-4ebb-9be2-557966818369.jpg",
+   "number": "AOA-021",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "Kakiken",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[Rest]: Put a [+100/+100] counter on target fire resonator.",
+   "flavor_text": "Asakna was once a city of many brave warriors. It now stands forgotten by the world.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4003",
+   "name": "Bird of Scorching Sand",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4003/image_en/ecc20360-c8ef-4d8b-a0c9-893ab1851431.jpg",
+   "number": "AOA-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 900",
+   "type": "Resonator",
+   "race": "Sand/Beast",
+   "artist": "Haruki Komai",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Banish a fire magic stone.",
+   "flavor_text": "These birds are sometimes used within the palace to transport hot foods.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4004",
+   "name": "Contract Forged in Sand",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4004/image_en/d749ca05-63fb-4468-863a-0096f7b5ccf0.jpg",
+   "number": "AOA-023",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Nagi-nyan",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Contract complete. I'll make sure to work you to death, and then some.\" -Nyarlathotep, the Return of Chaos",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4005",
+   "name": "Flame Dragon Summoning",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4005/image_en/fb707424-7319-4f12-838a-3eedcb55288d.jpg",
+   "number": "AOA-024",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Kotakan",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"The one to govern this world shall be me.\" -Fu Xi",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4006",
+   "name": "Ghost of Asakna",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4006/image_en/6e6c2a00-52a5-4e1a-a5b6-c5425cb0b1bc.jpg",
+   "number": "AOA-025",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "yuko",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nWhen this card is targeted by a spell ⇒ Banish it.",
+   "flavor_text": "Unsatisfied with their battles in life, this Asakna soldier walks again.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4007",
+   "name": "Isis' Elite Guard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4007/image_en/476c36b3-de7d-410d-9a95-865aa9557bb0.jpg",
+   "number": "AOA-026",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [0/+300] and [Swiftness] as long as you control two or more other resonators.",
+   "flavor_text": "Isis is always accompanied by her guards. Strangely enough, their main duty is to stop Isis from getting into trouble.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4008",
+   "name": "Kanna, Descendent of the Oracle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4008/image_en/d7f32425-424b-4b88-99b3-b352042ea337.jpg",
+   "number": "AOA-027",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Azuza",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Target resonator gains [+400/0] until end of turn.",
+   "flavor_text": "The name \"Kanna\" is passed down through the generations. Along with the duty of guarding the sealed god.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4009",
+   "name": "Kanna's Attendant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4009/image_en/e8227b50-9cb9-4eba-9ef3-ef8dc2e0e53b.jpg",
+   "number": "AOA-028",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "KAZTO FURUYA",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[Rest]: Target fire resonator gains [+200/+200] until end of turn. If it's \"Kanna, Descendent of the Oracle\", it also gains [Swiftness] and [Precision].",
+   "flavor_text": "\"Ms. Zhuge Liang. We've been expecting you. Please, come right this way.\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4010",
+   "name": "Mind Like Still Water",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4010/image_en/69c1920f-ed1f-4fab-ad3e-120452f6e12b.jpg",
+   "number": "AOA-029",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "Mad",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "A body can be forged in months. To temper the mind takes years of patience.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4011",
+   "name": "Moon of Crimson Sand",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4011/image_en/c9e41cae-44b5-4538-a4fd-1b6cc9b11433.jpg",
+   "number": "AOA-030",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "100 / 1500",
+   "type": "Resonator",
+   "race": "Sand/Moon",
+   "artist": "haniwa",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nWhen this card leaves the field ⇒ It deals 300 damage multiplied by the number of fire magic stones you control to each resonator.",
+   "flavor_text": "\"Scatter about, moon of chaos.\" -Nyarlathotep, the Return of Chaos",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4012",
+   "name": "Mountain Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4012/image_en/b38be8f6-11e5-4b76-a9dd-7b16290432bc.jpg",
+   "number": "AOA-031",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "2000 / 1500",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.",
+   "flavor_text": "\"Nothing is bigger than a mountain. That's my strategy.\" -Zhuge Liang",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4013",
+   "name": "Nyarlathotep, the Return of Chaos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4013/image_en/baee07d5-5477-4e25-88e2-abf5209b2d20.jpg",
+   "number": "AOA-032",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Cthulhu/Wanderer",
+   "artist": "yuko",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[r][r], remove this card in your graveyard from the game, banish a fire magic stone: Destroy target resonator.",
+   "flavor_text": "\"Just like truth and fiction, order and chaos will always contradict. So don't go counting me out, I'll always be there when you least expect it... It's no lie you know!\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4014",
+   "name": "Sand Upheaval",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4014/image_en/cafb0652-ce2d-4d7e-8eb2-6d02ed8ea5ad.jpg",
+   "number": "AOA-033",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant",
+   "artist": "SIE NANAHARA",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Fly away!\" -Shu, Ruler of Air",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4015",
+   "name": "Shadow of Chaos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4015/image_en/f94a1a07-7c7c-48d9-8948-5e1e4c432afc.jpg",
+   "number": "AOA-034",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Shosuke",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [+300/+300] and [Swiftness] as long as you control four or more fire magic stones.",
+   "flavor_text": "\"This otherworldly being is an ally? ...So be it.\" -Isis",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4016",
+   "name": "Shu, Ruler of Air",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4016/image_en/9259722b-d2b0-4c32-95f1-2c6eac934e63.jpg",
+   "number": "AOA-035",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "100 / 300",
+   "type": "Resonator",
+   "race": "Ascendant",
+   "artist": "SIE NANAHARA",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[Rest], [r], discard a fire card: This card deals 600 damage to target resonator.",
+   "flavor_text": "\"I'll show you the power of what lies between heaven and earth!\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4017",
+   "name": "Spiral of Chaos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4017/image_en/c2a8ed7b-2f28-43ef-ac77-b6a2e42392ec.jpg",
+   "number": "AOA-036",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Master Rune(Divinity 2)",
+   "artist": "yuko",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.",
+   "flavor_text": "The power of ancient Valhalla begins to resonate with the chaos.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4018",
+   "name": "The Sage's Afternoon Nap",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4018/image_en/88488383-6605-4c1b-bf97-843afa805969.jpg",
+   "number": "AOA-037",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Those who wake the sage shall be fed to the dragons.\" -Memo for Visitors",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4019",
+   "name": "Thunder Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4019/image_en/22aa0b16-c5b4-41b5-8785-1f54e50bc066.jpg",
+   "number": "AOA-038",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Moopic",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ You may discard a card at random. If you do, this card deals 800 damage to target resonator.",
+   "flavor_text": "\"Nothing is faster than thunder. That's my strategy. What? You got a problem!?\" -Zhuge Liang",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4020",
+   "name": "Ushuah, the Swordsman of Eternal Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4020/image_en/0a7b6092-b1dd-4504-82a4-8182b1e2c633.jpg",
+   "number": "AOA-039",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1700 / 100",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Foo Midori",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.",
+   "flavor_text": "The flames of loyalty have continued to burn for all these years, ever since the time of ancient Valhalla.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4021",
+   "name": "Warrior Lurking Beneath the Sands",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4021/image_en/d4698056-02a7-45db-ac32-8fb1a2b28bd3.jpg",
+   "number": "AOA-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "AKI",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "As training to endure long missions, they make the scorching sands their home.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4022",
+   "name": "Butterfly Gimmick",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4022/image_en/41169079-8ca0-4414-822e-54c2519194a8.jpg",
+   "number": "AOA-041",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Look at the top five cards of your deck. You may put a card named \"Butterfly Gimmick\" from among them into the field. Put the rest on the bottom of your deck in a random order.",
+   "flavor_text": "The butterfly gimmicks overlap, soaring as one.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4023",
+   "name": "Chronos' Envoy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4023/image_en/fcaf9327-18f8-4d17-a4e0-cc083709f94b.jpg",
+   "number": "AOA-042",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Hayama Kohei",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Search your deck for a card and put it into your graveyard. Then shuffle your deck.",
+   "flavor_text": "\"An envoy from you of all people, how rare. I wonder, has time treated you well?\" -Loki",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4024",
+   "name": "Commanding Gaze",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4024/image_en/6d9d9720-bfae-4e3c-9831-185effc8cd9e.jpg",
+   "number": "AOA-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant",
+   "artist": "Mad",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "An \"order\" means you have no choice in the matter.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4025",
+   "name": "Fenrir, Second Form",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4025/image_en/848194d8-ab8f-495f-b303-f0ddf7118e00.jpg",
+   "number": "AOA-044",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1100",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Kelvin",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Put target resonator on top of its owner's deck. Draw two cards.",
+   "flavor_text": "\"This isn't even his final form! Hehe, just kidding.\" -Loki",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4026",
+   "name": "Fiendish Mirror",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4026/image_en/659684f9-59e6-4768-a5eb-1e2102a632db.jpg",
+   "number": "AOA-045",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "RYUEMON",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Reveal the top card of your deck. If it's a resonator, put it into the field.",
+   "flavor_text": "The mirror will answer any question... But those who hear that answer always fall into despair.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4027",
+   "name": "Freya, Royal Palace Contraption Mage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4027/image_en/9d2e7634-dc21-40cf-851e-48c3be0b6d3d.jpg",
+   "number": "AOA-046",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Wizard/Machine",
+   "artist": "kurisu",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nIf you would draw a card during your draw phase, you may instead look at the top two cards of your deck, put a card from among them into your hand and the rest into your graveyard.",
+   "flavor_text": "\"I've already failed once to protect what was dear to me. Tell me. What am I to protect now?\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4028",
+   "name": "Freya's Transforming Cane",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4028/image_en/c034df81-2966-4637-92ae-c3d8910e8054.jpg",
+   "number": "AOA-047",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "M ganzy",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [+300/+300] and \"This card cannot be blocked.\" as long as you control four or more water magic stones.",
+   "flavor_text": "A walking cane with no care for its original function.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4029",
+   "name": "Garmheld, Half of God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4029/image_en/2908e98d-f406-4d4d-b9cc-c2a48809637d.jpg",
+   "number": "AOA-048",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 800",
+   "type": "Resonator",
+   "race": "God/Wanderer",
+   "artist": "IWAO",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[Rest], banish this card: Produce [u] for each resonator you control. Play this ability only during your turn.",
+   "flavor_text": "\"Welcome back, my other half.\" -Loki",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4030",
+   "name": "Garmheld's Phantasmal Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4030/image_en/a09afcbb-1f69-4a80-bd2f-3692998b9f49.jpg",
+   "number": "AOA-049",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Illusion",
+   "artist": "ShiroYayoi",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "The familiar of an ominous god.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4031",
+   "name": "Guinevere's Investigation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4031/image_en/eb50cd79-d920-406e-a34d-2503a6e147d3.jpg",
+   "number": "AOA-050",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"This sensation... I see, you're waiting for me to come find you.\" -Guinevere, the Mobility Queen",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4032",
+   "name": "Loki's Insight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4032/image_en/79532e18-1720-498b-8e49-0a98d54effe2.jpg",
+   "number": "AOA-051",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "gekko",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Is this one... plotting something? I guess we're equal in that regard.\" -Loki",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4033",
+   "name": "Mecha Leviathan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4033/image_en/8bc1c1a8-a408-4d15-8e16-7dc4f10c3f44.jpg",
+   "number": "AOA-052",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1200 / 1300",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Shinichi Chiba",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nBanish another Machine resonator: Return target resonator to its owner's hand.",
+   "flavor_text": "\"I'm counting on you, Leviathan!\" -Freya",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4034",
+   "name": "Mini Leviathan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4034/image_en/9ded64e3-d140-4981-bebe-e1717421a923.jpg",
+   "number": "AOA-053",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Shinichi Chiba",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nBanish two \"Mini Leviathan\": Search your deck for a card with \"Leviathan\" in its name and put it into the field. Then shuffle your deck.",
+   "flavor_text": "Petit as it may be, it is still a Leviathan. Let your guard down and you'll be crushed to bits.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4035",
+   "name": "Ocean Beam",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4035/image_en/47d5466e-12aa-4e6a-bf90-0334b5e9f998.jpg",
+   "number": "AOA-054",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "Shinichi Chiba",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "The blue light washes all away.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4036",
+   "name": "Repair Bug",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4036/image_en/89c6bb38-f0c6-4bd6-80c7-3d5af36fca1f.jpg",
+   "number": "AOA-055",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Shinichi Chiba",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[u], banish this card: Recover target Machine.",
+   "flavor_text": "\"Let the mending procedure begin.\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4037",
+   "name": "Ruined Capital",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4037/image_en/6f433662-e362-4538-bc4a-a5bef387a365.jpg",
+   "number": "AOA-056",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "Kakiken",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[u][u][1]: Remove a ruin counter from this card.",
+   "flavor_text": "Before the war of Valhalla, this capital was laid to waste. The only clue is a single memory of Freya's, someone of great dark power had been here.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4038",
+   "name": "Soldiers of the New Round Table",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4038/image_en/ebc4269b-7637-47a3-92ba-c693cabcdcef.jpg",
+   "number": "AOA-057",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "The soldiers of the round table gazed at the land from the skies. Still seeking the meaning of their existence, they descended to the earth.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4039",
+   "name": "Strolling House",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4039/image_en/006996ff-ff20-4e87-bb83-b9b5f274b1ce.jpg",
+   "number": "AOA-058",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 1200",
+   "type": "Resonator",
+   "race": "House",
+   "artist": "noki",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nRest another recovered resonator you control: This card gains [+200/+200] until end of turn.",
+   "flavor_text": "\"Houses don't walk?\" \"There's no way something so boring could be true!\" -Hansel and Gretel",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4040",
+   "name": "The Return of God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4040/image_en/31831230-b288-49b2-8c2e-d7a25607799b.jpg",
+   "number": "AOA-059",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Chant/Master Rune(Divinity 2)",
+   "artist": "IWAO",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "To Loki, total harmony. To the world, utter dissonance.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4041",
+   "name": "The Returnee from Twilight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4041/image_en/d0bd6ac6-f406-4686-a393-b37393342038.jpg",
+   "number": "AOA-060",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Saiko Takaki",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[u], remove three resonators in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.",
+   "flavor_text": "\"How cute! I'm going to make you my new pet!\" -Loki",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4042",
+   "name": "200 IQ",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4042/image_en/6d150539-6061-4ef1-820f-80a9978c895c.jpg",
+   "number": "AOA-061",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yua",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Hmm... I wonder... Eureka!\" -Algernon, Mouse of Intellect",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4043",
+   "name": "Algernon, Mouse of Intellect",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4043/image_en/3b835db1-5323-4742-aa83-39af8a67bb0d.jpg",
+   "number": "AOA-062",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Mouse/Wanderer",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[Rest], remove two intellect counters from this card: Search your deck for a chant, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"I have no likes or dislikes. Except cats. Cats are the worst.\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4044",
+   "name": "Barrier Castle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4044/image_en/843e54cf-f1e3-43c5-a966-25232d4edd8b.jpg",
+   "number": "AOA-063",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "ComamitsuZaki",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nWhenever a wind resonator you control is targeted by a spell or ability your opponent controls ⇒ Counter that spell or ability unless its controller pays [1].",
+   "flavor_text": "Near the end of the war, chief god Bastet formed a barrier to protect the ones they loved.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4045",
+   "name": "Dog Shikigami",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4045/image_en/8e56b9ff-73ca-4b54-b3cb-602122aed39b.jpg",
+   "number": "AOA-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Shikigami",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Recover two target magic stones if you control a Yin-Yang Master.",
+   "flavor_text": "A yin-yang master's best friend.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4046",
+   "name": "Gunpowder Barrel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4046/image_en/3d768161-9bdb-4bb5-83b5-226610ba9947.jpg",
+   "number": "AOA-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ComamitsuZaki",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Roll and... strike!\" -Hanzo",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4047",
+   "name": "Hunting Party",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4047/image_en/7b115e3c-3cd4-4e65-9891-ed2267e0b880.jpg",
+   "number": "AOA-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 700",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "ponkichi",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nDiscard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Their party composition is a mess, their methods varied, but they are of one shared goal.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4048",
+   "name": "Kukunochi, the Shikigami",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4048/image_en/49a49f63-6fdf-40cd-909c-97a3398f997f.jpg",
+   "number": "AOA-067",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "700 / 1200",
+   "type": "Resonator",
+   "race": "Cat/Shikigami",
+   "artist": "Matsurika Yoko",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Recover target Cat.",
+   "flavor_text": "\"Yes, much has happened since then. For starters, would you like to see my dance?\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4049",
+   "name": "Kukunochi's Dance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4049/image_en/9b74de19-6ed0-4d31-8c49-b2a618324dc0.jpg",
+   "number": "AOA-068",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "Matsurika Yoko",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "Dance, along with the forgotten fragrances of Valhalla.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4050",
+   "name": "Marine Beast of the Lost Isles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4050/image_en/ed81499d-7502-4376-8f5d-04799b719d71.jpg",
+   "number": "AOA-069",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Hayama Kohei",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [+200/+200] as long as you control a water magic stone.",
+   "flavor_text": "When the Mimi tribe approach bodies of water, making themselves appear as unappetizing as possible is a crucial step in survival.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4051",
+   "name": "Mimi Tribe Logger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4051/image_en/0acb36c3-9e61-4752-ab79-bf2a4d5ce941.jpg",
+   "number": "AOA-070",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "Nekobayashi",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "When it comes to work, the Mimi tribe take it seriously.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4052",
+   "name": "Monkey Shikigami",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4052/image_en/7f04cee2-7069-4907-916e-1a4e4578555f.jpg",
+   "number": "AOA-071",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Shikigami",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [+100/+100] and [Swiftness] as long as you control a Yin-Yang Master.",
+   "flavor_text": "\"I can see, hear, and speak just fine!\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4053",
+   "name": "Nature's Beauty",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4053/image_en/052b8674-9ffc-4539-878f-bb3bea692aff.jpg",
+   "number": "AOA-072",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Master Rune(Divinity 2)",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"This is a gift from me. Flowers for what will be your final resting place.\" -Algernon, Mouse of Intellect",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4054",
+   "name": "Rikugou, Tree Shikigami",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4054/image_en/06f90256-0dc0-4baa-9123-5fce728c2ebe.jpg",
+   "number": "AOA-073",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "300 / 1000",
+   "type": "Resonator",
+   "race": "Shikigami",
+   "artist": "Miko Yamazaki",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [+200/+200] as long as you control a Yin-Yang Master.",
+   "flavor_text": "The sensation and words of the shikigami are passed through Rikugou before reaching Seimei.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4055",
+   "name": "Scroll Transporter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4055/image_en/cc22524b-826e-46df-a29f-3239244ac942.jpg",
+   "number": "AOA-074",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Cat/Ninja",
+   "artist": "SIGMAN",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [+400/+400] and \"This card cannot be attacked.\" as long as you control four or more wind magic stones.",
+   "flavor_text": "Transporting scrolls is an excellent way to learn the fundamentals of being a ninja.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4056",
+   "name": "Seimei, the Shikigami User",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4056/image_en/b998d463-3df7-4aac-aa95-e3aee8de71fe.jpg",
+   "number": "AOA-075",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Cat/Yin-Yang Master",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nBanish a Shikigami: This card gains [Barrier] until end of turn.",
+   "flavor_text": "\"Yes, you may touch them. But the shikigami only listen to my commands.\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4057",
+   "name": "Shikigami Summoning",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4057/image_en/268d7eeb-9977-43ba-b840-f744671852b3.jpg",
+   "number": "AOA-076",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Witness the power of the shikigami.\" -Seimei, the Shikigami User",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4058",
+   "name": "Three Beast Conference",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4058/image_en/14925647-7e6a-4de1-9144-0a2d73aedd63.jpg",
+   "number": "AOA-077",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "Nagi-nyan",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Mi-?\" \"Mi-?!\" \"Mi-!!\"",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4059",
+   "name": "Three Beast Warrior, Eaglemi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4059/image_en/a655599c-f2fa-4288-97a3-69834e148e77.jpg",
+   "number": "AOA-078",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Mimi Tribe/Beast",
+   "artist": "yua",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nBanish this card: Target resonator gains [+400/+400] until end of turn.",
+   "flavor_text": "\"In times of danger, call upon the three beast warriors.\" -Legend Passed Down Within the Mimi Tribe",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4060",
+   "name": "Three Beast Warrior, Molemi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4060/image_en/3eb5870d-7e90-416f-aacf-a3db0ab094e6.jpg",
+   "number": "AOA-079",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "700 / 500",
+   "type": "Resonator",
+   "race": "Mimi Tribe/Beast",
+   "artist": "hatarisu",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nWhenever this card attacks ⇒ You gain 500 life.",
+   "flavor_text": "Chamimi sensed danger approaching the Lost Isles and sent a messenger for the three beast warriors.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4061",
+   "name": "Three Beast Warrior, Tigermi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4061/image_en/b1731b99-37fc-4cbb-b921-35afd4dca055.jpg",
+   "number": "AOA-080",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Mimi Tribe/Beast",
+   "artist": "gajumaru",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Draw a card if you control another Mimi Tribe.",
+   "flavor_text": "As per legend, Chamimi summoned the three beast warriors. Now she's at a loss as to what to do next.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4062",
+   "name": "Alseid, the Harvester",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4062/image_en/0679f894-a6b6-44cc-9f7e-d49688b84f2e.jpg",
+   "number": "AOA-081",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 800",
+   "type": "Resonator",
+   "race": "Spirit",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[Rest], banish two other resonators: Destroy target resonator.",
+   "flavor_text": "She lives to harvest. No matter what it may be.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4063",
+   "name": "Believer Blinded by Faith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4063/image_en/895f40ec-05a3-498a-ad33-ffc8b77519d2.jpg",
+   "number": "AOA-082",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "haniwa",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[Rest], [b], banish this card: Put target darkness resonator from your graveyard into your hand.",
+   "flavor_text": "Lucifer prepared many sacrifices to break the seal on the altar.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4064",
+   "name": "Crawler Zombie",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4064/image_en/a27e5cda-e91e-4e9b-846f-fb1b18c9b056.jpg",
+   "number": "AOA-083",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "TAKUMI",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\n[b][b][b][1]: Put this card from your graveyard into the field. Play this ability only during your turn.",
+   "flavor_text": "The crawling undead are getting restless. What could Oborozuki be plotting?",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4065",
+   "name": "Diabolos, Sealed God of Madness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4065/image_en/3d7f140d-35a6-4069-8502-94172409d4f1.jpg",
+   "number": "AOA-084",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "touge369",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nPay 600 life: This card gains [Eternal] until end of turn.",
+   "flavor_text": "\"We welcome madness.\" -Lucifer",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4066",
+   "name": "Diabolos' Kin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4066/image_en/85d351ff-6d5c-4287-99b6-aef51b58aac1.jpg",
+   "number": "AOA-085",
+   "rarity": "C",
+   "att_def": "Tatsuki Mutou",
+   "type": "Awakening of the Ancients",
+   "expansion": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4067",
+   "name": "Fallen Angel of Madness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4067/image_en/c3834732-14ae-4292-a083-4a48ebb7045a.jpg",
+   "number": "AOA-086",
+   "rarity": "U",
+   "att_def": "Haruichi Kido",
+   "type": "Awakening of the Ancients",
+   "expansion": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4068",
+   "name": "Fallen Angel of the Ritual",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4068/image_en/9e056fd9-ecb3-434d-90f1-13268de46b47.jpg",
+   "number": "AOA-087",
+   "rarity": "C",
+   "att_def": "gajumaru",
+   "type": "Awakening of the Ancients",
+   "expansion": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4069",
+   "name": "Fallen to Madness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4069/image_en/0ef4774e-5001-4871-94a1-1689ebc7d4d7.jpg",
+   "number": "AOA-088",
+   "rarity": "C",
+   "att_def": "KEIICHIRO ITO",
+   "type": "Awakening of the Ancients",
+   "expansion": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4070",
+   "name": "Freed from the Altar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4070/image_en/ba7004e6-1da5-4c6a-a147-0f469c12cfba.jpg",
+   "number": "AOA-089",
+   "rarity": "U",
+   "att_def": "Mad",
+   "type": "Awakening of the Ancients",
+   "expansion": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4071",
+   "name": "Graveyard Scavenger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4071/image_en/f5efa510-1600-468b-b134-7253b2f97dc8.jpg",
+   "number": "AOA-090",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "douzen",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Remove up to two target cards in your opponent's graveyard from the game. Then put [+100/+100] counters on this card equal to the number of cards removed this way.",
+   "flavor_text": "Some people say nothing soothes the spirit better than a good meal. They must've never met an undead.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4072",
+   "name": "Harvesting Season",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4072/image_en/d5588927-9ffb-4611-aeec-34dbf8ea0ae5.jpg",
+   "number": "AOA-091",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "kakiken",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"This one, that one, all of them, rotten to the core. Could it be, even me?\" -Alseid, the Harvester",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4073",
+   "name": "Lailah, Maiden of the Swamps",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4073/image_en/72ca9be1-af56-4741-b07c-f2a374511a65.jpg",
+   "number": "AOA-092",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your magic stone deck for a card named \"Darkness Magic Stone\" and put it into the field. Then shuffle your magic stone deck.",
+   "flavor_text": "As the spring turned impure, so too did her heart.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4074",
+   "name": "Laurier, Dark Corpse Sorceress",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4074/image_en/57760103-622f-45a1-878b-bcf572731a44.jpg",
+   "number": "AOA-093",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\n[Enter] ⇒ Put two [100/100] darkness Skeleton resonator tokens into the field.",
+   "flavor_text": "The darkness within cannot be perceived from outside. Only she herself knows how deep her darkness runs.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4075",
+   "name": "Laurier's Experiment",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4075/image_en/b2c9cf30-f7bb-47f6-b0f3-915cb3eda147.jpg",
+   "number": "AOA-094",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "Shosuke",
+   "expansion": "Awakening of the Ancients",
+   "text": "Automatic\nWhenever this card attacks ⇒ You may remove target card in your opponent's graveyard from the game.",
+   "flavor_text": "\"Strong and sexy!\" -Laurier, Dark Corpse Sorceress",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4076",
+   "name": "Mana Transmuter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4076/image_en/2947f134-848c-4172-b56a-91338dd078b2.jpg",
+   "number": "AOA-095",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Mayo",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nPay 300 life: Produce [w],[r],[u],[g], or [b]. Play this ability only once per turn.",
+   "flavor_text": "All they've been informed is that the Perfect Matrix serves as a casket of magic energy.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4077",
+   "name": "Oborozuki, Caller of Gods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4077/image_en/328c2bd5-7718-483f-8625-cdedf623e7a3.jpg",
+   "number": "AOA-096",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Vampire/Wanderer",
+   "artist": "lack",
+   "expansion": "Awakening of the Ancients",
+   "text": "Continuous\nThis card gains [+1000/+1000] as long as you control ten or more magic stones.",
+   "flavor_text": "Athenia in tow, Oborozuki used her overwhelming might to convince the beings of the Abyss to work towards her cause. What that was and what her true intentions are remain a mystery to all.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4078",
+   "name": "Perfect Matrix",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4078/image_en/a439a834-2e7e-4288-b2a3-1f452da024a9.jpg",
+   "number": "AOA-097",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant/Master Rune(Divinity 2)",
+   "artist": "gekko",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Perfect. This'll do for the vessel.\" \"Huh?\" \"You looking down on us?!\" -Oborozuki, Caller of Gods confronting Alice and Nyarlathotep",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4079",
+   "name": "Puppeteer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4079/image_en/0e53acf0-8af2-4d36-a0be-5fb7eb38e29a.jpg",
+   "number": "AOA-098",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "\"Gotcha. Let's have some fun.\" -Laurier, Dark Corpse Sorceress",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4080",
+   "name": "Roar of Diabolos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4080/image_en/79fb84db-1b6e-49a4-bf34-144f971daf22.jpg",
+   "number": "AOA-099",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "touge369",
+   "expansion": "Awakening of the Ancients",
+   "flavor_text": "Diabolos' roar reached to the ends of the earth.",
+   "all_sets": "Awakening of the Ancients"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4081",
+   "name": "Sacrificial Altar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/40/4081/image_en/aa0c81a9-5b29-4665-a0be-43a3a3c8372c.jpg",
+   "number": "AOA-100",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "Mad",
+   "expansion": "Awakening of the Ancients",
+   "text": "Activate\nBanish this card: Search your deck for a resonator with total cost X or less and put it into the field, where X is the number of offering counters that were on this card. Then shuffle your deck.",
+   "flavor_text": "The altar contains the most detestable existences of Valhalla, locked away beneath countless seals.",
+   "all_sets": "Awakening of the Ancients"
+  }
+ ]
+}

@@ -1,0 +1,2433 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/278",
+   "name": "Amaterasu, Guide of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/278/image_en/1485222519.jpg",
+   "number": "LEL-001",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "七原しえ",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][W][W][1]: Target J/resonator gains [+800/+800] until end of turn.",
+   "flavor_text": "After glimpsing the future, this woman awoke once again.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/279",
+   "name": "Amaterasu's Foresight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/279/image_en/1485222520.jpg",
+   "number": "LEL-002",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七原しえ",
+   "expansion": "Legacy Lost",
+   "flavor_text": "One look from her, and even a mad beast would halt in its tracks.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/280",
+   "name": "Beast of Holy Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/280/image_en/1485222522.jpg",
+   "number": "LEL-003",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Mがんぢー",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][W]: Target J/resonator gains [+300/+300] and [Barrier] [R][B] until end of turn. (Pay [W] and discard this card to play this ability.)",
+   "flavor_text": "The beast disappeared, but a radiant aura surrounded Millium and his friends.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/281",
+   "name": "Lumia's Purification",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/281/image_en/1485222524.jpg",
+   "number": "LEL-004",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "九十三(tsukumi)",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Return to your own world!\" - Lumia, the Fated Rebirth",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/282",
+   "name": "Millium's Weapon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/282/image_en/1485222526.jpg",
+   "number": "LEL-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "城戸春一",
+   "expansion": "Legacy Lost",
+   "flavor_text": "Under Zero's teachings, Millium was able to use his weapon to grant power to others.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/283",
+   "name": "Snow White of the Crystal Apple",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/283/image_en/1485222530.jpg",
+   "number": "LEL-006",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "弥生しろ",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[W], remove a [+100/+100] counter from this card: Put a [+100/+100] counter on another target light J/resonator.",
+   "flavor_text": "The delicious sparkling white apple invigorates its eater.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/284",
+   "name": "Spirit of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/284/image_en/1485222533.jpg",
+   "number": "LEL-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "j-peg",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put a [+100/+100] counter on another target J/resonator you control.",
+   "flavor_text": "It's a faint light, but sometimes that's all you need to find hope.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/285",
+   "name": "The Seven Dwarves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/285/image_en/1485222534.jpg",
+   "number": "LEL-008",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "上條ロロ(Kamijyo Roro)",
+   "expansion": "Legacy Lost",
+   "text": "Continuous\nPrevent all damage that would be dealt to this card. If damage was prevented this way, remove a [+100/+100] counter from this card.",
+   "flavor_text": "\"Hm, now where'd he go off to?\" \"How should I know?\" \"Did he go looking for apples?\" \"Exactly how many of us were there anyway?\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/286",
+   "name": "Ancient Manager",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/286/image_en/1485222536.jpg",
+   "number": "LEL-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Ancient",
+   "artist": "ネム",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Remove the top card of your deck from the game. This card deals 100 damage multiplied by the total cost of the card removed this way to your opponent.",
+   "flavor_text": "\"Now where have I seen that power before...hmm.\" -Kaguya, Lunar Researcher",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/287",
+   "name": "Bastet, Goddess of Cats",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/287/image_en/1485222537.jpg",
+   "number": "LEL-010",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 700",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "ケルビン",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][R][1]: Put five limit counters on target Cthulhu J/resonator with [Limit].",
+   "flavor_text": "Bastet is always smiling suspiciously. Even after a thousand years.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/288",
+   "name": "Bastet's Fascination",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/288/image_en/1485222539.jpg",
+   "number": "LEL-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ケルビン",
+   "expansion": "Legacy Lost",
+   "flavor_text": "No one notices a simple glance. But it's more dangerous than they realize.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/289",
+   "name": "Conjure Time Bomb",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/28/289/image_en/1485222540.jpg",
+   "number": "LEL-012",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "佐川明日香",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Is that...a bomb?\" \"Sure looks like it, Kaguya. Stay back. I'll try to detonate it.\" \"What? That's crazy!\" -Kaguya and Fiethsing",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/290",
+   "name": "Invisible Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/290/image_en/1485222542.jpg",
+   "number": "LEL-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Magic Lifeform",
+   "artist": "SIGMAN",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][R][1]: This card deals 600 damage to target J/resonator. (Pay [R][1] and discard this card to play this ability.)",
+   "flavor_text": "A living flame.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/291",
+   "name": "Skyscraper Giant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/291/image_en/1485222543.jpg",
+   "number": "LEL-014",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1700 / 1700",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "佐川明日香",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: This card deals 800 damage to each J/resonator without [Flying].",
+   "flavor_text": "The clouds usually move freely. You only need to worry if they start getting pushed around.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/292",
+   "name": "Time-Guide Admiral, Alfred",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/292/image_en/1485222570.jpg",
+   "number": "LEL-015",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Ancient",
+   "artist": "BANAMONS*",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ If you removed two or more mana counters from your J/ruler this turn and you have no produced will, put two mana counters on your J/ruler.",
+   "flavor_text": "\"I'll be better than my father. For the sake of Altea, I'll record all of time.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/293",
+   "name": "World Flame Summoning",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/293/image_en/1485222572.jpg",
+   "number": "LEL-016",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "tokiwa",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"The flame that will burn this world. Its power is mine.\" -Sol, Hierophant of the Helio Star",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/294",
+   "name": "Alhama'at's Mage Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/294/image_en/1485222574.jpg",
+   "number": "LEL-017",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Magic Lifeform/Ancient Magic",
+   "artist": "Nagiにゃん",
+   "expansion": "Legacy Lost",
+   "flavor_text": "Never forgetting his past, Lapis swore to achieve his destiny, no matter the cost.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/295",
+   "name": "Charlotte, Wielder of the Sacred Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/295/image_en/1485222577.jpg",
+   "number": "LEL-018",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "flavor_text": "Her spirit shines with radiant hopes.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/296",
+   "name": "Fishing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/296/image_en/1485222580.jpg",
+   "number": "LEL-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "松本エイト",
+   "expansion": "Legacy Lost",
+   "flavor_text": "The best stuff always comes when you least expect it.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/297",
+   "name": "Jiang Ziya, the Fisherman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/297/image_en/1485222581.jpg",
+   "number": "LEL-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Myth",
+   "artist": "touge369",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put the top card of your deck into your graveyard. If it was put into your graveyard this way, put a [X00/X00] water/darkness Fantasy resonator token into your field, where X is that card's total cost.",
+   "flavor_text": "\"Wonder what I'll get. Hope it's good.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/298",
+   "name": "Moojdart's Illusionary Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/298/image_en/1485222583.jpg",
+   "number": "LEL-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Fantasy",
+   "artist": "kawaryu",
+   "expansion": "Legacy Lost",
+   "text": "Continuous\nPrevent all damage that would be dealt to this card during your opponent's turn.",
+   "flavor_text": "Illusions flicker between tangible and intangible forms, giving them an edge against real beings.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/299",
+   "name": "Rachel, Alhama'at's Advisor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/29/299/image_en/1485222586.jpg",
+   "number": "LEL-022",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Ancient",
+   "artist": "Azusa",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][U][U]: Return target resonator to its owner's hand. (Pay [U][U] and discard this card to play this ability.)",
+   "flavor_text": "\"Master Lapis. I hope you know your punishment for returning is execution.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/300",
+   "name": "Rachel's Smile",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/300/image_en/1485222588.jpg",
+   "number": "LEL-023",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "Azusa",
+   "expansion": "Legacy Lost",
+   "flavor_text": "If she smiles, you know her enemy isn't.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/301",
+   "name": "Reunion of Sisters",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/301/image_en/1485222590.jpg",
+   "number": "LEL-024",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Faria! Faria! I...I...\" \"Don't cry, Charlotte. From now on, I'll always be here to protect you.\" -Charlotte and Faria",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/302",
+   "name": "Fiethsing, the Fate Spinning Winds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/302/image_en/1485222593.jpg",
+   "number": "LEL-025",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Elf/Six Sages",
+   "artist": "狛蜜ザキ",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may return another target resonator you control to its owner's hand.",
+   "flavor_text": "\"Thanks for everything. All in all, I've had a pretty good run. And Kaguya...I'm sorry.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/303",
+   "name": "Final Breeze",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/303/image_en/1485222594.jpg",
+   "number": "LEL-026",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "狛蜜ザキ",
+   "expansion": "Legacy Lost",
+   "flavor_text": "Fiethsing's final spell brought a great calm silence across the land.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/304",
+   "name": "Gale Force",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/304/image_en/1485222595.jpg",
+   "number": "LEL-027",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "竿",
+   "expansion": "Legacy Lost",
+   "flavor_text": "Sometimes it really is better to walk.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/305",
+   "name": "Jack, Climbing the Beanstalk",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/305/image_en/1485222597.jpg",
+   "number": "LEL-028",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "祀花よう子",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card deals damage to your opponent ⇒ You may banish this card. If you do, you may search your deck for a card named \"Skyscraper Giant\" and put it into your field. Then shuffle your deck.",
+   "flavor_text": "The beanstalk stretched to the heavens and beyond.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/306",
+   "name": "Luan, Auspicious Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/306/image_en/1485222598.jpg",
+   "number": "LEL-029",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "gekko",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][G][2]: Target J/resonator gains [+700/+700] until end of turn. (Pay [G][2] and discard this card to play this ability.)",
+   "flavor_text": "That which inherits its soul, inherits its power.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/307",
+   "name": "Magic Stone Life Form",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/307/image_en/1485222600.jpg",
+   "number": "LEL-030",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Magic Lifeform",
+   "artist": "上木乃アロエ",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Produce [W], [R], [U], [G], or [B].",
+   "flavor_text": "A creation forged by Grusbalesta and influenced by Altea.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/308",
+   "name": "Planting Beans",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/308/image_en/1485222603.jpg",
+   "number": "LEL-031",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "佐々木光之介",
+   "expansion": "Legacy Lost",
+   "flavor_text": "Good thing you didn't eat them.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/309",
+   "name": "Sacred Beast of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/309/image_en/1485222604.jpg",
+   "number": "LEL-032",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "ひがし",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][G]: Target J/resonator gains [+300/+300] and [Flying] until end of turn. (Pay [G] and discard this card to play this ability.)",
+   "flavor_text": "The winds speed off into the sky.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/310",
+   "name": "Alhama'at's Black Lightning",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/310/image_en/1485222605.jpg",
+   "number": "LEL-033",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "Fushikaden K.K.",
+   "expansion": "Legacy Lost",
+   "flavor_text": "That black lightning easily passed through Fiethsing's barrier.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/311",
+   "name": "Death at Midnight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/311/image_en/1485222607.jpg",
+   "number": "LEL-034",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "田島幸枝",
+   "expansion": "Legacy Lost",
+   "flavor_text": "Yashahime's curse doesn't care whether you're alive or dead.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/312",
+   "name": "Dimension Dragon, Nidhogg",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/312/image_en/1485222608.jpg",
+   "number": "LEL-035",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Twelve Apostles/Dragon",
+   "artist": "Mad",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Remove all resonators your opponent controls with the lowest total cost among resonators your opponent controls from the game.",
+   "flavor_text": "\"The end finally comes to the land of beginnings.\" -Gill Lapis",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/313",
+   "name": "Fated Reunion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/313/image_en/1485222612.jpg",
+   "number": "LEL-036",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"And so you return alive.\" \"You thought your son would die that easily?\" -Gill Alhama'at and Gill Lapis",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/314",
+   "name": "Kumomaru",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/314/image_en/1485222615.jpg",
+   "number": "LEL-037",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "トミダトモミ",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put two [+100/+100] counters on target resonator your opponent controls.",
+   "flavor_text": "\"Kumomaru! Set them up!\" -Yashahime, First Daughter of the Mikage",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/315",
+   "name": "Shadow of Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/315/image_en/1485222616.jpg",
+   "number": "LEL-038",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Fantasy",
+   "artist": "スギカワタクミ",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nBanish this card: Put a token copy of target token you control into your field.",
+   "flavor_text": "The future of shadows is formless.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/316",
+   "name": "Yashahime, First Daughter of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/316/image_en/1485222618.jpg",
+   "number": "LEL-039",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "田島幸枝",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[B], remove a [+100/+100] counter from this card: Put two [+100/+100] counters on another target Vampire you control.",
+   "flavor_text": "\"Well then, I'll be taking all your blood, if you don't mind.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/317",
+   "name": "Yashamaru",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/317/image_en/1485222620.jpg",
+   "number": "LEL-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "駒井春樹",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target resonator your opponent controls with one or more [+100/+100] counters on it.",
+   "flavor_text": "\"Yashamaru! Finish it!\" -Yashahime, First Daughter of the Mikage",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/318",
+   "name": "A Rendezvous of Light and Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/318/image_en/1485222622.jpg",
+   "number": "LEL-041",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Don't worry, we can take it back.\" -Faria, Ruler of Divine Beasts",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/319",
+   "name": "Altea's Elite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/319/image_en/1485222624.jpg",
+   "number": "LEL-042",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 1000",
+   "type": "Resonator",
+   "race": "Ancient",
+   "artist": "ユウキリリー",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top four cards of your deck. Put a chant from among them into your hand and the rest into your graveyard.",
+   "flavor_text": "Those that directly serve the Seven Luminaries are highly revered.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/320",
+   "name": "Ammit, Beast of Gluttony",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/320/image_en/1485222630.jpg",
+   "number": "LEL-043",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Chimera",
+   "artist": "猫えモン",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target resonator. If you do, you gain life equal to its DEF.",
+   "flavor_text": "All life is food for other life.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/321",
+   "name": "Ancient Barrier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/321/image_en/1485222631.jpg",
+   "number": "LEL-044",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Fushikaden K.K.",
+   "expansion": "Legacy Lost",
+   "text": "Continuous\nPlayers pay [2] more to play non-Ancient Magic chants.",
+   "flavor_text": "\"I think it's time to stop with the magic tricks and do some real spellwork.\" -Sol, Dark Commander of Steam",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/322",
+   "name": "Barrier Seal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/322/image_en/1485222633.jpg",
+   "number": "LEL-045",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "今野隼史",
+   "expansion": "Legacy Lost",
+   "text": "Continuous\nIf a card would be put into a graveyard from anywhere, remove it from the game instead.",
+   "flavor_text": "\"I won't let you do anything bad.\" -Lumia, the Fated Rebirth",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/323",
+   "name": "Blessed Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/323/image_en/1485222634.jpg",
+   "number": "LEL-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "まよ",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target rested resonator your opponent controls.",
+   "flavor_text": "The blessing turned to a flame that warded off danger.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/324",
+   "name": "Catalyst Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/324/image_en/1485222636.jpg",
+   "number": "LEL-047",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "古城ばんび",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nBanish this card: Put two mana counters on target J/ruler.",
+   "flavor_text": "Alteans are experts at conserving and storing energy.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/325",
+   "name": "Crimson Ray",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/325/image_en/1485222639.jpg",
+   "number": "LEL-048",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ネム",
+   "expansion": "Legacy Lost",
+   "flavor_text": "A helix of hope and despair.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/326",
+   "name": "Curse of the Kyuubi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/326/image_en/1485222641.jpg",
+   "number": "LEL-049",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "草薙蝶炎",
+   "expansion": "Legacy Lost",
+   "flavor_text": "The curse creeps into both future and past.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/327",
+   "name": "Deceptive Dream",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/327/image_en/1485222643.jpg",
+   "number": "LEL-050",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Fantasy",
+   "artist": "tokiwa",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
+   "flavor_text": "\"I hoped we'd meet again soon, but not like this.\" -Zero, Master of the Magic Saber",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/328",
+   "name": "Demonic Instigator",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/328/image_en/1485222645.jpg",
+   "number": "LEL-051",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "yua",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhenever this card is dealt damage by a J/resonator ⇒ This card deals that much damage to that J/resonator.",
+   "flavor_text": "Such a troublesome little fellow.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/329",
+   "name": "Divine Beast of Attoractia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/32/329/image_en/1485222646.jpg",
+   "number": "LEL-052",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Divine Beast",
+   "artist": "gozz",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][W][G]: Target J/resonator you control gains [+600/+600] until end of turn.",
+   "flavor_text": "Gathering the will of its allies, this creature transmuted them into a tremendous power.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/330",
+   "name": "Dragon of Scenic Beauty",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/330/image_en/1485222649.jpg",
+   "number": "LEL-053",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "乃希",
+   "expansion": "Legacy Lost",
+   "text": "Continuous\nYou may pay [W][G] less to play this card if you cancelled a spell your opponent controlled this turn.",
+   "flavor_text": "\"I can summon dragons too, you know!\" -Kaguya, Lunar Researcher",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/331",
+   "name": "Fairy of Recurrence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/331/image_en/1485222651.jpg",
+   "number": "LEL-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "乃希",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card named \"Fairy of Recurrence\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Fate is a cycle. The wheels ever turning.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/332",
+   "name": "Faria's Summon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/332/image_en/1485222653.jpg",
+   "number": "LEL-055",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "Legacy Lost",
+   "flavor_text": "The Divine Beast of Attoractia answered Faria's call, arriving in a new world.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/333",
+   "name": "Fiethsing's Monocle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/333/image_en/1485222654.jpg",
+   "number": "LEL-056",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "狛蜜ザキ",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Bestow] [rest]",
+   "flavor_text": "It's seen fated events and entrusts its new bearer with the future.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/334",
+   "name": "Ghost of Attoractia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/334/image_en/1485222658.jpg",
+   "number": "LEL-057",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 300",
+   "type": "Resonator",
+   "race": "Fantasy",
+   "artist": "坂井結城",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ Draw a card. Your opponent discards a card.",
+   "flavor_text": "The ghost extended its arms, healing the insatiable hunger.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/335",
+   "name": "Glorius, Masked Crusader",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/335/image_en/1485222659.jpg",
+   "number": "LEL-058",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "mie",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nDiscard a card with [Inheritance]: Draw a card. Play this ability only during your turn and only once per turn.",
+   "flavor_text": "Lars' sacred spirit had been inherited by two. First by Charlotte, and second by his other sister.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/336",
+   "name": "Faria, Ruler of Divine Beasts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/336/image_en/1485222661.jpg",
+   "number": "LEL-058J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Human/Divine Beast",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nGod's Art [0]: This card gains [Barrier] until end of turn. Play God's Art only once per game.",
+   "flavor_text": "\"I'll be borrowing your power for a while, Pricia.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/337",
+   "name": "Griphon, Racing Across Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/337/image_en/1485222662.jpg",
+   "number": "LEL-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Chimera",
+   "artist": "ねじしき",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put the top two cards of your magic stone deck into your field.",
+   "flavor_text": "The power of the Kyuubi can merge two into one.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/338",
+   "name": "Grusbalesta, Magic Stone Researcher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/338/image_en/1485222664.jpg",
+   "number": "LEL-060",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Six Sages",
+   "artist": "fzwrAym",
+   "expansion": "Legacy Lost",
+   "text": "Continuous\nThis card gains [Swiftness] and [Precision] as long as you control five or more magic stones with different names.",
+   "flavor_text": "After extensive research, Grusbalesta finally realized the truth of the magic stones.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/339",
+   "name": "Grusbalesta's Secret Technique",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/33/339/image_en/1485222666.jpg",
+   "number": "LEL-061",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "トミダトモミ",
+   "expansion": "Legacy Lost",
+   "flavor_text": "The will of the magic stones can crush an enemy's will to fight.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/340",
+   "name": "Healing Wing Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/340/image_en/1485222667.jpg",
+   "number": "LEL-062",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "ケルビン",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ You gain 1000 life.",
+   "flavor_text": "Its wings scatter light across the sky.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/341",
+   "name": "Illusion Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/341/image_en/1485222670.jpg",
+   "number": "LEL-063",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "今野隼史",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.",
+   "flavor_text": "\"These illusions are interesting. I suppose I'll make use of them for a time.\" -Invading Demon of Water, Valentina",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/342",
+   "name": "Illusory Projection",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/342/image_en/1485222672.jpg",
+   "number": "LEL-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fantasy",
+   "artist": "Moopic",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.",
+   "flavor_text": "Illusions die twice.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/343",
+   "name": "Invading Demon of Water, Valentina",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/343/image_en/1485222673.jpg",
+   "number": "LEL-065",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "fzwrAym",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhenever you play a darkness chant ⇒ Target resonator gains [0/-X00] until end of turn, where X is that chant's total cost.",
+   "flavor_text": "\"All can be used and must belong to me. That is my conviction.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/344",
+   "name": "Valentina, Released Terror",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/344/image_en/1485222676.jpg",
+   "number": "LEL-065J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Conqueror",
+   "artist": "fzwrAym",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nBanish two resonators: Choose one - Draw a card; or destroy target resonator.",
+   "flavor_text": "\"Once again, an entire world shall bow to me.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/345",
+   "name": "Jeanne d'Arc, the Pious Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/345/image_en/1485222677.jpg",
+   "number": "LEL-066",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "j-peg",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Once more unto the breach! To save the souls of the innocent, I risk my life!\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/346",
+   "name": "Kaguya, Lunar Researcher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/346/image_en/1485222678.jpg",
+   "number": "LEL-067",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Wanderer/Human",
+   "artist": "桂福蔵",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhenever a card is bestowed to this card ⇒ Recover this card.",
+   "flavor_text": "Kaguya restored Grusbalesta from a magic stone. The two set to work to rebuilding the Earth's moon.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/347",
+   "name": "Kaguya's Moonbeam Butterfly",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/347/image_en/1485222680.jpg",
+   "number": "LEL-068",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "たかむらはるき",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Go! Er...useful thing!\" -Kaguya, Lunar Researcher",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/348",
+   "name": "Lilias Petal, Agent of Salvation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/348/image_en/1485222683.jpg",
+   "number": "LEL-069",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "草薙蝶炎",
+   "expansion": "Legacy Lost",
+   "text": "Judgement\n[0]",
+   "flavor_text": "\"Grusbalesta? What's it been? A thousand years?\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/349",
+   "name": "The Nine-Tailed Fox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/34/349/image_en/1485222685.jpg",
+   "number": "LEL-069J",
+   "rarity": "JR",
+   "type": "J-Ruler",
+   "race": "Myth",
+   "artist": "草薙蝶炎",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: Shuffle target card named \"Killing Stone\" from your graveyard into your magic stone deck.",
+   "flavor_text": "With words unfathomable, the Nine-Tailed Fox began the ceremony.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/350",
+   "name": "Lilias Petal's Assistant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/350/image_en/1485222688.jpg",
+   "number": "LEL-070",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "碧風羽",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put target wind or darkness resonator with total cost 1 from your graveyard into your field.",
+   "flavor_text": "Insuring that ingredients are plentiful is the assistant's job.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/351",
+   "name": "Lumia, the Fated Rebirth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/351/image_en/1485222689.jpg",
+   "number": "LEL-071",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "下江クリス",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nAt the end of your turn ⇒ Remove target rested resonator you control from the game. Then put it into its owner's field.",
+   "flavor_text": "Fate is a cycle. When the world fell into crisis again, the girl stood defiant once more.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/352",
+   "name": "Lumia, Saint of the Crimson Lotus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/352/image_en/1485222690.jpg",
+   "number": "LEL-071J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Human",
+   "artist": "下江クリス",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhenever this card attacks ⇒ Remove target resonator from the game. Then put it into its owner's field rested.",
+   "flavor_text": "\"I never thought I'd borrow your power, but I'm counting on you, crimson girl!\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/353",
+   "name": "Lumia's Judgment",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/353/image_en/1485222692.jpg",
+   "number": "LEL-072",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "Legacy Lost",
+   "flavor_text": "Light and fire swirling in unison.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/354",
+   "name": "Magic Rebound",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/354/image_en/1485222693.jpg",
+   "number": "LEL-073",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "石商",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Get away from me.\" -Moojdart, Lady of Illusions",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/355",
+   "name": "Meeting of Light and Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/355/image_en/1485222696.jpg",
+   "number": "LEL-074",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "上條ロロ(Kamijyo Roro)",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Crimson girl, there's a lot I want to say to you, but there's time for that later.\" \"Hehehe, there's nothing you need to say I don't already know.\" -Lumia and Nyarlathotep",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/356",
+   "name": "Messenger of Lilias Petal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/356/image_en/1485222698.jpg",
+   "number": "LEL-075",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "ハタリス",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your magic stone deck for a special magic stone and reveal it. Then shuffle the rest of your magic stone deck and put that card on top of it.",
+   "flavor_text": "\"You made it back? Good boy.\" -Lilias Petal, Agent of Salvation",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/357",
+   "name": "Moojdart, Lady of Illusions",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/357/image_en/1485222700.jpg",
+   "number": "LEL-076",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Six Sages",
+   "artist": "石商",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nBanish an Fantasy resonator: This card gains [Barrier](Chant) until end of turn.",
+   "flavor_text": "\"That's Moojdart? Seems she's gotten a bit strange.\" -Grusbalesta, Magic Stone Researcher",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/358",
+   "name": "Muul, the Town That Never Was",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/358/image_en/1485222701.jpg",
+   "number": "LEL-077",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "実田くら",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[U][B], remove a resonator in your graveyard from the game: Put a [400/400] water/darkness Fantasy resonator token into your field.",
+   "flavor_text": "An illusionary town made for illusions.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/359",
+   "name": "Nightmare, the Ashen Dream",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/35/359/image_en/1485222703.jpg",
+   "number": "LEL-078",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fantasy",
+   "artist": "gozz",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Return target resonator to its owner's hand. Its controller discards a card.",
+   "flavor_text": "A nightmare that threatens to invade reality.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/360",
+   "name": "Nyarlathotep, the Crimson Radiance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/360/image_en/1485222704.jpg",
+   "number": "LEL-079",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human/Cthulhu",
+   "artist": "夕子",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
+   "flavor_text": "\"Let me show you my true power. Hehehe, it's no lie.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/361",
+   "name": "Plot of Water and Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/361/image_en/1485222706.jpg",
+   "number": "LEL-080",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yua",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Interesting. I think I'll take it.\" -Invading Demon of Water, Valentina",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/362",
+   "name": "Priest of Divine Protection",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/362/image_en/1485222711.jpg",
+   "number": "LEL-081",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "ユウキリリー",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ If it was played from your hand, remove another target resonator you control from the game. Then put it into its owner's field rested.",
+   "flavor_text": "The blessing turned to a light that shielded from danger.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/363",
+   "name": "Prokaryotic Being",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/363/image_en/1485222712.jpg",
+   "number": "LEL-082",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator",
+   "race": "Magic Lifeform",
+   "artist": "スギカワタクミ",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[U]: This card gains [Flying] until end of turn.",
+   "flavor_text": "\"Hahaha! Puny eukaryotic beings!\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/364",
+   "name": "Rune of Sol",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/364/image_en/1485222713.jpg",
+   "number": "LEL-083",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "坂井結城",
+   "expansion": "Legacy Lost",
+   "flavor_text": "Memorized runes allow for quick spellcasting.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/365",
+   "name": "Runic Commander Demon, Akiot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/365/image_en/1485222714.jpg",
+   "number": "LEL-084",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Seven Luminaries Demon",
+   "artist": "あき",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen you play a chant ⇒ You may return this card to its owner's hand.",
+   "flavor_text": "The creature transformed, combining with Sol's magic.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/366",
+   "name": "Sacred Komainu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/366/image_en/1485222716.jpg",
+   "number": "LEL-085",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Divine Beast",
+   "artist": "長崎祐子",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][W][G][3]: Target J/resonator you control gains [+1000/+1000] until end of turn. (Pay [W][G][3] and discard this card to play this ability.)",
+   "flavor_text": "Komainu will protect the world. Anytime, anywhere.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/367",
+   "name": "Shining Kirin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/367/image_en/1485222719.jpg",
+   "number": "LEL-086",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Divine Beast",
+   "artist": "猫えモン",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][W][G][1]: Target J/resonator gains [+600/+600] until end of turn. Draw a card. (Pay [W][G][1] and discard this card to play this ability.)",
+   "flavor_text": "Carrying hope, wherever it goes.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/368",
+   "name": "Sol, Hierophant of the Helio Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/368/image_en/1485222721.jpg",
+   "number": "LEL-087",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Luminaries Mage",
+   "artist": "あき",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nRemove a mana counter from this card: Produce [R] or [U]. Spend this will only to play Ancient Magic cards.",
+   "flavor_text": "\"It truly is embarrassing as a teacher to see my students thoroughly defeated.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/369",
+   "name": "Sol, Dark Commander of Steam",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/369/image_en/1485222723.jpg",
+   "number": "LEL-087J",
+   "rarity": "JR",
+   "att_def": "500 / 500",
+   "type": "J-Ruler",
+   "race": "Dark Commander",
+   "artist": "あき",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nRemove a mana counter from this card: Produce [R] or [U]. Spend this will only to play Ancient Magic cards.",
+   "flavor_text": "\"I won't be as easily dispatched as my students.\"",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/370",
+   "name": "Steam Explosion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/370/image_en/1485222725.jpg",
+   "number": "LEL-088",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "筒井海砂",
+   "expansion": "Legacy Lost",
+   "flavor_text": "Such incredible heat can cause almost anything to evaporate.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/371",
+   "name": "Sympathy of Fire and Water",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/371/image_en/1485222727.jpg",
+   "number": "LEL-089",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "上木乃アロエ",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Is everything proceeding on schedule, Alfred?\" \"Yes, please leave it to me.\" -Sol and Alfred",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/372",
+   "name": "The Manticore",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/372/image_en/1485222728.jpg",
+   "number": "LEL-090",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Chimera",
+   "artist": "七海ルシア",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nWhen this card enters your field ⇒ Choose one -\nLook at your opponent's hand and choose a card. They discard that card;\nor destroy target addition or regalia your opponent controls.",
+   "flavor_text": "Lilias Petal's finest achievement in chimera creation.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/373",
+   "name": "Tuning of Wind and Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/373/image_en/1485222729.jpg",
+   "number": "LEL-091",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "まよ",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"We meet again.\" \"I need a favor.\" \"Oh?\" \"Mikage has risen again.\" \"Ah, now that's a name I have not heard in some time.\" -Grusbalesta and Lilias Petal",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/374",
+   "name": "Twin-Headed Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/374/image_en/1485222806.jpg",
+   "number": "LEL-092",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "kakotomirai",
+   "expansion": "Legacy Lost",
+   "text": "Continuous\nYou may spend will to pay this card's [Awakening] costs as though this card were an Ancient Magic.",
+   "flavor_text": "Whether you're freezing or burning, you're suffering.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/375",
+   "name": "Valentina's Reach",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/375/image_en/1485222807.jpg",
+   "number": "LEL-093",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "弥生しろ",
+   "expansion": "Legacy Lost",
+   "flavor_text": "\"Voluntary servitude or forced subjugation. Your choice.\" -Invading Demon of Water, Valentina",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/376",
+   "name": "Wetlands of Magical Origin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/376/image_en/1485222809.jpg",
+   "number": "LEL-094",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "駒井春樹",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: Recover target magic stone.",
+   "flavor_text": "A wellspring for naturally occurring will.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/377",
+   "name": "White Horn Kaichi",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/377/image_en/1485222812.jpg",
+   "number": "LEL-095",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Divine Beast",
+   "artist": "松本エイト",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[Inheritance][W][G]: Target J/resonator gains [+500/+500] and [Precision] until end of turn. (Pay [W][G] and discard this card to play this ability.)",
+   "flavor_text": "Even personality is transmitted, it seems.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/378",
+   "name": "Awakened Magic Stone, The Earth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/378/image_en/1485222815.jpg",
+   "number": "LEL-096",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Cola",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nWhen you do judgment of a light ruler ⇒ Recover this card.",
+   "flavor_text": "A former regalia recovered from Lapis. Now purified as a magic stone by Lumia.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/379",
+   "name": "Killing Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/379/image_en/1485222817.jpg",
+   "number": "LEL-097",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "草薙蝶炎",
+   "expansion": "Legacy Lost",
+   "text": "Activate\nWhen this card is put into a graveyard from your field ⇒ Your opponent loses 100 life and you gain 100 life.",
+   "flavor_text": "An embodiment of the nine-tailed fox's curse.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/380",
+   "name": "Magic Stone of Vaporization",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/380/image_en/1485222820.jpg",
+   "number": "LEL-098",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Mがんぢー",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[1], [rest]: Put a mana counter on your J/ruler.",
+   "flavor_text": "Crystallized magic steam.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/381",
+   "name": "Pricia's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/381/image_en/1485222821.jpg",
+   "number": "LEL-099",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "たかむらはるき",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: As long as your J-ruler is \"Faria, Ruler of Divine Beasts\", it gains [+200/+200] until end of turn.",
+   "flavor_text": "A stone holding what's left of Pricia's spirit and memories.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/382",
+   "name": "Remains of Attoractia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/382/image_en/1485222822.jpg",
+   "number": "LEL-100",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "佐川明日香",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: Target resonator token gains [+100/+100] until end of turn.",
+   "flavor_text": "From Attoractia, spilled forth remorseful looking illusions.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/383",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/383/image_en/1485222824.jpg",
+   "number": "LEL-101",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "白野椋",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/384",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/384/image_en/1485222826.jpg",
+   "number": "LEL-102",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "たかむらはるき",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/385",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/385/image_en/1485222828.jpg",
+   "number": "LEL-103",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "BANAMONS*",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/386",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/386/image_en/1485222830.jpg",
+   "number": "LEL-104",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "gozz",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/387",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/387/image_en/1485222832.jpg",
+   "number": "LEL-105",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Legacy Lost",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/388",
+   "name": "Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/388/image_en/1485232951.jpg",
+   "number": "001",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Elf",
+   "artist": "UEDA承孔王角",
+   "expansion": "Legacy Lost",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/389",
+   "name": "Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/389/image_en/1485232952.jpg",
+   "number": "001*",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Elf",
+   "artist": "Fushikaden K.K.",
+   "expansion": "Legacy Lost",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/390",
+   "name": "Fantasy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/390/image_en/1485232954.jpg",
+   "number": "002",
+   "rarity": "T",
+   "att_def": "400 / 400",
+   "type": "Resonator Token",
+   "race": "Fantasy",
+   "artist": "乃希",
+   "expansion": "Legacy Lost",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/391",
+   "name": "Fantasy(X)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/391/image_en/1485232956.jpg",
+   "number": "002*",
+   "rarity": "T",
+   "att_def": "0 / 0",
+   "type": "Resonator Token",
+   "race": "Fantasy",
+   "artist": "下江クリス",
+   "expansion": "Legacy Lost",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/392",
+   "name": "Bomb",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/392/image_en/1485232957.jpg",
+   "number": "003",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Bomb",
+   "artist": "にゃんまる",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nAt the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.",
+   "all_sets": "Legacy Lost"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/393",
+   "name": "Bomb(Awaken)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/393/image_en/1485232959.jpg",
+   "number": "003*",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Bomb",
+   "artist": "ジュンポコ",
+   "expansion": "Legacy Lost",
+   "text": "Automatic\nAt the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.",
+   "all_sets": "Legacy Lost"
+  }
+ ]
+}

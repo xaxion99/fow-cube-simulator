@@ -1,0 +1,2313 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/2624",
+   "name": "Ancient Bauble",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2624/image_en/ceecd320-a3f1-467c-be37-38347b4ac33e.jpg",
+   "number": "ENW-001",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "yua",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever bestowed resonator blocks ⇒ Recover it. It gains [+200/+200] until end of turn.",
+   "flavor_text": "A strange hair ornament that belonged to Pandora.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2625",
+   "name": "Arla, Demonic Flying Ace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2625/image_en/2ff2549c-7678-4020-9ffb-c1aa3fd6dbd2.jpg",
+   "number": "ENW-002",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Seven Kings/Angel",
+   "artist": "KONNO Takashi",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\nPay 200 life: This card deals 200 damage to target attacking or blocking resonator.",
+   "flavor_text": "Lapis summoned Yggdrasil, which resurrected the Seven Kings of Attoractia with new, malicious life.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2626",
+   "name": "Arla's Blackwing Guard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2626/image_en/aeeec142-e58a-4511-bb7d-0bfc7265e88b.jpg",
+   "number": "ENW-003",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "ShiroYayoi",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nThis card gains [+200/+200] as long as you control a resonator with [Will of Despair].",
+   "flavor_text": "Elite guards that enforce sinister decrees.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2627",
+   "name": "Book of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2627/image_en/7a27fc92-c2e9-4dc6-a820-9a02fe62251d.jpg",
+   "number": "ENW-004",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Fairy Tale",
+   "artist": "tokiwa",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nYou may pay the attribute cost of cards with [Will of Hope] with will of any attribute.",
+   "flavor_text": "A story of hope. It seems to have the results of this battle recorded in it.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2628",
+   "name": "Re-Earth, New World Fairy Tale",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2628/image_en/9ba00699-ec41-49b4-9938-abf689e2a239.jpg",
+   "number": "ENW-004J",
+   "rarity": "JR",
+   "type": "J-ruler",
+   "race": "Fairy Tale",
+   "artist": "Kamijo Roro",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen a resonator put in a field by this card leaves a field for a non-field zone ⇒ Put this card into your ruler area, as a ruler.",
+   "flavor_text": "Each page contains stories of world saving heroes.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2629",
+   "name": "Grimm, the Rightful King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2629/image_en/74c49e27-ccc2-4362-b998-c977f9da5e73.jpg",
+   "number": "ENW-005",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Haruichi Kido",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may destroy target addition. If you do, search your deck for a Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your deck",
+   "flavor_text": "\"Millium, you must live on. You will be the one to lead when I am gone.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2630",
+   "name": "Light Dragon's Egg",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2630/image_en/b81ac484-6f6f-4fba-ab65-e672251cf428.jpg",
+   "number": "ENW-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Moopic",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Put a [600/600] light Dragon resonator token with [Flying] into your field.",
+   "flavor_text": "Takes a lot to crack it open, but when you do...",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2631",
+   "name": "Lumia, Praying for the Future",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2631/image_en/4b4e6a14-8afb-4544-b6f2-a8b724ce6c56.jpg",
+   "number": "ENW-007",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "kurisu",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\n[Resonance] Light Magic Stone ⇒ Target a card in your graveyard. If it's a magic stone, put it on top of your magic stone deck. Otherwise, put it on top of your deck.",
+   "flavor_text": "And so she prayed. For her kingdom, for the future, and for her fallen friends.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2632",
+   "name": "Millium, Successor of the Future",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2632/image_en/3a73db7d-d7e2-432d-ba71-a7e94908701d.jpg",
+   "number": "ENW-008",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Haruichi Kido",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nOther resonators with [Will of Hope] you control gain [+200/+200] and [Barrier].",
+   "flavor_text": "The young man's hope filled the light and banished the darkness.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2633",
+   "name": "Pandora, Queen of Miracles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2633/image_en/da079141-9783-466f-8872-ed65ba25516b.jpg",
+   "number": "ENW-009",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Foo Midori",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nRelease the [Seal] abilities of light cards and spells you control.",
+   "flavor_text": "\"Is this a vision of the distant future? No...it is much closer.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2634",
+   "name": "Release",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2634/image_en/c19a8a81-b84c-46a6-a394-e7d380f35bc2.jpg",
+   "number": "ENW-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "sasaki kounosuke",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "With Alice freed, she once again stood against Lapis.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2635",
+   "name": "Ryula's Volition",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2635/image_en/cc69f4f4-ffdd-4f71-9b20-83a04738ea88.jpg",
+   "number": "ENW-011",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "hatarisu",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "\"Millium, take the last of my power...and save the world.\" -Ryula, Alabaster Dragon Princess",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2636",
+   "name": "Sacred Record of Fairy Tales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2636/image_en/bcf0a2f2-260c-4368-afd3-de8db3deb62e.jpg",
+   "number": "ENW-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "Stories that tie the hopes of everyone together.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2637",
+   "name": "Skygazing Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2637/image_en/c5d4eb5e-be2d-4436-b4ec-a0a1e43a54a0.jpg",
+   "number": "ENW-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "BANAMONS*",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Target resonator with [Will of Hope] gains [+200/+200] until end of turn.",
+   "flavor_text": "A blue planet, a white moon, the sky certainly has been changing recently.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2638",
+   "name": "Spirit of Protection",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2638/image_en/ec6b46d7-f6dc-45f5-bc52-52d4d8fa5ffc.jpg",
+   "number": "ENW-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "RYUEMON",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever this card blocks ⇒ Recover it. It gains [+200/+200] until end of turn.",
+   "flavor_text": "When Almerius returned to a magic stone, only this spirit remained.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2639",
+   "name": "Strange Miracle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2639/image_en/b563f703-d698-4c0c-a09c-dc7fa574a14a.jpg",
+   "number": "ENW-015",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "Mayo",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "Light that has protected all since ancient times.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2640",
+   "name": "Zero, the King's Blade",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2640/image_en/59358e74-85c3-4ec1-859e-51ebdc2d1266.jpg",
+   "number": "ENW-016",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Six Sages",
+   "artist": "lack",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nResonators you control cannot be returned to their owners' hands.",
+   "flavor_text": "\"No more. I won't let you do as you please any longer.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2641",
+   "name": "Zero's Circle of Protection",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2641/image_en/257fd836-deeb-492b-9f2e-aef4173c1462.jpg",
+   "number": "ENW-017",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "saumaro",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nJ/resonators you control gain [Barrier](Chosen attribute).",
+   "flavor_text": "\"To the circle everyone! Quickly!\" -Zero, the King's Blade",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2642",
+   "name": "Adelbert's Crossflame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2642/image_en/3dacfc91-869f-4ffb-a277-ff732fc61641.jpg",
+   "number": "ENW-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Moopic",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "A flame that wards against existence.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2643",
+   "name": "Bahamut, the Dragonoid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2643/image_en/21f11d47-d6fd-43fa-95f2-0d788405457f.jpg",
+   "number": "ENW-019",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Saiko Takaki",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nThis card gains [Flying] as long as there is a [+100/+100] counter on it that was put on it by this card.",
+   "flavor_text": "\"As long as I can destroy what I please, I shall serve you.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2644",
+   "name": "Blazing Floating Castle, Refarth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2644/image_en/a32a06f0-6997-477b-acfd-8e34a7af3252.jpg",
+   "number": "ENW-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nJ/resonators you control can block J/resonators with [Flying].",
+   "flavor_text": "With Almerius as a magic stone, Refarth rose to the sky once more, with the flames of Nyarlathotep to guard it.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2645",
+   "name": "Crimson Sanction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2645/image_en/5a8156de-f742-4608-9bdd-f35c42873115.jpg",
+   "number": "ENW-021",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "YK",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "\"Go!\" -Nyarlathotep, the Realized Truth",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2646",
+   "name": "Fayli, Genius Rip-Off Artist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2646/image_en/e7e5b385-cfd1-47c5-a90d-37f2e1c9df78.jpg",
+   "number": "ENW-022",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Foo Midori",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[r],[rest]: Put a token copy of another target resonator you control into your field. At the next end of turn ⇒ That token's controller banishes it.",
+   "flavor_text": "\"You can't tell which is the fake? Of course not. If you could, I'd be pretty bad at my job.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2647",
+   "name": "Flames of Nyarlathotep",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2647/image_en/8ba1ef38-28d8-4285-a586-1274bfdfd9b8.jpg",
+   "number": "ENW-023",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "SAO",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\nBanish this card: Produce [r].",
+   "flavor_text": "A will that burns bright never tells lies.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2648",
+   "name": "Melgis, King of Black Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2648/image_en/9e07672f-e132-4585-b281-6f815756f575.jpg",
+   "number": "ENW-024",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Seven Kings",
+   "artist": "gekko",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\nPay 300 life: This card gains [+100/0] and [First Strike] until end of turn.",
+   "flavor_text": "Nothing remained of the man who once lead a nation.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2649",
+   "name": "Melgis' War Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2649/image_en/694154f5-8ff8-41b3-beaf-408023a38569.jpg",
+   "number": "ENW-025",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 100",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "gekko",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nThis card gains [+100/+100] and [Swiftness] as long as you control another resonator with [Will of Despair].",
+   "flavor_text": "An evil beast willing to bare its fangs at anyone.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2650",
+   "name": "Nyarlathotep, the Realized Truth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2650/image_en/98cc923a-c81e-4182-b539-506fcca41ba3.jpg",
+   "number": "ENW-026",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Human/Cthulhu",
+   "artist": "YK",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[1]: Target J/resonator you control gains [+200/-200] until end of turn.",
+   "flavor_text": "\"Lies are kind, the truth is cruel. Let me show you the greatest truth of all!\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2651",
+   "name": "Rainbow Arrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2651/image_en/61093b6d-2728-49df-ad32-86d4c7dbec50.jpg",
+   "number": "ENW-027",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "uekino aroe",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "\"If it's come to this, I guess I'd better get serious.\" -Red Riding Hood, Rainbow to the Heavens",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2652",
+   "name": "Red Hood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2652/image_en/076e6483-8014-40d1-a95e-fdeeac9946d5.jpg",
+   "number": "ENW-028",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "yua",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nBestowed resonator gains [+200/+200] and [Swiftness].",
+   "flavor_text": "A red hood infused with an unusually high amount of magic.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2653",
+   "name": "Red Riding Hood, Rainbow to the Heavens",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2653/image_en/e6c3bf5b-a5a8-4b0d-b529-10896bf8fd9d.jpg",
+   "number": "ENW-029",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Matsurika Yoko",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "With Melfee and Nyarlathotep, Red Riding Hood returned to Refarth for the first time in years.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2654",
+   "name": "Refarth's Wall of Flames",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2654/image_en/59805fa2-8e6d-4735-9d0e-0cb06a4af902.jpg",
+   "number": "ENW-030",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "RYUEMON",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "Nyarlathotep's flame moved as though it were alive, burning away its enemies.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2655",
+   "name": "Swordsman of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2655/image_en/96a90113-6fb1-41b8-b20b-f3811f78ae45.jpg",
+   "number": "ENW-031",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "Hayama Kohei",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nWanderer resonators you control gain [First Strike].",
+   "flavor_text": "\"I heard Scheherazade's report. Seems I managed to arrive in time.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2656",
+   "name": "Dimension Brigade's Leader, Adelbert",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2656/image_en/9ed3c531-2919-47bc-b6d0-e05957d0e0ab.jpg",
+   "number": "ENW-031J",
+   "rarity": "JR",
+   "att_def": "1200 / 1200",
+   "type": "J-ruler",
+   "race": "Wanderer",
+   "artist": "Hayama Kohei",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever a darkness resonator enters your field ⇒ Your opponent discards a card.",
+   "flavor_text": "\"Time to get serious. Reflect, Refrain, are you coming?\" \"Is that alright?\" \"It's fine.\" \"Really?\" \"Really.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2657",
+   "name": "Tiny Aggressive Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2657/image_en/b24ad093-766a-412e-bca6-ae7c07ca0843.jpg",
+   "number": "ENW-032",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "SO",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "A small, belligerent creature accompanied Bahamut.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2658",
+   "name": "Transforming Scarecrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2658/image_en/af24c9a2-b735-45a6-92d0-f38fb6e1c008.jpg",
+   "number": "ENW-033",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Scarecrow",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever another resonator you control attacks ⇒ This card's ATK becomes equal to that resonator's ATK until end of turn.",
+   "flavor_text": "\"It's different every time you see it, so don't waste time looking at it.\" -Fayli, Genius Rip-Off Artist",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2659",
+   "name": "Yamata-no-Orochi, the Resurrected Calamity",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2659/image_en/759f1463-5f26-48d1-a580-10a61b856ddc.jpg",
+   "number": "ENW-034",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "0 / 1600",
+   "type": "Resonator",
+   "race": "Twelve Apostles",
+   "artist": "gozz",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever this card attacks ⇒ It deals 800 damage to your opponent and each other resonator.",
+   "flavor_text": "\"The calamities of this world's past, I will make good use of them.\" -Gill Lapis, Usurper of Maddening Power",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2660",
+   "name": "Ahriman, the Wicked Spirit Eye",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2660/image_en/b8ccdb7c-83d1-4398-94f9-2cca31291bc2.jpg",
+   "number": "ENW-035",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Familiar",
+   "artist": "Yuji Azuma",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[0]: Your opponent reveals their hand. Play this ability only during your turn and only once per turn.",
+   "flavor_text": "From far off they watch the battle. Staring ceaselessly.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2661",
+   "name": "Alice, Girl of the Blue Planet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2661/image_en/6c5a7222-5e8a-457d-8009-1c5c2978a0a0.jpg",
+   "number": "ENW-036",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "Wednesday",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "The light of the Earth shone upon Alice, and at last everything was clear.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2662",
+   "name": "Charlotte, Last Hope of Attoractia",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2662/image_en/961a99d6-5a6b-4d54-a823-bfc4a331621f.jpg",
+   "number": "ENW-037",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Nekobayashi",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nYou may pay [1] less to play chants.",
+   "flavor_text": "\"I want to...protect this world!\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2663",
+   "name": "Charlotte's Water Beast Construct",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2663/image_en/f8adcfb6-a279-40e8-89c5-d2e77a21530b.jpg",
+   "number": "ENW-038",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[0]: This card gains [Flying], [First Strike], or [+200/+200] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Seems Charlotte finally mastered water transformation magic.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2664",
+   "name": "Cheshire Cat, Phantasmal Fighter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2664/image_en/322040db-0597-4d65-890d-c21b35108bc2.jpg",
+   "number": "ENW-039",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "ishishou",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Draw a card. Then put this card on top of your deck.",
+   "flavor_text": "\"Alright, I'll be heading out for a bit. There's some stuff I've got to see to. But I'll be right back!\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2665",
+   "name": "Detachment",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2665/image_en/d343dac4-8ec2-452d-b624-c6657a32d7b8.jpg",
+   "number": "ENW-040",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tsukumi",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "Alice and Dark Alice, unable to reconcile, split apart into two beings once again.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2666",
+   "name": "Dragon Shrine Maiden",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2666/image_en/6bc55823-776f-4078-8e25-f98c5ded97cf.jpg",
+   "number": "ENW-041",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Dragonoid",
+   "artist": "Pisuke",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Draw a card.",
+   "flavor_text": "This guardian with the power to correct time anomalies had been sealed away by Alhama'at.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2667",
+   "name": "Flute, Time Altering Priestess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2667/image_en/fa207154-9b73-4b21-96c0-4b8146fec806.jpg",
+   "number": "ENW-041J",
+   "rarity": "JR",
+   "att_def": "700 / 800",
+   "type": "J-ruler",
+   "race": "Dragonoid",
+   "artist": "Pisuke",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[u][2]: Put this card into your ruler area, as a ruler.",
+   "flavor_text": "\"You want me to lend you my power? To alter time?\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2668",
+   "name": "Flute's Awakening",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2668/image_en/d217e549-16b1-4c46-bd16-298863c622c5.jpg",
+   "number": "ENW-042",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "cola",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "Having to wake up all on her own was her worst nightmare.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2669",
+   "name": "Flute's Water Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2669/image_en/28ed8d48-d23f-4bc3-b10b-179266023ce1.jpg",
+   "number": "ENW-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 400",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Misa Tsutsui",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nYou may rest this recovered card to call a magic stone rather than rest your J/ruler.",
+   "flavor_text": "Time affords many opportunities.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2670",
+   "name": "Luna, Magician of the Moon Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2670/image_en/62db0190-8055-45eb-9532-8400decb288b.jpg",
+   "number": "ENW-044",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Seven Luminaries Mage",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\nRemove a mana counter from this card: Produce [u]. Spend this will only to play Ancient Magic cards.",
+   "flavor_text": "\"Lord Alhama'at is dead and no matter what side I choose now I can't win...oh well.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2671",
+   "name": "Luna's Attendant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2671/image_en/422fe13a-613f-4ee4-9341-d50de4d821aa.jpg",
+   "number": "ENW-045",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Ancient/Wizard",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[u]: Target J/resonator gains [Barrier] until end of turn. You may spend will to pay this ability's cost as though it were an Ancient Magic card.",
+   "flavor_text": "With the defeat of Alhama'at and her fellow mages, Luna had little recourse but to join Lapis.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2672",
+   "name": "Spawn of Umr",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2672/image_en/eff634a5-b2da-4d3b-8211-72aa99b28d24.jpg",
+   "number": "ENW-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 600",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "hatarisu",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ You may banish it. If you do, you may put a Cthulhu from your hand into your field.",
+   "flavor_text": "With Kaguya's transformation, the seal over the cthulhus weakened.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2673",
+   "name": "Staff of Dragonoids",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2673/image_en/e33d5b1c-8f20-43d7-9e4e-a6289f0767f9.jpg",
+   "number": "ENW-047",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Miko Yamazaki",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nBestowed resonator gains [+200/+200] and [Flying].",
+   "flavor_text": "A staff containing the power of ancient dragonoid sages.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2674",
+   "name": "The Blue Planet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2674/image_en/c6053f90-b0b5-4ba8-87b2-df75a79ac210.jpg",
+   "number": "ENW-048",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Haruki Komai",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "flavor_text": "The Earth floated up and away, into space.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2675",
+   "name": "The Cheshire Cat's Assistance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2675/image_en/2f42d8fe-5f40-4c29-9180-6b445eb69249.jpg",
+   "number": "ENW-049",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tsukumi",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "\"I told you I'd be back soon, didn't I?\" -Cheshire Cat, Phantasmal Fighter",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2676",
+   "name": "The Truth of Time",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2676/image_en/1f59d197-6f9a-408b-be50-b8fabd5a3a22.jpg",
+   "number": "ENW-050",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "kawaryu",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "It lives, it moves, it connects.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2677",
+   "name": "Umr at-Tawil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2677/image_en/ac5b887d-6a8c-4f00-990c-6582b736c801.jpg",
+   "number": "ENW-051",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human/Cthulhu",
+   "artist": "Shirai Hidemi",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for up to one non-chant card with total cost 1, up to one non-chant card with total cost 2, and up to one non-chant card with total cost 3 and put them into your field. Then shuffle your deck.",
+   "flavor_text": "To him, love and chaos are one and the same.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2678",
+   "name": "Confront the Unknown",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2678/image_en/e88c7c79-0a65-4bd3-b740-8deb379a094f.jpg",
+   "number": "ENW-052",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "\"How can you be on his side, Scheherazade?\" \"This is nothing like before.\" \"Alice, leave this to me. I'll handle her.\" \"Ah, wait!\" -Alice, Scheherazade, and Dark Alice",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2679",
+   "name": "Fairy of the Malefic Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2679/image_en/c0bb84d5-cf2d-4881-b0ec-2b3fadd3c301.jpg",
+   "number": "ENW-053",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 400",
+   "type": "Resonator",
+   "race": "Fairy",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\nPay 300 life: This card gains \"Whenever this card deals damage to a resonator ⇒ Destroy that resonator.\" until end of turn.",
+   "flavor_text": "Clad in a black miasma, this fairy arrived from the underworld.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2680",
+   "name": "Fox Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2680/image_en/a3f3e22d-fb09-4e2c-a3cf-66db0ce85c69.jpg",
+   "number": "ENW-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[0]: This card gains darkness in addition to its other attributes until end of turn.",
+   "flavor_text": "To put Mikage Seijuro to rest at last, Lilias Petal had to summon all his strength, even if it endangered himself.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2681",
+   "name": "Gale Force Pursuer, Christie",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2681/image_en/9e429180-60f6-4759-b3d5-b127bb058702.jpg",
+   "number": "ENW-055",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "touge369",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen this card enters your field ⇒ Remove target darkness resonator from the game.",
+   "flavor_text": "She won't forgive any who should as much as even threaten Amonsulle.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2682",
+   "name": "Heavenly Spirit Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2682/image_en/92c3d024-d475-4f8a-8c28-6de99366b190.jpg",
+   "number": "ENW-056",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 800",
+   "type": "Resonator",
+   "race": "Vegetation",
+   "artist": "mita kura",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever this card blocks ⇒ Draw a card.",
+   "flavor_text": "The tree sprouting from Refarth produced an unusual sort of power.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2683",
+   "name": "Interdimensional Space",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2683/image_en/7f2ff080-4a07-4507-b49c-cbe19cd0e1cf.jpg",
+   "number": "ENW-057",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nWanderer J/resonators you control gain [+400/+400].",
+   "flavor_text": "From a mysterious space outside the normal, they appeared.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2684",
+   "name": "Leaf of the Malefic Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2684/image_en/2d6b5438-41b3-4825-a4a9-3a18e33147e2.jpg",
+   "number": "ENW-058",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Shirono Muku",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nBestowed resonator gains \"Pay 200 life: This card gains [+100/+100] until end of turn.\"",
+   "flavor_text": "The price of power is ruin.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2685",
+   "name": "Melfee, Child of Refarth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2685/image_en/4e1a800e-435a-43c8-a719-4922a84d4861.jpg",
+   "number": "ENW-059",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "j-peg",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever another Elf enters your field ⇒ Put a [+100/+100] counter on this card.",
+   "flavor_text": "Melfee's memories of her old home surged through her, her heart raced with new purpose and drive.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2686",
+   "name": "Pricia, Ready for the Final Battle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2686/image_en/937e3253-ed9e-4b6b-a46f-3c198b794d10.jpg",
+   "number": "ENW-060",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "fzwrAym",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen this card enters your field or whenever it attacks ⇒ Destroy target resonator your opponent controls with ATK less than or equal to this card's ATK. If you do, put two [+100/+100] counters on this card.",
+   "flavor_text": "\"Shion, I'm going to set you free...and then we're going home.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2687",
+   "name": "Resistance Forces of Amonsulle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2687/image_en/c3b80a32-70ea-4fb0-8000-18fe68f87708.jpg",
+   "number": "ENW-061",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "ComamitsuZaki",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nElves you control gain [Barrier][b].",
+   "flavor_text": "The elves of the secluded village scrambled together to fight Yggdrasil.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2688",
+   "name": "Scheherazade, Speaker of Yet Unknown Truths",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2688/image_en/d0908374-bcb8-47bf-bb6b-30aa26156dc9.jpg",
+   "number": "ENW-062",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "noki",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen this card enters your field ⇒ As long as this card is in a field, target resonator cannot attack or block, and its controller cannot play its activate abilities.",
+   "flavor_text": "\"There is nothing written in my story of this future. Which means...\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2689",
+   "name": "Severing Winds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2689/image_en/b278e46f-6a59-4076-8414-ff640e1e9c0c.jpg",
+   "number": "ENW-063",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kelvin",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "Carrying no sound, leaving only silence.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2690",
+   "name": "Soul Debt",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2690/image_en/644645cf-e68f-4eae-8208-26835c700012.jpg",
+   "number": "ENW-064",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nekobayashi",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "\"Lars...\" \"Faria, that's enough. We don't need to protect her any more. Let us rest now.\" \"Okay.\" -Lars and Faria",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2691",
+   "name": "Sun Wukong, Enforcer for the Future",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2691/image_en/641d5891-7bfa-4fb4-9bb1-2669dab7bd58.jpg",
+   "number": "ENW-065",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "kakotomirai",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen this card enters your field ⇒ Return target non-magic stone, non-J/resonator card to its owner's hand.\nWhen this card enters your field ⇒ You may return target non-magic stone, non-J/resonator card to its owner's hand.",
+   "flavor_text": "\"Alright, we can't sit around anymore, we gotta stop this. Where's the boss and the kids?\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2692",
+   "name": "Words of Scheherazade",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2692/image_en/e6653095-9575-4091-863b-bb13c4ecacad.jpg",
+   "number": "ENW-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "The words of wanderers can be heard by others like them from any distance.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2693",
+   "name": "Yggdor, Beast of Disaster",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2693/image_en/08eb4f22-1cf7-4427-a4d7-01e7dfeee0c2.jpg",
+   "number": "ENW-067",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Magical Beast",
+   "artist": "kakotomirai",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nYou may pay [3] less to play this card from your removed area.",
+   "flavor_text": "As another world shrieked in pain, Yggdor arose again.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2694",
+   "name": "Yggdrasil, Malefic Verdant Tree",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2694/image_en/f7ec9279-2b32-4f57-9cda-407b58db63c7.jpg",
+   "number": "ENW-068",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Ethereal Tree",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[g][b],[rest]: Put a card named \"Machina, King of Accursed Machines\", \"Rezzard, King of the Damned\", \"Melgis, King of Black Flame\", or \"Arla, Demonic Flying Ace\" from your removed area into your field.",
+   "flavor_text": "\"Let all be consumed by your greatness, Yggdrasil!\" -Gill Lapis, Usurper of Maddening Power",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2695",
+   "name": "Abdul Alhazred, Sinister Vizier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2695/image_en/914bf7ca-a1cd-4811-8fe4-cb89c5bf7316.jpg",
+   "number": "ENW-069",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "gozz",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "\"The cthulhu are deathless, ageless. They will inherit this world!\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2696",
+   "name": "Ambition of Lapis",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2696/image_en/1cef7ae2-d17d-43f6-975b-25c9aaaff25a.jpg",
+   "number": "ENW-070",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "M ganzy",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "Combined with Attoractia, Lapis' power grew even stronger, and so did his desire.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2697",
+   "name": "Book of Dark",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2697/image_en/7ec5699c-1d5e-448c-a15d-b03836f6a847.jpg",
+   "number": "ENW-071",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Fairy Tale",
+   "artist": "tokiwa",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nYou may pay the attribute cost of cards with [Will of Despair] with will of any attribute.",
+   "flavor_text": "A story of despair. It seems to have the results of this battle recorded in it.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2698",
+   "name": "Lapistory, Subjugation Fairy Tale",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2698/image_en/e3ecaafe-8f16-41fc-b058-b95c0d547308.jpg",
+   "number": "ENW-071J",
+   "rarity": "JR",
+   "type": "J-ruler",
+   "race": "Fairy Tale",
+   "artist": "Kamijo Roro",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen a resonator put in a field by this card leaves a field for a non-field zone ⇒ Put this card into your ruler area, as a ruler.",
+   "flavor_text": "Each page contains stories of world destroying villains.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2699",
+   "name": "Corrupted One-Inch Boy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/2699/image_en/101d50ce-fb45-469a-8bc9-ff96b5d4a1b4.jpg",
+   "number": "ENW-072",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhen this card isn't blocked while attacking your opponent ⇒ Target opponent loses 1000 life.",
+   "flavor_text": "Just give it a moment, you'll feel it soon enough.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2700",
+   "name": "Dark Alice, Manifestation of Rage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2700/image_en/d6cb2483-a1f9-4010-80cf-f313e8d8329f.jpg",
+   "number": "ENW-073",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "Matsurika Yoko",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nRelease the [Seal] abilities of darkness cards and spells you control.",
+   "flavor_text": "\"No more waiting. I'm finally going to do what I want. Let's go, Schrödinger, massacre mode!\" \"Meow~\" -Dark Alice and Schrödinger",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2701",
+   "name": "Demonic Dead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2701/image_en/4298d21d-a7be-462f-815f-31f1f18f4690.jpg",
+   "number": "ENW-074",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "JURI",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\nPay 500 life: Put this card from your graveyard into your field rested.",
+   "flavor_text": "Corpses animated by dark will.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2702",
+   "name": "Heteroclite Excalibur",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2702/image_en/6f489895-871a-4169-8d3c-2b72ae453dab.jpg",
+   "number": "ENW-075",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nem",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "A divine blade that gathers darkness.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2703",
+   "name": "Mikage Seijuro, Patriarch of the Vampires",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2703/image_en/475fafab-e444-4f41-bc34-acdeaf1bd3a7.jpg",
+   "number": "ENW-076",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ Put a [+100/+100] counter on this card.",
+   "flavor_text": "\"Now then, I believe we had a score to settle.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2704",
+   "name": "Neo Barrier of Shadows",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2704/image_en/02055e32-27c3-4156-ba9d-799dd740e076.jpg",
+   "number": "ENW-077",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Matsurika Yoko",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nYour opponent pays [1] more to play activate abilities of resonators they control.",
+   "flavor_text": "\"I'm so sick of these pests! Lock them up, Schrödinger!\" \"Meow~\" -Dark Alice and Schrödinger",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2705",
+   "name": "Nightfall Bloodsucker",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2705/image_en/e8322f50-fbbc-4ed7-bdff-1e53f5ccb3b2.jpg",
+   "number": "ENW-078",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 300",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Tsukumi",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\nBanish this card: Put two [+100/+100] counters on target J/resonator.",
+   "flavor_text": "The chaos of the night is a clarion call for vampires.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2706",
+   "name": "Reshuberos, the Devilish Brute",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2706/image_en/8ef50e3e-c770-470e-9198-3b6c639d2142.jpg",
+   "number": "ENW-079",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Shosuke",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\nPay 200 life: This card gains [+100/+100] until end of turn. Play this ability up to three times per turn.",
+   "flavor_text": "The creature is small, sure. But there's no guarantee it won't kill you.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2707",
+   "name": "Rezzard, King of the Damned",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2707/image_en/b332eab5-6b54-485a-8360-2d084457c0db.jpg",
+   "number": "ENW-080",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Seven Kings",
+   "artist": "touge369",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nThis card gains [+100/+100] for each resonator in your removed area.",
+   "flavor_text": "It seems even his interest with the dead is gone.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2708",
+   "name": "Schrodinger's Box",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2708/image_en/a094fe66-be4d-49ac-b998-ce9e9f599dfd.jpg",
+   "number": "ENW-081",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Takamura Haluki",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nAt end of turn, if bestowed resonator attacked this turn ⇒ Destroy it.",
+   "flavor_text": "Alive or dead? Both? Neither? Go ahead, open it and find out.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2709",
+   "name": "Shadow Stalker",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2709/image_en/6840df28-c9e6-4c05-b7ee-f370aadc6492.jpg",
+   "number": "ENW-082",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Shadow",
+   "artist": "Nanami Lusia",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "Dark Alice's shadow stretched, growing and moving in unnatural ways.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2710",
+   "name": "Tell a Dark Fairy Tale",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2710/image_en/153454b1-2fb3-41f1-8475-37a897201d02.jpg",
+   "number": "ENW-083",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "And they all lived unhappily ever after.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2711",
+   "name": "The Final Battle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2711/image_en/c6a7a7cc-165a-450f-8e0d-e82e0ffe3e99.jpg",
+   "number": "ENW-084",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "BANAMONS*",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "\"Time to drop the final curtain.\" -Gill Lapis, Usurper of Maddening Power",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2712",
+   "name": "The Mikage Sisters",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2712/image_en/e6da1b5b-ce39-4222-b2b4-d46de233b5c2.jpg",
+   "number": "ENW-085",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "SIE NANAHARA",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Move a [+100/+100] counter from target resonator to this card.",
+   "flavor_text": "Each of the sisters feeds in different ways.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2713",
+   "name": "Dawn of the Earth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2713/image_en/acd99df1-a764-455c-8984-89d36b101c2e.jpg",
+   "number": "ENW-086",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Mad",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "With a burst of light the regalia disappeared into the sky, and a brilliant blue planet was born in its place.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2714",
+   "name": "Gill Lapis, Usurper of Maddening Power",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2714/image_en/73b90508-ae8e-4462-a13f-5c671dce608a.jpg",
+   "number": "ENW-087",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "Nem",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nThis card gains [+100/+100] for each other resonator with [Will of Despair] you control.",
+   "flavor_text": "\"Come, Excalibur.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2715",
+   "name": "Kaguya, Love of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2715/image_en/3e10f12c-2a10-43f6-8df7-eab7589a74b1.jpg",
+   "number": "ENW-088",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nThis card cannot be attacked.",
+   "flavor_text": "Sorrow turns to determination.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2716",
+   "name": "Lars, Swordsman of the Dusk",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2716/image_en/00d4c483-9f20-4b0d-b47f-47966cd7283e.jpg",
+   "number": "ENW-089",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 200",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "Nekobayashi",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[0]: Switch the ATK and DEF of this card until end of turn.",
+   "flavor_text": "The man hardly even resembled the champion he once was.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2717",
+   "name": "Lilias Petal, Kitsune King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2717/image_en/482d565b-e1c7-493a-bf85-e1059b114900.jpg",
+   "number": "ENW-090",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever a Chimera enters your field ⇒ Put the top card of your magic stone deck into your field.",
+   "flavor_text": "\"Well then, is that agreeable, Grusbalesta?\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2718",
+   "name": "Shining Demon, Mephistopheles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2718/image_en/fd6336d5-1da6-4dee-b304-abfa6e4ccd31.jpg",
+   "number": "ENW-091",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\nRest two recovered resonators you control: Rest target J/resonator.",
+   "flavor_text": "\"Demons, Lumia? At least have a little dignity.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2719",
+   "name": "Sylvia, Blade of the Supreme King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2719/image_en/b8ac7149-7ecf-44c7-940c-65eadc77c04a.jpg",
+   "number": "ENW-092",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Minion of Primogenitor",
+   "artist": "SIGMAN",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever this card attacks ⇒ Target J/resonator cannot block this turn.",
+   "flavor_text": "\"Welcome back. Are you ready to work for me again?\" -Gill Lapis, Usurper of Maddening Power",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2720",
+   "name": "Ultimate Swordsmaster, Faria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2720/image_en/e5ee32fc-7c72-40b3-925a-44b86d456431.jpg",
+   "number": "ENW-093",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Nekobayashi",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nPrevent the first damage that would be dealt to you each turn.",
+   "flavor_text": "\"What have you done to my brother!\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2721",
+   "name": "Valentina, the Crumbling Illusion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2721/image_en/88444cc7-09d2-411e-a0e9-629c9b09005d.jpg",
+   "number": "ENW-094",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "800 / 900",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "j-peg",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nAt the beginning of your turn ⇒ Put a resonator from your graveyard into your field.",
+   "flavor_text": "Her true desires fell to pieces, all that remained was greed.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2722",
+   "name": "Viola, Vengeful Ebon Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2722/image_en/cb6fdaa9-7615-4302-a89e-fbe9f7d03fd4.jpg",
+   "number": "ENW-095",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Echoes of the New World",
+   "text": "Automatic\nWhenever this card attacks ⇒ Destroy another resonator chosen at random.",
+   "flavor_text": "With Alhama'at gone, Viola had given up on everything and surrendered her mind to madness.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2723",
+   "name": "Machina, King of Accursed Machines",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2723/image_en/09d930d7-1cd9-49b9-82b3-8a4614ee335d.jpg",
+   "number": "ENW-096",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Seven Kings",
+   "artist": "Rumie",
+   "expansion": "Echoes of the New World",
+   "text": "Continuous\nCards named \"Mariabella, the True Shot\" you control cannot be destroyed.",
+   "flavor_text": "A gaping hole was where his heart should have been.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2724",
+   "name": "Mariabella, the True Shot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2724/image_en/31df358c-e68b-4413-8705-8e9a09fac362.jpg",
+   "number": "ENW-097",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "Rumie",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[2], [rest], remove X [+100/+100] counters from this card: Search your deck for a resonator with total cost X or less with no attribute and put it into your field. Then shuffle your deck.",
+   "flavor_text": "\"Master Machina gave me life, I will give him freedom.\"",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2725",
+   "name": "Regained Heart",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2725/image_en/ed41b48d-18b1-491a-8a32-2c6e879abefb.jpg",
+   "number": "ENW-098",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Rumie",
+   "expansion": "Echoes of the New World",
+   "flavor_text": "\"I never could've guessed you'd be the one rescuing me. Mariabella, this is my last request.\" \"Yes!\" \"Stop the other kings.\" -Machina and Mariabella",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2726",
+   "name": "Star Fragment",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2726/image_en/51f0a8c4-a87d-4fc3-b4a8-6a6b7e0c253e.jpg",
+   "number": "ENW-099",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "SIGMAN",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Produce [w], [r], [u], [g], or [b]. Spend this will only to play resonators with two or more attributes.",
+   "flavor_text": "It appears to carry the memories of those long gone.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2727",
+   "name": "Time Altering Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2727/image_en/32361fe2-b89f-4552-abd9-499e41e010d1.jpg",
+   "number": "ENW-100",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest], banish this card: Shuffle up to three target non-magic stone cards from their graveyards into their owners' decks.",
+   "flavor_text": "A magic stone capable of the greatest sin.",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2728",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2728/image_en/d9950c34-94c0-48c7-8ff7-164fa822a46f.jpg",
+   "number": "ENW-101",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Miko Yamazaki",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2729",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2729/image_en/6e987e39-caf1-4b68-abe2-9eaa879b2f2c.jpg",
+   "number": "ENW-102",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Miko Yamazaki",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2730",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2730/image_en/32032db6-f379-4a9c-bbe4-135c647bab81.jpg",
+   "number": "ENW-103",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2731",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2731/image_en/acc0d3a4-6e0d-4a76-94ca-c052ea3fe751.jpg",
+   "number": "ENW-104",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "kurisu",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2732",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2732/image_en/00000282-d387-424d-b697-03a8d4ba0a24.jpg",
+   "number": "ENW-105",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "Miko Yamazaki",
+   "expansion": "Echoes of the New World",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2733",
+   "name": "Dragon (2.0)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2733/image_en/f8f6ef30-e3da-4003-93d4-06905a8752a0.jpg",
+   "number": "009",
+   "rarity": "T",
+   "att_def": "600 / 600",
+   "type": "Resonator Token",
+   "race": "Dragon",
+   "artist": "Nejita",
+   "expansion": "Echoes of the New World",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2734",
+   "name": "Dragon (2.0)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2734/image_en/233f25ee-569c-4379-890d-bc3d83580ad5.jpg",
+   "number": "009*",
+   "rarity": "T",
+   "att_def": "600 / 600",
+   "type": "Resonator Token",
+   "race": "Dragon",
+   "artist": "Nanami Lusia",
+   "expansion": "Echoes of the New World",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2735",
+   "name": "Wall",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2735/image_en/4fd502af-e0c0-440f-b6b2-868486ee727e.jpg",
+   "number": "010",
+   "rarity": "T",
+   "att_def": "1000 / 1000",
+   "type": "Resonator Token",
+   "race": "Wall",
+   "artist": "Fushikaden K.K.",
+   "expansion": "Echoes of the New World",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2736",
+   "name": "Wall",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2736/image_en/d2032888-091c-4eca-abd2-79df6906a187.jpg",
+   "number": "010*",
+   "rarity": "T",
+   "att_def": "1000 / 1000",
+   "type": "Resonator Token",
+   "race": "Wall",
+   "artist": "saumaro",
+   "expansion": "Echoes of the New World",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2737",
+   "name": "Shadow (2.0)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2737/image_en/77406b58-d8e9-4830-a101-48c72769054c.jpg",
+   "number": "011",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Shadow",
+   "artist": "Doro",
+   "expansion": "Echoes of the New World",
+   "all_sets": "Echoes of the New World"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/2738",
+   "name": "Shadow (2.0)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/2738/image_en/20ffd8bd-c044-4a68-8c0f-d6a1c1f0433b.jpg",
+   "number": "011*",
+   "rarity": "T",
+   "att_def": "100 / 100",
+   "type": "Resonator Token",
+   "race": "Shadow",
+   "artist": "Yoidoren",
+   "expansion": "Echoes of the New World",
+   "all_sets": "Echoes of the New World"
+  }
+ ]
+}

@@ -1,0 +1,3459 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/3012",
+   "name": "A New Radiance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3012/image_en/a634cf5f-caf8-492b-8868-2a2df19b36cd.jpg",
+   "number": "ADK-001",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "hatarisu",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "A gem blessed by Ra shines like no other.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3013",
+   "name": "Gem Blade Opal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3013/image_en/e6a29782-d79d-4f19-9573-02d29fe9139a.jpg",
+   "number": "ADK-002",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "noki",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever you gain a gem ⇒ Prevent all damage that would be dealt to this card until end of turn.",
+   "flavor_text": "Gems dazzle the eye better than light.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3014",
+   "name": "Gem Boat Alexandrite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3014/image_en/9f468173-f32a-4a80-bfac-a79e4cc96383.jpg",
+   "number": "ADK-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "0 / 1500",
+   "type": "Resonator",
+   "race": "Airship",
+   "artist": "Sh!βα",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest], banish three gems: Remove target non-magic stone, non-J-ruler entity from the game.",
+   "flavor_text": "Shimmering like the stars, the gem boat rose into the air, soaring towards the floating isle.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3015",
+   "name": "Gem Jail",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3015/image_en/75ab6434-fec1-4b8d-bbd4-e3850a2c05ec.jpg",
+   "number": "ADK-004",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/XX.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"Ho-hohoho! Ugly things need not trouble me!\" -Rose Quartz, the Panda Queen",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3016",
+   "name": "Golden Bird",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3016/image_en/538d8fdf-35ae-406f-912d-76e2a4bbd290.jpg",
+   "number": "ADK-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 800",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "noki",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Small birds that glide about the floating isle.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3017",
+   "name": "Indomitable Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3017/image_en/1266f184-6471-4b41-ab90-598d1d015089.jpg",
+   "number": "ADK-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "BANAMONS*",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"A king will never fail, so long as he has a kingdom to protect.\" -Taegrus Pearlshine",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3018",
+   "name": "Ivy on the Floating Isle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3018/image_en/b77d44b7-8833-419b-be6a-6848eb42d494.jpg",
+   "number": "ADK-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Vegetation",
+   "artist": "gozz",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card blocks a J/resonator ⇒ That J/resonator doesn't recover during its controller's next recovery phase.",
+   "flavor_text": "\"Careful, that stuff snatches you up before you know it.\" -Taegrus Pearlshine",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3019",
+   "name": "Jewel Cutter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3019/image_en/dea8d034-6365-440e-a27c-fa23e66f5209.jpg",
+   "number": "ADK-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"I don't want to hurt you, but I'm not giving up!\" -Taegrus Pearlshine",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3020",
+   "name": "Jewel Golem",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3020/image_en/0f8f016f-a3b2-4a70-9264-c7427b3813ab.jpg",
+   "number": "ADK-009",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Moopic",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Gain a light gem, fire gem, water gem, wind gem, and darkness gem.",
+   "flavor_text": "Taegrus discovered an interesting reaction between gems and golems.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3021",
+   "name": "Jewel Shell",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3021/image_en/c3c05876-074e-4027-bb2c-794654490471.jpg",
+   "number": "ADK-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "noki",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"Hold on!\" -Gem Blade Opal",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3022",
+   "name": "Jeweler's Children",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3022/image_en/36e414e6-078d-406d-88ac-d2bce8526f07.jpg",
+   "number": "ADK-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Matsurika Yoko",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Gain a water gem and a wind gem.",
+   "flavor_text": "Quick to run at the first sign of work.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3023",
+   "name": "Light Majin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3023/image_en/c345c5a1-6391-4818-9610-ee9dc0fcfa1f.jpg",
+   "number": "ADK-012",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "fzwrAym",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "A mindless creature that acts in concert with the magic crests.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3024",
+   "name": "Magic Crest of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3024/image_en/ad854846-abeb-433c-8af5-57d6c7caad84.jpg",
+   "number": "ADK-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "fzwrAym",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Distribute four [+100/+100] counters on up to four target resonators.",
+   "flavor_text": "The Light Magic Crest seems to grant some kind of strange power.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3025",
+   "name": "Magic Warrior on the Floating Isle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3025/image_en/824ae3d5-7729-47b5-bf56-287df0999c0d.jpg",
+   "number": "ADK-014",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "0 / 1500",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "SIGMAN",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Taegrus was getting rusty, it took a lot more effort to get rid of it than he thought.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3026",
+   "name": "Master of the Sky",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3026/image_en/7ae89fa4-5db4-419f-b64b-d52c3530ff6a.jpg",
+   "number": "ADK-015",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 1000",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Miko Yamazaki",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest]: This card deals 400 damage to target attacking or blocking resonator.",
+   "flavor_text": "The first challenge of the skies appeared before Taegrus.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3027",
+   "name": "Panda Pilot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3027/image_en/2ecabe9f-e35e-4134-b4b7-038f250b18b1.jpg",
+   "number": "ADK-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nBanish a gem: This card gains [Flying] until end of turn.",
+   "flavor_text": "\"This is my battlefield.\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3028",
+   "name": "Ra, the Golden Bird",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3028/image_en/44b530d9-bc96-4790-a8cc-36ed7dd2551b.jpg",
+   "number": "ADK-017",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 800",
+   "type": "Resonator",
+   "race": "Guardian",
+   "artist": "Mad",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[w][w]: Change the target of target spell or ability targeting only this card.",
+   "flavor_text": "The golden guardian waits patiently for a successor.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3029",
+   "name": "Rainbow Shimmers",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3029/image_en/664e3c15-5a07-4ee5-a4ab-18d55f64c605.jpg",
+   "number": "ADK-018",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "The light from the gems blotted out the magic crests.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3030",
+   "name": "Rallying Song of the Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3030/image_en/2851aaa5-7dec-482d-a5b9-40bae7e2f02d.jpg",
+   "number": "ADK-019",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "noki",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"Now, my beautiful forces, arise!\" -Rose Quartz, the Panda Queen",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3031",
+   "name": "Rampaging Magic Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3031/image_en/63902cfc-8717-4006-972e-ca4d89863658.jpg",
+   "number": "ADK-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "gozz",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nAt end of turn ⇒ Banish this card if it attacked or blocked this turn.",
+   "flavor_text": "With Pandora sealed away, the golems ran rampant.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3032",
+   "name": "Rose Quartz, the Panda Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3032/image_en/8e80b37e-c138-4bd2-ad69-5d5a58f0858e.jpg",
+   "number": "ADK-021",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nAt the end of your turn ⇒ Recover all Pandas you control.",
+   "flavor_text": "Her arrival is always met with thunderous applause.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3033",
+   "name": "Sealing the Gates of Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3033/image_en/bbf60d22-3659-4113-8f7e-75581a967e79.jpg",
+   "number": "ADK-022",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "The Outer World gate was closed by Gill and Taegrus. But...",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3034",
+   "name": "Soothsayer Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3034/image_en/91f22311-1acc-4d39-a600-279b4ab71e36.jpg",
+   "number": "ADK-023",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Matsurika Yoko",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Reveal the top card of your deck. If it's a Panda, put it into your hand.",
+   "flavor_text": "\"Good luck, bad luck, a panda. You never know what the cards will reveal.\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3035",
+   "name": "Taegrus Pearlshine",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3035/image_en/f909ccfb-a41e-44bb-90d4-82e52d6def08.jpg",
+   "number": "ADK-024",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Panda",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nAt the beginning of the game ⇒ Gain a gem of any attribute.",
+   "flavor_text": "After overcoming the trials, Taegrus received Ra's blessing.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3036",
+   "name": "Taegrus Pearlshine, Lord of the Mountain",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3036/image_en/a497736c-ec5e-4898-8984-8551e14a24c8.jpg",
+   "number": "ADK-024 J",
+   "rarity": "JR",
+   "att_def": "800 / 800",
+   "type": "J-ruler",
+   "race": "Panda",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nBanish a water gem: This card gains [Flying] until end of turn.",
+   "flavor_text": "The rainbow gem shines and illuminates the future.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3037",
+   "name": "The Floating Isle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3037/image_en/1e64679c-1db8-4ed4-9c8e-66359f1edea8.jpg",
+   "number": "ADK-025",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nEach player may only play one card per turn.",
+   "flavor_text": "A forbidden place that imposes harsh conditions upon intruders.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3038",
+   "name": "Voyage to the Floating Isle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3038/image_en/011fb63a-ab2e-4ffb-9314-5cf88327a8dd.jpg",
+   "number": "ADK-026",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Thanks to the Ultra Magic Stone, Alexandrite was able to make its voyage.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3039",
+   "name": "White Dog of Sasaru Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3039/image_en/03d8ea87-15ea-475a-b6ef-5b156bb47331.jpg",
+   "number": "ADK-027",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Sanosuke Sakuma",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever you gain a gem ⇒ This card gains [+100/+100] until end of turn.",
+   "flavor_text": "People gather when a cat cries. They scatter when a dog barks.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3040",
+   "name": "White Dragonoid Child",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3040/image_en/0209ded6-4547-4638-99eb-710b38e10c2c.jpg",
+   "number": "ADK-028",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "BANAMONS*",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Recover target resonator. If it's a Dragonoid or Panda, it gains [+200/+200] until end of turn.",
+   "flavor_text": "White dragonoids have the mysterious ability to empower their allies.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3041",
+   "name": "Winds of Gold",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3041/image_en/50af3992-b898-4e4a-a78a-94420c53bc07.jpg",
+   "number": "ADK-029",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Mad",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "The winds are said to separate you from the world for a short time.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3042",
+   "name": "Burning Pteranodon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3042/image_en/1209239e-c60e-4e2e-b9d6-16f3a0686a75.jpg",
+   "number": "ADK-030",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "gozz",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card attacks ⇒ It deals 300 damage to each player and J/resonator.",
+   "flavor_text": "\"Little more than a passing breeze for the likes of me!\" -Pialle Eille",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3043",
+   "name": "Callous Blaze",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3043/image_en/1ba77e97-2d3b-4bc6-bc21-91c108ed8a57.jpg",
+   "number": "ADK-031",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tsukumi",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "The Demon King steals the breath of life away.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3044",
+   "name": "Corrupted Dragonoid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3044/image_en/6a5a822a-8ca2-4137-b7f4-97666fd6a615.jpg",
+   "number": "ADK-032",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Ippei SOEDA",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card attacks ⇒ You may discard a card. If you do, draw a card.",
+   "flavor_text": "The influence of the magic crests spread across many creatures.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3045",
+   "name": "Cross Counter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3045/image_en/783c16b7-0e1a-4281-bd68-c1b04a6adf19.jpg",
+   "number": "ADK-033",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "SIGMAN",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"Cross counter!\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3046",
+   "name": "Devoted Squadron",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3046/image_en/ac0942dd-ff6b-4bb3-937c-26a33a9d65ff.jpg",
+   "number": "ADK-034",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Mad",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ If your life is 2000 or less, search your deck for a card named \"Devoted Squadron\" and put it into the field. That card entering the field doesn't cause its own abilities to trigger. Then shuffle your deck.",
+   "flavor_text": "Delusion breeds delusion.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3047",
+   "name": "Dragonoid Doctor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3047/image_en/00cf5585-0699-478f-9894-8e489bf3eb41.jpg",
+   "number": "ADK-035",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "noki",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Target Dragonoid gains \"At end of turn ⇒ Recover this card.\" until end of turn.",
+   "flavor_text": "Dropping them off a cliff, leaving them in a den of beasts. This nation's doctors provide the very best treatments.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3048",
+   "name": "Dragonoid Rogue",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3048/image_en/ff75f5fc-557b-48b7-a0a8-5078df550b04.jpg",
+   "number": "ADK-036",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 200",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "yuhki lily",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nAt end of turn ⇒ Return this card to its owner's hand.",
+   "flavor_text": "The secret to a long life as a thief is to get good at running away.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3049",
+   "name": "Elixir, the Majin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3049/image_en/8155cf8a-81be-4ed0-909b-8307938afe48.jpg",
+   "number": "ADK-037",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "Azusa",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Who she was, her personality, everything was overtaken completely by evil.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3050",
+   "name": "Elixir's Fighting Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3050/image_en/dc8ee69a-4379-4bd5-9de5-e8455a30834f.jpg",
+   "number": "ADK-038",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Azusa",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Elixir's aura shaped itself into pointed fangs.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3051",
+   "name": "Evil Dragon, Hellblaze",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3051/image_en/41000e04-ddbe-46ff-a506-e6d29d832653.jpg",
+   "number": "ADK-039",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "douzen",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for up to two Magic Crests, reveal them and put them into your hand. Then shuffle your deck.",
+   "flavor_text": "A tireless servant of the Demon King.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3052",
+   "name": "Fast Food",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3052/image_en/3c080dc2-d9ac-47ad-9f7d-6b26f682f103.jpg",
+   "number": "ADK-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"Quick and delicious!\" -Gourmet Chef, Sherry Shera",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3053",
+   "name": "Ferocious Triceratops",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3053/image_en/47d6c8e1-093c-4d28-98f9-79092bd577f0.jpg",
+   "number": "ADK-041",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1200 / 800",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "gozz",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Fledgling red dragonoid hunters hunt Hoelle pigs. More skilled hunters take on dinosaurs.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3054",
+   "name": "Fire Majin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3054/image_en/9c01ebb6-3cfc-4343-a3ab-ee7483315930.jpg",
+   "number": "ADK-042",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "The spirit burned away what was left of the dark elf.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3055",
+   "name": "Fire Wave",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3055/image_en/31b438ed-4f12-467b-8786-7e0150f3f928.jpg",
+   "number": "ADK-043",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"It's coming! Hide!\" -Gill",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3056",
+   "name": "Fires of the Demon King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3056/image_en/831a881c-eab6-4dce-843e-36b0f35f474f.jpg",
+   "number": "ADK-044",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "0 / 100",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "uekino aroe",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ It deals 600 damage to target resonator.",
+   "flavor_text": "A lethal remnant of the Demon King's wake.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3057",
+   "name": "Frayla, Servant of Demon Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3057/image_en/e8995a6b-ab22-46ea-91cc-1ed88b5139fc.jpg",
+   "number": "ADK-045",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dark Elf/Wicked Spirit",
+   "artist": "ishishou",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card attacks ⇒ Another target resonator you control may gain [+400/0] and [Swiftness] until end of turn. If it does, at the next end of turn ⇒ Its controller banishes it.",
+   "flavor_text": "\"Frayla...I'm sorry.\" -Gill",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3058",
+   "name": "Frayla's Devotee",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3058/image_en/c98116e8-f275-4325-b6dd-8e53b02f46dc.jpg",
+   "number": "ADK-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "mie",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever damage is dealt to you ⇒ This card gains [+200/+200] until end of turn.",
+   "flavor_text": "Their leader's form was unrecognizable, but their blind devotion remained intact.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3059",
+   "name": "Giant Enraged Ox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3059/image_en/96e2b846-f6a4-4908-89f1-3d9085951c71.jpg",
+   "number": "ADK-047",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1500 / 200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put five strength counters on your J/ruler.",
+   "flavor_text": "Fearsome, but they tire quickly. During that time, they're easy to capture, but no one's brave enough to try.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3060",
+   "name": "Hoelle Chicken",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3060/image_en/2d65d2be-a4be-4016-b2f7-043cab12b9fc.jpg",
+   "number": "ADK-048",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Misa Tsutsui",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put three strength counters on your J/ruler.",
+   "flavor_text": "They rival Hoelle pigs in popularity among cooks.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3061",
+   "name": "Magic Crest of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3061/image_en/589469ce-45ea-42a4-921f-a9770fff1b0c.jpg",
+   "number": "ADK-049",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ It deals 600 damage to target resonator.",
+   "flavor_text": "The Fire Magic Crest scorches those that touch it.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3062",
+   "name": "Magic Impact",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3062/image_en/9b172b2c-2bb1-4bdc-9379-fa38200e3856.jpg",
+   "number": "ADK-050",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "YK",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "To protect Shaela, Kirik took Elixir's attack and was knocked out in one blow.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3063",
+   "name": "Majin Dark Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3063/image_en/58c8fb63-d48f-4bdd-b1f8-377145b50cdc.jpg",
+   "number": "ADK-051",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Nekobayashi",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nPlay this card only if damage was dealt to you this turn.",
+   "flavor_text": "Evil filled the void in this creature's heart.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3064",
+   "name": "Majin Madness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3064/image_en/cbd5f9b5-9a2d-4714-99d1-f5feb704d037.jpg",
+   "number": "ADK-052",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "The Demon King and his followers began their invasion.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3065",
+   "name": "Majin Subjugation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3065/image_en/0bcebbef-601e-49a5-be34-305e74b0390f.jpg",
+   "number": "ADK-053",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirai Hidemi",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "There's no way to escape the Demon King's influence.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3066",
+   "name": "Panda Pugilist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3066/image_en/d6275dbe-ffdb-46db-8f89-e18603cb1ac0.jpg",
+   "number": "ADK-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Saiko Takaki",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nBanish a gem: This card gains [+400/0] and [Pierce] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "A world famous pugilist who uses gems to fight.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3067",
+   "name": "Play Dead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3067/image_en/73e2e612-81f4-4e78-b4d6-809bd7c32ffb.jpg",
+   "number": "ADK-055",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Battle Arts",
+   "artist": "Tatsuki Mutou",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"A long life is worth the temporary humiliations.\" -Red Dragonoid Proverb",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3068",
+   "name": "Unstable Golem",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3068/image_en/fa940003-1d11-4cf1-a804-a50388e93530.jpg",
+   "number": "ADK-056",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 900",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "gajumaru",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card attacks ⇒ It deals 800 damage to each resonator. Banish this card.",
+   "flavor_text": "\"We'd better disable it. It's out of control.\" -Gill",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3069",
+   "name": "Velociraptor, Mountain Hunter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3069/image_en/84a15187-36d4-4da8-8aa0-aa1ae653e3b8.jpg",
+   "number": "ADK-057",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1500 / 1200",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "Nanami Lusia",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card attacks ⇒ Target resonator cannot block this turn.",
+   "flavor_text": "Fear is the weapon of the predator.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3070",
+   "name": "Welser, the Archmage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3070/image_en/671541f4-ae97-4c15-a2de-1f2cccacecfe.jpg",
+   "number": "ADK-058",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wizard",
+   "artist": "Shirai Hidemi",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nYou may pay the attribute cost of Wicked Spirits and Magic Crests with fire will.",
+   "flavor_text": "The creature that appeared from the Outer World gate wasn't the savior Frayla had hoped for.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3071",
+   "name": "Welser, King of Demons",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3071/image_en/f691e34b-f8f5-4f24-8eab-7acc33e0a9e3.jpg",
+   "number": "ADK-058 J",
+   "rarity": "JR",
+   "att_def": "1500 / 1500",
+   "type": "J-ruler",
+   "race": "Wicked Spirit",
+   "artist": "Shirai Hidemi",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field or whenever it attacks ⇒ Your opponent puts three [-100/-100] counters on each J/resonator they control.",
+   "flavor_text": "Darkness clouded the skies and devoured the future.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3072",
+   "name": "Angler Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3072/image_en/6ee90dc5-2d5b-4259-89ec-977471b42627.jpg",
+   "number": "ADK-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Mayo",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card if you control a water gem.",
+   "flavor_text": "Sparkling gems proved to be a fairly effective bait.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3073",
+   "name": "Ayu, Lunar Swordswoman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3073/image_en/e6a442a2-b8a0-4955-894c-081a1f7b0d80.jpg",
+   "number": "ADK-060",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wererabbit",
+   "artist": "Misa Tsutsui",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nYou may not have more than one copy of any card in your deck.",
+   "flavor_text": "\"This meeting...is definitely a once in a lifetime event!\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3074",
+   "name": "Ayu, Shaman Swordswoman",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3074/image_en/5b58ae70-9cb8-49c5-acf3-24c23f2c17ec.jpg",
+   "number": "ADK-060 J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-ruler",
+   "race": "Wererabbit",
+   "artist": "Misa Tsutsui",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nGod's Art \"Once In A Lifetime\" [0]: Name a card. Reveal cards from the top of your deck until you reveal the named card. Put that card into your hand, and remove the rest from the game.",
+   "flavor_text": "\"Because all meetings are once in a lifetime!\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3075",
+   "name": "Ayu's Pictorial Scroll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3075/image_en/87f7730c-308a-4ece-8416-8a51dd2c060d.jpg",
+   "number": "ADK-061",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Treasury Item",
+   "artist": "Kamijo Roro",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Reveal the top card of your deck. If it's a resonator with total cost 3 or less, put it into the field. Otherwise, put it into your hand. If your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\", put it into the field if it's a resonator with total cost 5 or less instead.",
+   "flavor_text": "Creatures never seen on this world seem to be drawn in it.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3076",
+   "name": "Ayu's Special Power Medicine",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3076/image_en/8b80f580-c26e-49b7-a338-8c38836a022c.jpg",
+   "number": "ADK-062",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Treasury Item",
+   "artist": "Shirono Muku",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever a card named \"Ayu, Shaman Swordswoman\" enters the field under your control ⇒ Put the top card of your magic stone deck into the field.",
+   "flavor_text": "\"There's no choice but to risk it all and drink it! I'm sure it's safe!\" -Ayu, Lunar Swordswoman",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3077",
+   "name": "Ayu's Swordstrike",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3077/image_en/3299891d-a44d-4049-bc1a-1cea7b207808.jpg",
+   "number": "ADK-063",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Haruichi Kido",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Ayu's reliance on one-time techniques meant she needed to keep her sword as sharp as possible.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3078",
+   "name": "Crier Mermaid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3078/image_en/94dacc4e-58cf-45a3-bec8-eb448662b19c.jpg",
+   "number": "ADK-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 500",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "Kamijo Roro",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nThis card gains [+200/+200] as long as the weather is rain.",
+   "flavor_text": "\"Lady Shaela! Lady Shaela's been!...\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3079",
+   "name": "Dinosaur Surfacing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3079/image_en/bfdb4dee-3523-4486-bd04-23579e0d9ed5.jpg",
+   "number": "ADK-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "douzen",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "With a spray of brine and an enormous wave, a fearsome creature emerged.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3080",
+   "name": "Diver Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3080/image_en/f5db1779-a0bf-40dd-9a12-75490693e9b8.jpg",
+   "number": "ADK-066",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nBanish a gem: This card cannot be blocked until end of turn.",
+   "flavor_text": "Strangely, they blend in unusually well underwater.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3081",
+   "name": "Duplication Mirror",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3081/image_en/9626db7b-b988-4ca7-b1a6-be45f002b83f.jpg",
+   "number": "ADK-067",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Treasury Item",
+   "artist": "Nekobayashi",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nAs this card enters the field, choose a non-magic stone, non-J-ruler entity. This card enters the field as a copy of that entity.",
+   "flavor_text": "A mirror that copies your image as well as your soul.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3082",
+   "name": "Flood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3082/image_en/e113586b-5e88-4ae2-9a99-44c8d9a9b546.jpg",
+   "number": "ADK-068",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "tokiwa",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "That much water makes it awfully hard to move.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3083",
+   "name": "Lethargy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3083/image_en/720bd8c1-3618-4a9c-9dc3-b4f319db5717.jpg",
+   "number": "ADK-069",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "AKI",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Even back in the Coral Palace, Shaela did not awake.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3084",
+   "name": "Lowly Spirit Bug",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3084/image_en/466cf9a5-89c3-47e5-a1a1-3eafd1fbbcbc.jpg",
+   "number": "ADK-070",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Insect/Soul",
+   "artist": "Kamijo Roro",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "flavor_text": "\"Don't be so negative! Your soul is great!\" -Ayu, Lunar Swordswoman",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3085",
+   "name": "Magic Crest of Water",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3085/image_en/b146f2e0-5a4b-4999-8e11-dcddaab027b1.jpg",
+   "number": "ADK-071",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "touge369",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "flavor_text": "The Water Magic Crest inspires dark thoughts.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3086",
+   "name": "Magic Warrior on the Coast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3086/image_en/af372f0f-023f-4d42-84d1-e69956410654.jpg",
+   "number": "ADK-072",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 1000",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "M ganzy",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Reveal the top three cards of your deck. Put a Golem from among them into your hand and the rest into your graveyard.",
+   "flavor_text": "With no orders the golems wandered aimlessly, their numbers slowly increasing over time.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3087",
+   "name": "Magical Wind Chime",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3087/image_en/346756ea-be17-49ed-a27b-4cd14be5bed8.jpg",
+   "number": "ADK-073",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Treasury Item",
+   "artist": "Takamura Haluki",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest]: Produce [w], [r], [u], [g], or [b]. Spend this will only to play chants.",
+   "flavor_text": "As Ayu ran, the wonderful sound of this wind chime rang out.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3088",
+   "name": "Mermaid Visionary",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3088/image_en/a0fc8897-9d1c-499c-ba90-cd4ca55a937f.jpg",
+   "number": "ADK-074",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 300",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "j-peg",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
+   "flavor_text": "Daydreams may not be real, but they can still inspire.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3089",
+   "name": "Misty Dragon Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3089/image_en/eec4278c-04a7-4758-9e28-aef76a614ece.jpg",
+   "number": "ADK-075",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Dragon/Soul",
+   "artist": "Fujinaka Ryu",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Flying] until end of turn.",
+   "flavor_text": "A magical fog that no one can truly disperse.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3090",
+   "name": "Mosasaurus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3090/image_en/993c069a-0fe3-4cfe-9e48-ad8de1e5db75.jpg",
+   "number": "ADK-076",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1000",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "douzen",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Choose one - Destroy target rested resonator; or three target magic stones don't recover during their controller's next recovery phase.",
+   "flavor_text": "\"As big as a mosasaurus\" seems to be a common insult among mermaids.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3091",
+   "name": "One and Only",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3091/image_en/68f24634-3319-423a-a120-1797235208f4.jpg",
+   "number": "ADK-077",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ShiroYayoi",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Ayu doesn't carry backups for anything.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3092",
+   "name": "Optional Possession",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3092/image_en/413d11b3-334b-45f4-a8de-6900c6a2ed34.jpg",
+   "number": "ADK-078",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Misa Tsutsui",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Possession is known to make Ayu act pretty different.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3093",
+   "name": "Shaela's Return",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3093/image_en/9da0b0a8-5712-4b4b-88cf-f9331b43cfb8.jpg",
+   "number": "ADK-079",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SIE NANAHARA",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "A grievously wounded Shaela returned to the Coral Palace.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3094",
+   "name": "Sleepy Cat Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3094/image_en/f644b626-ab38-458d-b6d5-17512fee827b.jpg",
+   "number": "ADK-080",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Beast/Soul",
+   "artist": "Matsurika Yoko",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Sleeping cats hate being disturbed.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3095",
+   "name": "Soaring Falcon Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3095/image_en/6f67bd5c-851b-4966-9172-40bd608832dc.jpg",
+   "number": "ADK-081",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Beast/Soul",
+   "artist": "douzen",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card attacks ⇒ Rest target resonator.",
+   "flavor_text": "Possessed by the falcon spirit, Ayu cawed loudly.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3096",
+   "name": "Swirling Mermaid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3096/image_en/a56c6cfb-7e97-4447-8a7e-ddca0f080032.jpg",
+   "number": "ADK-082",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "mie",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nThis card cannot be blocked as long as the weather is rain.",
+   "flavor_text": "\"Sorry, I can only deal with one at a time.\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3097",
+   "name": "Unexpected Visitor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3097/image_en/aa9ce042-6576-4b85-8749-d7c44b1332fc.jpg",
+   "number": "ADK-083",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "mie",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Unexpected though it may be, you'll have to treat them with hospitality.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3098",
+   "name": "Valorous Tiger Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3098/image_en/1fef0f2a-976b-4291-b449-cac5025bcb77.jpg",
+   "number": "ADK-084",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Beast/Soul",
+   "artist": "Misa Tsutsui",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Precision] until end of turn.",
+   "flavor_text": "This spirit fills its host with a primal fury.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3099",
+   "name": "Watchman on the Coast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/30/3099/image_en/ca192023-a1ab-4ef7-aafb-39dffa679efc.jpg",
+   "number": "ADK-085",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 1200",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nThis card gains [+400/+400] as long as the weather is rain.",
+   "flavor_text": "He was ordered to watch the coasts, but he can't remember why.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3100",
+   "name": "Water Majin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3100/image_en/6b8b6555-2d34-490a-b73d-9a36fd066d9b.jpg",
+   "number": "ADK-086",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "touge369",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Drops from water majins create more of their kind.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3101",
+   "name": "Willful Samurai Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3101/image_en/e4488516-3b03-4b30-921b-5871290f464d.jpg",
+   "number": "ADK-087",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 800",
+   "type": "Resonator",
+   "race": "Bushido/Soul",
+   "artist": "SIE NANAHARA",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Pierce] until end of turn.",
+   "flavor_text": "This spirit fills its host with a sturdiness, and the resolve of a samurai.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3102",
+   "name": "Ciel, Sorcerous Priestess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3102/image_en/24369a3e-c3fb-4526-bd6a-21dff7c6e346.jpg",
+   "number": "ADK-088",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "ComamitsuZaki",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever you play a wind chant ⇒ This card gains [+200/+200] until end of turn.",
+   "flavor_text": "\"Hm? You have need of me?\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3103",
+   "name": "Ciel's Familiar, Mikay",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3103/image_en/c2ed1861-7301-403f-97c2-a008c82be108.jpg",
+   "number": "ADK-089",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "ComamitsuZaki",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nBanish this card: This card deals 400 damage to target resonator.",
+   "flavor_text": "\"Come, Mikay!\" -Ciel, Sorcerous Priestess",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3104",
+   "name": "Ciel's Wind Blast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3104/image_en/a3eb92ee-4875-4cf6-82d5-0fc86b8c4faa.jpg",
+   "number": "ADK-090",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "ComamitsuZaki",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"Get out of my sight!\" -Ciel, Sorcerous Priestess",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3105",
+   "name": "Destruction of the Portal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3105/image_en/acd249d4-f6d8-4ad8-a4e3-6e97065d9ba3.jpg",
+   "number": "ADK-091",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yua",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "The Demon King destroyed the portal, and the elven kingdom was revealed to the world.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3106",
+   "name": "Dispersal",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3106/image_en/d56424bc-4b35-4aef-8f4e-a79f6641fdb4.jpg",
+   "number": "ADK-092",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yua",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"Tch. Taegrus! We need to fall back!\" -Gill",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3107",
+   "name": "Elven Exorcist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3107/image_en/6213e8dc-b5f8-4816-a246-fb779ec90157.jpg",
+   "number": "ADK-093",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "ponkichi",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card battles with a resonator ⇒ It gains [+400/+300] until end of turn.",
+   "flavor_text": "The elves were forced to quickly learn to combat the majins.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3108",
+   "name": "End of the Revolution",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3108/image_en/bd0c1e9b-7beb-4215-9653-b90a4fbe87ce.jpg",
+   "number": "ADK-094",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "gekko",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"Gill...I'm sorry I dragged you into this.\" -Frayla's Final Moments",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3109",
+   "name": "Envoy of the Dragon Priestess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3109/image_en/3540c0bf-87d7-4bab-8da3-850baaed9a45.jpg",
+   "number": "ADK-095",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Look at the top four cards of your deck. You may reveal a Dragonoid from among them and put it into your hand. Put the rest on the bottom of your deck in any order.",
+   "flavor_text": "The guide showed Gill the way, leading him to a tower he'd seen in his dreams.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3110",
+   "name": "Faerur Letoliel, Rallying King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3110/image_en/0d949220-a557-401a-bc29-d9ae27808d47.jpg",
+   "number": "ADK-096",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Kamijo Roro",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nRest five recovered Elves you control: Put this card from your graveyard into the field.",
+   "flavor_text": "\"I will protect these lands. I will not let all we know come to an end.\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3111",
+   "name": "Gill",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3111/image_en/14b4166d-1226-486d-a27d-0e3a20676411.jpg",
+   "number": "ADK-097",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "gekko",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest]: Search your deck for a card named \"Gentle Breeze Elemental\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Gill's theory that the Ultra Magic Stone would react with the dragon priestesses' power proved correct.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3112",
+   "name": "Gill, the Gifted Conjurer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3112/image_en/6f584b7f-0470-4ce0-8caa-afa49af31be7.jpg",
+   "number": "ADK-097 J",
+   "rarity": "JR",
+   "att_def": "1100 / 1100",
+   "type": "J-ruler",
+   "race": "Human",
+   "artist": "gekko",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nRemove an Elemental in your graveyard from the game: Produce [g]. Spend this will only to play Spirit Magic chants. Play this ability only once per turn.",
+   "flavor_text": "\"This is the end!\" Gill said. Reiya said nothing, as she knew the end was far and away.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3113",
+   "name": "Grieving Elf Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3113/image_en/9dbd08c0-3513-47cf-8f4f-fcd8f6aa434a.jpg",
+   "number": "ADK-098",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 500",
+   "type": "Resonator",
+   "race": "Elf/Soul",
+   "artist": "Mayo",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put target Soul resonator not named \"Grieving Elf Spirit\" from your graveyard into your hand.",
+   "flavor_text": "The shadow of a grieving soul.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3114",
+   "name": "Insight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3114/image_en/fac5990a-a57a-4403-93dd-65cc1c1e2b10.jpg",
+   "number": "ADK-099",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "BANAMONS*",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "After facing the Demon King, Gill knew he had no hope of defeating him as he was.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3115",
+   "name": "Leaf Digger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3115/image_en/d4ce32d5-4b60-4d37-9808-5c311326981d.jpg",
+   "number": "ADK-100",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "Tsukumi",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Digs a hole and attacks from behind their defenses.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3116",
+   "name": "Leaf Garb",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3116/image_en/48c25735-2734-4c3f-95c0-05242f194de5.jpg",
+   "number": "ADK-101",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Elemental/Elf",
+   "artist": "Pisuke",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for up to two resonators with \"Leaf\" in their names and put them into your graveyard. Then shuffle your deck.",
+   "flavor_text": "\"Excellent. Use this to hide.\" -Gill",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3117",
+   "name": "Leaf Golem",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3117/image_en/c515bb7a-41d7-43e1-a820-623e8447d671.jpg",
+   "number": "ADK-102",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Elemental/Golem",
+   "artist": "SO",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nBanish a \"Leaf Wing\" and a \"Leaf Fighter\": Put this card from your graveyard into the field.",
+   "flavor_text": "\"I wonder how well I can copy those things.\" -Gill",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3118",
+   "name": "Leaf Punisher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3118/image_en/9075243a-69bb-4ef9-825d-05a779b87dbe.jpg",
+   "number": "ADK-103",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "JURI",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target fire resonator.",
+   "flavor_text": "Leaves really don't like fire.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3119",
+   "name": "Leaf Wing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3119/image_en/69db3fee-98d2-4922-b5d3-ca2449516a5f.jpg",
+   "number": "ADK-104",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Elemental/Beast",
+   "artist": "Matsurika Yoko",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"They can take this form too!\" -Gill",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3120",
+   "name": "Magic Crest of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3120/image_en/8275fa0e-d9dd-4faf-92a1-0a38a15b1688.jpg",
+   "number": "ADK-105",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "Nagi-nyan",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put the top card of your magic stone deck into the field.",
+   "flavor_text": "The Wind Magic Crest carries evil magic with it.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3121",
+   "name": "Otherworld Dreams",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3121/image_en/250fc1c9-99b8-4d32-a9fc-b27d377aa41e.jpg",
+   "number": "ADK-106",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Whether visions of ancient times or merely dreams, no one can be certain.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3122",
+   "name": "Phase Shift",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3122/image_en/57be9869-4770-440a-81c3-2f4d346e55b6.jpg",
+   "number": "ADK-107",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "ComamitsuZaki",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "In an instant, it can turn a bad situation into a favorable one.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3123",
+   "name": "Portal Magus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3123/image_en/47b78d3f-2ca1-4a48-bcb3-b82f2d5457f1.jpg",
+   "number": "ADK-108",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "j-peg",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest], banish this card: Destroy target addition.",
+   "flavor_text": "The portal was thought to be the lifeline of elvenkind, and they defended it to the last.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3124",
+   "name": "Ryula, the Dragon Priestess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3124/image_en/8e9852b6-1dd3-40d4-8952-64ada159714a.jpg",
+   "number": "ADK-109",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "ishishou",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put all Elemental cards from your removed area into your graveyard.",
+   "flavor_text": "A guardian of the tower, who waits patiently for the prophesized savior.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3125",
+   "name": "The Eternal Tower",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3125/image_en/88ff1978-f874-4ca5-a876-65ccef86bf9b.jpg",
+   "number": "ADK-110",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever a chant with total cost 1 or less is played ⇒ Cancel it.",
+   "flavor_text": "A suffocating aura permeates the tower.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3126",
+   "name": "Tower Guardian",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3126/image_en/4e81df30-4e99-42e1-b5a1-d93702ca0e55.jpg",
+   "number": "ADK-111",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1200",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Moopic",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nThis card gains [Barrier] during your opponent's turn.",
+   "flavor_text": "\"What's so important they'd have this protecting it?\" -Gill",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3127",
+   "name": "Travelling Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3127/image_en/16b8db6e-987d-4f1d-b901-4974be439d6d.jpg",
+   "number": "ADK-112",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ You may banish a wind gem. If you do, put the top card of your magic stone deck into the field.",
+   "flavor_text": "It's rare, but there are pandas who travel the world, practicing wind magic.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3128",
+   "name": "True Blade of Spirits",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3128/image_en/2d806aea-c44a-42e2-aa71-535aff23e546.jpg",
+   "number": "ADK-113",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic",
+   "artist": "Shirono Muku",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Wind cuts sharper than steel in the right hands.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3129",
+   "name": "Ultra-Awakening",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3129/image_en/18ca172f-81fb-4b07-a2b7-c0847185b150.jpg",
+   "number": "ADK-114",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Spirit Magic/Elemental",
+   "artist": "uekino aroe",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "An awakening of true anger.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3130",
+   "name": "Viola, the Dragon Priestess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3130/image_en/1b09ce39-9f7a-446b-9e86-14f1451d95b6.jpg",
+   "number": "ADK-115",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Choose up to one for each two cards removed by this card - Draw a card; or put target resonator with total cost 2 or less on the bottom of its owner's deck; or produce [g][g].",
+   "flavor_text": "A guardian of the tower, who waits impatiently for the one to free her.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3131",
+   "name": "Wind Majin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3131/image_en/7f3229fb-7ded-4f0d-937c-3027e8547f86.jpg",
+   "number": "ADK-116",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "Nagi-nyan",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "A catalyst for summoning even greater majins.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3132",
+   "name": "Advent of the Demon King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3132/image_en/fea68c89-9be9-46da-94fb-07fbd5dcb679.jpg",
+   "number": "ADK-117",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yuko",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "The Demon King descended, and brought darkness and despair with him.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3133",
+   "name": "Annihilation Scythe",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3133/image_en/08ddda5a-8af0-4960-9e4b-5de9511638c8.jpg",
+   "number": "ADK-118",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 500",
+   "type": "Resonator",
+   "race": "Insect",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card attacks ⇒ It gains [+500/0] until end of turn.",
+   "flavor_text": "Unafraid of death, the insects struck hard against the elves.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3134",
+   "name": "Beelzebub, Lord of Flies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3134/image_en/ae634f29-6631-4952-99c9-1a139174fd5c.jpg",
+   "number": "ADK-119",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "jugemt",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nRemove a [-100/-100] counter from this card: Put a [-100/-100] counter on another target resonator.",
+   "flavor_text": "A powerful servant of the Demon King, who plots his master's demise.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3135",
+   "name": "Blood Ritual",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3135/image_en/c903fde0-7da6-496e-9b93-da486dfdd0cd.jpg",
+   "number": "ADK-120",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "BANAMONS*",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"I pass this power to you, my family.\" -Reiya, Fourth Daughter of the Mikage",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3136",
+   "name": "Bloodsucker Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3136/image_en/fc9f49e5-c926-4040-b101-39c9af4a7b29.jpg",
+   "number": "ADK-121",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Ippei SOEDA",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card deals damage ⇒ You gain that much life.",
+   "flavor_text": "\"You're not taking my blood!\" -Taegrus Pearlshine",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3137",
+   "name": "Ceaseless Devotion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3137/image_en/7bc15e34-7b3b-4c38-85af-4c47a6a043b4.jpg",
+   "number": "ADK-122",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Retro",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"Leave everything to me!\" Jeanne d'Arc, Mad Maiden",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3138",
+   "name": "Command of Life and Death",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3138/image_en/fcdb4dce-caa8-4e21-9fa8-8b2377c6b4f7.jpg",
+   "number": "ADK-123",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "With the power of the magic crests, the Demon King commanded the dead.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3139",
+   "name": "Corrupted Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3139/image_en/15929f51-260f-4948-b93b-9d26e4a2218f.jpg",
+   "number": "ADK-124",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "ShiroYayoi",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Warriors who sought only to fight, found a new leader in the Demon King.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3140",
+   "name": "Corrupted Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3140/image_en/f0257649-8dc1-4364-8632-e402ea274f66.jpg",
+   "number": "ADK-125",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "Cola",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Banish a gem. If you don't, banish this card.",
+   "flavor_text": "Even some of the pandas were corrupted by the Demon King.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3141",
+   "name": "Dance in the Moonlight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3141/image_en/e8d46af4-ec04-4cef-b963-4a0869f0f85f.jpg",
+   "number": "ADK-126",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "Tsukumi",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Like a streak of light, Reiya moved, striking down the evil creatures before her.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3142",
+   "name": "Dark Blade's Harvest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3142/image_en/45e6afde-9d28-48ae-8c27-12df75d70644.jpg",
+   "number": "ADK-127",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "Haruichi Kido",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "To hold a sword is to carry the promise of death.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3143",
+   "name": "Dark Elf Fugitive",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3143/image_en/cac3c050-408c-4524-96a6-c279b35f300b.jpg",
+   "number": "ADK-128",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Dark Elf",
+   "artist": "Haruichi Kido",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for an Elf or Dark Elf, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "The dark elves that escaped the portal to the Outer World sought help from the elves.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3144",
+   "name": "Darkness Majin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3144/image_en/b0c84e55-19ce-4fcb-8f17-e87ccfc8f6ae.jpg",
+   "number": "ADK-129",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "KONNO Takashi",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "The majins absorb lesser creatures with their very existence.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3145",
+   "name": "Deadly Housefly",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3145/image_en/47d9e2c2-de00-41c6-afa8-cf9170f0fb58.jpg",
+   "number": "ADK-130",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Insect",
+   "artist": "Takamura Haluki",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhenever this card deals damage to a resonator ⇒ Destroy that resonator.",
+   "flavor_text": "Creatures that came under Beelzebub's influence transformed into monstrous forms.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3146",
+   "name": "Digestion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3146/image_en/a7d44782-0ef3-4e14-b28a-45e9104bc1ee.jpg",
+   "number": "ADK-131",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Mad",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Free of restraint, the gate to the Outer World pulled in everything around it.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3147",
+   "name": "Faith in the Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3147/image_en/da5e8283-7c18-493c-ae22-21d250ea296f.jpg",
+   "number": "ADK-132",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Retro",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"I fight, that the future might yet be saved from ruin!\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3148",
+   "name": "Faithful Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3148/image_en/ba1c7e43-82eb-4289-9503-748c4a8d4d72.jpg",
+   "number": "ADK-133",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[b]: This card gains \"Whenever this card deals damage to a resonator ⇒ Destroy that resonator.\" until end of turn.",
+   "flavor_text": "Devotion knows no limitations.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3149",
+   "name": "Hilda and Saffina",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3149/image_en/c5ad60c1-fdd6-46f4-9b66-de00992a2304.jpg",
+   "number": "ADK-134",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Dark Elf/Zombie",
+   "artist": "Nem",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nThis card gains [Swiftness], [Flying], and [First Strike] as long as your life is 1000 or less.",
+   "flavor_text": "Twisted though they were, they remained desperate to serve Frayla.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3150",
+   "name": "Jeanne d'Arc, Mad Maiden",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3150/image_en/f74c1e09-ecdf-4192-9905-ab9846469eb9.jpg",
+   "number": "ADK-135",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "700 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Retro",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nIf this card would deal damage to a J/resonator, put a [-100/-100] counter on that J/resonator for each 100 damage instead.",
+   "flavor_text": "She strikes with such devotion it leaves a lasting impression on the opponent.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3151",
+   "name": "Jet, Ambitious Panda",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3151/image_en/2c84a411-94cc-46df-a955-68806e4416ad.jpg",
+   "number": "ADK-136",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Panda",
+   "artist": "gozz",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\nBanish a darkness gem: Target resonator gains [-400/-400] until end of turn.",
+   "flavor_text": "\"One day, I'll be king. I'll do whatever it takes.\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3152",
+   "name": "Magic Crest of Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3152/image_en/a5e0728f-0481-419d-b062-fd4c1ac78394.jpg",
+   "number": "ADK-137",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "KONNO Takashi",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put target resonator from your graveyard into your hand.",
+   "flavor_text": "The Darkness Magic Crest corrupts and twists life around it.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3153",
+   "name": "Magic Majin Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3153/image_en/8c7a5920-e737-433d-b6ed-a68974015a74.jpg",
+   "number": "ADK-138",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Hayama Kohei",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nAt the end of your turn ⇒ Put a [+100/+100] counter on this card. Then you lose 100 life for each [+100/+100] counter on this card.",
+   "flavor_text": "A number of golems were reactivated under the Demon King's control.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3154",
+   "name": "Rapunzel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3154/image_en/d62a2449-71e2-4c8c-95cc-26ed40f1fe95.jpg",
+   "number": "ADK-139",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "hatarisu",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest]: Rest target resonator.",
+   "flavor_text": "Her tears swayed the hearts of many.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3155",
+   "name": "Reiya, Fourth Daughter of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3155/image_en/32705d8a-fc27-46e2-8458-e6fa7a3c2553.jpg",
+   "number": "ADK-140",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Vampire",
+   "artist": "lack",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest]: Put a mystery counter on this card.",
+   "flavor_text": "The Ominous Moon feeds on the life of its wielder.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3156",
+   "name": "Reiya, Fourth Daughter of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3156/image_en/17fca0f1-e44c-49c6-89b5-b9365b439f0c.jpg",
+   "number": "ADK-140 J",
+   "rarity": "JR",
+   "att_def": "1200 / 1200",
+   "type": "J-ruler",
+   "race": "Vampire",
+   "artist": "lack",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest], remove a mystery counter from this card: Destroy target resonator.",
+   "flavor_text": "\"The Ominous Moon will cut you to ribbons.\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3157",
+   "name": "Sonic Bat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3157/image_en/d1a169c8-6c26-402a-9054-93f215bb1c7d.jpg",
+   "number": "ADK-141",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 600",
+   "type": "Resonator",
+   "race": "Bat",
+   "artist": "Saiko Takaki",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Your opponent discards a card.",
+   "flavor_text": "Even when the creature's gone, its echoes can still be heard.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3158",
+   "name": "Spawn of Beelzebub",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3158/image_en/8a3be410-fd8b-4fd0-a73e-42b538752246.jpg",
+   "number": "ADK-142",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "tokiwa",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put two [-100/-100] counters on target resonator.",
+   "flavor_text": "Just touching Beelzebub is enough to rot you away.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3159",
+   "name": "Spider's Web",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3159/image_en/67b57ca3-0610-44d3-bb73-cce91a1b4606.jpg",
+   "number": "ADK-143",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mystery",
+   "artist": "kawaryu",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Those caught in the web live or die at Reiya's command.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3160",
+   "name": "The Welser Molecule",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3160/image_en/39829130-a944-427c-96e2-8e46972bad5b.jpg",
+   "number": "ADK-144",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 800",
+   "type": "Resonator",
+   "race": "Wicked Spirit",
+   "artist": "noki",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nThis card gains [+200/+200] for each other Wicked Spirit you control.",
+   "flavor_text": "Able to act as Welser's eyes and ears, they bring him secret knowledge from across the world.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3161",
+   "name": "Vampire Bard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3161/image_en/64937ffc-fcc2-425c-9248-a97620b702c9.jpg",
+   "number": "ADK-145",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 400",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "RYUEMON",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ It deals 300 damage to target player or resonator. You gain 300 life.",
+   "flavor_text": "His beautiful stories and songs steal strength away from those that hear them.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3162",
+   "name": "Angel Statue of the Tower",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3162/image_en/f9a28955-7fd1-4911-a4d1-3470122432d3.jpg",
+   "number": "ADK-146",
+   "rarity": "c",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Miko Yamazaki",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest], [1]: Produce [w], [r], [u], [g], or [b].",
+   "flavor_text": "A mysterious angelic statue found in the Eternal Tower.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3163",
+   "name": "Crystal on the Floating Isle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3163/image_en/59721368-7359-4802-abf6-f490b222b3b6.jpg",
+   "number": "ADK-147",
+   "rarity": "c",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "BANAMONS*",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[2], banish this card: Draw a card.",
+   "flavor_text": "A floating crystal that carries magic of some unknown kind.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3164",
+   "name": "Shattered Golem",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3164/image_en/fa258c1f-036f-4970-b0b7-791b18d7c27d.jpg",
+   "number": "ADK-148",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1500 / 700",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "kakiken",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
+   "flavor_text": "Damaged though they may be, some of them still function.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3165",
+   "name": "Majin Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3165/image_en/539986f7-337d-4ef1-84eb-e6404ae2e5ce.jpg",
+   "number": "ADK-149",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Nekobayashi",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest], banish this card: Produce [r][r]. Spend this will only to play Wicked Spirits.",
+   "flavor_text": "A magic stone concealing the power of the majins.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3166",
+   "name": "Possession Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3166/image_en/421aafc9-7d0e-4597-b7cd-e74e5183cf02.jpg",
+   "number": "ADK-150",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Misa Tsutsui",
+   "expansion": "Advent of the Demon King",
+   "text": "Activate\n[rest]: Produce [w], [r], [u], [g], or [b]. Play this ability only if your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\".",
+   "flavor_text": "A source of infinite possibilities and limitations.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3167",
+   "name": "[Variant] White Dragonoid Child",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3167/image_en/a8f1894a-5951-450c-91a5-3e9ec969d0a3.jpg",
+   "number": "ADK-151",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Dragonoid",
+   "artist": "BANAMONS*",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card enters the field ⇒ Recover target resonator.",
+   "flavor_text": "White dragonoids have the mysterious ability to empower their allies.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3168",
+   "name": "[Variant] Ferocious Triceratops",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3168/image_en/953a4f91-1729-4f22-9d4d-7e34f277ca36.jpg",
+   "number": "ADK-152",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 800",
+   "type": "Resonator",
+   "race": "Dinosaur",
+   "artist": "gozz",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "Fledgling red dragonoid hunters hunt Hoelle pigs. More skilled hunters take on dinosaurs.",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3169",
+   "name": "[Variant] Crier Mermaid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3169/image_en/d2760993-9319-48c3-af55-2d045c6374b3.jpg",
+   "number": "ADK-153",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 400",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "Kamijo Roro",
+   "expansion": "Advent of the Demon King",
+   "text": "Continuous\nThis card gains [+200/+200] as long as the weather is rain.",
+   "flavor_text": "\"Lady Shaela! Lady Shaela's been!...\"",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3170",
+   "name": "[Variant] Tower Guardian",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3170/image_en/3b28bec6-8bd3-4d1e-be29-ea7a49a1618c.jpg",
+   "number": "ADK-154",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "Moopic",
+   "expansion": "Advent of the Demon King",
+   "flavor_text": "\"What's so important they'd have this protecting it?\" -Gill",
+   "all_sets": "Advent of the Demon King"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3171",
+   "name": "[Variant] Sonic Bat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/31/3171/image_en/87a21221-1ad2-4dd5-9b91-c62d7df0ecdf.jpg",
+   "number": "ADK-155",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 800",
+   "type": "Resonator",
+   "race": "Bat",
+   "artist": "Saiko Takaki",
+   "expansion": "Advent of the Demon King",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Your opponent discards a card.",
+   "flavor_text": "Even when the creature's gone, its echoes can still be heard.",
+   "all_sets": "Advent of the Demon King"
+  }
+ ]
+}

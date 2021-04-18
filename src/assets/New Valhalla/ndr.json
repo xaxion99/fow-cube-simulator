@@ -1,0 +1,2368 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/3634",
+   "name": "Aratron, Angel of Knowledge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3634/image_en/9a3a444c-03b8-4b07-beae-781f33beaf0e.jpg",
+   "number": "NDR-001",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "Tsukumi",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Knowledge is the source of all power.\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3635",
+   "name": "Ayu, the Mysterious Wanderer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3635/image_en/eb222125-7a9b-4b5c-b9c2-45671bf2214b.jpg",
+   "number": "NDR-002",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "Misa Tsutsui",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Alright, another peaceful day! Hmm?! What was that just now?! Just my imagination?\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3636",
+   "name": "Balmung",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3636/image_en/7343498d-7cea-45aa-a292-bb062fe00f00.jpg",
+   "number": "NDR-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Hayama Kohei",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Be it a brief moment, Siegfried isn't so kind to overlook a vulnerability in his enemies' defense.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3637",
+   "name": "Blessing of the Sun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3637/image_en/533e2e95-c48b-4877-b2a4-cb32c3e16bd1.jpg",
+   "number": "NDR-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Mad",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The people of Minerva believe all life comes from the sun.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3638",
+   "name": "Child of the Hero",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3638/image_en/7c900761-cfd3-4a53-963b-16fb3407733a.jpg",
+   "number": "NDR-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The will of the hero has been entrusted to the next generation.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3639",
+   "name": "Commander of Minerva",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3639/image_en/f7aea5e0-2360-4026-b2f2-4b81ca36bd9c.jpg",
+   "number": "NDR-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "KAZTO FURUYA",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "In Minerva, the commander is the one who stands on the front lines.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3640",
+   "name": "Country of the Sun, Minerva",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3640/image_en/e488acdd-507d-46ed-8d1f-e50d66dc3c9c.jpg",
+   "number": "NDR-007",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "jugemt",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "As long as the sun doesn't fade, life shall continue for all eternity.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3641",
+   "name": "Eir, Bringer of Destruction",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3641/image_en/c7f296bd-1881-4940-99f9-3448a2359b1f.jpg",
+   "number": "NDR-008",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "Haruichi Kido",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The souls of the enemy shall be annihilated by Eir's spear.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3642",
+   "name": "Haggith, Angel of Alchemy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3642/image_en/c4c56ad6-8841-45d5-ae47-e991943885f5.jpg",
+   "number": "NDR-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 900",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "BANAMONS*",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Will this help?\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3643",
+   "name": "Light of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3643/image_en/904f9a44-06c9-4ca2-a8d9-2e055d3394b7.jpg",
+   "number": "NDR-010",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "Saiko Takaki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "A curtain of light blocking all threats.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3644",
+   "name": "Moonlit Paradise, Lunar Heaven",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3644/image_en/c796dd6d-d174-4551-af39-f0f4561f3c12.jpg",
+   "number": "NDR-011",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "As long as the moon doesn't fade, the angel's song shall never cease.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3645",
+   "name": "Och, Angel of Clairvoyance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3645/image_en/97f7e099-edcc-4eeb-abc1-a6a9f7606b03.jpg",
+   "number": "NDR-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "Fukuzo Katsura",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "This girl holds a great power and is able to foresee everything. However, her timid nature prevents her from looking into some matters.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3646",
+   "name": "One Who Gazes at the Soul",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3646/image_en/cd13b64b-7bd6-42e6-a87a-0a8c1803bb9a.jpg",
+   "number": "NDR-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "700 / 1200",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "SO",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Those eyes are able to ascertain the worth of one's soul.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3647",
+   "name": "Ophiel, Angel of Guidance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3647/image_en/d5e98030-72de-4405-9fe1-f4013aa3e05a.jpg",
+   "number": "NDR-014",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Angel",
+   "artist": "Shindo Saeko",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Ophiel's commands are carried to each and every corner of Lunar Heaven.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3648",
+   "name": "Protection of the Angels",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3648/image_en/27597b75-f58f-4652-a615-154dde92d99e.jpg",
+   "number": "NDR-015",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tatsuki Mutou",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "When danger approaches the people of Lunar Heaven, they pray to the angels. In return, the angels offer their protection.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3649",
+   "name": "Siegfried, the Hundred Years Hero",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3649/image_en/d4349ae0-40e0-4b2f-944e-e89de5d707b6.jpg",
+   "number": "NDR-016",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Hayama Kohei",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "A hundred years is too short a period to live, yet too long a period to fight.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3650",
+   "name": "Skuld, Valkyrie of the Future",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3650/image_en/fd289e07-1013-4cb4-9d42-7a054ac50ed7.jpg",
+   "number": "NDR-017",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "JURI",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Oh? So it's going to be like that, huh?\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3651",
+   "name": "Spear of the Valkyries",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3651/image_en/a4e5103d-4e29-4ee3-9323-c4e823fcd26f.jpg",
+   "number": "NDR-018",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "kawaryu",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "A soul piercing blow.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3652",
+   "name": "Tiny Trader",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3652/image_en/cf5dde26-ebf5-44ef-880c-e610dde419be.jpg",
+   "number": "NDR-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "Tsukumi",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "It's been a hundred years since the two sages from another world appeared and saved this country. For now, Lunar Heaven is at peace.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3653",
+   "name": "Whispers of an Angel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3653/image_en/2bbd4aac-6839-40e6-b607-e118616bd0af.jpg",
+   "number": "NDR-020",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "BANAMONS*",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The pleasure of the heart becomes the healing of the body.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3654",
+   "name": "Anubis, Administrator of the Hounds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3654/image_en/77c98636-7c4f-45d2-abdc-0c0d9afb6232.jpg",
+   "number": "NDR-021",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Ascendant",
+   "artist": "Azusa",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Judgment... It's the death penalty for you!\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3655",
+   "name": "Bird of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3655/image_en/390b6341-06c1-44f9-bdca-e05b882b778d.jpg",
+   "number": "NDR-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Nanami Lusia",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "All who oppose the fire are burned to ash.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3656",
+   "name": "Black Spot Tiger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3656/image_en/d1ae9a14-b3dd-482b-9816-2c57a378c8e0.jpg",
+   "number": "NDR-023",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Rumie",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Master, I'm going to start flying now. Make sure you hold on.\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3657",
+   "name": "Burial Rites",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3657/image_en/14d80a29-25dc-42ef-a808-ada4edcc1346.jpg",
+   "number": "NDR-024",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "AKI",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Burial is an important ceremony to the people of Sandora.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3658",
+   "name": "Carrier Camel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3658/image_en/60470153-f1ca-4060-9bce-fe1db7887efa.jpg",
+   "number": "NDR-025",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Shirono Muku",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "To add burden, one must remove burden elsewhere.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3659",
+   "name": "Carrier Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3659/image_en/47ac6a4b-dd72-4cf4-8789-dd853c9d09fe.jpg",
+   "number": "NDR-026",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 700",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "gajumaru",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Sometimes the letters arrive singed. But that's alright, it simply means an enemy was foolish enough to try and intercept them.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3660",
+   "name": "Chain Bind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3660/image_en/0f6f37c5-26a8-48d0-8d40-a498263caab8.jpg",
+   "number": "NDR-027",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "tokiwa",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Bind them together!\" -Pang Tong",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3661",
+   "name": "City of Mirage, Sandora",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3661/image_en/1410a705-c867-479c-9715-0f19e64d2773.jpg",
+   "number": "NDR-028",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "While it certainly is real, from outside the city of Sandora appears as if a mirage.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3662",
+   "name": "Desert Fennec",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3662/image_en/0b84cc88-c0bb-4a10-9442-befc37ed9b6c.jpg",
+   "number": "NDR-029",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1000 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "TAKUMI",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Withstanding the harsh heat for so long has allowed it to control fire slightly.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3663",
+   "name": "Explosion Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3663/image_en/f86de303-2b6e-4418-9f2c-dc51280755d4.jpg",
+   "number": "NDR-030",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Retro",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Her explosion is the signal for the start of the battle.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3664",
+   "name": "Heaven Thundering Strike",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3664/image_en/1ccb067a-3264-4f2c-aeeb-a8c1606fefc9.jpg",
+   "number": "NDR-031",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Saiko Takaki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The lightning spews forth before forking towards separate targets.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3665",
+   "name": "Land of Fiery Ambition, Kunlun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3665/image_en/88921bc7-ca85-4dfb-a986-680e592c5f32.jpg",
+   "number": "NDR-032",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Kotakan",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "As long as Fu Xi's ambitions still last, the fires of Kunlun will never go out.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3666",
+   "name": "Osiris, Lord of the Afterlife",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3666/image_en/6310a907-c40a-46bc-a0a1-989b138bcdb0.jpg",
+   "number": "NDR-033",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 500",
+   "type": "Resonator",
+   "race": "Ascendant",
+   "artist": "touge369",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Coil him in new wrappings and Osiris shall be reborn anew.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3667",
+   "name": "Sandstorm",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3667/image_en/b05c0050-93e7-4fb4-b289-bf5a8a51abf3.jpg",
+   "number": "NDR-034",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "SAO",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "To small beings, even a small sandstorm is a harsh tribulation.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3668",
+   "name": "Scalding Breath",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3668/image_en/fdc47bd9-7a71-4f42-905d-cda9a8b37027.jpg",
+   "number": "NDR-035",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "kakiken",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"There's no point in living a life without a great ambition.\"-Fu Xi",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3669",
+   "name": "Scorching Winds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3669/image_en/1da44efc-0dfe-4f63-be20-11f6daf43fcc.jpg",
+   "number": "NDR-036",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity2)",
+   "artist": "Mad",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Don't be afraid to ride the scorching winds.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3670",
+   "name": "Shen Gongbao, Taoist of Kunlun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3670/image_en/f8d3760e-0bc6-4a1f-8126-8ebd7f7ccf92.jpg",
+   "number": "NDR-037",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Taoist",
+   "artist": "Rumie",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "A great number of taoists have come to Kunlun to serve Fu Xi.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3671",
+   "name": "Trader of Sandora",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3671/image_en/e6c69eb9-3749-4942-b0b4-f94686903584.jpg",
+   "number": "NDR-038",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "kawaryu",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Throw sand on those who do you wrong.\" -Teachings of Sandora",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3672",
+   "name": "Venomous Scorpion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3672/image_en/ab2c2c4a-e6b5-412c-881e-d82c62fcfea1.jpg",
+   "number": "NDR-039",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 100",
+   "type": "Resonator",
+   "race": "Insect",
+   "artist": "SAO",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The toxins of the desert come with a terrible burning sensation.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3673",
+   "name": "Wooden Ox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3673/image_en/0bcfb4ae-7a4b-48ed-b86e-cc0fd3858816.jpg",
+   "number": "NDR-040",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 1200",
+   "type": "Resonator",
+   "race": "Invention",
+   "artist": "gekko",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "An envoy from another world introduced this innovation to this country, greatly pleasing Fu Xi.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3674",
+   "name": "Arondight, the Nitrogen Blade",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3674/image_en/e231e55e-ef3c-4fe3-a461-fc74e578a7c9.jpg",
+   "number": "NDR-041",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SO",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Freeze and smash.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3675",
+   "name": "Forest of the Lost, Misty Woods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3675/image_en/1833b500-52ca-4644-bfc9-c92f19018f70.jpg",
+   "number": "NDR-042",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "gozz",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The forest appears to change shape as one wanders within.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3676",
+   "name": "Giant of Mist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3676/image_en/e6b12947-87bc-4672-bdd1-768fb5b2e14b.jpg",
+   "number": "NDR-043",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Giant",
+   "artist": "Moopic",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The mist takes the form of a giant, perhaps the forest's way of discouraging invaders.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3677",
+   "name": "Hamelin, the Sound of Temptation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3677/image_en/274ee9d2-fe1b-4e77-82ca-fa5be533ce53.jpg",
+   "number": "NDR-044",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "mie",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Is it time to pay the piper?",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3678",
+   "name": "Invitation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3678/image_en/31c80ba1-6447-41fc-9d34-efb017d9d924.jpg",
+   "number": "NDR-045",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "noki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The more distorted the world, the easier it is to enter...and the harder it is to leave.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3679",
+   "name": "Iron Cauldron Witch",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3679/image_en/763b3fa1-eebb-4402-9943-fba4224494bd.jpg",
+   "number": "NDR-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "700 / 900",
+   "type": "Resonator",
+   "race": "Fairy Tale/Witch",
+   "artist": "douzen",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "A deep, mysterious power dwells within the cauldron. Not even the witch knows where it comes from.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3680",
+   "name": "J?rmungandr, Little Eater of Worlds",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3680/image_en/9ef37e45-04f5-4c0a-bb8d-65d5b1ae9658.jpg",
+   "number": "NDR-047",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Retro",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Don't eat too much or I won't be able to keep you at home!\" -Loki",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3681",
+   "name": "Lancelot, the Glass Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3681/image_en/9bc7fdeb-850b-4e87-8ffd-5757ae342200.jpg",
+   "number": "NDR-048",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "kakotomirai",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The last thing Lancelot's enemies see is their own reflection on the glass.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3682",
+   "name": "Mad Hatter of Misty Woods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3682/image_en/d80cfa00-a003-492b-af51-4ff1e6c64a30.jpg",
+   "number": "NDR-049",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1200",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "yuhki lily",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "A cat from another world, unlike those seen in Kouga, beckoned Loki to come closer. As she did, the fairy tales appeared and greeted her.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3683",
+   "name": "Massive Growth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3683/image_en/dddbeeec-8a4c-40cc-943a-6b3b676314c6.jpg",
+   "number": "NDR-050",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "Retro",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Everyone grow nice and strong!\" -Loki",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3684",
+   "name": "Mechanized Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3684/image_en/fd07377b-4c79-417b-bfc8-0bdab509c1df.jpg",
+   "number": "NDR-051",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "This one's still short a screw.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3685",
+   "name": "Merlin, the Control Unit of Sky Round",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3685/image_en/506a1f7d-6012-4c87-a384-52b8ab43299b.jpg",
+   "number": "NDR-052",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "suranaki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Arthur, we must continue to fight. For this is the role granted upon us by our creator, Deus Ex Machina.\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3686",
+   "name": "Messenger of Death",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3686/image_en/4766510d-8d4e-4485-ba19-37e11b93db95.jpg",
+   "number": "NDR-053",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Mad",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Loki listened to the screams as if they were a most wonderful symphony.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3687",
+   "name": "Scrap and Build",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3687/image_en/b655c3a3-ae1b-4941-b2c5-cd93e18d313c.jpg",
+   "number": "NDR-054",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "Mad",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The site of the battle is brimming with parts for new machines.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3688",
+   "name": "Sky Round Guardian",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3688/image_en/1b537baf-8e15-4853-ac38-fbbdc505a98d.jpg",
+   "number": "NDR-055",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "500 / 1100",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "kakiken",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Guardians that specialize in protection.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3689",
+   "name": "Sky Round Technician",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3689/image_en/2a4530fa-f139-4330-a9fa-d8dbabda476c.jpg",
+   "number": "NDR-056",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "M ganzy",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "He's desperately trying to find the owner of the screw he found.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3690",
+   "name": "The Knights' Castle in the Sky, Sky Round",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3690/image_en/0e4c5d1a-89b9-4292-a16a-da9468538283.jpg",
+   "number": "NDR-057",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Machine",
+   "artist": "Shinichi Chiba",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The Knights of Sky Round are the protectors of the skies. For that very reason, other factions perceive them a threat.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3691",
+   "name": "Thick Fog",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3691/image_en/3265a761-f347-488b-b20c-5eeec4f2fa90.jpg",
+   "number": "NDR-058",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "Haruki Komai",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "As the fog clears the landscape begins to take shape.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3692",
+   "name": "Torrent of Energy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3692/image_en/69c826f2-0fc0-4851-9bf8-93f45321a615.jpg",
+   "number": "NDR-059",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Moopic",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "One cannot fight against the wave of energy.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3693",
+   "name": "Viviane, the Mechanical Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3693/image_en/1164b9d7-b6e2-46dd-bc2e-4f0a340b6a6e.jpg",
+   "number": "NDR-060",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Machine/Fairy",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Load and release.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3694",
+   "name": "Atlantis, the Wielder of Knowledge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3694/image_en/be5f44cc-d9f0-4fdb-9a7e-1c473df9c854.jpg",
+   "number": "NDR-061",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 1200",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "Yuko Nagasaki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Knowledge can also be used to strike.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3695",
+   "name": "Cat Ninja Scout",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3695/image_en/bbd0a504-421c-45ca-8f10-d72476abd6f6.jpg",
+   "number": "NDR-062",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Cat/Ninja",
+   "artist": "kawaryu",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Reconnaissance relies on stealth, a skill cats are adept at.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3696",
+   "name": "Eccentric Oni",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3696/image_en/daaf2203-ec1e-41eb-94e3-c0094fe55bf5.jpg",
+   "number": "NDR-063",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 600",
+   "type": "Resonator",
+   "race": "Oni",
+   "artist": "Retro",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The people of Kouga are a cheerful bunch, perhaps a reflection of their creator's personality?",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3697",
+   "name": "Explore the Unknown",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3697/image_en/e9ac44e6-8499-4f54-b02d-175dcbda06cc.jpg",
+   "number": "NDR-064",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity3)",
+   "artist": "Shirono Muku",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The explorers of the Mimi tribe gathered and set forth towards uncharted territory.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3698",
+   "name": "Grand Bird of the Lost Isles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3698/image_en/a14c358d-c5e7-4f39-89f9-86d17ea03f86.jpg",
+   "number": "NDR-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 900",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Moopic",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The Mimi tribe is in a constant battle of life and death against the ecosystem of the Lost Isles.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3699",
+   "name": "In a Single Stroke",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/36/3699/image_en/1fe3ec32-b96a-439d-bbce-48aaad243680.jpg",
+   "number": "NDR-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "yua",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Clear your mind of all unneeded thoughts. Focus only on your opponent's vitals and strike.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3700",
+   "name": "Ittan-Momen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3700/image_en/649de221-1d8b-4a93-8aab-5854bc11189c.jpg",
+   "number": "NDR-067",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Youkai",
+   "artist": "haniwa",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Calmly fluttering in the wind.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3701",
+   "name": "Jubei, the One-Eyed Swordsmaster",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3701/image_en/cab2de88-08d1-4075-91bb-f64ba0355502.jpg",
+   "number": "NDR-068",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Cat/Bushido",
+   "artist": "AKI",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"A true swordsman is one free from obstructive thought.\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3702",
+   "name": "Karura, the Crow Tengu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3702/image_en/6f09e2e1-6a5e-4a45-8c3e-6dbf12cdf259.jpg",
+   "number": "NDR-069",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Youkai",
+   "artist": "Nem",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The tengu are the proud protectors of these lands. Some of them, like Karura, prefer to remain hidden until the time is right.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3703",
+   "name": "Kotaro, Ninja of the Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3703/image_en/ee89469d-b544-4f52-bdf1-a816b606b622.jpg",
+   "number": "NDR-070",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Cat/Ninja",
+   "artist": "kurisu",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Feel the power of my ninjutsu!... Oh, um, where's that scroll at?\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3704",
+   "name": "Lemuria of the Magic Boomerang",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3704/image_en/94dc3dd3-886d-4d00-8111-e5772a2502bf.jpg",
+   "number": "NDR-071",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "Yukie TAJIMA",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The only member of the Mimi tribe able to freely manipulate the boomerang is Lemuria.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3705",
+   "name": "Magic Boomerang",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3705/image_en/20852419-ae8c-43c8-b19c-28d0d9110a98.jpg",
+   "number": "NDR-072",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yukie TAJIMA",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The Mimi tribe's magic is a combination of skill and brute strength.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3706",
+   "name": "Mimi Tribe Explorer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3706/image_en/7522aecb-a162-4ba9-8e94-d1232d5c3725.jpg",
+   "number": "NDR-073",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "hatarisu",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The explorers of the Mimi tribe aren't an organized bunch. The majority of their time is spent bickering over who will lead for that day.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3707",
+   "name": "River Snake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3707/image_en/dfec4741-dd44-4b3a-91fc-77411b8cb96f.jpg",
+   "number": "NDR-074",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The river makes an excellent refuge.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3708",
+   "name": "Song of the Fairies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3708/image_en/cd8453e2-0017-454f-8d4f-e0bad26bc9bd.jpg",
+   "number": "NDR-075",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "Shirono Muku",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "This song invokes nostalgia in the listener, stopping them, even in the midst of battle.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3709",
+   "name": "Squall of the Tengu",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3709/image_en/6d83dc97-0563-4acd-a1af-d4e887ee5ac7.jpg",
+   "number": "NDR-076",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "AKI",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Wherever the tengu appear, the sky becomes the most dangerous location to be.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3710",
+   "name": "The Forgotten Sanctuary, Lost Isles",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3710/image_en/de8fd436-3baa-4335-927a-ad95176e1daf.jpg",
+   "number": "NDR-077",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "gozz",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "For those who can survive, Lost Isles is a paradise.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3711",
+   "name": "The Mimi Tribe's Cook",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3711/image_en/b3c5a6b2-e965-4a84-b9fa-889c4974309e.jpg",
+   "number": "NDR-078",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "Misa Tsutsui",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Taste is secondary when cooking a meal.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3712",
+   "name": "The Village of the Spirited Away, Kouga",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3712/image_en/667bd0a3-62b3-4c91-9cfb-1a050f269e00.jpg",
+   "number": "NDR-079",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "ComamitsuZaki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Kouga is a village hidden from the outside world. Those who wander in lost are said to be \"spirited away\" by the gods.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3713",
+   "name": "Youkai Festival",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3713/image_en/39d886b8-adc4-42fb-be39-16bb5d4bd4e2.jpg",
+   "number": "NDR-080",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "SIE NANAHARA",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The festival of the youkai is a lively one, lasting from dusk to dawn.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3714",
+   "name": "Apostle of the Devil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3714/image_en/ffed5754-0576-4533-aea4-d0cf3383d1d2.jpg",
+   "number": "NDR-081",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Nagi-nyan",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The devil smiles upon those willing to die for him.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3715",
+   "name": "Azazel, the Fallen Angel of Gloom",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3715/image_en/0fc92f37-0365-4b8d-9535-331c4cb911f4.jpg",
+   "number": "NDR-082",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 1000",
+   "type": "Resonator",
+   "race": "Fallen Angel",
+   "artist": "Nakaba Higurashi",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Don't worry. I shall free you from your suffering now.\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3716",
+   "name": "Belial, the Evil from the Scriptures",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3716/image_en/fc790d5e-1aa6-4164-ac97-3f16a897179e.jpg",
+   "number": "NDR-083",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Fallen Angel",
+   "artist": "Fukuzo Katsura",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"The wicked need a messiah to show them the way. Yes... Someone like me.\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3717",
+   "name": "Bottomless Chasm of Death, the Abyss",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3717/image_en/9501199a-7372-4dd8-9969-283480fa4beb.jpg",
+   "number": "NDR-084",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Saiko Takaki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "This hole was created after the war of the gods. In it is the lament and legacies of the gods, forever abandoned to rest in the Abyss.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3718",
+   "name": "Corpse Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3718/image_en/5c4f9dd8-f4ce-4f4f-9f7a-7f766b579fcd.jpg",
+   "number": "NDR-085",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "Hayama Kohei",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Zombies love making new friends.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3719",
+   "name": "Corpse Sorcerer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3719/image_en/0dce59ae-1fd8-4816-814f-d76714b2838c.jpg",
+   "number": "NDR-086",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Zombie/Wizard",
+   "artist": "Kotakan",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "A corpse gives life to another corpse.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3720",
+   "name": "Craving",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3720/image_en/c3cc4c88-9e91-432f-86d7-834196c3a34d.jpg",
+   "number": "NDR-087",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "kakiken",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Tolerance is taboo.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3721",
+   "name": "Diseased Rat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3721/image_en/1c57f2f9-40f2-47b3-88eb-c881e2745713.jpg",
+   "number": "NDR-088",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Beast/Zombie",
+   "artist": "Nanami Lusia",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"In this land, even a scratch can spell death. Focus on avoiding your battles instead of fighting them.\" -Atom Seikhart",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3722",
+   "name": "Disgraced Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3722/image_en/ef8d47d3-8be6-4454-9137-76fa0072fc24.jpg",
+   "number": "NDR-089",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "800 / 700",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "tokiwa",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Accept this taint and rise again.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3723",
+   "name": "Fresh Blood Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3723/image_en/a17a9dfe-9a4e-4e9e-ad36-5d9c65ee0643.jpg",
+   "number": "NDR-090",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "gajumaru",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Blood is best fresh.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3724",
+   "name": "Gatherer of Despair",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3724/image_en/eb137d33-6050-4fdd-bf7b-f8f88d390519.jpg",
+   "number": "NDR-091",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "yuhki lily",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Despair gradually eats away at the heart.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3725",
+   "name": "Life Severing Blade",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3725/image_en/5ae6396f-96bf-43fd-beac-fb60a000d3bc.jpg",
+   "number": "NDR-092",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "lack",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "That blade severs the boundary between life and death.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3726",
+   "name": "Look of Corruption",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3726/image_en/4736dbce-8705-40a0-bd49-7e22e5707954.jpg",
+   "number": "NDR-093",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "TAKUMI",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"If you can't resist, then obey. Obedience is a virtue.\" -Belial, the Evil from the Scriptures",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3727",
+   "name": "Miasma of the Abyss",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3727/image_en/6c0f97ce-04c7-47d8-b521-cf0ec6fe7082.jpg",
+   "number": "NDR-094",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "RYUEMON",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "As long as one is living, this miasma remains deadly.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3728",
+   "name": "Minister of Grief",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3728/image_en/4610c708-acf4-412c-bb6d-fe30d757ca85.jpg",
+   "number": "NDR-095",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Human/Wizard",
+   "artist": "Mad",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The cries of the wicked plants fear into the heart.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3729",
+   "name": "Oborozuki",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3729/image_en/14af6f73-2622-416a-a72c-669094816aac.jpg",
+   "number": "NDR-096",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "lack",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"Only ten percent of the power that wind sage stole has returned... but that's adequate enough.\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3730",
+   "name": "Rain of Tears",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3730/image_en/4cbf5a1a-7177-471d-8c89-d23f624a74d4.jpg",
+   "number": "NDR-097",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "haniwa",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The rain weighs down on the soul.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3731",
+   "name": "Ruins of Neverending Rain, Rainruins",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3731/image_en/0b88905b-3376-4727-9d79-38f3558caa54.jpg",
+   "number": "NDR-098",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "jugemt",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "The angels that were excommunicated with Satan continued to weep over this land. Those tears became rain, transforming this once holy sanctuary into ruins.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3732",
+   "name": "Skeleton Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3732/image_en/a68279ce-e2fe-40f2-8669-33283d176f90.jpg",
+   "number": "NDR-099",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Skeleton",
+   "artist": "kakiken",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Destroy one and two more shall rise.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3733",
+   "name": "Whispers of the Devil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3733/image_en/3448aa7b-e53c-4453-9c00-9315c00d1720.jpg",
+   "number": "NDR-100",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Miko Yamazaki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "You are fated to die. One way or another.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3734",
+   "name": "Magic Stone of Adventure",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3734/image_en/71bcc8a6-7832-42a8-8969-adb59e96473c.jpg",
+   "number": "NDR-101",
+   "rarity": "U",
+   "type": "Special Magic Stone",
+   "artist": "gozz",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Shiva called for a pure-hearted destroyer.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3735",
+   "name": "Magic Stone of Chaos",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3735/image_en/92f971d6-59f6-48bc-95f5-c7fd07a46afe.jpg",
+   "number": "NDR-102",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Yuko Nagasaki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Loki simply wants a world of Chaos.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3736",
+   "name": "Magic Stone of Corruption",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3736/image_en/4d40e2e2-9387-4e36-a839-685f2fd98c17.jpg",
+   "number": "NDR-103",
+   "rarity": "U",
+   "type": "Special Magic Stone",
+   "artist": "Moopic",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Satan desired to corrupt the pure.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3737",
+   "name": "Magic Stone of Dramaturgy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3737/image_en/760e5cfb-5535-4185-ae0c-b605145ddf5d.jpg",
+   "number": "NDR-104",
+   "rarity": "U",
+   "type": "Special Magic Stone",
+   "artist": "touge369",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Deus Ex Machina yearned to hear the cheers of the audience.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3738",
+   "name": "Magic Stone of Dueling",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3738/image_en/8621012b-52ff-45b0-b6ee-d74c036aace8.jpg",
+   "number": "NDR-105",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Atum asked the warriors to prove their strength.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3739",
+   "name": "Magic Stone of Faith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3739/image_en/eb2c717c-3cd9-4630-82b2-d7b12eb2a48c.jpg",
+   "number": "NDR-106",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Sa-Dui",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Odin demanded subordination from all those beneath him.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3740",
+   "name": "Magic Stone of Omniscience",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3740/image_en/0f69c2a0-7e4e-445b-aa79-9b9d1b0a3ddd.jpg",
+   "number": "NDR-107",
+   "rarity": "U",
+   "type": "Special Magic Stone",
+   "artist": "AshesBomber",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Zeus sought to obtain all the knowledge of the world.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3741",
+   "name": "Magic Stone of the Hermit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3741/image_en/76861650-44a3-44a1-934a-a48293f3ba33.jpg",
+   "number": "NDR-108",
+   "rarity": "U",
+   "type": "Special Magic Stone",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Genshi Tenson sought to find his own path.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3742",
+   "name": "Magic Stone of the Undead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3742/image_en/c8f2ad03-57c8-4773-b843-a2b80ca0382a.jpg",
+   "number": "NDR-109",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Zionenciel",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Hel longed for a world of the undead.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3743",
+   "name": "Magic Stone of Tranquility",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3743/image_en/1ed55f4e-61c1-4bd8-b814-2e06062c156c.jpg",
+   "number": "NDR-110",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Miko Yamazaki",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "Bastet wished for the peace of the world.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3744",
+   "name": "Arcana of Dawn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3744/image_en/b070fce0-6b4c-4086-8c03-a36e11964653.jpg",
+   "number": "BSR-001",
+   "type": "Basic Ruler",
+   "race": "Avatar",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "An arcana with memories of the beginning.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3745",
+   "name": "Magus of Dawn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3745/image_en/ec7816b5-f335-4149-b8d3-f7dd24f93d0b.jpg",
+   "number": "BSR-001J",
+   "att_def": "1000 / 1000",
+   "type": "Basic J-ruler",
+   "race": "Avatar",
+   "artist": "Haruichi Kido",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"In the beginning, the gods came to Valhalla and the world was good. It was then, a now forgotten god foolishly asked 'amongst us, who's the strongest?'. Upon hearing this question that no one could answer, each god returned to their territories and raised an army. This was the beginning of the never ending war.\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3746",
+   "name": "Arcana of War",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3746/image_en/10bc42ba-2d40-4cc1-9e7a-491c0472f9b4.jpg",
+   "number": "BSR-002",
+   "type": "Basic Ruler",
+   "race": "Avatar",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "An arcana with memories of the war.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3747",
+   "name": "Soldier of War",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3747/image_en/20d99228-d55a-48d5-9ce7-891c094bc288.jpg",
+   "number": "BSR-002J",
+   "att_def": "1000 / 1000",
+   "type": "Basic J-ruler",
+   "race": "Avatar",
+   "artist": "AKI",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"As the never ending war continued, the collapse of Valhalla had eventually neared. The gods powers were too grand, tearing the world at its seams. The gods thought it best to continue their war another way. Together they created a miniature world and agreed to continue their war through proxy using its denizens. And so, Valhalla had avoided annihilation... yet the proxy war continued with no end in sight.\"",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3748",
+   "name": "Arcana of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3748/image_en/3de2c6a4-bb9b-4a3a-a056-fe08e1acc3f4.jpg",
+   "number": "BSR-003",
+   "type": "Basic Ruler",
+   "race": "Avatar",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "An arcana with memories of the downfall.",
+   "all_sets": "New Dawn Rises"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3749",
+   "name": "Giant of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/37/3749/image_en/7a1e27fc-d45e-4c0c-8d34-aabba8642d43.jpg",
+   "number": "BSR-003J",
+   "att_def": "1000 / 1000",
+   "type": "Basic J-ruler",
+   "race": "Avatar",
+   "artist": "Shosuke",
+   "expansion": "New Dawn Rises",
+   "flavor_text": "\"The proxy war continued for eons. Grown tired of watching, the gods became restless and started to fight again. As the war raged on Valhalla reached the point of collapse and disappeared from the universe. The chief gods faded from existence, their essence scattered into the void. But the miniature world they created still remained. The people of this world still continued to fight, for gods that had long lost form. As time came to pass, they began to call their own world 'Valhalla'.\"",
+   "all_sets": "New Dawn Rises"
+  }
+ ]
+}

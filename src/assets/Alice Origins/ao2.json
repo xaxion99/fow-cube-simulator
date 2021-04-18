@@ -1,0 +1,1368 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/4295",
+   "name": "Bai Hu, the Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4295/image_en/54ce4711-54e3-4b73-8cd4-f0b17eb22984.jpg",
+   "number": "AO2-001",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Four Sacred Beasts",
+   "artist": "fzwrAym",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\nWhen this card enters your field ⇒ You gain 200 life for each Four Sacred Beasts you control.",
+   "flavor_text": "It's the Patron's symbol.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4366",
+   "name": "Secret Duel in the Moonlight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4366/image_en/255b8d1a-5411-455b-8842-a2fbe798adac.jpg",
+   "number": "AO2-002",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art/Moon Art",
+   "artist": "Pisuke",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "In a moonlit night, unnoticed by the world, there was a duel between unwavering belief and a dark invader.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4297",
+   "name": "Zhu Que, the Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4297/image_en/a8f619f2-8d65-4dd0-9a35-fe9d5c1ef8ba.jpg",
+   "number": "AO2-003",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Four Sacred Beasts",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\nWhen this card enters your field ⇒ It deals 200 damage to target resonator for each Four Sacred Beasts you control.",
+   "flavor_text": "That is the symbol of destruction.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4367",
+   "name": "A Present from Machina",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4367/image_en/1aa26c6a-750c-4902-a1fe-8a027d9ceb03.jpg",
+   "number": "AO2-004",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "haniwa",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"For you, huh, made from spare parts.\" —Machina",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4299",
+   "name": "All Consuming Suspicion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/42/4299/image_en/15f72416-ba3e-4ce2-8a88-56b5f5c786cf.jpg",
+   "number": "AO2-005",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition: Resonator",
+   "artist": "bambi kojo",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\nBanish this card: Draw a card.",
+   "flavor_text": "\"Once planted, it grows wildly. That is its power.\" —Overlord of the Seven Lands, Valentina",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4368",
+   "name": "Buster Rifle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4368/image_en/fecfd929-ac16-4413-b035-a10517b6d18e.jpg",
+   "number": "AO2-006",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Machine",
+   "artist": "KAZTO FURUYA",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[Rest], banish a Machine resonator: This card deals damage equal to the banished resonator's ATK to target J/resonator. Play this ability only if you control \"Marybell Type Zero\".",
+   "flavor_text": "The strongest weapon of Leginus.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4369",
+   "name": "Caller of Gorgons",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4369/image_en/77c473fe-6b45-42aa-8f88-9f4da4de60d0.jpg",
+   "number": "AO2-007",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 500",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "ShiroYayoi",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\nBanish this card: Put target Gorgon from your graveyard into your hand.",
+   "flavor_text": "The mage charmed by Valentina gladly sacrificed her life.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4302",
+   "name": "Euryale, the Dark Eye of Blindness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4302/image_en/22d04017-5e5b-44cf-977e-e5535f4fe299.jpg",
+   "number": "AO2-008",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Gorgon",
+   "artist": "Fukuzo Katsura",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[U]: Target Gorgon gains [+200/0] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Once you lock your eyes with it, regardless of its power, you'll be deprived of your freedom of movement.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4303",
+   "name": "Foresee",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4303/image_en/c4994373-304f-4ba5-8f28-209fba92e539.jpg",
+   "number": "AO2-009",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "hatarisu",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"I see a shadow approaching above this world: it's the sign of the impending battle. The fate of the world lies both in the hands of the warriors of the light and those of the shadow.\" -The Prediction of a Fortune-Teller",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4370",
+   "name": "Gear Golem, the Magical Soldier (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4370/image_en/418a4070-38d9-4943-899b-a14940c5035d.jpg",
+   "number": "AO2-010",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "4000 / 4000",
+   "type": "Resonator (Stranger)",
+   "race": "Machine",
+   "artist": "YAZUKI YU",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\nAs long as you control twenty or more Machines, this card gains [Pierce] and [Barrier].",
+   "flavor_text": "\"Hmm, interesting. How does it work?\" —Machina",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4371",
+   "name": "Leginus, the City of Science",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4371/image_en/82ac4fb2-3af0-44a3-bf8f-5fc8c934fc65.jpg",
+   "number": "AO2-011",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Machine",
+   "artist": "mita kura",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Continuous\nAs long as this card is in your removed area, you may pay [0] to play activate abilities of cards named \"Leginus, the Mechanical City\" you control.",
+   "flavor_text": "Utopia for those who seek knowledge.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4372",
+   "name": "Linked Battle Robot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4372/image_en/6c97681d-9f98-4271-933a-7c7b17266e33.jpg",
+   "number": "AO2-012",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Shosuke",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Continuous\nAs long as you control seven or more Machines, other Machine J/resonators you control gain the keyword abilities of this card.",
+   "flavor_text": "Battle skills and intel are shared by rapid transmission technology.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4307",
+   "name": "Medusa, the Dead Eye of Petrification",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4307/image_en/5348e4ce-0580-447f-93fc-156c1d9e2dcf.jpg",
+   "number": "AO2-013",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Gorgon",
+   "artist": "ishishou",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[U]: Gorgons you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Once you lock your eyes with it, regardless of your bond with reality, you'll be deprived of your connection with the world.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4373",
+   "name": "Mirage Golem (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4373/image_en/daa896a3-fe5b-43fd-a5ec-978e15f2c607.jpg",
+   "number": "AO2-014",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator (Stranger)",
+   "race": "Machine",
+   "artist": "NEJITA",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[G]: This card gains [Barrier] until end of turn.",
+   "flavor_text": "By analyzing this machine from another world, Machina discovered many new technologies.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4309",
+   "name": "Shangri-La, the Paradise on the Ocean",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4309/image_en/3efed3a9-a046-4f68-ac85-0f620af94d8a.jpg",
+   "number": "AO2-015",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "artist": "Fushikaden K.K.",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Continuous\nAs long as you have five or more cards in your hand, water resonators you control gain [+100/+100].",
+   "flavor_text": "\"Welcome to my paradise.\" -Valentina, the Princess of Love",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4374",
+   "name": "Shion, the Sorrowful Songstress",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4374/image_en/47cca68f-a1af-442e-89db-a788e95533cc.jpg",
+   "number": "AO2-016",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "j-peg",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\nWhenever you play a water or darkness Mage Art ⇒ Target resonator gains [-200/0] until end of turn.",
+   "flavor_text": "The melody played by Shion invokes feelings of a sorrowful search.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4311",
+   "name": "Stheno, the Evil Eye of Temptation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4311/image_en/1235b2bb-f782-4943-bb22-60c851f2c27e.jpg",
+   "number": "AO2-017",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Gorgon",
+   "artist": "yuhki lily",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[U]: Target Gorgon gains [0/+200] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Once you lock your eyes with it, regardless of your will, you'll be deprived of your freedom to love.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4375",
+   "name": "Suppression Order",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4375/image_en/982e5fbb-9e1a-465b-9600-8fec18a8eb52.jpg",
+   "number": "AO2-018",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "Machina's orders have to be followed to the letter.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4404",
+   "name": "The Betrayer Returns",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4404/image_en/fad121d9-e21e-40bd-821d-68a8ebf50163.jpg",
+   "number": "AO2-019",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "jitari",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "Vala disappeared after achieving her goal and returned to Shangri-La as Valentina.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4405",
+   "name": "Twin Robots",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4405/image_en/94b748fa-9249-4cd9-843b-093f7b9cf65a.jpg",
+   "number": "AO2-020",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "ComamitsuZaki",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Put a [200/200] water Machine resonator token into the field.",
+   "flavor_text": "Who is the original, who is the copy? None of them know.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4406",
+   "name": "Ultimate Shield",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4406/image_en/42796942-6699-460b-8815-060094d46364.jpg",
+   "number": "AO2-021",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Machine",
+   "artist": "IWAO",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[Rest]: Prevent all damage that would be dealt to target Machine resonator until end of turn. Play this ability only if you control \"Marybell Type Zero\".",
+   "flavor_text": "The strongest shield of Leginus.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4407",
+   "name": "Underwater Robot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4407/image_en/ba02f455-9dbe-44d2-9250-5ee87d17a950.jpg",
+   "number": "AO2-022",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "muranako",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Continuous\nAs long as you control five or more Machines, this card gains [Barrier].",
+   "flavor_text": "For advanced machines, water is no enemy.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4317",
+   "name": "Xuan Wu, the Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4317/image_en/2cee4ee1-f141-451b-8cbd-329435b5d06a.jpg",
+   "number": "AO2-023",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Four Sacred Beasts",
+   "artist": "Mad",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\nWhenever this card blocks ⇒ Prevent the next damage it would be dealt until end of turn.",
+   "flavor_text": "That is the symbol of immobility.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4376",
+   "name": "Athenia, the Wind Master (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4376/image_en/8b470682-fc7c-4437-8bc8-70fa9ba65b80.jpg",
+   "number": "AO2-024",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator (Stranger)",
+   "race": "Human",
+   "artist": "MOGUMO",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\nBanish this card: Target (Stranger) or regalia gains [Barrier] until end of turn.",
+   "flavor_text": "The time of abundant harvest will not end when the wind stops.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4377",
+   "name": "Don't Cheat!",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4377/image_en/805a1520-d677-4314-aad9-966411ed5a49.jpg",
+   "number": "AO2-025",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "BANAMONS*",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"No, never!\" —Pricia",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4320",
+   "name": "Pricia's Call to Action",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4320/image_en/934a20ef-508a-4544-8038-b285613331e8.jpg",
+   "number": "AO2-026",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yuko",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "By mimicking the movements of beasts, Pricia was able to move even quicker.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4321",
+   "name": "Qing Long, the Sacred Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4321/image_en/e19bd2c4-8d43-42f7-a67c-4eed9910a859.jpg",
+   "number": "AO2-027",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Four Sacred Beasts",
+   "artist": "Kelvin",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[1]: Other Four Sacred Beasts resonators you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "That is the symbol of rampage.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4322",
+   "name": "Ratatoskr, the Spirit Beast of Yggdrasil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4322/image_en/60445c8d-e32a-4f49-a6bc-5d12f0580a6b.jpg",
+   "number": "AO2-028",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "kakotomirai",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\nWhenever another resonator enters your field ⇒ This card gains [+200/+200] until end of turn.",
+   "flavor_text": "Forest dwellers can hardly see the Sacred Beast of Yggdrasil. But when the beast appears to someone it does it as a sign of good luck or terrible misfortune.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4378",
+   "name": "Rushing Boar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4378/image_en/b0acc879-db3f-4f7b-b19c-54f390cf5036.jpg",
+   "number": "AO2-029",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Continuous\nAs long as there are three or more friendship counters on your J/ruler, this card gains [Precision].",
+   "flavor_text": "Mind and body focused in just one direction.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4379",
+   "name": "Secret Hot Spring of Sissei",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4379/image_en/4484651f-ce70-48c3-abc3-bec766228e63.jpg",
+   "number": "AO2-030",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "AKI",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[Rest]: If there are three or more friendship counters on your J/ruler, you may put a Four Sacred Beasts from your hand into the field.",
+   "flavor_text": "Bathing in these hot springs rekindles the fighting spirit.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4325",
+   "name": "Sissei, the Ancient Forest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4325/image_en/94b72c54-d690-4f72-9236-ea52a385df29.jpg",
+   "number": "AO2-031",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Forest",
+   "artist": "Kelvin",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from your field ⇒ You may pay [G][G][1]. If you do, draw a card.",
+   "flavor_text": "Yggdrasil, the tree of life is safe in this forest: the area that surrounds it doesn't belong to anyone and it's considered a sacred temple.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4380",
+   "name": "Sprout of Treasure Tree (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4380/image_en/001ba034-d418-45bd-8e60-61f3bb2a47ac.jpg",
+   "number": "AO2-032",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "0 / 100",
+   "type": "Resonator (Stranger)",
+   "race": "Spirit",
+   "artist": "Tobi",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\nDiscard a card, banish this card: Produce three wills of any one attribute.",
+   "flavor_text": "The oldest being of Valhalla, and sole witness of its demise.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4381",
+   "name": "World Tree Spider",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4381/image_en/071c8e9d-aadb-46b7-9084-6edf8a907a2d.jpg",
+   "number": "AO2-033",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "gozz",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Continuous\nThis card can block J/resonators with [Flying].",
+   "flavor_text": "\"That flying guy is a bad guy!\" —Pricia",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4382",
+   "name": "Brutal Majin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4382/image_en/4c34a4df-ceeb-4c15-a1ac-81b195d62b25.jpg",
+   "number": "AO2-034",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "Mad",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Destroy target resonator with ATK 0 or less.",
+   "flavor_text": "\"Oh, I think I'll get along with you.\" —Valentina",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4329",
+   "name": "Dance of the Shadows",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4329/image_en/f8ed3e3c-0c4d-42be-b158-f7d114843bdd.jpg",
+   "number": "AO2-035",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "A taboo in the old world.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4383",
+   "name": "Laboratory of Forbidden Arts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4383/image_en/5e879520-eaa8-4bec-acd7-3690dfcd67ff.jpg",
+   "number": "AO2-036",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Haruichi Kido",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[Rest], remove a forbidden arts counter from this card: Draw a card.",
+   "flavor_text": "\"The weak will always be exploited. But you rejoice, it is me who does the exploiting.\" —Valentina",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4384",
+   "name": "Aura of the Sacred Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4384/image_en/a059d3d7-ebd9-45ba-b7ce-8f1fb22b1845.jpg",
+   "number": "AO2-037",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "Nekobayashi",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "The new enemy's attack awakened Faria.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4385",
+   "name": "Awakening of Ambition",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4385/image_en/5fc798d8-0636-4610-8993-be53a58896ef.jpg",
+   "number": "AO2-038",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "Yukie TAJIMA",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"Show me your true desire.\" —Valentina",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4386",
+   "name": "Burning Rush!",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4386/image_en/28051c8c-7cb6-49b6-a708-e91ddf58b79d.jpg",
+   "number": "AO2-039",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "yuko",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"This is a proof of friendship!\" —Pricia",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4387",
+   "name": "Chronos, the Master of Labyrinth (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4387/image_en/f3b513e7-b2ec-4672-8683-b1c7b3fab141.jpg",
+   "number": "AO2-040",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator (Stranger)",
+   "race": "Myth",
+   "artist": "kakotomirai",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\n[Enter] and at the beginning of your turn ⇒ Choose one that was not chosen in this game - Your opponent cannot play resonators until the end of their turn; or your opponent cannot play chants until the end of their turn; or your opponent cannot play additions until the end of their turn; or your opponent cannot play regalia until the end of their turn.",
+   "flavor_text": "Nobody ever managed to escape his labyrinth.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4388",
+   "name": "Communication Robot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4388/image_en/0a4dc69e-fec6-4d02-8fae-80a3473d3d93.jpg",
+   "number": "AO2-041",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "noki",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[Rest], banish two Machines: Choose a card from your Stranger deck at random and put it into your hand.",
+   "flavor_text": "\"Ehh.. Who are you messaging?!\" —Mariabella",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4389",
+   "name": "Elemental of the Demon Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4389/image_en/6ca37cc6-c630-4018-a05b-1dc35b08cffc.jpg",
+   "number": "AO2-042",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1200 / 100",
+   "type": "Resonator",
+   "race": "Elemental",
+   "artist": "gekko",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\nRest a recovered card named \"Laevateinn\" you control: Put this card from your graveyard into the field. If it would leave the field, remove it from the game instead.",
+   "flavor_text": "Laevateinn's power crystal.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4390",
+   "name": "Forbidden Summoning",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4390/image_en/95f3bd68-5d6d-4a2d-be6f-b60fdbf6c3ce.jpg",
+   "number": "AO2-043",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Mage Art",
+   "artist": "ishishou",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"Welcome, you all.\" —Valentina",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4391",
+   "name": "Forest Bear",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4391/image_en/7d50b609-aabc-4fb5-ac6a-456cb05dcf41.jpg",
+   "number": "AO2-044",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Misa Tsutsui",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ This card may deal damage equal to its ATK to target attacking or blocking J/resonator. This ability triggers only if there are three or more friendship counters on your J/ruler.",
+   "flavor_text": "\"WARNING! Bear in area. NO, it's behind you already!\" —Sign in the forest of Sissei",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4392",
+   "name": "Huanglong",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4392/image_en/b8022fa8-797e-467c-9817-bff9208658a8.jpg",
+   "number": "AO2-045",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "God/Beast",
+   "artist": "suranaki",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Continuous\nAs long as you control four or more Four Sacred Beasts with different names, this card and Four Sacred Beasts you control gain [Swiftness], [Flying], and [Barrier].",
+   "flavor_text": "Call of the beginning.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4393",
+   "name": "Mariabella",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4393/image_en/6dcd64b4-33bf-46e5-b95e-dabe7883cb92.jpg",
+   "number": "AO2-046",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "artist": "Rumie",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\nRemove this card in your graveyard from the game: Put a soul counter on a “Marybell Type Zero” you control.",
+   "flavor_text": "\"Mariabella, I think we will be together for a very long time, but...\"",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4394",
+   "name": "Mariabella's Recycling Robot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4394/image_en/767e8f77-5d79-4ade-b461-e9c796786c14.jpg",
+   "number": "AO2-047",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Draw two cards, then discard two cards. Put a [200/200] water Machine resonator token into the field for each Machine discarded this way. If this card was awakened, draw two cards.",
+   "flavor_text": "\"A very effective utilization of resources!\" —Mariabella",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4395",
+   "name": "Marybell Type Zero",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4395/image_en/5c847d5d-4e65-4795-85df-b378aefbe389.jpg",
+   "number": "AO2-048",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Regalia",
+   "race": "Machine",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[0]: This card becomes a [1000/1000] resonator until end of turn. Play this ability only if there is a soul counter on this card.",
+   "flavor_text": "\"Any number times zero will still be zero, so I need to add a soul to make it a one.\" —Machina",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4396",
+   "name": "Nameless Knight",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4396/image_en/4a902dc0-b36d-453a-bb98-832ae2262614.jpg",
+   "number": "AO2-049",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "sakura moyon",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\nWhenever a (Stranger) enters the field under your control ⇒ You may pay [W]. If you do, put this card from your graveyard into your hand.",
+   "flavor_text": "Sometimes the nameless beat the famous.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4397",
+   "name": "Royal Palace Guardian Mage, Freya (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4397/image_en/50af5bd9-aeb1-4d55-bc33-0e9a07775e42.jpg",
+   "number": "AO2-050",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator (Stranger)",
+   "race": "Wizard",
+   "artist": "YASUYUKI",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ You may change all targets of target spell or ability that has one or more targets.",
+   "flavor_text": "No matter what harmful power you direct at Freya, she deflects it right back to you.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4398",
+   "name": "Sniper Robot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4398/image_en/c092c262-a9d5-4b44-9ef8-d87a068a4e99.jpg",
+   "number": "AO2-051",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "SIGMAN",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ You may rest X recovered Machine resonators you control, where X is the total cost of target resonator. If you do, destroy it.",
+   "flavor_text": "Point at the target, aim, pull the trigger, point at the target, aim, pull the trigger…",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4399",
+   "name": "Super Beast Burning Rush!",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4399/image_en/9f5afa8a-4baf-47d4-9460-d3346a2a4450.jpg",
+   "number": "AO2-052",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "fzwrAym",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"The real name of this skill is 'Super Beast Burning Special Ultra Glorious…', hey, wait!\" —Pricia",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4400",
+   "name": "The Determination of the Machine Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4400/image_en/6e2c5de9-e86c-4823-9c6a-57f1ba3322a1.jpg",
+   "number": "AO2-053",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "Rumie",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "After completing his research, Machina transformed Leginus.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4401",
+   "name": "The Tune-up of Marybell",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4401/image_en/b92b0456-867b-48aa-b662-ef60e7ac4267.jpg",
+   "number": "AO2-054",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Sword Art",
+   "artist": "hatarisu",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"Yes, this will be fine, don't worry!\"",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4402",
+   "name": "Wanderer in the Nightmare Land",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4402/image_en/a147598b-3467-4e69-9f88-6813abf806ee.jpg",
+   "number": "AO2-055",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Wanderer",
+   "artist": "Matsurika Yoko",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\n[Enter] ⇒ Choose a number. Your opponent banishes a resonator with total cost equal to that number. If this card was awakened, your opponent banishes all resonators with total cost equal to that number instead and you choose a card from your Stranger deck at random and put it into your hand.",
+   "flavor_text": "\"It's a world that can't be helped? You think so, Schr?dinger?\"",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4350",
+   "name": "Clockwork Soldiers",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4350/image_en/6e83e980-620c-4b76-9c8c-1fcde2f91884.jpg",
+   "number": "AO2-056",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Cola",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[1]: This card gains [+200/0] until end of turn. At the end of turn ⇒ Banish it.",
+   "flavor_text": "Despite their mechanisms being small, they hide a mortal blow.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4403",
+   "name": "Healing Gimmick (Stranger)",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4403/image_en/945e8d51-590e-4c52-b540-53f125939bf4.jpg",
+   "number": "AO2-057",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "att_def": "200 / 600",
+   "type": "Resonator (Stranger)",
+   "race": "Machine",
+   "artist": "Rumie",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[B][G], remove a Machine in your graveyard from the game: Put this card from your graveyard into your hand. Play this ability only if your J/ruler is \"Machina\".",
+   "flavor_text": "A strange machine is watching over the fates of Machina and Mariabella.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4352",
+   "name": "Leginus, the Mechanical City",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4352/image_en/85bc63a2-7dde-42fd-bafc-c31001210391.jpg",
+   "number": "AO2-058",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Machine",
+   "artist": "Nagi-nyan",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[2], [rest]: Target resonator loses [Flying], [First Strike], [Pierce] or [Precision] until end of turn. If it does, another target resonator gains that ability until end of turn.",
+   "flavor_text": "That city keeps producing cold machines with no feelings, endlessly.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4353",
+   "name": "Machine Lab of Leginus",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4353/image_en/7e6869f9-30a7-415b-a79b-a50592a96432.jpg",
+   "number": "AO2-059",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Machine",
+   "artist": "kakotomirai",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put target Machine with total cost 2 or less from your graveyard into your field.",
+   "flavor_text": "Maintaining materials means recycling.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4354",
+   "name": "Mariabella's Work",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4354/image_en/246ec666-9d69-4384-9207-fcc1ad5098b1.jpg",
+   "number": "AO2-060",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "kawaryu",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"This goes here, and this goes there. It's perfect!\"",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4355",
+   "name": "Remote Control Beast",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4355/image_en/4250ada0-5ae4-49e3-82a6-613078fc34f6.jpg",
+   "number": "AO2-061",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Machine/Beast",
+   "artist": "SIGMAN",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Continuous\nYou may pay [1] less to play this card for each Machine you control.",
+   "flavor_text": "Depending on the signal, machines can operate fast or slow.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4356",
+   "name": "Remote Control Golem",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4356/image_en/0cdbd379-0fe6-41bf-864b-8a0c7ec36f80.jpg",
+   "number": "AO2-062",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/10.png"
+    }
+   ],
+   "att_def": "2000 / 2000",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "SIGMAN",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Continuous\nThis card cannot be destroyed.",
+   "flavor_text": "The remote connection between machines may even prevent their destruction.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4357",
+   "name": "Attoractia’s Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4357/image_en/52e4271f-bd4e-4f8a-9982-91f94a4c8375.jpg",
+   "number": "AO2-063",
+   "rarity": "N",
+   "type": "Special Magic Stone",
+   "artist": "Moopic",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "flavor_text": "\"This is the powersource Lord Magna made to extract the memories. He calls it a Memoria.\" Lenneth, the Priestess of Vell-Savaria",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4358",
+   "name": "Magic Stone of Deep Wood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/43/4358/image_en/73537be0-528d-4b12-a690-bf7bbedc3482.jpg",
+   "number": "AO2-064",
+   "rarity": "N",
+   "type": "Special Magic Stone",
+   "artist": "sasaki kounosuke",
+   "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Activate\n[rest]: Produce [G] or [U].",
+   "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
+   "all_sets": "Alice Origin 2nd Booster Pack"
+  }
+ ]
+}

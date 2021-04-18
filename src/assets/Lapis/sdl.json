@@ -1,0 +1,1296 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/213",
+   "name": "Confectioner Hansel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/213/image_en/1485217956.jpg",
+   "number": "SDL1-001",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "乃希",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: You gain 200 life.",
+   "flavor_text": "As his confectionary skills rose, so did his concerns for Gretel.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/214",
+   "name": "Fairy Tale Kingdom, Light Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/214/image_en/1485217958.jpg",
+   "number": "SDL1-002",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mie",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nAt the end of your turn ⇒ Recover target Fairy Tale or Human J/resonator you control.",
+   "flavor_text": "The Light Palace brought an age of prosperity, but attracted a new threat.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/215",
+   "name": "Gourmand Gretel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/215/image_en/1485217959.jpg",
+   "number": "SDL1-003",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "乃希",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nPrevent the first damage that would be dealt to this card each turn.",
+   "flavor_text": "Happiness is a prosperous heart and stomach.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/216",
+   "name": "Grimm, King of Fairy Tales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/216/image_en/1485217961.jpg",
+   "number": "SDL1-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "城戸春一",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[W]: [Force]1. Fairy Tale and Human J/resonators you control gain [+X00/+X00] until end of turn, where X is the result of the roll. Play this ability only once per turn.",
+   "flavor_text": "Whether in the Light Palace or the fairy tale world, not a sole is ignorant of his deeds.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/217",
+   "name": "Kid Puss In Boots",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/217/image_en/1485217962.jpg",
+   "number": "SDL1-005",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "ケルビン",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ [Force]1 (Roll a die.) Put X [+100/+100] counters on this card, where X is the result of the roll.",
+   "flavor_text": "Whether it was a new power or the cat's own abilities, no one was certain.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/218",
+   "name": "Light Dress Cinderella",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/218/image_en/1485217964.jpg",
+   "number": "SDL1-006",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "弥生しろ",
+   "expansion": "Starter Deck",
+   "text": "Activate\nRest a recovered resonator you control: This card gains [Flying] until end of turn.",
+   "flavor_text": "\"This time, I'll show you the true stairway to the sky.\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/219",
+   "name": "Magic Sweets",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/21/219/image_en/1485217968.jpg",
+   "number": "SDL1-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yua",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Take this with you! A new sweet I whipped up!\" -Confectioner Hansel",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/220",
+   "name": "Manifestation of Power",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/220/image_en/1485217970.jpg",
+   "number": "SDL1-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "城戸春一",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"What is this power?\" -Millium, Prince of the Light Palace",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/221",
+   "name": "Millium, Prince of the Light Palace",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/221/image_en/1485217971.jpg",
+   "number": "SDL1-009",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "城戸春一",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nYou may pay the attribute cost of Fairy Tale resonators with light will.",
+   "flavor_text": "The child of Grimm, and prince of the kingdom. Millium fights alongside fairy tales, as friends.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/222",
+   "name": "Millium, Voice of a New Generation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/222/image_en/1485217973.jpg",
+   "number": "SDL1-009J",
+   "rarity": "JR",
+   "att_def": "900 / 900",
+   "type": "J-Ruler",
+   "race": "Human",
+   "artist": "城戸春一",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhenever this card attacks or blocks ⇒ [Force]1 (Roll a die.) Put X [+100/+100] counters on this card, where X is the result of the roll.",
+   "flavor_text": "The item Lunya brought proved to be unstable at first, but in time its true power revealed itself.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/223",
+   "name": "Summoning from the Fairy Tale World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/223/image_en/1485217974.jpg",
+   "number": "SDL1-010",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "古城ばんび",
+   "expansion": "Starter Deck",
+   "flavor_text": "Millium inhereted his father's talent with fairy tales.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/224",
+   "name": "Tinker Bell, the Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/224/image_en/1485217976.jpg",
+   "number": "SDL1-011",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Fairy Tale/Fairy",
+   "artist": "ケルビン",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nThis card gains [+200/+200] for each other Fairy Tale resonator you control.",
+   "flavor_text": "\"Hey there! It's been a while! Huh? Grimm, when did you turn back into a kid?\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/225",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/225/image_en/1485217980.jpg",
+   "number": "SDL1-012",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "坂井結城",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/226",
+   "name": "Charlatan's Tricks",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/226/image_en/1485217983.jpg",
+   "number": "SDL2-001",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "佐川明日香",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"It's not a counterfeit, it's a collectible!\" -Fayli, the Charlatan",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/227",
+   "name": "Emissary of R'lyeh",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/227/image_en/1485217984.jpg",
+   "number": "SDL2-002",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "500 / 400",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "SIGMAN",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nThis card cannot attack your opponent.",
+   "flavor_text": "\"What are you doing? Go after them!\" -Nyarlathotep, the True False Legend",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/228",
+   "name": "Fayli, the Charlatan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/228/image_en/1485217986.jpg",
+   "number": "SDL2-003",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human/Charlatan",
+   "artist": "碧風羽",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"I always thought I'd never take on an apprentice, until I met that one.\" -Fayli, the Charlatan",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/229",
+   "name": "Gentle Goat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/22/229/image_en/1485217988.jpg",
+   "number": "SDL2-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Goat",
+   "artist": "田島幸枝",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nThis card gains [+200/+200] as long as you control a Cthulhu J/resonator.",
+   "flavor_text": "It's said the goats of those hills are hiding something.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/230",
+   "name": "Hastur, Chasing the Goats",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/230/image_en/1485217990.jpg",
+   "number": "SDL2-005",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Human/Cthulhu",
+   "artist": "下江クリス",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
+   "flavor_text": "In an explosion of power, the humans temporarily reverted to cthulhu.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/231",
+   "name": "Lightning Strike",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/231/image_en/1485217993.jpg",
+   "number": "SDL2-006",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "スギカワタクミ",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Hehehe, this pain is no lie.\" -Nyarlathotep, the True False Legend",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/232",
+   "name": "Lunya, the Wolf Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/232/image_en/1485217994.jpg",
+   "number": "SDL2-007",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "夕子",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhenever a resonator you control attacks ⇒ This card deals 100 damage to target resonator.",
+   "flavor_text": "\"I know where Lumia is! No lie, honest!\" the girl exclaimed as she burst into the Light Palace.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/233",
+   "name": "Nyarlathotep, the True False Legend",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/233/image_en/1485217996.jpg",
+   "number": "SDL2-007J",
+   "rarity": "JR",
+   "att_def": "1200 / 800",
+   "type": "J-Ruler",
+   "race": "Human/Cthulhu",
+   "artist": "夕子",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, put it into your ruler area, as a ruler.",
+   "flavor_text": "\"Hehehe, not to worry. This time I really am going to help.\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/234",
+   "name": "Lunya's Best Friend",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/234/image_en/1485217997.jpg",
+   "number": "SDL2-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wolf",
+   "artist": "夕子",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ Target J/resonator gains [+200/0] until end of turn.",
+   "flavor_text": "The lying girl's best friend.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/235",
+   "name": "Niggurath, the Shepherd",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/235/image_en/1485217999.jpg",
+   "number": "SDL2-009",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Human/Cthulhu",
+   "artist": "田島幸枝",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
+   "flavor_text": "\"One goat, Two goats, Three goats. Huh? One's missing. Did someone eat one?\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/236",
+   "name": "Nightmares of R'lyeh",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/236/image_en/1485218001.jpg",
+   "number": "SDL2-010",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SIGMAN",
+   "expansion": "Starter Deck",
+   "flavor_text": "Those that don't die from the madness find strength in it.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/237",
+   "name": "R'lyeh, World of No Lies",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/237/image_en/1485218005.jpg",
+   "number": "SDL2-011",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "七海ルシア",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nCthulhu J/resonators you control gain [+200/+200].",
+   "flavor_text": "The insincere are devoured.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/238",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/238/image_en/1485218007.jpg",
+   "number": "SDL2-012",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "gozz",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/239",
+   "name": "Ancient Frozen Casket",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/23/239/image_en/1485218008.jpg",
+   "number": "SDL3-001",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "下江クリス",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[U]: Return this card to its owner's hand.",
+   "flavor_text": "That icy casket holds all who open it.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/240",
+   "name": "Ancient Knowledge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/240/image_en/1485218010.jpg",
+   "number": "SDL3-002",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "Cola",
+   "expansion": "Starter Deck",
+   "flavor_text": "Knowledge from a millennium past now flows forth.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/241",
+   "name": "Astaroth, Great Duke of Hell",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/241/image_en/1485218011.jpg",
+   "number": "SDL3-003",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Seven Luminaries Demon",
+   "artist": "長崎祐子",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[U][U]: Return this card to its owner's hand.",
+   "flavor_text": "The demon acts as a catalyst for magic power, strengthening Mercurius' weapon.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/242",
+   "name": "Ice Dragon of Altea",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/242/image_en/1485218013.jpg",
+   "number": "SDL3-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/07.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nYou may pay [1] less to play this card for each card in your hand.",
+   "flavor_text": "Its roar heralds a menacing invasion.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/243",
+   "name": "Keeper of the Frozen Casket",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/243/image_en/1485218017.jpg",
+   "number": "SDL3-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 500",
+   "type": "Resonator",
+   "race": "Ancient/Automaton",
+   "artist": "Mがんぢー",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nAdditions you control gain [Barrier]. (Cards you control with [Barrier] cannot be targeted by spells or abilities your opponent controls.)",
+   "flavor_text": "\"Be careful, Millium. It'll be bad if we're caught by that guardian. Hey! I'm serious!\" -Lunya, the Wolf Girl",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/244",
+   "name": "Malefic Ice Wall",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/244/image_en/1485218019.jpg",
+   "number": "SDL3-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "白野椋",
+   "expansion": "Starter Deck",
+   "flavor_text": "The frozen barrier bars all who encounter it.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/245",
+   "name": "Mercurius, Wizard of the Water Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/245/image_en/1485218021.jpg",
+   "number": "SDL3-007",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Luminaries Mage",
+   "artist": "長崎祐子",
+   "expansion": "Starter Deck",
+   "text": "Activate\nRemove a mana counter from this card: Produce [U]. Spend this will only to play Ancient Magic cards.",
+   "flavor_text": "The woman stood before the frozen casket, certain there was something inside.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/246",
+   "name": "Mercurius, Dark Commander of Ice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/246/image_en/1485218022.jpg",
+   "number": "SDL3-007J",
+   "rarity": "JR",
+   "att_def": "1000 / 1000",
+   "type": "J-Ruler",
+   "race": "Dark Commander",
+   "artist": "長崎祐子",
+   "expansion": "Starter Deck",
+   "text": "Activate\nRemove a mana counter from this card: Produce [U]. Spend this will only to play Ancient Magic cards.",
+   "flavor_text": "\"Do you honestly think those weaklings stand a chance against me?\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/247",
+   "name": "Mercurius' Icy Spear",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/247/image_en/1485218024.jpg",
+   "number": "SDL3-008",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Ancient Magic",
+   "artist": "佐々木光之介",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"My icy spear shall pierce your existence.\" -Mercurius, Dark Commander of Ice",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/248",
+   "name": "Messenger of Altea",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/248/image_en/1485218025.jpg",
+   "number": "SDL3-009",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Ancient",
+   "artist": "tokiwa",
+   "expansion": "Starter Deck",
+   "flavor_text": "Mercurius opened the message, \"Soon...\" she muttered.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/249",
+   "name": "Servant of Mercurius",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/24/249/image_en/1485218030.jpg",
+   "number": "SDL3-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Ancient",
+   "artist": "Cola",
+   "expansion": "Starter Deck",
+   "text": "Activate\nRemove a mana counter from your J/ruler: This card gains [+300/+300] until end of turn. Play this ability only once per turn.",
+   "flavor_text": "Mastery of the ancient power of mana is the only way to control the powerful artifacts of long lost ages..",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/250",
+   "name": "Spirit of Ice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/250/image_en/1485218031.jpg",
+   "number": "SDL3-011",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "yua",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ Return target rested resonator to its owner's hand.",
+   "flavor_text": "The ice chills to the bone.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/251",
+   "name": "Water Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/251/image_en/1485218032.jpg",
+   "number": "SDL3-012",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [U].",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/252",
+   "name": "Aria, Friendly Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/252/image_en/1485218034.jpg",
+   "number": "SDL4-001",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "j-peg",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nOther wind J/resonators you control gain [+200/+200].",
+   "flavor_text": "Born from darkness, liberated by choice.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/253",
+   "name": "Fiethsing, Six Sage of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/253/image_en/1485218035.jpg",
+   "number": "SDL4-002",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Elf/Six Sages",
+   "artist": "狛蜜ザキ",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhenever you play your second card each turn ⇒ Put a [100/100] wind Elf resonator token into your field.",
+   "flavor_text": "Fiethsing listened to the voice of the winds. She felt a strong conviction welling up in her chest. At last, she was certain of the looming threat, and her place in it.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/254",
+   "name": "Fiethsing, Master Magus of Holy Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/254/image_en/1485218037.jpg",
+   "number": "SDL4-002J",
+   "rarity": "JR",
+   "att_def": "800 / 800",
+   "type": "J-Ruler",
+   "race": "Elf/Six Sages",
+   "artist": "狛蜜ザキ",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhenever you play your second card each turn ⇒ Put two [100/100] wind Elf resonator tokens into your field.",
+   "flavor_text": "\"I guess it can't be helped. Let me show you my power!\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/255",
+   "name": "Great Holy Sealing Wave",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/255/image_en/1485218054.jpg",
+   "number": "SDL4-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagiにゃん",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"Don't make light of my magic!\" -Fiethsing, Master Magus of Holy Wind",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/256",
+   "name": "Home of the Sages",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/256/image_en/1485218056.jpg",
+   "number": "SDL4-004",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "狛蜜ザキ",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest],[2], banish this card: Draw a card.",
+   "flavor_text": "The place where Kaguya was raised by Fiethsing and Zero.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/257",
+   "name": "Sacred Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/257/image_en/1485218058.jpg",
+   "number": "SDL4-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 300",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "kawaryu",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [G].",
+   "flavor_text": "The elves call the wind.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/258",
+   "name": "Spirit of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/258/image_en/1485218061.jpg",
+   "number": "SDL4-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "佐川明日香",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ If you played two or more cards this turn, recover target magic stone.",
+   "flavor_text": "The winds carry a magical will.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/259",
+   "name": "Tama, Familiar of Holy Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/25/259/image_en/1485218066.jpg",
+   "number": "SDL4-007",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Familiar/Cat",
+   "artist": "佐久間さのすけ",
+   "expansion": "Starter Deck",
+   "text": "Activate\nBanish this card: This card deals 200 damage to target resonator.",
+   "flavor_text": "\"Already here, huh? I guess it's my turn.\" -Fiethsing, Master Magus of Holy Wind",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/260",
+   "name": "Torrent Elf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/260/image_en/1485218068.jpg",
+   "number": "SDL4-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "上木乃アロエ",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ If you played two or more cards this turn, draw a card.",
+   "flavor_text": "Expanding their power is what elves excel at.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/261",
+   "name": "Two-Fold Chant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/261/image_en/1485218076.jpg",
+   "number": "SDL4-009",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "佐々木光之介",
+   "expansion": "Starter Deck",
+   "flavor_text": "The first spell serves to hasten the second.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/262",
+   "name": "Vampire Hunter Christie",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/262/image_en/1485218078.jpg",
+   "number": "SDL4-010",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "touge369",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[G]: This card gains [+200/+200] until end of turn. Play this ability only if your J/ruler is \"Fiethsing, Six Sage of Wind\" or \"Fiethsing, Master Magus of Holy Wind\".",
+   "flavor_text": "\"The only vampire I let live was Aria...where did they come from?\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/263",
+   "name": "Whispers from the Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/263/image_en/1485218079.jpg",
+   "number": "SDL4-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "たかむらはるき",
+   "expansion": "Starter Deck",
+   "flavor_text": "Information travels faster on the winds than any other method.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/264",
+   "name": "Wind Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/264/image_en/1485218082.jpg",
+   "number": "SDL4-012",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "白野椋",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [G].",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/265",
+   "name": "Ally of the Black Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/265/image_en/1485218084.jpg",
+   "number": "SDL5-001",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Wanderer",
+   "artist": "ヤマモトナオキ",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[B]: This card deals 100 damage to target resonator. Put a blood counter on this card.",
+   "flavor_text": "An ancient ally of Lapis. possibly the oldest Vampire.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/266",
+   "name": "Eternal Vampire, Mikage Seijuro",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/266/image_en/1485218086.jpg",
+   "number": "SDL5-001J",
+   "rarity": "JR",
+   "att_def": "900 / 900",
+   "type": "J-Ruler",
+   "race": "Vampire",
+   "artist": "ヤマモトナオキ",
+   "expansion": "Starter Deck",
+   "text": "Activate\nRemove a blood counter from this card: Choose one -\nTarget J/resonator gains [-100/-100] until end of turn;\nor this card gains [+200/0] until end of turn;\nor you gain 200 life;\nor put a [+100/+100] counter on target Vampire resonator.",
+   "flavor_text": "\"Altea...what a nostalgic name. Surely you agree, Lapis?\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/267",
+   "name": "Blood of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/267/image_en/1485218091.jpg",
+   "number": "SDL5-002",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七原しえ",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"I'll give you some of my blood. You should feel the effects immediately. \" -Shara, Third Daughter of the Mikage",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/268",
+   "name": "Castle of Oni",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/268/image_en/1485218093.jpg",
+   "number": "SDL5-003",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "駒井春樹",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest], banish this card: Put target card from your graveyard into your hand.",
+   "flavor_text": "Momotaro, who's heart had fallen into darkness, became master of the castle of oni. Together with the oni, he caused much suffering.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/269",
+   "name": "Faithful Hellhound",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/26/269/image_en/1485218094.jpg",
+   "number": "SDL5-004",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "坂井結城",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ Each player banishes a resonator.",
+   "flavor_text": "It guides followers to hell.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/270",
+   "name": "Heaven Bound Pheasant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/270/image_en/1485218096.jpg",
+   "number": "SDL5-005",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "ひがし",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Your opponent discards a card.",
+   "flavor_text": "It guides followers to salvation.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/271",
+   "name": "Momotaro of the Sanzu River",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/271/image_en/1485218098.jpg",
+   "number": "SDL5-006",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Mad",
+   "expansion": "Starter Deck",
+   "text": "Continuous\nThis card gains [+300/+300] as long as you control four or more resonators.",
+   "flavor_text": "His friends linger between this world and the next. The oni he slays become his companions.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/272",
+   "name": "Oni Strike",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/272/image_en/1485218099.jpg",
+   "number": "SDL5-007",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "Starter Deck",
+   "flavor_text": "The destruction of an oni's blow extends beyond its target.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/273",
+   "name": "Power Absorption",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/273/image_en/1485218102.jpg",
+   "number": "SDL5-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "七原しえ",
+   "expansion": "Starter Deck",
+   "flavor_text": "\"It isn't much, but I'll help myself to that power.\" -Eternal Vampire, Mikage Seijuro",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/274",
+   "name": "Shara, Third Daughter of the Mikage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/274/image_en/1485218104.jpg",
+   "number": "SDL5-009",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "七原しえ",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[B][B][1]: This card deals 200 damage to target resonator. Put a [+100/+100] counter on this card. If your J/ruler is \"Ally of the Black Moon\" or \"Eternal Vampire, Mikage Seijuro\", put two [+100/+100] counters on this card instead.",
+   "flavor_text": "\"I'm feeling a bit anaemic. Hey you! Gimme some of your blood!\"",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/275",
+   "name": "The Drunken Oni",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/275/image_en/1485218105.jpg",
+   "number": "SDL5-010",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1300 / 1300",
+   "type": "Resonator",
+   "race": "Oni",
+   "artist": "猫囃子(Nekobayashi)",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card named \"Castle of Oni\", reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "The ruler of the oni castle is the strongest oni.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/276",
+   "name": "The Monkey Trapped in Life",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/276/image_en/1485218106.jpg",
+   "number": "SDL5-011",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Moopic",
+   "expansion": "Starter Deck",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Return it to its owner's hand. You lose 100 life.",
+   "flavor_text": "Somehow everything just seems to reset endlessly.",
+   "all_sets": "Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/277",
+   "name": "Darkness Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/27/277/image_en/1485218108.jpg",
+   "number": "SDL5-012",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "たかむらはるき",
+   "expansion": "Starter Deck",
+   "text": "Activate\n[rest]: Produce [B].",
+   "all_sets": "Starter Deck"
+  }
+ ]
+}

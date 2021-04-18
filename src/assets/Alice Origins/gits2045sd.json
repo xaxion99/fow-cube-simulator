@@ -1,0 +1,207 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/4448",
+   "name": "Aramaki",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4448/image_en/e5079a9f-c6b3-4aa6-a1c9-c794e44dad47.jpg",
+   "number": "GITS2045SD-001",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "text": "Continuous\nYou may pay [1] less to play cards not from your hand. When you play a card this way, draw a card.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4449",
+   "name": "Batou & Kusanagi Motoko",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4449/image_en/4aeda84a-04bb-4a64-a4c1-7480b57f9bcd.jpg",
+   "number": "GITS2045SD-002",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "text": "Automatic\n[Enter] ⇒ Destroy target resonator with total cost 4 or less.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4450",
+   "name": "Batou, the Motoko's Buddy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4450/image_en/06e3a73e-4521-4ec6-a6ce-38c54b22768b.jpg",
+   "number": "GITS2045SD-003",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "text": "Continuous\nThis card cannot attack unless you control a card with \"Kusanagi Motoko\" in its name.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4451",
+   "name": "Bombarding",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4451/image_en/b71d2af2-88f4-41eb-a8c1-c2e1cc07b225.jpg",
+   "number": "GITS2045SD-004",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4452",
+   "name": "Ishikawa, the Competent Supporter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4452/image_en/6de33b0c-b479-4693-91e0-7dd8e75bea94.jpg",
+   "number": "GITS2045SD-005",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "text": "Automatic\nWhenever you play an activate ability with [Dive] ⇒ Copy it. You may choose new targets for the copy.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4453",
+   "name": "Kusanagi Motoko, in Bodysuit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4453/image_en/2f2b7768-45c2-45c5-83db-f64ee1d99d55.jpg",
+   "number": "GITS2045SD-006",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "text": "Continuous\nThis card cannot be blocked.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4454",
+   "name": "Kusanagi Motoko, in Relax",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4454/image_en/dda1e738-14be-45f7-a269-0b716c766a21.jpg",
+   "number": "GITS2045SD-007",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4455",
+   "name": "Optical Camouflage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4455/image_en/402a8006-28dd-427d-8d2c-1b5a6e6513a5.jpg",
+   "number": "GITS2045SD-008",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "text": "Activate\n[Quickcast]",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4456",
+   "name": "Purin Esaki, the Elite",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4456/image_en/b24db8ff-ec6d-400b-97e5-5eb97628096f.jpg",
+   "number": "GITS2045SD-009",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 700",
+   "type": "Resonator",
+   "race": "Human",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "text": "Activate\n[Rest]: Remove a card in your hand from the game with a cyberbrain counter on it.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4457",
+   "name": "Stan, a Former Army Infantry",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4457/image_en/a6ca7e7e-7034-4fe0-866a-2ecfc30d3a1e.jpg",
+   "number": "GITS2045SD-010",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Human/Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "text": "Activate\n[Dive][1]: Target resonator gains [+400/+400] until end of turn. (Pay [1] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4458",
+   "name": "Tachikoma C",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4458/image_en/7aef0ff6-354d-45a2-aa02-5c574efd1642.jpg",
+   "number": "GITS2045SD-011",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "text": "Automatic\n[Enter] ⇒ This card deals 600 damage to target resonator.",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4459",
+   "name": "Beverly Hills",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4459/image_en/bb29554d-e626-4a48-8725-9a9ba091a404.jpg",
+   "number": "GITS2045SD-012",
+   "type": "Special Magic Stone",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4460",
+   "name": "Gated Town",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4460/image_en/39668df4-c219-47cd-a09a-5ec44aff1f15.jpg",
+   "number": "GITS2045SD-013",
+   "type": "Special Magic Stone",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4461",
+   "name": "Palm Springs",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/44/4461/image_en/4068fdf6-06c0-4098-97e7-5d1023c63c15.jpg",
+   "number": "GITS2045SD-014",
+   "type": "Special Magic Stone",
+   "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
+   "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
+  }
+ ]
+}

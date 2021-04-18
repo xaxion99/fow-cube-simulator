@@ -1,0 +1,2248 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/3882",
+   "name": "Alice, Otherworldly Visitor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3882/image_en/11ef2fea-7f0a-4838-a489-c284652c66f5.jpg",
+   "number": "SNV-001",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale/Wanderer",
+   "artist": "Wednesday",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"I've come to bring you back, you sly cat!\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3883",
+   "name": "Barrier of Faith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3883/image_en/ec23655c-c1fe-4058-b841-f175344f8f27.jpg",
+   "number": "SNV-002",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "gekko",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"It's futile.\" -Misteltein, the Pious Sword Saint",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3884",
+   "name": "Blade of Faith",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3884/image_en/31d65076-7641-4a68-90fe-a609cc22bdc5.jpg",
+   "number": "SNV-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Master Rune(Divinity 2)",
+   "artist": "AKI",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"The obstacles fate places before me do nothing to deter my faith!\" -Misteltein, the Pious Sword Saint",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3885",
+   "name": "Card Conscript",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3885/image_en/61aa0932-8c3b-4517-ba1a-694c0761252a.jpg",
+   "number": "SNV-004",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "900 / 1400",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "mie",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Alright, line up in numerical order! Hey, you there! Can't you count?\" -Alice, Otherworldly Visitor",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3886",
+   "name": "Dark Alice Doll",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3886/image_en/7baccb2b-d1fa-4772-bf33-8b4ab099dc0d.jpg",
+   "number": "SNV-005",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 1000",
+   "type": "Resonator",
+   "race": "Fairy Tale/Doll",
+   "artist": "Matsurika Yoko",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Aww, don't make such a sour face!\" -Alice, Otherworldly Visitor",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3887",
+   "name": "God's Choice",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3887/image_en/a061e6c1-8d62-42b2-8fc6-7d4d06e36fa1.jpg",
+   "number": "SNV-006",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "EM-MIKA",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Brunhild's command is Lord Odin's decree.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3888",
+   "name": "March Hare of Valhalla",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3888/image_en/49799d6e-c59e-4073-aaf1-4703a78128de.jpg",
+   "number": "SNV-007",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale/Wererabbit",
+   "artist": "Kamijo Roro",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Um, who?\" -Alice, Otherworldly Visitor",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3889",
+   "name": "Messenger of the Sun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3889/image_en/05d06164-b486-4843-a997-459af4f36f85.jpg",
+   "number": "SNV-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "sasaki kounosuke",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Upon receiving the report from the messenger, Brunhild made the decision to attack Lunar Heaven.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3890",
+   "name": "Misteltein, the Pious Sword Saint",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3890/image_en/6b135a96-74c4-4b22-8f0e-79d87e355274.jpg",
+   "number": "SNV-009",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Human/Wanderer",
+   "artist": "lack",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "As time passed, her faith only grew. Now one with her belief, she returns to this world.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3891",
+   "name": "Monk Heroic Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3891/image_en/6d0b1e51-e62d-44ac-8755-de422e264b6a.jpg",
+   "number": "SNV-010",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "karuta shiki",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Misteltein's guardian, the heroic spirit of healing.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3892",
+   "name": "Musician of the Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3892/image_en/64150d18-62b1-4d6a-aae6-4acd55f453c5.jpg",
+   "number": "SNV-011",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "yua",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"We were born with these large ears to enjoy music. I don't wish to lose this way of life.\" -Atom Seikhart",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3893",
+   "name": "Mysterious Welcome Party",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3893/image_en/978b1a40-91b0-4f34-8b9f-8d09f2c82595.jpg",
+   "number": "SNV-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "AKI",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Atom was at a loss as to why they were holding a welcome party for an uninvited guest.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3894",
+   "name": "Palace Chef",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3894/image_en/b1856d83-c8ad-4b0a-81b4-a5caf47b173c.jpg",
+   "number": "SNV-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Wererabbit",
+   "artist": "Yuko Nagasaki",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "In Lunar Heaven, it is believed carrots are best for one's health.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3895",
+   "name": "Reginleif, Inheritor of God's Will",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3895/image_en/d99919e2-72fb-40a2-85c0-5bd27a242149.jpg",
+   "number": "SNV-014",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 1500",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "noki",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Entrusted with god's mission, she leads the Valkyries to battle.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3896",
+   "name": "Spirit of Moonlit Nights",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3896/image_en/a1a35fc2-e3f3-4fc2-9b16-2920df9bab47.jpg",
+   "number": "SNV-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "BANAMONS*",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The moon of Lunar Heaven illuminated the ground, as if trying to tell something to the visitor.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3897",
+   "name": "Swordsman Heroic Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3897/image_en/fa5cbcdd-43a3-453a-8d01-4941263058a4.jpg",
+   "number": "SNV-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "gajumaru",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Misteltein's devotee, the heroic spirit of faith.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3898",
+   "name": "The Battle of Sun and Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3898/image_en/31f94595-4182-4db0-ba32-22ecf9e4554b.jpg",
+   "number": "SNV-017",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Saiko Takaki",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Good heavens. We've got quite the visitors today.\" -Atom Seikhart",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3899",
+   "name": "The Stranger from Re-Earth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/38/3899/image_en/fee0e732-f42d-4dd3-9dda-afc1b2f63b1f.jpg",
+   "number": "SNV-018",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "Saiko Takaki",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Don't expect me to hold a welcome party for an uninvited guest.\" -Atom Seikhart",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3900",
+   "name": "Valkyrie of the Dawn",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3900/image_en/096501ac-1236-4d63-8ed2-51ee58417a00.jpg",
+   "number": "SNV-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Valkyrie",
+   "artist": "yuko",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The Valkyries set their eyes on the moon, soaring higher than the sun.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3901",
+   "name": "Wizard Heroic Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3901/image_en/2bcb21f9-2411-415b-bd18-d44ab1135d01.jpg",
+   "number": "SNV-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 1000",
+   "type": "Resonator",
+   "race": "Heroic Spirit",
+   "artist": "Miko Yamazaki",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Misteltein's advisor, the heroic spirit of sorcery.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3902",
+   "name": "All Under Heaven Shall Perish",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3902/image_en/ef9ce282-7431-4267-beb9-bb5718a17a03.jpg",
+   "number": "SNV-021",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Yukie TAJIMA",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"The blue skies shall fade, dyed red by my stratagem!\" -Zhuge Liang",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3903",
+   "name": "Annihilation Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3903/image_en/897568ed-f342-4aef-8537-bd432fb124e2.jpg",
+   "number": "SNV-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Hayama Kohei",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "When out of foes, this dragon will turn its fangs towards its own allies.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3904",
+   "name": "Frontline Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3904/image_en/1a491528-f93d-4279-a198-3bdcbbb5e644.jpg",
+   "number": "SNV-023",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Life is cheap during times of war.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3905",
+   "name": "Gaze of the Fire Emperor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3905/image_en/b82facd0-288b-4fc2-9b52-5227bd6ad15a.jpg",
+   "number": "SNV-024",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nagi-nyan",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Where Fu Xi goes, war always follows.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3906",
+   "name": "Ladies of the Three Stars",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3906/image_en/eab82c15-2501-429b-9537-beb1b3b50ca3.jpg",
+   "number": "SNV-025",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Taoist",
+   "artist": "ShiroYayoi",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"I see! When working together, three people have the power of... well, three people working together.\" -Zhuge Liang",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3907",
+   "name": "Lady Huang's Karakuri Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3907/image_en/7f6bcc21-b486-44a2-a745-a03429c59d57.jpg",
+   "number": "SNV-026",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Karakuri",
+   "artist": "tokiwa",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The Karakuri obey no master. They merely destroy the enemy before them.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3908",
+   "name": "Ma'at, Arbiter of Judgment",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3908/image_en/935253f9-5a89-4139-8a97-3dc5dddd1324.jpg",
+   "number": "SNV-027",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "100 / 600",
+   "type": "Resonator",
+   "race": "Ascendant",
+   "artist": "jugemt",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"You may be able to outrun the blade. But nobody can outrun their sins.\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3909",
+   "name": "Neo-Berserk Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3909/image_en/c2ba1627-54de-45d6-a757-10784ded4cc7.jpg",
+   "number": "SNV-028",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 800",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Mad",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The return of madness.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3910",
+   "name": "Numbing Hedgehog",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3910/image_en/372db42f-6d32-466a-a9eb-1c6bccf3225b.jpg",
+   "number": "SNV-029",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "kawaryu",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Momentary paralysis proves fatal.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3911",
+   "name": "Ruins Beneath the Sands",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3911/image_en/04d24df8-8e6e-40c5-8557-bb677c412d6e.jpg",
+   "number": "SNV-030",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "Kotakan",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"This is it! Valhalla's sealed away power!\" -Isis",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3912",
+   "name": "Sand Awakening",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3912/image_en/b11f3673-499a-40da-be90-6f797993824b.jpg",
+   "number": "SNV-031",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "mita kura",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Rise! It is time to retake our glory!\" -Isis",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3913",
+   "name": "Sand Soldier",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3913/image_en/f9a93283-db16-49f9-9e46-32a8c8409761.jpg",
+   "number": "SNV-032",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 600",
+   "type": "Resonator",
+   "race": "Sand",
+   "artist": "AshesBomber",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"The only thing more fragile than sand is human life itself.\" -Teachings of Sandora",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3914",
+   "name": "Sandora's Invasion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3914/image_en/cb0d1a08-76b0-44a4-8c50-9ddde13af9e1.jpg",
+   "number": "SNV-033",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "IWAO",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"It's time. Let's go!\" -Isis",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3915",
+   "name": "Scales of the Ascendant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3915/image_en/7c368278-15ec-4c4f-b5c6-ecd5a76961bd.jpg",
+   "number": "SNV-034",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Miko Yamazaki",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The scales incline towards the guilty.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3916",
+   "name": "Searing Wall of Sand",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3916/image_en/bc1ceb80-388a-4055-becd-ca59727a3fbc.jpg",
+   "number": "SNV-035",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "0 / 1500",
+   "type": "Resonator",
+   "race": "Sand/Wall",
+   "artist": "Mad",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The scorching sands prove to be the greatest defense.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3917",
+   "name": "Sima Hui, the Crafty Tactician",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3917/image_en/0cfdb732-9b39-4ff5-8cb9-3408d1c323e6.jpg",
+   "number": "SNV-036",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "800 / 900",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Ippei SOEDA",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"War without tactics is like a dumpling without fillings.\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3918",
+   "name": "Surtr, the Sand Giant",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3918/image_en/9315a1d6-44b6-486b-912c-c483eca59a62.jpg",
+   "number": "SNV-037",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Sand/Giant",
+   "artist": "kakotomirai",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Sealed beneath the sands, the embodiment of destruction.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3919",
+   "name": "The Three Kingdoms Partition Plan",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3919/image_en/fc1729b2-a738-492a-9222-4bda8d35d8b6.jpg",
+   "number": "SNV-038",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Master Rune(Divinity 2)",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Shatter the Earth! Render them asunder!\" -Zhuge Liang",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3920",
+   "name": "Underhanded Assassin",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3920/image_en/8ae2c7aa-6354-4a00-bdb4-2131264c0040.jpg",
+   "number": "SNV-039",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 900",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "yuhki lily",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "In Sandora, poison is the preferred method of assassination.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3921",
+   "name": "Zhuge Liang",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3921/image_en/28f12c2f-142f-439e-ae9a-b96ea47cf5e8.jpg",
+   "number": "SNV-040",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Human/Wanderer",
+   "artist": "Yukie TAJIMA",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Zhuge Liang. Pang Tong. It's said with one of these tacticians you can conquer a country. I'll show you that together we can conquer the very world.\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3922",
+   "name": "Antorite, Sealed God of the Riverbed",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3922/image_en/b6aacc96-418b-4d64-9bc4-81dc2386b6af.jpg",
+   "number": "SNV-041",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "900 / 700",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "kurisu",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"You're the one who freed me?... Fine. I suppose I'll help you out.\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3923",
+   "name": "Bloodberry",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3923/image_en/f1b0f6d9-e12a-4619-8bc7-93e4706961bb.jpg",
+   "number": "SNV-042",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 700",
+   "type": "Resonator",
+   "race": "Vegetation",
+   "artist": "Nekobayashi",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Best be eaten fresh.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3924",
+   "name": "Diverse Evolution",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3924/image_en/369b7245-1067-49d4-abb0-bce488495470.jpg",
+   "number": "SNV-043",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Shosuke",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Become... something interesting!\" -Loki",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3925",
+   "name": "Guinevere, the Mobility Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3925/image_en/93cfe9ad-57ce-47bb-b5c0-7dda03ced0b8.jpg",
+   "number": "SNV-044",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Human/Machine/Wanderer",
+   "artist": "fzwrAym",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "In another world, a theater of only machines and humans, she was the last to live. Now the ruler of machines, she returns to this world.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3926",
+   "name": "Guinevere's Imperial Guard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3926/image_en/47b10133-0d07-4b85-ac7e-f141058662d6.jpg",
+   "number": "SNV-045",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "KEIICHIRO ITO",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "These women will only heed the orders of one human being.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3927",
+   "name": "Mermaid of the Misty Spring",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3927/image_en/9fb31e7f-a485-44e3-b69e-e3bb5936549b.jpg",
+   "number": "SNV-046",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "200 / 800",
+   "type": "Resonator",
+   "race": "Mermaid",
+   "artist": "Tsukumi",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The mermaids were freed alongside Antorite and accompanied her on her journey.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3928",
+   "name": "Mordred, the Operator",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3928/image_en/e5abae9a-edda-4684-9e29-ced08442e4ed.jpg",
+   "number": "SNV-047",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "SIGMAN",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Camelot's hardworking pilot.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3929",
+   "name": "Mutation Slime",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3929/image_en/a59805e1-61ff-44ca-aa45-21a25f9d6afe.jpg",
+   "number": "SNV-048",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 1000",
+   "type": "Resonator",
+   "race": "Ooze",
+   "artist": "touge369",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "In Misty Forest, the certain and the uncertain are one and the same.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3930",
+   "name": "Mystery Box",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3930/image_en/1b0ed74a-ad93-4ef4-812a-48584c47b39e.jpg",
+   "number": "SNV-049",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 3)",
+   "artist": "Misa Tsutsui",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"What's in the box nya? What's in the box nya? Nya nya nya nya nyan!\" -Schr?dinger",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3931",
+   "name": "Parallel World Schrödinger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3931/image_en/a80fc3db-472c-4d3f-a668-98e4e63d4b40.jpg",
+   "number": "SNV-050",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale/Cat",
+   "artist": "Nakaba Higurashi",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "To escape from Alice, Schrödinger called upon his parallel selves.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3932",
+   "name": "Precision-Guided Munition, Sky Beat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3932/image_en/05fc073f-2126-4d94-af74-62f3c3e26ce6.jpg",
+   "number": "SNV-051",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "M ganzy",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Guinevere's range exceeds ten kilometers in circumference.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3933",
+   "name": "Ruins Submerged Beneath the Misty Spring",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3933/image_en/13066971-98a9-45ee-a5db-0994411cd017.jpg",
+   "number": "SNV-052",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "mita kura",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The ruins where Valhalla's mermaids sleep.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3934",
+   "name": "Schrödinger, the Harlequin of Phenomena",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3934/image_en/e063deec-5251-42c0-944a-19f921589f10.jpg",
+   "number": "SNV-053",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "0 / 100",
+   "type": "Resonator",
+   "race": "Fairy Tale/Wanderer",
+   "artist": "Misa Tsutsui",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"To make certain the uncertain... that is my role. I a-paw-logize, Alice-nya. I can't leave with you yet.\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3935",
+   "name": "Shackles of Mist",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3935/image_en/963e7d21-2790-4530-bded-1002b7632e63.jpg",
+   "number": "SNV-054",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Haruki Komai",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The mist hazes the heart.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3936",
+   "name": "Sky Round Musketeer",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3936/image_en/6ad48eaf-41ee-420e-8e7a-d8d77ca9d86a.jpg",
+   "number": "SNV-055",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "QK",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "A machine's job is to be punctual and integral.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3937",
+   "name": "Skyfall",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3937/image_en/2c5e54b5-7274-4397-96cd-944c06d5321e.jpg",
+   "number": "SNV-056",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "BANAMONS*",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Guinevere descended at speeds faster than the eye could perceive.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3938",
+   "name": "Skynet",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3938/image_en/012365ba-3622-4e54-a4a5-91a669a1d8d9.jpg",
+   "number": "SNV-057",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Master Rune(Divinity 2)",
+   "artist": "Mad",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Did you really think you could escape me?\" -Guinevere, the Mobility Queen",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3939",
+   "name": "Super Mobile Fortress Camelot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3939/image_en/b535348f-211e-4522-994c-6c3ccc8dcc11.jpg",
+   "number": "SNV-058",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Shinichi Chiba",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Guinevere led Camelot through the dimensions, finally arriving at Valhalla.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3940",
+   "name": "Teleport",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3940/image_en/c07743c9-f840-4fe6-b56b-6b1326a0b9d7.jpg",
+   "number": "SNV-059",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "sasaki kounosuke",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The transfer of matter is not magic, but a fine science.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3941",
+   "name": "Wheel Drone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3941/image_en/c3c0ff12-9919-48e9-a107-ec141591a1a6.jpg",
+   "number": "SNV-060",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 900",
+   "type": "Resonator",
+   "race": "Machine",
+   "artist": "Shinichi Chiba",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The wheel flies through the sky, even running over enemies at times.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3942",
+   "name": "Ancient Ruins Researcher",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3942/image_en/155b5c2d-ca65-4282-a9a0-ee8d0e0c7e3a.jpg",
+   "number": "SNV-061",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 1100",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "jitari",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"I see mi-... This is quite the impressive discovery mi-.\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3943",
+   "name": "Bullet Ball Thunder Clap",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3943/image_en/c5ae2940-489c-45b4-ad89-8e3ac2dcf86f.jpg",
+   "number": "SNV-062",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "Rumie",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Who will become the bullet is often up for contention. In most cases, the one who falls asleep first is chosen.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3944",
+   "name": "Bunbuku, the Legendary Tea Kettle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3944/image_en/7c915d5f-3de4-43c1-bb0d-bd4431852aa1.jpg",
+   "number": "SNV-063",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "300 / 1200",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Haruichi Kido",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Transform? How rude. But, I will. Just for you.\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3945",
+   "name": "Chamimi's Contemplation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3945/image_en/2369472a-0083-4583-82c1-bfced6c6ac79.jpg",
+   "number": "SNV-064",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "QK",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Is she thinking or just sleeping? Nobody can ever tell.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3946",
+   "name": "Flying Squirrel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3946/image_en/4b926f25-b3e5-42d9-b95d-85de38663a5c.jpg",
+   "number": "SNV-065",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "hatarisu",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "It may look cute, but the Mimi tribe knows its true danger.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3947",
+   "name": "Fox Shikigami",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3947/image_en/d3b38f14-5003-47a3-88bb-24b8539c086b.jpg",
+   "number": "SNV-066",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 900",
+   "type": "Resonator",
+   "race": "Shikigami",
+   "artist": "Tomomi TOMIDA",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Master, about the schedule for today...\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3948",
+   "name": "Friend Calling Whistle",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3948/image_en/e6daa8f2-1713-4768-ad31-22fb367204ee.jpg",
+   "number": "SNV-067",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "AKI",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "A special tone only Ninjas can recognize.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3949",
+   "name": "Guardian Beast of Nature",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3949/image_en/3a4b54fe-bfd2-4237-ba17-0b541c6f5825.jpg",
+   "number": "SNV-068",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "gozz",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The Mimi tribe was blown away when they discovered it. Not by the breathtaking ruins that laid beyond... but by the furious beast guarding it.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3950",
+   "name": "Liz, Sealed God of the Island",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3950/image_en/9912fdd1-68f5-4551-afa1-ef1a1ef82431.jpg",
+   "number": "SNV-069",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "att_def": "1000 / 1500",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "KAZTO FURUYA",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "When Liz awoke, she felt no joy. She could sense her old friend had awakened to darkness.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3951",
+   "name": "Magellanica, the Ball Warrior",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3951/image_en/ec9f0f41-adda-4281-8474-cd87f802a8f4.jpg",
+   "number": "SNV-070",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Mimi Tribe",
+   "artist": "Rumie",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Since it's faster for him to roll to move, no one's ever seen him walk.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3952",
+   "name": "Molmol, King of Rare Beasts",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3952/image_en/dfeca98e-f295-4e10-a138-7fa5d0bc823c.jpg",
+   "number": "SNV-071",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png"
+    }
+   ],
+   "att_def": "2000 / 2000",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "SO",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Chamimi approached the King of Beasts, attempting to communicate with it.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3953",
+   "name": "Ninja Students",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3953/image_en/0c74d2aa-d542-4194-8e13-8eca9a49525c.jpg",
+   "number": "SNV-072",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 300",
+   "type": "Resonator",
+   "race": "Cat/Ninja",
+   "artist": "Shirono Muku",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"These children are the seeds of the future.\" -Hanzo",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3954",
+   "name": "Rikyu, Cat Tongued Tea Master",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3954/image_en/98b0f741-51b1-4f7c-bd12-55926e6815fe.jpg",
+   "number": "SNV-073",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1100 / 1200",
+   "type": "Resonator",
+   "race": "Cat/Wanderer",
+   "artist": "Haruichi Kido",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "When Rikyu came to Kouga from another world he offered tea to the villagers. But no one would accept it. As it would turn out, cats can't drink hot drinks.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3955",
+   "name": "Ruins Beneath the Flora",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3955/image_en/7f661db7-4161-47ac-9994-7785d5d22432.jpg",
+   "number": "SNV-074",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "gozz",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Slipping past the guardian beast's pursuit, the Mimi tribe took a determined step into the ruins.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3956",
+   "name": "Seimei's Disciple",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3956/image_en/e7cb2db9-5e51-4e15-991f-0282dea2a929.jpg",
+   "number": "SNV-075",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Cat/Yin-Yang Master",
+   "artist": "Fukuzo Katsura",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Unfortunately, Master Seimei is sleeping right now. Not even I know when he will awake.\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3957",
+   "name": "Storm Cat",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3957/image_en/911c8cce-aa07-4d0b-9c67-9885709dacd2.jpg",
+   "number": "SNV-076",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "TAKUMI",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Can you keep up with my movements?\" -Hanzo",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3958",
+   "name": "Table Flip",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3958/image_en/775c1fb5-df12-42b9-ac7b-e023f09d804c.jpg",
+   "number": "SNV-077",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Master Rune(Divinity 2)",
+   "artist": "Haruichi Kido",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"This tea's too hot to drink!!\" -Rikyu, Cat Tongued Tea Master",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3959",
+   "name": "The Six Jizo Statues",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3959/image_en/8db5a143-94fe-459a-ba5e-85162860f5cf.jpg",
+   "number": "SNV-078",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Youkai",
+   "artist": "Moopic",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "While it may take time, they will always return the favor.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3960",
+   "name": "The Unsealing of God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3960/image_en/b28a556c-1d51-4de1-a114-9ffd66ca1a51.jpg",
+   "number": "SNV-079",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "KAZTO FURUYA",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The Mimi tribe came to worship Liz, for she looked exactly like the gods as described in their ancient songs.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3961",
+   "name": "Tsunade, Brawny Cat Ninja",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3961/image_en/920d2808-fc11-4ea4-a4d1-eb722c137b45.jpg",
+   "number": "SNV-080",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "800 / 500",
+   "type": "Resonator",
+   "race": "Cat/Ninja",
+   "artist": "SIE NANAHARA",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"With some guts and strength, you can do anything!\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3962",
+   "name": "Amon, Conspirer of Atrocities",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3962/image_en/c99ddc78-cf5d-4e41-9354-7609920491ab.jpg",
+   "number": "SNV-081",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "kotakan",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "He feels nothing but joy. Joy at being given another chance to bring ruin.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3963",
+   "name": "Astema, the Returnee of Hatred",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3963/image_en/932fd5f8-27af-4603-ab36-6809755a1bfa.jpg",
+   "number": "SNV-082",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 600",
+   "type": "Resonator",
+   "race": "Fallen Angel/Wanderer",
+   "artist": "j-peg",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "As time passed, her hatred only grew. Now one with her malice, she returns to this world.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3964",
+   "name": "Athenia, Sealed God of the Ruins",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3964/image_en/40852b82-958c-4518-963f-6abcd3ce08e0.jpg",
+   "number": "SNV-083",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "sakura moyon",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"A most terrible awakening... for me and this world.\"",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3965",
+   "name": "Black-Eyed Angel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3965/image_en/1bf7cf96-66fd-448d-a316-6996477fa1c9.jpg",
+   "number": "SNV-084",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1300 / 700",
+   "type": "Resonator",
+   "race": "Fallen Angel",
+   "artist": "tokiwa",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "No light shone in their eyes, their hearts long since enveloped in darkness.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3966",
+   "name": "Caspiel, the Fallen Angel of Rebellion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3966/image_en/3d524ba6-bd3d-41b4-ae44-ee0a80ab3eea.jpg",
+   "number": "SNV-085",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1000",
+   "type": "Resonator",
+   "race": "Fallen Angel",
+   "artist": "suranaki",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Satan's will transformed into a strong impulse, stirring the fallen angels to action.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3967",
+   "name": "Chaining Hatred",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3967/image_en/f4ced6f2-507f-4c23-a191-aadd1c9d183b.jpg",
+   "number": "SNV-086",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "gajumaru",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Hatred, a disease plaguing the hearts of many.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3968",
+   "name": "Contract Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3968/image_en/33eaba33-bdd1-4d7c-ae65-6f850433945f.jpg",
+   "number": "SNV-087",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "Nekobayashi",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The contract will always be fulfilled. For demons love to collect.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3969",
+   "name": "Corrupt Teachings",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3969/image_en/f72276be-81bf-45f9-b7a1-bd74e96bb8b0.jpg",
+   "number": "SNV-088",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "haniwa",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"The time has come. We must supervise this world in place of God.\" -Lucifer",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3970",
+   "name": "Dark Soldier of the Fallen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3970/image_en/543fa8c9-0e41-48e9-abbf-a212a7391e5c.jpg",
+   "number": "SNV-089",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 400",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "KONNO Takashi",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "They despise humans blessed by light the most.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3971",
+   "name": "Dragon Zombie",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3971/image_en/9d2f792a-9f9a-42c3-9d17-0b271be18ca2.jpg",
+   "number": "SNV-090",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dragon/Zombie",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Lost in jealousy, its heart and wings have long since given in to the darkness.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3972",
+   "name": "Graveyard Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3972/image_en/d55690b9-38bf-46f9-a5bb-b0bbf7746c40.jpg",
+   "number": "SNV-091",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "Saiko Takaki",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The lone vampire could not read Oborozuki's intentions. For reasons unknown, she came to this area and seized control.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3973",
+   "name": "March of the Dead",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3973/image_en/afaa7aac-5c6f-41ca-9a53-309410039338.jpg",
+   "number": "SNV-092",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "douzen",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The parade marched onward to the meeting place of the wanderers.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3974",
+   "name": "Orchard of the Immortals",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3974/image_en/1f754dd9-6d45-452f-b67a-de1a6c373cf0.jpg",
+   "number": "SNV-093",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Ancient Ruins",
+   "artist": "SAO",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The only land to bear fruit on this ruined earth.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3975",
+   "name": "Orpheus, the Immortal Player",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3975/image_en/a068fae8-ddb9-41aa-b3c8-0d4be9012f36.jpg",
+   "number": "SNV-094",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 500",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "Kelvin",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "\"Beautiful. So this is the sound of Valhalla.\" -Oborozuki",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3976",
+   "name": "Power of Immortality",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3976/image_en/287f2fc1-eea9-4216-9098-9d88bb57224b.jpg",
+   "number": "SNV-095",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 1)",
+   "artist": "IWAO",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Corruption only strengthens the undead.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3977",
+   "name": "Ruined Earth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3977/image_en/13b5762b-4164-4d6a-9d20-09edb1aa3f0d.jpg",
+   "number": "SNV-096",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "type": "Chant/Rune(Divinity 2)",
+   "artist": "jitari",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "The liberator's nature influenced the sealed god's power, corrupting Athenia's power of harvest into something new, something... impure.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3978",
+   "name": "Ruins Devil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3978/image_en/24358672-294d-4d77-b651-7906ae95360f.jpg",
+   "number": "SNV-097",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1000 / 600",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "touge369",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "These little devils love doing what others hate.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3979",
+   "name": "Sewing Zombie",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3979/image_en/c08ca908-3ca9-4ab1-b73f-980398880611.jpg",
+   "number": "SNV-098",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Zombie",
+   "artist": "JURI",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Memories from life prove most helpful in death.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3980",
+   "name": "Soul Prison",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3980/image_en/af274b68-41ae-480b-a5a3-82594f268813.jpg",
+   "number": "SNV-099",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant/Master Rune(Divinity 3)",
+   "artist": "j-peg",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Only hatred can unlock this prison.",
+   "all_sets": "The Strangers of New Valhalla"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/3981",
+   "name": "Specter of the Abyss",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/39/3981/image_en/dc315f6c-31d6-4937-87a8-5a7e53d2d1e7.jpg",
+   "number": "SNV-100",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 600",
+   "type": "Resonator",
+   "race": "Specter",
+   "artist": "gekko",
+   "expansion": "The Strangers of New Valhalla",
+   "flavor_text": "Specters are the rulers of the night.",
+   "all_sets": "The Strangers of New Valhalla"
+  }
+ ]
+}

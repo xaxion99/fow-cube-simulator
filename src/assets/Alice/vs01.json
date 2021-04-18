@@ -1,0 +1,730 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/612",
+   "name": "Blessed Holy Wolf",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/612/image_en/1485234003.jpg",
+   "number": "VS01-001",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Holy Beast",
+   "artist": "瞬く",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ You may destroy target addition.",
+   "flavor_text": "The kingdom offers its blessing to anyone and wolves aren’t an exception. These sacred beasts are allied with us in the protection of the kingdom.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/613",
+   "name": "Excalibur, the God's Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/613/image_en/1485234004.jpg",
+   "number": "VS01-002",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "猫囃子",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "flavor_text": "The sword destined to the chosen one.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/614",
+   "name": "Faria, the Sacred Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/614/image_en/1485234006.jpg",
+   "number": "VS01-003",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Kings",
+   "artist": "猫囃子",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\n[W][W]: You gain 200 life.",
+   "flavor_text": "The Sacred Queen Faria, the one who ruled upon Gloria, The Holy Land, was a honest and pure person. Her servants' loyalty to her was supreme. She hated the war, but the people of Gloria thought that she was the most suitable to rule the Seven Kingdoms.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/615",
+   "name": "Faria, the Ruler of God Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/615/image_en/1485234008.jpg",
+   "number": "VS01-003Ｊ",
+   "rarity": "JR",
+   "att_def": "800 / 800",
+   "type": "J-Ruler",
+   "race": "Seven Kings",
+   "artist": "猫囃子",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\nGod's Art [W][W][4]: Recover all resonators you control. Play God's Art only once per game.",
+   "flavor_text": "“Sacred Sword that resonates with the spirit of the hero, grant me your power!”",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/616",
+   "name": "Galahad, the Son of the God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/616/image_en/1485234010.jpg",
+   "number": "VS01-004",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "touge３６９",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.",
+   "flavor_text": "\"Galahad was recognized as the greatest knight of King Arthur.\" —Tales of King Arthur",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/617",
+   "name": "Gawain, the Knight of the Sun",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/617/image_en/1485234011.jpg",
+   "number": "VS01-005",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 700",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "松本エイト",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
+   "flavor_text": "\"I failed to protect my ruler in the past. In this world, I'll protect you at any cost.\"",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/618",
+   "name": "Gloria's Castle Town",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/618/image_en/1485234014.jpg",
+   "number": "VS01-006",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Castle",
+   "artist": "Fushikaden K.K.",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
+   "flavor_text": "Gloria lived a period of high prosperity under the guidance of the Sacred Queen.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/619",
+   "name": "Gwiber, the White Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/61/619/image_en/1485234016.jpg",
+   "number": "VS01-007",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "kakotomirai",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Continuous\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
+   "flavor_text": "It’s the incarnation of the ideals.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/620",
+   "name": "Herald of Sacred Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/620/image_en/1485234017.jpg",
+   "number": "VS01-008",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Soldier",
+   "artist": "すばる",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card named \"Herald of Sacred Queen\", reveal it and put it into your hand. Then shuffle your deck.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/621",
+   "name": "Justice of God's Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/621/image_en/1485234018.jpg",
+   "number": "VS01-009",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "みえ",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "flavor_text": "\"Invaders! I'll cut you in two!\"",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/622",
+   "name": "Order of Sacred Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/622/image_en/1485234019.jpg",
+   "number": "VS01-010",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Cola",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "flavor_text": "The ruler’s words inspire anyone who is faithful to her.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/623",
+   "name": "Perceval, the Seeker of Holy Grail",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/623/image_en/1485234021.jpg",
+   "number": "VS01-011",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "城戸春一",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\nBanish this card: Prevent all damage that would be dealt to target J-ruler or Knight of the Round Table until end of turn.",
+   "flavor_text": "To her, this is the beginning of a new search for the Grail.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/624",
+   "name": "Pride of Knights",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/624/image_en/1485234022.jpg",
+   "number": "VS01-012",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gozz",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "flavor_text": "\"I won't surrender!\" —Faria, the Sacred Queen",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/625",
+   "name": "Temple Monk",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/625/image_en/1485234023.jpg",
+   "number": "VS01-013",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Bishop",
+   "artist": "おつまみ",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ You gain 400 life.",
+   "flavor_text": "\"Not only the body, but even the spirit is healed.\"",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/626",
+   "name": "Tristan, the Knight of Sorrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/626/image_en/1485234025.jpg",
+   "number": "VS01-014",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "ハタリス",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhenever this card attacks ⇒ Resonators you control gain [+100/0] until end of turn.",
+   "flavor_text": "The sad man can be both strong and kind.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/627",
+   "name": "Veteran Master",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/627/image_en/1485234027.jpg",
+   "number": "VS01-015",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "見田航介",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\n[Rest]: Target resonator with total cost 2 or less gains [+200/+200] until end of turn.",
+   "flavor_text": "The kingdom of Gloria, like all the seven kingdoms, used to practice conscription, as many countries aspired to expand their territories.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/628",
+   "name": "Young Knight of Gloria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/628/image_en/1485234029.jpg",
+   "number": "VS01-016",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "サウマロ",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "flavor_text": "They proudly serve their lord, and fight to the last to protect Gloria. Anything else would be unfitting of a knight.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/629",
+   "name": "Certo, the Blazing Volcano",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/62/629/image_en/1485234030.jpg",
+   "number": "VS01-017",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition: Field",
+   "race": "Mountain",
+   "artist": "Cola",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
+   "flavor_text": "The volcano is the future. Only the chosen ones will survive.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/630",
+   "name": "Demonflame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/630/image_en/1485234032.jpg",
+   "number": "VS01-018",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Ｎａｇｉにゃん",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "flavor_text": "\"Burn!\" -Melgis, the Flame King",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/631",
+   "name": "Dragoon of Certo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/631/image_en/1485234033.jpg",
+   "number": "VS01-019",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Knight",
+   "artist": "今野隼史",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "flavor_text": "A kingdom based on strength will have an absolute loyalty imposed by law. Obviously if the strength will be lost, everything would collapse.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/632",
+   "name": "Draig, the Red Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/632/image_en/1485234034.jpg",
+   "number": "VS01-020",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "kakotomirai",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Continuous\nYou may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.",
+   "flavor_text": "Reality will break the symbol.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/633",
+   "name": "Flame King's Shout",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/633/image_en/1485234036.jpg",
+   "number": "VS01-021",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "サウマロ",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "flavor_text": "His cry shakes the earth and spurs whoever desires war.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/634",
+   "name": "Flamewing Wyvern",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/634/image_en/1485234038.jpg",
+   "number": "VS01-022",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "七海ルシア",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\n[R]: This card gains [+200/0] until end of turn.",
+   "flavor_text": "The fact that dragons breathe fire is useful in battle, but makes it difficult to tame them.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/635",
+   "name": "Flash of Demon Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/635/image_en/1485234040.jpg",
+   "number": "VS01-023",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "小泉哲哉",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "flavor_text": "\"Let the weak be squashed!\"",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/636",
+   "name": "Guinevere, the Jealous Queen",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/636/image_en/1485234043.jpg",
+   "number": "VS01-024",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "200 / 400",
+   "type": "Resonator",
+   "race": "Queen",
+   "artist": "fzwrAym",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\n[R], [rest]: Target resonator you control gains [+400/+400] until end of turn. When it deals or is dealt damage this turn, banish it.",
+   "flavor_text": "\"Oh, seems I made another mistake...please bring me the next one.\"",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/637",
+   "name": "Hector de Maris, the Acolyte of Mad Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/637/image_en/1485234044.jpg",
+   "number": "VS01-025",
+   "rarity": "U",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "ハタリス",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [+400/0] until end of turn.",
+   "flavor_text": "\"This world? I don't care. I'll follow Lancelot anywhere, come what may.\"",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/638",
+   "name": "Laevateinn, the Demon Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/638/image_en/1485234046.jpg",
+   "number": "VS01-026",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/00.png"
+    }
+   ],
+   "type": "Regalia",
+   "artist": "douzen",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "flavor_text": "The sword destined to those who crave power.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/639",
+   "name": "Lancelot, the Knight of Mad Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/63/639/image_en/1485234047.jpg",
+   "number": "VS01-027",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "石商",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\n[R]: This card gains [+100/0] until end of turn.",
+   "flavor_text": "The nature of a summoned hero depends on the nature of the summoner. The power of the demon sword changed him into a cruel knight.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/640",
+   "name": "Melgis, the Flame King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/640/image_en/1485234049.jpg",
+   "number": "VS01-028",
+   "rarity": "R",
+   "type": "Ruler",
+   "race": "Seven Kings",
+   "artist": "douzen",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\n[R][R]: This card deals 200 damage to target opponent.",
+   "flavor_text": "The top of the big volcano is occupied by the Kingdom of Certo, ruled by the Flame King. On this desolate land, the kingdom survives thanks to war, getting resources from other countries. For this reason, Certo needs an extremely strong ruler.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/641",
+   "name": "Melgis, the One Charmed by the Demon Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/641/image_en/1485234051.jpg",
+   "number": "VS01-028Ｊ",
+   "rarity": "JR",
+   "att_def": "1000 / 500",
+   "type": "J-Ruler",
+   "race": "Seven Kings",
+   "artist": "douzen",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\nGod's Art [R][R][4]: Destroy target resonator. This card gains [+X/0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art only once per game.",
+   "flavor_text": "\"Cursed sword, take my anger and give me your strength.\"",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/642",
+   "name": "Mordred, the Traitor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/642/image_en/1485234053.jpg",
+   "number": "VS01-029",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Knight of the Round Table",
+   "artist": "Mad",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhenever this card attacks ⇒ You may banish another resonator. If you do, this card deals 1000 damage to target resonator.",
+   "flavor_text": "Rebellious to any authority.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/643",
+   "name": "Rukh Egg",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/643/image_en/1485234054.jpg",
+   "number": "VS01-030",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "0 / 200",
+   "type": "Resonator",
+   "race": "Egg",
+   "artist": "白野椋",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a fire resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Soldiers of Certo often go pick up eggs to get food, but some of them become food themselves for what is born from these eggs.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/644",
+   "name": "Spirit of Certo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/644/image_en/1485234055.jpg",
+   "number": "VS01-031",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "900 / 400",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "森野ヒロ",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "flavor_text": "The power of the cursed sword has shaped the flame giving it birth.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/645",
+   "name": "Whelp Drake",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/645/image_en/1485234056.jpg",
+   "number": "VS01-032",
+   "rarity": "C",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "佐久間さのすけ",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.",
+   "flavor_text": "Despite their little bodies, baby dragons are extremely combative.",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/646",
+   "name": "Fire Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/646/image_en/1485234058.jpg",
+   "number": "VS01-033",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "kawaryu",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\n[rest]: Produce [R].",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  },
+  {
+   "url": "http://www.fowtcg.com/card/647",
+   "name": "Light Magic Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/64/647/image_en/1485234060.jpg",
+   "number": "VS01-034",
+   "rarity": "C",
+   "type": "Basic Magic Stone",
+   "artist": "佐々木光之介",
+   "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
+   "text": "Activate\n[rest]: Produce [W].",
+   "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
+  }
+ ]
+}
