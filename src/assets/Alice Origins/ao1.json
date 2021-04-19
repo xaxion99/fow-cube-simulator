@@ -16,7 +16,7 @@
    "race": "Knight of the Round Table",
    "artist": "Mad",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[W]: Target resonator gains [Barrier](R) and [Barrier](D) until end of turn.",
+   "text": "Activate\n\n[W]: Target resonator gains [Barrier](R) and [Barrier](D) until end of turn.",
    "flavor_text": "He faces up squarely to all evils.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -39,7 +39,7 @@
    "race": "Holy Beast",
    "artist": "matataku",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may destroy target addition.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may destroy target addition.",
    "flavor_text": "The kingdom offers its blessing to anyone and wolves aren’t an exception. These sacred beasts are allied with us in the protection of the kingdom.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -62,7 +62,7 @@
    "race": "Knight of the Round Table",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhen this card enters your field or attacks ⇒ Target Knight of the Round Table gains [+400/+400] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field or attacks ⇒ Target Knight of the Round Table gains [+400/+400] until end of turn.",
    "flavor_text": "Ever seeking to do good, even in strange lands.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -85,7 +85,7 @@
    "race": "Knight of the Round Table",
    "artist": "touge369",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.",
    "flavor_text": "\"Galahad was recognized as the greatest knight of King Arthur.\" —Tales of King Arthur",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -107,7 +107,7 @@
    "race": "Castle",
    "artist": "Fushikaden K.K.",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
+   "text": "Automatic\n\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
    "flavor_text": "Gloria lived a period of high prosperity under the guidance of the Sacred Queen.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -130,7 +130,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
+   "text": "Continuous\n\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
    "flavor_text": "It’s the incarnation of the ideals.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -153,7 +153,7 @@
    "race": "Twelve Protective Deities",
    "artist": "sakura moyon",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[W][W][R], discard this card: Put target resonator with total cost 3 or less from your graveyard into the field.",
+   "text": "Activate\n\n[W][W][R], discard this card: Put target resonator with total cost 3 or less from your graveyard into the field.",
    "flavor_text": "It's a thin line between salvation and devastation, even for the gods.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -173,7 +173,7 @@
    "race": "Priest",
    "artist": "Yukie TAJIMA",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nWhenever another resonator enters your field ⇒ You gain 200 life.",
+   "text": "Continuous\n\nWhenever another resonator enters your field ⇒ You gain 200 life.",
    "flavor_text": "The wheel of life turns and turns.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -223,7 +223,7 @@
    "race": "Twelve Protective Deities",
    "artist": "douzen",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[W][R], put this card from your hand into your Stranger deck: Choose a card from your Stranger deck at random and put it into your hand.",
+   "text": "Activate\n\n[W][R], put this card from your hand into your Stranger deck: Choose a card from your Stranger deck at random and put it into your hand.",
    "flavor_text": "The symbol of reincarnation.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -295,7 +295,7 @@
    "race": "Wizard/Cat",
    "artist": "Misa Tsutsui",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[Rest]: Look at the top card of your deck. You may remove it from the game.",
+   "text": "Activate\n\n[Rest]: Look at the top card of your deck. You may remove it from the game.",
    "flavor_text": "\"Lenneth, thanks for supporting me-ow.\"",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -313,7 +313,7 @@
    "type": "Addition",
    "artist": "jitari",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhen this card leaves the field ⇒ Put a card from a removed area that was removed by this card into the field under its owner's control.",
+   "text": "Automatic\n\nWhen this card leaves the field ⇒ Put a card from a removed area that was removed by this card into the field under its owner's control.",
    "flavor_text": "\"Seal!\" -Lenneth, the Priestess of Vell-Savaria",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -333,7 +333,7 @@
    "race": "Fairy",
    "artist": "ShiroYayoi",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Look at the top card of your deck. If it is a Goddess, reveal it, and put it into your hand. Otherwise, put it on the top or bottom of your deck.",
+   "text": "Automatic\n\n[Enter] ⇒ Look at the top card of your deck. If it is a Goddess, reveal it, and put it into your hand. Otherwise, put it on the top or bottom of your deck.",
    "flavor_text": "Searching for the goddess, this fairy loves nothing more than to play and to fly.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -353,7 +353,7 @@
    "race": "Spirit",
    "artist": "Nakaba Higurashi",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nThis card gains [+100/+100] for each card named \"Spirit of Memory\" in your removed area.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each card named \"Spirit of Memory\" in your removed area.",
    "flavor_text": "The truth lies in the memory.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -373,7 +373,7 @@
    "race": "Demon",
    "artist": "Haruichi Kido",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Rest all other J/resonators.",
+   "text": "Automatic\n\n[Enter] ⇒ Rest all other J/resonators.",
    "flavor_text": "\"Grovel, guys!\"",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -399,7 +399,7 @@
    "race": "Dragon",
    "artist": "Yuu Fujiki",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\n[Awakening][R][1]: [Enter] ⇒ This card gains [Swiftness] until end of turn. At the next end of turn ⇒ Its controller banishes it.",
+   "text": "Automatic\n\n[Awakening][R][1]: [Enter] ⇒ This card gains [Swiftness] until end of turn. At the next end of turn ⇒ Its controller banishes it.",
    "flavor_text": "Reckless rush.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -441,7 +441,7 @@
    "race": "Mountain",
    "artist": "Cola",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
    "flavor_text": "The volcano is the future. Only the chosen ones will survive.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -464,7 +464,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nYou may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.",
    "flavor_text": "Reality will break the symbol.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -484,7 +484,7 @@
    "race": "Demon",
    "artist": "bambi kojo",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[R], banish this card: Target resonator gains [+400/0] until end of turn.",
+   "text": "Activate\n\n[R], banish this card: Target resonator gains [+400/0] until end of turn.",
    "flavor_text": "\"This sensation... it's as if I had already felt it.\" -Alice, the Girl in the Looking Glass",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -504,7 +504,7 @@
    "race": "Beast",
    "artist": "Kelvin",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ This card may deal 400 damage to you. If it does, this card gains [+100/0] and [Swiftness] until end of turn.",
+   "text": "Automatic\n\n[Enter] ⇒ This card may deal 400 damage to you. If it does, this card gains [+100/0] and [Swiftness] until end of turn.",
    "flavor_text": "Its heat can be felt directly.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -530,7 +530,7 @@
    "race": "Knight of the Round Table",
    "artist": "ORETO",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nIf this card would be dealt 700 or less damage, prevent it.",
+   "text": "Continuous\n\nIf this card would be dealt 700 or less damage, prevent it.",
    "flavor_text": "A body sustained by an indomitable spirit.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -550,7 +550,7 @@
    "race": "Heroic Spirit",
    "artist": "touge369",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\nRemove this card in your hand from the game: This card deals 200 damage to target resonator.",
+   "text": "Activate\n\nRemove this card in your hand from the game: This card deals 200 damage to target resonator.",
    "flavor_text": "These memories from another world were pulled to Vell-Savaria and became its spirit guardians.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -591,7 +591,7 @@
    "race": "Goddess",
    "artist": "ShiroYayoi",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Swiftness].",
+   "text": "Continuous\n\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Swiftness].",
    "flavor_text": "...The future shall be erased.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -614,7 +614,7 @@
    "race": "Goddess",
    "artist": "ShiroYayoi",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Precision].",
+   "text": "Continuous\n\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Precision].",
    "flavor_text": "When the past is sealed...",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -634,7 +634,7 @@
    "race": "Goddess",
    "artist": "ShiroYayoi",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nAs long as there are ten or more cards in your removed area, this card gains [+900/+900] and [First Strike].",
+   "text": "Continuous\n\nAs long as there are ten or more cards in your removed area, this card gains [+900/+900] and [First Strike].",
    "flavor_text": "...And the present lies scorched...",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -689,7 +689,7 @@
    "race": "Egg",
    "artist": "Shirono Muku",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a fire resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a fire resonator, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Soldiers of Certo often go pick up eggs to get food, but some of them become food themselves for what is born from these eggs.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -707,7 +707,7 @@
    "type": "Addition: Field",
    "artist": "gozz",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[rest]: This card deals 200 damage to each resonator. Play this ability only if you control a resonator.",
+   "text": "Activate\n\n[rest]: This card deals 200 damage to each resonator. Play this ability only if you control a resonator.",
    "flavor_text": "The battle that took place here years ago between Melgis and Volga ended in an instant.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -764,7 +764,7 @@
    "race": "Dragon",
    "artist": "Sanosuke Sakuma",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.",
    "flavor_text": "Despite their little bodies, baby dragons are extremely combative.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -784,7 +784,7 @@
    "race": "Soldier",
    "artist": "Haruichi Kido",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
    "flavor_text": "Once Alice summoned another soldier from the Ancient Treasure, she began her preparations for the incoming war.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -828,7 +828,7 @@
    "race": "Dragon",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Draw two cards.",
+   "text": "Automatic\n\n[Enter] ⇒ Draw two cards.",
    "flavor_text": "Water carries blessings.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -851,7 +851,7 @@
    "race": "Five Heroes",
    "artist": "Yukie TAJIMA",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Switch the control of this card and target resonator your opponent controls.",
+   "text": "Automatic\n\n[Enter] ⇒ Switch the control of this card and target resonator your opponent controls.",
    "flavor_text": "\"Hahaha, am I an ally? Or am I a foe?\"",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -877,7 +877,7 @@
    "race": "Fallen Angel/Deity",
    "artist": "Nem",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nAt the beginning of each player's turn ⇒ That player banishes a non-Fallen Angel resonator.",
+   "text": "Automatic\n\nAt the beginning of each player's turn ⇒ That player banishes a non-Fallen Angel resonator.",
    "flavor_text": "Her smile is certain doom.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -897,7 +897,7 @@
    "race": "Shadow/Soldier",
    "artist": "tokiwa",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\nBanish this card: Target resonator gains [-200/-200] until end of turn.",
+   "text": "Activate\n\nBanish this card: Target resonator gains [-200/-200] until end of turn.",
    "flavor_text": "Even if this warrior should vanish, the shadow of the blade shall still find its mark.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -936,7 +936,7 @@
    "race": "Human",
    "artist": "BANAMONS*",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[0], reveal this card from your hand: Put it on top of your deck or into your graveyard, or remove it from the game.",
+   "text": "Activate\n\n[0], reveal this card from your hand: Put it on top of your deck or into your graveyard, or remove it from the game.",
    "flavor_text": "Invading Vell-Savaria was the first step of Alisaris' plan.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -959,7 +959,7 @@
    "race": "Deity",
    "artist": "MOGUMO",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nYou may pay [1] less to play light or fire resonators.",
+   "text": "Continuous\n\nYou may pay [1] less to play light or fire resonators.",
    "flavor_text": "The Sacred Text illuminates the way to salvation.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -985,7 +985,7 @@
    "race": "Twelve Protective Deities/Goddess",
    "artist": "yuko",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[R]: This card deals 100 damage for each [+100/+100] counter on this card to target J/resonator.",
+   "text": "Activate\n\n[R]: This card deals 100 damage for each [+100/+100] counter on this card to target J/resonator.",
    "flavor_text": "\"Please protect us and the city.\" -Lenneth, the Priestess of Vell-Savaria",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1008,7 +1008,7 @@
    "race": "Demon",
    "artist": "Hatori Kyoka",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[R]: Target J/resonator must attack or block this turn if able.",
+   "text": "Activate\n\n[R]: Target J/resonator must attack or block this turn if able.",
    "flavor_text": "\"Charge till you die!\"",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1037,7 +1037,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Target J/resonator your opponent controls loses all abilities until end of turn. Then destroy it. If a J-ruler was destroyed this way, the ruler your opponent controls loses all abilities until end of game.",
+   "text": "Automatic\n\n[Enter] ⇒ Target J/resonator your opponent controls loses all abilities until end of turn. Then destroy it. If a J-ruler was destroyed this way, the ruler your opponent controls loses all abilities until end of game.",
    "flavor_text": "Blazer is hiding, waiting for the time of slaughter.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1058,7 +1058,7 @@
    "type": "Regalia",
    "artist": "Kusanagi Tyouen",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[Rest]: Produce two wills in any combination of [W] and/or [R]. Spend this will only to play (Strangers), Mage Arts, or activate abilities of Twelve Protective Deities.",
+   "text": "Activate\n\n[Rest]: Produce two wills in any combination of [W] and/or [R]. Spend this will only to play (Strangers), Mage Arts, or activate abilities of Twelve Protective Deities.",
    "flavor_text": "When memories were moved from Yggdrasil to the regalia, Caduceus received the memory of a hero.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1126,7 +1126,7 @@
    "race": "Dragon",
    "artist": "noki",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhenever a card named \"Shakti, the Red Eyes Swords Master\" enters the field under your control ⇒ You may pay 400 life. If you do, put this card from your graveyard into your hand.",
+   "text": "Automatic\n\nWhenever a card named \"Shakti, the Red Eyes Swords Master\" enters the field under your control ⇒ You may pay 400 life. If you do, put this card from your graveyard into your hand.",
    "flavor_text": "This small dragon delivered to Shakti the sad news that her father Volga was slain.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1149,7 +1149,7 @@
    "race": "Twelve Protective Deities/Dragon",
    "artist": "iwao",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nThis card gains [Eternal] and [Pierce], as long as there are twenty or more [+100/+100] counters on it.",
+   "text": "Continuous\n\nThis card gains [Eternal] and [Pierce], as long as there are twenty or more [+100/+100] counters on it.",
    "flavor_text": "It is always eating and growing, there is no turning back.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1205,7 +1205,7 @@
    "race": "Goddess",
    "artist": "Nem",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Put a non-(Stranger) resonator from your graveyard into the field.",
+   "text": "Automatic\n\n[Enter] ⇒ Put a non-(Stranger) resonator from your graveyard into the field.",
    "flavor_text": "The tears of kindness drip into the Nether Fountain.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1228,7 +1228,7 @@
    "race": "Knight of the Round Table",
    "artist": "ComamitsuZaki",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nRegalias you control gain [Barrier].",
+   "text": "Continuous\n\nRegalias you control gain [Barrier].",
    "flavor_text": "Guided by Excalibur, the knights came to Gloria.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1254,7 +1254,7 @@
    "race": "Five Heroes",
    "artist": "Nekobayashi",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Continuous\nYou may pay the attribute cost of Five Hero cards with light will.",
+   "text": "Continuous\n\nYou may pay the attribute cost of Five Hero cards with light will.",
    "flavor_text": "Lars travels to Vell-Savaria, to seek aid for her sister Charlotte.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1319,7 +1319,7 @@
    "race": "Twelve Protective Deities/Beast",
    "artist": "jugemt",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[W][W][R][R]: Put this card from your graveyard or removed area into the field.",
+   "text": "Activate\n\n[W][W][R][R]: Put this card from your graveyard or removed area into the field.",
    "flavor_text": "The fire of the phoenix burns forever.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1342,7 +1342,7 @@
    "race": "Five Heroes",
    "artist": "Pisuke",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhenever you play a Sword Art ⇒ Copy it. You may choose new targets for the copy.",
+   "text": "Automatic\n\nWhenever you play a Sword Art ⇒ Copy it. You may choose new targets for the copy.",
    "flavor_text": "\"This sword should be good enough, at first glance.\"",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1363,7 +1363,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[W][R]: Put two [+100/+100] counters on target Goddess resonator.",
+   "text": "Activate\n\n[W][R]: Put two [+100/+100] counters on target Goddess resonator.",
    "flavor_text": "The voices from the past, present, and future will never stop in this palace.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1386,7 +1386,7 @@
    "race": "Deity",
    "artist": "xinzan",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[R]: This card gains [+200/0] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [+200/0] until end of turn.",
    "flavor_text": "The impact of destruction hits the battlefield like lightning.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1428,7 +1428,7 @@
    "type": "Addition",
    "artist": "kotakan",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Put target regalia from your graveyard into your hand.",
+   "text": "Automatic\n\n[Enter] ⇒ Put target regalia from your graveyard into your hand.",
    "flavor_text": "Where the legend of the regalia was born.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1441,7 +1441,7 @@
    "type": "Special Magic Stone",
    "artist": "Yuko Nagasaki",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Activate\n[rest]: Produce [W] or [R].",
+   "text": "Activate\n\n[rest]: Produce [W] or [R].",
    "flavor_text": "A piercing gleam of blinding light; An incandescent glow that cannot be touched.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1455,7 +1455,7 @@
    "race": "Priest",
    "artist": "SIE NANAHARA",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhenever a light regalia enters the field under your control ⇒ Choose one, if the regalia is \"Caduceus\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or remove the top card of your deck from the game. Then draw a card; or remove target resonator with total cost 1 or less from the game; or you may pay [0] to do judgment until end of turn.",
+   "text": "Automatic\n\nWhenever a light regalia enters the field under your control ⇒ Choose one, if the regalia is \"Caduceus\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or remove the top card of your deck from the game. Then draw a card; or remove target resonator with total cost 1 or less from the game; or you may pay [0] to do judgment until end of turn.",
    "flavor_text": "Arriving in Vell-Savaria with a lost memory, she then became a container for the memories of this world.",
    "all_sets": "Alice Origin 1st Booster Pack"
   },
@@ -1469,7 +1469,7 @@
    "race": "Priest",
    "artist": "SIE NANAHARA",
    "expansion": "Alice Origin 1st Booster Pack",
-   "text": "Automatic\nWhenever a light regalia enters the field under your control ⇒ Choose one, if the regalia is \"Caduceus\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or remove the top card of your deck from the game. Then draw a card; or remove target resonator with total cost 1 or less from the game; or you may pay [0] to do judgment until end of turn.",
+   "text": "Automatic\n\nWhenever a light regalia enters the field under your control ⇒ Choose one, if the regalia is \"Caduceus\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or remove the top card of your deck from the game. Then draw a card; or remove target resonator with total cost 1 or less from the game; or you may pay [0] to do judgment until end of turn.",
    "flavor_text": "Arriving in Vell-Savaria with a lost memory, she then became a container for the memories of this world.",
    "all_sets": "Alice Origin 1st Booster Pack"
   }

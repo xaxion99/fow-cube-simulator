@@ -19,7 +19,7 @@
    "race": "Fairy Tale",
    "artist": "乃希",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: You gain 200 life.",
+   "text": "Activate\n\n[rest]: You gain 200 life.",
    "flavor_text": "As his confectionary skills rose, so did his concerns for Gretel.",
    "all_sets": "Starter Deck"
   },
@@ -40,7 +40,7 @@
    "type": "Addition",
    "artist": "mie",
    "expansion": "Starter Deck",
-   "text": "Automatic\nAt the end of your turn ⇒ Recover target Fairy Tale or Human J/resonator you control.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Recover target Fairy Tale or Human J/resonator you control.",
    "flavor_text": "The Light Palace brought an age of prosperity, but attracted a new threat.",
    "all_sets": "Starter Deck"
   },
@@ -63,7 +63,7 @@
    "race": "Fairy Tale",
    "artist": "乃希",
    "expansion": "Starter Deck",
-   "text": "Continuous\nPrevent the first damage that would be dealt to this card each turn.",
+   "text": "Continuous\n\nPrevent the first damage that would be dealt to this card each turn.",
    "flavor_text": "Happiness is a prosperous heart and stomach.",
    "all_sets": "Starter Deck"
   },
@@ -89,7 +89,7 @@
    "race": "Human",
    "artist": "城戸春一",
    "expansion": "Starter Deck",
-   "text": "Activate\n[W]: [Force]1. Fairy Tale and Human J/resonators you control gain [+X00/+X00] until end of turn, where X is the result of the roll. Play this ability only once per turn.",
+   "text": "Activate\n\n[W]: [Force]1. Fairy Tale and Human J/resonators you control gain [+X00/+X00] until end of turn, where X is the result of the roll. Play this ability only once per turn.",
    "flavor_text": "Whether in the Light Palace or the fairy tale world, not a sole is ignorant of his deeds.",
    "all_sets": "Starter Deck"
   },
@@ -109,7 +109,7 @@
    "race": "Fairy Tale",
    "artist": "ケルビン",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters your field ⇒ [Force]1 (Roll a die.) Put X [+100/+100] counters on this card, where X is the result of the roll.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ [Force]1 (Roll a die.) Put X [+100/+100] counters on this card, where X is the result of the roll.",
    "flavor_text": "Whether it was a new power or the cat's own abilities, no one was certain.",
    "all_sets": "Starter Deck"
   },
@@ -132,7 +132,7 @@
    "race": "Fairy Tale",
    "artist": "弥生しろ",
    "expansion": "Starter Deck",
-   "text": "Activate\nRest a recovered resonator you control: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\nRest a recovered resonator you control: This card gains [Flying] until end of turn.",
    "flavor_text": "\"This time, I'll show you the true stairway to the sky.\"",
    "all_sets": "Starter Deck"
   },
@@ -183,7 +183,7 @@
    "race": "Human",
    "artist": "城戸春一",
    "expansion": "Starter Deck",
-   "text": "Continuous\nYou may pay the attribute cost of Fairy Tale resonators with light will.",
+   "text": "Continuous\n\nYou may pay the attribute cost of Fairy Tale resonators with light will.",
    "flavor_text": "The child of Grimm, and prince of the kingdom. Millium fights alongside fairy tales, as friends.",
    "all_sets": "Starter Deck"
   },
@@ -198,7 +198,7 @@
    "race": "Human",
    "artist": "城戸春一",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhenever this card attacks or blocks ⇒ [Force]1 (Roll a die.) Put X [+100/+100] counters on this card, where X is the result of the roll.",
+   "text": "Automatic\n\nWhenever this card attacks or blocks ⇒ [Force]1 (Roll a die.) Put X [+100/+100] counters on this card, where X is the result of the roll.",
    "flavor_text": "The item Lunya brought proved to be unstable at first, but in time its true power revealed itself.",
    "all_sets": "Starter Deck"
   },
@@ -238,7 +238,7 @@
    "race": "Fairy Tale/Fairy",
    "artist": "ケルビン",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [+200/+200] for each other Fairy Tale resonator you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each other Fairy Tale resonator you control.",
    "flavor_text": "\"Hey there! It's been a while! Huh? Grimm, when did you turn back into a kid?\"",
    "all_sets": "Starter Deck"
   },
@@ -251,7 +251,7 @@
    "type": "Basic Magic Stone",
    "artist": "坂井結城",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Starter Deck"
   },
   {
@@ -287,7 +287,7 @@
    "race": "Cthulhu",
    "artist": "SIGMAN",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card cannot attack your opponent.",
+   "text": "Continuous\n\nThis card cannot attack your opponent.",
    "flavor_text": "\"What are you doing? Go after them!\" -Nyarlathotep, the True False Legend",
    "all_sets": "Starter Deck"
   },
@@ -329,7 +329,7 @@
    "race": "Goat",
    "artist": "田島幸枝",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [+200/+200] as long as you control a Cthulhu J/resonator.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as you control a Cthulhu J/resonator.",
    "flavor_text": "It's said the goats of those hills are hiding something.",
    "all_sets": "Starter Deck"
   },
@@ -355,7 +355,7 @@
    "race": "Human/Cthulhu",
    "artist": "下江クリス",
    "expansion": "Starter Deck",
-   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
+   "text": "Automatic\n\nAt end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
    "flavor_text": "In an explosion of power, the humans temporarily reverted to cthulhu.",
    "all_sets": "Starter Deck"
   },
@@ -386,7 +386,7 @@
    "race": "Human",
    "artist": "夕子",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhenever a resonator you control attacks ⇒ This card deals 100 damage to target resonator.",
+   "text": "Automatic\n\nWhenever a resonator you control attacks ⇒ This card deals 100 damage to target resonator.",
    "flavor_text": "\"I know where Lumia is! No lie, honest!\" the girl exclaimed as she burst into the Light Palace.",
    "all_sets": "Starter Deck"
   },
@@ -401,7 +401,7 @@
    "race": "Human/Cthulhu",
    "artist": "夕子",
    "expansion": "Starter Deck",
-   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, put it into your ruler area, as a ruler.",
+   "text": "Automatic\n\nAt end of turn ⇒ If there are no limit counters on this card, put it into your ruler area, as a ruler.",
    "flavor_text": "\"Hehehe, not to worry. This time I really am going to help.\"",
    "all_sets": "Starter Deck"
   },
@@ -424,7 +424,7 @@
    "race": "Wolf",
    "artist": "夕子",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters your field ⇒ Target J/resonator gains [+200/0] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Target J/resonator gains [+200/0] until end of turn.",
    "flavor_text": "The lying girl's best friend.",
    "all_sets": "Starter Deck"
   },
@@ -450,7 +450,7 @@
    "race": "Human/Cthulhu",
    "artist": "田島幸枝",
    "expansion": "Starter Deck",
-   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
+   "text": "Automatic\n\nAt end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
    "flavor_text": "\"One goat, Two goats, Three goats. Huh? One's missing. Did someone eat one?\"",
    "all_sets": "Starter Deck"
   },
@@ -494,7 +494,7 @@
    "type": "Addition",
    "artist": "七海ルシア",
    "expansion": "Starter Deck",
-   "text": "Continuous\nCthulhu J/resonators you control gain [+200/+200].",
+   "text": "Continuous\n\nCthulhu J/resonators you control gain [+200/+200].",
    "flavor_text": "The insincere are devoured.",
    "all_sets": "Starter Deck"
   },
@@ -507,7 +507,7 @@
    "type": "Basic Magic Stone",
    "artist": "gozz",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Starter Deck"
   },
   {
@@ -527,7 +527,7 @@
    "type": "Addition",
    "artist": "下江クリス",
    "expansion": "Starter Deck",
-   "text": "Activate\n[U]: Return this card to its owner's hand.",
+   "text": "Activate\n\n[U]: Return this card to its owner's hand.",
    "flavor_text": "That icy casket holds all who open it.",
    "all_sets": "Starter Deck"
   },
@@ -574,7 +574,7 @@
    "race": "Seven Luminaries Demon",
    "artist": "長崎祐子",
    "expansion": "Starter Deck",
-   "text": "Activate\n[U][U]: Return this card to its owner's hand.",
+   "text": "Activate\n\n[U][U]: Return this card to its owner's hand.",
    "flavor_text": "The demon acts as a catalyst for magic power, strengthening Mercurius' weapon.",
    "all_sets": "Starter Deck"
   },
@@ -600,7 +600,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Starter Deck",
-   "text": "Continuous\nYou may pay [1] less to play this card for each card in your hand.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each card in your hand.",
    "flavor_text": "Its roar heralds a menacing invasion.",
    "all_sets": "Starter Deck"
   },
@@ -620,7 +620,7 @@
    "race": "Ancient/Automaton",
    "artist": "Mがんぢー",
    "expansion": "Starter Deck",
-   "text": "Continuous\nAdditions you control gain [Barrier]. (Cards you control with [Barrier] cannot be targeted by spells or abilities your opponent controls.)",
+   "text": "Continuous\n\nAdditions you control gain [Barrier]. (Cards you control with [Barrier] cannot be targeted by spells or abilities your opponent controls.)",
    "flavor_text": "\"Be careful, Millium. It'll be bad if we're caught by that guardian. Hey! I'm serious!\" -Lunya, the Wolf Girl",
    "all_sets": "Starter Deck"
   },
@@ -652,7 +652,7 @@
    "race": "Seven Luminaries Mage",
    "artist": "長崎祐子",
    "expansion": "Starter Deck",
-   "text": "Activate\nRemove a mana counter from this card: Produce [U]. Spend this will only to play Ancient Magic cards.",
+   "text": "Activate\n\nRemove a mana counter from this card: Produce [U]. Spend this will only to play Ancient Magic cards.",
    "flavor_text": "The woman stood before the frozen casket, certain there was something inside.",
    "all_sets": "Starter Deck"
   },
@@ -667,7 +667,7 @@
    "race": "Dark Commander",
    "artist": "長崎祐子",
    "expansion": "Starter Deck",
-   "text": "Activate\nRemove a mana counter from this card: Produce [U]. Spend this will only to play Ancient Magic cards.",
+   "text": "Activate\n\nRemove a mana counter from this card: Produce [U]. Spend this will only to play Ancient Magic cards.",
    "flavor_text": "\"Do you honestly think those weaklings stand a chance against me?\"",
    "all_sets": "Starter Deck"
   },
@@ -733,7 +733,7 @@
    "race": "Ancient",
    "artist": "Cola",
    "expansion": "Starter Deck",
-   "text": "Activate\nRemove a mana counter from your J/ruler: This card gains [+300/+300] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\nRemove a mana counter from your J/ruler: This card gains [+300/+300] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Mastery of the ancient power of mana is the only way to control the powerful artifacts of long lost ages..",
    "all_sets": "Starter Deck"
   },
@@ -759,7 +759,7 @@
    "race": "Spirit",
    "artist": "yua",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters your field ⇒ Return target rested resonator to its owner's hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Return target rested resonator to its owner's hand.",
    "flavor_text": "The ice chills to the bone.",
    "all_sets": "Starter Deck"
   },
@@ -772,7 +772,7 @@
    "type": "Basic Magic Stone",
    "artist": "kawaryu",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Starter Deck"
   },
   {
@@ -797,7 +797,7 @@
    "race": "Vampire",
    "artist": "j-peg",
    "expansion": "Starter Deck",
-   "text": "Continuous\nOther wind J/resonators you control gain [+200/+200].",
+   "text": "Continuous\n\nOther wind J/resonators you control gain [+200/+200].",
    "flavor_text": "Born from darkness, liberated by choice.",
    "all_sets": "Starter Deck"
   },
@@ -811,7 +811,7 @@
    "race": "Elf/Six Sages",
    "artist": "狛蜜ザキ",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhenever you play your second card each turn ⇒ Put a [100/100] wind Elf resonator token into your field.",
+   "text": "Automatic\n\nWhenever you play your second card each turn ⇒ Put a [100/100] wind Elf resonator token into your field.",
    "flavor_text": "Fiethsing listened to the voice of the winds. She felt a strong conviction welling up in her chest. At last, she was certain of the looming threat, and her place in it.",
    "all_sets": "Starter Deck"
   },
@@ -826,7 +826,7 @@
    "race": "Elf/Six Sages",
    "artist": "狛蜜ザキ",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhenever you play your second card each turn ⇒ Put two [100/100] wind Elf resonator tokens into your field.",
+   "text": "Automatic\n\nWhenever you play your second card each turn ⇒ Put two [100/100] wind Elf resonator tokens into your field.",
    "flavor_text": "\"I guess it can't be helped. Let me show you my power!\"",
    "all_sets": "Starter Deck"
   },
@@ -867,7 +867,7 @@
    "type": "Addition",
    "artist": "狛蜜ザキ",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest],[2], banish this card: Draw a card.",
+   "text": "Activate\n\n[rest],[2], banish this card: Draw a card.",
    "flavor_text": "The place where Kaguya was raised by Fiethsing and Zero.",
    "all_sets": "Starter Deck"
   },
@@ -887,7 +887,7 @@
    "race": "Elf",
    "artist": "kawaryu",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "flavor_text": "The elves call the wind.",
    "all_sets": "Starter Deck"
   },
@@ -910,7 +910,7 @@
    "race": "Spirit",
    "artist": "佐川明日香",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters your field ⇒ If you played two or more cards this turn, recover target magic stone.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ If you played two or more cards this turn, recover target magic stone.",
    "flavor_text": "The winds carry a magical will.",
    "all_sets": "Starter Deck"
   },
@@ -930,7 +930,7 @@
    "race": "Familiar/Cat",
    "artist": "佐久間さのすけ",
    "expansion": "Starter Deck",
-   "text": "Activate\nBanish this card: This card deals 200 damage to target resonator.",
+   "text": "Activate\n\nBanish this card: This card deals 200 damage to target resonator.",
    "flavor_text": "\"Already here, huh? I guess it's my turn.\" -Fiethsing, Master Magus of Holy Wind",
    "all_sets": "Starter Deck"
   },
@@ -953,7 +953,7 @@
    "race": "Elf",
    "artist": "上木乃アロエ",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters your field ⇒ If you played two or more cards this turn, draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ If you played two or more cards this turn, draw a card.",
    "flavor_text": "Expanding their power is what elves excel at.",
    "all_sets": "Starter Deck"
   },
@@ -999,7 +999,7 @@
    "race": "Elf",
    "artist": "touge369",
    "expansion": "Starter Deck",
-   "text": "Activate\n[G]: This card gains [+200/+200] until end of turn. Play this ability only if your J/ruler is \"Fiethsing, Six Sage of Wind\" or \"Fiethsing, Master Magus of Holy Wind\".",
+   "text": "Activate\n\n[G]: This card gains [+200/+200] until end of turn. Play this ability only if your J/ruler is \"Fiethsing, Six Sage of Wind\" or \"Fiethsing, Master Magus of Holy Wind\".",
    "flavor_text": "\"The only vampire I let live was Aria...where did they come from?\"",
    "all_sets": "Starter Deck"
   },
@@ -1029,7 +1029,7 @@
    "type": "Basic Magic Stone",
    "artist": "白野椋",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Starter Deck"
   },
   {
@@ -1042,7 +1042,7 @@
    "race": "Wanderer",
    "artist": "ヤマモトナオキ",
    "expansion": "Starter Deck",
-   "text": "Activate\n[B]: This card deals 100 damage to target resonator. Put a blood counter on this card.",
+   "text": "Activate\n\n[B]: This card deals 100 damage to target resonator. Put a blood counter on this card.",
    "flavor_text": "An ancient ally of Lapis. possibly the oldest Vampire.",
    "all_sets": "Starter Deck"
   },
@@ -1057,7 +1057,7 @@
    "race": "Vampire",
    "artist": "ヤマモトナオキ",
    "expansion": "Starter Deck",
-   "text": "Activate\nRemove a blood counter from this card: Choose one -\nTarget J/resonator gains [-100/-100] until end of turn;\nor this card gains [+200/0] until end of turn;\nor you gain 200 life;\nor put a [+100/+100] counter on target Vampire resonator.",
+   "text": "Activate\n\nRemove a blood counter from this card: Choose one -\n\nTarget J/resonator gains [-100/-100] until end of turn;\n\nor this card gains [+200/0] until end of turn;\n\nor you gain 200 life;\n\nor put a [+100/+100] counter on target Vampire resonator.",
    "flavor_text": "\"Altea...what a nostalgic name. Surely you agree, Lapis?\"",
    "all_sets": "Starter Deck"
   },
@@ -1098,7 +1098,7 @@
    "type": "Addition",
    "artist": "駒井春樹",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest], banish this card: Put target card from your graveyard into your hand.",
+   "text": "Activate\n\n[rest], banish this card: Put target card from your graveyard into your hand.",
    "flavor_text": "Momotaro, who's heart had fallen into darkness, became master of the castle of oni. Together with the oni, he caused much suffering.",
    "all_sets": "Starter Deck"
   },
@@ -1121,7 +1121,7 @@
    "race": "Fairy Tale",
    "artist": "坂井結城",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters your field ⇒ Each player banishes a resonator.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Each player banishes a resonator.",
    "flavor_text": "It guides followers to hell.",
    "all_sets": "Starter Deck"
   },
@@ -1144,7 +1144,7 @@
    "race": "Fairy Tale",
    "artist": "ひがし",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Your opponent discards a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Your opponent discards a card.",
    "flavor_text": "It guides followers to salvation.",
    "all_sets": "Starter Deck"
   },
@@ -1167,7 +1167,7 @@
    "race": "Fairy Tale",
    "artist": "Mad",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [+300/+300] as long as you control four or more resonators.",
+   "text": "Continuous\n\nThis card gains [+300/+300] as long as you control four or more resonators.",
    "flavor_text": "His friends linger between this world and the next. The oni he slays become his companions.",
    "all_sets": "Starter Deck"
   },
@@ -1230,7 +1230,7 @@
    "race": "Vampire",
    "artist": "七原しえ",
    "expansion": "Starter Deck",
-   "text": "Activate\n[B][B][1]: This card deals 200 damage to target resonator. Put a [+100/+100] counter on this card. If your J/ruler is \"Ally of the Black Moon\" or \"Eternal Vampire, Mikage Seijuro\", put two [+100/+100] counters on this card instead.",
+   "text": "Activate\n\n[B][B][1]: This card deals 200 damage to target resonator. Put a [+100/+100] counter on this card. If your J/ruler is \"Ally of the Black Moon\" or \"Eternal Vampire, Mikage Seijuro\", put two [+100/+100] counters on this card instead.",
    "flavor_text": "\"I'm feeling a bit anaemic. Hey you! Gimme some of your blood!\"",
    "all_sets": "Starter Deck"
   },
@@ -1256,7 +1256,7 @@
    "race": "Oni",
    "artist": "猫囃子(Nekobayashi)",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card named \"Castle of Oni\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your deck for a card named \"Castle of Oni\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "The ruler of the oni castle is the strongest oni.",
    "all_sets": "Starter Deck"
   },
@@ -1276,7 +1276,7 @@
    "race": "Fairy Tale",
    "artist": "Moopic",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Return it to its owner's hand. You lose 100 life.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Return it to its owner's hand. You lose 100 life.",
    "flavor_text": "Somehow everything just seems to reset endlessly.",
    "all_sets": "Starter Deck"
   },
@@ -1289,7 +1289,7 @@
    "type": "Basic Magic Stone",
    "artist": "たかむらはるき",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Starter Deck"
   }
  ]

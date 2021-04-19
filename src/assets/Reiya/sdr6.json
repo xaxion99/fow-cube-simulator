@@ -15,7 +15,7 @@
    "race": "Seven Luminaries Mage/Historical",
    "artist": "Pisuke",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Automatic\nWhen this card enters the field ⇒ Choose one - Reveal any number of Historical cards from your hand. Put X [+100/+100] counters on this card, where X is the number of cards revealed this way; or draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Choose one - Reveal any number of Historical cards from your hand. Put X [+100/+100] counters on this card, where X is the number of cards revealed this way; or draw a card.",
    "flavor_text": "Whenever there's danger, she gathers the others.",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -37,7 +37,7 @@
    "race": "Human/Historical",
    "artist": "BANAMONS*",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Continuous\nYour J-ruler gains [Swiftness].",
+   "text": "Continuous\n\nYour J-ruler gains [Swiftness].",
    "flavor_text": "Alisaris' research concerned Pandora's banishment and how to save Lapis from Alhama'at's banishment.",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -56,7 +56,7 @@
    "race": "Dragonoid/Historical",
    "artist": "SIGMAN",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Continuous\nThis card gains [Flying], [Swiftness], [Precision], and [Pierce] as long as there is a [+100/+100] counter on it.",
+   "text": "Continuous\n\nThis card gains [Flying], [Swiftness], [Precision], and [Pierce] as long as there is a [+100/+100] counter on it.",
    "flavor_text": "\"Mother? Father? Where are you?\"",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -78,7 +78,7 @@
    "race": "Seven Luminaries Mage/Historical",
    "artist": "Mad",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\n[0]: Target J/resonator you control gains [0/+200] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\n[0]: Target J/resonator you control gains [0/+200] until end of turn. Play this ability only once per turn.",
    "flavor_text": "A former maid for Laurite who learned by observation. His natural talents are superb.",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -120,7 +120,7 @@
    "race": "Seven Luminaries Mage/Historical",
    "artist": "Fujinaka Ryu",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Automatic\nWhen this card enters the field ⇒ Choose up to two - Cancel target chant spell; or return target resonator to its owner's hand; or rest or recover target resonator; or draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Choose up to two - Cancel target chant spell; or return target resonator to its owner's hand; or rest or recover target resonator; or draw a card.",
    "flavor_text": "The Luminaries betrayed Laurite, broke the ancient seals on the underground library, and allied with Alhama'at.",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -142,7 +142,7 @@
    "race": "Dragonoid/Historical",
    "artist": "Yukie TAJIMA",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\nBanish this card: Remove up to two target cards in a single graveyard from the game.",
+   "text": "Activate\n\nBanish this card: Remove up to two target cards in a single graveyard from the game.",
    "flavor_text": "\"I have waited all my life for a chance to escape this wretched fate.\"",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -164,7 +164,7 @@
    "race": "Human/Historical",
    "artist": "Kusanagi Tyouen",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\nRemove a [+100/+100] counter from this card: Choose one - Remove an attacking J/resonator battling with this card from battle; or cancel target spell or ability targeting this card.",
+   "text": "Activate\n\nRemove a [+100/+100] counter from this card: Choose one - Remove an attacking J/resonator battling with this card from battle; or cancel target spell or ability targeting this card.",
    "flavor_text": "The treasure? Sure, I'll return it to you. It's garbage now anyway.",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -186,7 +186,7 @@
    "race": "Demon/Historical",
    "artist": "gajumaru",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\n[rest], remove another resonator you control from the game: Put target resonator from your graveyard into the field. Play this ability only during your turn.",
+   "text": "Activate\n\n[rest], remove another resonator you control from the game: Put target resonator from your graveyard into the field. Play this ability only during your turn.",
    "flavor_text": "Unable to resist the offer, Rachel forged a pact with a demon.",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -219,7 +219,7 @@
    "race": "Wizard/Historical",
    "artist": "gekko",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Automatic\nWhenever you play a Historical card ⇒ Put a fate counter on target non-magic stone entity you control.",
+   "text": "Automatic\n\nWhenever you play a Historical card ⇒ Put a fate counter on target non-magic stone entity you control.",
    "flavor_text": "Gill at last knew the nature of his prophetic dreams. The ancient destruction of this world, the path he would follow.",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -233,7 +233,7 @@
    "race": "Wizard/Historical",
    "artist": "gekko",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\n[1], banish a resonator: This card gains [Swiftness], [Imperishable], or [Precision] until end of turn.",
+   "text": "Activate\n\n[1], banish a resonator: This card gains [Swiftness], [Imperishable], or [Precision] until end of turn.",
    "flavor_text": "\"Sacrifice everything, it is the only way to beat the witch.\"",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -245,7 +245,7 @@
    "type": "Special Magic Stone/True Magic Stone",
    "artist": "tokiwa",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Automatic\nWhen you control two or more true magic stones that share a name ⇒ Banish all but one of them.",
+   "text": "Automatic\n\nWhen you control two or more true magic stones that share a name ⇒ Banish all but one of them.",
    "flavor_text": "The Ultimate Magic Stone after absorbing forbidden magic.",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -257,7 +257,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\n[rest]: Produce [w] or [b]. Spend this will only to do judgment.",
+   "text": "Activate\n\n[rest]: Produce [w] or [b]. Spend this will only to do judgment.",
    "flavor_text": "A pensive stone that shows moments of history.",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
@@ -269,7 +269,7 @@
    "type": "Basic Magic Stone",
    "artist": "sasaki kounosuke",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
   {
@@ -280,7 +280,7 @@
    "type": "Basic Magic Stone",
    "artist": "kurisu",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
   {
@@ -291,7 +291,7 @@
    "type": "Basic Magic Stone",
    "artist": "BANAMONS*",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
   {
@@ -302,7 +302,7 @@
    "type": "Basic Magic Stone",
    "artist": "kurisu",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   },
   {
@@ -313,7 +313,7 @@
    "type": "Basic Magic Stone",
    "artist": "kurisu",
    "expansion": "Constructed Deck \"The Lost Tomes\"",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Constructed Deck \"The Lost Tomes\""
   }
  ]

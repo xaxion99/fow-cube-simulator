@@ -21,7 +21,7 @@
    "race": "Angel",
    "artist": "KONNO Takashi",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[W][W][W], [rest]: Destroy target J/resonator with [Flying].",
+   "text": "Activate\n\n[W][W][W], [rest]: Destroy target J/resonator with [Flying].",
    "flavor_text": "\"I'll protect the skies forever. Artemis, lend me your power!\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -46,7 +46,7 @@
    "race": "Knight of the Round Table",
    "artist": "Fumi Takamura",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nJ/resonators you control of the chosen race gain [+200/+200].",
+   "text": "Continuous\n\nJ/resonators you control of the chosen race gain [+200/+200].",
    "flavor_text": "\"I shall create a new round table.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -71,7 +71,7 @@
    "race": "Dragon Knight",
    "artist": "saumaro",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nThis card gains [+600/+600] and [Flying] as long as you control a Dragon.",
+   "text": "Continuous\n\nThis card gains [+600/+600] and [Flying] as long as you control a Dragon.",
    "flavor_text": "Dragons rule the sky. Siegfried rules the dragons.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -93,7 +93,7 @@
    "race": "Paladin",
    "artist": "Nekobayashi",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[W][W]: Cancel target spell or ability targeting this card.",
+   "text": "Activate\n\n[W][W]: Cancel target spell or ability targeting this card.",
    "flavor_text": "\"You want to take me on alone? Haha, this'll be interesting.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -114,7 +114,7 @@
    "race": "Castle",
    "artist": "FushikadKusanagi Tyouenen K.K.",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
+   "text": "Automatic\n\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
    "flavor_text": "Gloria lived a period of high prosperity under the guidance of the Sacred Queen.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -139,7 +139,7 @@
    "race": "Human",
    "artist": "Haruichi Kido",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nThis card gains \"Whenever this card attacks or blocks ⇒ [Force]1. This card gains [+X00/+X00] until end of turn, where X is the result of the roll.\" as long as your J/ruler is \"Millium, Prince of the Light Palace\" or \"Millium, Voice of a New Generation\".",
+   "text": "Automatic\n\nThis card gains \"Whenever this card attacks or blocks ⇒ [Force]1. This card gains [+X00/+X00] until end of turn, where X is the result of the roll.\" as long as your J/ruler is \"Millium, Prince of the Light Palace\" or \"Millium, Voice of a New Generation\".",
    "flavor_text": "Fairy Tales share bonds that span any distance.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -152,7 +152,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\n[Resonance] Light Magic Stone ⇒ Target resonator you control gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\n[Resonance] Light Magic Stone ⇒ Target resonator you control gains [+200/+200] until end of turn.",
    "flavor_text": "The light guardian welcomes all champions of justice.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -166,7 +166,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Destroy all non-magic stone, non-J-ruler cards.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Destroy all non-magic stone, non-J-ruler cards.",
    "flavor_text": "The avatar's light swallows all.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -191,7 +191,7 @@
    "race": "Knight",
    "artist": "JURI",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ J/resonators you control gain [Precision] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ J/resonators you control gain [Precision] until end of turn.",
    "flavor_text": "God like speed that brings victory on the battlefield.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -210,7 +210,7 @@
    "race": "Wizard",
    "artist": "Haruichi Kido",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhenever you play a light chant ⇒ You gain 200 life.",
+   "text": "Automatic\n\nWhenever you play a light chant ⇒ You gain 200 life.",
    "flavor_text": "Light embodies healing and judgment.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -232,7 +232,7 @@
    "race": "Human",
    "artist": "kurisu",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nYou may play cards removed by this card.",
+   "text": "Continuous\n\nYou may play cards removed by this card.",
    "flavor_text": "Changing the world doesn't change her plans.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -289,7 +289,7 @@
    "race": "Spirit",
    "artist": "YK",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your magic stone deck. If it's a non-special light magic stone, put it into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top card of your magic stone deck. If it's a non-special light magic stone, put it into your field.",
    "flavor_text": "Bringer of pure, sacred light.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -349,7 +349,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ It deals 700 damage to target player or J/resonator.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ It deals 700 damage to target player or J/resonator.",
    "flavor_text": "The proper offering can summon a great creature.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -374,7 +374,7 @@
    "race": "Daimyo",
    "artist": "Haruichi Kido",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Rest all other J/resonators.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Rest all other J/resonators.",
    "flavor_text": "\"Friends, enemies! Be quiet! It's my time to shine.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -393,7 +393,7 @@
    "race": "Demon",
    "artist": "ShiroYayoi",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], banish two magic stones: Destroy target special magic stone.",
+   "text": "Activate\n\n[rest], banish two magic stones: Destroy target special magic stone.",
    "flavor_text": "Power is attainable for a price.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -450,7 +450,7 @@
    "race": "Wizard",
    "artist": "Kusanagi Toyed",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest]: This card deals 200 damage to target opponent.",
+   "text": "Activate\n\n[rest]: This card deals 200 damage to target opponent.",
    "flavor_text": "\"God is dead!\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -471,7 +471,7 @@
    "race": "Mountain",
    "artist": "Kusanagi Tyouen",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
    "flavor_text": "The volcano is the future. Only the chosen ones will survive.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -506,7 +506,7 @@
    "race": "Wizard",
    "artist": "kawaryu",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhenever you play a fire chant ⇒ This card may deal 100 damage to target J/resonator.",
+   "text": "Automatic\n\nWhenever you play a fire chant ⇒ This card may deal 100 damage to target J/resonator.",
    "flavor_text": "Fire embodies passion and conquest.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -519,7 +519,7 @@
    "race": "Dragon",
    "artist": "douzen",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\n[Resonance] Fire Magic Stone ⇒ This card may deal 200 damage to target resonator.",
+   "text": "Automatic\n\n[Resonance] Fire Magic Stone ⇒ This card may deal 200 damage to target resonator.",
    "flavor_text": "The fire guardian welcomes all warriors with a fire in their heart.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -533,7 +533,7 @@
    "race": "Dragon",
    "artist": "douzen",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nIf a resonator dealt damage by this card this turn would be put into a graveyard, remove it from the game instead.",
+   "text": "Continuous\n\nIf a resonator dealt damage by this card this turn would be put into a graveyard, remove it from the game instead.",
    "flavor_text": "The avatar's fire burns all to ash.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -577,7 +577,7 @@
    "race": "Swordsman",
    "artist": "gekko",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nPlayers cannot gain life.",
+   "text": "Continuous\n\nPlayers cannot gain life.",
    "flavor_text": "\"No running away from the fight this time, Faria.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -602,7 +602,7 @@
    "race": "Spirit",
    "artist": "Rumie",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ It deals 600 damage to target opponent and target resonator your opponent controls.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ It deals 600 damage to target opponent and target resonator your opponent controls.",
    "flavor_text": "The envoy's flames scorch the body and soul.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -627,7 +627,7 @@
    "race": "Daimyo",
    "artist": "yuhki lily",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhenever a J/resonator you control is blocked ⇒ Destroy it and the blocking J/resonator.",
+   "text": "Automatic\n\nWhenever a J/resonator you control is blocked ⇒ Destroy it and the blocking J/resonator.",
    "flavor_text": "\"Survival is not the point of battle. Victory is.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -652,7 +652,7 @@
    "race": "Dragon",
    "artist": "SIGMAN",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nThis card gains [Swiftness] as long as your J/ruler is \"Sylvia Gill Palarilias\".",
+   "text": "Continuous\n\nThis card gains [Swiftness] as long as your J/ruler is \"Sylvia Gill Palarilias\".",
    "flavor_text": "\"My soul is forever bound to Lapis.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -674,7 +674,7 @@
    "race": "Wanderer",
    "artist": "Wednesday",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nIf this card would be put into a graveyard from your field, put it on the bottom of its owner's deck instead.",
+   "text": "Continuous\n\nIf this card would be put into a graveyard from your field, put it on the bottom of its owner's deck instead.",
    "flavor_text": "\"Oh? You found me huh?\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -737,7 +737,7 @@
    "race": "Myth",
    "artist": "kakotomirai",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nAt the beginning of your turn ⇒ Draw a card.",
+   "text": "Automatic\n\nAt the beginning of your turn ⇒ Draw a card.",
    "flavor_text": "\"Time is equitable. Except when you're the boss.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -766,7 +766,7 @@
    "race": "Dragon",
    "artist": "Hayama Kohei",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\n[Resonance] Water Magic Stone ⇒ Look at the top card of your deck, then put it on the top or bottom of your deck.",
+   "text": "Automatic\n\n[Resonance] Water Magic Stone ⇒ Look at the top card of your deck, then put it on the top or bottom of your deck.",
    "flavor_text": "The water guardian welcomes all those of nobility and grace.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -780,7 +780,7 @@
    "race": "Dragon",
    "artist": "Hayama Kohei",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Return all resonators your opponent controls to their owners' hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Return all resonators your opponent controls to their owners' hand.",
    "flavor_text": "The avatar's water washes away any trace of what was there.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -802,7 +802,7 @@
    "race": "Myth",
    "artist": "Fukuzo Katsura",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nRabbit resonators you control gain [+100/+100] as long as you control a Moon addition.",
+   "text": "Continuous\n\nRabbit resonators you control gain [+100/+100] as long as you control a Moon addition.",
    "flavor_text": "A full moon viewing is made better with rabbits.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -856,7 +856,7 @@
    "type": "Addition",
    "artist": "Yuko Nagasaki",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[Bestow] [U], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "text": "Activate\n\n[Bestow] [U], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
    "flavor_text": "Magic shackles that seal away special magic.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -881,7 +881,7 @@
    "race": "Human",
    "artist": "j-peg",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nThis card gains [Barrier] (Resonator) as long as your J/ruler is \"Songstress of Shangri-La\" or \"Coup d'Etat Mastermind, Shion\".",
+   "text": "Continuous\n\nThis card gains [Barrier] (Resonator) as long as your J/ruler is \"Songstress of Shangri-La\" or \"Coup d'Etat Mastermind, Shion\".",
    "flavor_text": "Music is magic that captures the heart.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -924,7 +924,7 @@
    "race": "Myth",
    "artist": "Matsurika Yoko",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Gain control of target resonator until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Gain control of target resonator until end of turn.",
    "flavor_text": "\"Are you sure? Alright, follow me!\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -949,7 +949,7 @@
    "race": "Human",
    "artist": "ishishou",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], discard three cards: Gain control of target resonator.",
+   "text": "Activate\n\n[rest], discard three cards: Gain control of target resonator.",
    "flavor_text": "\"Here's my trump card; you die.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -968,7 +968,7 @@
    "race": "Wizard",
    "artist": "Shirai Hidemi",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhenever you play a water chant ⇒ Look at the top card of your deck, then put it on the top or bottom of your deck.",
+   "text": "Automatic\n\nWhenever you play a water chant ⇒ Look at the top card of your deck, then put it on the top or bottom of your deck.",
    "flavor_text": "Water embodies time and currents.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -990,7 +990,7 @@
    "race": "Catman/Musketeer",
    "artist": "Kelvin",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[G]: This card deals 100 damage to target resonator. It loses [Flying] until end of turn.",
+   "text": "Activate\n\n[G]: This card deals 100 damage to target resonator. It loses [Flying] until end of turn.",
    "flavor_text": "\"My aim can perfectly drop a soaring bird.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1015,7 +1015,7 @@
    "race": "Myth",
    "artist": "SIE NANAHARA",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put up to one target resonator, up to one target addition, and up to one target chant from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put up to one target resonator, up to one target addition, and up to one target chant from your graveyard into your hand.",
    "flavor_text": "Her love brings the harvest, keeping the world fed.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1028,7 +1028,7 @@
    "race": "Dragon",
    "artist": "Saiko Takaki",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[Resonance] Wind Magic Stone ⇒ Target resonator gains \"[rest]: Produce [W], [R], [U], [G], or [B].\" until end of turn.",
+   "text": "Activate\n\n[Resonance] Wind Magic Stone ⇒ Target resonator gains \"[rest]: Produce [W], [R], [U], [G], or [B].\" until end of turn.",
    "flavor_text": "The wind guardian greets champions with a mighty gust.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1042,7 +1042,7 @@
    "race": "Dragon",
    "artist": "Saiko Takaki",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\nResonators you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\".",
+   "text": "Activate\n\nResonators you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\".",
    "flavor_text": "The avatar's wind inspires the will of everyone.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1086,7 +1086,7 @@
    "race": "Elf",
    "artist": "touge369",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nPrevent all damage that would be dealt to this card by darkness resonators.",
+   "text": "Continuous\n\nPrevent all damage that would be dealt to this card by darkness resonators.",
    "flavor_text": "There is no darkness that may harm Helsing.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1105,7 +1105,7 @@
    "race": "Fairy Tale",
    "artist": "Matsurika Yoko",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nThis card gains [Swiftness] as long as you control a non-special wind magic stone.",
+   "text": "Continuous\n\nThis card gains [Swiftness] as long as you control a non-special wind magic stone.",
    "flavor_text": "The girl's story has continued for ages, encompassing a collection of many adventures.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1130,7 +1130,7 @@
    "race": "Elf",
    "artist": "Foo Midori",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put three [100/100] wind Elf resonator tokens into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put three [100/100] wind Elf resonator tokens into your field.",
    "flavor_text": "\"Come, my brothers!\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1149,7 +1149,7 @@
    "race": "Human/Beast",
    "artist": "fzwrAym",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nThis card gains [Precision] and [+100/+100] as long as your J/ruler is \"Pricia, the Beast Lady\" or \"Pricia, the Commander of Sacred Beasts\".",
+   "text": "Continuous\n\nThis card gains [Precision] and [+100/+100] as long as your J/ruler is \"Pricia, the Beast Lady\" or \"Pricia, the Commander of Sacred Beasts\".",
    "flavor_text": "\"What is this place? Faria? Wahoo! Let's play!\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1209,7 +1209,7 @@
    "race": "Wanderer",
    "artist": "noki",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put target resonator on top of its owner's deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put target resonator on top of its owner's deck.",
    "flavor_text": "\"The future is one of many possibilities. No two are the same, but there is only one we will see.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1231,7 +1231,7 @@
    "race": "Spirit",
    "artist": "noki",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\n[Resonance] Wind Magic Stone ⇒ Recover this card.",
+   "text": "Automatic\n\n[Resonance] Wind Magic Stone ⇒ Recover this card.",
    "flavor_text": "The winds blow twice.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1251,7 +1251,7 @@
    "type": "Chant",
    "artist": "fzwrAym",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nTarget J/resonator you control gains [+400/+400] until end of turn. Then that card and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
+   "text": "Continuous\n\nTarget J/resonator you control gains [+400/+400] until end of turn. Then that card and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
    "flavor_text": "\"Valentina! I'll never forgive you!\" —Pricia, Beast Queen in Hiding",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1270,7 +1270,7 @@
    "race": "Treeman",
    "artist": "KONNO Takashi",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[G]: This card gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[G]: This card gains [+200/+200] until end of turn.",
    "flavor_text": "\"You will abide by the laws of the world tree.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1290,7 +1290,7 @@
    "type": "Addition: Field",
    "artist": "saumaro",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen a spell or ability your opponent controls targets a J/resonator you control ⇒ You may banish this card. If you do, cancel that spell or ability.",
+   "text": "Automatic\n\nWhen a spell or ability your opponent controls targets a J/resonator you control ⇒ You may banish this card. If you do, cancel that spell or ability.",
    "flavor_text": "\"Shion, you wait here. Leave the rest to me.\" -Pricia, Pursuant of Exploding Flame",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1312,7 +1312,7 @@
    "race": "Wizard",
    "artist": "gozz",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nResonators entering your opponent's field don't cause their own abilities to trigger.",
+   "text": "Continuous\n\nResonators entering your opponent's field don't cause their own abilities to trigger.",
    "flavor_text": "The songs of madness torture the soldiers of the enemy.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1334,7 +1334,7 @@
    "race": "Avatar",
    "artist": "hatarisu",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Your opponent discards a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Your opponent discards a card.",
    "flavor_text": "The link between sorrow and resentment.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1372,7 +1372,7 @@
    "race": "Wizard",
    "artist": "Moopic",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhenever you play a darkness chant ⇒ You may put the top card of your deck into your graveyard.",
+   "text": "Automatic\n\nWhenever you play a darkness chant ⇒ You may put the top card of your deck into your graveyard.",
    "flavor_text": "Darkness embodies chaos and thievery.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1397,7 +1397,7 @@
    "race": "Vampire",
    "artist": "Saiko Takaki",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nYour J-ruler gains [Imperishable] and Vampire in addition to its own races.",
+   "text": "Continuous\n\nYour J-ruler gains [Imperishable] and Vampire in addition to its own races.",
    "flavor_text": "\"The strength of the vampire is that no one wants to believe he is real.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1447,7 +1447,7 @@
    "race": "Wanderer",
    "artist": "Kutori PanYa",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Your opponent chooses a card they control. Destroy all non-magic stone cards except this card and the chosen card. Put X [+100/+100] counters on this card, where X is the number of cards destroyed this way.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Your opponent chooses a card they control. Destroy all non-magic stone cards except this card and the chosen card. Put X [+100/+100] counters on this card, where X is the number of cards destroyed this way.",
    "flavor_text": "\"Have I returned to?....No. This world is meaningless, I will erase it.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1460,7 +1460,7 @@
    "race": "Dragon",
    "artist": "Mad",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\n[Resonance] Darkness Magic Stone ⇒ Target J/resonator gains [-100/-100] until end of turn.",
+   "text": "Automatic\n\n[Resonance] Darkness Magic Stone ⇒ Target J/resonator gains [-100/-100] until end of turn.",
    "flavor_text": "The darkness guardian addresses the worthy in a jet black void.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1474,7 +1474,7 @@
    "race": "Dragon",
    "artist": "Mad",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Your opponent banishes two resonators.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Your opponent banishes two resonators.",
    "flavor_text": "The avatar's darkness steals everything away.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1496,7 +1496,7 @@
    "race": "Myth",
    "artist": "ishishou",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nThis card gains [Flying] and \"Whenever this card deals damage ⇒ You gain that much life.\" as long as you have ten or more cards in your graveyard.",
+   "text": "Automatic\n\nThis card gains [Flying] and \"Whenever this card deals damage ⇒ You gain that much life.\" as long as you have ten or more cards in your graveyard.",
    "flavor_text": "Death is not the end. The end is far worse.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1521,7 +1521,7 @@
    "race": "Vampire",
    "artist": "touge369",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nThis card gains \"Whenever this card deals damage ⇒ You gain that much life.\" as long as your J/ruler is \"Rezzard, the Undead Lord\" or \"Rezzard, the Desecrating Vampire\".",
+   "text": "Automatic\n\nThis card gains \"Whenever this card deals damage ⇒ You gain that much life.\" as long as your J/ruler is \"Rezzard, the Undead Lord\" or \"Rezzard, the Desecrating Vampire\".",
    "flavor_text": "\"Do not misunderstand. I offer an invitation to a new life, not fixing your old one.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1546,7 +1546,7 @@
    "race": "Fallen Angel",
    "artist": "lack",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[B], [rest], banish another resonator: Put target resonator from your graveyard into your field. Play this ability only during your turn.",
+   "text": "Activate\n\n[B], [rest], banish another resonator: Put target resonator from your graveyard into your field. Play this ability only during your turn.",
    "flavor_text": "Moonlight blurs the line between the living and dead.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1568,7 +1568,7 @@
    "race": "Spirit",
    "artist": "touge369",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\n[Resonance] Darkness Magic Stone ⇒ You may pay [B][B][B]. If you do, put this card from your graveyard into your hand.",
+   "text": "Automatic\n\n[Resonance] Darkness Magic Stone ⇒ You may pay [B][B][B]. If you do, put this card from your graveyard into your hand.",
    "flavor_text": "Creeping unseen through the darkness. You only see it when it's too late.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1585,7 +1585,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[B][B][2], banish this card: Your opponent discards a card.",
+   "text": "Activate\n\n[B][B][2], banish this card: Your opponent discards a card.",
    "flavor_text": "\"Huh? Isn't that...hehehe. Things are getting interesting.\" -Nyarlathotep, the True False Legend",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1602,7 +1602,7 @@
    "type": "Chant",
    "artist": "Shirono Muku",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nLook at target opponent's hand and choose a resonator. They discard that card.",
+   "text": "Continuous\n\nLook at target opponent's hand and choose a resonator. They discard that card.",
    "flavor_text": "\"I don't need that memory.\"—Dark Alice, Maiden of Slaughter",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1643,7 +1643,7 @@
    "race": "Wizard",
    "artist": "BANAMONS*",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may play a chant card from your removed area.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ You may play a chant card from your removed area.",
    "flavor_text": "\"My records are ready to strike at a moment's notice.\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1668,7 +1668,7 @@
    "race": "Minion of Primogenitor",
    "artist": "Kusanagi Tyouen",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target J-ruler.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Destroy target J-ruler.",
    "flavor_text": "Pursuing his target through death and beyond. It is all he knows now.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1693,7 +1693,7 @@
    "race": "Myth",
    "artist": "Yuko Nagasaki",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
    "flavor_text": "The woman fights for her country, and the people are eternally grateful.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1718,7 +1718,7 @@
    "race": "Clown",
    "artist": "Kusanagi Tyouen",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhenever this card attacks ⇒ J/resonators you control gain [Flying] and [First Strike] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ J/resonators you control gain [Flying] and [First Strike] until end of turn.",
    "flavor_text": "The start is abrupt. The end is inevitable.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1743,7 +1743,7 @@
    "race": "Machine",
    "artist": "Rumie",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your deck. If it's a Machine, you may put it into your field. At the next end of turn ⇒ Return it to its owner's hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top card of your deck. If it's a Machine, you may put it into your field. At the next end of turn ⇒ Return it to its owner's hand.",
    "flavor_text": "Still searching for someone's lost heart.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1768,7 +1768,7 @@
    "race": "Myth",
    "artist": "kakotomirai",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nIf you would produce will with a magic stone you control, you produce that will plus one of the same kind as another will produced this way instead.",
+   "text": "Continuous\n\nIf you would produce will with a magic stone you control, you produce that will plus one of the same kind as another will produced this way instead.",
    "flavor_text": "Omniscience means omnipotence.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1790,7 +1790,7 @@
    "race": "Ancient/Human",
    "artist": "Foo Midori",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhenever this card blocks ⇒ [Force] 1. You gain X00 life, where X is the result of the roll.",
+   "text": "Automatic\n\nWhenever this card blocks ⇒ [Force] 1. You gain X00 life, where X is the result of the roll.",
    "flavor_text": "\"I see...I remember now. I'm...\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1815,7 +1815,7 @@
    "race": "Fairy Tale",
    "artist": "KONNO Takashi",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Continuous\nThis card gains [+400/+400] as long as your life is 1000 or less.",
+   "text": "Continuous\n\nThis card gains [+400/+400] as long as your life is 1000 or less.",
    "flavor_text": "Revenge is sweeter than any apple.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1840,7 +1840,7 @@
    "race": "Giant",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Cancel target resonator spell.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Cancel target resonator spell.",
    "flavor_text": "\"Oh, sorry. Were you in the middle of something?\"",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1865,7 +1865,7 @@
    "race": "Treasure Tree",
    "artist": "Kusanagi Tyouen",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest]: Produce two wills in any combination of attributes.",
+   "text": "Activate\n\n[rest]: Produce two wills in any combination of attributes.",
    "flavor_text": "The light of Yggdrasil shines with many colors.",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
@@ -1877,7 +1877,7 @@
    "type": "Special Magic Stone",
    "artist": "sasaki kounosuke",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [U].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [U].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1888,7 +1888,7 @@
    "type": "Special Magic Stone",
    "artist": "touge369",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [B].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [B].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1899,7 +1899,7 @@
    "type": "Special Magic Stone",
    "artist": "tokiwa",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [B].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [B].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1910,7 +1910,7 @@
    "type": "Special Magic Stone",
    "artist": "ShiroYayoi",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [W].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [W].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1921,7 +1921,7 @@
    "type": "Special Magic Stone",
    "artist": "gozz",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [R].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [R].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1932,7 +1932,7 @@
    "type": "Special Magic Stone",
    "artist": "Tomomi TOMIDA",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [U].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [U].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1943,7 +1943,7 @@
    "type": "Special Magic Stone",
    "artist": "Yuko Nagasaki",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [G].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [G].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1954,7 +1954,7 @@
    "type": "Special Magic Stone",
    "artist": "kurisu",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [G].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [G].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1965,7 +1965,7 @@
    "type": "Special Magic Stone",
    "artist": "BANAMONS*",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [W].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [W].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1976,7 +1976,7 @@
    "type": "Special Magic Stone",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest], remove a magic counter from this card: Produce [R].",
+   "text": "Activate\n\n[rest], remove a magic counter from this card: Produce [R].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1987,7 +1987,7 @@
    "type": "Basic Magic Stone",
    "artist": "Matsurika Yoko",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -1998,7 +1998,7 @@
    "type": "Basic Magic Stone",
    "artist": "SIGMAN",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -2009,7 +2009,7 @@
    "type": "Basic Magic Stone",
    "artist": "lack",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -2020,7 +2020,7 @@
    "type": "Basic Magic Stone",
    "artist": "Wednesday",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {
@@ -2031,7 +2031,7 @@
    "type": "Basic Magic Stone",
    "artist": "ComamitsuZaki",
    "expansion": "Vingolf \"Ruler All Stars\"",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Vingolf \"Ruler All Stars\""
   },
   {

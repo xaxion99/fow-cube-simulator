@@ -82,7 +82,7 @@
    "race": "Beast",
    "artist": "Fujinaka Ryu",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card leaves the field ⇒ Gain a gem of any attribute.",
+   "text": "Automatic\n\nWhen this card leaves the field ⇒ Gain a gem of any attribute.",
    "flavor_text": "An unusual creature studded with gems.",
    "all_sets": "Ancient Nights"
   },
@@ -108,7 +108,7 @@
    "race": "Panda",
    "artist": "yuhki lily",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Recover up to four target magic stones if you control a wind gem.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Recover up to four target magic stones if you control a wind gem.",
    "flavor_text": "It's said that wind gems clear one's mind and heart.",
    "all_sets": "Ancient Nights"
   },
@@ -134,7 +134,7 @@
    "race": "Panda",
    "artist": "Nekobayashi",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Gain a gem of any attribute. Draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Gain a gem of any attribute. Draw a card.",
    "flavor_text": "\"Lord Pearlshine is always asking the impossible. I wish he'd worry about things a little more.\"",
    "all_sets": "Ancient Nights"
   },
@@ -154,7 +154,7 @@
    "race": "Human",
    "artist": "Matsurika Yoko",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Gain a light gem.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Gain a light gem.",
    "flavor_text": "Real gems won't fade, even after decades.",
    "all_sets": "Ancient Nights"
   },
@@ -180,7 +180,7 @@
    "race": "Panda",
    "artist": "Cola",
    "expansion": "Ancient Nights",
-   "text": "Continuous\nThis card gains [+400/+400] as long as there are three or more different attributes among all gems you control.",
+   "text": "Continuous\n\nThis card gains [+400/+400] as long as there are three or more different attributes among all gems you control.",
    "flavor_text": "Weight becomes strength.",
    "all_sets": "Ancient Nights"
   },
@@ -271,7 +271,7 @@
    "race": "Panda",
    "artist": "ShiroYayoi",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[rest], banish a light gem: Gain a gem of any attribute.",
+   "text": "Activate\n\n[rest], banish a light gem: Gain a gem of any attribute.",
    "flavor_text": "As the color changes, so does the mood.",
    "all_sets": "Ancient Nights"
   },
@@ -377,7 +377,7 @@
    "race": "Dragonoid",
    "artist": "Shirai Hidemi",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a Panda, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a Panda, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Do not fear, my children. We shall hide here.\"",
    "all_sets": "Ancient Nights"
   },
@@ -403,7 +403,7 @@
    "race": "Panda",
    "artist": "AKI",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ You may banish a gem. If you do, rest target resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ You may banish a gem. If you do, rest target resonator.",
    "flavor_text": "\"Acts so exciting you'll lose yourself in them!\"",
    "all_sets": "Ancient Nights"
   },
@@ -417,7 +417,7 @@
    "race": "Guardian",
    "artist": "Foo Midori",
    "expansion": "Ancient Nights",
-   "text": "Activate\n【Hair Ornament of Light】[0]: Target Golem you control is mobilized until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\n【Hair Ornament of Light】[0]: Target Golem you control is mobilized until end of turn. Play this ability only once per turn.",
    "flavor_text": "\"Leave, now. You'll go no further.\"",
    "all_sets": "Ancient Nights"
   },
@@ -432,7 +432,7 @@
    "race": "Guardian",
    "artist": "Foo Midori",
    "expansion": "Ancient Nights",
-   "text": "Activate\n【Hair Ornament of Light】[w][w][２]: Golems you control gain [+400/+400] until end of turn.",
+   "text": "Activate\n\n【Hair Ornament of Light】[w][w][２]: Golems you control gain [+400/+400] until end of turn.",
    "flavor_text": "\"I will show trespassers no mercy. That is my purpose.\"",
    "all_sets": "Ancient Nights"
   },
@@ -490,7 +490,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nAt end of turn ⇒ If you don't control a resonator, you may banish this card. If you do, search your deck for a Golem and put it into the field. Then shuffle your deck.",
+   "text": "Automatic\n\nAt end of turn ⇒ If you don't control a resonator, you may banish this card. If you do, search your deck for a Golem and put it into the field. Then shuffle your deck.",
    "flavor_text": "A massive, box-like structure that contains chaos.",
    "all_sets": "Ancient Nights"
   },
@@ -516,7 +516,7 @@
    "race": "Panda",
    "artist": "ponkichi",
    "expansion": "Ancient Nights",
-   "text": "Activate\nWhen this card enters the field ⇒ You may banish two light gems. If you do, search your deck for a Panda and put it into the field. Then shuffle your deck.",
+   "text": "Activate\n\nWhen this card enters the field ⇒ You may banish two light gems. If you do, search your deck for a Panda and put it into the field. Then shuffle your deck.",
    "flavor_text": "Acrobatics are the forefront of Panda culture. The twins are prodigies of the art that have captivated many.",
    "all_sets": "Ancient Nights"
   },
@@ -565,7 +565,7 @@
    "race": "Golem",
    "artist": "Moopic",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target resonator your opponent controls.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Destroy target resonator your opponent controls.",
    "flavor_text": "The ultimate soldier, born of alchemical synthesis.",
    "all_sets": "Ancient Nights"
   },
@@ -585,7 +585,7 @@
    "race": "Cat",
    "artist": "Sanosuke Sakuma",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Gain a gem of any attribute.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Gain a gem of any attribute.",
    "flavor_text": "It was curiosity that lead to the discovery of gems.",
    "all_sets": "Ancient Nights"
   },
@@ -605,7 +605,7 @@
    "race": "Bird",
    "artist": "Shirono Muku",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ You may banish a gem. If you do, draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ You may banish a gem. If you do, draw a card.",
    "flavor_text": "The white ravens collect and separate gems by cut and year.",
    "all_sets": "Ancient Nights"
   },
@@ -628,7 +628,7 @@
    "race": "Panda",
    "artist": "ComamitsuZaki",
    "expansion": "Ancient Nights",
-   "text": "Continuous\nThis card gains [Flying] as long as you control a water gem.",
+   "text": "Continuous\n\nThis card gains [Flying] as long as you control a water gem.",
    "flavor_text": "Wings made of gems never break.",
    "all_sets": "Ancient Nights"
   },
@@ -651,7 +651,7 @@
    "race": "Dragonoid",
    "artist": "Rumie",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Target Beast gains [+400/+400] and [Swiftness] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Target Beast gains [+400/+400] and [Swiftness] until end of turn.",
    "flavor_text": "If you can't handle the beasts of this region, you'll never survive here.",
    "all_sets": "Ancient Nights"
   },
@@ -697,7 +697,7 @@
    "type": "Addition",
    "artist": "Hayama Kohei",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[r][r], banish this card: Search your deck for a Dragonoid, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[r][r], banish this card: Search your deck for a Dragonoid, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "While all of the red dragonoids live on Mt. Hoelle, only the strongest live at the summit.",
    "all_sets": "Ancient Nights"
   },
@@ -744,7 +744,7 @@
    "race": "Demon",
    "artist": "Saiko Takaki",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ It deals 600 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ It deals 600 damage to target resonator.",
    "flavor_text": "Kaim's eyes see all there is on this world.",
    "all_sets": "Ancient Nights"
   },
@@ -855,7 +855,7 @@
    "race": "Dragonoid",
    "artist": "Fukuzo Katsura",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.",
    "flavor_text": "\"I'm headed to the mountain. No, it'd be better to say I'm headed back to the mountain.\"",
    "all_sets": "Ancient Nights"
   },
@@ -881,7 +881,7 @@
    "race": "Beast",
    "artist": "Hayama Kohei",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever another resonator you control attacks ⇒ This card gains [+100/+100] until end of turn.",
+   "text": "Automatic\n\nWhenever another resonator you control attacks ⇒ This card gains [+100/+100] until end of turn.",
    "flavor_text": "A beast known as the most dangerous among denizens of Mt. Hoelle.",
    "all_sets": "Ancient Nights"
   },
@@ -904,7 +904,7 @@
    "race": "Human",
    "artist": "j-peg",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Reveal the top card of your deck. If it's a chant, put it into your hand.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Reveal the top card of your deck. If it's a chant, put it into your hand.",
    "flavor_text": "\"So this is the place Fabre was talking about. Wow! Look at all those strange things...\"",
    "all_sets": "Ancient Nights"
   },
@@ -947,7 +947,7 @@
    "race": "Dragon",
    "artist": "SO",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.",
    "flavor_text": "Ruthless, even at birth.",
    "all_sets": "Ancient Nights"
   },
@@ -1031,7 +1031,7 @@
    "race": "Dragonoid",
    "artist": "KEIICHIRO ITO",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put ten strength counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put ten strength counters on your J/ruler.",
    "flavor_text": "Years of practice have lead him to become the greatest cook in the land.",
    "all_sets": "Ancient Nights"
   },
@@ -1087,7 +1087,7 @@
    "race": "Beast",
    "artist": "Yuko Nagasaki",
    "expansion": "Ancient Nights",
-   "text": "Activate\nBanish this card: Recover your ruler.",
+   "text": "Activate\n\nBanish this card: Recover your ruler.",
    "flavor_text": "At ten years, their meat reaches the height of flavor.",
    "all_sets": "Ancient Nights"
   },
@@ -1110,7 +1110,7 @@
    "race": "Dinosaur",
    "artist": "Nanami Lusia",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 300 damage to target J/resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 300 damage to target J/resonator.",
    "flavor_text": "\"Now where did these things come from?\" -Environmental Researcher, Fabre",
    "all_sets": "Ancient Nights"
   },
@@ -1136,7 +1136,7 @@
    "race": "Demon",
    "artist": "Nakaba Higurashi",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[r], banish a resonator: This card gains [Swiftness] until end of turn.",
+   "text": "Activate\n\n[r], banish a resonator: This card gains [Swiftness] until end of turn.",
    "flavor_text": "Plotting in secret, lurking in the shadows of the world. He makes bargains with mortals.",
    "all_sets": "Ancient Nights"
   },
@@ -1162,7 +1162,7 @@
    "race": "Dragonoid",
    "artist": "ponkichi",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a Beast, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Search your deck for a Beast, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "The beasts of Mt. Hoelle have always gotten on well with the red dragonoids.",
    "all_sets": "Ancient Nights"
   },
@@ -1182,7 +1182,7 @@
    "race": "Evil Spirit",
    "artist": "Cola",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Red Cap\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Red Cap\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "An emissary from the demonic realm.",
    "all_sets": "Ancient Nights"
   },
@@ -1205,7 +1205,7 @@
    "race": "Beast",
    "artist": "Mad",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever this card attacks ⇒ It gains [+200/0] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It gains [+200/0] until end of turn.",
    "flavor_text": "\"Careful, flicking their tongues means they're about to attack.\" -Environmental Researcher, Fabre",
    "all_sets": "Ancient Nights"
   },
@@ -1225,7 +1225,7 @@
    "race": "Beast",
    "artist": "mie",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 500 damage to you.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 500 damage to you.",
    "flavor_text": "One horn's for the enemy, the other's for you.",
    "all_sets": "Ancient Nights"
   },
@@ -1281,7 +1281,7 @@
    "race": "Magic Lifeform",
    "artist": "Mad",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[u][1], [rest]: You may put a Golem from your hand into the field.",
+   "text": "Activate\n\n[u][1], [rest]: You may put a Golem from your hand into the field.",
    "flavor_text": "An otherworldly crystal that seems to perpetually generate energy.",
    "all_sets": "Ancient Nights"
   },
@@ -1307,7 +1307,7 @@
    "race": "Mermaid",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Rest target resonator. If the weather is rain, return it to its owner's hand instead.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Rest target resonator. If the weather is rain, return it to its owner's hand instead.",
    "flavor_text": "The merfolk discovered an ocean cave concealed in lightning.",
    "all_sets": "Ancient Nights"
   },
@@ -1330,7 +1330,7 @@
    "race": "Panda",
    "artist": "tokiwa",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ You may banish a water gem. If you do, search your deck for a Mermaid, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ You may banish a water gem. If you do, search your deck for a Mermaid, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "The water gem entrusted by Pearlshine grants water breathing.",
    "all_sets": "Ancient Nights"
   },
@@ -1353,7 +1353,7 @@
    "race": "Golem",
    "artist": "Takumi Sugikawa",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nAt end of battle ⇒ Banish this card if it attacked or blocked.",
+   "text": "Automatic\n\nAt end of battle ⇒ Banish this card if it attacked or blocked.",
    "flavor_text": "It dissolves into the earth with its enemies.",
    "all_sets": "Ancient Nights"
   },
@@ -1413,7 +1413,7 @@
    "race": "Mermaid",
    "artist": "Pisuke",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Return target resonator your opponent controls to its owner's hand.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Return target resonator your opponent controls to its owner's hand.",
    "flavor_text": "\"Don't take me lightly!\"",
    "all_sets": "Ancient Nights"
   },
@@ -1484,7 +1484,7 @@
    "race": "Mermaid",
    "artist": "KEIICHIRO ITO",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Look at the top card of your deck. You may put it on the bottom of your deck.",
+   "text": "Automatic\n\nWhenever this card attacks or blocks ⇒ Look at the top card of your deck. You may put it on the bottom of your deck.",
    "flavor_text": "\"We don't let any suspicious persons pass...it's easy since we have no visitors.\"",
    "all_sets": "Ancient Nights"
   },
@@ -1507,7 +1507,7 @@
    "race": "Dolphin",
    "artist": "Yukie TAJIMA",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[u]: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\n[u]: This card gains [Flying] until end of turn.",
    "flavor_text": "The dolphin's call carries its thoughts across the oceans.",
    "all_sets": "Ancient Nights"
   },
@@ -1550,7 +1550,7 @@
    "race": "Golem",
    "artist": "RYUEMON",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever your opponent plays a chant ⇒ Recover this card.",
+   "text": "Automatic\n\nWhenever your opponent plays a chant ⇒ Recover this card.",
    "flavor_text": "A golem that perceives the world via the currents of magic.",
    "all_sets": "Ancient Nights"
   },
@@ -1624,7 +1624,7 @@
    "race": "Fish",
    "artist": "douzen",
    "expansion": "Ancient Nights",
-   "text": "Continuous\nThis card gains [+200/+200] and [Swiftness] as long as the weather is thunderstorm.",
+   "text": "Continuous\n\nThis card gains [+200/+200] and [Swiftness] as long as the weather is thunderstorm.",
    "flavor_text": "Leads a school of smaller thunderfish.",
    "all_sets": "Ancient Nights"
   },
@@ -1650,7 +1650,7 @@
    "race": "Dinosaur",
    "artist": "Mad",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[u][u][u][u]: This card gains [+400/+1000] until end of turn. This card cannot be blocked until end of turn.",
+   "text": "Activate\n\n[u][u][u][u]: This card gains [+400/+1000] until end of turn. This card cannot be blocked until end of turn.",
    "flavor_text": "Apex creature of the ocean floors.",
    "all_sets": "Ancient Nights"
   },
@@ -1693,7 +1693,7 @@
    "race": "Mermaid",
    "artist": "YK",
    "expansion": "Ancient Nights",
-   "text": "Continuous\nThis card gains [+200/+200] as long as the weather is rain.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as the weather is rain.",
    "flavor_text": "Attendants quickly learn never to take their eyes off Princess Shaela. Ever.",
    "all_sets": "Ancient Nights"
   },
@@ -1736,7 +1736,7 @@
    "race": "Mermaid",
    "artist": "noki",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a Mermaid not named \"Shaela's Elite\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Search your deck for a Mermaid not named \"Shaela's Elite\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Protecting Princess Shaela with their lives.",
    "all_sets": "Ancient Nights"
   },
@@ -1820,7 +1820,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[u][u][２]: Draw a card.",
+   "text": "Activate\n\n[u][u][２]: Draw a card.",
    "flavor_text": "Shaela's home. The palace at the center of the underwater city.",
    "all_sets": "Ancient Nights"
   },
@@ -1840,7 +1840,7 @@
    "race": "Fish",
    "artist": "douzen",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card if the weather is rain.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Draw a card if the weather is rain.",
    "flavor_text": "These fish live near the lightning caves.",
    "all_sets": "Ancient Nights"
   },
@@ -1863,7 +1863,7 @@
    "race": "Bird",
    "artist": "Misa Tsutsui",
    "expansion": "Ancient Nights",
-   "text": "Activate\nThis card gains [+100/+200] as long as the weather is rain.",
+   "text": "Activate\n\nThis card gains [+100/+200] as long as the weather is rain.",
    "flavor_text": "Somehow, this bird flies better in the rain.",
    "all_sets": "Ancient Nights"
   },
@@ -1967,7 +1967,7 @@
    "race": "Elf",
    "artist": "Nekobayashi",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever this card attacks ⇒ Other Elves you control gain [+100/+100] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Other Elves you control gain [+100/+100] until end of turn.",
    "flavor_text": "Leadership and organization are elvish specialties.",
    "all_sets": "Ancient Nights"
   },
@@ -2008,7 +2008,7 @@
    "race": "Elf",
    "artist": "noki",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ Produce [g].",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ Produce [g].",
    "flavor_text": "A magical aura sleeps within the trees.",
    "all_sets": "Ancient Nights"
   },
@@ -2034,7 +2034,7 @@
    "race": "Elf",
    "artist": "Sanosuke Sakuma",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 100 damage multiplied by the number of Elves you control to target resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 100 damage multiplied by the number of Elves you control to target resonator.",
    "flavor_text": "Elves and dark elves alike learn archery from birth.",
    "all_sets": "Ancient Nights"
   },
@@ -2048,7 +2048,7 @@
    "race": "Elf",
    "artist": "Kamijo Roro",
    "expansion": "Ancient Nights",
-   "text": "Activate\nRest two recovered Elf resonators you control: Recover target magic stone. Play this ability only once per turn.",
+   "text": "Activate\n\nRest two recovered Elf resonators you control: Recover target magic stone. Play this ability only once per turn.",
    "flavor_text": "Lord of the elves and ruler beyond the portal. All elvenkind pledge their lives to him.",
    "all_sets": "Ancient Nights"
   },
@@ -2063,7 +2063,7 @@
    "race": "Elf",
    "artist": "Kamijo Roro",
    "expansion": "Ancient Nights",
-   "text": "Activate\nRemove a gale protection counter from this card: Target Elf gains [+300/+300] until end of turn.",
+   "text": "Activate\n\nRemove a gale protection counter from this card: Target Elf gains [+300/+300] until end of turn.",
    "flavor_text": "\"Gill. I told you that no dark elf may ever enter these lands.\"",
    "all_sets": "Ancient Nights"
   },
@@ -2115,7 +2115,7 @@
    "race": "Elf",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Target an Elf. At the next end of turn ⇒ Recover it.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Target an Elf. At the next end of turn ⇒ Recover it.",
    "flavor_text": "King Faerur is ever accompanied by his mighty guards.",
    "all_sets": "Ancient Nights"
   },
@@ -2193,7 +2193,7 @@
    "race": "Elemental",
    "artist": "Misa Tsutsui",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[g][g], [rest]: This card deals 600 damage to target resonator with [Flying].",
+   "text": "Activate\n\n[g][g], [rest]: This card deals 600 damage to target resonator with [Flying].",
    "flavor_text": "The fact that it can even use a bow astounds enemies.",
    "all_sets": "Ancient Nights"
   },
@@ -2260,7 +2260,7 @@
    "race": "Elemental",
    "artist": "yua",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nAt the end of your turn ⇒ Recover all resonators you control.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Recover all resonators you control.",
    "flavor_text": "A cool breeze that cures fatigue.",
    "all_sets": "Ancient Nights"
   },
@@ -2283,7 +2283,7 @@
    "race": "Elemental",
    "artist": "Shirono Muku",
    "expansion": "Ancient Nights",
-   "text": "Activate\nRemove an Elemental in your graveyard from the game: This card gains [Barrier] until end of turn.",
+   "text": "Activate\n\nRemove an Elemental in your graveyard from the game: This card gains [Barrier] until end of turn.",
    "flavor_text": "Protect and serve.",
    "all_sets": "Ancient Nights"
   },
@@ -2306,7 +2306,7 @@
    "race": "Elf",
    "artist": "Tsukumi",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Up to two target Elves gain [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Up to two target Elves gain [+200/+200] until end of turn.",
    "flavor_text": "\"Frayla's made her move.\" -Faerur Letoliel, King of Wind",
    "all_sets": "Ancient Nights"
   },
@@ -2327,7 +2327,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nAt the end of your turn ⇒ Remove a guidance counter from this card. If you do, put a [100/100] wind Elf resonator token into the field.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Remove a guidance counter from this card. If you do, put a [100/100] wind Elf resonator token into the field.",
    "flavor_text": "Those worthy may pass, others are denied entry.",
    "all_sets": "Ancient Nights"
   },
@@ -2347,7 +2347,7 @@
    "race": "Elf",
    "artist": "Miko Yamazaki",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put a [100/100] wind Elf resonator token into the field.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put a [100/100] wind Elf resonator token into the field.",
    "flavor_text": "\"In times of danger, it's always best to bring a friend.\"",
    "all_sets": "Ancient Nights"
   },
@@ -2397,7 +2397,7 @@
    "race": "Elf",
    "artist": "Mayo",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[g][g][g][3], [rest]: This card deals 1000 damage to target player.",
+   "text": "Activate\n\n[g][g][g][3], [rest]: This card deals 1000 damage to target player.",
    "flavor_text": "The gentle hearted master of archery.",
    "all_sets": "Ancient Nights"
   },
@@ -2417,7 +2417,7 @@
    "race": "Beast",
    "artist": "kakotomirai",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever this card attacks ⇒ It deals 200 damage to target player or resonator.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It deals 200 damage to target player or resonator.",
    "flavor_text": "\"Come!\" -Tia Letoliel, Archer Princess of Elves",
    "all_sets": "Ancient Nights"
   },
@@ -2443,7 +2443,7 @@
    "race": "Elf",
    "artist": "Nakaba Higurashi",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 800 damage to target attacking resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 800 damage to target attacking resonator.",
    "flavor_text": "\"Use everything to your advantage, even the environment.\"",
    "all_sets": "Ancient Nights"
   },
@@ -2466,7 +2466,7 @@
    "race": "Fairy",
    "artist": "Takamura Haluki",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Choose one - Destroy target non-magic stone, non-J/resonator entity; or search your deck for an Elemental and put it into your graveyard. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Choose one - Destroy target non-magic stone, non-J/resonator entity; or search your deck for an Elemental and put it into your graveyard. Then shuffle your deck.",
    "flavor_text": "The future is uncertain, like the whims of fairies.",
    "all_sets": "Ancient Nights"
   },
@@ -2507,7 +2507,7 @@
    "race": "Human",
    "artist": "JURI",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Look at the top three cards of your deck. You may reveal an Elemental or Spirit Magic from among them and put it into your hand. Put the rest on the bottom of your deck in any order.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Look at the top three cards of your deck. You may reveal an Elemental or Spirit Magic from among them and put it into your hand. Put the rest on the bottom of your deck in any order.",
    "flavor_text": "A journey is a series of choices.",
    "all_sets": "Ancient Nights"
   },
@@ -2548,7 +2548,7 @@
    "race": "Familiar",
    "artist": "MaraMara GuGu",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put a mystery counter on your J/ruler.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Put a mystery counter on your J/ruler.",
    "flavor_text": "\"They've arrived.\" -Reiya, Fourth Daughter of the Mikage",
    "all_sets": "Ancient Nights"
   },
@@ -2574,7 +2574,7 @@
    "race": "Vampire",
    "artist": "yuhki lily",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever this card deals damage ⇒ You gain that much life.",
+   "text": "Automatic\n\nWhenever this card deals damage ⇒ You gain that much life.",
    "flavor_text": "Its blood flows only for combat.",
    "all_sets": "Ancient Nights"
   },
@@ -2621,7 +2621,7 @@
    "race": "Dark Elf",
    "artist": "Azusa",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever damage is dealt to you ⇒ Put a [+100/+100] counter on this card.",
+   "text": "Automatic\n\nWhenever damage is dealt to you ⇒ Put a [+100/+100] counter on this card.",
    "flavor_text": "Pain turns to hatred, and lights a fire in the heart.",
    "all_sets": "Ancient Nights"
   },
@@ -2647,7 +2647,7 @@
    "race": "Dark Elf",
    "artist": "Saiko Takaki",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever a ruler or resonator you control deals damage to you ⇒ This card deals that much damage to your opponent.",
+   "text": "Automatic\n\nWhenever a ruler or resonator you control deals damage to you ⇒ This card deals that much damage to your opponent.",
    "flavor_text": "An elf that shares pain and pleasure.",
    "all_sets": "Ancient Nights"
   },
@@ -2667,7 +2667,7 @@
    "race": "Dark Elf",
    "artist": "Motohiro Ichinomiya",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nAt the end of your turn ⇒ This card deals 100 damage to each player.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ This card deals 100 damage to each player.",
    "flavor_text": "Frayla's actions set the world on a fated path of ruin.",
    "all_sets": "Ancient Nights"
   },
@@ -2734,7 +2734,7 @@
    "race": "Fairy Tale",
    "artist": "Matsurika Yoko",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever this card attacks ⇒ It deals 200 damage to target player or resonator. You gain 200 life.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It deals 200 damage to target player or resonator. You gain 200 life.",
    "flavor_text": "A fairy tale bound and written in blood.",
    "all_sets": "Ancient Nights"
   },
@@ -2757,7 +2757,7 @@
    "race": "Rabbit/Demon",
    "artist": "hatarisu",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ It deals 500 damage to you.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ It deals 500 damage to you.",
    "flavor_text": "A strange creature from the Outer World.",
    "all_sets": "Ancient Nights"
   },
@@ -2794,7 +2794,7 @@
    "race": "Dark Elf",
    "artist": "ishishou",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nAt the end of your turn ⇒ You may put target Dark Elf from your graveyard into your hand. If you do, this card deals 300 damage to you.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ You may put target Dark Elf from your graveyard into your hand. If you do, this card deals 300 damage to you.",
    "flavor_text": "\"Don't stop, Gill. Not now, not ever. Even if I die.\"",
    "all_sets": "Ancient Nights"
   },
@@ -2809,7 +2809,7 @@
    "race": "Dark Elf",
    "artist": "ishishou",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[r][b]: This card deals 100 damage multiplied by the number of Dark Elves you control to your opponent.",
+   "text": "Activate\n\n[r][b]: This card deals 100 damage multiplied by the number of Dark Elves you control to your opponent.",
    "flavor_text": "\"I call upon you, all who live in oppression! Rise up, and defy fate!\"",
    "all_sets": "Ancient Nights"
   },
@@ -2833,7 +2833,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[rest], [X]: Put a resonator with total cost X from a removed area that was removed by this card into the field.",
+   "text": "Activate\n\n[rest], [X]: Put a resonator with total cost X from a removed area that was removed by this card into the field.",
    "flavor_text": "The forbidden gate.",
    "all_sets": "Ancient Nights"
   },
@@ -2856,7 +2856,7 @@
    "race": "Dark Elf",
    "artist": "Nem",
    "expansion": "Ancient Nights",
-   "text": "Continuous\nThis card gains [+300/+200] as long as your life is 2000 or less.",
+   "text": "Continuous\n\nThis card gains [+300/+200] as long as your life is 2000 or less.",
    "flavor_text": "\"I'm ready when you are.\"",
    "all_sets": "Ancient Nights"
   },
@@ -2939,7 +2939,7 @@
    "race": "Dark Elf",
    "artist": "Rumie",
    "expansion": "Ancient Nights",
-   "text": "Continuous\nThis card gains [+200/+300] as long as your life is 2000 or less.",
+   "text": "Continuous\n\nThis card gains [+200/+300] as long as your life is 2000 or less.",
    "flavor_text": "\"Are you ready, Hilda?\"",
    "all_sets": "Ancient Nights"
   },
@@ -2959,7 +2959,7 @@
    "race": "Dark Elf",
    "artist": "Saskia Gutekunst",
    "expansion": "Ancient Nights",
-   "text": "Continuous\nThis card gains [Swiftness] as long as you control another Dark Elf.",
+   "text": "Continuous\n\nThis card gains [Swiftness] as long as you control another Dark Elf.",
    "flavor_text": "A good distraction makes for easy assassination.",
    "all_sets": "Ancient Nights"
   },
@@ -2985,7 +2985,7 @@
    "race": "Demon",
    "artist": "tokiwa",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ It deals 600 damage to your opponent.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ It deals 600 damage to your opponent.",
    "flavor_text": "\"Frayla? I trust you're well. Although I don't really care.\" -Kaim, Demon of Vice",
    "all_sets": "Ancient Nights"
   },
@@ -3052,7 +3052,7 @@
    "race": "Fairy Tale",
    "artist": "Kelvin",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ It deals 400 damage to your opponent.\" and a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ You gain 400 life.\" into the field.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ It deals 400 damage to your opponent.\" and a [400/400] darkness Pig resonator token with \"When this card is put into a graveyard from the field ⇒ You gain 400 life.\" into the field.",
    "flavor_text": "They were born the same, but they won't die the same.",
    "all_sets": "Ancient Nights"
   },
@@ -3075,7 +3075,7 @@
    "race": "Vampire",
    "artist": "Haruichi Kido",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever this card deals damage ⇒ You gain that much life.",
+   "text": "Automatic\n\nWhenever this card deals damage ⇒ You gain that much life.",
    "flavor_text": "Survival adaptations are just another form of evolution.",
    "all_sets": "Ancient Nights"
   },
@@ -3098,7 +3098,7 @@
    "race": "Dark Elf",
    "artist": "touge369",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 200 damage to each player.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 200 damage to each player.",
    "flavor_text": "\"We will bring liberation to all.\" -Frayla, the Revolutionist",
    "all_sets": "Ancient Nights"
   },
@@ -3144,7 +3144,7 @@
    "race": "Dinosaur",
    "artist": "Hayama Kohei",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put two mystery counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put two mystery counters on your J/ruler.",
    "flavor_text": "You'd better kill it in one blow. If you don't, it only gets worse.",
    "all_sets": "Ancient Nights"
   },
@@ -3206,7 +3206,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
    "flavor_text": "A transforming magic.",
    "all_sets": "Ancient Nights"
   },
@@ -3224,7 +3224,7 @@
    "type": "Addition",
    "artist": "Haruki Komai",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], banish this card: Target J/resonator gains [+200/+200] until end of turn. Draw a card.",
+   "text": "Activate\n\n[1], banish this card: Target J/resonator gains [+200/+200] until end of turn. Draw a card.",
    "flavor_text": "Touching it fills you with vitality.",
    "all_sets": "Ancient Nights"
   },
@@ -3242,7 +3242,7 @@
    "type": "Addition",
    "artist": "hatarisu",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], banish this card: You gain 500 life. Draw a card.",
+   "text": "Activate\n\n[1], banish this card: You gain 500 life. Draw a card.",
    "flavor_text": "Overflowing with energy.",
    "all_sets": "Ancient Nights"
   },
@@ -3260,7 +3260,7 @@
    "type": "Addition",
    "artist": "Miko Yamazaki",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[w][r][u][g][b], banish this card: Put a [1000/1000] light Angel resonator token with [Flying] into the field.",
+   "text": "Activate\n\n[w][r][u][g][b], banish this card: Put a [1000/1000] light Angel resonator token with [Flying] into the field.",
    "flavor_text": "This statue watches over the temple eternally. It is said it guards against intruders.",
    "all_sets": "Ancient Nights"
   },
@@ -3273,7 +3273,7 @@
    "type": "Special Magic Stone",
    "artist": "Saiko Takaki",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[2], [rest]: This card deals 100 damage multiplied by the number of Dark Elves you control to each player.",
+   "text": "Activate\n\n[2], [rest]: This card deals 100 damage multiplied by the number of Dark Elves you control to each player.",
    "flavor_text": "A fiendish stone that speaks to the souls of mortals.",
    "all_sets": "Ancient Nights"
   },
@@ -3286,7 +3286,7 @@
    "type": "Special Magic Stone",
    "artist": "Kusanagi Tyouen",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[w], [rest], banish this card: Put target Golem from your graveyard into your hand.",
+   "text": "Activate\n\n[w], [rest], banish this card: Put target Golem from your graveyard into your hand.",
    "flavor_text": "A stone housing a mysterious sacred power.",
    "all_sets": "Ancient Nights"
   },
@@ -3299,7 +3299,7 @@
    "type": "Special Magic Stone",
    "artist": "Mad",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[rest]: Target Elf gains [+100/+100] until end of turn.",
+   "text": "Activate\n\n[rest]: Target Elf gains [+100/+100] until end of turn.",
    "flavor_text": "A stone at the center of the elven world's power.",
    "all_sets": "Ancient Nights"
   },
@@ -3322,7 +3322,7 @@
    "race": "Panda",
    "artist": "ComamitsuZaki",
    "expansion": "Ancient Nights",
-   "text": "Continuous\nThis card gains [Flying] as long as you control a water gem.",
+   "text": "Continuous\n\nThis card gains [Flying] as long as you control a water gem.",
    "flavor_text": "Wings made of gems never break.",
    "all_sets": "Ancient Nights"
   },
@@ -3345,7 +3345,7 @@
    "race": "Beast",
    "artist": "Mad",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhenever this card attacks ⇒ Target resonator can't block this turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Target resonator can't block this turn.",
    "flavor_text": "\"Careful, flicking their tongues means they're about to attack.\" -Environmental Researcher, Fabre",
    "all_sets": "Ancient Nights"
   },
@@ -3393,7 +3393,7 @@
    "race": "Elf",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Target Elf can't be destroyed until the beginning of your next turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Target Elf can't be destroyed until the beginning of your next turn.",
    "flavor_text": "King Faerur is ever accompanied by his mighty guards.",
    "all_sets": "Ancient Nights"
   },
@@ -3419,7 +3419,7 @@
    "race": "Dinosaur",
    "artist": "Hayama Kohei",
    "expansion": "Ancient Nights",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put two mystery counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put two mystery counters on your J/ruler.",
    "flavor_text": "You'd better kill it in one blow. If you don't, it only gets worse.",
    "all_sets": "Ancient Nights"
   },
@@ -3431,7 +3431,7 @@
    "type": "Basic Magic Stone",
    "artist": "Kok_Narak",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Ancient Nights"
   },
   {
@@ -3442,7 +3442,7 @@
    "type": "Basic Magic Stone",
    "artist": "Kok_Narak",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Ancient Nights"
   },
   {
@@ -3453,7 +3453,7 @@
    "type": "Basic Magic Stone",
    "artist": "Nammza666",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Ancient Nights"
   },
   {
@@ -3464,7 +3464,7 @@
    "type": "Basic Magic Stone",
    "artist": "MaraMara GuGu",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Ancient Nights"
   },
   {
@@ -3475,7 +3475,7 @@
    "type": "Basic Magic Stone",
    "artist": "Adarin",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Ancient Nights"
   },
   {
@@ -3487,7 +3487,7 @@
    "race": "Human",
    "artist": "fzwrAym",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "Treasure hunting is life.",
    "all_sets": "Ancient Nights"
   },
@@ -3501,7 +3501,7 @@
    "race": "Human",
    "artist": "fzwrAym",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "\"Treasure is always in the dangerous spots. Peril equals profit!\"",
    "all_sets": "Ancient Nights"
   },
@@ -3514,7 +3514,7 @@
    "race": "Dragonoid",
    "artist": "Yukie TAJIMA",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "The girl's heart burned like a fire.",
    "all_sets": "Ancient Nights"
   },
@@ -3528,7 +3528,7 @@
    "race": "Dragonoid",
    "artist": "Yukie TAJIMA",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "\"Just wait 'till next year Kirik. I'll definitely beat you.\"",
    "all_sets": "Ancient Nights"
   },
@@ -3541,7 +3541,7 @@
    "race": "Mermaid",
    "artist": "Nekobayashi",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "Prayers reach the sky.",
    "all_sets": "Ancient Nights"
   },
@@ -3555,7 +3555,7 @@
    "race": "Mermaid",
    "artist": "Nekobayashi",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "\"I will protect the palace while Princess Shaela is away.\"",
    "all_sets": "Ancient Nights"
   },
@@ -3568,7 +3568,7 @@
    "race": "Elemental",
    "artist": "noki",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "An unusual leaf elemental who holds a special power.",
    "all_sets": "Ancient Nights"
   },
@@ -3582,7 +3582,7 @@
    "race": "Elemental",
    "artist": "noki",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "His breath is the wind.",
    "all_sets": "Ancient Nights"
   },
@@ -3595,7 +3595,7 @@
    "race": "Vampire",
    "artist": "JURI",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "\"What shall it be this evening, Lady Reiya?\"",
    "all_sets": "Ancient Nights"
   },
@@ -3609,7 +3609,7 @@
    "race": "Vampire",
    "artist": "JURI",
    "expansion": "Ancient Nights",
-   "text": "Activate\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "\"As you wish. I shall prepare a blood feast.\"",
    "all_sets": "Ancient Nights"
   }

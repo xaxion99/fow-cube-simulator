@@ -1,0 +1,2191 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/4840",
+   "name": "Dispelling Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4840/image_en/80cb6523-9280-47ee-8f12-342f2a2636e3.jpg",
+   "number": "EDL-001",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Treasure",
+   "artist": "jitari",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"Oh, it ... It's wonderful! ... I think.\" ーSelesta, Treasure Hunter",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4841",
+   "name": "Endless Starlight, the Star Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4841/image_en/e301ef78-4139-430d-b97f-425d33ad9f24.jpg",
+   "number": "EDL-002",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "KAZTO FURUYA",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "The light of the star lets you judge your sins.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4842",
+   "name": "Exorcist Mage at the Academy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4842/image_en/322ae963-b14e-4937-bfca-bc1e5873782f.jpg",
+   "number": "EDL-003",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Human, Wizard",
+   "artist": "Kamijo Roro",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nIf a resonator would be put into the field without being played from a hand, remove it from the game instead.",
+   "flavor_text": "\"Now don't be scared of things you can't see.\"",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4843",
+   "name": "Flute, Captive Dragonoid Child // Group of Comets",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4843/image_en/13998a19-11a6-4972-96d4-e3dcae95c212.jpg",
+   "number": "EDL-004",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "100 / 400",
+   "type": "Resonator // Chant",
+   "race": "Dragonoid",
+   "artist": "Pisuke",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: Put a [+100/+100] counter on another entity you control.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4844",
+   "name": "Grace of the Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4844/image_en/0e3b10c8-0835-4250-8813-135308d0a5a8.jpg",
+   "number": "EDL-005",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "sakura moyon",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "This grace gives divine protection to the blessed.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4845",
+   "name": "Light Servant of Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4845/image_en/3a67ffec-1346-47ab-b982-366dc1d54144.jpg",
+   "number": "EDL-006",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator",
+   "race": "Deity",
+   "artist": "jugemt",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nIf damage would be dealt to you, it's dealt to this card instead.",
+   "flavor_text": "Ragnarok appeared from another dimension, and the world shook and trembled.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4846",
+   "name": "Magic Bird",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4846/image_en/89daa215-8a61-4f74-8112-62ca9b2a3e65.jpg",
+   "number": "EDL-007",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Misa Tsutsui",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\nRemove a [+100/+100] counter from this card: Put a [+100/+100] counter on another entity you control.",
+   "flavor_text": "There are many magical birds on the campus of the Academy.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4847",
+   "name": "Magic Crest of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4847/image_en/257828ba-9a27-42c1-94a3-d9f05479fc23.jpg",
+   "number": "EDL-008",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "fzwrAym",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen this card enters the field ⇒ Distribute four [+100/+100] counters on up to four target resonators.",
+   "flavor_text": "The Light Magic Crest seems to grant some kind of strange power.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4848",
+   "name": "Oborozuki, Star Sword Visionary",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4848/image_en/249caf00-212d-4b05-9d1a-d022b2e688de.jpg",
+   "number": "EDL-009",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Human",
+   "artist": "KAZTO FURUYA",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\nRemove X [+100/+100] counters from this card: Put X [+100/+100] counters on an entity you control. Play this ability only during your turn and only once per turn.",
+   "flavor_text": "One day, a comet fell from the sky, and a dragon appeared in its wake, changing the fate of this world forever.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4850",
+   "name": "Pilgrim of the Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4850/image_en/d0df81f6-427e-4d07-9bc6-658b87477985.jpg",
+   "number": "EDL-010",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "sakura moyon",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Count the number of will symbols in the attribute cost of each entity you control. Put [+100/+100] counters on each of those entities equal to the number of will symbols you counted for that entity this way.",
+   "flavor_text": "Oborozuki's family, blessed by the star, has protected the godly power supposedly resting at the Starlit Canopy for generations.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4851",
+   "name": "Reiya, Spawn of the Star // Twinkle of the Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4851/image_en/93d9ad19-abab-43b4-8034-d9b82eeaec18.jpg",
+   "number": "EDL-011",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator // Chant",
+   "race": "Human",
+   "artist": "KAZTO FURUYA",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhenever a [+100/+100] counter is put on this card >>> Choose one;\n- This card deals damage equal to its ATK to target J/resonator.\n- You gain life equal to this card's DEF.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4852",
+   "name": "Silmeria, Summoner of Spirits // Dance of Spirits",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4852/image_en/2f476269-c98b-4c60-8711-48e831b81368.jpg",
+   "number": "EDL-012",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "500 / 1000",
+   "type": "Resonator // Chant",
+   "race": "Human, Wizard",
+   "artist": "Miko Yamazaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest], remove X [+100/+100] counters from this card: Put a [0/0] light Spirit resonator token with [Flying] and X [+100/+100] counters on it into the field.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4853",
+   "name": "Spirit of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4853/image_en/ba9b95a5-f8e8-43a9-9f19-0c13d8d32043.jpg",
+   "number": "EDL-013",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "j-peg",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen this card enters your field ⇒ Put a [+100/+100] counter on another target J/resonator you control.",
+   "flavor_text": "It's a faint light, but sometimes that's all you need to find hope.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4854",
+   "name": "Spirit of the Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4854/image_en/cdce11c6-f9f6-4f62-86d8-739d73830e4f.jpg",
+   "number": "EDL-014",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Miko Yamazaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Reveal the top card of your deck and count the number of will symbols in its attribute cost. Put X [+100/+100] counters on target entity you control, where X is the number of will symbols you counted this way.",
+   "flavor_text": "The spirit of the star seems to know the future.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4855",
+   "name": "Star Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4855/image_en/4ccab260-62d8-4378-97a4-0adf65d55683.jpg",
+   "number": "EDL-015",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "1700 / 1700",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nYou may pay [W] less to play this card for each magic stone and light entity you control with a [+100/+100] counter on it.",
+   "flavor_text": "Its brightness is a reflection of its power.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4856",
+   "name": "Starlit Canopy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4856/image_en/a109eac0-2ad8-407d-9ed7-0e70fd2b4eb3.jpg",
+   "number": "EDL-016",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhenever one or more [+100/+100] counters are put on this card >>> Draw a card.",
+   "flavor_text": "Now only the stars and the earth remember the battle fought here in ancient times.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4857",
+   "name": "The Hidden History - \"Oborozuki\"",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4857/image_en/fbff451a-d6c8-4eb7-a8d7-62c1e05db5aa.jpg",
+   "number": "EDL-017",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: Look at the top card of your deck. You may put it on the bottom of your deck.",
+   "flavor_text": "Kaguya begins to tell a story, an epic about an ancient history that was, but never will be again.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4858",
+   "name": "The Showdown with Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4858/image_en/e00ff9af-8182-4242-bc8e-28f5c36f9fa1.jpg",
+   "number": "EDL-018",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "AKI",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "The invader from another dimension, Ragnarok, is searching for the cursed Reiya. But Oborozuki will do everything she can to stop him, even sacrificing herself.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4859",
+   "name": "Twinkling Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4859/image_en/451cf469-5783-4aa4-a514-8325f263be02.jpg",
+   "number": "EDL-019",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nYou may pay [W] less to play this card for each magic stone and light entity you control with a [+100/+100] counter on it.",
+   "flavor_text": "Its twinkling was said to be a good omen, but now it seems clouded.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4860",
+   "name": "Arle, the Seven-Tailed Fox // Arle's Flame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4860/image_en/2eeff417-f50e-4a2d-9dfd-0fd41698d86f.jpg",
+   "number": "EDL-020",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 800",
+   "type": "Resonator // Chant",
+   "race": "Beast",
+   "artist": "SIGMAN",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[R][R][R]: Put this card from your graveyard into the field.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4861",
+   "name": "Burning Rabbit Dash",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4861/image_en/07a58af6-e112-4104-9c22-94de1c549110.jpg",
+   "number": "EDL-021",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Kelvin",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "Speed that hurts.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4862",
+   "name": "Chasing Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4862/image_en/ee9cc1bb-912f-4eab-92aa-1def7285d150.jpg",
+   "number": "EDL-022",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nYou may pay [R] less to play this card for each damaged J/resonator.",
+   "flavor_text": "Extraordinary hunters must be quick to act.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4863",
+   "name": "Claw of the Dragonoid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4863/image_en/830ba8c9-a753-4df6-813f-d1b152cf5a95.jpg",
+   "number": "EDL-023",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Treasure",
+   "artist": "Nekobayashi",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"Hmm, according to this scroll, this might have belonged to a dragonoid who loved training more than anything. ... Well, I'll still take it.\" ーSelesta, Treasure Hunter",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4864",
+   "name": "Contract with the Fox God",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4864/image_en/0823aad3-421b-4707-8b9c-cb1859690ee6.jpg",
+   "number": "EDL-024",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yua",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "The Fox God gave his life, and entrusted the young fox inheriting his soul to Lilias's care.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4865",
+   "name": "Cook at the Academy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4865/image_en/6d126764-95bb-42aa-a849-d26a2a27de4f.jpg",
+   "number": "EDL-025",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Kamijo Roro",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Search your deck for a card named \"Hoelle Pig\", reveal it, and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"Well, let's have ... Hoelle pork tonight.\"",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4866",
+   "name": "Fire Servant of Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4866/image_en/58948740-3696-4358-a255-5cf0f92ac348.jpg",
+   "number": "EDL-026",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 600",
+   "type": "Resonator",
+   "race": "Deity",
+   "artist": "jugemt",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Choose one;\n- This card deals 1000 damage to target player or J/resonator.\n- This card deals 1000 damage to three target players and/or J/resonators. Choose this option only if your ruler is \"Ragnarok, Invading Dragon Lord\".",
+   "flavor_text": "Ragnarok burns everything, even with a slightest touch of flame.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4867",
+   "name": "Groundsplitter Rabbit // Split Heaven and Earth",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4867/image_en/9ff0dda3-9fd9-4dcf-a073-bed3e27659b2.jpg",
+   "number": "EDL-027",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 600",
+   "type": "Resonator // Chant",
+   "race": "Beast",
+   "artist": "Kelvin/Fushikaden K.K.",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[R]: Beasts gain [+200/0] until end of turn.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4868",
+   "name": "Hoelle Pig // Food Supply",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4868/image_en/59e19f4f-1d2d-4744-bd24-37ae3da0625f.jpg",
+   "number": "EDL-028",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "400 / 300",
+   "type": "Resonator // Chant",
+   "race": "Beast",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\nBanish this card: Recover your ruler.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4869",
+   "name": "Hunting Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4869/image_en/9e9d711b-f43e-4066-ba37-c268218caca7.jpg",
+   "number": "EDL-029",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "1700 / 1700",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "gozz",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Destroy all damaged J/resonators your opponent controls. This card deals 400 damage for each resonator destroyed this way to your opponent.",
+   "flavor_text": "\"He who runs after two hares will catch both.\" ーAncient dragonoid proverb",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4870",
+   "name": "Injured Fox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4870/image_en/b7b1c103-a307-4976-96d2-1dfce8495c8c.jpg",
+   "number": "EDL-030",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "muranako",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> This card deals 700 damage to target resonator you control. If that resonator is still a legal target, produce [R].",
+   "flavor_text": "No injury should suppress your will to fight.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4871",
+   "name": "Lilias, Last Descendant of Dragonoids",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4871/image_en/97573ce6-745b-4fb6-850f-a1cc521059ab.jpg",
+   "number": "EDL-031",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Dragonoid",
+   "artist": "SIGMAN",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: Put five strength counters on this card.",
+   "flavor_text": "The survivor of the ruined nation of dragonoids, the last descendant.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4873",
+   "name": "Lilias's Mentor",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4873/image_en/0cb38d0f-a10c-40d0-8fbe-8f9e0eab4636.jpg",
+   "number": "EDL-032",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "100 / 600",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "fzwrAym",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> This card deals damage equal to its ATK to target J/resonator.",
+   "flavor_text": "Martial Arts is the way of the mind.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4874",
+   "name": "Lilias's Strike",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4874/image_en/e3204ae3-bbbd-4ed4-8273-c79e374cc787.jpg",
+   "number": "EDL-033",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "311tarou",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"The match is the moment!\" ーLilias, Last Descendant of Dragonoids",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4875",
+   "name": "Magic Crest of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4875/image_en/51fc2ed1-eb7b-4555-a735-cb47b6d1e7f5.jpg",
+   "number": "EDL-034",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen this card enters the field ⇒ It deals 600 damage to target resonator.",
+   "flavor_text": "The Fire Magic Crest scorches those that touch it.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4876",
+   "name": "Shrine of the Dragonoids",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4876/image_en/915ac14f-a825-41b4-bea1-24be86aba0d8.jpg",
+   "number": "EDL-035",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Nekobayashi",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: If a fire source you control would deal damage this turn, it deals that much plus 200 instead.",
+   "flavor_text": "In ancient times, dragonoids were enshrined here.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4877",
+   "name": "Spirit of Scorched Bales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4877/image_en/7166f50e-4b3c-4ad8-a3c7-3408b7406f66.jpg",
+   "number": "EDL-036",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Miko Yamazaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Choose a player. This card deals 200 damage to each J/resonator they control. Produce [R] for each J/resonator that was dealt damage this way and wouldn't be destroyed by that damage.",
+   "flavor_text": "To keep the fire burning, the life fueling it must go on.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4878",
+   "name": "The Hidden History - \"Lilias\"",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4878/image_en/784acccd-339d-4cf4-8998-e05274e2a400.jpg",
+   "number": "EDL-037",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\nRemove five strength counters from your J/ruler: Return this card to its owner's hand.",
+   "flavor_text": "The nation of the dragonoids was destroyed in the war in ancient times, and now only one dragonoid, herself, is still alive. At least that is what she thinks.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4879",
+   "name": "Thunder Wolf // Thunder",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4879/image_en/fdbf714a-6c13-4f08-a6a2-3ce597d7e450.jpg",
+   "number": "EDL-038",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator // Chant",
+   "race": "Beast",
+   "artist": "Nagi-nyan",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nThis card gains [Precision], [First Strike], and [+400/+400] as long your opponent controls a damaged J/resonator.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4880",
+   "name": "Academy Guard of Lykeion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4880/image_en/f6c27a5c-9b13-41e6-b547-8c77271e4655.jpg",
+   "number": "EDL-039",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Kamijo Roro",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nEach player may only play one chant spell per turn.",
+   "flavor_text": "\"What are you doing here?\"",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4881",
+   "name": "Appraisal of Treasures",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4881/image_en/31e98e7e-7f26-4225-a267-27c4275eb74d.jpg",
+   "number": "EDL-040",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Rumie",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"Ah, my main man! So what's it all worth??\" ーSelesta, Treasure Hunter",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4882",
+   "name": "Chelina, Sorceress of Sending Back // Send Back",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4882/image_en/6b8d505d-640b-40f0-9c87-7bc9113d2b9b.jpg",
+   "number": "EDL-041",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "300 / 500",
+   "type": "Resonator // Chant",
+   "race": "Human",
+   "artist": "BANAMONS*/Cola",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nIf an entity your opponent controls would be put into its owner's hand by an ability of another card, you may put it on the bottom of its owner's deck instead.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4883",
+   "name": "Crown of the Ancient King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4883/image_en/137434c1-2f66-4ddf-bccd-9f65688bfef7.jpg",
+   "number": "EDL-042",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Treasure",
+   "artist": "gekko",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"Hmm, according to this scroll, there is no reference to it anywhere. …Well, what is it then?\" ーSelesta, Treasure Hunter",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4884",
+   "name": "Endless Purse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4884/image_en/8cb183a7-d0d3-4bce-aeb9-639e49984860.jpg",
+   "number": "EDL-043",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Treasure",
+   "artist": "hatarisu",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"Kiki, this is so cool!\" ーSelesta, Treasure Hunter",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4885",
+   "name": "Insatiable Desire for Treasure",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4885/image_en/adf07d99-a11f-4974-beef-7588908c7a29.jpg",
+   "number": "EDL-044",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "AKI",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "The target of Selesta's last treasure hunt was Ragnarok, as her desire for treasure was stronger than everything else.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4886",
+   "name": "Jewel of the Panda King",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4886/image_en/6ad14242-66e1-4576-874a-eca953ade927.jpg",
+   "number": "EDL-045",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Treasure",
+   "artist": "Moopic",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"Hmm, according to this scroll, this might have belonged to a panda king who loved jewels. ... Well, doesn't that sound way too dandy for a true panda?\" ーSelesta, Treasure Hunter",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4887",
+   "name": "Kiki, Selesta's Partner // Kiki's Exploration",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4887/image_en/ce2b45b3-2472-489d-a145-0afbc7d8493f.jpg",
+   "number": "EDL-046",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 100",
+   "type": "Resonator // Chant",
+   "race": "Beast",
+   "artist": "Matsurika Yoko",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nWhile this card is revealed from your deck by an [Exploration] ability you control, you may play it without paying its cost.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4888",
+   "name": "Magic Crest of Water",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4888/image_en/3efd41c5-67c3-4277-99b7-4b860e16078c.jpg",
+   "number": "EDL-047",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "touge369",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "flavor_text": "The Water Magic Crest inspires dark thoughts.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4889",
+   "name": "Mermaid's Thunder Parasol",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4889/image_en/91c9fd0f-c789-4f00-a19d-b496f628b177.jpg",
+   "number": "EDL-048",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Treasure",
+   "artist": "hatarisu",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"Hmm, according to this scroll, this might have belonged to a mermaid princess who controlled the weather with her parasol. …Well, I guess having another umbrella can't hurt.\" ーSelesta, Treasure Hunter",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4890",
+   "name": "Mirage, Fantasy Guide // Foresee",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4890/image_en/32a6889a-b95c-4655-b49f-d655cd8cda50.jpg",
+   "number": "EDL-049",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator // Chant",
+   "race": "Spirit // Mage Art",
+   "artist": "ishishou/hatarisu",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nYou may pay [B][B] less to play cards named ”Foresee\".",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4891",
+   "name": "Selesta, Treasure Hunter",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4891/image_en/99d598ff-1f71-4c40-a3cb-7e800cc4a919.jpg",
+   "number": "EDL-050",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Human, Rogue",
+   "artist": "Matsurika Yoko",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[X]: Choose X cards from your removed area that were removed by an [Exploration] ability you controlled. Put a copy of each of those cards on the chase. Play this ability only during your turn and only once per turn.",
+   "flavor_text": "Very serious and honest, researching and working harder than anyone else. But tell her about a treasure, and she is gone.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4893",
+   "name": "Skycover Squirrel",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4893/image_en/8b1d3d72-a33c-4625-91a4-2cacce870b6f.jpg",
+   "number": "EDL-051",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 800",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Misa Tsutsui",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nThis card gains [+200/0] for each card in your hand.",
+   "flavor_text": "Knowledge covers the sky.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4894",
+   "name": "The Hidden History - \"Selesta\"",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4894/image_en/3a2ccfd1-f297-4822-bb83-2e6e708773ee.jpg",
+   "number": "EDL-052",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: Produce [B]. Spend this will only to play activate abilities of cards named “Selesta, Treasure Hunter” you control.",
+   "flavor_text": "Selesta excavated countless ancient treasures in her career, many of them related to magic stones. One of her descendants became the leading researcher on magic stones, and his name was Grusbalesta.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4895",
+   "name": "The Library of Lykeion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4895/image_en/e21ebe9a-bbc6-4fad-ad68-36e25862127b.jpg",
+   "number": "EDL-053",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Draw X cards, where X is five minus the number of cards in your hand.",
+   "flavor_text": "The books in Lykeion's library are all most carefully selected..",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4896",
+   "name": "Water Servant of Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4896/image_en/3ed10c82-0c45-4b7d-880f-bfcebe8485dd.jpg",
+   "number": "EDL-054",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Deity",
+   "artist": "jugemt",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Draw a card. If your ruler is \"Ragnarok, Invading Dragon Lord\", draw three cards instead.",
+   "flavor_text": "Knowledge flows like water, until thirst absorbs it.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4897",
+   "name": "Water Spirit of the Lamp",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4897/image_en/f83c75a0-9c41-42b8-ac4a-307517cbc561.jpg",
+   "number": "EDL-055",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Miko Yamazaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nWhile this card is revealed from your deck by an [Exploration] ability you control, you may play it without paying its cost.",
+   "flavor_text": "The spirit of the lamp follows Selesta, unseen and tireless.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4898",
+   "name": "Waterfront Frog",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4898/image_en/e1e14b54-e405-430f-9b95-aad23d6033f3.jpg",
+   "number": "EDL-056",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 900",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "Kamijo Roro",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nThis card gains [Flying] as long as you have five or more cards in your hand.",
+   "flavor_text": "At the waterfront, you must keep your eyes on the sky.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4899",
+   "name": "Wise Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/48/4899/image_en/5801bd91-8132-4ed3-8822-944e2f986c79.jpg",
+   "number": "EDL-057",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "1600 / 1700",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "Kotakan",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Return up to two target non-magic stone, non-J-ruler entities your opponent controls to their owners' hand. Draw a card.",
+   "flavor_text": "While Selesta was sorting happily through all the treasure, suddenly the dragon came home.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4900",
+   "name": "Altesing, Mischievous Boy // A Glimpse of the Prodigy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4900/image_en/f5d12c3c-b9e3-4ea1-be14-b1db1444c10f.jpg",
+   "number": "EDL-058",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator // Chant",
+   "race": "Elf, Wizard",
+   "artist": "ComamitsuZaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[G]: Return this card to its owner's hand. You may pay [G][G] less to play cards named \"A Glimpse of the Prodigy\" until end of turn.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4901",
+   "name": "Altesing's Secret Hideout",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4901/image_en/93a2fcc4-3b25-4e24-b4fd-8145a37f175e.jpg",
+   "number": "EDL-059",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: Produce [G]. Spend this will only to play activate abilities of cards named “Altesing, Mischievous Boy” you control.",
+   "flavor_text": "\"Well now... Let me see what you'd think, my dear wind?\" ーAltesing, Mischievous Boy",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4902",
+   "name": "Elixir, Crest Researcher // Research Results",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4902/image_en/267d3c11-9f00-4fec-a205-b25bb954bd9c.jpg",
+   "number": "EDL-060",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator // Chant",
+   "race": "Human, Wizard",
+   "artist": "Haruichi Kido",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[G], [Rest]: Put a Magic Crest from your hand into the field.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4903",
+   "name": "Elixir's Love",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4903/image_en/19af0914-47e7-44fa-ae79-916c68bd1084.jpg",
+   "number": "EDL-061",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Haruichi Kido",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "Love is like magic.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4904",
+   "name": "Lykeion, the Magic Academy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4904/image_en/329a5909-5027-47c8-bddd-79df58903492.jpg",
+   "number": "EDL-062",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: This turn, you may play your next chant with total cost 2 or less without paying its cost.",
+   "flavor_text": "At his Academy, Welser welcomes both geniuses and troublemakers.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4905",
+   "name": "Magic Crest of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4905/image_en/44f3d270-c63d-4a7e-8c42-3b70df0635f5.jpg",
+   "number": "EDL-063",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "Nagi-nyan",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put the top card of your magic stone deck into the field.",
+   "flavor_text": "The Wind Magic Crest carries evil magic with it.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4906",
+   "name": "Magical Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4906/image_en/53bcfe85-1e75-4614-941f-37f6de96b0de.jpg",
+   "number": "EDL-064",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "1700 / 1700",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "douzen",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Put the top card of your magic stone deck into the field rested.",
+   "flavor_text": "Really good magic sticks around like air, and a talented wizard makes good use of this residual power.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4907",
+   "name": "Magical Wind Arrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4907/image_en/fd8672d7-8acf-4eb7-b2c4-006e223a7bdb.jpg",
+   "number": "EDL-065",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"The Second Rule of Magic: If timing and direction are right, you won't need power.\" ーWelser, the Progenitor of Magic",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4908",
+   "name": "Monstrous Rush",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4908/image_en/3108f058-96a3-4ca1-b547-2557728d5fad.jpg",
+   "number": "EDL-066",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SO",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"All Spells resonate with each other. Always try to make use of that influence properly, and you can achieve the maximum impact with minimum power.\" ーWelser, the Progenitor of Magic",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4909",
+   "name": "Perpetual Student at the Academy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4909/image_en/d7841ded-49ef-4e2d-9d03-f758c7b8e3a2.jpg",
+   "number": "EDL-067",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "700 / 700",
+   "type": "Resonator",
+   "race": "Elf, Wizard",
+   "artist": "311tarou",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nThis card gains [+1300/+1300] as long as you control ten or more magic stones.",
+   "flavor_text": "There is only a fine line between fantasy and reality.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4910",
+   "name": "Spirit of Magic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4910/image_en/90cf1252-2914-492e-9fbc-f449792fc7f0.jpg",
+   "number": "EDL-068",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Miko Yamazaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen you play your third or subsequent chant this turn >>> This card deals 800 damage to target J/resonator.",
+   "flavor_text": "\"Yes, master, I can still do all three transformations.\"",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4911",
+   "name": "Spirit of the Soil // Loamy Soil",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4911/image_en/5bd99fbf-755b-4741-8b11-a9bc783993e8.jpg",
+   "number": "EDL-069",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 700",
+   "type": "Resonator // Chant",
+   "race": "Spirit",
+   "artist": "311tarou",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Put the top card of your magic stone deck into the field rested.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4912",
+   "name": "Stormy Sky",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4912/image_en/f81c6bbf-3e8d-4d41-a3d1-1bca10edb26d.jpg",
+   "number": "EDL-070",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "The sky was as stormy as Elixir's heart.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4913",
+   "name": "Student at the Academy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4913/image_en/dafb4a9e-9202-4064-9bd5-dfe59f2f7228.jpg",
+   "number": "EDL-071",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Elf, Wizard",
+   "artist": "Kamijo Roro",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhenever you play a chant >>> Put two [+100/+100] counters on this card.",
+   "flavor_text": "Though he is still a freshman at the Academy, he already knows a lot about magic.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4914",
+   "name": "The Grimoire of the Seven Luminaries",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4914/image_en/b7cad0a3-a243-47bd-9f81-942c49410876.jpg",
+   "number": "EDL-072",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Treasure",
+   "artist": "jitari",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"Hmm, according to this scroll, this might have belonged to a group of seven strong mages. …Well, nobody else still remembers their names, and I will forget soon as well.\" ーSelesta, Treasure Hunter",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4915",
+   "name": "Unceasing Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4915/image_en/1de346ec-acd9-400a-bb16-0a57e8898fca.jpg",
+   "number": "EDL-073",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "noki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "Welser's magical wind never ceases.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4916",
+   "name": "Welser, the Progenitor of Magic",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4916/image_en/b990149f-adb8-4a25-95f8-d5fc9a05d484.jpg",
+   "number": "EDL-074",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Human, Wizard",
+   "artist": "kurisu",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhenever you play a chant >>> Recover a magic stone you control. This ability triggers only once per turn.",
+   "flavor_text": "\"The First Rule of Magic: Magic should be natural to you, like breathing.\" ーWelser, the Progenitor of Magic",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4918",
+   "name": "Wind of the Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4918/image_en/eb792779-ccfa-42e2-b71e-46b7e7871e7b.jpg",
+   "number": "EDL-075",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "A capricious star seems to drift with the wind.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4919",
+   "name": "Wind Servant of Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4919/image_en/b7c4644f-c902-4a1e-94f7-76908f01b268.jpg",
+   "number": "EDL-076",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "100 / 500",
+   "type": "Resonator",
+   "race": "Deity",
+   "artist": "jugemt",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Produce one will of any attribute. If your ruler is \"Ragnarok, Invading Dragon Lord\", produce three wills of any one attribute instead.",
+   "flavor_text": "Ragnarok's wind is a sign of doom and destruction.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4920",
+   "name": "Abhorrent Revival",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4920/image_en/ed025de7-b494-4d9c-b4eb-2e28fcb3fe4b.jpg",
+   "number": "EDL-077",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "Oborozuki felt the sudden revitalization of the power of darkness.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4921",
+   "name": "Arm of the Demon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4921/image_en/075c6532-05a8-49ce-9da9-6f302694d3e1.jpg",
+   "number": "EDL-078",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Treasure",
+   "artist": "Saiko Takaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "\"Hmm, according to this scro… Yikes, this is gross!!\" ーSelesta, Treasure Hunter",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4922",
+   "name": "Bone Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4922/image_en/a490bff2-b347-47c3-837f-02cb0f848f9f.jpg",
+   "number": "EDL-079",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "1700 / 1300",
+   "type": "Resonator",
+   "race": "Dragon",
+   "artist": "suranaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Put X [400/400] darkness Zombie resonator tokens into the field, where X is the number of resonators in your graveyard.",
+   "flavor_text": "Pick up a bone, and you might end up as bones yourself.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4923",
+   "name": "Darkness Servant of Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4923/image_en/d5673695-5419-4c40-b3a2-433863560665.jpg",
+   "number": "EDL-080",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Deity",
+   "artist": "jugemt",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Enter] >>> Choose one;\n- Destroy target resonator.\n- Destroy three target J/resonators. Choose this option only if your ruler is \"Ragnarok, Invading Dragon Lord\".",
+   "flavor_text": "Ragnarok is heartless till the end.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4924",
+   "name": "Frightened Villager",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4924/image_en/ccbcad0a-b7b7-4050-b4f4-b788eac7c311.jpg",
+   "number": "EDL-081",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Human",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Put a [400/400] darkness Zombie resonator token into the field.",
+   "flavor_text": "Those blessed by the light will be afraid in the dark.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4925",
+   "name": "Gravekeeper at the Academy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4925/image_en/149f8349-f7b7-40c0-885a-18f048138b25.jpg",
+   "number": "EDL-082",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Kamijo Roro",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nCards in all graveyards lose all abilities.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4926",
+   "name": "Interdimensional Graveyard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4926/image_en/2193ce59-9715-4052-afe2-f8652492762e.jpg",
+   "number": "EDL-083",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "KONNO Takashi",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nAt end of turn >>> Remove target resonator in a graveyard from the game. Put a [400/400] darkness Zombie resonator token into the field.",
+   "flavor_text": "Undead life is \"born\" from this interdimensional graveyard.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4927",
+   "name": "Isolated Demon of Revenge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4927/image_en/878a84da-81c5-48a8-8f79-655a30871fd3.jpg",
+   "number": "EDL-084",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1200 / 1200",
+   "type": "Resonator",
+   "race": "Demon",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Revenge] (If an entity you controlled was put into a graveyard from the field this turn, this card gains the following abilities until end of turn.) -\n[Flying]\nWhen this card is put into a graveyard from the field >>> Put another target resonator from your graveyard into your hand.",
+   "flavor_text": "Showing up alone, leaving alone.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4928",
+   "name": "Lonely Vampire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4928/image_en/34bbd6e5-ab9f-4870-8a7d-634da27f8732.jpg",
+   "number": "EDL-085",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Vampire",
+   "artist": "j-peg",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "Lonely needs company, but the price may be a bit high.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4929",
+   "name": "Lord of the Undead // Deadly Dive",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4929/image_en/a3555eb4-8df6-47ba-8426-14237f5b735e.jpg",
+   "number": "EDL-086",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator // Chant",
+   "race": "Zombie",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\n[Revenge] (If an entity you controlled was put into a graveyard from the field this turn, this card gains the following abilities until end of turn.) -\n[Enter] >>> Put a [400/400] darkness Zombie resonator token into the field.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4930",
+   "name": "Magic Crest of Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4930/image_en/bf80d92a-96ff-47eb-aa03-114b34938ec9.jpg",
+   "number": "EDL-087",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Magic Crest",
+   "artist": "KONNO Takashi",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen this card enters the field ⇒ Put target resonator from your graveyard into your hand.",
+   "flavor_text": "The Darkness Magic Crest corrupts and twists life around it.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4931",
+   "name": "Mikage Seijuro, Interdimensional Messenger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4931/image_en/257685f1-d99d-4ed4-8b2d-9c26c4c85e59.jpg",
+   "number": "EDL-088",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Wanderer, Vampire",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\nBanish a resonator: Draw a card. Then put two [+100/+100] counters on target resonator you control. Play this ability only during your turn and only once per turn.",
+   "flavor_text": "Mikage's destiny brought him to this world. But Oborozuki will change his fate forever.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4932",
+   "name": "Mikage Seijuro, Interdimensional Messenger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4932/image_en/72a75003-2798-4084-83a5-9d27c4836a78.jpg",
+   "number": "EDL-088",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Wanderer, Vampire",
+   "artist": "YAMAMOTO-NAOKI",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\nBanish a resonator: Draw a card. Then put two [+100/+100] counters on target resonator you control. Play this ability only during your turn and only once per turn.",
+   "flavor_text": "Mikage's destiny brought him to this world. But Oborozuki will change his fate forever.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4933",
+   "name": "Ominous Moon, the Lunar Sword",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4933/image_en/24b8e41a-945e-4b37-b6b5-aa31cc2e8cdd.jpg",
+   "number": "EDL-089",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "The destiny of this world and the future of Oborozuki were cut off at the same time.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4934",
+   "name": "Reaper Knight // Endless Night",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4934/image_en/4604585f-fe48-46ce-b829-026ba36b7465.jpg",
+   "number": "EDL-090",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "700 / 500",
+   "type": "Resonator // Chant",
+   "race": "Knight",
+   "artist": "Saiko Takaki/aki",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Until end of turn, cards named \"Endless Night\" in your graveyard gain [Remnant] and you may play them without paying their cost.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4935",
+   "name": "The Battle comes to an end, and then...",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4935/image_en/06f0f2e6-94ee-45b2-ace8-a85161b2394f.jpg",
+   "number": "EDL-091",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "uekino aroe",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "Oborozuki broke the curse on Reiya with the power of time spinning, and then she helped Reiya to cut her existence from this world, before the power ran out.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4936",
+   "name": "The Elegant Mikage Sisters // Eternal Recurrence",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4936/image_en/aa5df2cb-5511-41a8-a0ab-bb9b1fe26c69.jpg",
+   "number": "EDL-092",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator // Chant",
+   "race": "Vampire",
+   "artist": "yuko/YAMAMOTO-NAOKI",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[0]: Return this card to its owner's hand. You may pay [D][3] less to play cards named \"Eternal Recurrence\" until end of turn. Play this ability only during your turn and only once per turn.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4937",
+   "name": "The Hidden History - \"Mikage\"",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4937/image_en/62abc485-8652-4d92-8bd2-ae0d2a81a81e.jpg",
+   "number": "EDL-093",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\nBanish this card: Your opponent discards a card. Play this ability only during your turn.",
+   "flavor_text": "Mikage is a messenger from another dimension, who came to this world following Ragnarok. Originally, his plan was just to observe, but then Oborozuki changed his mind.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4938",
+   "name": "Tsuiya, Cursed Spawn of the Star // Curse of Ragnarok",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4938/image_en/f86c2a3c-2cdd-42a3-a3c3-74b895465a9a.jpg",
+   "number": "EDL-094",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator // Chant",
+   "race": "Human",
+   "artist": "ShiroYayoi",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Continuous\nYou may pay [D] less to play cards named ”Curse of Ragnarok\".",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4939",
+   "name": "Tsuiya's Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4939/image_en/78db5758-28fe-4ec9-9717-d5b297bfa802.jpg",
+   "number": "EDL-095",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tsukumi",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "flavor_text": "The final curse begins with death.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4940",
+   "name": "Ragnarok, Invading Dragon Lord",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4940/image_en/835f84db-36e5-4fd9-a87b-28582e3a68a9.jpg",
+   "number": "EDL-096",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Dragon",
+   "artist": "jugemt",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[X], where X is the number of times you already played this ability in this game: Choose one that was not chosen in this game. Play this ability only during your turn;\n- Produce two wills in any combination of attributes.\n- Copy target chant spell you control. You may choose new targets for the copy.\n- Draw three cards.\n- Remove all additions and regalia your opponent controls and all cards in your opponent's graveyard from the game.\n- Destroy all J-rulers.\n- Remove all resonators your opponent controls from the game.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4941",
+   "name": "Epic Stone of the Blood",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4941/image_en/309fe4c4-d4a7-4f38-a8a2-a781a8df31da.jpg",
+   "number": "EDL-097",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "haniwa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Revenge] -\n[Rest]: Put two [+100/+100] counters on target resonator.",
+   "flavor_text": "This magic stone shines with the price of blood.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4942",
+   "name": "Epic Stone of the Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4942/image_en/d9bda389-2aaa-46a7-be88-c06b92866599.jpg",
+   "number": "EDL-098",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "haniwa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: Put three strength counters on your J/ruler.",
+   "flavor_text": "Dragonoids ruled over part of this world in ancient pasts, but now there is just a lone survivor.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4943",
+   "name": "Epic Stone of the Elements",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4943/image_en/de295fb3-12f8-4737-a2fd-253831b7d3c4.jpg",
+   "number": "EDL-099",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "haniwa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: Produce one will of any attribute. Play this ability only if this card was recovered by an ability this turn.",
+   "flavor_text": "At the end of his research, Welser discovered a way to seal magic into matter, and completed it with Elixir.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4944",
+   "name": "Epic Stone of the Star",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4944/image_en/9c6da366-7f06-48e0-9410-e7aa984c6d25.jpg",
+   "number": "EDL-100",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "haniwa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: Put a [+100/+100] counter on this card.",
+   "flavor_text": "The star delivers the light of ancients pasts, illuminating the history of this world.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/4945",
+   "name": "Epic Stone of the Treasure",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/49/4945/image_en/9f3f919f-5ee3-4191-bd63-35c4104a0d7f.jpg",
+   "number": "EDL-101",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "haniwa",
+   "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Activate\n[Rest]: Produce one will of any attribute. Spend this will only to play Treasures.",
+   "flavor_text": "Ruined cities, relics, caves, there is so much in this world to explore the ancient pasts.",
+   "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
+  }
+ ]
+}

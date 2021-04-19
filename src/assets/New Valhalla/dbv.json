@@ -54,7 +54,7 @@
    "race": "Giant",
    "artist": "SIGMAN",
    "expansion": "The Decisive Battle of Valhalla",
-   "text": "Activate\n[W][W][1], discard this card: Destroy target rested J/resonator or addition. You gain 1000 life.",
+   "text": "Activate\n\n[W][W][1], discard this card: Destroy target rested J/resonator or addition. You gain 1000 life.",
    "flavor_text": "\"Tempted by darkness, the Sun sinks to the Earth.\" -Perfect Loki",
    "all_sets": "The Decisive Battle of Valhalla"
   },
@@ -153,7 +153,7 @@
    "race": "Fairy Tale/Wererabbit",
    "artist": "Matsurika Yoko",
    "expansion": "The Decisive Battle of Valhalla",
-   "text": "Continuous\nAs long as there is a resonator, chant, addition, and magic stone in your graveyard, magic stones you control gain \"[Rest]: Produce [W], [R], [B], [G], or [D].\".",
+   "text": "Continuous\n\nAs long as there is a resonator, chant, addition, and magic stone in your graveyard, magic stones you control gain \"[Rest]: Produce [W], [R], [B], [G], or [D].\".",
    "flavor_text": "Dark Alice broke free from her doll form, only to be trapped in yet another form.",
    "all_sets": "The Decisive Battle of Valhalla"
   },
@@ -1431,7 +1431,7 @@
    "race": "Giant",
    "artist": "Takumi Sugikawa",
    "expansion": "The Decisive Battle of Valhalla",
-   "text": "Activate\n[d][d][1], discard this card: Your opponent discards a card. You lose 400 life.",
+   "text": "Activate\n\n[d][d][1], discard this card: Your opponent discards a card. You lose 400 life.",
    "flavor_text": "\"The darkness continues to grow, until it consumes all.\" -Perfect Loki",
    "all_sets": "The Decisive Battle of Valhalla"
   },

@@ -18,7 +18,7 @@
    "race": "Demon",
    "artist": "Zton",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Continuous\nResonators you control gain [+200/0] while attacking.",
+   "text": "Continuous\n\nResonators you control gain [+200/0] while attacking.",
    "flavor_text": "”One seeks a cure for a relative. One wants to destroy them to free the world. One seeks to return to her former self, and one wants to save a friend and his people. But the last one just wants to dominate...\" —Note of Magna 15",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -37,7 +37,7 @@
    "race": "Wizard",
    "artist": "MOGUMO",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ Cancel target automatic ability of a resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ Cancel target automatic ability of a resonator.",
    "flavor_text": "\"She had concealed her ambition quite cleverly, but this mage can't hide from me. She has me worried, though.\" —Note of Magna 16",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -81,7 +81,7 @@
    "race": "Fairy Tale",
    "artist": "Foo Midori",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\n[U][U]: Return this card to its owner's hand.",
+   "text": "Activate\n\n[U][U]: Return this card to its owner's hand.",
    "flavor_text": "The beautiful and transparent princess made of glass.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -100,7 +100,7 @@
    "race": "Knight of the Round Table",
    "artist": "jugemt",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\nBanish this card: Foresee 1.",
+   "text": "Activate\n\nBanish this card: Foresee 1.",
    "flavor_text": "The blue Holy Grail responds to the charm of Valentina.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -122,7 +122,7 @@
    "race": "God",
    "artist": "pochiharu",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Continuous\nOther water J/resonators you control gain [+200/+200].",
+   "text": "Continuous\n\nOther water J/resonators you control gain [+200/+200].",
    "flavor_text": "\"They will discover Vell-Savaria and find some regalia there. The mage will most likely betray them, but I dare not to interfere too much with the events of this world.\" —Note of Magna 17",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -141,7 +141,7 @@
    "race": "Soldier",
    "artist": "Mita Kosuke",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\nBanish this card: Your J-ruler cannot be targeted by chants or abilities until end of turn.",
+   "text": "Activate\n\nBanish this card: Your J-ruler cannot be targeted by chants or abilities until end of turn.",
    "flavor_text": "To a fanatic, death isn't always such a bad thing.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -163,7 +163,7 @@
    "race": "Beast",
    "artist": "hatarisu",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Target resonator gains [+200/+200] until end of turn.",
    "flavor_text": "That figure instilled a little courage in the heart of those who saw it.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -185,7 +185,7 @@
    "race": "Elf",
    "artist": "toridamono",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ Cancel target chant spell.",
+   "text": "Automatic\n\n[Enter] ⇒ Cancel target chant spell.",
    "flavor_text": "\"Yggdrasil's little girl awakened her powers without knowing and will soon go confronting her fate.\" —Note of Magna 12",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -204,7 +204,7 @@
    "race": "Beast",
    "artist": "Haruki Komai",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ Put a friendship counter on your J/ruler. Then, if there are three or more friendship counters on your J/ruler, search your deck for a wind regalia, reveal it, and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] ⇒ Put a friendship counter on your J/ruler. Then, if there are three or more friendship counters on your J/ruler, search your deck for a wind regalia, reveal it, and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Treasure is a proof of friendship.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -223,7 +223,7 @@
    "race": "Wizard",
    "artist": "Kitakaze Tomohiro",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\n[G]: Target J/resonator gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[G]: Target J/resonator gains [+200/+200] until end of turn.",
    "flavor_text": "\"My regalia will have a big impact on the people of this world, although those with more talent will also be more affected by them.\" —Note of Magna 11",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -317,7 +317,7 @@
    "race": "Spirit",
    "artist": "hakurou",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ Recover target J/resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ Recover target J/resonator.",
    "flavor_text": "\"However, somebody not of this world already sensed the power of my regalia, and is searching for them, he might even find my city, Vell-Savaria.\" —Note of Magna 13",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -345,7 +345,7 @@
    "race": "God",
    "artist": "ishishou",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ Remove all other resonators from the game.",
+   "text": "Automatic\n\n[Enter] ⇒ Remove all other resonators from the game.",
    "flavor_text": "\"Because the fate of this world should be in the hands of the people of this world, not mine.\" —Note of Magna 18",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -388,7 +388,7 @@
    "type": "Regalia",
    "artist": "fzwrAym",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\n[Rest]: Produce two wills in any combination of [R] and/or [G]. Spend this will only to play God's Art abilities, (Strangers), or Sword Arts.",
+   "text": "Activate\n\n[Rest]: Produce two wills in any combination of [R] and/or [G]. Spend this will only to play God's Art abilities, (Strangers), or Sword Arts.",
    "flavor_text": "The bond of friendship becomes power and overcomes all obstacles.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -416,7 +416,7 @@
    "race": "Dragon",
    "artist": "Kotakan",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ Destroy all resonators with total cost 1 or less your opponent controls.",
+   "text": "Automatic\n\n[Enter] ⇒ Destroy all resonators with total cost 1 or less your opponent controls.",
    "flavor_text": "It is still loyal to its lord, even when he is not himself anymore.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -441,7 +441,7 @@
    "race": "King",
    "artist": "Nakaba Higurashi",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Continuous\nAs long as you control \"El Chif?n, the Pet Dragon of the Lord of the Seas\", this card gains [Flying] and [Barrier].",
+   "text": "Continuous\n\nAs long as you control \"El Chif?n, the Pet Dragon of the Lord of the Seas\", this card gains [Flying] and [Barrier].",
    "flavor_text": "Once bound, a soul will never be able to return.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -463,7 +463,7 @@
    "race": "Goddess",
    "artist": "Pisuke",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ Destroy target resonator with total cost 3 or less. You gain life equal to its DEF.",
+   "text": "Automatic\n\n[Enter] ⇒ Destroy target resonator with total cost 3 or less. You gain life equal to its DEF.",
    "flavor_text": "\"However, if somebody from outside this world would try to take control of my regalia, then I will have to fight him. Otherwise, the fate of other worlds would be at stake as well.\" —Note of Magna 19",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -488,7 +488,7 @@
    "race": "Treeman",
    "artist": "KONNO Takashi",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\nAt the beginning of your turn ⇒ This card's ATK becomes equal to its DEF until end of turn.",
+   "text": "Automatic\n\nAt the beginning of your turn ⇒ This card's ATK becomes equal to its DEF until end of turn.",
    "flavor_text": "\"I met five travelers on the roads of this world, seeking the power of the regalia together, but each with their own secret agenda.\" —Note of Magna 14",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -508,7 +508,7 @@
    "type": "Regalia",
    "artist": "ishishou",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\n[Rest]: Produce two wills in any combination of [B] and/or [D]. Spend this will only to play God's Art abilities, (Strangers), or Mage Arts.",
+   "text": "Activate\n\n[Rest]: Produce two wills in any combination of [B] and/or [D]. Spend this will only to play God's Art abilities, (Strangers), or Mage Arts.",
    "flavor_text": "\"A beautiful chain is the epitome of binding. When you notice, it's already too late.\" —Valentina",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -533,7 +533,7 @@
    "race": "Beast",
    "artist": "Fukuzo Katsura",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ You may search your deck for up to two resonators with total cost 1, and put them into the field. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] ⇒ You may search your deck for up to two resonators with total cost 1, and put them into the field. Then shuffle your deck.",
    "flavor_text": "Magna sent his guardian beast to help Pricia's growth.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -555,7 +555,7 @@
    "race": "Human",
    "artist": "Kamijo Roro",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\n[Rest]: Put a glass counter on a \"Cinderella, the Valkyrie of Glass\" you control.",
+   "text": "Activate\n\n[Rest]: Put a glass counter on a \"Cinderella, the Valkyrie of Glass\" you control.",
    "flavor_text": "Reality is stranger even than fairy tales.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -580,7 +580,7 @@
    "race": "Goddess",
    "artist": "Hatori Kyoka",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ Look at your opponent's hand. Choose a card. They remove that card from the game.",
+   "text": "Automatic\n\n[Enter] ⇒ Look at your opponent's hand. Choose a card. They remove that card from the game.",
    "flavor_text": "\"For now, I will just keep watching the story of the ambitious mage and the innocent little girl.\" —Note of Magna 20",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -594,7 +594,7 @@
    "race": "Little Girl",
    "artist": "fzwrAym",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\nWhenever a wind regalia enters the field under your control ⇒ Choose one, if the regalia is \"Claw of the Sacred Beast\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or put a [600/600] wind Beast resonator token into the field; or put two friendship counters on this card; or you may pay [0] to do judgment until end of turn.",
+   "text": "Automatic\n\nWhenever a wind regalia enters the field under your control ⇒ Choose one, if the regalia is \"Claw of the Sacred Beast\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or put a [600/600] wind Beast resonator token into the field; or put two friendship counters on this card; or you may pay [0] to do judgment until end of turn.",
    "flavor_text": "An innocent girl growing up in the forest of Sissei, making fast friends with beasts and animals.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -650,7 +650,7 @@
    "race": "Wizard",
    "artist": "ishishou",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\nWhenever a water regalia enters the field under your control ⇒ Choose one, if the regalia is \"Lovers' Lock\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or return target resonator to its owner's hand; or target resonator's ATK becomes 0 until end of turn; or you may pay [0] to do judgment until end of turn.",
+   "text": "Automatic\n\nWhenever a water regalia enters the field under your control ⇒ Choose one, if the regalia is \"Lovers' Lock\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or return target resonator to its owner's hand; or target resonator's ATK becomes 0 until end of turn; or you may pay [0] to do judgment until end of turn.",
    "flavor_text": "\"Your Majesty, please, rest assured. Leave everything to me, and all will be fine.\"",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -672,7 +672,7 @@
    "race": "Beast",
    "artist": "Miko Yamazaki",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Automatic\n[Enter] ⇒ Put a friendship counter on your J/ruler. Then, if there are three or more friendship counters on your J/ruler, choose a card from your Stranger deck at random and put it into your hand.",
+   "text": "Automatic\n\n[Enter] ⇒ Put a friendship counter on your J/ruler. Then, if there are three or more friendship counters on your J/ruler, choose a card from your Stranger deck at random and put it into your hand.",
    "flavor_text": "\"A new friend? Glad to meet ya!\" —Pricia",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -695,7 +695,7 @@
    "type": "Special Magic Stone",
    "artist": "kurisu",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "text": "Activate\n\n[rest]: Produce [G] or [R].",
    "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -707,7 +707,7 @@
    "type": "Special Magic Stone",
    "artist": "Yuko Nagasaki",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "text": "Activate\n\n[rest]: Produce [B] or [U].",
    "flavor_text": "Movements within the dark and murky depths.",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
@@ -719,7 +719,7 @@
    "type": "Basic Magic Stone",
    "artist": "KOBO",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Alice Origin 2nd Start Deck"
   },
   {
@@ -730,7 +730,7 @@
    "type": "Basic Magic Stone",
    "artist": "KOBO",
    "expansion": "Alice Origin 2nd Start Deck",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Alice Origin 2nd Start Deck"
   }
  ]

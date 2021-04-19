@@ -22,7 +22,7 @@
    "race": "Six Sages/Human",
    "artist": "ぽん吉",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nRemove a knowledge counter from this card: Remove target attacking resonator from the game.",
+   "text": "Activate\n\nRemove a knowledge counter from this card: Remove target attacking resonator from the game.",
    "flavor_text": "“In the end I will have to join the battle, I still find it annoying having to cooperate with those five.”",
    "all_sets": "The Millennia of Ages"
   },
@@ -62,7 +62,7 @@
    "race": "Human",
    "artist": "城戸春一",
    "expansion": "The Millennia of Ages",
-   "text": "Continuous\nOther light resonators you control gain [+200/+200].",
+   "text": "Continuous\n\nOther light resonators you control gain [+200/+200].",
    "flavor_text": "The prince who aspired to fairy tales has grown up, becoming a king who inspires all.",
    "all_sets": "The Millennia of Ages"
   },
@@ -82,7 +82,7 @@
    "race": "Fairy Tale/Human",
    "artist": "もぐも",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nRemove three knowledge counters from any number of resonators you control: Remove target resonator from the game.",
+   "text": "Activate\n\nRemove three knowledge counters from any number of resonators you control: Remove target resonator from the game.",
    "flavor_text": "“Kaguya was born together with the moon, she quickly grew like bamboo, and now is preparing to fight a war for the destiny of the world.” -Scheherazade, the Teller of the Crimson Moon",
    "all_sets": "The Millennia of Ages"
   },
@@ -105,7 +105,7 @@
    "race": "Human",
    "artist": "下江クリス",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nBanish this card: You gain life equal to the damage that was dealt to you this turn.",
+   "text": "Activate\n\nBanish this card: You gain life equal to the damage that was dealt to you this turn.",
    "flavor_text": "The story of regeneration is longer than that of destruction. Although no hero will be born on the Texts, her deeds will remain forever in the hearts of people.",
    "all_sets": "The Millennia of Ages"
   },
@@ -149,7 +149,7 @@
    "race": "Relic",
    "artist": "gekko",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nBanish this card: Put a resonator or [Addition:Field] card removed by this card into your field rested.",
+   "text": "Activate\n\nBanish this card: Put a resonator or [Addition:Field] card removed by this card into your field rested.",
    "flavor_text": "It contains the future, all hope is inside it.",
    "all_sets": "The Millennia of Ages"
   },
@@ -168,7 +168,7 @@
    "race": "Treasury Item",
    "artist": "Moopic",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\n[rest]: Recover target resonator named \"Kaguya, the Tale of the Bamboo Cutter\".",
+   "text": "Activate\n\n[rest]: Recover target resonator named \"Kaguya, the Tale of the Bamboo Cutter\".",
    "flavor_text": "“From the sparkling bamboo came out a pretty little girl almost four inches tall.” -Tale of the Bamboo Cutter",
    "all_sets": "The Millennia of Ages"
   },
@@ -211,7 +211,7 @@
    "race": "Six Sages/Human",
    "artist": "lack",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nRemove a knowledge counter from this card: Prevent the next 300 damage that would be dealt to target resonator this turn.",
+   "text": "Activate\n\nRemove a knowledge counter from this card: Prevent the next 300 damage that would be dealt to target resonator this turn.",
    "flavor_text": "Appeared with the lightning, her only purpose is to defeat the enemy to preserve peace in the world.",
    "all_sets": "The Millennia of Ages"
   },
@@ -233,7 +233,7 @@
    "race": "Weapon",
    "artist": "gozz",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\nWhenever added resonator deals damage to a resonator your opponent controls, this card deals that much damage to that resonator's controller.",
+   "text": "Automatic\n\nWhenever added resonator deals damage to a resonator your opponent controls, this card deals that much damage to that resonator's controller.",
    "flavor_text": "Even what doesn't yield at the first blow, surrenders to the cut of this sword.",
    "all_sets": "The Millennia of Ages"
   },
@@ -262,7 +262,7 @@
    "race": "Wanderer",
    "artist": "草薙蝶炎",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\n[R]: This card gains [First Strike] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [First Strike] until end of turn.",
    "flavor_text": "\"Is that one fine? Hey, do you hear me? Good, go back to your dimension!\" -Alice, the Guardian of Dimensions",
    "all_sets": "The Millennia of Ages"
   },
@@ -310,7 +310,7 @@
    "race": "Human",
    "artist": "見田航介",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nBanish this card: Destroy target card in a standby area.",
+   "text": "Activate\n\nBanish this card: Destroy target card in a standby area.",
    "flavor_text": "It appeared in this world from nothing.",
    "all_sets": "The Millennia of Ages"
   },
@@ -348,7 +348,7 @@
    "type": "Chant",
    "artist": "Mz.縞",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\n[R][R][1]: Put this card from your graveyard into your hand.",
+   "text": "Activate\n\n[R][R][1]: Put this card from your graveyard into your hand.",
    "flavor_text": "Not even persistent rain could extinguish this flame.",
    "all_sets": "The Millennia of Ages"
   },
@@ -368,7 +368,7 @@
    "race": "Fairy Tale/Human",
    "artist": "祀花よう子",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\n[rest], discard a card with \"Apple\" in its name: This card deals 1000 damage to target resonator.",
+   "text": "Activate\n\n[rest], discard a card with \"Apple\" in its name: This card deals 1000 damage to target resonator.",
    "flavor_text": "Granny! I'm back!",
    "all_sets": "The Millennia of Ages"
   },
@@ -391,7 +391,7 @@
    "race": "Six Sages/Spirit",
    "artist": "Mz.縞",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nRemove a knowledge counter from this card: This card deals 300 damage to target player or resonator.",
+   "text": "Activate\n\nRemove a knowledge counter from this card: This card deals 300 damage to target player or resonator.",
    "flavor_text": "\"I wonder if the others couldn't see it either: I cannot feel it with my wind.\" -Fiethsing, the Elvish Oracle",
    "all_sets": "The Millennia of Ages"
   },
@@ -420,7 +420,7 @@
    "race": "Myth",
    "artist": "gozz",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\n[Enter] This card deals damage equal to its ATK to target resonator your opponent controls.",
+   "text": "Automatic\n\n[Enter] This card deals damage equal to its ATK to target resonator your opponent controls.",
    "flavor_text": "That power was genuine, but his temper was moot, even the six sages had no idea how to treat it.",
    "all_sets": "The Millennia of Ages"
   },
@@ -445,7 +445,7 @@
    "race": "Singularity",
    "artist": "佐々木光之介",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\n[1][X], [rest]: Put a resonator with total cost X or less from your hand into your field. It gains [Swiftness] until end of turn.",
+   "text": "Activate\n\n[1][X], [rest]: Put a resonator with total cost X or less from your hand into your field. It gains [Swiftness] until end of turn.",
    "flavor_text": "Where it led, no one knew.",
    "all_sets": "The Millennia of Ages"
   },
@@ -485,7 +485,7 @@
    "race": "Fantasy",
    "artist": "ケルビン",
    "expansion": "The Millennia of Ages",
-   "text": "Continuous\nThis card cannot be targeted by spells or abilities.",
+   "text": "Continuous\n\nThis card cannot be targeted by spells or abilities.",
    "flavor_text": "\"Moojdart, I'm borrowing your power, ok?\" -Alice, the Guardian of Dimensions",
    "all_sets": "The Millennia of Ages"
   },
@@ -511,7 +511,7 @@
    "race": "Human",
    "artist": "kawaryu",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\n[rest]: Draw a card.",
+   "text": "Activate\n\n[rest]: Draw a card.",
    "flavor_text": "Also over the millennia, Kaguya will continue to stay in his mind.",
    "all_sets": "The Millennia of Ages"
   },
@@ -533,7 +533,7 @@
    "race": "Residence",
    "artist": "佐久間さのすけ",
    "expansion": "The Millennia of Ages",
-   "text": "Continuous\nMagic stones you control gain \"[rest]: Produce one will of any attribute.\" .",
+   "text": "Continuous\n\nMagic stones you control gain \"[rest]: Produce one will of any attribute.\" .",
    "flavor_text": "Here, where everything started.",
    "all_sets": "The Millennia of Ages"
   },
@@ -559,7 +559,7 @@
    "race": "Human",
    "artist": "夕子",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from your field, recover this card.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from your field, recover this card.",
    "flavor_text": "As a result of Kaguya's technique, some Cthulhus are recalled and reincarnated as humans.",
    "all_sets": "The Millennia of Ages"
   },
@@ -585,7 +585,7 @@
    "race": "Six Sages/Spirit",
    "artist": "石商",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nRemove two knowledge counters from this card: Draw a card.",
+   "text": "Activate\n\nRemove two knowledge counters from this card: Draw a card.",
    "flavor_text": "\"I can rely on her during a fight, but the fact that she is so elusive creates a lot of problems.\" -Zero, the Flashing Mage-Warrior",
    "all_sets": "The Millennia of Ages"
   },
@@ -622,7 +622,7 @@
    "race": "Wererabbit",
    "artist": "長崎祐子",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field, reveal the top card of your deck. If it's a Wererabbit, put it into your field. Otherwise, put it into your graveyard.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field, reveal the top card of your deck. If it's a Wererabbit, put it into your field. Otherwise, put it into your graveyard.",
    "flavor_text": "Even if the moon disappeared, the world would continue its history.",
    "all_sets": "The Millennia of Ages"
   },
@@ -651,7 +651,7 @@
    "race": "Fantasy/Dragon",
    "artist": "ケルビン",
    "expansion": "The Millennia of Ages",
-   "text": "Continuous\nThis card cannot be targeted by spells or abilities.",
+   "text": "Continuous\n\nThis card cannot be targeted by spells or abilities.",
    "flavor_text": "\"The lack of a physical body is not only a weakness.\" -Moojdart, the Queen of the Fantasy World",
    "all_sets": "The Millennia of Ages"
   },
@@ -673,7 +673,7 @@
    "race": "Moon",
    "artist": "河北亜希",
    "expansion": "The Millennia of Ages",
-   "text": "Continuous\nMagic stones with non-will activate abilities don't recover during recovery phase.",
+   "text": "Continuous\n\nMagic stones with non-will activate abilities don't recover during recovery phase.",
    "flavor_text": "The moon has fulfilled his duty, now silently accompanies the end of the story.",
    "all_sets": "The Millennia of Ages"
   },
@@ -696,7 +696,7 @@
    "race": "Cthulhu",
    "artist": "Moopic",
    "expansion": "The Millennia of Ages",
-   "text": "Continuous\nThis card gains [+100/+100] for each card in your opponent's graveyard.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each card in your opponent's graveyard.",
    "flavor_text": "There are also Cthulhus that are friendly towards humans, she was one of them. Being whimsical as a cat, no one trusted her. No one, except Fiethsing.",
    "all_sets": "The Millennia of Ages"
   },
@@ -719,7 +719,7 @@
    "race": "Elf",
    "artist": "touge369",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nRest five recovered Elves you control: You gain 500 life and draw two cards.",
+   "text": "Activate\n\nRest five recovered Elves you control: You gain 500 life and draw two cards.",
    "flavor_text": "After the tracker found the last vampire, she went back to her village to defend the elves and became their protector.",
    "all_sets": "The Millennia of Ages"
   },
@@ -745,7 +745,7 @@
    "race": "Six Sages/Elf",
    "artist": "狛蜜ザキ",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nRemove a knowledge counter from this card: Cancel target spell unless its controller pays [1].",
+   "text": "Activate\n\nRemove a knowledge counter from this card: Cancel target spell unless its controller pays [1].",
    "flavor_text": "\"That woman is really whimsical, she could be a prodigy, but to me she is a child.\" -Grusbalesta, the Keeper of Magic Stones",
    "all_sets": "The Millennia of Ages"
   },
@@ -774,7 +774,7 @@
    "race": "Fairy Tale/Human",
    "artist": "乃希",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\nWhen this card enters your field, draw a card and put the top card of your magic stone deck into your magic stone area rested.",
+   "text": "Automatic\n\nWhen this card enters your field, draw a card and put the top card of your magic stone deck into your magic stone area rested.",
    "flavor_text": "“After all these sweets I'm really full... So big bro, let's open a bakery and spread sweets for everyone!”",
    "all_sets": "The Millennia of Ages"
   },
@@ -793,7 +793,7 @@
    "race": "Treasury Item",
    "artist": "みえ",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\nWhen added resonator is put into a graveyard from a field, put that resonator into its owner's field.",
+   "text": "Automatic\n\nWhen added resonator is put into a graveyard from a field, put that resonator into its owner's field.",
    "flavor_text": "This is the essence of life itself.",
    "all_sets": "The Millennia of Ages"
   },
@@ -836,7 +836,7 @@
    "race": "Elf",
    "artist": "j-peg",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nRest two recovered Elves you control: Produce one will of any attribute.",
+   "text": "Activate\n\nRest two recovered Elves you control: Produce one will of any attribute.",
    "flavor_text": "Reminding the conversation she had with Little Red on the Castle in Heaven, she turned her eyes to it. Found its way, she rode the wind to save the world.",
    "all_sets": "The Millennia of Ages"
   },
@@ -858,7 +858,7 @@
    "race": "Castle",
    "artist": "Cola",
    "expansion": "The Millennia of Ages",
-   "text": "Continuous\nPrevent all damage that would be dealt by normal spells to resonators you control.",
+   "text": "Continuous\n\nPrevent all damage that would be dealt by normal spells to resonators you control.",
    "flavor_text": "The wind that blows from this castle travels toward far skies.",
    "all_sets": "The Millennia of Ages"
   },
@@ -884,7 +884,7 @@
    "race": "Wanderer",
    "artist": "乃希",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\n[G][G][3], [rest]: Remove target resonator from the game.",
+   "text": "Activate\n\n[G][G][3], [rest]: Remove target resonator from the game.",
    "flavor_text": "Well, shall we start the first story?",
    "all_sets": "The Millennia of Ages"
   },
@@ -927,7 +927,7 @@
    "race": "Vampire",
    "artist": "古城ばんび",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field, put target Vampire card with total cost 2 or less from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field, put target Vampire card with total cost 2 or less from your graveyard into your hand.",
    "flavor_text": "She didn't crave blood. In history it has never been seen a vampire like her.",
    "all_sets": "The Millennia of Ages"
   },
@@ -952,7 +952,7 @@
    "race": "Relic",
    "artist": "tokiwa",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\nWhen this card leaves your field, banish the resonator put into your field by this card.",
+   "text": "Automatic\n\nWhen this card leaves your field, banish the resonator put into your field by this card.",
    "flavor_text": "The book of Eibon was written at the end of the battle thousands of years ago.",
    "all_sets": "The Millennia of Ages"
   },
@@ -998,7 +998,7 @@
    "race": "Human",
    "artist": "tokiwa",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\n[B][B][1]: Target resonator gains [-400/-400] until end of turn.",
+   "text": "Activate\n\n[B][B][1]: Target resonator gains [-400/-400] until end of turn.",
    "flavor_text": "\"Oh, I hope my wish will soon come true!\"",
    "all_sets": "The Millennia of Ages"
   },
@@ -1024,7 +1024,7 @@
    "race": "Six Sages/Human",
    "artist": "fzwrAym",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\nRemove a knowledge counter from this card: Target resonator gains [+0/-400] until end of turn.",
+   "text": "Activate\n\nRemove a knowledge counter from this card: Target resonator gains [+0/-400] until end of turn.",
    "flavor_text": "He was aware of the risks of using the magic stones, thus he made his the problem and the task of solving it",
    "all_sets": "The Millennia of Ages"
   },
@@ -1047,7 +1047,7 @@
    "race": "Augur",
    "artist": "スギカワタクミ",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ this card deals 200 damage to target player or resonator.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ this card deals 200 damage to target player or resonator.",
    "flavor_text": "\"This sensation... then i'm still alive... but even though I'm alive there's nothing I can do in this state.\" -Lumia, the Saint Lady of World Rebirth",
    "all_sets": "The Millennia of Ages"
   },
@@ -1067,7 +1067,7 @@
    "race": "Demon",
    "artist": "松本エイト",
    "expansion": "The Millennia of Ages",
-   "text": "Activate\n[rest]: Target resonator gains [+200/+0] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator gains [+200/+0] until end of turn.",
    "flavor_text": "\"Incredible, the world is full of wonders. Who would have thought the Demon I faced once would have become my own collaborator.\" -Lumia, the Saint Lady of World Rebirth",
    "all_sets": "The Millennia of Ages"
   },
@@ -1095,7 +1095,7 @@
    "race": "Mountain",
    "artist": "Nagiにゃん",
    "expansion": "The Millennia of Ages",
-   "text": "Continuous\nNon-darkness resonators gain [-200/-200].",
+   "text": "Continuous\n\nNon-darkness resonators gain [-200/-200].",
    "flavor_text": "On that land, even if the body dies, hatred remains.",
    "all_sets": "The Millennia of Ages"
   },
@@ -1121,7 +1121,7 @@
    "race": "Cthulhu",
    "artist": "ネム",
    "expansion": "The Millennia of Ages",
-   "text": "Automatic\n[Enter] You may look at target player's hand and choose a card. He or she discards that card.",
+   "text": "Automatic\n\n[Enter] You may look at target player's hand and choose a card. He or she discards that card.",
    "flavor_text": "He used to steal to anyone: both enemies and allies.",
    "all_sets": "The Millennia of Ages"
   },

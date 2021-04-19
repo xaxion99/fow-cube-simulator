@@ -9,7 +9,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Judgement\n[7]. You may pay [1] less to play this ability for each Squad 7 resonator you control.",
+   "text": "Judgement\n\n[7]. You may pay [1] less to play this ability for each Squad 7 resonator you control.",
    "flavor_text": "\"When this is over...there's something I want to tell you.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -23,7 +23,7 @@
    "race": "Baker",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nSquad 7 resonators you control gain [+200/+200].",
+   "text": "Continuous\n\nSquad 7 resonators you control gain [+200/+200].",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -44,7 +44,7 @@
    "race": "Researcher",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your main deck for an addition, reveal it and put it into your hand. Then shuffle your main deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your main deck for an addition, reveal it and put it into your hand. Then shuffle your main deck.",
    "flavor_text": "\"Is this the best you can manage? How disappointing.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -66,7 +66,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen a Squad 7 you control is destroyed ⇒ Rest this card.",
+   "text": "Automatic\n\nWhen a Squad 7 you control is destroyed ⇒ Rest this card.",
    "flavor_text": "\"Another Edy legend is born!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -125,7 +125,7 @@
    "type": "Addition：J/Resonator",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nPrevent all damage that would be dealt to added J/resonator.",
+   "text": "Continuous\n\nPrevent all damage that would be dealt to added J/resonator.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -146,7 +146,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ You gain 500 life.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You gain 500 life.",
    "flavor_text": "\"Hehe...A battle of death, despair, and pleasure is beginning.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -165,7 +165,7 @@
    "race": "Reporter",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your main deck. If it's a Squad 7, put it into your hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top card of your main deck. If it's a Squad 7, put it into your hand.",
    "flavor_text": "\"The best stories are always in the most dangerous places! I'm the bravest reporter GBS has!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -187,7 +187,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target Tank.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Destroy target Tank.",
    "flavor_text": "\"This is the epitome of muscle!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -233,7 +233,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Rest target resonator.",
+   "text": "Activate\n\n[rest]: Rest target resonator.",
    "flavor_text": "\"I've made it this far alone...\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -273,7 +273,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Look at the top three cards of your main deck or magic stone deck and put them back in any order.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Look at the top three cards of your main deck or magic stone deck and put them back in any order.",
    "flavor_text": "\"I've had enough of killing... and being killed...\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -314,7 +314,7 @@
    "race": "Clerk",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[W][W],[rest]: Recover target resonator.",
+   "text": "Activate\n\n[W][W],[rest]: Recover target resonator.",
    "flavor_text": "\"Hey, Avan. What'll it be?\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -336,7 +336,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator must block this turn if able.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Target resonator must block this turn if able.",
    "flavor_text": "\"I'll always be cocky and chubby.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -358,7 +358,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nThis card cannot be attacked.",
+   "text": "Continuous\n\nThis card cannot be attacked.",
    "flavor_text": "\"If you die, I will cry.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -395,7 +395,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[R][1],[rest]: Search your main deck for a regalia with total cost 1 or more, reveal it and put it into your hand. Then shuffle your main deck.",
+   "text": "Activate\n\n[R][1],[rest]: Search your main deck for a regalia with total cost 1 or more, reveal it and put it into your hand. Then shuffle your main deck.",
    "flavor_text": "\"God is a patron, a source of money.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -414,7 +414,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Target resonator gains [Swiftness] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator gains [Swiftness] until end of turn.",
    "flavor_text": "\"Yes... I will fight! For a peaceful future...!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -454,7 +454,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Gain control of target recovered resonator your opponent controls until end of turn. It gains [Swiftness] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Gain control of target recovered resonator your opponent controls until end of turn. It gains [Swiftness] until end of turn.",
    "flavor_text": "\"Men are so stupid... it's adorable.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -497,7 +497,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nAs long as your opponent controls a J-ruler, this card gains [Swiftness] and [+500/+500].",
+   "text": "Continuous\n\nAs long as your opponent controls a J-ruler, this card gains [Swiftness] and [+500/+500].",
    "flavor_text": "\"The death of one specific individual... I wish for nothing beyond that.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -522,7 +522,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\n[First Strike]",
+   "text": "Automatic\n\n[First Strike]",
    "flavor_text": "\"I will regain my name... no matter what.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -565,7 +565,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[R][R],[rest]: This card deals damage equal to its ATK to target resonator.",
+   "text": "Activate\n\n[R][R],[rest]: This card deals damage equal to its ATK to target resonator.",
    "flavor_text": "\"I'm going to build a world without war for you all!!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -590,7 +590,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhenever this card attacks ⇒ Resonators you control gain [+300/+300] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Resonators you control gain [+300/+300] until end of turn.",
    "flavor_text": "\"Don't presume to speak to me so casually. Unlike you lot, I shouldn't be here.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -603,7 +603,7 @@
    "race": "Military/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Judgement\n[9]. You may pay [1] less to play this ability for each Nameless resonator you control.",
+   "text": "Judgement\n\n[9]. You may pay [1] less to play this ability for each Nameless resonator you control.",
    "flavor_text": "\"There was one person who told me I'm not the Grim Reaper.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -617,7 +617,7 @@
    "race": "Valkyrur/Nameless",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ It deals 1000 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ It deals 1000 damage to target resonator.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -639,7 +639,7 @@
    "type": "Addition：J/Resonator",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nAdded J/resonator gains [+1000/0].",
+   "text": "Continuous\n\nAdded J/resonator gains [+1000/0].",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -651,7 +651,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Judgement\n[7]. You may pay [1] less to play this ability for each Squad 7 resonator you control.",
+   "text": "Judgement\n\n[7]. You may pay [1] less to play this ability for each Squad 7 resonator you control.",
    "flavor_text": "\"When I think about the war I realize that I wasn't just fighting for my life, I was fighting for a new one.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -665,7 +665,7 @@
    "race": "Valkyrur/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\nWhen this card enters your field ⇒ You may add an [Addition:J/Resonator] from your hand to this card.",
+   "text": "Activate\n\nWhen this card enters your field ⇒ You may add an [Addition:J/Resonator] from your hand to this card.",
    "flavor_text": "\"As long as I live, I'll protect my home and the people of Gallia.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -688,7 +688,7 @@
    "type": "Addition：J/Resonator",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhenever damage is dealt to added J/resonator ⇒ Draw a card.",
+   "text": "Automatic\n\nWhenever damage is dealt to added J/resonator ⇒ Draw a card.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -709,7 +709,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhenever this card blocks or is blocked ⇒ It gains [-300/-300] until end of turn.",
+   "text": "Automatic\n\nWhenever this card blocks or is blocked ⇒ It gains [-300/-300] until end of turn.",
    "flavor_text": "\"Why is a Darcsen in our group? You don't actually expect us to fight together, do you?\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -728,7 +728,7 @@
    "race": "Archduchess",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[U][U][1],[rest], discard a card: Return target resonator to its owner's hand.",
+   "text": "Activate\n\n[U][U][1],[rest], discard a card: Return target resonator to its owner's hand.",
    "flavor_text": "\"I am destined to preserve the lands of Gallia, and the Valkyrian bloodline... nothing more.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -753,7 +753,7 @@
    "race": "Military",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may put a Squad 7 with total cost 3 or less from your hand into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may put a Squad 7 with total cost 3 or less from your hand into your field.",
    "flavor_text": "\"I expect great things from you. That is all.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -778,7 +778,7 @@
    "race": "Military",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nThis card gains [+300/+300] as long as you control a regalia.",
+   "text": "Continuous\n\nThis card gains [+300/+300] as long as you control a regalia.",
    "flavor_text": "\"It wasn't so long ago that we were just 'schoolmates'... and now we're going to be 'comrades'.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -797,7 +797,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\nBanish this card: Draw a card.",
+   "text": "Activate\n\nBanish this card: Draw a card.",
    "flavor_text": "\"You can't just do what you want here. Get out, now.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -819,7 +819,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.",
    "flavor_text": "\"I hope to be an engineer like Isara some day.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -844,7 +844,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhenever this card attacks ⇒ It gains [+100/+100] for each Squad 7 resonator you control until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It gains [+100/+100] for each Squad 7 resonator you control until end of turn.",
    "flavor_text": "\"There's nothing worth teaching you that won't learn better on the battlefield.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -866,7 +866,7 @@
    "race": "Prime Minister",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nIf damage would be dealt to a \"Cordelia Gi Randgriz\" you control, it's dealt to this card instead.",
+   "text": "Continuous\n\nIf damage would be dealt to a \"Cordelia Gi Randgriz\" you control, it's dealt to this card instead.",
    "flavor_text": "\"It'll be bad publicity if they find out what we're doing. Gallia will be born again as a new glorious nation in my image! Hahahaha!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -945,7 +945,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Return target resonator to its owner's hand if you control less resonators than your opponent.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Return target resonator to its owner's hand if you control less resonators than your opponent.",
    "flavor_text": "\"I'll protect you. You, who are more precious to me than anything.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -967,7 +967,7 @@
    "race": "Military/Squad 7",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your main deck for a card named \"Edelweiss\", reveal it and put it into your hand. Then shuffle your main deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your main deck for a card named \"Edelweiss\", reveal it and put it into your hand. Then shuffle your main deck.",
    "flavor_text": "\"Name's Zaka. Looks like we'll be working together.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1001,7 +1001,7 @@
    "race": "Student/Class G",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Judgement\n[5]",
+   "text": "Judgement\n\n[5]",
    "flavor_text": "\"All right, guys! Here we gooo!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1015,7 +1015,7 @@
    "race": "Valkyrur",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhenever this card attacks ⇒ Recover all magic stones you control.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Recover all magic stones you control.",
    "flavor_text": "\"I want to protect everyone in Class G.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1032,7 +1032,7 @@
    "type": "Addition：J/Resonator",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nAdded J/resonator gains [+100/+100] for each recovered magic stone you control.",
+   "text": "Continuous\n\nAdded J/resonator gains [+100/+100] for each recovered magic stone you control.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1056,7 +1056,7 @@
    "race": "Student",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.",
    "flavor_text": "\"Don't get close to my sister!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1084,7 +1084,7 @@
    "race": "Student/Class G",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nYou may pay [1] less to play this card for each Student resonator you control.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each Student resonator you control.",
    "flavor_text": "\"I'm the class rep! I'll handle it!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1124,7 +1124,7 @@
    "race": "Student/Class G",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nOther resonators you control gain [+400/+400].",
+   "text": "Continuous\n\nOther resonators you control gain [+400/+400].",
    "flavor_text": "\"Eh? Huh? What am I doing?\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1164,7 +1164,7 @@
    "race": "Student/Class Rep",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[G]: This card gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[G]: This card gains [+200/+200] until end of turn.",
    "flavor_text": "\"The fact I attend the same school as you humiliates me.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1183,7 +1183,7 @@
    "race": "Student/Class G",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Recover target regalia.",
+   "text": "Activate\n\n[rest]: Recover target regalia.",
    "flavor_text": "\"You have to treat tanks with proper care. Remember it!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1208,7 +1208,7 @@
    "race": "Student",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [G][G].",
+   "text": "Activate\n\n[rest]: Produce [G][G].",
    "flavor_text": "\"...I didn't say anything...sorry...\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1230,7 +1230,7 @@
    "race": "Student",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen you play an addition ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen you play an addition ⇒ Draw a card.",
    "flavor_text": "\"Good day to you, Avan.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1270,7 +1270,7 @@
    "race": "Student",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nCards named \"Magari\" you control cannot be targeted by spells or abilities your opponent controls.",
+   "text": "Continuous\n\nCards named \"Magari\" you control cannot be targeted by spells or abilities your opponent controls.",
    "flavor_text": "\"I won't forgive anyone who hurts Magari!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1292,7 +1292,7 @@
    "race": "Student/Class G",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put the top card of your magic stone deck into your magic stone area if you control less magic stones than your opponent.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put the top card of your magic stone deck into your magic stone area if you control less magic stones than your opponent.",
    "flavor_text": "\"I'm not praising you, I'm informing you of your inefficacy as a leader.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1314,7 +1314,7 @@
    "race": "Military/Gallian Army",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nThis card gains [+200/+200] as long as you control another Gallian Army.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as you control another Gallian Army.",
    "flavor_text": "\"The impure of Gallia shall be purged...Fire!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1336,7 +1336,7 @@
    "race": "Military/Gallian Army",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Your opponent loses 400 life.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Your opponent loses 400 life.",
    "flavor_text": "\"We shall craft a pure and strong people!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1361,7 +1361,7 @@
    "race": "Military/Drei Stern",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhenever this card attacks ⇒ Target resonator gains [-400/-400] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Target resonator gains [-400/-400] until end of turn.",
    "flavor_text": "\"Our forces are comprised of fools. It's a disgrace to the Emperor.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1386,7 +1386,7 @@
    "race": "Military/Calamity Raven",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put target resonator from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put target resonator from your graveyard into your hand.",
    "flavor_text": "\"If it helps to build a Darcsen nation that will last a thousand years, I will be satisfied!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1429,7 +1429,7 @@
    "race": "Military/Gallian Army",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nOther Gallian Armies you control gain [+200/+200].",
+   "text": "Continuous\n\nOther Gallian Armies you control gain [+200/+200].",
    "flavor_text": "\"I hold the power of Gallia in the palm of my hand!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1469,7 +1469,7 @@
    "race": "Military/Calamity Raven",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Rest it if you don't control another Calamity Raven.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Rest it if you don't control another Calamity Raven.",
    "flavor_text": "\"I like you more now than I did before the gun showed up. You're still a lowlife, though.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1494,7 +1494,7 @@
    "race": "Military/Imperial General",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ You gain 400 life.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ You gain 400 life.",
    "flavor_text": "\"Looks like we'll need a controlled purification of the area.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1516,7 +1516,7 @@
    "race": "Military/Drei Stern",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator your opponent controls gains [-200/-200] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Target resonator your opponent controls gains [-200/-200] until end of turn.",
    "flavor_text": "\"If it's for the sake of my country, I don't mind being a dog of Maximilian.\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1565,7 +1565,7 @@
    "race": "Military/Drei Stern",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Judgement\n[Judgment][6]. You may pay [3] less to play this ability if you control \"Maximilian\".",
+   "text": "Judgement\n\n[Judgment][6]. You may pay [3] less to play this ability if you control \"Maximilian\".",
    "flavor_text": "\"I will use my powers for the purposes of my lord!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1579,7 +1579,7 @@
    "race": "Valkyrur/Drei Stern",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Up to two target resonators gain [-300/-300] for each Drei Stern you control.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Up to two target resonators gain [-300/-300] for each Drei Stern you control.",
    "flavor_text": "\"The power of the Valkyrur is within me too!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1602,7 +1602,7 @@
    "type": "Addition：J/Resonator",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Automatic\nAdded J/resonator gains [+400/+400] and \"Whenever this card deals damage ⇒ You gain that much life.\".",
+   "text": "Automatic\n\nAdded J/resonator gains [+400/+400] and \"Whenever this card deals damage ⇒ You gain that much life.\".",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1623,7 +1623,7 @@
    "race": "Military/Calamity Raven",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Continuous\nAs long as you control \"Dahau\", this card gains [+400/0].",
+   "text": "Continuous\n\nAs long as you control \"Dahau\", this card gains [+400/0].",
    "flavor_text": "\"I have a dream! I have an ideal that must be made reality: independence!\"",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1641,7 +1641,7 @@
    "race": "Tank",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[4],[rest]: Rest target J/resonator.",
+   "text": "Activate\n\n[4],[rest]: Rest target J/resonator.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1658,7 +1658,7 @@
    "race": "Tank",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\nBanish this card: Squad 7 you control gain [+400/+400] until end of turn. Play this ability only if you control a J-ruler.",
+   "text": "Activate\n\nBanish this card: Squad 7 you control gain [+400/+400] until end of turn. Play this ability only if you control a J-ruler.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1675,7 +1675,7 @@
    "race": "Tank",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest], banish a resonator: Your J-ruler gains [+500/+500] until end of turn.",
+   "text": "Activate\n\n[rest], banish a resonator: Your J-ruler gains [+500/+500] until end of turn.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1692,7 +1692,7 @@
    "race": "Tank",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: If your J-ruler would deal damage this turn, it deals that much +200 instead.",
+   "text": "Activate\n\n[rest]: If your J-ruler would deal damage this turn, it deals that much +200 instead.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1708,7 +1708,7 @@
    "type": "Regalia",
    "artist": "SEGA",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[W][W],[rest], banish this card: Recover your J-ruler.",
+   "text": "Activate\n\n[W][W],[rest], banish this card: Recover your J-ruler.",
    "flavor_text": "Refined ragnite was found to contain powerful healing properties. It is distributed as medical gear called ragnaid.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1720,7 +1720,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [G] or [B].",
+   "text": "Activate\n\n[rest]: Produce [G] or [B].",
    "flavor_text": "A darkness cast from the absence of light; A tranquility devoid of all sound.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1732,7 +1732,7 @@
    "type": "Special Magic Stone",
    "artist": "サウマロ",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "text": "Activate\n\n[rest]: Produce [G] or [R].",
    "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1744,7 +1744,7 @@
    "type": "Special Magic Stone",
    "artist": "夕子",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "text": "Activate\n\n[rest]: Produce [B] or [U].",
    "flavor_text": "Movements within the dark and murky depths.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1756,7 +1756,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [G] or [U].",
+   "text": "Activate\n\n[rest]: Produce [G] or [U].",
    "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1768,7 +1768,7 @@
    "type": "Special Magic Stone",
    "artist": "アサヒナ",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [W] or [G].",
+   "text": "Activate\n\n[rest]: Produce [W] or [G].",
    "flavor_text": "A momentary shine that reflects in the sky.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1780,7 +1780,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [R] or [U].",
+   "text": "Activate\n\n[rest]: Produce [R] or [U].",
    "flavor_text": "A passion like burning flames; A presence as cold as ice.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1792,7 +1792,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [W] or [R].",
+   "text": "Activate\n\n[rest]: Produce [W] or [R].",
    "flavor_text": "A piercing gleam of blinding light; An incandescent glow that cannot be touched.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1804,7 +1804,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "text": "Activate\n\n[rest]: Produce [W] or [B].",
    "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1816,7 +1816,7 @@
    "type": "Special Magic Stone",
    "artist": "河北亜希",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [W] or [U].",
+   "text": "Activate\n\n[rest]: Produce [W] or [U].",
    "flavor_text": "The shining paths that branch from the crossroad.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1828,7 +1828,7 @@
    "type": "Special Magic Stone",
    "artist": "tokiwa",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [B] or [R].",
+   "text": "Activate\n\n[rest]: Produce [B] or [R].",
    "flavor_text": "Hidden within the night, the burning spiral of seeds.",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
@@ -1840,7 +1840,7 @@
    "type": "Basic Magic Stone",
    "artist": "FLEN",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1851,7 +1851,7 @@
    "type": "Basic Magic Stone",
    "artist": "FLEN",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1862,7 +1862,7 @@
    "type": "Basic Magic Stone",
    "artist": "FLEN",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1873,7 +1873,7 @@
    "type": "Basic Magic Stone",
    "artist": "FLEN",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   },
   {
@@ -1884,7 +1884,7 @@
    "type": "Basic Magic Stone",
    "artist": "FLEN",
    "expansion": "Vingolf \"Valkyria Chronicles\"",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Vingolf \"Valkyria Chronicles\""
   }
  ]

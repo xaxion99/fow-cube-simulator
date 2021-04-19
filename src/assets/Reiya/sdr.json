@@ -25,7 +25,7 @@
    "race": "Panda",
    "artist": "Moopic",
    "expansion": "Starter Deck",
-   "text": "Activate\n[w][w]: Target J/resonator you control gains [Barrier] until end of turn. (Cards you control with [Barrier] cannot be targeted by spells or abilities your opponent controls.)",
+   "text": "Activate\n\n[w][w]: Target J/resonator you control gains [Barrier] until end of turn. (Cards you control with [Barrier] cannot be targeted by spells or abilities your opponent controls.)",
    "flavor_text": "The strength of the diamond is unparalleled.",
    "all_sets": "Starter Deck"
   },
@@ -48,7 +48,7 @@
    "race": "Panda",
    "artist": "hatarisu",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [Precision] as long as you control a darkness gem. (This card can attack recovered J/resonators.)",
+   "text": "Continuous\n\nThis card gains [Precision] as long as you control a darkness gem. (This card can attack recovered J/resonators.)",
    "flavor_text": "It's said that darkness gems rob those that gaze on them of their mercy.",
    "all_sets": "Starter Deck"
   },
@@ -71,7 +71,7 @@
    "race": "Panda",
    "artist": "Misa Tsutsui",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [Swiftness] as long as you control a fire gem. (This card can attack and you can play its [rest] abilities the same turn it enters the field.)",
+   "text": "Continuous\n\nThis card gains [Swiftness] as long as you control a fire gem. (This card can attack and you can play its [rest] abilities the same turn it enters the field.)",
    "flavor_text": "It's said that fire gems rob those that gaze on them of their decency.",
    "all_sets": "Starter Deck"
   },
@@ -94,7 +94,7 @@
    "race": "Panda",
    "artist": "Miko Yamazaki",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [Flying] as long as you control a water gem. (This card cannot be blocked by J/resonators without [Flying].)",
+   "text": "Continuous\n\nThis card gains [Flying] as long as you control a water gem. (This card cannot be blocked by J/resonators without [Flying].)",
    "flavor_text": "It's said that water gems rob those that gaze on them of their common sense.",
    "all_sets": "Starter Deck"
   },
@@ -120,7 +120,7 @@
    "race": "Human",
    "artist": "Azusa",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [+200/+200] as long as there are three or more different attributes among all gems you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as there are three or more different attributes among all gems you control.",
    "flavor_text": "Gemcrafting is a highly respected and essential profession.",
    "all_sets": "Starter Deck"
   },
@@ -140,7 +140,7 @@
    "race": "Human",
    "artist": "Matsurika Yoko",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Gain a light gem.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Gain a light gem.",
    "flavor_text": "Real gems won't fade, even after decades.",
    "all_sets": "Starter Deck"
   },
@@ -208,7 +208,7 @@
    "race": "Panda",
    "artist": "Kusanagi Tyouen",
    "expansion": "Starter Deck",
-   "text": "Automatic\nAt the beginning of the game ⇒ Gain a gem of any attribute.",
+   "text": "Automatic\n\nAt the beginning of the game ⇒ Gain a gem of any attribute.",
    "flavor_text": "The panda king who sits at the center of a great city of commerce.",
    "all_sets": "Starter Deck"
   },
@@ -223,7 +223,7 @@
    "race": "Panda",
    "artist": "Kusanagi Tyouen",
    "expansion": "Starter Deck",
-   "text": "Activate\nBanish a water gem: This card gains [Flying] until end of turn. (This card cannot be blocked by J/resonators without [Flying].)",
+   "text": "Activate\n\nBanish a water gem: This card gains [Flying] until end of turn. (This card cannot be blocked by J/resonators without [Flying].)",
    "flavor_text": "Believing that gems carry magical power, Pearlshine distributes them among his subordinates.",
    "all_sets": "Starter Deck"
   },
@@ -243,7 +243,7 @@
    "race": "Bird",
    "artist": "yua",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ You may banish a gem. If you do, draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ You may banish a gem. If you do, draw a card.",
    "flavor_text": "The white ravens collect and separate gems by cut and year.",
    "all_sets": "Starter Deck"
   },
@@ -256,7 +256,7 @@
    "type": "Special Magic Stone",
    "artist": "RYUEMON",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Gain a light gem.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Gain a light gem.",
    "flavor_text": "It shines with the promise of gems within.",
    "all_sets": "Starter Deck"
   },
@@ -269,7 +269,7 @@
    "type": "Basic Magic Stone",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Starter Deck"
   },
   {
@@ -288,7 +288,7 @@
    "race": "Dragonoid",
    "artist": "KEIICHIRO ITO",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put two strength counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put two strength counters on your J/ruler.",
    "flavor_text": "\"The finishing touch and...It's done! Go on, let me know how it tastes!\"",
    "all_sets": "Starter Deck"
   },
@@ -359,7 +359,7 @@
    "race": "Dragon",
    "artist": "SO",
    "expansion": "Starter Deck",
-   "text": "Activate\n[r][r]: This card deals 300 damage to target J/resonator.",
+   "text": "Activate\n\n[r][r]: This card deals 300 damage to target J/resonator.",
    "flavor_text": "Taming one of these creatures is a rite of passage into adulthood.",
    "all_sets": "Starter Deck"
   },
@@ -385,7 +385,7 @@
    "race": "Dragonoid",
    "artist": "ComamitsuZaki",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Recover your ruler.",
+   "text": "Activate\n\n[rest]: Recover your ruler.",
    "flavor_text": "Cuisine is a battleground.",
    "all_sets": "Starter Deck"
   },
@@ -423,7 +423,7 @@
    "race": "Beast",
    "artist": "Yuko Nagasaki",
    "expansion": "Starter Deck",
-   "text": "Activate\nBanish this card: Recover your ruler.",
+   "text": "Activate\n\nBanish this card: Recover your ruler.",
    "flavor_text": "At ten years, their meat reaches the height of flavor.",
    "all_sets": "Starter Deck"
   },
@@ -446,7 +446,7 @@
    "race": "Dinosaur",
    "artist": "Nanami Lusia",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 300 damage to target J/resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 300 damage to target J/resonator.",
    "flavor_text": "\"Now where did these things come from?\" -Environmental Researcher, Fabre",
    "all_sets": "Starter Deck"
   },
@@ -460,7 +460,7 @@
    "race": "Dragonoid",
    "artist": "SIGMAN",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Put X strength counters on this card, where X is ten minus the number of strength counters on this card.",
+   "text": "Activate\n\n[rest]: Put X strength counters on this card, where X is ten minus the number of strength counters on this card.",
    "flavor_text": "The red warrior dragonoid clan holds a contest of strength every year. Kirik Rerik is their latest champion.",
    "all_sets": "Starter Deck"
   },
@@ -475,7 +475,7 @@
    "race": "Dragonoid",
    "artist": "SIGMAN",
    "expansion": "Starter Deck",
-   "text": "Activate\nRemove five strength counters from this card: This card deals 500 damage to target J/resonator.",
+   "text": "Activate\n\nRemove five strength counters from this card: This card deals 500 damage to target J/resonator.",
    "flavor_text": "Fire expresses emotion better than words.",
    "all_sets": "Starter Deck"
   },
@@ -498,7 +498,7 @@
    "race": "Dragon",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Starter Deck",
-   "text": "Continuous\nYour J-ruler gains [Flying].",
+   "text": "Continuous\n\nYour J-ruler gains [Flying].",
    "flavor_text": "\"Let's fly, buddy.\" -Kirik Rerik",
    "all_sets": "Starter Deck"
   },
@@ -533,7 +533,7 @@
    "type": "Special Magic Stone",
    "artist": "M ganzy",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put two strength counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put two strength counters on your J/ruler.",
    "flavor_text": "A stone housing the vitality of a dragon.",
    "all_sets": "Starter Deck"
   },
@@ -546,7 +546,7 @@
    "type": "Basic Magic Stone",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Starter Deck"
   },
   {
@@ -565,7 +565,7 @@
    "race": "Mermaid",
    "artist": "ShiroYayoi",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card if the weather is rain.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Draw a card if the weather is rain.",
    "flavor_text": "A voice that echoes in the rain.",
    "all_sets": "Starter Deck"
   },
@@ -591,7 +591,7 @@
    "race": "Mermaid",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Rest target resonator. If the weather is rain, return it to its owner's hand instead.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Rest target resonator. If the weather is rain, return it to its owner's hand instead.",
    "flavor_text": "The merfolk discovered an ocean cave concealed in lightning.",
    "all_sets": "Starter Deck"
   },
@@ -634,7 +634,7 @@
    "race": "Jellyfish",
    "artist": "Kelvin",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [+200/+200] as long as the weather is rain.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as the weather is rain.",
    "flavor_text": "Seems like they sting even worse in the rain.",
    "all_sets": "Starter Deck"
   },
@@ -657,7 +657,7 @@
    "race": "Dolphin",
    "artist": "Yukie TAJIMA",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [Flying] as long as the weather is rain. (This card cannot be blocked by J/resonators without [Flying].)",
+   "text": "Continuous\n\nThis card gains [Flying] as long as the weather is rain. (This card cannot be blocked by J/resonators without [Flying].)",
    "flavor_text": "Able to communicate with other sealife, Shaela has made good friends with a dolphin.",
    "all_sets": "Starter Deck"
   },
@@ -677,7 +677,7 @@
    "race": "Mermaid",
    "artist": "YK",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [+200/+200] as long as the weather is rain.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as the weather is rain.",
    "flavor_text": "Attendants quickly learn never to take their eyes off Princess Shaela. Ever.",
    "all_sets": "Starter Deck"
   },
@@ -691,7 +691,7 @@
    "race": "Mermaid",
    "artist": "SIE NANAHARA",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Search your deck for a card named \"Weather Change: Rain\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[rest]: Search your deck for a card named \"Weather Change: Rain\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Princess of the merfolk who live beneath the water.",
    "all_sets": "Starter Deck"
   },
@@ -706,7 +706,7 @@
    "race": "Mermaid",
    "artist": "SIE NANAHARA",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Draw a card.",
    "flavor_text": "\"Oh? Looks like good weather today.\"",
    "all_sets": "Starter Deck"
   },
@@ -749,7 +749,7 @@
    "race": "Whale",
    "artist": "Haruki Komai",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card cannot attack or block unless the weather is rain.",
+   "text": "Continuous\n\nThis card cannot attack or block unless the weather is rain.",
    "flavor_text": "Tranquil or terrible? Depends on the sky.",
    "all_sets": "Starter Deck"
   },
@@ -778,7 +778,7 @@
    "race": "Mermaid",
    "artist": "kurisu",
    "expansion": "Starter Deck",
-   "text": "Activate\n[u][u]: Rest target resonator. Play this ability only if the weather is rain.",
+   "text": "Activate\n\n[u][u]: Rest target resonator. Play this ability only if the weather is rain.",
    "flavor_text": "\"Let's go! I'm feeling good!\"",
    "all_sets": "Starter Deck"
   },
@@ -808,7 +808,7 @@
    "type": "Special Magic Stone",
    "artist": "uekino aroe",
    "expansion": "Starter Deck",
-   "text": "Activate\nBanish this card: The weather is rain until end of turn.",
+   "text": "Activate\n\nBanish this card: The weather is rain until end of turn.",
    "flavor_text": "A strange stone that appears to manipulate the weather.",
    "all_sets": "Starter Deck"
   },
@@ -821,7 +821,7 @@
    "type": "Basic Magic Stone",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Starter Deck"
   },
   {
@@ -846,7 +846,7 @@
    "race": "Elf",
    "artist": "Kamijo Roro",
    "expansion": "Starter Deck",
-   "text": "Continuous\nElemental resonators you control gain [+200/+200].",
+   "text": "Continuous\n\nElemental resonators you control gain [+200/+200].",
    "flavor_text": "Not one to mince words, the high elf prince hit it off with Gill, quickly inviting him to the elven kingdom.",
    "all_sets": "Starter Deck"
   },
@@ -869,7 +869,7 @@
    "race": "Elf",
    "artist": "Tomomi TOMIDA",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Look at the top three cards of your deck. Put one from among them in your graveyard and the rest on the bottom of your deck in any order.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Look at the top three cards of your deck. Put one from among them in your graveyard and the rest on the bottom of your deck in any order.",
    "flavor_text": "In the elven forests it's easy to get lost, so you'll want to know what's up ahead.",
    "all_sets": "Starter Deck"
   },
@@ -901,7 +901,7 @@
    "race": "Human",
    "artist": "gekko",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Search your deck for a card named \"Gentle Breeze Elemental\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[rest]: Search your deck for a card named \"Gentle Breeze Elemental\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Inside the boy's heart slept a great ambition.",
    "all_sets": "Starter Deck"
   },
@@ -916,7 +916,7 @@
    "race": "Human",
    "artist": "gekko",
    "expansion": "Starter Deck",
-   "text": "Activate\nRemove an Elemental in your graveyard from the game: Produce [g]. Spend this will only to play Spirit Magic chants. Play this ability only once per turn.",
+   "text": "Activate\n\nRemove an Elemental in your graveyard from the game: Produce [g]. Spend this will only to play Spirit Magic chants. Play this ability only once per turn.",
    "flavor_text": "\"Alright, I guess I'll give it a shot!\"",
    "all_sets": "Starter Deck"
   },
@@ -939,7 +939,7 @@
    "race": "Elf",
    "artist": "BANAMONS*",
    "expansion": "Starter Deck",
-   "text": "Activate\nRest another recovered resonator you control: This card gains [+100/+100] until end of turn.",
+   "text": "Activate\n\nRest another recovered resonator you control: This card gains [+100/+100] until end of turn.",
    "flavor_text": "To pass through the portal to the elven lands, you'll need the guardian's approval.",
    "all_sets": "Starter Deck"
   },
@@ -984,7 +984,7 @@
    "race": "Elemental",
    "artist": "RYUEMON",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
    "flavor_text": "Leaves dance in the air as they fall to the earth.",
    "all_sets": "Starter Deck"
   },
@@ -1004,7 +1004,7 @@
    "race": "Human",
    "artist": "Nagi-nyan",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card, then discard a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Draw a card, then discard a card.",
    "flavor_text": "Whether we know it or not, we always take something with us and leave something behind.",
    "all_sets": "Starter Deck"
   },
@@ -1027,7 +1027,7 @@
    "race": "Fairy",
    "artist": "Takamura Haluki",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Choose one - Destroy target non-magic stone, non-J/resonator entity; or search your deck for an Elemental and put it into your graveyard. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Choose one - Destroy target non-magic stone, non-J/resonator entity; or search your deck for an Elemental and put it into your graveyard. Then shuffle your deck.",
    "flavor_text": "The future is uncertain, like the whims of fairies.",
    "all_sets": "Starter Deck"
   },
@@ -1082,7 +1082,7 @@
    "type": "Special Magic Stone",
    "artist": "douzen",
    "expansion": "Starter Deck",
-   "text": "Activate\nBanish this card: Draw a card.",
+   "text": "Activate\n\nBanish this card: Draw a card.",
    "flavor_text": "A catalytic stone that summons spirits.",
    "all_sets": "Starter Deck"
   },
@@ -1095,7 +1095,7 @@
    "type": "Basic Magic Stone",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Starter Deck"
   },
   {
@@ -1117,7 +1117,7 @@
    "race": "Familiar",
    "artist": "Yuji Azuma",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put a mystery counter on your J/ruler.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Put a mystery counter on your J/ruler.",
    "flavor_text": "\"They've arrived.\" -Reiya, Fourth Daughter of the Mikage",
    "all_sets": "Starter Deck"
   },
@@ -1143,7 +1143,7 @@
    "race": "Vampire",
    "artist": "Saiko Takaki",
    "expansion": "Starter Deck",
-   "text": "Continuous\nOther Vampires you control gain [+200/+200].",
+   "text": "Continuous\n\nOther Vampires you control gain [+200/+200].",
    "flavor_text": "\"Show me your strength.\" -Reiya, Fourth Daughter of the Mikage",
    "all_sets": "Starter Deck"
   },
@@ -1166,7 +1166,7 @@
    "race": "Fairy Tale",
    "artist": "KONNO Takashi",
    "expansion": "Starter Deck",
-   "text": "Activate\nRemove a mystery counter from your J/ruler: This card gains [+200/+200] and [Precision] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\nRemove a mystery counter from your J/ruler: This card gains [+200/+200] and [Precision] until end of turn. Play this ability only once per turn.",
    "flavor_text": "A story that has yet to be told in this world.",
    "all_sets": "Starter Deck"
   },
@@ -1186,7 +1186,7 @@
    "race": "Bat",
    "artist": "tokiwa",
    "expansion": "Starter Deck",
-   "text": "Continuous\nThis card gains [+200/0] for each mystery counter on your J/ruler.",
+   "text": "Continuous\n\nThis card gains [+200/0] for each mystery counter on your J/ruler.",
    "flavor_text": "When Gill's group arrived at the dark castle's gate, it opened as if to welcome them.",
    "all_sets": "Starter Deck"
   },
@@ -1227,7 +1227,7 @@
    "race": "Vampire",
    "artist": "Mad",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target resonator with total cost 1.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Destroy target resonator with total cost 1.",
    "flavor_text": "The empress won't stand for the presence of the unworthy.",
    "all_sets": "Starter Deck"
   },
@@ -1253,7 +1253,7 @@
    "race": "Vampire/Fairy Tale",
    "artist": "Haruichi Kido",
    "expansion": "Starter Deck",
-   "text": "Activate\n[b][b]: J/resonators your opponent controls gain [-X00/-X00] until end of turn, where X is the number of Fairy Tales you control.",
+   "text": "Activate\n\n[b][b]: J/resonators your opponent controls gain [-X00/-X00] until end of turn, where X is the number of Fairy Tales you control.",
    "flavor_text": "His eyes seemed transfixed on the crimson moon, as if trying to remember something.",
    "all_sets": "Starter Deck"
   },
@@ -1286,7 +1286,7 @@
    "race": "Vampire",
    "artist": "lack",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Put a mystery counter on this card.",
+   "text": "Activate\n\n[rest]: Put a mystery counter on this card.",
    "flavor_text": "A vampire who suddenly appeared in this world with a mysterious castle.",
    "all_sets": "Starter Deck"
   },
@@ -1301,7 +1301,7 @@
    "race": "Vampire",
    "artist": "lack",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest], remove a mystery counter from this card: Destroy target resonator.",
+   "text": "Activate\n\n[rest], remove a mystery counter from this card: Destroy target resonator.",
    "flavor_text": "\"The Ominous Moon will cut you to ribbons.\"",
    "all_sets": "Starter Deck"
   },
@@ -1353,7 +1353,7 @@
    "type": "Special Magic Stone",
    "artist": "tokiwa",
    "expansion": "Starter Deck",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put a mystery counter on your J/ruler.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put a mystery counter on your J/ruler.",
    "flavor_text": "A stone of endless night that draws in darkness.",
    "all_sets": "Starter Deck"
   },
@@ -1366,7 +1366,7 @@
    "type": "Basic Magic Stone",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Starter Deck"
   }
  ]

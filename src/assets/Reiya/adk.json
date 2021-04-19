@@ -36,7 +36,7 @@
    "race": "Panda",
    "artist": "noki",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever you gain a gem ⇒ Prevent all damage that would be dealt to this card until end of turn.",
+   "text": "Automatic\n\nWhenever you gain a gem ⇒ Prevent all damage that would be dealt to this card until end of turn.",
    "flavor_text": "Gems dazzle the eye better than light.",
    "all_sets": "Advent of the Demon King"
   },
@@ -62,7 +62,7 @@
    "race": "Airship",
    "artist": "Sh!βα",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest], banish three gems: Remove target non-magic stone, non-J-ruler entity from the game.",
+   "text": "Activate\n\n[rest], banish three gems: Remove target non-magic stone, non-J-ruler entity from the game.",
    "flavor_text": "Shimmering like the stars, the gem boat rose into the air, soaring towards the floating isle.",
    "all_sets": "Advent of the Demon King"
   },
@@ -147,7 +147,7 @@
    "race": "Vegetation",
    "artist": "gozz",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card blocks a J/resonator ⇒ That J/resonator doesn't recover during its controller's next recovery phase.",
+   "text": "Automatic\n\nWhenever this card blocks a J/resonator ⇒ That J/resonator doesn't recover during its controller's next recovery phase.",
    "flavor_text": "\"Careful, that stuff snatches you up before you know it.\" -Taegrus Pearlshine",
    "all_sets": "Advent of the Demon King"
   },
@@ -196,7 +196,7 @@
    "race": "Golem",
    "artist": "Moopic",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Gain a light gem, fire gem, water gem, wind gem, and darkness gem.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Gain a light gem, fire gem, water gem, wind gem, and darkness gem.",
    "flavor_text": "Taegrus discovered an interesting reaction between gems and golems.",
    "all_sets": "Advent of the Demon King"
   },
@@ -239,7 +239,7 @@
    "race": "Human",
    "artist": "Matsurika Yoko",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Gain a water gem and a wind gem.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Gain a water gem and a wind gem.",
    "flavor_text": "Quick to run at the first sign of work.",
    "all_sets": "Advent of the Demon King"
   },
@@ -280,7 +280,7 @@
    "race": "Magic Crest",
    "artist": "fzwrAym",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Distribute four [+100/+100] counters on up to four target resonators.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Distribute four [+100/+100] counters on up to four target resonators.",
    "flavor_text": "The Light Magic Crest seems to grant some kind of strange power.",
    "all_sets": "Advent of the Demon King"
   },
@@ -325,7 +325,7 @@
    "race": "Beast",
    "artist": "Miko Yamazaki",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest]: This card deals 400 damage to target attacking or blocking resonator.",
+   "text": "Activate\n\n[rest]: This card deals 400 damage to target attacking or blocking resonator.",
    "flavor_text": "The first challenge of the skies appeared before Taegrus.",
    "all_sets": "Advent of the Demon King"
   },
@@ -351,7 +351,7 @@
    "race": "Panda",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nBanish a gem: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\nBanish a gem: This card gains [Flying] until end of turn.",
    "flavor_text": "\"This is my battlefield.\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -374,7 +374,7 @@
    "race": "Guardian",
    "artist": "Mad",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[w][w]: Change the target of target spell or ability targeting only this card.",
+   "text": "Activate\n\n[w][w]: Change the target of target spell or ability targeting only this card.",
    "flavor_text": "The golden guardian waits patiently for a successor.",
    "all_sets": "Advent of the Demon King"
   },
@@ -437,7 +437,7 @@
    "race": "Golem",
    "artist": "gozz",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nAt end of turn ⇒ Banish this card if it attacked or blocked this turn.",
+   "text": "Automatic\n\nAt end of turn ⇒ Banish this card if it attacked or blocked this turn.",
    "flavor_text": "With Pandora sealed away, the golems ran rampant.",
    "all_sets": "Advent of the Demon King"
   },
@@ -469,7 +469,7 @@
    "race": "Panda",
    "artist": "Yukie TAJIMA",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nAt the end of your turn ⇒ Recover all Pandas you control.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Recover all Pandas you control.",
    "flavor_text": "Her arrival is always met with thunderous applause.",
    "all_sets": "Advent of the Demon King"
   },
@@ -509,7 +509,7 @@
    "race": "Panda",
    "artist": "Matsurika Yoko",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Reveal the top card of your deck. If it's a Panda, put it into your hand.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Reveal the top card of your deck. If it's a Panda, put it into your hand.",
    "flavor_text": "\"Good luck, bad luck, a panda. You never know what the cards will reveal.\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -523,7 +523,7 @@
    "race": "Panda",
    "artist": "Kusanagi Tyouen",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nAt the beginning of the game ⇒ Gain a gem of any attribute.",
+   "text": "Automatic\n\nAt the beginning of the game ⇒ Gain a gem of any attribute.",
    "flavor_text": "After overcoming the trials, Taegrus received Ra's blessing.",
    "all_sets": "Advent of the Demon King"
   },
@@ -538,7 +538,7 @@
    "race": "Panda",
    "artist": "Kusanagi Tyouen",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nBanish a water gem: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\nBanish a water gem: This card gains [Flying] until end of turn.",
    "flavor_text": "The rainbow gem shines and illuminates the future.",
    "all_sets": "Advent of the Demon King"
   },
@@ -562,7 +562,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nEach player may only play one card per turn.",
+   "text": "Continuous\n\nEach player may only play one card per turn.",
    "flavor_text": "A forbidden place that imposes harsh conditions upon intruders.",
    "all_sets": "Advent of the Demon King"
   },
@@ -602,7 +602,7 @@
    "race": "Beast",
    "artist": "Sanosuke Sakuma",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever you gain a gem ⇒ This card gains [+100/+100] until end of turn.",
+   "text": "Automatic\n\nWhenever you gain a gem ⇒ This card gains [+100/+100] until end of turn.",
    "flavor_text": "People gather when a cat cries. They scatter when a dog barks.",
    "all_sets": "Advent of the Demon King"
   },
@@ -628,7 +628,7 @@
    "race": "Dragonoid",
    "artist": "BANAMONS*",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Recover target resonator. If it's a Dragonoid or Panda, it gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Recover target resonator. If it's a Dragonoid or Panda, it gains [+200/+200] until end of turn.",
    "flavor_text": "White dragonoids have the mysterious ability to empower their allies.",
    "all_sets": "Advent of the Demon King"
   },
@@ -668,7 +668,7 @@
    "race": "Dinosaur",
    "artist": "gozz",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card attacks ⇒ It deals 300 damage to each player and J/resonator.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It deals 300 damage to each player and J/resonator.",
    "flavor_text": "\"Little more than a passing breeze for the likes of me!\" -Pialle Eille",
    "all_sets": "Advent of the Demon King"
   },
@@ -711,7 +711,7 @@
    "race": "Dragonoid",
    "artist": "Ippei SOEDA",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card attacks ⇒ You may discard a card. If you do, draw a card.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ You may discard a card. If you do, draw a card.",
    "flavor_text": "The influence of the magic crests spread across many creatures.",
    "all_sets": "Advent of the Demon King"
   },
@@ -755,7 +755,7 @@
    "race": "Dark Elf",
    "artist": "Mad",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ If your life is 2000 or less, search your deck for a card named \"Devoted Squadron\" and put it into the field. That card entering the field doesn't cause its own abilities to trigger. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ If your life is 2000 or less, search your deck for a card named \"Devoted Squadron\" and put it into the field. That card entering the field doesn't cause its own abilities to trigger. Then shuffle your deck.",
    "flavor_text": "Delusion breeds delusion.",
    "all_sets": "Advent of the Demon King"
   },
@@ -778,7 +778,7 @@
    "race": "Dragonoid",
    "artist": "noki",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Target Dragonoid gains \"At end of turn ⇒ Recover this card.\" until end of turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Target Dragonoid gains \"At end of turn ⇒ Recover this card.\" until end of turn.",
    "flavor_text": "Dropping them off a cliff, leaving them in a den of beasts. This nation's doctors provide the very best treatments.",
    "all_sets": "Advent of the Demon King"
   },
@@ -798,7 +798,7 @@
    "race": "Dragonoid",
    "artist": "yuhki lily",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nAt end of turn ⇒ Return this card to its owner's hand.",
+   "text": "Automatic\n\nAt end of turn ⇒ Return this card to its owner's hand.",
    "flavor_text": "The secret to a long life as a thief is to get good at running away.",
    "all_sets": "Advent of the Demon King"
   },
@@ -866,7 +866,7 @@
    "race": "Dragon",
    "artist": "douzen",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for up to two Magic Crests, reveal them and put them into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Search your deck for up to two Magic Crests, reveal them and put them into your hand. Then shuffle your deck.",
    "flavor_text": "A tireless servant of the Demon King.",
    "all_sets": "Advent of the Demon King"
   },
@@ -973,7 +973,7 @@
    "race": "Spirit",
    "artist": "uekino aroe",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ It deals 600 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ It deals 600 damage to target resonator.",
    "flavor_text": "A lethal remnant of the Demon King's wake.",
    "all_sets": "Advent of the Demon King"
   },
@@ -996,7 +996,7 @@
    "race": "Dark Elf/Wicked Spirit",
    "artist": "ishishou",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card attacks ⇒ Another target resonator you control may gain [+400/0] and [Swiftness] until end of turn. If it does, at the next end of turn ⇒ Its controller banishes it.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Another target resonator you control may gain [+400/0] and [Swiftness] until end of turn. If it does, at the next end of turn ⇒ Its controller banishes it.",
    "flavor_text": "\"Frayla...I'm sorry.\" -Gill",
    "all_sets": "Advent of the Demon King"
   },
@@ -1019,7 +1019,7 @@
    "race": "Dark Elf",
    "artist": "mie",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever damage is dealt to you ⇒ This card gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhenever damage is dealt to you ⇒ This card gains [+200/+200] until end of turn.",
    "flavor_text": "Their leader's form was unrecognizable, but their blind devotion remained intact.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1045,7 +1045,7 @@
    "race": "Beast",
    "artist": "Nakaba Higurashi",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put five strength counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Put five strength counters on your J/ruler.",
    "flavor_text": "Fearsome, but they tire quickly. During that time, they're easy to capture, but no one's brave enough to try.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1065,7 +1065,7 @@
    "race": "Beast",
    "artist": "Misa Tsutsui",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put three strength counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Put three strength counters on your J/ruler.",
    "flavor_text": "They rival Hoelle pigs in popularity among cooks.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1087,7 +1087,7 @@
    "race": "Magic Crest",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 600 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 600 damage to target resonator.",
    "flavor_text": "The Fire Magic Crest scorches those that touch it.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1130,7 +1130,7 @@
    "race": "Dark Elf",
    "artist": "Nekobayashi",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nPlay this card only if damage was dealt to you this turn.",
+   "text": "Continuous\n\nPlay this card only if damage was dealt to you this turn.",
    "flavor_text": "Evil filled the void in this creature's heart.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1190,7 +1190,7 @@
    "race": "Panda",
    "artist": "Saiko Takaki",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nBanish a gem: This card gains [+400/0] and [Pierce] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\nBanish a gem: This card gains [+400/0] and [Pierce] until end of turn. Play this ability only once per turn.",
    "flavor_text": "A world famous pugilist who uses gems to fight.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1231,7 +1231,7 @@
    "race": "Golem",
    "artist": "gajumaru",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card attacks ⇒ It deals 800 damage to each resonator. Banish this card.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It deals 800 damage to each resonator. Banish this card.",
    "flavor_text": "\"We'd better disable it. It's out of control.\" -Gill",
    "all_sets": "Advent of the Demon King"
   },
@@ -1257,7 +1257,7 @@
    "race": "Dinosaur",
    "artist": "Nanami Lusia",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card attacks ⇒ Target resonator cannot block this turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Target resonator cannot block this turn.",
    "flavor_text": "Fear is the weapon of the predator.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1271,7 +1271,7 @@
    "race": "Wizard",
    "artist": "Shirai Hidemi",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nYou may pay the attribute cost of Wicked Spirits and Magic Crests with fire will.",
+   "text": "Continuous\n\nYou may pay the attribute cost of Wicked Spirits and Magic Crests with fire will.",
    "flavor_text": "The creature that appeared from the Outer World gate wasn't the savior Frayla had hoped for.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1286,7 +1286,7 @@
    "race": "Wicked Spirit",
    "artist": "Shirai Hidemi",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field or whenever it attacks ⇒ Your opponent puts three [-100/-100] counters on each J/resonator they control.",
+   "text": "Automatic\n\nWhen this card enters the field or whenever it attacks ⇒ Your opponent puts three [-100/-100] counters on each J/resonator they control.",
    "flavor_text": "Darkness clouded the skies and devoured the future.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1309,7 +1309,7 @@
    "race": "Panda",
    "artist": "Mayo",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card if you control a water gem.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Draw a card if you control a water gem.",
    "flavor_text": "Sparkling gems proved to be a fairly effective bait.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1323,7 +1323,7 @@
    "race": "Wererabbit",
    "artist": "Misa Tsutsui",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nYou may not have more than one copy of any card in your deck.",
+   "text": "Continuous\n\nYou may not have more than one copy of any card in your deck.",
    "flavor_text": "\"This meeting...is definitely a once in a lifetime event!\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -1338,7 +1338,7 @@
    "race": "Wererabbit",
    "artist": "Misa Tsutsui",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nGod's Art \"Once In A Lifetime\" [0]: Name a card. Reveal cards from the top of your deck until you reveal the named card. Put that card into your hand, and remove the rest from the game.",
+   "text": "Activate\n\nGod's Art \"Once In A Lifetime\" [0]: Name a card. Reveal cards from the top of your deck until you reveal the named card. Put that card into your hand, and remove the rest from the game.",
    "flavor_text": "\"Because all meetings are once in a lifetime!\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -1360,7 +1360,7 @@
    "race": "Treasury Item",
    "artist": "Kamijo Roro",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Reveal the top card of your deck. If it's a resonator with total cost 3 or less, put it into the field. Otherwise, put it into your hand. If your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\", put it into the field if it's a resonator with total cost 5 or less instead.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Reveal the top card of your deck. If it's a resonator with total cost 3 or less, put it into the field. Otherwise, put it into your hand. If your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\", put it into the field if it's a resonator with total cost 5 or less instead.",
    "flavor_text": "Creatures never seen on this world seem to be drawn in it.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1379,7 +1379,7 @@
    "race": "Treasury Item",
    "artist": "Shirono Muku",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever a card named \"Ayu, Shaman Swordswoman\" enters the field under your control ⇒ Put the top card of your magic stone deck into the field.",
+   "text": "Automatic\n\nWhenever a card named \"Ayu, Shaman Swordswoman\" enters the field under your control ⇒ Put the top card of your magic stone deck into the field.",
    "flavor_text": "\"There's no choice but to risk it all and drink it! I'm sure it's safe!\" -Ayu, Lunar Swordswoman",
    "all_sets": "Advent of the Demon King"
   },
@@ -1419,7 +1419,7 @@
    "race": "Mermaid",
    "artist": "Kamijo Roro",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nThis card gains [+200/+200] as long as the weather is rain.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as the weather is rain.",
    "flavor_text": "\"Lady Shaela! Lady Shaela's been!...\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -1456,7 +1456,7 @@
    "race": "Panda",
    "artist": "SAGAWA ASUKA",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nBanish a gem: This card cannot be blocked until end of turn.",
+   "text": "Activate\n\nBanish a gem: This card cannot be blocked until end of turn.",
    "flavor_text": "Strangely, they blend in unusually well underwater.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1478,7 +1478,7 @@
    "race": "Treasury Item",
    "artist": "Nekobayashi",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nAs this card enters the field, choose a non-magic stone, non-J-ruler entity. This card enters the field as a copy of that entity.",
+   "text": "Continuous\n\nAs this card enters the field, choose a non-magic stone, non-J-ruler entity. This card enters the field as a copy of that entity.",
    "flavor_text": "A mirror that copies your image as well as your soul.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1541,7 +1541,7 @@
    "race": "Insect/Soul",
    "artist": "Kamijo Roro",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Draw a card.",
    "flavor_text": "\"Don't be so negative! Your soul is great!\" -Ayu, Lunar Swordswoman",
    "all_sets": "Advent of the Demon King"
   },
@@ -1560,7 +1560,7 @@
    "race": "Magic Crest",
    "artist": "touge369",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Draw a card.",
    "flavor_text": "The Water Magic Crest inspires dark thoughts.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1583,7 +1583,7 @@
    "race": "Golem",
    "artist": "M ganzy",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Reveal the top three cards of your deck. Put a Golem from among them into your hand and the rest into your graveyard.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Reveal the top three cards of your deck. Put a Golem from among them into your hand and the rest into your graveyard.",
    "flavor_text": "With no orders the golems wandered aimlessly, their numbers slowly increasing over time.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1605,7 +1605,7 @@
    "race": "Treasury Item",
    "artist": "Takamura Haluki",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest]: Produce [w], [r], [u], [g], or [b]. Spend this will only to play chants.",
+   "text": "Activate\n\n[rest]: Produce [w], [r], [u], [g], or [b]. Spend this will only to play chants.",
    "flavor_text": "As Ayu ran, the wonderful sound of this wind chime rang out.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1625,7 +1625,7 @@
    "race": "Mermaid",
    "artist": "j-peg",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
    "flavor_text": "Daydreams may not be real, but they can still inspire.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1651,7 +1651,7 @@
    "race": "Dragon/Soul",
    "artist": "Fujinaka Ryu",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Flying] until end of turn.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Flying] until end of turn.",
    "flavor_text": "A magical fog that no one can truly disperse.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1677,7 +1677,7 @@
    "race": "Dinosaur",
    "artist": "douzen",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Choose one - Destroy target rested resonator; or three target magic stones don't recover during their controller's next recovery phase.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Choose one - Destroy target rested resonator; or three target magic stones don't recover during their controller's next recovery phase.",
    "flavor_text": "\"As big as a mosasaurus\" seems to be a common insult among mermaids.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1776,7 +1776,7 @@
    "race": "Beast/Soul",
    "artist": "douzen",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card attacks ⇒ Rest target resonator.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Rest target resonator.",
    "flavor_text": "Possessed by the falcon spirit, Ayu cawed loudly.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1802,7 +1802,7 @@
    "race": "Mermaid",
    "artist": "mie",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nThis card cannot be blocked as long as the weather is rain.",
+   "text": "Continuous\n\nThis card cannot be blocked as long as the weather is rain.",
    "flavor_text": "\"Sorry, I can only deal with one at a time.\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -1845,7 +1845,7 @@
    "race": "Beast/Soul",
    "artist": "Misa Tsutsui",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Precision] until end of turn.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Precision] until end of turn.",
    "flavor_text": "This spirit fills its host with a primal fury.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1871,7 +1871,7 @@
    "race": "Human",
    "artist": "Takumi Sugikawa",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nThis card gains [+400/+400] as long as the weather is rain.",
+   "text": "Continuous\n\nThis card gains [+400/+400] as long as the weather is rain.",
    "flavor_text": "He was ordered to watch the coasts, but he can't remember why.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1919,7 +1919,7 @@
    "race": "Bushido/Soul",
    "artist": "SIE NANAHARA",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Pierce] until end of turn.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Pierce] until end of turn.",
    "flavor_text": "This spirit fills its host with a sturdiness, and the resolve of a samurai.",
    "all_sets": "Advent of the Demon King"
   },
@@ -1945,7 +1945,7 @@
    "race": "Elf",
    "artist": "ComamitsuZaki",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever you play a wind chant ⇒ This card gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhenever you play a wind chant ⇒ This card gains [+200/+200] until end of turn.",
    "flavor_text": "\"Hm? You have need of me?\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -1968,7 +1968,7 @@
    "race": "Beast",
    "artist": "ComamitsuZaki",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nBanish this card: This card deals 400 damage to target resonator.",
+   "text": "Activate\n\nBanish this card: This card deals 400 damage to target resonator.",
    "flavor_text": "\"Come, Mikay!\" -Ciel, Sorcerous Priestess",
    "all_sets": "Advent of the Demon King"
   },
@@ -2054,7 +2054,7 @@
    "race": "Elf",
    "artist": "ponkichi",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card battles with a resonator ⇒ It gains [+400/+300] until end of turn.",
+   "text": "Automatic\n\nWhenever this card battles with a resonator ⇒ It gains [+400/+300] until end of turn.",
    "flavor_text": "The elves were forced to quickly learn to combat the majins.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2104,7 +2104,7 @@
    "race": "Dragonoid",
    "artist": "Tomomi TOMIDA",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Look at the top four cards of your deck. You may reveal a Dragonoid from among them and put it into your hand. Put the rest on the bottom of your deck in any order.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Look at the top four cards of your deck. You may reveal a Dragonoid from among them and put it into your hand. Put the rest on the bottom of your deck in any order.",
    "flavor_text": "The guide showed Gill the way, leading him to a tower he'd seen in his dreams.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2133,7 +2133,7 @@
    "race": "Elf",
    "artist": "Kamijo Roro",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nRest five recovered Elves you control: Put this card from your graveyard into the field.",
+   "text": "Activate\n\nRest five recovered Elves you control: Put this card from your graveyard into the field.",
    "flavor_text": "\"I will protect these lands. I will not let all we know come to an end.\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -2147,7 +2147,7 @@
    "race": "Human",
    "artist": "gekko",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest]: Search your deck for a card named \"Gentle Breeze Elemental\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[rest]: Search your deck for a card named \"Gentle Breeze Elemental\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Gill's theory that the Ultra Magic Stone would react with the dragon priestesses' power proved correct.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2162,7 +2162,7 @@
    "race": "Human",
    "artist": "gekko",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nRemove an Elemental in your graveyard from the game: Produce [g]. Spend this will only to play Spirit Magic chants. Play this ability only once per turn.",
+   "text": "Activate\n\nRemove an Elemental in your graveyard from the game: Produce [g]. Spend this will only to play Spirit Magic chants. Play this ability only once per turn.",
    "flavor_text": "\"This is the end!\" Gill said. Reiya said nothing, as she knew the end was far and away.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2185,7 +2185,7 @@
    "race": "Elf/Soul",
    "artist": "Mayo",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put target Soul resonator not named \"Grieving Elf Spirit\" from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put target Soul resonator not named \"Grieving Elf Spirit\" from your graveyard into your hand.",
    "flavor_text": "The shadow of a grieving soul.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2248,7 +2248,7 @@
    "race": "Elemental/Elf",
    "artist": "Pisuke",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for up to two resonators with \"Leaf\" in their names and put them into your graveyard. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Search your deck for up to two resonators with \"Leaf\" in their names and put them into your graveyard. Then shuffle your deck.",
    "flavor_text": "\"Excellent. Use this to hide.\" -Gill",
    "all_sets": "Advent of the Demon King"
   },
@@ -2274,7 +2274,7 @@
    "race": "Elemental/Golem",
    "artist": "SO",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nBanish a \"Leaf Wing\" and a \"Leaf Fighter\": Put this card from your graveyard into the field.",
+   "text": "Activate\n\nBanish a \"Leaf Wing\" and a \"Leaf Fighter\": Put this card from your graveyard into the field.",
    "flavor_text": "\"I wonder how well I can copy those things.\" -Gill",
    "all_sets": "Advent of the Demon King"
   },
@@ -2300,7 +2300,7 @@
    "race": "Elemental",
    "artist": "JURI",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target fire resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Destroy target fire resonator.",
    "flavor_text": "Leaves really don't like fire.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2341,7 +2341,7 @@
    "race": "Magic Crest",
    "artist": "Nagi-nyan",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put the top card of your magic stone deck into the field.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put the top card of your magic stone deck into the field.",
    "flavor_text": "The Wind Magic Crest carries evil magic with it.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2399,7 +2399,7 @@
    "race": "Elf",
    "artist": "j-peg",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest], banish this card: Destroy target addition.",
+   "text": "Activate\n\n[rest], banish this card: Destroy target addition.",
    "flavor_text": "The portal was thought to be the lifeline of elvenkind, and they defended it to the last.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2422,7 +2422,7 @@
    "race": "Dragonoid",
    "artist": "ishishou",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put all Elemental cards from your removed area into your graveyard.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put all Elemental cards from your removed area into your graveyard.",
    "flavor_text": "A guardian of the tower, who waits patiently for the prophesized savior.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2446,7 +2446,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever a chant with total cost 1 or less is played ⇒ Cancel it.",
+   "text": "Automatic\n\nWhenever a chant with total cost 1 or less is played ⇒ Cancel it.",
    "flavor_text": "A suffocating aura permeates the tower.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2472,7 +2472,7 @@
    "race": "Golem",
    "artist": "Moopic",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nThis card gains [Barrier] during your opponent's turn.",
+   "text": "Continuous\n\nThis card gains [Barrier] during your opponent's turn.",
    "flavor_text": "\"What's so important they'd have this protecting it?\" -Gill",
    "all_sets": "Advent of the Demon King"
   },
@@ -2495,7 +2495,7 @@
    "race": "Panda",
    "artist": "Fukuzo Katsura",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ You may banish a wind gem. If you do, put the top card of your magic stone deck into the field.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ You may banish a wind gem. If you do, put the top card of your magic stone deck into the field.",
    "flavor_text": "It's rare, but there are pandas who travel the world, practicing wind magic.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2557,7 +2557,7 @@
    "race": "Dragonoid",
    "artist": "Yukie TAJIMA",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Choose up to one for each two cards removed by this card - Draw a card; or put target resonator with total cost 2 or less on the bottom of its owner's deck; or produce [g][g].",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Choose up to one for each two cards removed by this card - Draw a card; or put target resonator with total cost 2 or less on the bottom of its owner's deck; or produce [g][g].",
    "flavor_text": "A guardian of the tower, who waits impatiently for the one to free her.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2628,7 +2628,7 @@
    "race": "Insect",
    "artist": "SAGAWA ASUKA",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card attacks ⇒ It gains [+500/0] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It gains [+500/0] until end of turn.",
    "flavor_text": "Unafraid of death, the insects struck hard against the elves.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2654,7 +2654,7 @@
    "race": "Wicked Spirit",
    "artist": "jugemt",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nRemove a [-100/-100] counter from this card: Put a [-100/-100] counter on another target resonator.",
+   "text": "Activate\n\nRemove a [-100/-100] counter from this card: Put a [-100/-100] counter on another target resonator.",
    "flavor_text": "A powerful servant of the Demon King, who plots his master's demise.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2698,7 +2698,7 @@
    "race": "Dragon",
    "artist": "Ippei SOEDA",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card deals damage ⇒ You gain that much life.",
+   "text": "Automatic\n\nWhenever this card deals damage ⇒ You gain that much life.",
    "flavor_text": "\"You're not taking my blood!\" -Taegrus Pearlshine",
    "all_sets": "Advent of the Demon King"
   },
@@ -2780,7 +2780,7 @@
    "race": "Panda",
    "artist": "Cola",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Banish a gem. If you don't, banish this card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Banish a gem. If you don't, banish this card.",
    "flavor_text": "Even some of the pandas were corrupted by the Demon King.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2854,7 +2854,7 @@
    "race": "Dark Elf",
    "artist": "Haruichi Kido",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for an Elf or Dark Elf, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Search your deck for an Elf or Dark Elf, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "The dark elves that escaped the portal to the Outer World sought help from the elves.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2899,7 +2899,7 @@
    "race": "Insect",
    "artist": "Takamura Haluki",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhenever this card deals damage to a resonator ⇒ Destroy that resonator.",
+   "text": "Automatic\n\nWhenever this card deals damage to a resonator ⇒ Destroy that resonator.",
    "flavor_text": "Creatures that came under Beelzebub's influence transformed into monstrous forms.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2965,7 +2965,7 @@
    "race": "Vampire",
    "artist": "Fukuzo Katsura",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[b]: This card gains \"Whenever this card deals damage to a resonator ⇒ Destroy that resonator.\" until end of turn.",
+   "text": "Activate\n\n[b]: This card gains \"Whenever this card deals damage to a resonator ⇒ Destroy that resonator.\" until end of turn.",
    "flavor_text": "Devotion knows no limitations.",
    "all_sets": "Advent of the Demon King"
   },
@@ -2994,7 +2994,7 @@
    "race": "Dark Elf/Zombie",
    "artist": "Nem",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nThis card gains [Swiftness], [Flying], and [First Strike] as long as your life is 1000 or less.",
+   "text": "Continuous\n\nThis card gains [Swiftness], [Flying], and [First Strike] as long as your life is 1000 or less.",
    "flavor_text": "Twisted though they were, they remained desperate to serve Frayla.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3017,7 +3017,7 @@
    "race": "Human",
    "artist": "Retro",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nIf this card would deal damage to a J/resonator, put a [-100/-100] counter on that J/resonator for each 100 damage instead.",
+   "text": "Continuous\n\nIf this card would deal damage to a J/resonator, put a [-100/-100] counter on that J/resonator for each 100 damage instead.",
    "flavor_text": "She strikes with such devotion it leaves a lasting impression on the opponent.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3043,7 +3043,7 @@
    "race": "Panda",
    "artist": "gozz",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\nBanish a darkness gem: Target resonator gains [-400/-400] until end of turn.",
+   "text": "Activate\n\nBanish a darkness gem: Target resonator gains [-400/-400] until end of turn.",
    "flavor_text": "\"One day, I'll be king. I'll do whatever it takes.\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -3062,7 +3062,7 @@
    "race": "Magic Crest",
    "artist": "KONNO Takashi",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put target resonator from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put target resonator from your graveyard into your hand.",
    "flavor_text": "The Darkness Magic Crest corrupts and twists life around it.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3085,7 +3085,7 @@
    "race": "Golem",
    "artist": "Hayama Kohei",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nAt the end of your turn ⇒ Put a [+100/+100] counter on this card. Then you lose 100 life for each [+100/+100] counter on this card.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Put a [+100/+100] counter on this card. Then you lose 100 life for each [+100/+100] counter on this card.",
    "flavor_text": "A number of golems were reactivated under the Demon King's control.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3108,7 +3108,7 @@
    "race": "Fairy Tale",
    "artist": "hatarisu",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest]: Rest target resonator.",
+   "text": "Activate\n\n[rest]: Rest target resonator.",
    "flavor_text": "Her tears swayed the hearts of many.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3122,7 +3122,7 @@
    "race": "Vampire",
    "artist": "lack",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest]: Put a mystery counter on this card.",
+   "text": "Activate\n\n[rest]: Put a mystery counter on this card.",
    "flavor_text": "The Ominous Moon feeds on the life of its wielder.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3137,7 +3137,7 @@
    "race": "Vampire",
    "artist": "lack",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest], remove a mystery counter from this card: Destroy target resonator.",
+   "text": "Activate\n\n[rest], remove a mystery counter from this card: Destroy target resonator.",
    "flavor_text": "\"The Ominous Moon will cut you to ribbons.\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -3160,7 +3160,7 @@
    "race": "Bat",
    "artist": "Saiko Takaki",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Your opponent discards a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Your opponent discards a card.",
    "flavor_text": "Even when the creature's gone, its echoes can still be heard.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3180,7 +3180,7 @@
    "race": "Wicked Spirit",
    "artist": "tokiwa",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put two [-100/-100] counters on target resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Put two [-100/-100] counters on target resonator.",
    "flavor_text": "Just touching Beelzebub is enough to rot you away.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3224,7 +3224,7 @@
    "race": "Wicked Spirit",
    "artist": "noki",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nThis card gains [+200/+200] for each other Wicked Spirit you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each other Wicked Spirit you control.",
    "flavor_text": "Able to act as Welser's eyes and ears, they bring him secret knowledge from across the world.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3247,7 +3247,7 @@
    "race": "Vampire",
    "artist": "RYUEMON",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 300 damage to target player or resonator. You gain 300 life.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 300 damage to target player or resonator. You gain 300 life.",
    "flavor_text": "His beautiful stories and songs steal strength away from those that hear them.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3265,7 +3265,7 @@
    "type": "Addition",
    "artist": "Miko Yamazaki",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest], [1]: Produce [w], [r], [u], [g], or [b].",
+   "text": "Activate\n\n[rest], [1]: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "A mysterious angelic statue found in the Eternal Tower.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3283,7 +3283,7 @@
    "type": "Addition",
    "artist": "BANAMONS*",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[2], banish this card: Draw a card.",
+   "text": "Activate\n\n[2], banish this card: Draw a card.",
    "flavor_text": "A floating crystal that carries magic of some unknown kind.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3303,7 +3303,7 @@
    "race": "Golem",
    "artist": "kakiken",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
    "flavor_text": "Damaged though they may be, some of them still function.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3316,7 +3316,7 @@
    "type": "Special Magic Stone",
    "artist": "Nekobayashi",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest], banish this card: Produce [r][r]. Spend this will only to play Wicked Spirits.",
+   "text": "Activate\n\n[rest], banish this card: Produce [r][r]. Spend this will only to play Wicked Spirits.",
    "flavor_text": "A magic stone concealing the power of the majins.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3329,7 +3329,7 @@
    "type": "Special Magic Stone",
    "artist": "Misa Tsutsui",
    "expansion": "Advent of the Demon King",
-   "text": "Activate\n[rest]: Produce [w], [r], [u], [g], or [b]. Play this ability only if your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\".",
+   "text": "Activate\n\n[rest]: Produce [w], [r], [u], [g], or [b]. Play this ability only if your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\".",
    "flavor_text": "A source of infinite possibilities and limitations.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3355,7 +3355,7 @@
    "race": "Dragonoid",
    "artist": "BANAMONS*",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card enters the field ⇒ Recover target resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Recover target resonator.",
    "flavor_text": "White dragonoids have the mysterious ability to empower their allies.",
    "all_sets": "Advent of the Demon King"
   },
@@ -3403,7 +3403,7 @@
    "race": "Mermaid",
    "artist": "Kamijo Roro",
    "expansion": "Advent of the Demon King",
-   "text": "Continuous\nThis card gains [+200/+200] as long as the weather is rain.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as the weather is rain.",
    "flavor_text": "\"Lady Shaela! Lady Shaela's been!...\"",
    "all_sets": "Advent of the Demon King"
   },
@@ -3451,7 +3451,7 @@
    "race": "Bat",
    "artist": "Saiko Takaki",
    "expansion": "Advent of the Demon King",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Your opponent discards a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Your opponent discards a card.",
    "flavor_text": "Even when the creature's gone, its echoes can still be heard.",
    "all_sets": "Advent of the Demon King"
   }

@@ -19,7 +19,7 @@
    "race": "Beast",
    "artist": "hatarisu",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever you do judgment of a ruler ⇒ Invert this card. (Flip it over.)",
+   "text": "Automatic\n\nWhenever you do judgment of a ruler ⇒ Invert this card. (Flip it over.)",
    "flavor_text": "You can't tell what's lurking beneath its outward appearance.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -34,7 +34,7 @@
    "race": "Beast/Inverse",
    "artist": "hatarisu",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card inverts ⇒ Destroy target resonator with ATK less than this card's ATK.",
+   "text": "Automatic\n\nWhen this card inverts ⇒ Destroy target resonator with ATK less than this card's ATK.",
    "flavor_text": "”Ah, perhaps that was too rough of a greeting?\" - Aimul, Princess of Despair",
    "all_sets": "The Time Spinning Witch"
   },
@@ -54,7 +54,7 @@
    "race": "Angel",
    "artist": "Mayo",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever you gain life ⇒ Put a [+100/+100] counter on this card.",
+   "text": "Automatic\n\nWhenever you gain life ⇒ Put a [+100/+100] counter on this card.",
    "flavor_text": "An angel carrying hope...",
    "all_sets": "The Time Spinning Witch"
   },
@@ -69,7 +69,7 @@
    "race": "Angel/Inverse",
    "artist": "Mayo",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card inverts ⇒ Destroy target resonator if there is a [+100/+100] counter on this card.",
+   "text": "Automatic\n\nWhen this card inverts ⇒ Destroy target resonator if there is a [+100/+100] counter on this card.",
    "flavor_text": "...invites despair in the end.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -92,7 +92,7 @@
    "race": "Human",
    "artist": "Kamijo Roro",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nYou may pay [w] less to do judgment.",
+   "text": "Continuous\n\nYou may pay [w] less to do judgment.",
    "flavor_text": "Anyone can change...",
    "all_sets": "The Time Spinning Witch"
   },
@@ -107,7 +107,7 @@
    "race": "Human/Inverse",
    "artist": "Kamijo Roro",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nOther Inverse resonators you control gain [+400/+400].",
+   "text": "Continuous\n\nOther Inverse resonators you control gain [+400/+400].",
    "flavor_text": "...good or evil.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -127,7 +127,7 @@
    "race": "Human",
    "artist": "Matsurika Yoko",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[w], [rest], return this card to its owner's hand: Rest target resonator.",
+   "text": "Activate\n\n[w], [rest], return this card to its owner's hand: Rest target resonator.",
    "flavor_text": "As Sasaru Palace collapsed, the jeweler made off with the most valuable gems without ever looking back.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -188,7 +188,7 @@
    "race": "Human",
    "artist": "fzwrAym",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nBanish five gems: Destroy target addition.",
+   "text": "Activate\n\nBanish five gems: Destroy target addition.",
    "flavor_text": "Due to her never leaving any treasure behind, other treasure hunters have taken to calling her \"Fierica the Thorough\".",
    "all_sets": "The Time Spinning Witch"
   },
@@ -269,7 +269,7 @@
    "race": "Panda",
    "artist": "kawaryu",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card gains [+400/+400] as long as you control ten or more gems.",
+   "text": "Continuous\n\nThis card gains [+400/+400] as long as you control ten or more gems.",
    "flavor_text": "Happiness is relative to one's number of gems.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -289,7 +289,7 @@
    "race": "Panda",
    "artist": "Nakaba Higurashi",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest], banish three gems that share an attribute: Produce two wills of an attribute shared with all gems banished this way.",
+   "text": "Activate\n\n[rest], banish three gems that share an attribute: Produce two wills of an attribute shared with all gems banished this way.",
    "flavor_text": "A powerful magic swell can shatter gems.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -363,7 +363,7 @@
    "race": "Human",
    "artist": "Matsurika Yoko",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever you do judgment of a ruler ⇒ Invert this card. (Flip it over.)",
+   "text": "Automatic\n\nWhenever you do judgment of a ruler ⇒ Invert this card. (Flip it over.)",
    "flavor_text": "Hope is a beautiful lie.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -398,7 +398,7 @@
    "type": "Addition",
    "artist": "Shinichi Chiba",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put two [+100/+100] counters on each resonator you control.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put two [+100/+100] counters on each resonator you control.",
    "flavor_text": "Sasaru Palace crumbled and a shining new palace was erected.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -412,7 +412,7 @@
    "race": "Inverse",
    "artist": "Shinichi Chiba",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card inverts ⇒ Put four [-100/-100] counters on each resonator your opponent controls.",
+   "text": "Automatic\n\nWhen this card inverts ⇒ Put four [-100/-100] counters on each resonator your opponent controls.",
    "flavor_text": "All lights must eventually go out.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -430,7 +430,7 @@
    "type": "Addition",
    "artist": "Tsukumi",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever a resonator you control is put into a graveyard from the field ⇒ You may pay [1]. If you do, draw a card.",
+   "text": "Automatic\n\nWhenever a resonator you control is put into a graveyard from the field ⇒ You may pay [1]. If you do, draw a card.",
    "flavor_text": "The ritual begins with one's own despair...",
    "all_sets": "The Time Spinning Witch"
   },
@@ -444,7 +444,7 @@
    "race": "Inverse",
    "artist": "Tsukumi",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nBanish a resonator: Target resonator gains [-400/-400] until end of turn.",
+   "text": "Activate\n\nBanish a resonator: Target resonator gains [-400/-400] until end of turn.",
    "flavor_text": "...and ends with another's.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -470,7 +470,7 @@
    "race": "Golem",
    "artist": "kakiken",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever this card attacks ⇒ For each different attribute of the gem banished to pay this card's [Mobilize] cost during this battle, this card gains the following until end of turn:\n[w]: [0/+500]\n[r]: [Pierce]\n[u]: [Flying]\n[g]: [First Strike]\n[b]: [+500/0]",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ For each different attribute of the gem banished to pay this card's [Mobilize] cost during this battle, this card gains the following until end of turn:\n\n[w]: [0/+500]\n\n[r]: [Pierce]\n\n[u]: [Flying]\n\n[g]: [First Strike]\n\n[b]: [+500/0]",
    "flavor_text": "Using gems, Taegrus refitted golems into much more versatile fighters.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -496,7 +496,7 @@
    "race": "Demon",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nJ/resonators your opponent controls enter the field rested.",
+   "text": "Continuous\n\nJ/resonators your opponent controls enter the field rested.",
    "flavor_text": "\"Stay.\" -Princess of Fleeting Hope",
    "all_sets": "The Time Spinning Witch"
   },
@@ -511,7 +511,7 @@
    "race": "Demon/Inverse",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nResonators entering the field under your opponent's control don't cause their own abilities to trigger.",
+   "text": "Continuous\n\nResonators entering the field under your opponent's control don't cause their own abilities to trigger.",
    "flavor_text": "\"Come Mephistopheles. Devour everything.\" -Aimul, Princess of Despair",
    "all_sets": "The Time Spinning Witch"
   },
@@ -554,7 +554,7 @@
    "race": "Panda",
    "artist": "Retro",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Remove target card in your graveyard from the game.",
+   "text": "Activate\n\n[rest]: Remove target card in your graveyard from the game.",
    "flavor_text": "\"Hm? You'd like to show me something?\" -Princess of Fleeting Hope",
    "all_sets": "The Time Spinning Witch"
   },
@@ -569,7 +569,7 @@
    "race": "Panda/Inverse",
    "artist": "Retro",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Put target card from a removed area that was removed by this card into its owner's hand.",
+   "text": "Activate\n\n[rest]: Put target card from a removed area that was removed by this card into its owner's hand.",
    "flavor_text": "\"Thank you. Keep the change.\" -Aimul, Princess of Despair",
    "all_sets": "The Time Spinning Witch"
   },
@@ -592,7 +592,7 @@
    "race": "Panda",
    "artist": "mie",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nBanish a gem: Switch the ATK and DEF of this card until end of turn.",
+   "text": "Activate\n\nBanish a gem: Switch the ATK and DEF of this card until end of turn.",
    "flavor_text": "All of the performer's tricks use gems.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -606,7 +606,7 @@
    "race": "Human",
    "artist": "kurisu",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[0]: Recover target resonator. Play this ability only during your opponent's turn and only once per turn.",
+   "text": "Activate\n\n[0]: Recover target resonator. Play this ability only during your opponent's turn and only once per turn.",
    "flavor_text": "\"Onii-sama. That pitiful form...Don't worry, I shall release you.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -621,7 +621,7 @@
    "race": "Human",
    "artist": "kurisu",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card gains [+200/+200] for each Inverse entity you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each Inverse entity you control.",
    "flavor_text": "A false peace, a deadly sickness.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -664,7 +664,7 @@
    "race": "Human",
    "artist": "Azusa",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Prevent all damage that would be dealt to this card until end of turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Prevent all damage that would be dealt to this card until end of turn.",
    "flavor_text": "Standing on the battle field to atone...",
    "all_sets": "The Time Spinning Witch"
   },
@@ -679,7 +679,7 @@
    "race": "Human/Inverse",
    "artist": "Azusa",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever this card attacks ⇒ Target J/resonator gains [-200/-200] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Target J/resonator gains [-200/-200] until end of turn.",
    "flavor_text": "...this knight convicts the innocent.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -719,7 +719,7 @@
    "race": "Fairy Tale",
    "artist": "j-peg",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target rested resonator. Gain a gem of any attribute.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Destroy target rested resonator. Gain a gem of any attribute.",
    "flavor_text": "From her lips, gems fell.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -742,7 +742,7 @@
    "race": "Panda",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[w][w]: Choose an ability for each different attribute among all gems you control from [Swiftness], [Precision], [First Strike], [Flying], and [Pierce]. This card gains those abilities until end of turn.",
+   "text": "Activate\n\n[w][w]: Choose an ability for each different attribute among all gems you control from [Swiftness], [Precision], [First Strike], [Flying], and [Pierce]. This card gains those abilities until end of turn.",
    "flavor_text": "Apparently, he receives a lot of complaints because his outfit sparkles too brightly.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -765,7 +765,7 @@
    "race": "Beast",
    "artist": "Nakaba Higurashi",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Target resonator loses all abilities until end of turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Target resonator loses all abilities until end of turn.",
    "flavor_text": "\"There. Now nothing should be troubling you.\" -Princess of Fleeting Hope",
    "all_sets": "The Time Spinning Witch"
   },
@@ -808,7 +808,7 @@
    "race": "Dragonoid",
    "artist": "Takumi Sugikawa",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[r]: This card gains [+100/0] until end of turn.",
+   "text": "Activate\n\n[r]: This card gains [+100/0] until end of turn.",
    "flavor_text": "\"Someday, I'll compete in the martial arts tournament!\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -834,7 +834,7 @@
    "race": "Dragonoid",
    "artist": "kakiken",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever a resonator your opponent controls is put into a graveyard from the field ⇒ Put two strength counters on your J/ruler.",
+   "text": "Automatic\n\nWhenever a resonator your opponent controls is put into a graveyard from the field ⇒ Put two strength counters on your J/ruler.",
    "flavor_text": "Nothing cures a wounded heart like a good fight.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -857,7 +857,7 @@
    "race": "Demon",
    "artist": "tokiwa",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a Dinosaur, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Search your deck for a Dinosaur, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Good boy.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -883,7 +883,7 @@
    "race": "Dragonoid/Dinosaur",
    "artist": "suranaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever a resonator dealt damage by this card this turn is put into a graveyard from the field ⇒ This card gains [Swiftness] until end of turn.",
+   "text": "Automatic\n\nWhenever a resonator dealt damage by this card this turn is put into a graveyard from the field ⇒ This card gains [Swiftness] until end of turn.",
    "flavor_text": "\"I'Ll KiLl YoU!\" -Scarlet, the Crimson Beast",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1015,7 +1015,7 @@
    "race": "Dragon",
    "artist": "Hayama Kohei",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nRemove a strength counter from your J/ruler: This card gains [+500/0] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\nRemove a strength counter from your J/ruler: This card gains [+500/0] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Like how dragonoids play with each other, dragons play with their masters.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1057,7 +1057,7 @@
    "type": "Addition",
    "artist": "Misa Tsutsui",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nBestowed resonator gains [+400/+400], [Swiftness], [Barrier], and [Precision].",
+   "text": "Continuous\n\nBestowed resonator gains [+400/+400], [Swiftness], [Barrier], and [Precision].",
    "flavor_text": "It confers a sense of resoluteness within the hero who claims it.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1117,7 +1117,7 @@
    "type": "Addition",
    "artist": "Mad",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever a resonator with total cost 2 or less enters the field ⇒ This card deals 600 damage to it.",
+   "text": "Automatic\n\nWhenever a resonator with total cost 2 or less enters the field ⇒ This card deals 600 damage to it.",
    "flavor_text": "Kirik had come to Shooting Star's den to test himself and push beyond his limits.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1131,7 +1131,7 @@
    "race": "Dragonoid",
    "artist": "SIGMAN",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Put X strength counters on this card, where X is ten minus the number of strength counters on this card.",
+   "text": "Activate\n\n[rest]: Put X strength counters on this card, where X is ten minus the number of strength counters on this card.",
    "flavor_text": "With Shooting Star's defeat, Kirik gained newfound power from the creature's blood.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1146,7 +1146,7 @@
    "race": "Dragonoid",
    "artist": "SIGMAN",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nRemove five strength counters from this card: This card deals 500 damage to target J/resonator.",
+   "text": "Activate\n\nRemove five strength counters from this card: This card deals 500 damage to target J/resonator.",
    "flavor_text": "\"Dragon god! Grant me power!\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1169,7 +1169,7 @@
    "race": "Dinosaur",
    "artist": "douzen",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Discard a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Discard a card.",
    "flavor_text": "Like its master, it chases after things blindly.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1217,7 +1217,7 @@
    "race": "Dragonoid",
    "artist": "Yukie TAJIMA",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nRemove a strength counter from your J/ruler: This card gains [+200/+200] until end of turn. Play this ability up to two times per turn.",
+   "text": "Activate\n\nRemove a strength counter from your J/ruler: This card gains [+200/+200] until end of turn. Play this ability up to two times per turn.",
    "flavor_text": "\"You haven't gotten weaker, have you, Kirik?\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1240,7 +1240,7 @@
    "race": "Beast",
    "artist": "Yuko Nagasaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nRemove two strength counters from your J/ruler: Target resonator gains [Flying] until end of turn.",
+   "text": "Activate\n\nRemove two strength counters from your J/ruler: Target resonator gains [Flying] until end of turn.",
    "flavor_text": "An unusual pig who defeated many hunters and bested Pialle once. Now they travel together.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1260,7 +1260,7 @@
    "race": "Beast",
    "artist": "Yuko Nagasaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Another target Beast resonator gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[rest]: Another target Beast resonator gains [+200/+200] until end of turn.",
    "flavor_text": "\"Oink! Oink!\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1345,7 +1345,7 @@
    "race": "Spirit",
    "artist": "AKI",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ J/resonators you control gain [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ J/resonators you control gain [+200/+200] until end of turn.",
    "flavor_text": "Losing his strength, Kirik borrowed the power of a spirit.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1418,7 +1418,7 @@
    "race": "Dragon/Guardian",
    "artist": "Mad",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Discard a card at random.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Discard a card at random.",
    "flavor_text": "None have felt the wrath of Shooting Star and lived to tell the tale.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1458,7 +1458,7 @@
    "race": "Mermaid",
    "artist": "JURI",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Recover your ruler if it's water.",
+   "text": "Activate\n\n[rest]: Recover your ruler if it's water.",
    "flavor_text": "\"Princess Shalea, please get well soon.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1484,7 +1484,7 @@
    "race": "Beast",
    "artist": "mie",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put target resonator on top of its owner's deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put target resonator on top of its owner's deck.",
    "flavor_text": "\"One that big is sure to have something good!\" Rebellious Soul, Ayu",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1510,7 +1510,7 @@
    "race": "Fish",
    "artist": "douzen",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ If the weather is thunderstorm, search your deck for a card named \"Mega Thunderfish\" and/or a card named \"Thunderfish\" and put them into the field. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ If the weather is thunderstorm, search your deck for a card named \"Mega Thunderfish\" and/or a card named \"Thunderfish\" and put them into the field. Then shuffle your deck.",
    "flavor_text": "\"That was pretty scary~\" -Shaela, the Mermaid Princess",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1559,7 +1559,7 @@
    "race": "Dolphin",
    "artist": "Yukie TAJIMA",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card cannot be blocked as long as the weather is thunderstorm.",
+   "text": "Continuous\n\nThis card cannot be blocked as long as the weather is thunderstorm.",
    "flavor_text": "Faster than a speeding bullet.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1577,7 +1577,7 @@
    "type": "Addition",
    "artist": "douzen",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: The weather is thunderstorm until end of turn. Play this ability only if the weather is rain.",
+   "text": "Activate\n\n[rest]: The weather is thunderstorm until end of turn. Play this ability only if the weather is rain.",
    "flavor_text": "Those with freedom in the air my find they have not in the sea.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1603,7 +1603,7 @@
    "race": "Dragon",
    "artist": "Ippei SOEDA",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card cannot attack unless the weather is thunderstorm.",
+   "text": "Continuous\n\nThis card cannot attack unless the weather is thunderstorm.",
    "flavor_text": "Lightning dances in the skies.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1629,7 +1629,7 @@
    "race": "Spirit",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[u]: The weather is thunderstorm until end of turn. Play this ability only if the weather is rain.",
+   "text": "Activate\n\n[u]: The weather is thunderstorm until end of turn. Play this ability only if the weather is rain.",
    "flavor_text": "An omen of a thunderstorm.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1672,7 +1672,7 @@
    "race": "Wererabbit",
    "artist": "Nekobayashi",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card gains [+400/+400] as long as you don't control another resonator.",
+   "text": "Continuous\n\nThis card gains [+400/+400] as long as you don't control another resonator.",
    "flavor_text": "The moon silently weeps.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1695,7 +1695,7 @@
    "race": "Wererabbit",
    "artist": "Nakaba Higurashi",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Look at the top card of your deck. You may put it on the bottom of your deck. Draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Look at the top card of your deck. You may put it on the bottom of your deck. Draw a card.",
    "flavor_text": "Beneath the moon, Gill met a mysterious prophet.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1718,7 +1718,7 @@
    "race": "Golem",
    "artist": "M ganzy",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card is mobilized and gains \"Whenever this card attacks or blocks ⇒ Rest target J/resonator.\", as long as the weather is thunderstorm.",
+   "text": "Continuous\n\nThis card is mobilized and gains \"Whenever this card attacks or blocks ⇒ Rest target J/resonator.\", as long as the weather is thunderstorm.",
    "flavor_text": "Electricity has dynamic power, and attack power.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1741,7 +1741,7 @@
    "race": "Mermaid",
    "artist": "Nekobayashi",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nIf a spell or ability you control would change a player's weather, that player's weather changes to thunderstorm instead.",
+   "text": "Continuous\n\nIf a spell or ability you control would change a player's weather, that player's weather changes to thunderstorm instead.",
    "flavor_text": "Shaela and Mephina gained new powers.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1764,7 +1764,7 @@
    "race": "Mermaid",
    "artist": "yua",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Target resonator of the chosen race gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator of the chosen race gains [+200/+200] until end of turn.",
    "flavor_text": "\"Hm? Hmmm, this fish. Has it been here since ancient times?\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1787,7 +1787,7 @@
    "race": "Beast",
    "artist": "Hayama Kohei",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nIf the weather is thunderstorm, you may pay [2] less to play this card.",
+   "text": "Continuous\n\nIf the weather is thunderstorm, you may pay [2] less to play this card.",
    "flavor_text": "This creature's speed only increases during thunderstorms.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1810,7 +1810,7 @@
    "race": "Wererabbit/Soul",
    "artist": "Misa Tsutsui",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card gains \"[rest]: This card becomes a copy of target J-ruler your opponent controls, except it doesn't become a J-ruler and it's still a resonator.\" as long as your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\". (This card is a resonator, not a J-ruler.)",
+   "text": "Continuous\n\nThis card gains \"[rest]: This card becomes a copy of target J-ruler your opponent controls, except it doesn't become a J-ruler and it's still a resonator.\" as long as your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\". (This card is a resonator, not a J-ruler.)",
    "flavor_text": "”Evil never prospers! Because winners aren't evil!”",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1836,7 +1836,7 @@
    "race": "Dinosaur",
    "artist": "Moopic",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card cannot be returned to its owner's hand.",
+   "text": "Continuous\n\nThis card cannot be returned to its owner's hand.",
    "flavor_text": "Not even a powerful wave can shake it.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1850,7 +1850,7 @@
    "race": "Mermaid",
    "artist": "SIE NANAHARA",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Search your deck for a card named \"Weather Change: Rain\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[rest]: Search your deck for a card named \"Weather Change: Rain\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Shaela returned from the Lightning Cave with a mind to call her new power the Thunder Parasol.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1865,7 +1865,7 @@
    "race": "Mermaid",
    "artist": "SIE NANAHARA",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Draw a card.",
    "flavor_text": "\"This is where the shocks begin.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1931,7 +1931,7 @@
    "race": "Mermaid",
    "artist": "lack",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nAs long as the weather is thunderstorm, your opponent cannot play cards during your turn.",
+   "text": "Continuous\n\nAs long as the weather is thunderstorm, your opponent cannot play cards during your turn.",
    "flavor_text": "When assailed by a terrible thunderstorm, all you can do is wait for it to pass.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1951,7 +1951,7 @@
    "race": "Whale",
    "artist": "Sanosuke Sakuma",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[u]: This card gains [0/+200] until end of turn.",
+   "text": "Activate\n\n[u]: This card gains [0/+200] until end of turn.",
    "flavor_text": "While it may be cute, chasing it will lead you into a powerful current.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -1971,7 +1971,7 @@
    "race": "Panda",
    "artist": "Tsukumi",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card gains [+600/0] as long as the weather is thunderstorm.",
+   "text": "Continuous\n\nThis card gains [+600/0] as long as the weather is thunderstorm.",
    "flavor_text": "The panda realized that being drenched wasn't so bad.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2112,7 +2112,7 @@
    "race": "Doll",
    "artist": "Shirono Muku",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target non-magic stone, non-J/resonator entity. If you do, you may flip a card in your extra deck face down.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Destroy target non-magic stone, non-J/resonator entity. If you do, you may flip a card in your extra deck face down.",
    "flavor_text": "It's easy to make a lot of cleaning progress when there's a lot of garbage.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2135,7 +2135,7 @@
    "race": "Doll",
    "artist": "Miko Yamazaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Target resonator gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Target resonator gains [+200/+200] until end of turn.",
    "flavor_text": "An excited audience makes for a more interesting story.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2161,7 +2161,7 @@
    "race": "Doll",
    "artist": "Cola",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen a resonator deals damage to this card ⇒ Destroy that resonator.",
+   "text": "Automatic\n\nWhen a resonator deals damage to this card ⇒ Destroy that resonator.",
    "flavor_text": "No need to drive a nail into it. It'll just crush you.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2238,7 +2238,7 @@
    "race": "Elf",
    "artist": "Kelvin",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nRemove three Spirit Magics in your graveyard from the game: Put this card from your graveyard into your hand.",
+   "text": "Activate\n\nRemove three Spirit Magics in your graveyard from the game: Put this card from your graveyard into your hand.",
    "flavor_text": "\"Pipe down for a moment.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2303,7 +2303,7 @@
    "race": "Elemental",
    "artist": "yuhki lily",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Leaf Guardsman\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Leaf Guardsman\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Who is this who has business with an old man?\" -Laurite, Seven Luminaries Astrologian",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2329,7 +2329,7 @@
    "race": "Elemental",
    "artist": "sasaki kounosuke",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever a chant deals damage to this card ⇒ This card deals that much damage to your opponent.",
+   "text": "Automatic\n\nWhenever a chant deals damage to this card ⇒ This card deals that much damage to your opponent.",
    "flavor_text": "\"Old man Laurite, I finally found you.\" -Gill, the Gifted Conjurer",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2352,7 +2352,7 @@
    "race": "Elemental",
    "artist": "AKI",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Target resonator in your graveyard gains Elemental in addition to its other races until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator in your graveyard gains Elemental in addition to its other races until end of turn.",
    "flavor_text": "A faithful companion until the grave.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2376,7 +2376,7 @@
    "type": "Addition",
    "artist": "Misa Tsutsui",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nAs long as there is a card in any removed area that was removed by this card, your opponent cannot play cards that share a name with that card.",
+   "text": "Continuous\n\nAs long as there is a card in any removed area that was removed by this card, your opponent cannot play cards that share a name with that card.",
    "flavor_text": "This will decide what is written on the page.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2424,7 +2424,7 @@
    "race": "Wizard",
    "artist": "Miko Yamazaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever a Doll enters the field under your control ⇒ Draw a card.",
+   "text": "Automatic\n\nWhenever a Doll enters the field under your control ⇒ Draw a card.",
    "flavor_text": "Thanks to this man, Scheherazade's supply of dolls is limitless.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2450,7 +2450,7 @@
    "race": "Human",
    "artist": "gajumaru",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card leaves the field ⇒ Search your deck for a card and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card leaves the field ⇒ Search your deck for a card and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Too many strange things are happening. What in the world is going on.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2491,7 +2491,7 @@
    "race": "Doll",
    "artist": "kakiken",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Draw a card.",
    "flavor_text": "The doll continued to dance mindlessly.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2517,7 +2517,7 @@
    "race": "Elf",
    "artist": "touge369",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Produce [g].",
+   "text": "Activate\n\n[rest]: Produce [g].",
    "flavor_text": "From the destroyed portal, Cecil and Tia made for the secluded village.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2570,7 +2570,7 @@
    "race": "Human",
    "artist": "noki",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[0]: Reveal a face-down card from your extra deck and keep it revealed until end of game. You may copy that card. If you do, you may play the copy. (You have to pay its cost.) Play this ability only once per turn.",
+   "text": "Activate\n\n[0]: Reveal a face-down card from your extra deck and keep it revealed until end of game. You may copy that card. If you do, you may play the copy. (You have to pay its cost.) Play this ability only once per turn.",
    "flavor_text": "A story with no end, means a night that lasts forever.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2585,7 +2585,7 @@
    "race": "Human",
    "artist": "noki",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put target Doll from your graveyard into the field.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put target Doll from your graveyard into the field.",
    "flavor_text": "\"Dance, my puppets. Dance towards demise.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2608,7 +2608,7 @@
    "race": "Doll",
    "artist": "ComamitsuZaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card gains [+100/+100] for each card revealed from your extra deck.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each card revealed from your extra deck.",
    "flavor_text": "Eva listened to Eve's story intently.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2634,7 +2634,7 @@
    "race": "Doll",
    "artist": "ComamitsuZaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put target resonator your opponent controls with total cost X or less on the bottom of its owner's deck, where X is the number of cards revealed from your extra deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put target resonator your opponent controls with total cost X or less on the bottom of its owner's deck, where X is the number of cards revealed from your extra deck.",
    "flavor_text": "Eve told a story of cruelty.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2655,7 +2655,7 @@
    "type": "Addition",
    "artist": "Yuko Nagasaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nWind chants you control and you own everywhere gain Spirit Magic in addition to their other subtypes.",
+   "text": "Continuous\n\nWind chants you control and you own everywhere gain Spirit Magic in addition to their other subtypes.",
    "flavor_text": "Ancient tomes of long lost undeciphered knowledge lie in wait.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2678,7 +2678,7 @@
    "race": "Elemental",
    "artist": "noki",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nOther resonators you control with \"Leaf\" in their names gain [+200/+200].",
+   "text": "Continuous\n\nOther resonators you control with \"Leaf\" in their names gain [+200/+200].",
    "flavor_text": "The elder's calm presence emboldened the other elementals.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2762,7 +2762,7 @@
    "race": "Panda",
    "artist": "hatarisu",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nBanish a fire gem: This card gains [Swiftness] until end of turn.",
+   "text": "Activate\n\nBanish a fire gem: This card gains [Swiftness] until end of turn.",
    "flavor_text": "\"A thief must be courageous and swift!\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2806,7 +2806,7 @@
    "race": "Dinosaur",
    "artist": "Nanami Lusia",
    "expansion": "The Time Spinning Witch",
-   "text": "Continuous\nThis card gains [-100/0] for each card in your hand.",
+   "text": "Continuous\n\nThis card gains [-100/0] for each card in your hand.",
    "flavor_text": "The dinosaurs influenced by Scarlet instantly turned to ferocious creatures.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2829,7 +2829,7 @@
    "race": "Human",
    "artist": "Tomomi TOMIDA",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Each player discards a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Each player discards a card.",
    "flavor_text": "\"If I don't meet the quota, the boss is going to be so angry.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2852,7 +2852,7 @@
    "race": "Vampire",
    "artist": "BANAMONS*",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nRemove a mystery counter from your J/ruler: Target J/resonator gains [-200/-200] until end of turn.",
+   "text": "Activate\n\nRemove a mystery counter from your J/ruler: Target J/resonator gains [-200/-200] until end of turn.",
    "flavor_text": "He pondered the tea time menu during the fight.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2878,7 +2878,7 @@
    "race": "Wicked Spirit",
    "artist": "KONNO Takashi",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Your opponent discards a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Your opponent discards a card.",
    "flavor_text": "With the Demon King's defeat, the majin began to crumble.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2898,7 +2898,7 @@
    "race": "Dark Elf",
    "artist": "Saiko Takaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a Dark Elf and put it into your graveyard. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Search your deck for a Dark Elf and put it into your graveyard. Then shuffle your deck.",
    "flavor_text": "\"Be at peace, my comrades.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -2941,7 +2941,7 @@
    "race": "Fairy Tale",
    "artist": "Matsurika Yoko",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nRemove a mystery counter from your J/ruler: Invert this card.",
+   "text": "Activate\n\nRemove a mystery counter from your J/ruler: Invert this card.",
    "flavor_text": "\"I've been wanting to meet you.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3060,7 +3060,7 @@
    "race": "Fairy Tale/Vampire",
    "artist": "Haruichi Kido",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever you do judgment of a ruler ⇒ You may remove two mystery counters from your J/ruler. If you do, invert this card.",
+   "text": "Automatic\n\nWhenever you do judgment of a ruler ⇒ You may remove two mystery counters from your J/ruler. If you do, invert this card.",
    "flavor_text": "Eternity repeats, and a crimson moon shone in the night sky once more.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3075,7 +3075,7 @@
    "race": "Fairy Tale/Human/Inverse",
    "artist": "Haruichi Kido",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card inverts ⇒ Target non-magic stone entity loses [Imperishable] and \"This card cannot be destroyed.\" until end of turn. Then destroy that entity.",
+   "text": "Automatic\n\nWhen this card inverts ⇒ Target non-magic stone entity loses [Imperishable] and \"This card cannot be destroyed.\" until end of turn. Then destroy that entity.",
    "flavor_text": "A light that was once stained in darkness. But the will of hope never fades.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3134,7 +3134,7 @@
    "race": "Dark Elf",
    "artist": "ishishou",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\nRemove a Dark Elf in your graveyard from the game: Put a [+100/+100] counter on this card. This card gains [Drain] until end of turn.",
+   "text": "Activate\n\nRemove a Dark Elf in your graveyard from the game: Put a [+100/+100] counter on this card. This card gains [Drain] until end of turn.",
    "flavor_text": "Frayla's last daughter became the last hope of the dark elves.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3157,7 +3157,7 @@
    "race": "Dark Elf/Ethereal",
    "artist": "ishishou",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card in your graveyard is removed from the game ⇒ Target Dark Elf gains [Barrier] until end of turn.",
+   "text": "Automatic\n\nWhen this card in your graveyard is removed from the game ⇒ Target Dark Elf gains [Barrier] until end of turn.",
    "flavor_text": "To protect Lily became the dark elves' final reason to live.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3197,7 +3197,7 @@
    "race": "Cthulhu",
    "artist": "jugemt",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever this card deals damage to a resonator ⇒ Destroy that resonator.",
+   "text": "Automatic\n\nWhenever this card deals damage to a resonator ⇒ Destroy that resonator.",
    "flavor_text": "A being that exists only to end lives.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3239,7 +3239,7 @@
    "race": "Human",
    "artist": "gajumaru",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever a player discards a card ⇒ Put a [+100/+100] counter on this card.",
+   "text": "Automatic\n\nWhenever a player discards a card ⇒ Put a [+100/+100] counter on this card.",
    "flavor_text": "\"One man's trash is another man's treasure.\"",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3297,7 +3297,7 @@
    "race": "Doll",
    "artist": "KEIICHIRO ITO",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever a resonator is put into your opponent's graveyard from a non-removed area. ⇒ Remove it from the game. You gain 200 life.",
+   "text": "Automatic\n\nWhenever a resonator is put into your opponent's graveyard from a non-removed area. ⇒ Remove it from the game. You gain 200 life.",
    "flavor_text": "Stagehands work unseen to make sure everything goes accordingly.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3311,7 +3311,7 @@
    "race": "Fairy Tale",
    "artist": "yuko",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[r], discard a card: This card deals 500 damage to target resonator. This card deals 700 damage instead if you discarded a Dinosaur.",
+   "text": "Activate\n\n[r], discard a card: This card deals 500 damage to target resonator. This card deals 700 damage instead if you discarded a Dinosaur.",
    "flavor_text": "The stands on the border of truth and lie.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3326,7 +3326,7 @@
    "race": "Cthulhu",
    "artist": "yuko",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[r]: This card gains [+200/0] until end of turn.",
+   "text": "Activate\n\n[r]: This card gains [+200/0] until end of turn.",
    "flavor_text": "The girl's scars bled a brilliant crimson, and she became something far more monstrous and terrible.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3469,7 +3469,7 @@
    "type": "Special Magic Stone",
    "artist": "Saiko Takaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Produce [w].",
+   "text": "Activate\n\n[rest]: Produce [w].",
    "flavor_text": "Plant a seed of hope...",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3483,7 +3483,7 @@
    "race": "Inverse",
    "artist": "Saiko Takaki",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Produce [w] or [b].",
+   "text": "Activate\n\n[rest]: Produce [w] or [b].",
    "flavor_text": "...and watch despair bloom.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3496,7 +3496,7 @@
    "type": "Special Magic Stone",
    "artist": "Nagi-nyan",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Produce [r]. This card deals 200 damage to you.",
+   "text": "Activate\n\n[rest]: Produce [r]. This card deals 200 damage to you.",
    "flavor_text": "A stone that grants power to those with none.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3509,7 +3509,7 @@
    "type": "Special Magic Stone",
    "artist": "Nekobayashi",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[rest]: Produce [b]. Spend this will only to play Story chants.",
+   "text": "Activate\n\n[rest]: Produce [b]. Spend this will only to play Story chants.",
    "flavor_text": "A stone with unseen memories.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3554,7 +3554,7 @@
    "race": "Dinosaur",
    "artist": "douzen",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhen this card enters the field ⇒ Discard a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Discard a card.",
    "flavor_text": "Like its master, it chases after things blindly.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3574,7 +3574,7 @@
    "race": "Whale",
    "artist": "Sanosuke Sakuma",
    "expansion": "The Time Spinning Witch",
-   "text": "Activate\n[u]: This card gains [+200/0] until end of turn.",
+   "text": "Activate\n\n[u]: This card gains [+200/0] until end of turn.",
    "flavor_text": "While it may be cute, chasing it will lead you into a powerful current.",
    "all_sets": "The Time Spinning Witch"
   },
@@ -3600,7 +3600,7 @@
    "race": "Doll",
    "artist": "Cola",
    "expansion": "The Time Spinning Witch",
-   "text": "Automatic\nWhenever damage is dealt to you ⇒ This card deals that much damage to your opponent.",
+   "text": "Automatic\n\nWhenever damage is dealt to you ⇒ This card deals that much damage to your opponent.",
    "flavor_text": "No need to drive a nail into it. It'll just crush you.",
    "all_sets": "The Time Spinning Witch"
   },

@@ -1,6 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
+// Promos Import
+import pr from 'src/assets/Promos/promos.json';
+
 // Grimm Cluster Imports
 import cmf from 'src/assets/Grimm/cmf.json';
 import tat from 'src/assets/Grimm/tat.json';
@@ -49,6 +52,10 @@ import gits2045sd from 'src/assets/Alice Origins/gits2045sd.json';
 import gits2045 from 'src/assets/Alice Origins/gits2045.json';
 import pofa from 'src/assets/Alice Origins/pofa.json';
 
+// Saga Cluster Imports
+import edl from 'src/assets/Saga/edl.json';
+import msw from 'src/assets/Saga/msw.json';
+
 @Component({
   selector: 'app-card-fetcher',
   templateUrl: './card-fetcher.component.html',
@@ -57,45 +64,20 @@ import pofa from 'src/assets/Alice Origins/pofa.json';
 export class CardFetcherComponent implements OnInit {
 
   // Relationship of Clusters to Sets as an object
-  clusters = { Grimm: ['CMF', 'TAT', 'MPR', 'MOA', 'VIN001'],
+  clusters = { Promos: ['PROMOS'],
+               Grimm: ['CMF', 'TAT', 'MPR', 'MOA', 'VIN001'],
                Alice: ['VS01', 'SKL', 'TTW', 'TMS', 'BFA', 'VIN002'],
                Lapis: ['SDL', 'CFC', 'LEL', 'RDE', 'ENW', 'VIN003'],
                Reiya: ['SDR', 'ACN', 'ADK', 'SDR6', 'TSW', 'WOM'],
                'New Valhalla': ['SDV', 'NDR', 'SNV', 'AOA', 'DBV'],
                'Alice Origins': ['AO1', 'SDAO1', 'AO2', 'SDAO2', 'AO3', 'GITS2045SD', 'GITS2045', 'POFA'],
+               Saga: ['EDL', 'MSW'],
              };
 
   cluster = '';
   set = '';
-
-    // List of clusters for easier lookup of specific .json files
-  // clusters = ['Grimm',
-  //             'ALice',
-  //             'Lapis',
-  //             'Reiya',
-  //             'New Valhalla',
-  //             'Alice Origins',
-  //             'Saga'
-  //            ];
-
-  // List of sets per cluster
-  // grimmSets = ['cmf.json',
-  //              'tat.json',
-  //              'mpr.json',
-  //              'moa.json',
-  //              'vin001.json'
-  //             ];
-
-  // aliceSets = ['vs01.json',
-  //              'skl.json',
-  //              'ttw.json',
-  //              'tms.json',
-  //              'bfa.json',
-  //              'vin002.json'
-  //             ];
-
-
   cards: any = [];
+  cardsTest: any = [];
   card: any;
   cardIndex = 0;
   setIndex = 0;
@@ -104,6 +86,7 @@ export class CardFetcherComponent implements OnInit {
   constructor(private httpClient: HttpClient) { }
 
   ngOnInit(): void {
+    this.cards.push(pr); // Promos
     this.cards.push(cmf); // Grimm Cluster
     this.cards.push(tat);
     this.cards.push(mpr);
@@ -140,27 +123,11 @@ export class CardFetcherComponent implements OnInit {
     this.cards.push(gits2045sd);
     this.cards.push(gits2045);
     this.cards.push(pofa);
+    this.cards.push(edl); // Saga Cluster
+    this.cards.push(msw);
 
     console.log(this.cards);
-
-    // for (let c = 0; c < this.clusters.length; c++) {
-    //   if (c === 0) {
-    //     for (let s = 0; s < this.grimmSets.length; s++) {
-    //       this.httpClient.get('assets/' + this.clusters[c] + '/' + this.grimmSets[s]).subscribe(data => {
-    //         this.set = data;
-    //         this.cards.push(this.set);
-    //       });
-    //     }
-    //   }
-    //   // } else if (c === 1) {
-    //   //   for (let s = 0; s < this.aliceSets.length; s++) {
-    //   //     this.httpClient.get('assets/' + this.clusters[c] + '/' + this.aliceSets[s]).subscribe(data => {
-    //   //       this.set = data;
-    //   //       this.cards.push(this.set);
-    //   //     });
-    //   //   }
-    //   // }
-    // }
+    // console.log(this.cardsTest);
 
     this.initializeCard();
   }
@@ -177,79 +144,84 @@ export class CardFetcherComponent implements OnInit {
   setSelected(event: any) {
     console.log(event.target.value);
     this.cardIndex = 0;
-
-    if (event.target.value === 'CMF') { // Grimm Cluster
+    if (event.target.value === 'PROMOS') {
       this.setIndex = 0;
-    } else if (event.target.value === 'TAT') {
+    } else if (event.target.value === 'CMF') { // Grimm Cluster
       this.setIndex = 1;
-    } else if (event.target.value === 'MPR') {
+    } else if (event.target.value === 'TAT') {
       this.setIndex = 2;
-    } else if (event.target.value === 'MOA') {
+    } else if (event.target.value === 'MPR') {
       this.setIndex = 3;
-    } else if (event.target.value === 'VIN001') {
+    } else if (event.target.value === 'MOA') {
       this.setIndex = 4;
-    } else if (event.target.value === 'VS01') { // Alice Cluster
+    } else if (event.target.value === 'VIN001') {
       this.setIndex = 5;
-    } else if (event.target.value === 'SKL') {
+    } else if (event.target.value === 'VS01') { // Alice Cluster
       this.setIndex = 6;
-    } else if (event.target.value === 'TTW') {
+    } else if (event.target.value === 'SKL') {
       this.setIndex = 7;
-    } else if (event.target.value === 'TMS') {
+    } else if (event.target.value === 'TTW') {
       this.setIndex = 8;
-    } else if (event.target.value === 'BFA') {
+    } else if (event.target.value === 'TMS') {
       this.setIndex = 9;
-    } else if (event.target.value === 'VIN002') {
+    } else if (event.target.value === 'BFA') {
       this.setIndex = 10;
-    } else if (event.target.value === 'SDL') { // Lapis CLuster
+    } else if (event.target.value === 'VIN002') {
       this.setIndex = 11;
-    } else if (event.target.value === 'CFC') {
+    } else if (event.target.value === 'SDL') { // Lapis CLuster
       this.setIndex = 12;
-    } else if (event.target.value === 'LEL') {
+    } else if (event.target.value === 'CFC') {
       this.setIndex = 13;
-    } else if (event.target.value === 'RDE') {
+    } else if (event.target.value === 'LEL') {
       this.setIndex = 14;
-    } else if (event.target.value === 'ENW') {
+    } else if (event.target.value === 'RDE') {
       this.setIndex = 15;
-    } else if (event.target.value === 'VIN003') {
+    } else if (event.target.value === 'ENW') {
       this.setIndex = 16;
-    } else if (event.target.value === 'SDR') { // Reiya CLuster
+    } else if (event.target.value === 'VIN003') {
       this.setIndex = 17;
-    } else if (event.target.value === 'ACN') {
+    } else if (event.target.value === 'SDR') { // Reiya CLuster
       this.setIndex = 18;
-    } else if (event.target.value === 'ADK') {
+    } else if (event.target.value === 'ACN') {
       this.setIndex = 19;
-    } else if (event.target.value === 'SDR6') {
+    } else if (event.target.value === 'ADK') {
       this.setIndex = 20;
-    } else if (event.target.value === 'TSW') {
+    } else if (event.target.value === 'SDR6') {
       this.setIndex = 21;
-    } else if (event.target.value === 'WOM') {
+    } else if (event.target.value === 'TSW') {
       this.setIndex = 22;
-    } else if (event.target.value === 'SDV') { // New Valhalla CLuster
+    } else if (event.target.value === 'WOM') {
       this.setIndex = 23;
-    } else if (event.target.value === 'NDR') {
+    } else if (event.target.value === 'SDV') { // New Valhalla CLuster
       this.setIndex = 24;
-    } else if (event.target.value === 'SNV') {
+    } else if (event.target.value === 'NDR') {
       this.setIndex = 25;
-    } else if (event.target.value === 'AOA') {
+    } else if (event.target.value === 'SNV') {
       this.setIndex = 26;
-    } else if (event.target.value === 'DBV') {
+    } else if (event.target.value === 'AOA') {
       this.setIndex = 27;
-    } else if (event.target.value === 'AO1') { // New Valhalla CLuster
+    } else if (event.target.value === 'DBV') {
       this.setIndex = 28;
-    } else if (event.target.value === 'SDAO1') {
+    } else if (event.target.value === 'AO1') { // Alice Origins CLuster
       this.setIndex = 29;
-    } else if (event.target.value === 'AO2') {
+    } else if (event.target.value === 'SDAO1') {
       this.setIndex = 30;
-    } else if (event.target.value === 'SDAO2') {
+    } else if (event.target.value === 'AO2') {
       this.setIndex = 31;
-    } else if (event.target.value === 'AO3') {
+    } else if (event.target.value === 'SDAO2') {
       this.setIndex = 32;
-    } else if (event.target.value === 'GITS2045SD') {
+    } else if (event.target.value === 'AO3') {
       this.setIndex = 33;
-    } else if (event.target.value === 'GITS2045') {
+    } else if (event.target.value === 'GITS2045SD') {
       this.setIndex = 34;
-    } else if (event.target.value === 'POFA') {
+    } else if (event.target.value === 'GITS2045') {
       this.setIndex = 35;
+    } else if (event.target.value === 'POFA') {
+      this.setIndex = 36;
+    } else if (event.target.value === 'EDL') { // Saga CLuster
+      this.setIndex = 37;
+    } else if (event.target.value === 'MSW') {
+      this.setIndex = 38;
     }
 
     this.initializeCard();

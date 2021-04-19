@@ -15,7 +15,7 @@
    "race": "Yin-Yang Master",
    "artist": "Riv",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, you may rest target resonator.",
+   "text": "Automatic\n\nWhen this card enters your field, you may rest target resonator.",
    "flavor_text": "\"Seimei-chan, the magical diviner, takes the center stage!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -34,7 +34,7 @@
    "race": "Hero",
    "artist": "T-TRACK",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\nBanish this card: Target resonator cannot be targeted by spells or abilities your opponent controls until end of turn.",
+   "text": "Activate\n\nBanish this card: Target resonator cannot be targeted by spells or abilities your opponent controls until end of turn.",
    "flavor_text": "\"My... My legs are my only strong point, but… I-I'll try as hard as I can!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -91,7 +91,7 @@
    "race": "Emperor",
    "artist": "ぽしー",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[W][rest]: Target resonator gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[W][rest]: Target resonator gains [+200/+200] until end of turn.",
    "flavor_text": "\"Having said that, I'm busy guarding the house.\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -113,7 +113,7 @@
    "race": "King",
    "artist": "ファルまろ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhenever a resonator deals damage to this card, this card deals that much damage to that resonator.",
+   "text": "Automatic\n\nWhenever a resonator deals damage to this card, this card deals that much damage to that resonator.",
    "flavor_text": "\"Even if you get defeated, get up again! Fight twice as hard!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -126,7 +126,7 @@
    "race": "General",
    "artist": "ukyo_rst",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[2]: Target resonator gains [+0/+200] until end of turn.",
+   "text": "Activate\n\n[2]: Target resonator gains [+0/+200] until end of turn.",
    "flavor_text": "\"Sweet, it went as I expected. Hehe, no one can escape my perfect strategies!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -140,7 +140,7 @@
    "race": "General",
    "artist": "ukyo_rst",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhenever this card attacks, you gain 200 life.",
+   "text": "Automatic\n\nWhenever this card attacks, you gain 200 life.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -158,7 +158,7 @@
    "race": "Saint",
    "artist": "藤真拓哉",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field, you gain life equal to its DEF.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field, you gain life equal to its DEF.",
    "flavor_text": "\"Come on, victory is ours already! Hip hip hurray!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -183,7 +183,7 @@
    "race": "Emperor",
    "artist": "鍋島テツヒロ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nOther light resonators you control gain [+200/+200].",
+   "text": "Continuous\n\nOther light resonators you control gain [+200/+200].",
    "flavor_text": "\"So you say I'm beautiful? Well, it's inevitable, really. It's a law of nature, just like the sun shining!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -260,7 +260,7 @@
    "race": "(Weapon)",
    "artist": "Mがんぢー",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[W]: Return this card to its owner's hand.",
+   "text": "Activate\n\n[W]: Return this card to its owner's hand.",
    "flavor_text": "A human tool that will return the mortal agony once felt back unto vampires.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -282,7 +282,7 @@
    "race": "Pharaoh",
    "artist": "たかとうすずのすけ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field, draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field, draw a card.",
    "flavor_text": "\"Anf, anf… I t-told you, I excel at brainwork! Fighting is out of my league! You idiot!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -316,7 +316,7 @@
    "race": "King",
    "artist": "藤真拓哉",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[2]: This card deals 200 damage to target resonator.",
+   "text": "Activate\n\n[2]: This card deals 200 damage to target resonator.",
    "flavor_text": "\"Listen, a king must be someone who is both smart and brave. Basically, someone like me!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -330,7 +330,7 @@
    "race": "King",
    "artist": "藤真拓哉",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhenever this card attacks, target fire resonator you control gains [First Strike] and [Swiftness] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks, target fire resonator you control gains [First Strike] and [Swiftness] until end of turn.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -372,7 +372,7 @@
    "race": "Musketeer",
    "artist": "ぱんつもりこ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: This card deals 200 damage to target player or resonator.",
+   "text": "Activate\n\n[rest]: This card deals 200 damage to target player or resonator.",
    "flavor_text": "\"These trifling details are of no interest to me, so just get shot already...\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -431,8 +431,8 @@
    "race": "Warlord",
    "artist": "ビスケ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, it deals 400 damage to target resonator.",
-   "flavor_text": "\"Hey, everyone, sorry it took me so long!\nNow come on, let's climax from the start!\"",
+   "text": "Automatic\n\nWhen this card enters your field, it deals 400 damage to target resonator.",
+   "flavor_text": "\"Hey, everyone, sorry it took me so long!\n\nNow come on, let's climax from the start!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -451,7 +451,7 @@
    "type": "Addition: Resonator",
    "artist": "gozz",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nIf added resonator would deal damage, it deals that much + 200 instead.",
+   "text": "Continuous\n\nIf added resonator would deal damage, it deals that much + 200 instead.",
    "flavor_text": "The ninth disaster, or a hope to stop all others?",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -476,7 +476,7 @@
    "race": "Warlord",
    "artist": "まめでんきゅう",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nAs long as you don't control other resonators, this card gains [+500/+500].",
+   "text": "Continuous\n\nAs long as you don't control other resonators, this card gains [+500/+500].",
    "flavor_text": "\"Huh, that's boring, so I'll pass. It's not like I really bother about that.\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -556,7 +556,7 @@
    "race": "General",
    "artist": "Nidy",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhenever this card attacks, it gains [+300/+0] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks, it gains [+300/+0] until end of turn.",
    "flavor_text": "\"Yeah, I'll make you a promise. I'll lead you to victory at all costs.\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -575,7 +575,7 @@
    "race": "Strategist",
    "artist": "結城リカ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Target resonator gains [Swiftness] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator gains [Swiftness] until end of turn.",
    "flavor_text": "\"Why are you saying such thoughtless words, big brother? Enemies must be deceived! You've got to be on your guard, okay?!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -613,7 +613,7 @@
    "race": "Knight",
    "artist": "岸和田ロビン",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nThis card cannot be blocked by resonators with ATK 600 or less.",
+   "text": "Continuous\n\nThis card cannot be blocked by resonators with ATK 600 or less.",
    "flavor_text": "\"Are you fighting?! Is it my turn?! Is it okay if I beat someone up?!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -659,7 +659,7 @@
    "race": "Captain",
    "artist": "萩原",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhenever this card deals damage to your opponent, draw a card.",
+   "text": "Automatic\n\nWhenever this card deals damage to your opponent, draw a card.",
    "flavor_text": "\"If you are aiming for the world's end, you cannot lose your heart for something like this!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -678,7 +678,7 @@
    "race": "Explorer",
    "artist": "ぽしー",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Look at the top card of your deck. You may put it on the bottom of your deck.",
+   "text": "Activate\n\n[rest]: Look at the top card of your deck. You may put it on the bottom of your deck.",
    "flavor_text": "\"Making this egg stand upright? That's an easy victory. Just look, ahahah... If I use some glue, it will be a breeze!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -700,7 +700,7 @@
    "race": "Ninja",
    "artist": "ミユキルリア",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field, draw a card.",
    "flavor_text": "\"The idea of serving you gives me the highest pleasure (t-that sounds kind of perverted).\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -713,7 +713,7 @@
    "race": "General",
    "artist": "岸和田ロビン",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[2]: Target resonator gains [Flying] until end of turn.",
+   "text": "Activate\n\n[2]: Target resonator gains [Flying] until end of turn.",
    "flavor_text": "\"Don't call me baldie! It's just that I have a big forehead, okay? Otherwise I'll headbutt you!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -727,7 +727,7 @@
    "race": "General",
    "artist": "岸和田ロビン",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\nDiscard a card: Target water resonator gains [Flying] until end of turn.",
+   "text": "Activate\n\nDiscard a card: Target water resonator gains [Flying] until end of turn.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -769,7 +769,7 @@
    "race": "Emperor",
    "artist": "藤真拓哉",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nResonators you control with [Flying] gain [+200/+200].",
+   "text": "Continuous\n\nResonators you control with [Flying] gain [+200/+200].",
    "flavor_text": "\"This battle is over already. Now struggle as much as you can...\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -791,7 +791,7 @@
    "race": "Alchemist",
    "artist": "鍋島テツヒロ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field, draw a card.",
    "flavor_text": "\"I'm not that interested in real guys. Beautiful homunculus boys, that's the kind of Arcadia I aim at!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -848,7 +848,7 @@
    "race": "Swordsman",
    "artist": "パセリ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[U]: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\n[U]: This card gains [Flying] until end of turn.",
    "flavor_text": "\"Senpai!! You should do a raid with Soji today, for the sake of justice!!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -923,7 +923,7 @@
    "type": "Addition: Resonator",
    "artist": "長崎祐子",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nAdded resonator gains \"[U][U][2] [rest]: Destroy target rested resonator.\" and \"[rest] banish this resonator: Draw three cards.\"",
+   "text": "Continuous\n\nAdded resonator gains \"[U][U][2] [rest]: Destroy target rested resonator.\" and \"[rest] banish this resonator: Draw three cards.\"",
    "flavor_text": "A choice between two things.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -945,7 +945,7 @@
    "race": "Philosopher",
    "artist": "T-TRACK",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhenever a magic stone is put into your field, this card gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhenever a magic stone is put into your field, this card gains [+200/+200] until end of turn.",
    "flavor_text": "\"Archimedes's calculations are perfect! Now let's power it up, EUREKA!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -983,7 +983,7 @@
    "race": "King",
    "artist": "黒獅子",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, target resonator gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field, target resonator gains [+200/+200] until end of turn.",
    "flavor_text": "\"Violence suits me well. Getting everything I want even through sheer force, that's how I rule!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1026,7 +1026,7 @@
    "race": "Scientist",
    "artist": "岸和田ロビン",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nWind resonators you control gain [+400/+400] as long as you control six or more magic stones.",
+   "text": "Continuous\n\nWind resonators you control gain [+400/+400] as long as you control six or more magic stones.",
    "flavor_text": "\"Good gracious, it is indeed worth to observe this. This certainly is the very gift of evolution!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1064,7 +1064,7 @@
    "race": "King",
    "artist": "藤真拓哉",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, recover target magic stone you control.",
+   "text": "Automatic\n\nWhen this card enters your field, recover target magic stone you control.",
    "flavor_text": "\"Come on, guys, let's act quickly! If we lose, I'll punish you!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1083,7 +1083,7 @@
    "race": "Shaman",
    "artist": "啓々",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nThis card cannot be targeted by spells or abilities your opponent controls.",
+   "text": "Continuous\n\nThis card cannot be targeted by spells or abilities your opponent controls.",
    "flavor_text": "\"Fuaaaaah... I'm super tired after this battle! I think I'll take a nap now.\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1115,7 +1115,7 @@
    "race": "Warlord",
    "artist": "ぱんつもりこ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[2]: Target resonator gains [+200/+0] until end of turn.",
+   "text": "Activate\n\n[2]: Target resonator gains [+200/+0] until end of turn.",
    "flavor_text": "\"Secret technique of the eight boats leap, 'Octa Drive'! Everyone who witnessed this ability of mine is now dead!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1129,7 +1129,7 @@
    "race": "Warlord",
    "artist": "ぱんつもりこ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[G][G]: This card gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[G][G]: This card gains [+200/+200] until end of turn.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -1153,7 +1153,7 @@
    "race": "Emperor",
    "artist": "がおう",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, return target resonator to its owner's hand.",
+   "text": "Automatic\n\nWhen this card enters your field, return target resonator to its owner's hand.",
    "flavor_text": "\"My enemies are one, two, three... Gaaah! Who cares! I'll beat all of them anyway!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1170,7 +1170,7 @@
    "type": "Addition: Resonator",
    "artist": "白野椋",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nAdded resonator gains [+300/+300].",
+   "text": "Continuous\n\nAdded resonator gains [+300/+300].",
    "flavor_text": "\"Nice shoes, I wish to wear them for the next fight, although I'd rather be wearing them to a ball.\" 〜Lumia, the Creator of Hope",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1284,7 +1284,7 @@
    "type": "Addition: Resonator",
    "artist": "白野椋",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen added resonator is put into a graveyard from a field ⇒ This card deals 500 damage to that resonator's controller.",
+   "text": "Automatic\n\nWhen added resonator is put into a graveyard from a field ⇒ This card deals 500 damage to that resonator's controller.",
    "flavor_text": "This curse is a pain close to pleasure.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1306,7 +1306,7 @@
    "race": "Prince",
    "artist": "Riv",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, you lose 500 life.",
+   "text": "Automatic\n\nWhen this card enters your field, you lose 500 life.",
    "flavor_text": "\"A - ny - wa - y, I hate men, okay? If you get that, could you please stay the hell away from me?\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1328,7 +1328,7 @@
    "race": "Alchemist",
    "artist": "人丸",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[B][B]: This card gains [+600/+600] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\n[B][B]: This card gains [+600/+600] until end of turn. Play this ability only once per turn.",
    "flavor_text": "\"M-mr. Mephistopheles, what should we do?\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1347,7 +1347,7 @@
    "race": "Yin-Yang Master",
    "artist": "ぽしー",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhenever this card deals damage, you gain that much life.",
+   "text": "Automatic\n\nWhenever this card deals damage, you gain that much life.",
    "flavor_text": "\"If there's something troubling you, feel free to call your teacher anytime. I'll always lend you my knowledge!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1369,7 +1369,7 @@
    "race": "Composer",
    "artist": "人丸",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field, your opponent banishes a resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field, your opponent banishes a resonator.",
    "flavor_text": "\"Would you show me your bare buttocks? I'm sure they will give me some inspiration.\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1394,7 +1394,7 @@
    "race": "Archenemy",
    "artist": "藤真拓哉",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nNon-darkness resonators gain [-200/-200].",
+   "text": "Continuous\n\nNon-darkness resonators gain [-200/-200].",
    "flavor_text": "\"Bwahahahahaha! I'll tear both my enemies and my allies apart!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1416,7 +1416,7 @@
    "race": "Prophet",
    "artist": "たん",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, search your deck for a card. Then shuffle the rest of your deck and put that card on top of it.",
+   "text": "Automatic\n\nWhen this card enters your field, search your deck for a card. Then shuffle the rest of your deck and put that card on top of it.",
    "flavor_text": "\"I had a vision! Today you... yeah, you won't die.\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1435,7 +1435,7 @@
    "race": "Wizard",
    "artist": "鍋島テツヒロ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field, you may pay 200 life. If you do, put it into its owner's hand.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field, you may pay 200 life. If you do, put it into its owner's hand.",
    "flavor_text": "\"Hohohohoho! Does it hurt? Is it painful? Come on, admit that you like it!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1479,7 +1479,7 @@
    "race": "King",
    "artist": "煎茶",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nAs long as your life is 2000 or less, this card gains [+200/+200].",
+   "text": "Continuous\n\nAs long as your life is 2000 or less, this card gains [+200/+200].",
    "flavor_text": "\"You should entertain me as much as you can, boy. And if you do, maybe I'll even lend you a hand.\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1529,7 +1529,7 @@
    "race": "Vampire",
    "artist": "鍋島テツヒロ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[2]: This card deals 200 damage to target opponent. You gain 200 life.",
+   "text": "Activate\n\n[2]: This card deals 200 damage to target opponent. You gain 200 life.",
    "flavor_text": "\"What's wrong? Even though I'm quite tall, I won't look down on you! It's just that I drink milk every day!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1543,7 +1543,7 @@
    "race": "Vampire",
    "artist": "鍋島テツヒロ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[B][2], banish a darkness resonator: This card gains [Imperishable] until end of turn.",
+   "text": "Activate\n\n[B][2], banish a darkness resonator: This card gains [Imperishable] until end of turn.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -1561,7 +1561,7 @@
    "race": "Artist",
    "artist": "Prime",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[1]: Choose an attribute. This card becomes the chosen attribute until end of turn.",
+   "text": "Activate\n\n[1]: Choose an attribute. This card becomes the chosen attribute until end of turn.",
    "flavor_text": "\"A little while ago I came up with this very good idea... Speaking of which, would you mind being the subject for my experiment?\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1580,7 +1580,7 @@
    "race": "Musketeer",
    "artist": "人丸",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[1]: Produce one will of any attribute.",
+   "text": "Activate\n\n[1]: Produce one will of any attribute.",
    "flavor_text": "\"C-come on, let's not fight! We should all be friends, and be like 'love and peace'!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1599,7 +1599,7 @@
    "race": "Poet",
    "artist": "戦友",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Automatic\nWhen this card enters your field, look at the top card of your magic stone deck. If you don't control a magic stone with the same name as that card, you may put it into your field.",
+   "text": "Automatic\n\nWhen this card enters your field, look at the top card of your magic stone deck. If you don't control a magic stone with the same name as that card, you may put it into your field.",
    "flavor_text": "\"Don't worry, your pitiable existence will become my sustenance. So feel free to fall down whenever you're ready, ahahah!\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1618,7 +1618,7 @@
    "race": "Philosopher",
    "artist": "cuboon",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Continuous\nThis card gains [+200/+200] for each different attribute among cards you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each different attribute among cards you control.",
    "flavor_text": "\"Socrates once said: 'Eat to live, don't live to eat'.\"",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1630,7 +1630,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [G] or [B].",
+   "text": "Activate\n\n[rest]: Produce [G] or [B].",
    "flavor_text": "A darkness cast from the absence of light; A tranquility devoid of all sound.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1642,7 +1642,7 @@
    "type": "Special Magic Stone",
    "artist": "サウマロ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "text": "Activate\n\n[rest]: Produce [G] or [R].",
    "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1654,7 +1654,7 @@
    "type": "Special Magic Stone",
    "artist": "夕子",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "text": "Activate\n\n[rest]: Produce [B] or [U].",
    "flavor_text": "Movements within the dark and murky depths.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1666,7 +1666,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [G] or [U].",
+   "text": "Activate\n\n[rest]: Produce [G] or [U].",
    "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1678,7 +1678,7 @@
    "type": "Special Magic Stone",
    "artist": "アサヒナ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [W] or [G].",
+   "text": "Activate\n\n[rest]: Produce [W] or [G].",
    "flavor_text": "A momentary shine that reflects in the sky.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1690,7 +1690,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [R] or [U].",
+   "text": "Activate\n\n[rest]: Produce [R] or [U].",
    "flavor_text": "A passion like burning flames; A presence as cold as ice.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1702,7 +1702,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [W] or [R].",
+   "text": "Activate\n\n[rest]: Produce [W] or [R].",
    "flavor_text": "A piercing gleam of blinding light; An incandescent glow that cannot be touched.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1714,7 +1714,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "text": "Activate\n\n[rest]: Produce [W] or [B].",
    "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1726,7 +1726,7 @@
    "type": "Special Magic Stone",
    "artist": "河北亜希",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [W] or [U].",
+   "text": "Activate\n\n[rest]: Produce [W] or [U].",
    "flavor_text": "The shining paths that branch from the crossroad.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1738,7 +1738,7 @@
    "type": "Special Magic Stone",
    "artist": "tokiwa",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [B] or [R].",
+   "text": "Activate\n\n[rest]: Produce [B] or [R].",
    "flavor_text": "Hidden within the night, the burning spiral of seeds.",
    "all_sets": "Vingolf \"Engage Knights\""
   },
@@ -1750,7 +1750,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -1761,7 +1761,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -1772,7 +1772,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -1783,7 +1783,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Vingolf \"Engage Knights\""
   },
   {
@@ -1794,7 +1794,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Vingolf \"Engage Knights\"",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Vingolf \"Engage Knights\""
   }
  ]

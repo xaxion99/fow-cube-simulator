@@ -9,7 +9,7 @@
    "type": "Ruler",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
-   "text": "Continuous\nYou may pay [1] less to play cards not from your hand. When you play a card this way, draw a card.",
+   "text": "Continuous\n\nYou may pay [1] less to play cards not from your hand. When you play a card this way, draw a card.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
   },
   {
@@ -26,7 +26,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
-   "text": "Automatic\n[Enter] ⇒ Destroy target resonator with total cost 4 or less.",
+   "text": "Automatic\n\n[Enter] ⇒ Destroy target resonator with total cost 4 or less.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
   },
   {
@@ -43,7 +43,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
-   "text": "Continuous\nThis card cannot attack unless you control a card with \"Kusanagi Motoko\" in its name.",
+   "text": "Continuous\n\nThis card cannot attack unless you control a card with \"Kusanagi Motoko\" in its name.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
   },
   {
@@ -74,7 +74,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
-   "text": "Automatic\nWhenever you play an activate ability with [Dive] ⇒ Copy it. You may choose new targets for the copy.",
+   "text": "Automatic\n\nWhenever you play an activate ability with [Dive] ⇒ Copy it. You may choose new targets for the copy.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
   },
   {
@@ -91,7 +91,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
-   "text": "Continuous\nThis card cannot be blocked.",
+   "text": "Continuous\n\nThis card cannot be blocked.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
   },
   {
@@ -122,7 +122,7 @@
    ],
    "type": "Chant",
    "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
-   "text": "Activate\n[Quickcast]",
+   "text": "Activate\n\n[Quickcast]",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
   },
   {
@@ -139,7 +139,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
-   "text": "Activate\n[Rest]: Remove a card in your hand from the game with a cyberbrain counter on it.",
+   "text": "Activate\n\n[Rest]: Remove a card in your hand from the game with a cyberbrain counter on it.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
   },
   {
@@ -156,7 +156,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
-   "text": "Activate\n[Dive][1]: Target resonator gains [+400/+400] until end of turn. (Pay [1] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)",
+   "text": "Activate\n\n[Dive][1]: Target resonator gains [+400/+400] until end of turn. (Pay [1] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
   },
   {
@@ -173,7 +173,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Starter Deck",
-   "text": "Automatic\n[Enter] ⇒ This card deals 600 damage to target resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ This card deals 600 damage to target resonator.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Starter Deck"
   },
   {

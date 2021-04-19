@@ -30,7 +30,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Put a Machine from your graveyard into your hand.",
+   "text": "Automatic\n\n[Enter] ⇒ Put a Machine from your graveyard into your hand.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -48,7 +48,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\nBanish this card: Draw a card. Then discard a card.",
+   "text": "Activate\n\nBanish this card: Draw a card. Then discard a card.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -66,7 +66,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Draw two cards.",
+   "text": "Automatic\n\n[Enter] ⇒ Draw two cards.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -84,7 +84,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Draw two cards.",
+   "text": "Automatic\n\n[Enter] ⇒ Draw two cards.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -100,7 +100,7 @@
    ],
    "type": "Addition",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Continuous\nResonators you control gain [+400/+400].",
+   "text": "Continuous\n\nResonators you control gain [+400/+400].",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -135,7 +135,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\n[Dive][4]: Target resonator gains [+1500/+1500] until end of turn.",
+   "text": "Activate\n\n[Dive][4]: Target resonator gains [+1500/+1500] until end of turn.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -153,7 +153,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Continuous\nThis card cannot be attacked.",
+   "text": "Continuous\n\nThis card cannot be attacked.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -171,7 +171,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search for a card with \"Batou\" or \"Motoko\" in its name but not \"Batou & Motoko\", and put it into the field. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Search for a card with \"Batou\" or \"Motoko\" in its name but not \"Batou & Motoko\", and put it into the field. Then shuffle your deck.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -189,7 +189,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Destroy target resonator with total cost 3 or less.",
+   "text": "Automatic\n\n[Enter] ⇒ Destroy target resonator with total cost 3 or less.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -207,7 +207,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Destroy target resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ Destroy target resonator.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -225,7 +225,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Return target resonator to its owner's hand.",
+   "text": "Automatic\n\n[Enter] ⇒ Return target resonator to its owner's hand.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -260,7 +260,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Continuous\nThis card cannot be cancelled.",
+   "text": "Continuous\n\nThis card cannot be cancelled.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -278,7 +278,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\nWhenever this card attacks ⇒ This card deals 1300 damage to another target resonator.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ This card deals 1300 damage to another target resonator.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -296,7 +296,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\n[Dive][4]: Destroy all resonators with total cost 3 or less.",
+   "text": "Activate\n\n[Dive][4]: Destroy all resonators with total cost 3 or less.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -314,7 +314,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Reveal the top 4 cards of your deck. You may put a Machine or Human from among them into your hand. Put the rest on the bottom of your deck in any order.",
+   "text": "Automatic\n\n[Enter] ⇒ Reveal the top 4 cards of your deck. You may put a Machine or Human from among them into your hand. Put the rest on the bottom of your deck in any order.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -332,7 +332,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Draw a card.",
+   "text": "Automatic\n\n[Enter] ⇒ Draw a card.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -459,7 +459,7 @@
    ],
    "type": "Addition",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\nWhenever a resonator enters your field ⇒ Look at your opponent's hand.",
+   "text": "Automatic\n\nWhenever a resonator enters your field ⇒ Look at your opponent's hand.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -492,7 +492,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Destroy target non-J-Ruler, non-magic stone entity.",
+   "text": "Automatic\n\n[Enter] ⇒ Destroy target non-J-Ruler, non-magic stone entity.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -510,7 +510,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\n[Dive][3]: Destroy target addition. (Pay [3] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)",
+   "text": "Activate\n\n[Dive][3]: Destroy target addition. (Pay [3] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -528,7 +528,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Rest target resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ Rest target resonator.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -561,7 +561,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\nWhenever this card is targeted by a spell or ability ⇒ Draw a card.",
+   "text": "Automatic\n\nWhenever this card is targeted by a spell or ability ⇒ Draw a card.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -579,7 +579,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Rest all resonators your opponent controls.",
+   "text": "Automatic\n\n[Enter] ⇒ Rest all resonators your opponent controls.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -597,7 +597,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Choose a card with [Dive] from your deck. Remove it from the game with a cyberbrain counter on it. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] ⇒ Choose a card with [Dive] from your deck. Remove it from the game with a cyberbrain counter on it. Then shuffle your deck.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -632,7 +632,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Continuous\nThe named card can't be played.",
+   "text": "Continuous\n\nThe named card can't be played.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -731,7 +731,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\n[Dive][2]: You gain 600 life.",
+   "text": "Activate\n\n[Dive][2]: You gain 600 life.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -781,7 +781,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\n[Rest]: Produce [1]",
+   "text": "Activate\n\n[Rest]: Produce [1]",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -799,7 +799,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Your opponent discard a card from their hand.",
+   "text": "Automatic\n\n[Enter] ⇒ Your opponent discard a card from their hand.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -832,7 +832,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\nWhen this card is put into graveyard from the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into graveyard from the field ⇒ Draw a card.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -884,7 +884,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\n[Rest]: This card deals 400 damage to target resonator.",
+   "text": "Activate\n\n[Rest]: This card deals 400 damage to target resonator.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -902,7 +902,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\n[Dive][3]: Destroy target resonator. You lose 400 life.",
+   "text": "Activate\n\n[Dive][3]: Destroy target resonator. You lose 400 life.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -937,7 +937,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Continuous\nThis card cannot be blocked.",
+   "text": "Continuous\n\nThis card cannot be blocked.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -972,7 +972,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\nBanish this card: Target resonator gains [Barrier].",
+   "text": "Activate\n\nBanish this card: Target resonator gains [Barrier].",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -990,7 +990,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Look at the top card of your opponent's deck. You may put it on the bottom of the deck.",
+   "text": "Automatic\n\n[Enter] ⇒ Look at the top card of your opponent's deck. You may put it on the bottom of the deck.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -1008,7 +1008,7 @@
    "type": "Resonator",
    "race": "Human/Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Put target resonator from your graveyard into your hand.",
+   "text": "Automatic\n\n[Enter] ⇒ Put target resonator from your graveyard into your hand.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -1043,7 +1043,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\nWhenever this card attacks ⇒ This card deals 800 damage to another target resonator.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ This card deals 800 damage to another target resonator.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -1061,7 +1061,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Target resonator gains [+600/+600].",
+   "text": "Automatic\n\n[Enter] ⇒ Target resonator gains [+600/+600].",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -1079,7 +1079,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Return target resonator to its owner's hand.",
+   "text": "Automatic\n\n[Enter] ⇒ Return target resonator to its owner's hand.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -1131,7 +1131,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\n[2]: Remove target card in a graveyard from the game.",
+   "text": "Activate\n\n[2]: Remove target card in a graveyard from the game.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -1149,7 +1149,7 @@
    "type": "Resonator",
    "race": "Human",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Look at the top 3 cards of your deck. Put a card from among them into your hand, and the rest on the top of your deck in any order.",
+   "text": "Automatic\n\n[Enter] ⇒ Look at the top 3 cards of your deck. Put a card from among them into your hand, and the rest on the top of your deck in any order.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -1182,7 +1182,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\n[Enter] ⇒ Reveal the top 4 cards of your deck. You may put up to 2 Machine and/or Human cards from among them into your hand. Put the rest on the bottom of the deck in any order.",
+   "text": "Automatic\n\n[Enter] ⇒ Reveal the top 4 cards of your deck. You may put up to 2 Machine and/or Human cards from among them into your hand. Put the rest on the bottom of the deck in any order.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -1200,7 +1200,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Automatic\nWhenever this card attacks ⇒ Put the top card of your opponent's deck into the graveyard.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Put the top card of your opponent's deck into the graveyard.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {
@@ -1218,7 +1218,7 @@
    "type": "Resonator",
    "race": "Machine",
    "expansion": "GHOST IN THE SHELL SAC_2045 Booster Pack",
-   "text": "Activate\nBanish this card: This card deals 200 damage to target resonator.",
+   "text": "Activate\n\nBanish this card: This card deals 200 damage to target resonator.",
    "all_sets": "GHOST IN THE SHELL SAC_2045 Booster Pack"
   },
   {

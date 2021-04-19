@@ -1,0 +1,2245 @@
+{
+ "card": [
+  {
+   "url": "http://www.fowtcg.com/card/5065",
+   "name": "A Duet of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5065/image_en/cc44e1f8-11f8-4d4f-ab86-053b21c529c5.jpg",
+   "number": "MSW-001",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "AKI",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"Zero, can you fight?\" \"Yes, uh, probably.\" ーAlmerius & Zero",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5066",
+   "name": "Almerius",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5066/image_en/3994551b-0ca1-45b6-8113-7479314d00c1.jpg",
+   "number": "MSW-002",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "Miko Yamazaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Target J/resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "\"I'm the leader now? But, why?!\"",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5067",
+   "name": "Almerius",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5067/image_en/6151a6d0-131e-4b93-9937-6e0069f4f57a.jpg",
+   "number": "MSW-002",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "Miko Yamazaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Target J/resonator gains [+200/+200] until end of turn.",
+   "flavor_text": "\"I'm the leader now? But, why?!\"",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5068",
+   "name": "Chiffon, Spirit of Guidance",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5068/image_en/02fd7b8c-a853-4b1d-9ec7-caa9cc382928.jpg",
+   "number": "MSW-003",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "j-peg",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "She guides the living and expels the dead.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5069",
+   "name": "Gathering of the Six Sages",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5069/image_en/835f9b14-8269-4bd3-89b6-b924cbc812df.jpg",
+   "number": "MSW-004",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "AKI",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nRecover a ruler you control. Draw a card.",
+   "flavor_text": "Each of the Six Sages is completely different in personality, quality, and magic. The only thing they have in common is that they revere Welser.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5070",
+   "name": "Guardian Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5070/image_en/4c1c8bd6-518b-43d9-a66d-192e949f2950.jpg",
+   "number": "MSW-005",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Human, Wizard",
+   "artist": "Misa Tsutsui",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nWhenever your opponent plays an awakened spell >>> J/resonators you control gain [Barrier] until end of turn.",
+   "flavor_text": "Defense is a very important part of the battle against the invaders.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5071",
+   "name": "Gullwing, Dragon Spirit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5071/image_en/d126efaf-734b-4d06-81ad-7013fcf96f55.jpg",
+   "number": "MSW-006",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png"
+    }
+   ],
+   "att_def": "1500 / 1500",
+   "type": "Resonator",
+   "race": "Spirit, Dragon",
+   "artist": "Kotakan",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Recover all Spirits you control.",
+   "flavor_text": "Spirits live everywhere, secretly observing and protecting the world. But the invasion from the demonic world was the greatest danger they ever faced.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5072",
+   "name": "Messenger from the Spirit Village",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5072/image_en/319b9078-3878-4cc7-b7ea-63a13160a59a.jpg",
+   "number": "MSW-007",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "sasaki kounosuke",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> You may search your deck for an addition, reveal it and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Spirits can provide guidance or trials; they can impart knowledge, but are also very capricious, or may be hiding in darkness. In other words, spirits are everywhere in this world.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5073",
+   "name": "Princess Kaguya // Flying Bamboo",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5073/image_en/7492ec91-d267-4e14-9943-b787b9965548.jpg",
+   "number": "MSW-008",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator // Chant",
+   "race": "Fairy Tale",
+   "artist": "Fukuzo Katsura / Yosuke Adachi + Studio Encount,K.K",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[M]: This card gains [+200/+200] and [Flying] until end of turn.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5074",
+   "name": "Rapunzel, the Long-Haired Princess",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5074/image_en/0fd073a8-b6f9-4dd2-aa7e-a864ff67e271.jpg",
+   "number": "MSW-009",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Fairy Tale/Human",
+   "artist": "hatarisu",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[rest]: Target resonator gains [+200/+0] and [Flying] until end of turn.",
+   "flavor_text": "\"If you use her hair I think it might be possible to climb the tower and reach the skies!\". —Swordman of Full Moon",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5075",
+   "name": "Rush of Spirits",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5075/image_en/bb0f5536-67d4-484b-a72d-fe2ff247993b.jpg",
+   "number": "MSW-010",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"There IS strength in numbers! You can do anything, when you have enough!\" ーAlmerius",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5076",
+   "name": "Spirit of Hope",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5076/image_en/fdc76b9b-832a-4055-97b1-d136634c73b8.jpg",
+   "number": "MSW-011",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "att_def": "0 / 400",
+   "type": "Resonator",
+   "race": "Fairy Tale, Spirit",
+   "artist": "Haruichi Kido",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nWhenever a J/ruler you control is recovered >>> This card gains [+300/0] until end of turn.",
+   "flavor_text": "Hope only shines on those who stand up.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5077",
+   "name": "Spirit Ring",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5077/image_en/4ab768f8-95f5-40ea-a16f-36d710b576f3.jpg",
+   "number": "MSW-012",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "haniwa",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: Produce one will of any attribute. Spend this will only to play Spirit cards.",
+   "flavor_text": "The power of the spirits is everywhere and in everything.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5078",
+   "name": "Spirit Village",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5078/image_en/f4ce9cd8-0737-415d-b16e-330a4449c527.jpg",
+   "number": "MSW-013",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "mita kura",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered light J/ruler you control: Look at the top two cards of your deck. You may reveal a Spirit from among them and put it into your hand. Then put the rest on the bottom of your deck in any order.",
+   "flavor_text": "Almerius went to visit the spirit village, where she gained the trust, friendship, and support of the spirits.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5079",
+   "name": "The Awakening of Almerius",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5079/image_en/c3479579-044d-4e62-99d6-e48641eb0180.jpg",
+   "number": "MSW-014",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yosuke Adachi + Studio Encount,K.K",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"I can hear them, the voices of the spirits!\" ーAlmerius",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5080",
+   "name": "The Awakening of Zero",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5080/image_en/1cc7f842-171e-4868-84b9-e889720ff722.jpg",
+   "number": "MSW-015",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yosuke Adachi + Studio Encount,K.K",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"Interesting! The more powerful they are, the less they are aware of their talent.\" ーWelser, Master of the Six Sages",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5081",
+   "name": "The Beginning of a Fairy Tale",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5081/image_en/2743ebae-b831-4d1a-aea6-2ed6484d5d1f.jpg",
+   "number": "MSW-016",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Fairy Tale",
+   "artist": "ShiroYayoi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "This tale of Scheherazade marks the beginning of the second stage of the invasion.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5082",
+   "name": "Tinker Bell, the Spirit // Rain of Light",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5082/image_en/a7aece88-0e44-4dd7-b71b-b990cc3984f3.jpg",
+   "number": "MSW-017",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator // Chant",
+   "race": "Fairy Tale, Spirit",
+   "artist": "Toridamono / yuko",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nThis card gains [+200/+200] for each Fairy Tale you control.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5083",
+   "name": "Zero, Apprentice Sage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5083/image_en/ecb14281-79ee-4b6a-a873-6f03b2015d0b.jpg",
+   "number": "MSW-018",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "karuta shiki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Put two [+100/+100] counters on this card.",
+   "flavor_text": "\"Hmph, 'Apprentice Sage', and all I do is serving tea. I wonder when the master will finally teach me magic?!\"",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5084",
+   "name": "Zero, Apprentice Sage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5084/image_en/a750b471-5860-4d1f-85ba-e0caa84e76fd.jpg",
+   "number": "MSW-018",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "karuta shiki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Put two [+100/+100] counters on this card.",
+   "flavor_text": "\"Hmph, 'Apprentice Sage', and all I do is serving tea. I wonder when the master will finally teach me magic?!\"",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5085",
+   "name": "A Duet of Fire",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5085/image_en/34b6120f-2925-42b6-93ec-d8f5c869aae8.jpg",
+   "number": "MSW-019",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Takumi Sugikawa",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"Zero, can you do it?\" \"Yes, I think so, I learned from Almerius!\" ーMilest & Zero",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5086",
+   "name": "Cane of the Salamander",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5086/image_en/6bf45de5-0660-4be3-a601-0683950a7705.jpg",
+   "number": "MSW-020",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "sasaki kounosuke",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: Target resonator gains [Swiftness] and [Pierce] until end of turn.",
+   "flavor_text": "This cane was made by Welser, who put his fire magic into it.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5087",
+   "name": "Desperate Aid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5087/image_en/a15faded-9dca-4dbb-a4c9-41a5389e78f1.jpg",
+   "number": "MSW-021",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nUntil end of turn, the next damage that would be dealt to a target J/resonator you control is dealt to you instead. Recover a ruler you control.",
+   "flavor_text": "\"Princess! No, it's alright! If I die, one of the others can take my place!!\" ーSnow White's Fire Dwarves",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5088",
+   "name": "Elfina, Spirit of Trials",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5088/image_en/fec24034-57ba-424a-9a04-a52b574fa5cb.jpg",
+   "number": "MSW-022",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "1000 / 200",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Nekobayashi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRemove this card in your graveyard from the game: Put four [+100/+100] counters on a fire J-ruler you control.",
+   "flavor_text": "Giving power to those who pass her trials, burning those that fail.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5089",
+   "name": "Fairy Tale Resistance Force",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5089/image_en/381378fa-99e1-42fa-a576-76c6d232ae03.jpg",
+   "number": "MSW-023",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Fairy Tale",
+   "artist": "haniwa",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "The beginning of a spine-chilling fairy tale.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5090",
+   "name": "Fountain of Trials",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5090/image_en/12fceae8-04b0-455b-94be-4f74410d6ed4.jpg",
+   "number": "MSW-024",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Nekobayashi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Recover a fire ruler you control.",
+   "flavor_text": "The power of the spirits can be obtained through trials, but there is always a price only few are ever willing to pay.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5091",
+   "name": "Infinite Matchsticks",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5091/image_en/ad0e5e0b-4e07-4eb6-86a6-2600b313ff82.jpg",
+   "number": "MSW-025",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "type": "Chant",
+   "race": "Fairy Tale",
+   "artist": "Rumie",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "Nothing is more dangerous than a smoldering fire.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5092",
+   "name": "Milest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5092/image_en/2a8d4bdb-6bbc-4e65-b929-10f7a56760fe.jpg",
+   "number": "MSW-026",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "SIGMAN",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: This card deals 200 damage to target player or J/resonator.",
+   "flavor_text": "He is determined to protect Moojdart at all costs. Even if he would have to give up all ways to express his emotions.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5093",
+   "name": "Milest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5093/image_en/b456dd92-fc97-4203-a514-2f131532a6f2.jpg",
+   "number": "MSW-026",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "SIGMAN",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: This card deals 200 damage to target player or J/resonator.",
+   "flavor_text": "He is determined to protect Moojdart at all costs. Even if he would have to give up all ways to express his emotions.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5094",
+   "name": "Salamander, the Spirit of Fire // Ghostflame",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5094/image_en/61d43b9f-ac31-4d24-a7a6-4d22c7ca08c7.jpg",
+   "number": "MSW-027",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 100",
+   "type": "Resonator // Chant",
+   "race": "Spirit",
+   "artist": "Takumi Sugikawa / SIGMAN",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[R][R][1]: Put this card from your graveyard into your hand.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5095",
+   "name": "Shaman of the Spirit Village",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5095/image_en/e6032e6a-36f4-4741-9573-278f21c367a3.jpg",
+   "number": "MSW-028",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 700",
+   "type": "Resonator",
+   "race": "Human, Spirit",
+   "artist": "yuhki lily",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nWhenever a J/ruler you control is recovered >>> This card deals 400 damage to target player or J/resonator.",
+   "flavor_text": "She is the living proof that spirits can also reside in humans.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5096",
+   "name": "Snow White of the Red Apple // Apple Avenger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5096/image_en/37b1edbe-dfa8-4470-8375-2c9db2de0b85.jpg",
+   "number": "MSW-029",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "0 / 0",
+   "type": "Resonator // Chant",
+   "race": "Fairy Tale // Fairy Tale",
+   "artist": "KONNO Takashi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nThis card enters the field with X [+100/+100] counters on it, where X is the total damage dealt by sources you controlled this turn divided by 100.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5097",
+   "name": "Snow White's Fire Dwarves",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5097/image_en/a9d61602-45c4-4879-a4a1-2c3e9c11f0ba.jpg",
+   "number": "MSW-030",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nWhenever this card is dealt damage >>> It deals that much damage to you.",
+   "flavor_text": "They all feel the same way.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5098",
+   "name": "Spirit of the Fiery Stone",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5098/image_en/2f206da8-6fcc-4c2a-8936-d12bf6cd3a8b.jpg",
+   "number": "MSW-031",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "900 / 900",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Nagi-nyan",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nThis card gains [Swiftness], [Precision] and [First Strike] as long as you don't control a rested J/ruler.",
+   "flavor_text": "A shining spirit resonating with a magic stone.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5099",
+   "name": "The Awakening of Milest",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/50/5099/image_en/b35961a6-706e-4913-aa10-f58da498d4e6.jpg",
+   "number": "MSW-032",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yosuke Adachi + Studio Encount,K.K",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "His flames exude burning grief.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5100",
+   "name": "The Little Explosive Match Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5100/image_en/845463cc-1917-4dc7-bf3a-41677bd65682.jpg",
+   "number": "MSW-033",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Rumie",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: You may search your deck for a card named \"Infinite Matchsticks\", reveal it and put it into your hand. If you do, put two [+100/+100] counters on this card. Then shuffle your deck.",
+   "flavor_text": "\"TIME-LIMITED! Matches that burn MUCH better!! LIMITED EDITION!\"",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5101",
+   "name": "A Duet of Water",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5101/image_en/3a2ecd99-4906-4077-ac10-15d845125b4e.jpg",
+   "number": "MSW-034",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yua",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"Zero, are you alright?\" \"I'll do my best, as before with Milest!\" ーMoojdart & Zero",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5102",
+   "name": "Cinderella, Freed from the Ashes // Rampaging Pumpkin Carriage",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5102/image_en/15d56431-4731-496b-b3d4-ff85880875a9.jpg",
+   "number": "MSW-035",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator // Chant",
+   "race": "Fairy Tale // Fairy Tale",
+   "artist": "muraicchi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Look at the top two cards of your opponent's deck. Then put them on top and/or on the bottom of your opponent's deck in any order.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5103",
+   "name": "Fairy Tale Rabbit",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5103/image_en/bb58463c-5ddd-4427-92a7-594771708270.jpg",
+   "number": "MSW-036",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "200 / 200",
+   "type": "Resonator",
+   "race": "Fairy Tale, Rabbit",
+   "artist": "311taro",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nThis card gains [+200/+200] for each card in your hand.",
+   "flavor_text": "This rabbit was a sure sign that Princess Kaguya would soon appear.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5104",
+   "name": "Fiola, Spirit of Oblivion",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5104/image_en/de6499c0-dfb1-4d57-b308-e120c853a79f.jpg",
+   "number": "MSW-037",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "500 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "SIGMAN",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRemove this card in your graveyard from the game: Put four [+100/+100] counters on a water J-ruler you control.",
+   "flavor_text": "Fiola received the sacrifice, and she gave Moojdart the power of illusions in return.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5105",
+   "name": "Fountain of the Oblivion Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5105/image_en/d6d79a44-4d21-4546-84d9-54defb0fc035.jpg",
+   "number": "MSW-038",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Moon",
+   "artist": "tokiwa",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Name a non-J/ruler card. Activate abilities of cards that share the chosen name cannot be played as long as this card is in the field.",
+   "flavor_text": "No matter how much the world changes, the Oblivion Moon will stay the same.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5106",
+   "name": "Illusionary Flower of Sorrow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5106/image_en/750c1bb9-f408-4d5f-9300-a04ad6f20da2.jpg",
+   "number": "MSW-039",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "tokiwa",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Return target resonator your opponent controls to its owner's hand.",
+   "flavor_text": "This delicate flower seemed to reflect the heart of Moojdart.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5107",
+   "name": "Illusionary Mermaid",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5107/image_en/c74ab612-6969-42e9-b4b1-1abb388ebc82.jpg",
+   "number": "MSW-040",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 700",
+   "type": "Resonator",
+   "race": "Mermaid, Fantasy",
+   "artist": "Kamijo Roro",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nJ/resonators your opponent controls cannot attack unless your opponent pays [1]. (Each attack costs [1].)",
+   "flavor_text": "Illusions revived races that were long extinct in this world.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5108",
+   "name": "Illusionary Snow",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5108/image_en/a74ed6db-7e7c-4cf8-83da-879dbcfd159c.jpg",
+   "number": "MSW-041",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "jitari",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "Sometimes illusions have a greater effect than reality.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5109",
+   "name": "Moojdart",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5109/image_en/e491c0a8-cde3-405f-9129-45f8aa5e08f1.jpg",
+   "number": "MSW-042",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "ishishou",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nWhenever you do judgment of a ruler >>> Draw a card.",
+   "flavor_text": "She is determined to protect Milest at all costs. Even if she would have to give up her love and her memories.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5110",
+   "name": "Moojdart",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5110/image_en/cc452cc9-e74f-49cf-843c-c126b96158e5.jpg",
+   "number": "MSW-042",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "ishishou",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nWhenever you do judgment of a ruler >>> Draw a card.",
+   "flavor_text": "She is determined to protect Milest at all costs. Even if she would have to give up her love and her memories.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5111",
+   "name": "Neverend, Fairy Tale Dragon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5111/image_en/3623e406-9d4c-4e3c-a601-7b7d15669495.jpg",
+   "number": "MSW-043",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Fairy Tale, Dragon",
+   "artist": "SO",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: Cards you control and cards you own in non-field zones gain Fairy Tale until end of turn.",
+   "flavor_text": "The power of the fairy tales became the last bastion in the battle against the Cthulhus.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5112",
+   "name": "Neverend's Roar",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5112/image_en/79b356f0-afa4-4003-a8d8-a5f8b187a5d9.jpg",
+   "number": "MSW-044",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SO",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "The beginning of the last stand.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5113",
+   "name": "Purplemist, the Fantasy Dragon // Moon Incarnation",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5113/image_en/e9cb6c6c-6fa9-44b8-a9b5-cdaff8eb8a91.jpg",
+   "number": "MSW-045",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "1000 / 1000",
+   "type": "Resonator // Chant",
+   "race": "Fantasy, Dragon",
+   "artist": "Kelvin / Nanami Lusia",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nThis card cannot be targeted by spells or abilities.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5114",
+   "name": "Spirit of Knowledge",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5114/image_en/de5b08c8-3cd6-435c-b60f-2fab3bdc5b89.jpg",
+   "number": "MSW-046",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Fairy Tale, Spirit",
+   "artist": "Haruichi Kido",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Search your deck for a card with total cost 4 or more, reveal it, and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "Knowledge is the source of everything, even spirits or fairy tales.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5115",
+   "name": "The Awakening of Moojdart",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5115/image_en/5f5a7e21-1cc7-4cef-9bec-642dbb9b8115.jpg",
+   "number": "MSW-047",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yosuke Adachi + Studio Encount,K.K",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "There is nothing but a tiny remnant of her true feelings left.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5116",
+   "name": "Three-Eyed Fortune Teller",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5116/image_en/acc326c1-d398-43e3-aa46-823d6b94fe33.jpg",
+   "number": "MSW-048",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "Matsurika Yoko",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nPlay with the top card of your deck revealed. As long as the top card of your deck is revealed this way and it's a chant, you may play it by paying its cost.",
+   "flavor_text": "\"I saw the future! Hmm, a terrible future, though.\"",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5117",
+   "name": "A Blank Page",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5117/image_en/bc5a8757-9145-4846-ab13-876f5a6ebbdf.jpg",
+   "number": "MSW-049",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "jitari",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Remove target resonator your opponent controls from the game. If this card was awakened, search your opponent's deck, graveyard, and hand for all cards that share a name with that resonator and remove them from the game. Then your opponent shuffles their deck.",
+   "flavor_text": "What is written on this page will be the beginning of a new story.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5118",
+   "name": "A Duet of Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5118/image_en/7df75ec8-7f5b-44c5-8751-17e84e3a8ede.jpg",
+   "number": "MSW-050",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Tsukumi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"Fieth! Wait a moment, please!\" \"The wind waits for nobody!\" ーZero & Fiethsing",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5119",
+   "name": "An Ancestor's Portrait",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5119/image_en/72344d36-e69a-4889-9b72-6504efe06b83.jpg",
+   "number": "MSW-051",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Matsurika Yoko",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: Look at the top three cards of your deck or your magic stone deck and put them back in any order.",
+   "flavor_text": "Selesta, a remote ancestor of Grusbalesta, was supposedly part of the Five who repelled the Dragon Lord in ages past.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5120",
+   "name": "Fairy Tale Moon",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5120/image_en/9ff1841a-205e-4fdc-893e-4d0053904bb3.jpg",
+   "number": "MSW-052",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "race": "Fairy Tale, Moon",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered wind J/ruler you control: Look at the top two cards of your deck. You may reveal a Fairy Tale resonator from among them and put it into your hand. Then put the rest on the bottom of your deck in any order.",
+   "flavor_text": "Depending on your emotions, this moon can look completely different.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5121",
+   "name": "Fiethsing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5121/image_en/96515207-8dce-468e-a360-1754717315e3.jpg",
+   "number": "MSW-053",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Elf, Six Sages",
+   "artist": "ComamitsuZaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Produce [1]. Spend this will only to play chants.",
+   "flavor_text": "Nobody can predict where the wind will go.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5122",
+   "name": "Fiethsing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5122/image_en/05769715-0b7f-454d-987e-6fff1a4caacb.jpg",
+   "number": "MSW-053",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Elf, Six Sages",
+   "artist": "ComamitsuZaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Produce [1]. Spend this will only to play chants.",
+   "flavor_text": "Nobody can predict where the wind will go.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5123",
+   "name": "Glinda, the Fairy",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5123/image_en/49129957-710c-472d-8831-e7307bd2d5a1.jpg",
+   "number": "MSW-054",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "500 / 500",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "Foo Midori",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nBanish this card: Cancel target normal spell unless its controller pays [2].",
+   "flavor_text": "That smile can make everyone feel safe.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5124",
+   "name": "Little Red, Fairy Tale of Air // Wind of Gods",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5124/image_en/616824e3-1dac-4021-b82e-a5574852c006.jpg",
+   "number": "MSW-055",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 300",
+   "type": "Resonator // Chant",
+   "race": "Fairy Tale",
+   "artist": "Matsurika Yoko / ComamitsuZaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nThis card gains [Swiftness] as long as you control a basic wind magic stone.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5125",
+   "name": "Magic Beanstalk",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5125/image_en/e47d0f56-7ceb-4ed7-af0f-b94cb0741e04.jpg",
+   "number": "MSW-056",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Fairy Tale",
+   "artist": "haniwa",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: Put a growth counter on this card.",
+   "flavor_text": "The sky is very close for those who know about this shortcut.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5126",
+   "name": "Magic Stone Bird",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5126/image_en/ee5f502d-8884-4f1d-b334-166e5c05e8fd.jpg",
+   "number": "MSW-057",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "700 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale, Spirit",
+   "artist": "Kelvin",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Put target magic stone from your graveyard into the field rested.",
+   "flavor_text": "The power of the magic stones gives power to all living beings.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5127",
+   "name": "Magic Stone Devotee",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5127/image_en/7e61f215-9919-418f-bc6a-c92797ca486a.jpg",
+   "number": "MSW-058",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "300 / 500",
+   "type": "Resonator",
+   "race": "Elf",
+   "artist": "Tsukumi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nBanish this card: Target magic stone you control becomes a [1000/1000] resonator until end of turn. It's still a magic stone.",
+   "flavor_text": "Prayers and dedications can put a soul into the soulless.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5128",
+   "name": "Scheherazade, Weaver of Fairy Tales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5128/image_en/88a2a2bc-169a-498b-a409-975dd5d2a653.jpg",
+   "number": "MSW-059",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Fairy Tale, Wanderer",
+   "artist": "noki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> You may search your deck for an addition or resonator with total cost 1 or less and put it into the field. If this card was awakened, you may search for both instead. Then shuffle your deck.",
+   "flavor_text": "With Welser's help, Scheherazade sealed Wolfgang away, but at the terrible cost of Welser's life, severe injuries, and fairy tales running rampant in this world.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5129",
+   "name": "The Awakening of Fiethsing",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5129/image_en/5e989821-8b61-461d-b7e7-ee6d3340d958.jpg",
+   "number": "MSW-060",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/X.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yosuke Adachi + Studio Encount,K.K",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"Let me show you what I am really capable of!\" ーFiethsing",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5130",
+   "name": "The Hidden History - \"The Magic Stone War\"",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5130/image_en/26227c81-d999-4f3f-93b8-576444134c54.jpg",
+   "number": "MSW-061",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "hatarisu",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: Put a Fairy Tale resonator with total cost 1 or less from your graveyard into your hand.",
+   "flavor_text": "Some parts of the history of the Magic Stone War have not been told, yet.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5131",
+   "name": "The Release of the Fairy Tales",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5131/image_en/da8d6fe9-1d77-420c-acf7-626b57aaffff.jpg",
+   "number": "MSW-062",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "noki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "Nemesis of the demonic invaders.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5132",
+   "name": "Trish, Spirit of Autumn Wind",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5132/image_en/bcbcd756-f729-4b47-b504-ab27b5e1d202.jpg",
+   "number": "MSW-063",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "SIGMAN",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Cancel target resonator spell unless its controller pays [1]. If this card was awakened, cancel the chosen target instead.",
+   "flavor_text": "Fiethsing tried to make friends with like-minded spirits.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5133",
+   "name": "Welser, Master of the Six Sages // His Last Lecture",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5133/image_en/635d63e9-8399-4c94-a571-c174c4ebb3ab.jpg",
+   "number": "MSW-064",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator // Chant",
+   "race": "Human, Wizard",
+   "artist": "Yuko Nagasaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Return target spell to its owner's hand. If this card was put into the field by the effect of its \"His Last Lecture\" part, remove this card from the game and put two [+100/+100] counters on each J/ruler you control.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5134",
+   "name": "Wind Stone Shot",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5134/image_en/35586de7-2482-4379-bcf7-1eb4b1ad9185.jpg",
+   "number": "MSW-065",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"Stones away!\" ーFiethsing",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5135",
+   "name": "A Duet of Darkness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5135/image_en/71c78e00-8171-4721-a994-6b8f72b57e9c.jpg",
+   "number": "MSW-066",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "muranako",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"Zero, show me your power.\" \"Yes, Sir! I ... believe I can be a full member now.\" ーGrusbalesta & Zero",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5136",
+   "name": "A World Invaded",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5136/image_en/2cf7019b-77a0-42c5-80ef-a678a28eb552.jpg",
+   "number": "MSW-067",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Haruki Komai",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "The invasion came suddenly and without warning, trying to engulf everything.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5137",
+   "name": "Abdul Alhazred, Poet of Madness // Dark Pulse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5137/image_en/2a2dfb4a-7b8f-466e-8363-26f66a928866.jpg",
+   "number": "MSW-068",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator // Chant",
+   "race": "Wizard",
+   "artist": "gozz / Tom",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nResonators entering the field under your opponent's control don't cause their own abilities to trigger.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5138",
+   "name": "Assault from the Demonic World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5138/image_en/fe30e526-dde8-4154-8da7-ce6ce79144b2.jpg",
+   "number": "MSW-069",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shosuke",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "There is no way to resist the real threat.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5139",
+   "name": "Awakening of the Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5139/image_en/0ebcab54-6998-4779-908b-6b42961404ab.jpg",
+   "number": "MSW-070",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Shirono Muku",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "Grusbalesta wondered why the invaders would want the power of the magic stones, but so far, the truth is still out there.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5140",
+   "name": "Darksphere, Spirit of Dark Night",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5140/image_en/d12c6329-5916-44d9-9198-9d2ff2a03f4d.jpg",
+   "number": "MSW-071",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "att_def": "500 / 1000",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "SIGMAN",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Put target resonator from your graveyard into your hand. If this card was awakened, put the chosen target from your graveyard into the field instead.",
+   "flavor_text": "It appeared in a dark night and continues to protect the darkness.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5141",
+   "name": "Extraction Wizard",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5141/image_en/f4f0c7f8-225c-4dee-b376-344af2dd4da1.jpg",
+   "number": "MSW-072",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Elf, Wizard",
+   "artist": "Nakaba Higurashi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control, remove a magic stone in your graveyard from the game: Produce one will of any attribute.",
+   "flavor_text": "Grusbalesta asked a talented wizard for help extracting magical power from magic stones, for research purposes.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5142",
+   "name": "Grusbalesta",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5142/image_en/6fab9459-9485-40d0-b86d-e9569e6bd6f2.jpg",
+   "number": "MSW-073",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "fzwrAym",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Banish a magic stone. Put the top card of your magic stone deck into the field rested.",
+   "flavor_text": "Grusbalesta, coming from a long family line of excellent researchers, is the main scientist of the Six Sages.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5143",
+   "name": "Grusbalesta",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5143/image_en/8ed14806-bc70-456f-b9dd-933947068c80.jpg",
+   "number": "MSW-073",
+   "rarity": "JR",
+   "type": "Ruler",
+   "race": "Human, Six Sages",
+   "artist": "fzwrAym",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[Rest]: Banish a magic stone. Put the top card of your magic stone deck into the field rested.",
+   "flavor_text": "Grusbalesta, coming from a long family line of excellent researchers, is the main scientist of the Six Sages.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5144",
+   "name": "Lilias Petal // Awakening of the Nine-Tailed Fox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5144/image_en/47fba4b4-4f68-4b86-80e7-77624ffb2eab.jpg",
+   "number": "MSW-074",
+   "rarity": "MR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator // Chant",
+   "race": "Human",
+   "artist": "Kusanagi Tyouen",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nWhen this card is put into the field by the effect of its \"Awakening of the Nine-Tailed Fox\" part >>> Put nine [+100/+100] counters on this card.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5145",
+   "name": "One-Tailed Fox",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5145/image_en/90f6df76-a252-4e69-ac5a-31c78c2dc12f.jpg",
+   "number": "MSW-075",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "300 / 400",
+   "type": "Resonator",
+   "race": "Beast",
+   "artist": "hatarisu",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: This card deals 100 damage to target player or J/resonator.",
+   "flavor_text": "Communication with Lilias Petal is usually done through this fox.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5146",
+   "name": "Secluded Fox Village",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5146/image_en/185ad560-836a-4758-8f3d-b3953d33299c.jpg",
+   "number": "MSW-076",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Nekobayashi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: Target resonator you control gains [Bane] until end of turn.",
+   "flavor_text": "Grusbalesta went to visit Lilias Petal, his most peculiar friend.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5147",
+   "name": "Sparkling Boon of the Magic Stones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5147/image_en/762bf0ab-23e7-463c-ab2c-d451e3198ebe.jpg",
+   "number": "MSW-077",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Nekobayashi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "The magical power of the magic stones was increasing day by day, as if they were resonating with something. Grusbalesta was sure that it was a bad sign.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5148",
+   "name": "Spirit of Regret",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5148/image_en/d9953612-a282-4f72-b0ed-c0fba40364f0.jpg",
+   "number": "MSW-078",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Shosuke",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nWhenever a J/ruler you control is recovered >>> This card gains [+200/+200] until end of turn.",
+   "flavor_text": "Spirits became ghosts, and started spreading negative emotions.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5149",
+   "name": "Student at the Institute",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5149/image_en/d692d3f3-9e25-4b37-b6c5-5388c53814d9.jpg",
+   "number": "MSW-079",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Wizard",
+   "artist": "yua",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> You may banish up to two magic stones. For each magic stone banished this way, your opponent banishes a resonator and you put a card from the top of your magic stone deck into the field rested.",
+   "flavor_text": "\"The teacher seems to have something on his mind lately, but what is he thinking about?\"",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5150",
+   "name": "The Awakening of Grusbalesta",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5150/image_en/b253ea9b-1eb0-4f11-a069-50efee94b596.jpg",
+   "number": "MSW-080",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/06.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "Yosuke Adachi + Studio Encount,K.K",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "\"I don't like battles, but this time I have no choice.\" ーGrusbalesta",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5151",
+   "name": "The Transformed",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5151/image_en/cef91f0e-e799-4093-81d6-cb05045262fe.jpg",
+   "number": "MSW-081",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 100",
+   "type": "Resonator",
+   "race": "Human, Cthulhu",
+   "artist": "Shosuke",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Your opponent discards a card. Your opponent loses 400 life.",
+   "flavor_text": "Cthulhus can reshape their existence.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5152",
+   "name": "Ultra Magic Stone Golem",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5152/image_en/f9825e0c-9ec1-4c71-82d9-bbe382a3a8c8.jpg",
+   "number": "MSW-082",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/08.png"
+    }
+   ],
+   "att_def": "2000 / 2000",
+   "type": "Resonator",
+   "race": "Golem",
+   "artist": "suranaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Destroy all J/resonators your opponent controls with ATK less than the ATK of this card.",
+   "flavor_text": "The prime incarnation of the resonance of magic stones.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5153",
+   "name": "A Sacrifice of Words and Memories",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5153/image_en/36642b64-fffb-4b1e-9b10-5bdc99d1c88a.jpg",
+   "number": "MSW-083",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "yuko",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "With the sacrifice of words and memories, they gained the power to resist the Cthulhus as spirits.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5154",
+   "name": "Azathoth, Manifestation of Death",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5154/image_en/b5e806fb-cd46-47ef-92f6-680c5c15859f.jpg",
+   "number": "MSW-084",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "100 / 700",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Sadui/JCREATiON",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Draw two cards, then discard a card. If this card was awakened, look at your opponent's hand and choose a card. They remove it from the game.",
+   "flavor_text": "Death is a part of the cycle of life, but for the Cthulhus, death means breaking the cycle of life.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5155",
+   "name": "Deeper Ones",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5155/image_en/3e608532-e9bb-4a72-8313-c12c1e2b38d6.jpg",
+   "number": "MSW-085",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 600",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Saiko Takaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Search your deck for a card named \"Deeper Ones\", reveal it, and put it into your hand. Then shuffle your deck.",
+   "flavor_text": "\"No matter how many I kill, they just keep coming! What are they?!\" ーZero",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5156",
+   "name": "Hastur, Messenger of Madness",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5156/image_en/9a923825-d7f6-4580-b3a1-413513f07a29.jpg",
+   "number": "MSW-086",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 700",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Saiko Takaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Cancel target spell or ability that targets a Cthulhu you control. If this card was awakened, you may copy the target before canceling it instead. You may choose new targets for the copy.",
+   "flavor_text": "Power breeds madness, madness breeds power.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5157",
+   "name": "Magic Stone Research Institute",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5157/image_en/932b9387-ce2c-41c3-8363-6aae951e71ea.jpg",
+   "number": "MSW-087",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Sadui/JCREATiON",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: Remove all cards in your opponent's graveyard from the game.",
+   "flavor_text": "The Magic Stone Research Institute, founded by Elixir ages ago, still exists in this world, although it changed its shape.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5158",
+   "name": "Minphia, Storytelling Girl",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5158/image_en/5235c4dc-ec9e-473a-b005-1cfddad8790d.jpg",
+   "number": "MSW-088",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "400 / 700",
+   "type": "Resonator",
+   "race": "Spirit, Fairy Tale, Human",
+   "artist": "Pisuke",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\nRest a recovered J/ruler you control: Put two [+100/+100] counters on each Spirit and/or Fairy Tale J/resonator you control.",
+   "flavor_text": "The story becomes reality, all through her voice.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5159",
+   "name": "Necronomicon, Book of Outer World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5159/image_en/3c1def92-1463-4400-9548-29e51f37c97d.jpg",
+   "number": "MSW-089",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Addition",
+   "artist": "Sadui/JCREATiON",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nCthulhu you control gain [+400/+400].",
+   "flavor_text": "\"I am quite certain that you would be much happier NOT knowing what is written inside my Necronomicon.\" ーWolfgang, Exiled Demon Prince",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5160",
+   "name": "Nyarlathotep, Bringer of War",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5160/image_en/9e2cd7e5-764c-4d12-a623-914b969651aa.jpg",
+   "number": "MSW-090",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "800 / 400",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Sadui/JCREATiON",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nWhenever this card destroys a resonator >>> Put two [+100/+100] counters on it.",
+   "flavor_text": "The war inside Nyarlathotep ended when she entered this world.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5161",
+   "name": "Satan's Phantasmal Body // Flame of Outer World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5161/image_en/1d788eef-8643-41db-811e-4670e0924035.jpg",
+   "number": "MSW-091",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator // Chant",
+   "race": "God, Illusion",
+   "artist": "IWAO / tetsuya koizumi",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nWhile you are searching your deck, you may play this card from your deck by paying its cost. You may play either part of this alternative card.",
+   "flavor_text": "ー",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5162",
+   "name": "Shub-Niggurath, Gatekeeper of Outer World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5162/image_en/b79d2abd-08a2-4274-9d6d-d716f5b3b18f.jpg",
+   "number": "MSW-092",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "400 / 400",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Saiko Takaki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Search your deck for a Cthulhu, reveal it, and put it into your hand. Then shuffle your deck. If this card was awakened, produce [R][D].",
+   "flavor_text": "The gate to the demonic world was opened, and this world began to burn.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5163",
+   "name": "Spirits of Fire and Water",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5163/image_en/a0bf349a-cba5-4a51-9c1e-f4c2b49728a0.jpg",
+   "number": "MSW-093",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "600 / 600",
+   "type": "Resonator",
+   "race": "Spirit",
+   "artist": "Misa Tsutsui",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nThis card gains \"Prevent the first damage that would be dealt to this card each turn.\" as long as you control a card named \"Moojdart\".",
+   "flavor_text": "Fire burns wildly, water calms down.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5164",
+   "name": "Symphony of the Two Great Dragons",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5164/image_en/586ee995-e50e-4321-ad14-b017c60f7455.jpg",
+   "number": "MSW-094",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "MATSUMOTO EIGHT",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "A breathtaking symphony of spirits and fairy tales.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5165",
+   "name": "The Magic of Trust and Love",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5165/image_en/a12489fc-a118-4f70-b3a4-96bb9a73b7e1.jpg",
+   "number": "MSW-095",
+   "rarity": "N",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "gekko",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "Both are tied by trust and love, but each of them already senses the tragedy that will happen to them.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5166",
+   "name": "Umr at-Tawil, Keymaster of Outer World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5166/image_en/3c85b6e5-e006-4f4d-ac24-c758c0d4ad1d.jpg",
+   "number": "MSW-096",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "att_def": "800 / 800",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Haruki Komai",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Continuous\nYou may play this card from your removed area.",
+   "flavor_text": "Only chaos and madness can go through this gate.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5167",
+   "name": "Wolfgang, Exiled Demon Prince",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5167/image_en/fa461ba8-3e8e-48a0-92ff-910ae5bd047b.jpg",
+   "number": "MSW-097",
+   "rarity": "RR",
+   "type": "Ruler",
+   "race": "Demonic",
+   "artist": "Sadui/JCREATiON",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\nAt end of turn >>> If there are five or more madness counters on this card, you lose the game.",
+   "flavor_text": "\"Residents of this world, don't be alarmed. I don't want to be here, but I need the power of the magic stones.\"",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5168",
+   "name": "Wolfgang's Apocalypse",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5168/image_en/8d03370c-566f-4035-8db9-ccc0a2932bc9.jpg",
+   "number": "MSW-098",
+   "rarity": "R",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png"
+    }
+   ],
+   "type": "Chant",
+   "artist": "SAGAWA ASUKA",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "Pain is only for the moment, domination is forever.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5169",
+   "name": "Yog-Sothoth, True Hunger",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5169/image_en/e940e8a5-f508-4b83-9d3e-8b019e4e109c.jpg",
+   "number": "MSW-099",
+   "rarity": "SR",
+   "cost": [
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png"
+    },
+    {
+     "attribute": "http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png"
+    }
+   ],
+   "att_def": "0 / 1000",
+   "type": "Resonator",
+   "race": "Cthulhu",
+   "artist": "Sadui/JCREATiON",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> This card gains [+1000/0] until end of turn. If this card was awakened, resonators you control gain [+1000/0] and [Pierce] until end of turn instead.",
+   "flavor_text": "True hunger is never stilled, no matter how many enemies you defeat.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5170",
+   "name": "Moonbreeze's Memoria",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5170/image_en/789b8e4f-d503-4b20-a215-df51f8632134.jpg",
+   "number": "MSW-100",
+   "rarity": "N",
+   "type": "Special Magic Stone",
+   "artist": "noki",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Activate\n[rest]: Produce [M] or [W].",
+   "flavor_text": "Light shines down from above.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5171",
+   "name": "The Magic Stone of the Demonic World",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5171/image_en/bc82deaa-fd88-46d3-bde6-a7194254a0f8.jpg",
+   "number": "MSW-101",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "Moopic",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "flavor_text": "This magic stone from the Demonic World can awaken fear and chaos.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  },
+  {
+   "url": "http://www.fowtcg.com/card/5172",
+   "name": "The Magic Stone of the Six Sages",
+   "image": "http://d12h0em1d7ppg.cloudfront.net/items/51/5172/image_en/5ee267dd-accb-4a6a-b90b-18db51892112.jpg",
+   "number": "MSW-102",
+   "rarity": "R",
+   "type": "Special Magic Stone",
+   "artist": "jugemt",
+   "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Automatic\n[Enter] >>> Recover a ruler you control.",
+   "flavor_text": "This magic stone was created by Welser as a special gift for the Six Sages.",
+   "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
+  }
+ ]
+}

@@ -469,7 +469,7 @@
    "type": "Basic Magic Stone",
    "artist": "AshesBomber",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Starter Deck"
   },
   {
@@ -950,7 +950,7 @@
    "type": "Basic Magic Stone",
    "artist": "Flaya",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Starter Deck"
   },
   {
@@ -1431,7 +1431,7 @@
    "type": "Basic Magic Stone",
    "artist": "ManKan",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Starter Deck"
   },
   {
@@ -1906,7 +1906,7 @@
    "type": "Basic Magic Stone",
    "artist": "zhowee",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Starter Deck"
   },
   {
@@ -2384,7 +2384,7 @@
    "type": "Basic Magic Stone",
    "artist": "Elnino Vin",
    "expansion": "Starter Deck",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Starter Deck"
   }
  ]

@@ -17,7 +17,7 @@
    "type": "Addition: Field",
    "artist": "城戸春一",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nKnights of the Round Table you control gain [+200/+200].",
+   "text": "Continuous\n\nKnights of the Round Table you control gain [+200/+200].",
    "flavor_text": "The lost land of knights, reborn from Faria's will.",
    "all_sets": "Battle for Attractia"
   },
@@ -40,7 +40,7 @@
    "race": "Knight of the Round Table",
    "artist": "祀花よう子",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field or attacks ⇒ Target Knight of the Round Table gains [+400/+400] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field or attacks ⇒ Target Knight of the Round Table gains [+400/+400] until end of turn.",
    "flavor_text": "Ever seeking to do good, even in strange lands.",
    "all_sets": "Battle for Attractia"
   },
@@ -80,7 +80,7 @@
    "race": "Fairy",
    "artist": "七原しえ",
    "expansion": "Battle for Attractia",
-   "text": "Activate\nBanish this card: Destroy target addition or card in a standby area.",
+   "text": "Activate\n\nBanish this card: Destroy target addition or card in a standby area.",
    "flavor_text": "The eye of a fairy perceives all.",
    "all_sets": "Battle for Attractia"
   },
@@ -120,7 +120,7 @@
    "race": "Angel",
    "artist": "石商",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nYour opponent cannot play activate abilities of J/rulers or regalia during your turn.",
+   "text": "Continuous\n\nYour opponent cannot play activate abilities of J/rulers or regalia during your turn.",
    "flavor_text": "Rather than defend against awoken creatures, it's better to just keep everyone asleep.",
    "all_sets": "Battle for Attractia"
   },
@@ -169,7 +169,7 @@
    "race": "Little Girl",
    "artist": "桂福蔵",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from your field ⇒ Put a [+100/+100] counter on this card.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from your field ⇒ Put a [+100/+100] counter on this card.",
    "flavor_text": "\"Let's go everyone! Let's bust on through!\"",
    "all_sets": "Battle for Attractia"
   },
@@ -192,7 +192,7 @@
    "race": "Soldier",
    "artist": "JURI",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field or leaves your field for a non-field zone ⇒ You gain 700 life.",
+   "text": "Automatic\n\nWhen this card enters your field or leaves your field for a non-field zone ⇒ You gain 700 life.",
    "flavor_text": "Glorians fight so that they might rebuild their home.",
    "all_sets": "Battle for Attractia"
   },
@@ -212,7 +212,7 @@
    "race": "Priest",
    "artist": "田島幸枝",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nWhenever another resonator enters your field ⇒ You gain 200 life.",
+   "text": "Continuous\n\nWhenever another resonator enters your field ⇒ You gain 200 life.",
    "flavor_text": "The wheel of life turns and turns.",
    "all_sets": "Battle for Attractia"
   },
@@ -232,7 +232,7 @@
    "race": "Rabbit",
    "artist": "mie",
    "expansion": "Battle for Attractia",
-   "text": "Activate\nBanish this card: Rest target J/resonator.",
+   "text": "Activate\n\nBanish this card: Rest target J/resonator.",
    "flavor_text": "Foolish is the warrior who readies himself for sword and spell, but not rabbits.",
    "all_sets": "Battle for Attractia"
   },
@@ -270,7 +270,7 @@
    "type": "Addition: Resonator",
    "artist": "乃希",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nPrevent all non-battle damage that would be dealt to added resonator by fire cards.",
+   "text": "Continuous\n\nPrevent all non-battle damage that would be dealt to added resonator by fire cards.",
    "flavor_text": "Not even the hottest flame can pierce that shield.",
    "all_sets": "Battle for Attractia"
   },
@@ -293,7 +293,7 @@
    "race": "Knight",
    "artist": "篁ふみ",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nWhenever you gain life ⇒ This card gains [+200/0] until end of turn.",
+   "text": "Continuous\n\nWhenever you gain life ⇒ This card gains [+200/0] until end of turn.",
    "flavor_text": "Faria always said to protect your family and the people took it to heart. The entire nation is their family.",
    "all_sets": "Battle for Attractia"
   },
@@ -316,7 +316,7 @@
    "race": "Knight",
    "artist": "篁ふみ",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nWhenever you gain life ⇒ This card gains [0/+200] until end of turn.",
+   "text": "Continuous\n\nWhenever you gain life ⇒ This card gains [0/+200] until end of turn.",
    "flavor_text": "Northerners and Southerns have different ways of defending, but their purpose unites them.",
    "all_sets": "Battle for Attractia"
   },
@@ -342,7 +342,7 @@
    "race": "Twelve Apostles/Avatar",
    "artist": "BANAMONS*",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may play a fire chant card with total cost 3 or less without [Trigger] from your removed area without paying its cost.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may play a fire chant card with total cost 3 or less without [Trigger] from your removed area without paying its cost.",
    "flavor_text": "\"At last...the power of calamity. With this, Lapis' victory is assured.\"",
    "all_sets": "Battle for Attractia"
   },
@@ -400,7 +400,7 @@
    "type": "Addition: Resonator",
    "artist": "gozz",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nAdded resonator gains [+400/0] and \"Whenever this card attacks, it deals 200 damage to each other resonator\".",
+   "text": "Automatic\n\nAdded resonator gains [+400/0] and \"Whenever this card attacks, it deals 200 damage to each other resonator\".",
    "flavor_text": "While the blood sprays on enemies and allies alike, only allies are actually happy about it.",
    "all_sets": "Battle for Attractia"
   },
@@ -420,7 +420,7 @@
    "race": "Dragon",
    "artist": "草薙蝶炎",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ It deals 500 damage to target resonator you control.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ It deals 500 damage to target resonator you control.",
    "flavor_text": "Unable to control its own fire, this dragon sometimes burns itself.",
    "all_sets": "Battle for Attractia"
   },
@@ -443,7 +443,7 @@
    "race": "Knight",
    "artist": "下江クリス",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nAs long as your opponent controls a darkness magic stone, this card gains [+200/+200] and [Swiftness].",
+   "text": "Continuous\n\nAs long as your opponent controls a darkness magic stone, this card gains [+200/+200] and [Swiftness].",
    "flavor_text": "No one is really sure exactly who she's angry at.",
    "all_sets": "Battle for Attractia"
   },
@@ -463,7 +463,7 @@
    "race": "Soldier",
    "artist": "kawaryu",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhenever this card is dealt damage ⇒ It gains [+200/0] and [Swiftness] until end of turn.",
+   "text": "Automatic\n\nWhenever this card is dealt damage ⇒ It gains [+200/0] and [Swiftness] until end of turn.",
    "flavor_text": "Pain means nothing. On the contrary, it only becomes power. The soldiers of Volga know not the burden of a valuable life.",
    "all_sets": "Battle for Attractia"
   },
@@ -512,7 +512,7 @@
    "race": "Beast",
    "artist": "七海ルシア",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ It deals 600 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ It deals 600 damage to target resonator.",
    "flavor_text": "This ferocious beast of fire cooks its prey while eating it.",
    "all_sets": "Battle for Attractia"
   },
@@ -535,7 +535,7 @@
    "race": "Beast",
    "artist": "上條ロロ",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nThis card cannot attack or block unless it's damaged.",
+   "text": "Continuous\n\nThis card cannot attack or block unless it's damaged.",
    "flavor_text": "It doesn't even notice those that draw close to it.",
    "all_sets": "Battle for Attractia"
   },
@@ -576,7 +576,7 @@
    "type": "Addition: Field",
    "artist": "gozz",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest]: This card deals 200 damage to each resonator. Play this ability only if you control a resonator.",
+   "text": "Activate\n\n[rest]: This card deals 200 damage to each resonator. Play this ability only if you control a resonator.",
    "flavor_text": "The battle that took place here years ago between Melgis and Volga ended in an instant.",
    "all_sets": "Battle for Attractia"
   },
@@ -599,7 +599,7 @@
    "race": "King",
    "artist": "Azusa",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhenever this card is dealt damage ⇒ It deals that much damage to your opponent.",
+   "text": "Automatic\n\nWhenever this card is dealt damage ⇒ It deals that much damage to your opponent.",
    "flavor_text": "\"Feel my pain!\"",
    "all_sets": "Battle for Attractia"
   },
@@ -622,7 +622,7 @@
    "race": "Illusion",
    "artist": "tokiwa",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card in your deck is removed from the game ⇒ Put it into your field.",
+   "text": "Automatic\n\nWhen this card in your deck is removed from the game ⇒ Put it into your field.",
    "flavor_text": "In Vell-Savaria, nothing dies. Not even hatred.",
    "all_sets": "Battle for Attractia"
   },
@@ -645,7 +645,7 @@
    "race": "Knight of the Round Table",
    "artist": "上條ロロ",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhenever this card attacks ⇒ It deals 200 damage to each resonator.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It deals 200 damage to each resonator.",
    "flavor_text": "He preferred combat to needless conversing.",
    "all_sets": "Battle for Attractia"
   },
@@ -665,7 +665,7 @@
    "race": "Human",
    "artist": "ユウキリリー",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest]: Target resonator with no attribute gains [0/+400] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator with no attribute gains [0/+400] until end of turn.",
    "flavor_text": "Making strong machines is his life's calling.",
    "all_sets": "Battle for Attractia"
   },
@@ -691,7 +691,7 @@
    "race": "Fantasy",
    "artist": "ハタリス",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nThis card gains [+200/+200] for each other \"Croco-Shark\" you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each other \"Croco-Shark\" you control.",
    "flavor_text": "\"What's in the river? Oh er...don't worry about it.\" -Hare of Inaba",
    "all_sets": "Battle for Attractia"
   },
@@ -712,7 +712,7 @@
    "type": "Addition: Field",
    "artist": "上木乃アロエ",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest]: Target resonator and all other resonators with the same name gain [+300/+300] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator and all other resonators with the same name gain [+300/+300] until end of turn.",
    "flavor_text": "Croco-Sharks will trudge through anything.",
    "all_sets": "Battle for Attractia"
   },
@@ -772,7 +772,7 @@
    "race": "Human",
    "artist": "城戸春一",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nYou may pay [1] less to play spells with no attribute, to a minimum free cost of 1.",
+   "text": "Continuous\n\nYou may pay [1] less to play spells with no attribute, to a minimum free cost of 1.",
    "flavor_text": "Proper planning makes production productive.",
    "all_sets": "Battle for Attractia"
   },
@@ -790,7 +790,7 @@
    "type": "Addition: Resonator",
    "artist": "長崎祐子",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nAdded resonator becomes a [200/300].",
+   "text": "Continuous\n\nAdded resonator becomes a [200/300].",
    "flavor_text": "Anyone who takes the extract shrinks to the size of a fairy.",
    "all_sets": "Battle for Attractia"
   },
@@ -810,7 +810,7 @@
    "race": "Human",
    "artist": "lack",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nThis card gains [+200/+200] for each resonator with no attribute you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each resonator with no attribute you control.",
    "flavor_text": "\"It's coming! The rise of the machines is coming!\"",
    "all_sets": "Battle for Attractia"
   },
@@ -830,7 +830,7 @@
    "race": "Fairy",
    "artist": "nocras",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nThis card can block while rested.",
+   "text": "Continuous\n\nThis card can block while rested.",
    "flavor_text": "The queen is willing to sacrifice anything to protect herself.",
    "all_sets": "Battle for Attractia"
   },
@@ -893,7 +893,7 @@
    "race": "Human",
    "artist": "j-peg",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[U],[rest], discard a card: Return another target resonator to its owner's hand.",
+   "text": "Activate\n\n[U],[rest], discard a card: Return another target resonator to its owner's hand.",
    "flavor_text": "\"Until today I fought for the oppressed. Today, I sing for all!\"",
    "all_sets": "Battle for Attractia"
   },
@@ -919,7 +919,7 @@
    "race": "Wizard/Ancient",
    "artist": "スギカワタクミ",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put target cahnt card without [Trigget] from your graveyard into your hand. If that card's total cost is 1, you may play it without paying its cost instead of putting it into your hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put target cahnt card without [Trigget] from your graveyard into your hand. If that card's total cost is 1, you may play it without paying its cost instead of putting it into your hand.",
    "flavor_text": "Onlookers were transfixed on the black moon, not noticing their collapsing world.",
    "all_sets": "Battle for Attractia"
   },
@@ -942,7 +942,7 @@
    "race": "Human",
    "artist": "松本エイト",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top two cards of your deck. Put up to two cards with no attribute from among them into your hand. Put the rest into your graveyard.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top two cards of your deck. Put up to two cards with no attribute from among them into your hand. Put the rest into your graveyard.",
    "flavor_text": "On a good day he'll come with two new inventions, on a bad day he'll come with nothing.",
    "all_sets": "Battle for Attractia"
   },
@@ -965,7 +965,7 @@
    "race": "Twelve Apostles/Fairy",
    "artist": "祀花よう子",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nOther water resonators and other Fairy resonators you control gain [+200/+200].",
+   "text": "Continuous\n\nOther water resonators and other Fairy resonators you control gain [+200/+200].",
    "flavor_text": "Those who call her prideful always seem to turn up missing.",
    "all_sets": "Battle for Attractia"
   },
@@ -985,7 +985,7 @@
    "race": "Soldier",
    "artist": "gozz",
    "expansion": "Battle for Attractia",
-   "text": "Activate\nBanish this card: Return up to two target resonators you control to their owners' hands.",
+   "text": "Activate\n\nBanish this card: Return up to two target resonators you control to their owners' hands.",
    "flavor_text": "Alice summoned decoys to divert the enemy's attack.",
    "all_sets": "Battle for Attractia"
   },
@@ -1008,7 +1008,7 @@
    "race": "Wingman",
    "artist": "長崎祐子",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhenever this card attacks ⇒ You may recover target magic stone.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ You may recover target magic stone.",
    "flavor_text": "Those wings bring new life to dying winds.",
    "all_sets": "Battle for Attractia"
   },
@@ -1028,7 +1028,7 @@
    "race": "Fairy",
    "artist": "乃希",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\n[Quickcast]",
+   "text": "Automatic\n\n[Quickcast]",
    "flavor_text": "All this fairy can do is beat back those that draw near.",
    "all_sets": "Battle for Attractia"
   },
@@ -1051,7 +1051,7 @@
    "race": "Wererabbit",
    "artist": "白井秀実",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nThis card gains [Flying] and [Swiftness] as long as you control a Fantasy resonator.",
+   "text": "Continuous\n\nThis card gains [Flying] and [Swiftness] as long as you control a Fantasy resonator.",
    "flavor_text": "\"Alright everyone, let's get hopping! Just don't cry if you get hurt!\"",
    "all_sets": "Battle for Attractia"
   },
@@ -1092,7 +1092,7 @@
    "type": "Addition: Field",
    "artist": "tokiwa",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest]: Target resonator with [Flying] gains [+300/+300] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator with [Flying] gains [+300/+300] until end of turn.",
    "flavor_text": "An Armalla on the ground.",
    "all_sets": "Battle for Attractia"
   },
@@ -1115,7 +1115,7 @@
    "race": "Fairy",
    "artist": "まよ",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\n[Quickcast]",
+   "text": "Continuous\n\n[Quickcast]",
    "flavor_text": "When the king appears, the fairies buzz about. Even if they aren't busy, they pretend they are.",
    "all_sets": "Battle for Attractia"
   },
@@ -1135,7 +1135,7 @@
    "race": "Rabbit",
    "artist": "白野椋",
    "expansion": "Battle for Attractia",
-   "text": "Activate\nBanish this card: Produce [G] or [M].",
+   "text": "Activate\n\nBanish this card: Produce [G] or [M].",
    "flavor_text": "That rabbit came and went as quickly as the wind, and left a calming warmth.",
    "all_sets": "Battle for Attractia"
   },
@@ -1156,7 +1156,7 @@
    "type": "Addition: Resonator",
    "artist": "白野椋",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nAdded resonator gains [+200/+200] for each resonator you control.",
+   "text": "Continuous\n\nAdded resonator gains [+200/+200] for each resonator you control.",
    "flavor_text": "Alice's power is shared with all her allies.",
    "all_sets": "Battle for Attractia"
   },
@@ -1199,7 +1199,7 @@
    "race": "Beast",
    "artist": "夕子",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nThis card gains [+400/+400] as long as you control another Beast resonator.",
+   "text": "Continuous\n\nThis card gains [+400/+400] as long as you control another Beast resonator.",
    "flavor_text": "The creatures of Sissei wait patiently for their queen to return.",
    "all_sets": "Battle for Attractia"
   },
@@ -1245,7 +1245,7 @@
    "race": "Elf",
    "artist": "坂井結城",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[M]: Look at the top three cards of your deck and put them back in any order.",
+   "text": "Activate\n\n[M]: Look at the top three cards of your deck and put them back in any order.",
    "flavor_text": "Though there are many who can see the future, there are few who can change it.",
    "all_sets": "Battle for Attractia"
   },
@@ -1291,7 +1291,7 @@
    "race": "Beast",
    "artist": "kakotomirai",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nBlocking does not cause this card to rest.",
+   "text": "Continuous\n\nBlocking does not cause this card to rest.",
    "flavor_text": "The spirit of the world tree, the last of its hope.",
    "all_sets": "Battle for Attractia"
   },
@@ -1336,7 +1336,7 @@
    "type": "Addition: Field",
    "artist": "gozz",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nAt the beginning of each player's turn ⇒ That player banishes a resonator.",
+   "text": "Continuous\n\nAt the beginning of each player's turn ⇒ That player banishes a resonator.",
    "flavor_text": "Life was swallowed into the gaping maw of the dying world.",
    "all_sets": "Battle for Attractia"
   },
@@ -1357,7 +1357,7 @@
    "type": "Addition: Resonator",
    "artist": "白井秀実",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nAdded resonator gains [+800/-400].",
+   "text": "Continuous\n\nAdded resonator gains [+800/-400].",
    "flavor_text": "Madness, like any other weapon, can be a tool for friend or foe.",
    "all_sets": "Battle for Attractia"
   },
@@ -1380,7 +1380,7 @@
    "race": "Human",
    "artist": "狛蜜ザキ",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ Cancel target spell or ability targeting a card in your standby area. If you do, draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field from a standby area ⇒ Cancel target spell or ability targeting a card in your standby area. If you do, draw a card.",
    "flavor_text": "Never leave a trace, anything less is unacceptable.",
    "all_sets": "Battle for Attractia"
   },
@@ -1443,7 +1443,7 @@
    "race": "Fairy/Shadow",
    "artist": "碧風羽",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target resonator with total cost 1.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Destroy target resonator with total cost 1.",
    "flavor_text": "\"It hurts! It hurts! Now you too! Feel how much it hurts!\"",
    "all_sets": "Battle for Attractia"
   },
@@ -1466,7 +1466,7 @@
    "race": "Twelve Apostles",
    "artist": "fzwrAym",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[B][B],[rest]: Put target resonator with [Stealth] you control into its owner's standby area face down.",
+   "text": "Activate\n\n[B][B],[rest]: Put target resonator with [Stealth] you control into its owner's standby area face down.",
    "flavor_text": "The true master of all who dwell in death and darkness.",
    "all_sets": "Battle for Attractia"
   },
@@ -1492,7 +1492,7 @@
    "race": "Beast",
    "artist": "佐久間さのすけ",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target resonator with total cost 3 or less.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Destroy target resonator with total cost 3 or less.",
    "flavor_text": "This creature is cursed to never stop eating.",
    "all_sets": "Battle for Attractia"
   },
@@ -1541,7 +1541,7 @@
    "race": "Zombie",
    "artist": "touge369",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [-400/-400] for each resonator with [Stealth] you control until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Target resonator gains [-400/-400] for each resonator with [Stealth] you control until end of turn.",
    "flavor_text": "To stop his son, Rezzard's father rose as the last of the undead.",
    "all_sets": "Battle for Attractia"
   },
@@ -1561,7 +1561,7 @@
    "race": "Familiar",
    "artist": "上木乃アロエ",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a Twelve Apostle, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a Twelve Apostle, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Perfectly harmless, as long as it's still alive.",
    "all_sets": "Battle for Attractia"
   },
@@ -1581,7 +1581,7 @@
    "race": "Zombie",
    "artist": "Moopic",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nThis card gains [+100/+100] for each card in your standby area.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each card in your standby area.",
    "flavor_text": "Unseen power gathers in the darkness.",
    "all_sets": "Battle for Attractia"
   },
@@ -1607,7 +1607,7 @@
    "race": "Zombie",
    "artist": "touge369",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may pay 1000 life. If you do, search your deck for a card and put it into your standby area face down. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may pay 1000 life. If you do, search your deck for a card and put it into your standby area face down. Then shuffle your deck.",
    "flavor_text": "The resurrected body of Rezzard's mother. All but her love was brought back.",
    "all_sets": "Battle for Attractia"
   },
@@ -1630,7 +1630,7 @@
    "race": "Dragon/Zombie",
    "artist": "Mad",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[M]: This card and target resonator gain [-200/-200] until end of turn.",
+   "text": "Activate\n\n[M]: This card and target resonator gain [-200/-200] until end of turn.",
    "flavor_text": "The corrosion doesn't stop with the dragon.",
    "all_sets": "Battle for Attractia"
   },
@@ -1653,7 +1653,7 @@
    "race": "Guardian",
    "artist": "Wednesday",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nOther J/resonators you control gain [0/+200].",
+   "text": "Continuous\n\nOther J/resonators you control gain [0/+200].",
    "flavor_text": "As Alice fought Lapis, she fought another as well. Her own shadow.",
    "all_sets": "Battle for Attractia"
   },
@@ -1676,7 +1676,7 @@
    "race": "Murderer/Shadow",
    "artist": "Wednesday",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nOther J/resonators you control gain [+200/0].",
+   "text": "Continuous\n\nOther J/resonators you control gain [+200/0].",
    "flavor_text": "\"I told you, you were weak! Ready Schrödinger? I'm going to kill every single of you!\"",
    "all_sets": "Battle for Attractia"
   },
@@ -1699,7 +1699,7 @@
    "race": "Knight",
    "artist": "猫囃子",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nPrevent all damage that would be dealt to this card during your turn.",
+   "text": "Continuous\n\nPrevent all damage that would be dealt to this card during your turn.",
    "flavor_text": "\"With this power I can finally save Charlotte and maybe even...\"",
    "all_sets": "Battle for Attractia"
   },
@@ -1722,7 +1722,7 @@
    "race": "Wizard",
    "artist": "猫囃子",
    "expansion": "Battle for Attractia",
-   "text": "Activate\nRemove four [+100/+100] counters from this card: Draw a card.",
+   "text": "Activate\n\nRemove four [+100/+100] counters from this card: Draw a card.",
    "flavor_text": "\"Wow, the world sure is big! I wonder where Lars and Faria are...\"",
    "all_sets": "Battle for Attractia"
   },
@@ -1742,7 +1742,7 @@
    "race": "Little Boy",
    "artist": "ケルビン",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[1]: Put a magic counter on this card.",
+   "text": "Activate\n\n[1]: Put a magic counter on this card.",
    "flavor_text": "\"It's finally starting.\" \"No, it's finally over.\" \"Really?\" \"Really.\" - Reflect, the Beginning of Time and Refain, the End of Ages",
    "all_sets": "Battle for Attractia"
   },
@@ -1768,7 +1768,7 @@
    "race": "Little Girl",
    "artist": "ケルビン",
    "expansion": "Battle for Attractia",
-   "text": "Activate\nRemove four magic counters from this card: Destroy all additions, regalia, resonators, and J-rulers.",
+   "text": "Activate\n\nRemove four magic counters from this card: Destroy all additions, regalia, resonators, and J-rulers.",
    "flavor_text": "When this world ended, they too, disappeared. Off to report to someone, somewhere.",
    "all_sets": "Battle for Attractia"
   },
@@ -1791,7 +1791,7 @@
    "race": "Beast",
    "artist": "fzwrAym",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[1]: This card gains [+100/+100] until end of turn.",
+   "text": "Activate\n\n[1]: This card gains [+100/+100] until end of turn.",
    "flavor_text": "\"We...we beat her right? So why do I feel so...strange?\"",
    "all_sets": "Battle for Attractia"
   },
@@ -1817,7 +1817,7 @@
    "race": "Twelve Apostles",
    "artist": "fzwrAym",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Gain control of target resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Gain control of target resonator.",
    "flavor_text": "\"This body isn't comfortable at all. But that's okay. You're next, Alice.\"",
    "all_sets": "Battle for Attractia"
   },
@@ -1843,7 +1843,7 @@
    "race": "Conqueror",
    "artist": "ネム",
    "expansion": "Battle for Attractia",
-   "text": "Activate\nDiscard a Twelve Apostle: This card gains [+400/+400] and [Precision] until end of turn.",
+   "text": "Activate\n\nDiscard a Twelve Apostle: This card gains [+400/+400] and [Precision] until end of turn.",
    "flavor_text": "\"This world...like all worlds...belongs to me.\"",
    "all_sets": "Battle for Attractia"
   },
@@ -1869,7 +1869,7 @@
    "race": "Wanderer",
    "artist": "ネム",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field or shifts ⇒ Choose one -\nYou may pay [0] to play [Shift] abilities of target card in a field rather than pay their cost until end of turn;\nor you may put a Twelve Apostle from your hand into your field. It gains [Swiftness] until end of turn. Remove it from the game at end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field or shifts ⇒ Choose one -\n\nYou may pay [0] to play [Shift] abilities of target card in a field rather than pay their cost until end of turn;\n\nor you may put a Twelve Apostle from your hand into your field. It gains [Swiftness] until end of turn. Remove it from the game at end of turn.",
    "flavor_text": "\"Wherever you run I will find you. I am the fate of all. That is true control.\"",
    "all_sets": "Battle for Attractia"
   },
@@ -1887,7 +1887,7 @@
    "type": "Addition: Field",
    "artist": "ひがし",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.",
    "flavor_text": "\"Attoractia, a name that shall be but a footnote in the legacy of my reign.\" - Interdimensional Monarch, Gill Lapis",
    "all_sets": "Battle for Attractia"
   },
@@ -1905,7 +1905,7 @@
    "type": "Regalia (Shift)",
    "artist": "ひがし",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest], put six cards in any removed area that were removed by this card into their owners' graveyards: You win the game.",
+   "text": "Activate\n\n[rest], put six cards in any removed area that were removed by this card into their owners' graveyards: You win the game.",
    "flavor_text": "\"I may have lost the Earth, but it matters little. This planet will make a fine replacement.\" -Space-Time Pursuer, Gill Lapis",
    "all_sets": "Battle for Attractia"
   },
@@ -1944,7 +1944,7 @@
    "race": "Machine",
    "artist": "佐久間さのすけ",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ Cancel target spell or ability targeting a Machine you control. If you do, draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field from a standby area ⇒ Cancel target spell or ability targeting a Machine you control. If you do, draw a card.",
    "flavor_text": "\"Ah, don't touch that! You'll set it off.\" -Small Assistant, Mariabella",
    "all_sets": "Battle for Attractia"
   },
@@ -1963,7 +1963,7 @@
    "race": "Machine",
    "artist": "kakotomirai",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put target Machine with total cost 2 or less from your graveyard into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put target Machine with total cost 2 or less from your graveyard into your field.",
    "flavor_text": "Maintaining materials means recycling.",
    "all_sets": "Battle for Attractia"
   },
@@ -2000,7 +2000,7 @@
    "race": "Machine/Beast",
    "artist": "ＳＩＧＭＡＮ",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nYou may pay [1] less to play this card for each Machine you control.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each Machine you control.",
    "flavor_text": "Depending on the signal, machines can operate fast or slow.",
    "all_sets": "Battle for Attractia"
   },
@@ -2020,7 +2020,7 @@
    "race": "Machine",
    "artist": "ＳＩＧＭＡＮ",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nThis card cannot be destroyed.",
+   "text": "Continuous\n\nThis card cannot be destroyed.",
    "flavor_text": "The remote connection between machines may even prevent their destruction.",
    "all_sets": "Battle for Attractia"
   },
@@ -2040,7 +2040,7 @@
    "race": "Human/Machine",
    "artist": "るみえ",
    "expansion": "Battle for Attractia",
-   "text": "Activate\nRemove this card in your graveyard from the game: Produce [2]. Spend this will only to play activate abilities of \"Marybell, the Steel Doll\" or to play \"Marybell, Insane Self-Aware Machine\".",
+   "text": "Activate\n\nRemove this card in your graveyard from the game: Produce [2]. Spend this will only to play activate abilities of \"Marybell, the Steel Doll\" or to play \"Marybell, Insane Self-Aware Machine\".",
    "flavor_text": "\"Master Machina...I will finish your research.\"",
    "all_sets": "Battle for Attractia"
   },
@@ -2060,7 +2060,7 @@
    "race": "Machine",
    "artist": "竿",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Reveal cards from the top of your deck until you reveal a Machine with total cost 1. Put that card into your field and shuffle the rest into your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Reveal cards from the top of your deck until you reveal a Machine with total cost 1. Put that card into your field and shuffle the rest into your deck.",
    "flavor_text": "Machine creates machine.",
    "all_sets": "Battle for Attractia"
   },
@@ -2080,7 +2080,7 @@
    "race": "Machine",
    "artist": "Cola",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Reveal cards from the top of your deck until you reveal a Machine with total cost 2. Put that card into your field and shuffle the rest into your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Reveal cards from the top of your deck until you reveal a Machine with total cost 2. Put that card into your field and shuffle the rest into your deck.",
    "flavor_text": "\"I wonder what it will do next.\" -Small Assistant, Mariabella",
    "all_sets": "Battle for Attractia"
   },
@@ -2094,7 +2094,7 @@
    "race": "Heroic Spirit",
    "artist": "Cola",
    "expansion": "Battle for Attractia",
-   "text": "Judgement\n[4].",
+   "text": "Judgement\n\n[4].",
    "flavor_text": "A memoria that projects the images of great people from Attoractia.",
    "all_sets": "Battle for Attractia"
   },
@@ -2109,7 +2109,7 @@
    "race": "Heroic Spirit",
    "artist": "猫囃子",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhenever you gain life ⇒ Put a [+100/+100] counter on each J/resonator you control.",
+   "text": "Automatic\n\nWhenever you gain life ⇒ Put a [+100/+100] counter on each J/resonator you control.",
    "flavor_text": "\"Brother...I promise I'll protect this land. So please...come home safe.\"",
    "all_sets": "Battle for Attractia"
   },
@@ -2124,7 +2124,7 @@
    "race": "Heroic Spirit",
    "artist": "gekko",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhen this card enters your field ⇒ If you control a \"Brutal Conqueror's Memoria\" reveal the top three cards of your deck. Put all resonators with total cost 3 or less from among them into your field. They gain [Swiftness] until end of turn. Put the rest on top of your deck in any order. If you control four \"Brutal Conqueror's Memoria\" put all resonators from among them into your field instead of all resonators with total cost 3 or less.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ If you control a \"Brutal Conqueror's Memoria\" reveal the top three cards of your deck. Put all resonators with total cost 3 or less from among them into your field. They gain [Swiftness] until end of turn. Put the rest on top of your deck in any order. If you control four \"Brutal Conqueror's Memoria\" put all resonators from among them into your field instead of all resonators with total cost 3 or less.",
    "flavor_text": "\"I will defeat Volga and rule Certo. Those who wish to live, join me now!\"",
    "all_sets": "Battle for Attractia"
   },
@@ -2139,7 +2139,7 @@
    "race": "Heroic Spirit",
    "artist": "るみえ",
    "expansion": "Battle for Attractia",
-   "text": "Continuous\nThis card gains [+200/+200] for each Machine you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each Machine you control.",
    "flavor_text": "\"Mariabella, it's so close. It just needs something. Just one thing more and it will be perfect. But what? What am I missing?\"",
    "all_sets": "Battle for Attractia"
   },
@@ -2154,7 +2154,7 @@
    "race": "Heroic Spirit",
    "artist": "今野隼史",
    "expansion": "Battle for Attractia",
-   "text": "Automatic\nWhenever a resonator you control attacks, recover target magic stone you control.",
+   "text": "Automatic\n\nWhenever a resonator you control attacks, recover target magic stone you control.",
    "flavor_text": "\"We cannot escape the problems of this world in the skies. I will guard this world, all of it.\"",
    "all_sets": "Battle for Attractia"
   },
@@ -2169,7 +2169,7 @@
    "race": "Heroic Spirit",
    "artist": "touge369",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[B]: You may put a card from your hand into your standby area face down.",
+   "text": "Activate\n\n[B]: You may put a card from your hand into your standby area face down.",
    "flavor_text": "\"Look, mother. Look how well I've honed my craft. I can save you, I know I can! Mother? Why won't you answer me?\"",
    "all_sets": "Battle for Attractia"
   },
@@ -2182,7 +2182,7 @@
    "type": "Special Magic Stone",
    "artist": "弥生しろ",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[W][1],[rest]: You gain 100 life.",
+   "text": "Activate\n\n[W][1],[rest]: You gain 100 life.",
    "flavor_text": "It's a memory of a girl chosen by fate.",
    "all_sets": "Battle for Attractia"
   },
@@ -2195,7 +2195,7 @@
    "type": "Special Magic Stone",
    "artist": "草薙蝶炎",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[R][2],[rest]: This card deals 100 damage to your opponent.",
+   "text": "Activate\n\n[R][2],[rest]: This card deals 100 damage to your opponent.",
    "flavor_text": "It's a memory of a decisive battle.",
    "all_sets": "Battle for Attractia"
   },
@@ -2208,7 +2208,7 @@
    "type": "Special Magic Stone",
    "artist": "七海ルシア",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[U][1],[rest]: Draw a card, then discard a card.",
+   "text": "Activate\n\n[U][1],[rest]: Draw a card, then discard a card.",
    "flavor_text": "It's a memory of determination and ruin.",
    "all_sets": "Battle for Attractia"
   },
@@ -2221,7 +2221,7 @@
    "type": "Special Magic Stone",
    "artist": "狛蜜ザキ",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[G],[rest]: Produce [W],[R],[U],[G], or [B].",
+   "text": "Activate\n\n[G],[rest]: Produce [W],[R],[U],[G], or [B].",
    "flavor_text": "It's a memory of a city's first trip to the clouds.",
    "all_sets": "Battle for Attractia"
   },
@@ -2234,7 +2234,7 @@
    "type": "Special Magic Stone",
    "artist": "碧風羽",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[B][1],[rest]: Remove target card in a graveyard from the game.",
+   "text": "Activate\n\n[B][1],[rest]: Remove target card in a graveyard from the game.",
    "flavor_text": "It's a memory of a twisted love.",
    "all_sets": "Battle for Attractia"
   },
@@ -2247,7 +2247,7 @@
    "type": "Basic Magic Stone",
    "artist": "kawaryu",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Battle for Attractia"
   },
   {
@@ -2259,7 +2259,7 @@
    "type": "Basic Magic Stone",
    "artist": "BANAMONS*",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Battle for Attractia"
   },
   {
@@ -2271,7 +2271,7 @@
    "type": "Basic Magic Stone",
    "artist": "たかむらはるき",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Battle for Attractia"
   },
   {
@@ -2283,7 +2283,7 @@
    "type": "Basic Magic Stone",
    "artist": "坂井結城",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Battle for Attractia"
   },
   {
@@ -2295,7 +2295,7 @@
    "type": "Basic Magic Stone",
    "artist": "gozz",
    "expansion": "Battle for Attractia",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Battle for Attractia"
   }
  ]

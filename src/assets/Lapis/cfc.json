@@ -16,7 +16,7 @@
    "race": "Fairy Tale",
    "artist": "上條ロロ(Kamijo Roro)",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nAs long as you control \"Eternal Boy, Peter Pan\", this card cannot be attacked and gains [Flying].",
+   "text": "Continuous\n\nAs long as you control \"Eternal Boy, Peter Pan\", this card cannot be attacked and gains [Flying].",
    "flavor_text": "A girl who dreamt of flying in the wide open world.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -73,7 +73,7 @@
    "race": "Fairy Tale",
    "artist": "あき",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a Fairy Tale resonator with total cost 1 and put it into your field. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your deck for a Fairy Tale resonator with total cost 1 and put it into your field. Then shuffle your deck.",
    "flavor_text": "An eternal youth carries with him eternal dreams.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -96,7 +96,7 @@
    "race": "Fairy Tale/Fairy",
    "artist": "たかむらはるき",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nFairy Tale resonators you control with total cost 1 gain [Flying].",
+   "text": "Continuous\n\nFairy Tale resonators you control with total cost 1 gain [Flying].",
    "flavor_text": "\"You can fly too! Ah...well maybe if you were a bit lighter...\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -122,7 +122,7 @@
    "race": "Human",
    "artist": "mie",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[R]: This card gains [+200/0] and [First Strike] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [+200/0] and [First Strike] until end of turn.",
    "flavor_text": "A knight who appeared when Charlotte was in danger.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -145,7 +145,7 @@
    "race": "Heroic Spirit",
    "artist": "JURI",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen another J/resonator enters your field ⇒ It gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhen another J/resonator enters your field ⇒ It gains [+200/+200] until end of turn.",
    "flavor_text": "\"Great spirits of the past, lend me the power to save this world.\" -Glorius, the Silver Knight",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -169,7 +169,7 @@
    "type": "Addition",
    "artist": "田島幸枝",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nAt the beginning of your turn ⇒ Remove the top card of your deck from the game. If it's a Fairy Tale resonator, you may play it this turn.",
+   "text": "Automatic\n\nAt the beginning of your turn ⇒ Remove the top card of your deck from the game. If it's a Fairy Tale resonator, you may play it this turn.",
    "flavor_text": "\"Haha! Welcome to Neverland!\" -Eternal Boy, Peter Pan",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -192,7 +192,7 @@
    "race": "Human",
    "artist": "碧風羽",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nIf you would roll one or more dice using [Force], roll that many dice plus one instead.",
+   "text": "Continuous\n\nIf you would roll one or more dice using [Force], roll that many dice plus one instead.",
    "flavor_text": "Hopes connect to other hopes.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -210,7 +210,7 @@
    "type": "Addition",
    "artist": "佐々木光之介",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[Bestow] [W], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "text": "Activate\n\n[Bestow] [W], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
    "flavor_text": "That box never seems to run out of hope.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -236,7 +236,7 @@
    "race": "Fairy Tale",
    "artist": "坂井結城",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Target Fairy Tale resonator gains [+200/+1200] until end of turn.",
+   "text": "Activate\n\n[rest]: Target Fairy Tale resonator gains [+200/+1200] until end of turn.",
    "flavor_text": "\"This carriage looks pretty sturdy.\" -Light Dress Cinderella",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -279,7 +279,7 @@
    "race": "Human",
    "artist": "戯々",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[W]: This card gains [0/+200] until end of turn.",
+   "text": "Activate\n\n[W]: This card gains [0/+200] until end of turn.",
    "flavor_text": "Protectors don't mind necessary destruction.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -299,7 +299,7 @@
    "race": "Human",
    "artist": "上木乃アロエ",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: You gain 200 life.",
+   "text": "Activate\n\n[rest]: You gain 200 life.",
    "flavor_text": "Ensuring that folklore passes on to the hearts and minds of the next generation.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -313,7 +313,7 @@
    "race": "Human/Six Sages",
    "artist": "lack",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[B]: Target J/resonator loses [Flying], [First Strike], [Swiftness], [Precision], and [Imperishable] until end of turn.",
+   "text": "Activate\n\n[B]: Target J/resonator loses [Flying], [First Strike], [Swiftness], [Precision], and [Imperishable] until end of turn.",
    "flavor_text": "\"Fieth? Where'd she go? Honestly, that woman...\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -328,7 +328,7 @@
    "race": "Human/Six Sages",
    "artist": "lack",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nJ/resonators your opponent controls lose and cannot gain [Flying], [First Strike], [Swiftness], [Precision], and [Imperishable].",
+   "text": "Continuous\n\nJ/resonators your opponent controls lose and cannot gain [Flying], [First Strike], [Swiftness], [Precision], and [Imperishable].",
    "flavor_text": "\"I won't let you underestimate me again. I haven't forgotten what you said that day.\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -351,7 +351,7 @@
    "race": "Beast",
    "artist": "坂井結城",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nThis card gains [+300/+300] as long as you control \"Zero, Master of the Magic Saber\".",
+   "text": "Continuous\n\nThis card gains [+300/+300] as long as you control \"Zero, Master of the Magic Saber\".",
    "flavor_text": "\"There you are, Fieth. I bet you just wandered off on your own again.\" -Zero, Six Sage of Light",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -409,7 +409,7 @@
    "race": "Wizard",
    "artist": "tokiｗa",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\nRemove a mana counter from your J/ruler: This card gains [Swiftness] until end of turn.",
+   "text": "Activate\n\nRemove a mana counter from your J/ruler: This card gains [Swiftness] until end of turn.",
    "flavor_text": "Mana is a forgotten power present in all ancient things.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -432,7 +432,7 @@
    "race": "Seven Luminaries Demon",
    "artist": "弥生しろ",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nAt end of turn ⇒ Return this card to its owner's hand.",
+   "text": "Automatic\n\nAt end of turn ⇒ Return this card to its owner's hand.",
    "flavor_text": "That demon acts as a catalyst for fire mana when it merges with Mars' weapon.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -455,7 +455,7 @@
    "race": "Dragon Knight",
    "artist": "松本エイト",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[R]: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [Flying] until end of turn.",
    "flavor_text": "Altea made use of ancient dragons.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -476,7 +476,7 @@
    "type": "Addition",
    "artist": "kawaryu",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nResonators you control of the chosen race gain [Swiftness].",
+   "text": "Continuous\n\nResonators you control of the chosen race gain [Swiftness].",
    "flavor_text": "That library holds a limitless number of stories.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -502,7 +502,7 @@
    "race": "Myth",
    "artist": "猫えモン",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card enters your field ⇒ It deals 500 damage to each J/resonator your opponent controls, plus an additional 100 damage for each different attribute among all wills spent to play this card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ It deals 500 damage to each J/resonator your opponent controls, plus an additional 100 damage for each different attribute among all wills spent to play this card.",
    "flavor_text": "The flames from the explosion painted the sky with a myriad of colors.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -525,7 +525,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nYou pay [1] more to play this card for each card in your hand.",
+   "text": "Continuous\n\nYou pay [1] more to play this card for each card in your hand.",
    "flavor_text": "Fire dragons are adept at sniffing out magic on the battlefield.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -586,7 +586,7 @@
    "race": "Seven Luminaries Mage",
    "artist": "弥生しろ",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\nRemove a mana counter from this card: Produce [R]. Spend this will only to play Ancient Magic cards.",
+   "text": "Activate\n\nRemove a mana counter from this card: Produce [R]. Spend this will only to play Ancient Magic cards.",
    "flavor_text": "The second great wizard of Altea appeared abruptly from a rift. Bringing with him demons and fire.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -601,7 +601,7 @@
    "race": "Dark Commander",
    "artist": "弥生しろ",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\nRemove a mana counter from this card: Produce [R]. Spend this will only to play Ancient Magic cards.",
+   "text": "Activate\n\nRemove a mana counter from this card: Produce [R]. Spend this will only to play Ancient Magic cards.",
    "flavor_text": "\"You don't measure up to the power of mana. I'll show you true fire.\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -622,7 +622,7 @@
    "type": "Addition",
    "artist": "白野椋",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[Bestow] [R], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "text": "Activate\n\n[Bestow] [R], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
    "flavor_text": "\"This power isn't just for show!\" -Charlotte, the Mage of Sacred Spirit",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -648,7 +648,7 @@
    "race": "Spirit",
    "artist": "城戸春一",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nIf a fire chant would deal damage, it deals that much +200 instead.",
+   "text": "Continuous\n\nIf a fire chant would deal damage, it deals that much +200 instead.",
    "flavor_text": "Fire fuels fire.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -696,7 +696,7 @@
    "race": "Myth",
    "artist": "ユウキリリー",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhenever a resonator that was dealt damage by this card this turn is put into a graveyard ⇒ Put five [+100/+100] counters on this card.",
+   "text": "Automatic\n\nWhenever a resonator that was dealt damage by this card this turn is put into a graveyard ⇒ Put five [+100/+100] counters on this card.",
    "flavor_text": "He never comes home with anyone, but always seems to be collecting war trophies.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -736,7 +736,7 @@
    "race": "Fairy Tale",
    "artist": "乃希",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nIf this card would deal damage to a J/resonator, it deals double that much instead.",
+   "text": "Continuous\n\nIf this card would deal damage to a J/resonator, it deals double that much instead.",
    "flavor_text": "\"My punch doesn't just hit once!\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -756,7 +756,7 @@
    "race": "Dragon",
    "artist": "佐川明日香",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nYou may pay [1] less to play resonators with total cost 5 or more.",
+   "text": "Continuous\n\nYou may pay [1] less to play resonators with total cost 5 or more.",
    "flavor_text": "Scouting reduces risk and increases strategic information.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -780,7 +780,7 @@
    "type": "Addition",
    "artist": "gozz",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nEach turn, you may pay [0] to play your first chant rather than pay its cost.",
+   "text": "Continuous\n\nEach turn, you may pay [0] to play your first chant rather than pay its cost.",
    "flavor_text": "That sorcerous nation appeared from a distortion in space. Crossing over thousands of years.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -803,7 +803,7 @@
    "race": "Automaton",
    "artist": "Moopic",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nThis card gains [+200/+200] for each addition you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each addition you control.",
    "flavor_text": "This mechanical soldier moves through the power of ancient magic.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -829,7 +829,7 @@
    "race": "Fairy Tale",
    "artist": "桂福蔵",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card enters your field ⇒ Choose one -\nPut up to two target special magic stones on top of their owners' magic stone decks in any order;\nor return up to two target resonators to their owners' hands.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Choose one -\n\nPut up to two target special magic stones on top of their owners' magic stone decks in any order;\n\nor return up to two target resonators to their owners' hands.",
    "flavor_text": "Many have fallen prey to his hook.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -843,7 +843,7 @@
    "race": "Human",
    "artist": "猫囃子(Nekobayashi)",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[U], discard a card: Rest target resonator.",
+   "text": "Activate\n\n[U], discard a card: Rest target resonator.",
    "flavor_text": "With Alice's power gone and Kaguya on a journey to seek the secrets of the moon and magic stones, the girl had nothing but her will to find her way.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -858,7 +858,7 @@
    "race": "Human",
    "artist": "猫囃子(Nekobayashi)",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[U][1], discard a card: Return target resonator to its owner's hand.",
+   "text": "Activate\n\n[U][1], discard a card: Return target resonator to its owner's hand.",
    "flavor_text": "\"I won't lose my way anymore. Brother, sister...watch what I can do!\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -881,7 +881,7 @@
    "race": "Heroic Spirit",
    "artist": "Mad",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card is put into a graveyard from your hand ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your hand ⇒ Draw a card.",
    "flavor_text": "The spirits of Attoractia granted her the power to protect herself.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -921,7 +921,7 @@
    "race": "Fairy Tale",
    "artist": "石商",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[0]: Choose one. Play this ability only once per turn -\nRemove a card in your hand from the game;\nor put a card from a removed area that was removed by this card into your hand.",
+   "text": "Activate\n\n[0]: Choose one. Play this ability only once per turn -\n\nRemove a card in your hand from the game;\n\nor put a card from a removed area that was removed by this card into your hand.",
    "flavor_text": "\"Alice is out of comission, so I'll be taking over. My way's a bit different, but I can handle it.\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -944,7 +944,7 @@
    "race": "Human",
    "artist": "白野椋",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhenever you play a water chant or addition ⇒ Target resonator cannot be blocked until end of turn.",
+   "text": "Automatic\n\nWhenever you play a water chant or addition ⇒ Target resonator cannot be blocked until end of turn.",
    "flavor_text": "\"Now which way was that secret path again? Perhaps a little coin could refresh my memory.\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -967,7 +967,7 @@
    "race": "Human",
    "artist": "下江クリス",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest], rest a recovered light J/resonator, a recovered fire J/resonator, and a recovered water J/resonator you control: Shift this card.",
+   "text": "Activate\n\n[rest], rest a recovered light J/resonator, a recovered fire J/resonator, and a recovered water J/resonator you control: Shift this card.",
    "flavor_text": "\"Hehehe, I'll save you. That's no lie.\" -Nyarlathotep, the True False Legend",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -996,7 +996,7 @@
    "race": "Human",
    "artist": "下江クリス",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card enters your field or shifts ⇒ Your life becomes 4000. Put up to one target chant from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card enters your field or shifts ⇒ Your life becomes 4000. Put up to one target chant from your graveyard into your hand.",
    "flavor_text": "With Lumia free from the casket, her power restored the regalia back to planet Earth.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1020,7 +1020,7 @@
    "type": "Chant",
    "artist": "上木乃アロエ",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\nJ/resonators you control gain \"[rest]: Return target resonator your opponent controls to its owner's hand.\" until end of turn.",
+   "text": "Activate\n\nJ/resonators you control gain \"[rest]: Return target resonator your opponent controls to its owner's hand.\" until end of turn.",
    "flavor_text": "With Mercurius defeated, her power faded, and the frozen casket came open.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1043,7 +1043,7 @@
    "race": "Fairy Tale",
    "artist": "fzwrAym",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.",
    "flavor_text": "Even in water their songs can be heard.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1063,7 +1063,7 @@
    "race": "Rabbit",
    "artist": "mie",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\nBanish this card: Draw a card, then discard a card.",
+   "text": "Activate\n\nBanish this card: Draw a card, then discard a card.",
    "flavor_text": "Though lonely, the rabbit didn't give in.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1086,7 +1086,7 @@
    "race": "Wererabbit",
    "artist": "ネム",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may put target addition on top of its owner's deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may put target addition on top of its owner's deck.",
    "flavor_text": "\"I've got something else to take care of, so you guys watch over Millium, okay?\" -Kaguya, Seeker of the Magic Stones",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1128,7 +1128,7 @@
    "type": "Addition",
    "artist": "長崎祐子",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[Bestow] [U], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "text": "Activate\n\n[Bestow] [U], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
    "flavor_text": "Magic shackles that seal away special magic.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1148,7 +1148,7 @@
    "race": "Human",
    "artist": "城戸春一",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[U][U][1], [rest]: Draw a card.",
+   "text": "Activate\n\n[U][U][1], [rest]: Draw a card.",
    "flavor_text": "\"With the next card I'll...er...oh that one's no good. Maybe the next one...\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1188,7 +1188,7 @@
    "race": "Beast",
    "artist": "gekko",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card named \"Bird of Paradise, Dancing in the Sky\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your deck for a card named \"Bird of Paradise, Dancing in the Sky\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Their dance serves only to call more of their friends.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1209,7 +1209,7 @@
    "type": "Chant",
    "artist": "ねじしき",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nTarget resonator gains \"Whenever you play an activate ability of this card ⇒ Copy that ability. You may choose new targets for the copy.\" until end of turn.",
+   "text": "Automatic\n\nTarget resonator gains \"Whenever you play an activate ability of this card ⇒ Copy that ability. You may choose new targets for the copy.\" until end of turn.",
    "flavor_text": "With a toss of a single hair, Sun Wukong created a perfect copy of himself.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1232,7 +1232,7 @@
    "race": "Elf",
    "artist": "佐久間さのすけ",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\nRest a recovered Elf resonator you control: Target Elf J/resonator gains [+100/+100] until end of turn.",
+   "text": "Activate\n\nRest a recovered Elf resonator you control: Target Elf J/resonator gains [+100/+100] until end of turn.",
    "flavor_text": "No matter how far away they might be, all elves can hear that song.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1292,7 +1292,7 @@
    "type": "Addition",
    "artist": "Nagiにゃん",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[Bestow] [G], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "text": "Activate\n\n[Bestow] [G], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
    "flavor_text": "\"They have to dream and believe? Just to fly? Those fairy tale guys must have it rough.\" -Great Sky Sage, Sun Wukong",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1332,7 +1332,7 @@
    "race": "Vegetation",
    "artist": "Mがんぢー",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest], banish this card: Produce [G] for each magic counter on this card.",
+   "text": "Activate\n\n[rest], banish this card: Produce [G] for each magic counter on this card.",
    "flavor_text": "\"Melfee, bring me that plant. It'll be useful.\" -Fiethsing, Six Sage of Wind",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1397,7 +1397,7 @@
    "race": "Fairy Tale",
    "artist": "祀花よう子",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nThis card gains [Swiftness], [First Strike], and [Precision] as long as you control seven or more magic stones.",
+   "text": "Continuous\n\nThis card gains [Swiftness], [First Strike], and [Precision] as long as you control seven or more magic stones.",
    "flavor_text": "\"A crimson monster? It's you again!\" \"Hehehe, but this time I come as a friend, it's no lie.\" \"You think I'll believe you?\" \"It doesn't matter. I need your help.\" -Red Riding Hood and Nyarlathotep, the True False Legend",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1415,7 +1415,7 @@
    "type": "Addition",
    "artist": "佐川明日香",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nJ/resonators you control can block J/resonators with [Flying].",
+   "text": "Continuous\n\nJ/resonators you control can block J/resonators with [Flying].",
    "flavor_text": "Home of the elves. It cannot be seen from the outside, though outside is visible from within.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1438,7 +1438,7 @@
    "race": "Myth",
    "artist": "touge369",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nYour opponent pays [1] more to play chants.",
+   "text": "Continuous\n\nYour opponent pays [1] more to play chants.",
    "flavor_text": "\"Zhu Bajie, you mind if we finish this quickly?\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1461,7 +1461,7 @@
    "race": "Elf",
    "artist": "j-peg",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [W], [R], [U], [G], or [B].",
+   "text": "Activate\n\n[rest]: Produce [W], [R], [U], [G], or [B].",
    "flavor_text": "A gentle wind that cradles all.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1475,7 +1475,7 @@
    "race": "Wanderer",
    "artist": "kakotomirai",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[G]: Search your deck for a card named \"Flying Cloud\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[G]: Search your deck for a card named \"Flying Cloud\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"So this is the world the kids were talking about. Guess I'd better have a look around.\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1490,7 +1490,7 @@
    "race": "Myth",
    "artist": "kakotomirai",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[0]: You may put a card named \"Flying Cloud\" from your hand into your field.",
+   "text": "Activate\n\n[0]: You may put a card named \"Flying Cloud\" from your hand into your field.",
    "flavor_text": "\"Alright! Let's get buckwild!\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1513,7 +1513,7 @@
    "race": "Elf",
    "artist": "Cola",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top three cards of your deck. Put an Elf resonator from among them into your hand and the rest on the bottom of your deck in any order.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top three cards of your deck. Put an Elf resonator from among them into your hand and the rest on the bottom of your deck in any order.",
    "flavor_text": "\"Wisdom is not borrowed, only lended.\" -Elvish Teachings",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1536,7 +1536,7 @@
    "race": "Myth",
    "artist": "駒井春樹",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Continuous\nYour opponent pays [1] more to play additions and regalia.",
+   "text": "Continuous\n\nYour opponent pays [1] more to play additions and regalia.",
    "flavor_text": "\"Looks like we'll have to call Sun Wukong again. Right, Sha Wujing?\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1604,7 +1604,7 @@
    "race": "Human/Cthulhu",
    "artist": "桂福蔵",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, destroy it. If you do, this card deals 2000 damage to you.",
+   "text": "Automatic\n\nAt end of turn ⇒ If there are no limit counters on this card, destroy it. If you do, this card deals 2000 damage to you.",
    "flavor_text": "Within him sleeps an abominable power. Ancient and terrible.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1624,7 +1624,7 @@
    "race": "Cthulhu",
    "artist": "ねじしき",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card deals damage to a J/resonator ⇒ Destroy that J/resonator.",
+   "text": "Automatic\n\nWhen this card deals damage to a J/resonator ⇒ Destroy that J/resonator.",
    "flavor_text": "In the world of chaos, life is easily stolen.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1689,7 +1689,7 @@
    "race": "Oni",
    "artist": "七海ルシア",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest], banish a resonator: Destroy target resonator with total cost 3 or less.",
+   "text": "Activate\n\n[rest], banish a resonator: Destroy target resonator with total cost 3 or less.",
    "flavor_text": "That oni is always looking for a subordinate of a good throwing size, and a proper target.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1715,7 +1715,7 @@
    "race": "Wizard",
    "artist": "gozz",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[B][B][2], banish this card: You may put a Cthulhu resonator from your hand into your field.",
+   "text": "Activate\n\n[B][B][2], banish this card: You may put a Cthulhu resonator from your hand into your field.",
    "flavor_text": "With Lumia trapped in the Frozen Coffin, Alhazred's power returned.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1741,7 +1741,7 @@
    "race": "Fairy Tale",
    "artist": "上條ロロ(Kamijo Roro)",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: You may bestow a card named \"The Black Treasure Box\" from your hand to target resonator.",
+   "text": "Activate\n\n[rest]: You may bestow a card named \"The Black Treasure Box\" from your hand to target resonator.",
    "flavor_text": "\"Welcome to the Dragon Palace. I know it's a bit sudden, but would you mind holding onto something for me?\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1781,7 +1781,7 @@
    "race": "Vampire",
    "artist": "Azusa",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\nRemove a [+100/+100] counter from this card: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\nRemove a [+100/+100] counter from this card: This card gains [Flying] until end of turn.",
    "flavor_text": "\"Like Shara's, my blood isn't very sweet.\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1801,7 +1801,7 @@
    "race": "Vampire",
    "artist": "篁ふみ",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put a [+100/+100] counter on target resonator. If your opponent controls a special magic stone, put two [+100/+100] counters on that resonator instead.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put a [+100/+100] counter on target resonator. If your opponent controls a special magic stone, put two [+100/+100] counters on that resonator instead.",
    "flavor_text": "Blood becomes power.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1819,7 +1819,7 @@
    "type": "Addition",
    "artist": "Cola",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[Bestow] [B], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
+   "text": "Activate\n\n[Bestow] [B], [rest] (Bestow this card to target resonator. Play this ability only if this card is not bestowed to a card and only anytime you can play a chant.)",
    "flavor_text": "Never open it. That box invites only death.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1837,7 +1837,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[B][B][2], banish this card: Your opponent discards a card.",
+   "text": "Activate\n\n[B][B][2], banish this card: Your opponent discards a card.",
    "flavor_text": "\"Huh? Isn't that...hehehe. Things are getting interesting.\" -Nyarlathotep, the True False Legend",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1868,7 +1868,7 @@
    "race": "Human",
    "artist": "白井秀実",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Judgement\n[B][X]",
+   "text": "Judgement\n\n[B][X]",
    "flavor_text": "No one but Lunya believed there truly was a thief with the key for every lock.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1883,7 +1883,7 @@
    "race": "Human/Cthulhu",
    "artist": "白井秀実",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nAt beginning of turn ⇒ If there are no limit counters on this card, put it into your ruler area, as a ruler. If you do, you lose 500 life.",
+   "text": "Automatic\n\nAt beginning of turn ⇒ If there are no limit counters on this card, put it into your ruler area, as a ruler. If you do, you lose 500 life.",
    "flavor_text": "\"Open whichever you like. Each one leads you closer to madness.\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1906,7 +1906,7 @@
    "race": "Fairy Tale",
    "artist": "祀花よう子",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a card named \"The Black Treasure Box\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a card named \"The Black Treasure Box\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Hey! You over there! Leave the finishing blow to me!\"",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1919,7 +1919,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [G] or [B].",
+   "text": "Activate\n\n[rest]: Produce [G] or [B].",
    "flavor_text": "A darkness cast from the absence of light; A tranquility devoid of all sound.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1932,7 +1932,7 @@
    "type": "Special Magic Stone",
    "artist": "下江クリス",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "text": "Activate\n\n[rest]: Produce [G] or [R].",
    "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1945,7 +1945,7 @@
    "type": "Special Magic Stone",
    "artist": "長崎祐子",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "text": "Activate\n\n[rest]: Produce [B] or [U].",
    "flavor_text": "Movements within the dark and murky depths.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1958,7 +1958,7 @@
    "type": "Special Magic Stone",
    "artist": "佐々木光之介",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [G] or [U].",
+   "text": "Activate\n\n[rest]: Produce [G] or [U].",
    "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1971,7 +1971,7 @@
    "type": "Special Magic Stone",
    "artist": "猫囃子(Nekobayashi)",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [W] or [G].",
+   "text": "Activate\n\n[rest]: Produce [W] or [G].",
    "flavor_text": "A momentary shine that reflects in the sky.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1984,7 +1984,7 @@
    "type": "Special Magic Stone",
    "artist": "gozz",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [R] or [U].",
+   "text": "Activate\n\n[rest]: Produce [R] or [U].",
    "flavor_text": "A passion like burning flames; A presence as cold as ice.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -1997,7 +1997,7 @@
    "type": "Special Magic Stone",
    "artist": "長崎祐子",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [W] or [R].",
+   "text": "Activate\n\n[rest]: Produce [W] or [R].",
    "flavor_text": "A piercing gleam of blinding light; An incandescent glow that cannot be touched.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -2010,7 +2010,7 @@
    "type": "Special Magic Stone",
    "artist": "猫囃子(Nekobayashi)",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "text": "Activate\n\n[rest]: Produce [W] or [B].",
    "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -2023,7 +2023,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [W] or [U].",
+   "text": "Activate\n\n[rest]: Produce [W] or [U].",
    "flavor_text": "The shining paths that branch from the crossroad.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -2036,7 +2036,7 @@
    "type": "Special Magic Stone",
    "artist": "Nagiにゃん",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [B] or [R].",
+   "text": "Activate\n\n[rest]: Produce [B] or [R].",
    "flavor_text": "Hidden within the night, the burning spiral of seeds.",
    "all_sets": "Curse of the Frozen Casket"
   },
@@ -2049,7 +2049,7 @@
    "type": "Basic Magic Stone",
    "artist": "たかむらはるき",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Curse of the Frozen Casket"
   },
   {
@@ -2061,7 +2061,7 @@
    "type": "Basic Magic Stone",
    "artist": "gozz",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Curse of the Frozen Casket"
   },
   {
@@ -2073,7 +2073,7 @@
    "type": "Basic Magic Stone",
    "artist": "坂井結城",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Curse of the Frozen Casket"
   },
   {
@@ -2085,7 +2085,7 @@
    "type": "Basic Magic Stone",
    "artist": "kawaryu",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Curse of the Frozen Casket"
   },
   {
@@ -2097,7 +2097,7 @@
    "type": "Basic Magic Stone",
    "artist": "白野椋",
    "expansion": "Curse of the Frozen Casket",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Curse of the Frozen Casket"
   }
  ]

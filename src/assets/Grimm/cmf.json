@@ -19,7 +19,7 @@
    "race": "Human",
    "artist": "城戸春一",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nFairy Tales you control cannot be targeted by spells or abilities your opponent controls.",
+   "text": "Continuous\n\nFairy Tales you control cannot be targeted by spells or abilities your opponent controls.",
    "flavor_text": "After seeing Prince Grimm's interest in them, he too realized the mysterious power of fairy tales. That is why he teaches them.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -42,7 +42,7 @@
    "race": "Fairy Tale/Human/Prince",
    "artist": "ハタリス",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[0]: This card loses all abilities until end of turn. Play this ability only if you control \"Rapunzel, the Long-Haired Princess\".",
+   "text": "Activate\n\n[0]: This card loses all abilities until end of turn. Play this ability only if you control \"Rapunzel, the Long-Haired Princess\".",
    "flavor_text": "The magical power held within Rapunzel's tears restores the eyesight of the once cursed prince. —from the fairy tale \"Rapunzel\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -62,7 +62,7 @@
    "race": "Fairy Tale/Human",
    "artist": "tokiwa",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Move target [Addition: Resonator] you control onto another resonator.",
+   "text": "Activate\n\n[rest]: Move target [Addition: Resonator] you control onto another resonator.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -95,7 +95,7 @@
    "race": "Human",
    "artist": "城戸春一",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[1], discard a Fairy Tale resonator: Search your deck for a Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your deck. Play this ability only once per turn.",
+   "text": "Activate\n\n[1], discard a Fairy Tale resonator: Search your deck for a Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your deck. Play this ability only once per turn.",
    "flavor_text": "Prince Grimm never needed to read fairy tales; the spirits within told him of their own stories.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -114,7 +114,7 @@
    "race": "(Relic)",
    "artist": "Mz.縞",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Remove all damage that was dealt to target J-ruler this turn.",
+   "text": "Activate\n\n[rest]: Remove all damage that was dealt to target J-ruler this turn.",
    "flavor_text": "One of the man-made relics of this world. Nobody knows how to use the grail to its full potential.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -136,7 +136,7 @@
    "race": "(Treasury Item)",
    "artist": "Cola",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[W], [rest]: Rest up to two target fire and/or darkness resonators.",
+   "text": "Activate\n\n[W], [rest]: Rest up to two target fire and/or darkness resonators.",
    "flavor_text": "How does one distinguish between the real and a fake? It's simple - destroy all but one. That then becomes the real one. —Fakes,Fake Master",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -159,7 +159,7 @@
    "race": "Fairy Tale/Human",
    "artist": "gekko",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nAs long as you control \"Romeo, the Despair\", Nightmare resonators lose Nightmare and gain Fairy Tale.",
+   "text": "Continuous\n\nAs long as you control \"Romeo, the Despair\", Nightmare resonators lose Nightmare and gain Fairy Tale.",
    "flavor_text": "\"O Romeo, Romeo! Wherefore art thou Romeo?\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -182,7 +182,7 @@
    "race": "Fairy Tale/Human",
    "artist": "見田航介",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Put target [Addition:Resonator] from your graveyard into your hand.",
+   "text": "Automatic\n\n[Enter]Put target [Addition:Resonator] from your graveyard into your hand.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -207,7 +207,7 @@
    "race": "Human/Knight",
    "artist": "サウマロ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\nBanish this card: Target light J/resonator you control cannot be targeted by spells or abilities until end of turn.",
+   "text": "Activate\n\nBanish this card: Target light J/resonator you control cannot be targeted by spells or abilities until end of turn.",
    "flavor_text": "\"I am not afraid to die for my lord... being unable to protect my lord is my true fear.\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -248,7 +248,7 @@
    "race": "(Castle)",
    "artist": "Moopic",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[W], banish this card: Destroy target addition.",
+   "text": "Activate\n\n[W], banish this card: Destroy target addition.",
    "flavor_text": "A shining symbol of hope for the human race.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -262,7 +262,7 @@
    "race": "Human",
    "artist": "碧風羽",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Judgement\n[W][B][3]",
+   "text": "Judgement\n\n[W][B][3]",
    "flavor_text": "She must ask her heart for that which she truly desires - true hope or absolute despair...",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -277,7 +277,7 @@
    "race": "Human",
    "artist": "碧風羽",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Destroy all resonators.",
+   "text": "Automatic\n\n[Enter]Destroy all resonators.",
    "flavor_text": "True hope begins to write the story of the future.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -303,7 +303,7 @@
    "race": "Fairy Tale/Human",
    "artist": "ハタリス",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Target resonator gains [+200/+0] and [Flying] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator gains [+200/+0] and [Flying] until end of turn.",
    "flavor_text": "\"If you use her hair I think it might be possible to climb the tower and reach the skies!\". —Swordman of Full Moon",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -341,7 +341,7 @@
    "race": "(Weapon)",
    "artist": "Mがんぢー",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[W]: Return this card to its owner's hand.",
+   "text": "Activate\n\n[W]: Return this card to its owner's hand.",
    "flavor_text": "A human tool that will return the mortal agony once felt back unto vampires.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -383,7 +383,7 @@
    "race": "Fairy Tale/Human",
    "artist": "douzen",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\nYour opponent cannot add [Addition: Resonator] cards.",
+   "text": "Activate\n\nYour opponent cannot add [Addition: Resonator] cards.",
    "flavor_text": "\"Perhaps you should try some new clothes on too!\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -403,7 +403,7 @@
    "race": "Fairy Tale/Spirit",
    "artist": "トリダモノ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nThis card gains [+200/+200] for each Fairy Tale you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each Fairy Tale you control.",
    "flavor_text": "The size of one's spirit is what shall determine a fight.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -425,7 +425,7 @@
    "race": "(Arcane Item)",
    "artist": "河北亜希",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[R]: Return this card to its owner's hand.",
+   "text": "Activate\n\n[R]: Return this card to its owner's hand.",
    "flavor_text": "Nobody knows what is inside the basket - not even Little Red Riding Hood herself.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -447,7 +447,7 @@
    "race": "Moon",
    "artist": "七海ルシア",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\nBanish this card: Destroy target special magic stone.",
+   "text": "Activate\n\nBanish this card: Destroy target special magic stone.",
    "flavor_text": "As the wolves indulge themselves in the night, humanity will start to fade.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -489,7 +489,7 @@
    "race": "Nightmare/Werewolf",
    "artist": "スギカワタクミ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]This card deals 400 damage to target resonator for each Werewolf you control.",
+   "text": "Automatic\n\n[Enter]This card deals 400 damage to target resonator for each Werewolf you control.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -514,7 +514,7 @@
    "race": "Fantasy/Dragon",
    "artist": "kakotomirai",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhen this card is destroyed ⇒ You may banish three fire magic stones. If you do, put this card from your graveyard into your field.",
+   "text": "Automatic\n\nWhen this card is destroyed ⇒ You may banish three fire magic stones. If you do, put this card from your graveyard into your field.",
    "flavor_text": "\"If my fantasies become reality, then your reality shall become fantasy.\" —Jeanne d'Arc, the Flame of Hatred",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -537,7 +537,7 @@
    "race": "Fairy Tale/Human",
    "artist": "河北亜希",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhenever a Werewolf enters a field ⇒ Switch the ATK and DEF of this card until end of turn.",
+   "text": "Automatic\n\nWhenever a Werewolf enters a field ⇒ Switch the ATK and DEF of this card until end of turn.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -568,7 +568,7 @@
    "race": "Little Girl",
    "artist": "Azusa",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Judgement\n[0] Play this ability only if you put a Moon into a field this turn.",
+   "text": "Judgement\n\n[0] Play this ability only if you put a Moon into a field this turn.",
    "flavor_text": "\"Once upon a time there was a dear little girl who always wore a red hood...\" —from the fairy tale \"Little Red Riding Hood\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -583,7 +583,7 @@
    "race": "Little Wolf-Girl",
    "artist": "Azusa",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nAt the end of turn ⇒ Put this card into your ruler area as a ruler.",
+   "text": "Automatic\n\nAt the end of turn ⇒ Put this card into your ruler area as a ruler.",
    "flavor_text": "As a wolf girl, Little Red was alot more honest than the wolf she once knew.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -609,7 +609,7 @@
    "race": "Nightmare/Werewolf",
    "artist": "草薙蝶炎",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nWhenever a Werewolf you control attacks ⇒ This card deals 100 damage to your opponent. If you control a Moon, this card deals 200 damage instead.",
+   "text": "Continuous\n\nWhenever a Werewolf you control attacks ⇒ This card deals 100 damage to your opponent. If you control a Moon, this card deals 200 damage instead.",
    "flavor_text": "Wolves attack before their foes have chance to defend. That is their way.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -632,7 +632,7 @@
    "race": "Nightmare/Werewolf",
    "artist": "松本エイト",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nWhenever you play a normal spell ⇒ This card gains [First Strike] and [Swiftness] until end of turn.",
+   "text": "Continuous\n\nWhenever you play a normal spell ⇒ This card gains [First Strike] and [Swiftness] until end of turn.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -654,7 +654,7 @@
    "race": "Nightmare/Snow",
    "artist": "サウマロ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Banish a magic stone.",
+   "text": "Automatic\n\n[Enter]Banish a magic stone.",
    "flavor_text": "\"He has turned on his own creators, and is destined to disappear someday.\" —Snow White",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -716,7 +716,7 @@
    "race": "Arcane Item",
    "artist": "草薙蝶炎",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhenever added resonator becomes rested ⇒ This card deals 500 damage to that resonator's controller.",
+   "text": "Automatic\n\nWhenever added resonator becomes rested ⇒ This card deals 500 damage to that resonator's controller.",
    "flavor_text": "\"Dance... Until you die.\" —Snow White",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -738,7 +738,7 @@
    "race": "(Treasury Item)",
    "artist": "Cola",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Prevent all damage that would be dealt by target fire resonator until end of turn.",
+   "text": "Activate\n\n[rest]: Prevent all damage that would be dealt by target fire resonator until end of turn.",
    "flavor_text": "\"What?! I can't use this to keep myself warm!\" —Little Red Riding Hood",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -761,7 +761,7 @@
    "race": "Nightmare/Killer",
    "artist": "下江クリス",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nAs you choose a card to attack, you must choose this card if able.",
+   "text": "Continuous\n\nAs you choose a card to attack, you must choose this card if able.",
    "flavor_text": "With seven heads together, they could do some great things. But then again, they could do some terrible things too.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -775,7 +775,7 @@
    "race": "Human",
    "artist": "今野隼史",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Judgement\n[1], discard \"Poison Apple\"",
+   "text": "Judgement\n\n[1], discard \"Poison Apple\"",
    "flavor_text": "Perhaps she had a Nightmare while she was sleeping?",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -790,7 +790,7 @@
    "race": "Nightmare/Human",
    "artist": "今野隼史",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[1], discard \"Poison Apple\": Destroy target resonator.",
+   "text": "Activate\n\n[1], discard \"Poison Apple\": Destroy target resonator.",
    "flavor_text": "Ignoring her better judgment, she took a bite out of the apple. The first bite was sweet; but the second was much more bitter...",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -810,7 +810,7 @@
    "race": "Nightmare/Werewolf",
    "artist": "もぐも",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhen this card is destroyed ⇒ If you don't control a Moon, this card deals 500 damage to you.",
+   "text": "Automatic\n\nWhen this card is destroyed ⇒ If you don't control a Moon, this card deals 500 damage to you.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -849,7 +849,7 @@
    "race": "Wererabbit",
    "artist": "長崎祐子",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nThis card gains [+300/+300] for each other Wererabbit you control.",
+   "text": "Continuous\n\nThis card gains [+300/+300] for each other Wererabbit you control.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -871,7 +871,7 @@
    "race": "Nightmare/Human",
    "artist": "スギカワタクミ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[1], banish a Human resonator: Return target resonator to its owner's hand.",
+   "text": "Activate\n\n[1], banish a Human resonator: Return target resonator to its owner's hand.",
    "flavor_text": "The assumed emperor conjured up by an illusion.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -894,7 +894,7 @@
    "race": "Cthulhu",
    "artist": "douzen",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nThis card gains [+200/+200] for each resonator in your graveyard.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each resonator in your graveyard.",
    "flavor_text": "The Prince Grimm was unable to figure out where exactly these beings had come from.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -915,7 +915,7 @@
    "type": "Chant",
    "artist": "Cola",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhen you put a Treasury Item into a field ⇒ Put this card from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen you put a Treasury Item into a field ⇒ Put this card from your graveyard into your hand.",
    "flavor_text": "There is no one challenge too difficult to achieve.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -941,7 +941,7 @@
    "race": "Fairy Tale/Mage",
    "artist": "みえ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhenever this card attacks ⇒ Rest target resonator your opponent controls. It doesn't recover during the recovery phase as long as this card is in a field.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Rest target resonator your opponent controls. It doesn't recover during the recovery phase as long as this card is in a field.",
    "flavor_text": "The sounds of his flute can entice anything; even vampires.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -966,7 +966,7 @@
    "race": "(Treasury Item)",
    "artist": "夕子",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nGain control of added resonator if its total cost is 2 or less. That resonator's attribute becomes water.",
+   "text": "Continuous\n\nGain control of added resonator if its total cost is 2 or less. That resonator's attribute becomes water.",
    "flavor_text": "\"Sometimes it's easier to establish consciousness anew than to alter parts of it.\" —Seer of Blue Moon",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1003,7 +1003,7 @@
    "race": "Wererabbit/Knight",
    "artist": "夕子",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Draw a card, then discard a card.",
+   "text": "Activate\n\n[rest]: Draw a card, then discard a card.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -1016,7 +1016,7 @@
    "race": "Human",
    "artist": "ひがし",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Judgement\n[R][U][2] If a Human was put into your graveyard from a field this turn, you may pay [0] to play this ability instead.",
+   "text": "Judgement\n\n[R][U][2] If a Human was put into your graveyard from a field this turn, you may pay [0] to play this ability instead.",
    "flavor_text": "\"Who... am I? ...You? These voices...\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1031,7 +1031,7 @@
    "race": "Nightmare/Human",
    "artist": "ピスケ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Prevent all damage that would be dealt by target Human resonator until end of turn.",
+   "text": "Activate\n\n[rest]: Prevent all damage that would be dealt by target Human resonator until end of turn.",
    "flavor_text": "\"I can hear the voice of God... it tells me to pass judgment on all sinners!\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1054,7 +1054,7 @@
    "race": "Fairy Tale/Human",
    "artist": "るみえ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhenever this card deals damage to a resonator ⇒ Destroy that resonator.",
+   "text": "Automatic\n\nWhenever this card deals damage to a resonator ⇒ Destroy that resonator.",
    "flavor_text": "\"Lucky I'm small - I can clearly see all your weak points!\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1076,7 +1076,7 @@
    "race": "Moon",
    "artist": "kawaryu",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[U], banish this card: Return target resonator to its owner's hand.",
+   "text": "Activate\n\n[U], banish this card: Return target resonator to its owner's hand.",
    "flavor_text": "The night of the rabbits is initiated through ancient and secret maneuvers…",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1115,7 +1115,7 @@
    "race": "Arcane Item",
    "artist": "みえ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nAs long as added resonator is \"Hamelin's Pied Piper\", it gains \"pay [U]: Recover this card. \"",
+   "text": "Continuous\n\nAs long as added resonator is \"Hamelin's Pied Piper\", it gains \"pay [U]: Recover this card. \"",
    "flavor_text": "The sounds of the flute influence the heart, rather than the ears.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1129,7 +1129,7 @@
    "race": "Human",
    "artist": "百舌鳥",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nYou pay [1] to put cards into your standby area rather than pay [2].",
+   "text": "Continuous\n\nYou pay [1] to put cards into your standby area rather than pay [2].",
    "flavor_text": "\"Once the blue moon shines in the night sky, the prophecies shall come true.\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1143,7 +1143,7 @@
    "race": "Human",
    "artist": "百舌鳥",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[U][U][1]: Search your deck for a Treasury Item, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[U][U][1]: Search your deck for a Treasury Item, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "When Kaguya touches the ancient treasures, they begin to shine with new life.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1166,7 +1166,7 @@
    "race": "Wererabbit",
    "artist": "塗夢",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nThis card gains [+400/+400] for each Treasury Item you control.",
+   "text": "Continuous\n\nThis card gains [+400/+400] for each Treasury Item you control.",
    "flavor_text": "\"There are many sides to the moon, but the princess may be the only one to truly understand them all.\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1189,7 +1189,7 @@
    "race": "Cthulhu",
    "artist": "Mad",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ Put the top three cards of your magic stone deck into your graveyard. If you cannot put three cards into your graveyard this way, banish this card and you lose 1000 life. (If you have less than three cards in your magic stone deck, put all cards of your magic stone deck into your graveyard instead.)",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ Put the top three cards of your magic stone deck into your graveyard. If you cannot put three cards into your graveyard this way, banish this card and you lose 1000 life. (If you have less than three cards in your magic stone deck, put all cards of your magic stone deck into your graveyard instead.)",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -1207,7 +1207,7 @@
    "race": "(Treasury Item)",
    "artist": "Cola",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Target resonator cannot be blocked by water resonators until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator cannot be blocked by water resonators until end of turn.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -1232,7 +1232,7 @@
    "race": "Wererabbit",
    "artist": "石商",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Return target resonator to its owner's hand.",
+   "text": "Automatic\n\n[Enter]Return target resonator to its owner's hand.",
    "flavor_text": "Kaguya commands many soldiers ranked by the shapes of the moon. Only those with the highest skill are ranked under the full moon.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1298,7 +1298,7 @@
    "race": "Fairy Tale/Musketeer",
    "artist": "下江クリス",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Produce [G] for each Musketeer resonator you control.",
+   "text": "Automatic\n\n[Enter]Produce [G] for each Musketeer resonator you control.",
    "flavor_text": "\"Actually, I don't like to fight very much. Let's leave it to Athos and Porthos eh? I'll support them!\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1324,7 +1324,7 @@
    "race": "Fairy Tale/Musketeer",
    "artist": "下江クリス",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Search your deck for an [Addition: Resonator], reveal it and put it into your hand. If your ruler is \"Puss in Boots\" or your J-ruler is \"D'Artagnan, the Bayoneteer\", you may add it to this card instead. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter]Search your deck for an [Addition: Resonator], reveal it and put it into your hand. If your ruler is \"Puss in Boots\" or your J-ruler is \"D'Artagnan, the Bayoneteer\", you may add it to this card instead. Then shuffle your deck.",
    "flavor_text": "When the bond between these allies formed, they cheered with joy. These shouts soon became their battlecry.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1338,7 +1338,7 @@
    "race": "Elf",
    "artist": "touge369",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Draw a card. Play this ability only if you have exactly five cards in your hand.",
+   "text": "Activate\n\n[rest]: Draw a card. Play this ability only if you have exactly five cards in your hand.",
    "flavor_text": "A cunning tracker chases that which cannot be seen with naked eyes.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1353,7 +1353,7 @@
    "race": "Elf",
    "artist": "touge369",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Target non-Human J/resonator loses all abilities until end of turn. At the end of turn ⇒ destroy it.",
+   "text": "Automatic\n\n[Enter]Target non-Human J/resonator loses all abilities until end of turn. At the end of turn ⇒ destroy it.",
    "flavor_text": "\"I lost my faith a long time ago. Slaying vampires is my only motivation now.\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1372,7 +1372,7 @@
    "race": "(House)",
    "artist": "佐久間さのすけ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[G], [rest]: Remove target resonator you control from the game.",
+   "text": "Activate\n\n[G], [rest]: Remove target resonator you control from the game.",
    "flavor_text": "Adults bore easily due to their experiences. Children on the other hand will always have fun.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1394,7 +1394,7 @@
    "race": "(Treasury Item)",
    "artist": "Cola",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Target wind resonator cannot be targeted by spells or abilities your opponent controls until end of turn.",
+   "text": "Activate\n\n[rest]: Target wind resonator cannot be targeted by spells or abilities your opponent controls until end of turn.",
    "flavor_text": "You cannot obtain your desire merely through hard times.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1416,7 +1416,7 @@
    "race": "(Weapon)",
    "artist": "Mがんぢー",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nAdded resonator gains [-1000/-1000] if it's a Vampire. Otherwise, it cannot be attacked or targeted by spells or abilities your opponent controls.",
+   "text": "Continuous\n\nAdded resonator gains [-1000/-1000] if it's a Vampire. Otherwise, it cannot be attacked or targeted by spells or abilities your opponent controls.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -1435,7 +1435,7 @@
    "race": "Elf",
    "artist": "トリダモノ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Destroy target addition.",
+   "text": "Activate\n\n[rest]: Destroy target addition.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -1457,7 +1457,7 @@
    "race": "Elf",
    "artist": "mn3画",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Destroy target Vampire resonator.",
+   "text": "Automatic\n\n[Enter]Destroy target Vampire resonator.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -1476,7 +1476,7 @@
    "race": "Elf",
    "artist": "Moopic",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -1501,7 +1501,7 @@
    "race": "Elf",
    "artist": "佐久間さのすけ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nOther Elves you control gain [+400/+400].",
+   "text": "Continuous\n\nOther Elves you control gain [+400/+400].",
    "flavor_text": "She performs two different renditions- the first a hymn to inspire one with courage; the other a requiem which leads one into everlasting sleep.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1524,7 +1524,7 @@
    "race": "Fairy Tale/Human",
    "artist": "乃希",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Reveal the top card of your magic stone deck. If it's a wind magic stone, put it into your magic stone area.",
+   "text": "Automatic\n\n[Enter]Reveal the top card of your magic stone deck. If it's a wind magic stone, put it into your magic stone area.",
    "flavor_text": "\"Brother! these sweets are ours now! We must protect them!\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1550,7 +1550,7 @@
    "race": "Fairy Tale/Human",
    "artist": "乃希",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ Draw a card.",
+   "text": "Automatic\n\nWhenever this card deals damage to your opponent ⇒ Draw a card.",
    "flavor_text": "\"Gretel, look at that! A huge house made of candy!\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1589,7 +1589,7 @@
    "race": "(Weapon)",
    "artist": "サウマロ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nAdded resonator gains [+400/+0]. If it's a Musketeer, it also gains [First Strike] and [Pierce].",
+   "text": "Continuous\n\nAdded resonator gains [+400/+0]. If it's a Musketeer, it also gains [First Strike] and [Pierce].",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -1627,7 +1627,7 @@
    "race": "Fairy Tale/Cat",
    "artist": "ケルビン",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nYou may pay [1] less to play Musketeer resonators.",
+   "text": "Continuous\n\nYou may pay [1] less to play Musketeer resonators.",
    "flavor_text": "\"Give me my boots, my hat and good company, then there's nothing I can't do!\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1642,7 +1642,7 @@
    "race": "Fairy Tale/Musketeer",
    "artist": "ケルビン",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nMusketeer resonators you control gain [+400/+400].",
+   "text": "Continuous\n\nMusketeer resonators you control gain [+400/+400].",
    "flavor_text": "They taught their foes the weakness in fighting alone. They never gave them chance to use that lesson for next time.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1698,7 +1698,7 @@
    "race": "Vampire",
    "artist": "Fushikaden",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Target resonator gains [+0/-300] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator gains [+0/-300] until end of turn.",
    "flavor_text": "\"Fear is a disease that infects most quickly. These nightmares will soon spread throughout the world.\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1713,7 +1713,7 @@
    "race": "Vampire",
    "artist": "Fushikaden",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ If it was dealt damage by this card this turn, put it into your field under your control. It gains Nightmare and Vampire in addition to its own race.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ If it was dealt damage by this card this turn, put it into your field under your control. It gains Nightmare and Vampire in addition to its own race.",
    "flavor_text": "Many have crossed his path, and all end up his undead slaves.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1735,7 +1735,7 @@
    "race": "(Castle)",
    "artist": "Moopic",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[B], banish this card: Put target Vampire resonator from your graveyard into your hand.",
+   "text": "Activate\n\n[B], banish this card: Put target Vampire resonator from your graveyard into your hand.",
    "flavor_text": "A paradise of despair for those who were once human, but remain no more.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1757,7 +1757,7 @@
    "race": "(Tool)",
    "artist": "Cola",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[B]: Return this card to its owner's hand.",
+   "text": "Activate\n\n[B]: Return this card to its owner's hand.",
    "flavor_text": "\"Vampire or not, trapped in here you will remain quiet for good.\" —Alucard, the Dark Noble",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1803,7 +1803,7 @@
    "race": "Vampire",
    "artist": "Mad",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Destroy target non-Vampire resonator. If your ruler is \"Alucard, the Dark Noble\" or your J-ruler is \"Dracula, the Demonic One\", and the resonator destroyed this way is a Human, put it into your field under your control. It loses all races and becomes a Vampire.",
+   "text": "Automatic\n\n[Enter]Destroy target non-Vampire resonator. If your ruler is \"Alucard, the Dark Noble\" or your J-ruler is \"Dracula, the Demonic One\", and the resonator destroyed this way is a Human, put it into your field under your control. It loses all races and becomes a Vampire.",
    "flavor_text": "Warlock Dracula summons his best vampires for the highest of his biddings.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1826,7 +1826,7 @@
    "race": "Nightmare/Human",
    "artist": "lack",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\nBanish a resonator: This card deals 200 damage to each resonator your opponent controls.",
+   "text": "Activate\n\nBanish a resonator: This card deals 200 damage to each resonator your opponent controls.",
    "flavor_text": "\"Oh? This prince is all used up. I must go find another.\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1849,7 +1849,7 @@
    "race": "Nightmare/Immortal/Prince",
    "artist": "Mz.縞",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Put target resonator from your graveyard into your hand.",
+   "text": "Automatic\n\n[Enter]Put target resonator from your graveyard into your hand.",
    "flavor_text": "He mistakenly believed Snow White was already dead. That is why he took her body to his castle.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1871,7 +1871,7 @@
    "race": "(Treasury Item)",
    "artist": "Cola",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[B], [rest]: Put target darkness addition from your graveyard into your hand.",
+   "text": "Activate\n\n[B], [rest]: Put target darkness addition from your graveyard into your hand.",
    "flavor_text": "\"Oh? You want something unreasonable? Then you must suffer something unbearable.\" —from the fairy tale \"The Tale of the Bamboo Cutter\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1894,7 +1894,7 @@
    "race": "Vampire",
    "artist": "tokiwa",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Search your deck for a Vampire resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter]Search your deck for a Vampire resonator, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "She loves telling humans of old tales, but they never reach the end before her thirst takes over.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1929,7 +1929,7 @@
    "race": "Human",
    "artist": "碧風羽",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Your opponent discards his or her hand.",
+   "text": "Automatic\n\n[Enter]Your opponent discards his or her hand.",
    "flavor_text": "Then, all hope was shut from this world.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -1952,7 +1952,7 @@
    "race": "Nightmare/Witch",
    "artist": "kakotomirai",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\n[Enter]Resonators you control gain [Flying] and [Swiftness] until end of turn.",
+   "text": "Automatic\n\n[Enter]Resonators you control gain [Flying] and [Swiftness] until end of turn.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -1994,7 +1994,7 @@
    "race": "Nightmare/Immortal",
    "artist": "gekko",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Automatic\nWhen this card is put into your graveyard from a field ⇒ If you control \"Juliet, the Hope\", you may pay [B]. If you do, put this card from your graveyard into your field.",
+   "text": "Automatic\n\nWhen this card is put into your graveyard from a field ⇒ If you control \"Juliet, the Hope\", you may pay [B]. If you do, put this card from your graveyard into your field.",
    "flavor_text": "\"Oh, Juliet, why must thou depart without me? I cannot live if it must be without you.\"",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -2014,7 +2014,7 @@
    "race": "Vampire",
    "artist": "てつお",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nAs your opponent plays a spell or ability targeting a Vampire you control, he or she must choose this card as one of its targets if able.",
+   "text": "Continuous\n\nAs your opponent plays a spell or ability targeting a Vampire you control, he or she must choose this card as one of its targets if able.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -2032,7 +2032,7 @@
    "race": "(Arcane Item)",
    "artist": "河北亜希",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nAdded resonator gains [+600/+600] if it's darkness and its printed ATK and DEF is [400/400]. Otherwise, it gains [-400/-400].",
+   "text": "Continuous\n\nAdded resonator gains [+600/+600] if it's darkness and its printed ATK and DEF is [400/400]. Otherwise, it gains [-400/-400].",
    "flavor_text": "\"You cut off your own toes to fit into this shoe? What foolish sisters!\" —Cinderella, the Ashen Maiden",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -2075,7 +2075,7 @@
    "race": "Vampire",
    "artist": "下江クリス",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[B]: This card gains [+200/+0] until end of turn.",
+   "text": "Activate\n\n[B]: This card gains [+200/+0] until end of turn.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -2097,7 +2097,7 @@
    "race": "Vampire",
    "artist": "kawaryu",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Continuous\nAt the beginning of your recovery phase ⇒ Reveal the top card of your deck. This card deals 100 damage to target player for each will symbol on the attribute cost of the revealed card and you gain that much life.",
+   "text": "Continuous\n\nAt the beginning of your recovery phase ⇒ Reveal the top card of your deck. This card deals 100 damage to target player for each will symbol on the attribute cost of the revealed card and you gain that much life.",
    "flavor_text": "Even a vampire must pay the price of blood.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -2110,7 +2110,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [G] or [B].",
+   "text": "Activate\n\n[rest]: Produce [G] or [B].",
    "flavor_text": "A darkness cast from the absence of light; A tranquility devoid of all sound.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -2123,7 +2123,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [G] or [U].",
+   "text": "Activate\n\n[rest]: Produce [G] or [U].",
    "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -2136,7 +2136,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [R] or [U].",
+   "text": "Activate\n\n[rest]: Produce [R] or [U].",
    "flavor_text": "A passion like burning flames; A presence as cold as ice.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -2149,7 +2149,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [W] or [R].",
+   "text": "Activate\n\n[rest]: Produce [W] or [R].",
    "flavor_text": "A piercing gleam of blinding light; An incandescent glow that cannot be touched.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -2162,7 +2162,7 @@
    "type": "Special Magic Stone",
    "artist": "影山キナ",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "text": "Activate\n\n[rest]: Produce [W] or [B].",
    "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
@@ -2175,7 +2175,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -2187,7 +2187,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -2199,7 +2199,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -2211,7 +2211,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Crimson Moon'sFairy Tale"
   },
   {
@@ -2223,7 +2223,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "Crimson Moon'sFairy Tale",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Crimson Moon'sFairy Tale"
   }
  ]

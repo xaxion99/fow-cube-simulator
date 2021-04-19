@@ -77,7 +77,7 @@
    "race": "Rabbit",
    "artist": "Saiko Takaki",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ You may remove target non-magic stone, non-J-ruler entity from the game.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ You may remove target non-magic stone, non-J-ruler entity from the game.",
    "flavor_text": "\"Everyone's always worrying over pointless things. Just come with me instead!\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -121,7 +121,7 @@
    "race": "Beast",
    "artist": "Retro",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nThis card gains [+100/+100] for each gem you control.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each gem you control.",
    "flavor_text": "\"Too much of one thing? Nonsense. You can never have enough gems!\" -Taegrus Pearlshine",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -147,7 +147,7 @@
    "race": "Panda",
    "artist": "Haruki Komai",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nYou may pay [1] less to play this card for each gem you banished this turn.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each gem you banished this turn.",
    "flavor_text": "Each fragmented gem fuels her fighting spirit.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -192,7 +192,7 @@
    "race": "Panda",
    "artist": "Nekobayashi",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Prevent the next 500 damage that would be dealt to target J/resonator or yourself this turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Prevent the next 500 damage that would be dealt to target J/resonator or yourself this turn.",
    "flavor_text": "She has always watched over the prince without fail, by his side since birth.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -215,7 +215,7 @@
    "race": "Human",
    "artist": "Mayo",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your turn ⇒ You gain 100 life for each card in your hand.",
+   "text": "Automatic\n\nAt the beginning of your turn ⇒ You gain 100 life for each card in your hand.",
    "flavor_text": "\"Just so you know, I ain't doing this just for fun.\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -295,7 +295,7 @@
    "race": "Panda",
    "artist": "Nagi-nyan",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target addition. If you do, search your deck for an addition, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Destroy target addition. If you do, search your deck for an addition, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Someone made this one too gaudy as well, but we can fix it!\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -315,7 +315,7 @@
    "race": "Panda",
    "artist": "Hayama Kohei",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nThis card gains [+100/+100] as long as you control two or more Pandas.",
+   "text": "Continuous\n\nThis card gains [+100/+100] as long as you control two or more Pandas.",
    "flavor_text": "\"Even when divided amongst friends, the radiance of the gems never declines.\" -Teachings handed down at Sasaru",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -353,7 +353,7 @@
    "race": "Panda",
    "artist": "Hayama Kohei",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nThis card gains [+100/+100] as long as you control two or more Pandas.",
+   "text": "Continuous\n\nThis card gains [+100/+100] as long as you control two or more Pandas.",
    "flavor_text": "\"A true guardian protects something more than simple gems.\" -Teachings handed down at Sasaru",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -379,7 +379,7 @@
    "race": "Fairy Tale/Avatar",
    "artist": "Haruichi Kido",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nRemove an Aura in your graveyard from the game: This card gains [Flying], [Drain], and [Barrier] until end of turn.",
+   "text": "Activate\n\nRemove an Aura in your graveyard from the game: This card gains [Flying], [Drain], and [Barrier] until end of turn.",
    "flavor_text": "Soaring to rebirth.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -402,7 +402,7 @@
    "race": "Elemental",
    "artist": "hatarisu",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nBanish this card: You gain 800 life.",
+   "text": "Activate\n\nBanish this card: You gain 800 life.",
    "flavor_text": "White for mending.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -428,7 +428,7 @@
    "race": "Panda",
    "artist": "JURI",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhenever you gain life ⇒ You may banish a light gem. If you do, this card deals damage to target resonator equal to the amount of life you gained.",
+   "text": "Automatic\n\nWhenever you gain life ⇒ You may banish a light gem. If you do, this card deals damage to target resonator equal to the amount of life you gained.",
    "flavor_text": "\"When you speak of the child loved by god, surely you refer to the prince?\" -Holy Prince's Nanny, Citrin",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -451,7 +451,7 @@
    "race": "Panda",
    "artist": "haniwa",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your turn ⇒ Gain a gem of any attribute.",
+   "text": "Automatic\n\nAt the beginning of your turn ⇒ Gain a gem of any attribute.",
    "flavor_text": "The bodyguards are of course, paid in gems.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -494,7 +494,7 @@
    "race": "Dragonoid",
    "artist": "touge369",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nIf this card would deal damage to a Dragon or Beast, it deals double that much instead.",
+   "text": "Continuous\n\nIf this card would deal damage to a Dragon or Beast, it deals double that much instead.",
    "flavor_text": "\"Leave the hunting to me, it'll be over in a second.\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -517,7 +517,7 @@
    "race": "Dinosaur",
    "artist": "Nanami Lusia",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhenever this card attacks a J/resonator ⇒ This card gains [+600/0] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks a J/resonator ⇒ This card gains [+600/0] until end of turn.",
    "flavor_text": "Apparently, the dinosaurs came from the future. But all the Dragonoids cared about was how to cook them!",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -540,7 +540,7 @@
    "race": "Human",
    "artist": "Ippei SOEDA",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhenever your opponent plays a chant ⇒ This card gains [+200/+200] and [Barrier] until end of turn.",
+   "text": "Automatic\n\nWhenever your opponent plays a chant ⇒ This card gains [+200/+200] and [Barrier] until end of turn.",
    "flavor_text": "Upon seeing the eruption of Mt. Hoelle, he escaped to shelter without alerting anyone.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -589,7 +589,7 @@
    "race": "Elf",
    "artist": "kawaryu",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 800 damage to target J/resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 800 damage to target J/resonator.",
    "flavor_text": "Isn't it a waste of time to prepare a fire? Rather, isn't it a waste of time to cook at all?",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -651,7 +651,7 @@
    "race": "Beast",
    "artist": "Yuko Nagasaki",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Hoelle Pig\" and put it into the field. If you control \"Piggy, Hoelle's Great Hero Pig\", search your deck for any number of cards named \"Hoelle Pig\" and put them into the field instead. Entities put into the field this way gain [Swiftness] until end of turn. Then shuffle your deck..",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Hoelle Pig\" and put it into the field. If you control \"Piggy, Hoelle's Great Hero Pig\", search your deck for any number of cards named \"Hoelle Pig\" and put them into the field instead. Entities put into the field this way gain [Swiftness] until end of turn. Then shuffle your deck..",
    "flavor_text": "\"Pi- Pi-! (Don't flee! Stand your ground pigs!)\" -Piggy, Hoelle's Great Hero Pig",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -698,7 +698,7 @@
    "race": "Wicked Spirit",
    "artist": "douzen",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhenever this card is dealt damage ⇒ It deals that much damage to target J/resonator.",
+   "text": "Automatic\n\nWhenever this card is dealt damage ⇒ It deals that much damage to target J/resonator.",
    "flavor_text": "This being of wild magic power harms everything it touches.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -718,7 +718,7 @@
    "race": "Dragonoid",
    "artist": "sasaki kounosuke",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhenever this card blocks ⇒ Recover it and it gains [+300/0] until end of turn.",
+   "text": "Automatic\n\nWhenever this card blocks ⇒ Recover it and it gains [+300/0] until end of turn.",
    "flavor_text": "When the situation runs dire, their fighting spirit ignites.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -741,7 +741,7 @@
    "race": "Dragonoid",
    "artist": "SIGMAN",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nRemove a spoiled cuisine counter from this card: Another target J/resonator gains [-400/-400] until end of turn.",
+   "text": "Activate\n\nRemove a spoiled cuisine counter from this card: Another target J/resonator gains [-400/-400] until end of turn.",
    "flavor_text": "\"Pialle-san! This time for sure it's edible so... please try it!",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -805,7 +805,7 @@
    "race": "Elemental",
    "artist": "Nakaba Higurashi",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nBanish this card: This card deals 500 damage to target J/resonator.",
+   "text": "Activate\n\nBanish this card: This card deals 500 damage to target J/resonator.",
    "flavor_text": "Red for passion.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -863,7 +863,7 @@
    "race": "Beast",
    "artist": "gozz",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Put four strength counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Put four strength counters on your J/ruler.",
    "flavor_text": "It burns as fast as it runs.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -892,7 +892,7 @@
    "race": "Myth",
    "artist": "ShiroYayoi",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ Choose one at random - Remove the top card of your deck from the game. You may play that card until end of turn; or you pay [r] less to play your next chant this turn; or your opponent cannot play chants until end of turn.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ Choose one at random - Remove the top card of your deck from the game. You may play that card until end of turn; or you pay [r] less to play your next chant this turn; or your opponent cannot play chants until end of turn.",
    "flavor_text": "The cause of many chaotic phenomenon, the junction of space-time.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -921,7 +921,7 @@
    "race": "Wizard",
    "artist": "Shirai Hidemi",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhenever you play a chant ⇒ Copy it. You may choose new targets for the copy. This ability triggers only once per turn.",
+   "text": "Automatic\n\nWhenever you play a chant ⇒ Copy it. You may choose new targets for the copy. This ability triggers only once per turn.",
    "flavor_text": "Welser's soul and memory, wavering in this world, was brought back to its original form by Fiethsing's wind through sheer happenstance.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -947,7 +947,7 @@
    "race": "Wizard",
    "artist": "BANAMONS*",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[Time][Time][Time]: Return target non-magic stone, non-J-ruler entity to its owner's hand.",
+   "text": "Activate\n\n[Time][Time][Time]: Return target non-magic stone, non-J-ruler entity to its owner's hand.",
    "flavor_text": "\"While it's true I used to research time... Well, if it's for Shaela-sama, give me any order and it shall be done.\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -967,7 +967,7 @@
    "race": "Elemental",
    "artist": "RYUEMON",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nBanish this card: Return target resonator with total cost 2 or less to its owner's hand.",
+   "text": "Activate\n\nBanish this card: Return target resonator with total cost 2 or less to its owner's hand.",
    "flavor_text": "Blue for tranquility.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -987,7 +987,7 @@
    "race": "Moon/Treasury Item",
    "artist": "jitari",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nRest four \"Drifting Little Moon\" you control: Destroy target resonator.",
+   "text": "Activate\n\nRest four \"Drifting Little Moon\" you control: Destroy target resonator.",
    "flavor_text": "\"Let's destroy those things. There's one each for Pearlshine, Kirik, Shaela, and I to break.\" -Gill",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1034,7 +1034,7 @@
    "race": "Beast",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nThis card gains [Swiftness] and [Barrier] as long as the weather is thunderstorm.",
+   "text": "Continuous\n\nThis card gains [Swiftness] and [Barrier] as long as the weather is thunderstorm.",
    "flavor_text": "Only those who received divine protection from lightning can keep up with Shaela.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1057,7 +1057,7 @@
    "race": "Golem",
    "artist": "Moopic",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Draw a card, then discard a card.",
+   "text": "Automatic\n\nWhenever this card attacks or blocks ⇒ Draw a card, then discard a card.",
    "flavor_text": "A time-construct golem.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1106,7 +1106,7 @@
    "race": "Mermaid",
    "artist": "Matsurika Yoko",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ The weather is thunderstorm until end of turn.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ The weather is thunderstorm until end of turn.",
    "flavor_text": "\"Shaela-sama's light will surely repel the darkness that covers the world!\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1149,7 +1149,7 @@
    "race": "Spirit",
    "artist": "Nekobayashi",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[1]: Produce [Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants. Play this ability only once per turn.",
+   "text": "Activate\n\n[1]: Produce [Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants. Play this ability only once per turn.",
    "flavor_text": "This spirit will serve their master until the end of time.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1240,7 +1240,7 @@
    "race": "Witch",
    "artist": "Fukuzo Katsura",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[0]: Produce [Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants. Play this ability only once per turn.",
+   "text": "Activate\n\n[0]: Produce [Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants. Play this ability only once per turn.",
    "flavor_text": "A wish for salvation inverted into a wish for ruin.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1255,7 +1255,7 @@
    "race": "Witch",
    "artist": "Fukuzo Katsura",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[0]: Produce [Time][Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants. Play this ability only once per turn.",
+   "text": "Activate\n\n[0]: Produce [Time][Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants. Play this ability only once per turn.",
    "flavor_text": "And then that ruinous wish swallows up everything, all the way down to the last moment in time.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1269,7 +1269,7 @@
    "race": "Little Girl",
    "artist": "Fukuzo Katsura",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ Choose one - Produce [w], [r], [u], [g], or [b]; or draw a card.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ Choose one - Produce [w], [r], [u], [g], or [b]; or draw a card.",
    "flavor_text": "A miracle is happening.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1292,7 +1292,7 @@
    "race": "Cthulhu",
    "artist": "Saiko Takaki",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ Produce [Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ Produce [Time]. Spend this will only to play activate abilities, to pay [Mobilize] costs or [Awakening] costs of chants.",
    "flavor_text": "Following all the threats, overtaking all the enemies, the Time Spinning Witch arrived from the future.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1312,7 +1312,7 @@
    "race": "Ghost",
    "artist": "kakiken",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhenever you play a God's Art ⇒ You may put this card from your graveyard into the field.",
+   "text": "Automatic\n\nWhenever you play a God's Art ⇒ You may put this card from your graveyard into the field.",
    "flavor_text": "Not even death can free you from the curse of time.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1361,7 +1361,7 @@
    "race": "Dragon",
    "artist": "jugemt",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nDiscard seven cards: Destroy target non-magic stone entity.",
+   "text": "Activate\n\nDiscard seven cards: Destroy target non-magic stone entity.",
    "flavor_text": "From another dimension, the ruler appeared.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1387,7 +1387,7 @@
    "race": "Wererabbit",
    "artist": "Miko Yamazaki",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Each player draws a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Each player draws a card.",
    "flavor_text": "This imitation of a moon shall never cease to be.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1410,7 +1410,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[Time]: This card gains [+200/+200] and [Flying] until end of turn.",
+   "text": "Activate\n\n[Time]: This card gains [+200/+200] and [Flying] until end of turn.",
    "flavor_text": "The dragon rode the streams of time and soared over the world.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1456,7 +1456,7 @@
    "race": "Elf",
    "artist": "Kamijo Roro",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[Rest]: Recover two target magic stones.",
+   "text": "Activate\n\n[Rest]: Recover two target magic stones.",
    "flavor_text": "The two who fought for the sake of the elves had inherited Faerur's strength and kindness.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1470,7 +1470,7 @@
    "race": "Elf",
    "artist": "ComamitsuZaki",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the end of your turn ⇒ Attach target Aura in your graveyard to this card.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Attach target Aura in your graveyard to this card.",
    "flavor_text": "\"Who's there? Lend you my body you say... can't be helped, just this once.\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1485,7 +1485,7 @@
    "race": "Elf",
    "artist": "ComamitsuZaki",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card is destroyed ⇒ Remove all Auras attached to it from the game.",
+   "text": "Automatic\n\nWhen this card is destroyed ⇒ Remove all Auras attached to it from the game.",
    "flavor_text": "The wind that carried this world to the future had disappeared like a dream.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1508,7 +1508,7 @@
    "race": "Fairy",
    "artist": "Tsukumi",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nYou gain [Barrier].",
+   "text": "Continuous\n\nYou gain [Barrier].",
    "flavor_text": "The breath of Attoractia blesses this wonderful world.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1552,7 +1552,7 @@
    "race": "Dinosaur",
    "artist": "Moopic",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nThis card gains [+300/0] for each wind magic stone you control.",
+   "text": "Continuous\n\nThis card gains [+300/0] for each wind magic stone you control.",
    "flavor_text": "Being herbivorous doesn't necessarily mean it's harmless.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1578,7 +1578,7 @@
    "race": "Wizard",
    "artist": "yuko",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field or at the beginning of your main phase ⇒ This card gains [＋200/＋200], [Swiftness], [Flying], [First Strike], [Precision], [Drain], or [Barrier] until end of turn. If you control \"Laurite, Seven Luminaries Astrologian\", it gains all those abilities instead.",
+   "text": "Automatic\n\nWhen this card enters the field or at the beginning of your main phase ⇒ This card gains [＋200/＋200], [Swiftness], [Flying], [First Strike], [Precision], [Drain], or [Barrier] until end of turn. If you control \"Laurite, Seven Luminaries Astrologian\", it gains all those abilities instead.",
    "flavor_text": "\"Will you lend me your strength for the sake of this world?\" Gill asked. They were puzzled by his question. No one had ever made such a request to them before.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1598,7 +1598,7 @@
    "race": "Elemental",
    "artist": "Miko Yamazaki",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Reveal any number of Elementals from your hand. This card deals 200 damage to target J/resonator for each card revealed this way.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Reveal any number of Elementals from your hand. This card deals 200 damage to target J/resonator for each card revealed this way.",
    "flavor_text": "Gill returned from his confrontation with Alhama'at, with new memories and powers he now rejoins his allies.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1624,7 +1624,7 @@
    "race": "Elemental/Dragon",
    "artist": "KEIICHIRO ITO",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nRemove an Elemental in your graveyard from the game: Put a [+100/+100] counter on this card. Play this ability only once per turn.",
+   "text": "Activate\n\nRemove an Elemental in your graveyard from the game: Put a [+100/+100] counter on this card. Play this ability only once per turn.",
    "flavor_text": "Names reflect one's spirit. One's spirit reflects their capability.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1647,7 +1647,7 @@
    "race": "Elemental/Fairy",
    "artist": "Shirono Muku",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Draw a card.",
    "flavor_text": "\"This will be the final battle. I'm counting on you my elemental friends.\" -Gill",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1673,7 +1673,7 @@
    "race": "Elemental",
    "artist": "mie",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a light Elemental, fire Elemental, water Elemental, and/or darkness Elemental, reveal them and put them into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Search your deck for a light Elemental, fire Elemental, water Elemental, and/or darkness Elemental, reveal them and put them into your hand. Then shuffle your deck.",
    "flavor_text": "Using the magic power of the demon lord as a reference, Gill produced five attributes of elementals and made a powerful team.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1713,7 +1713,7 @@
    "race": "Ethereal Tree/Elemental",
    "artist": "Nakaba Higurashi",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhenever another resonator you control is put into a graveyard from the field ⇒ Search your deck for a resonator with total cost less than that resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhenever another resonator you control is put into a graveyard from the field ⇒ Search your deck for a resonator with total cost less than that resonator, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "The final story that Scheherazade had entrusted.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1801,7 +1801,7 @@
    "race": "Doll",
    "artist": "Sanosuke Sakuma",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nYour opponent must attack this card if able.",
+   "text": "Continuous\n\nYour opponent must attack this card if able.",
    "flavor_text": "The end roll for Scheherazade's story has yet to come.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1821,7 +1821,7 @@
    "race": "Elf",
    "artist": "j-peg",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[Rest]: Look at the top card of your deck. You may put it on the bottom of your deck.",
+   "text": "Activate\n\n[Rest]: Look at the top card of your deck. You may put it on the bottom of your deck.",
    "flavor_text": "Only those who know the future, have a right to change it.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1847,7 +1847,7 @@
    "race": "Fairy",
    "artist": "Matsurika Yoko",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put target non-magic stone card from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put target non-magic stone card from your graveyard into your hand.",
    "flavor_text": "Led by Yggdrasil, she landed in a world different from Attoractia.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1888,7 +1888,7 @@
    "race": "Elf",
    "artist": "Cola",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[g]: This card gains [+100/+100] until end of turn.",
+   "text": "Activate\n\n[g]: This card gains [+100/+100] until end of turn.",
    "flavor_text": "\"The wind's noisier than usual... who could be coming?\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -1975,7 +1975,7 @@
    "race": "Elemental",
    "artist": "Nekobayashi",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nBanish this card: Target J/resonator gains [-400/-400] until end of turn.",
+   "text": "Activate\n\nBanish this card: Target J/resonator gains [-400/-400] until end of turn.",
    "flavor_text": "Black for sabotage.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2019,7 +2019,7 @@
    "race": "Fairy Tale",
    "artist": "Misa Tsutsui",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nYour opponent pays [1] more to play chants during your turn.",
+   "text": "Continuous\n\nYour opponent pays [1] more to play chants during your turn.",
    "flavor_text": "A small interloper that snatches your opponent's field of view.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2042,7 +2042,7 @@
    "race": "Demon",
    "artist": "tokiwa",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[Time]: This card gains \"When this card deals damage to a J/resonator ⇒ Destroy that J/resonator.\" until end of turn.",
+   "text": "Activate\n\n[Time]: This card gains \"When this card deals damage to a J/resonator ⇒ Destroy that J/resonator.\" until end of turn.",
    "flavor_text": "The cunningness of this demon only grows greater with the passing of time.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2068,7 +2068,7 @@
    "race": "Cthulhu",
    "artist": "SAGAWA ASUKA",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target damaged resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Destroy target damaged resonator.",
    "flavor_text": "Grasping the existence of that thing is no easy task.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2132,7 +2132,7 @@
    "race": "Fairy Tale",
    "artist": "Shindo Saeko",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put a [+100/+100] counter on it for each Fairy Tale and non-Fairy Tale Beast you control.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put a [+100/+100] counter on it for each Fairy Tale and non-Fairy Tale Beast you control.",
    "flavor_text": "\"This power is to protect my friends.\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2152,7 +2152,7 @@
    "race": "Fairy Tale/Beast",
    "artist": "Moopic",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Target J/resonator gains [-200/-200] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Target J/resonator gains [-200/-200] until end of turn.",
    "flavor_text": "Even one as kind as he, will become ferocious if his friends are hurt.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2178,7 +2178,7 @@
    "race": "Wererabbit",
    "artist": "KONNO Takashi",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card enters the field ⇒ Each player discards a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Each player discards a card.",
    "flavor_text": "To return this world to nothing, those girls desire nothing more.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2222,7 +2222,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of each player's main phase ⇒ That player loses 400 life.",
+   "text": "Automatic\n\nAt the beginning of each player's main phase ⇒ That player loses 400 life.",
    "flavor_text": "The battlegrounds for the decisive battle.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2245,7 +2245,7 @@
    "race": "Beast",
    "artist": "Ashes",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ Invert this card.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ Invert this card.",
    "flavor_text": "She waits ever patiently for the time to be right.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2259,7 +2259,7 @@
    "race": "Human/Inverse",
    "artist": "lack",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nEntities you control gain \"Whenever this card is targeted by a spell or ability ⇒ Cancel that spell or ability. This ability triggers only once per turn.\".",
+   "text": "Continuous\n\nEntities you control gain \"Whenever this card is targeted by a spell or ability ⇒ Cancel that spell or ability. This ability triggers only once per turn.\".",
    "flavor_text": "\"Goodness gracious, I'm finally back. Now then, where's Fieth?\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2290,7 +2290,7 @@
    "race": "Vampire",
    "artist": "lack",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[rest]: Put a mystery counter on this card.",
+   "text": "Activate\n\n[rest]: Put a mystery counter on this card.",
    "flavor_text": "The Ominous Moon feeds on the life of its wielder.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2305,7 +2305,7 @@
    "race": "Vampire",
    "artist": "lack",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[Rest], remove a mystery counter from this card: Destroy target resonator.",
+   "text": "Activate\n\n[Rest], remove a mystery counter from this card: Destroy target resonator.",
    "flavor_text": "With determination in hand, forge your own path to the future.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2342,7 +2342,7 @@
    "race": "Vampire",
    "artist": "Tomomi TOMIDA",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ This card gains [+200/0] and [Flying] until end of turn.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ This card gains [+200/0] and [Flying] until end of turn.",
    "flavor_text": "\"Here's to meeting again on another night.\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2385,7 +2385,7 @@
    "race": "Dark Elf",
    "artist": "ishishou",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Target J/resonator gains [-300/-300] until end of turn.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Target J/resonator gains [-300/-300] until end of turn.",
    "flavor_text": "A change in consciousness amongst the dark elves began to alter their ill-fated destiny.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2425,7 +2425,7 @@
    "race": "Human",
    "artist": "Kusanagi Tyouen",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ Draw a card.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ Draw a card.",
    "flavor_text": "\"If my sister finds out we're done for! Our group will be forced to disband I tell ya! Disband!\"",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2469,7 +2469,7 @@
    "type": "Addition",
    "artist": "AKI",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[Rest]: Produce [r] or [g]. If you spend this will to play a resonator, it gains [Swiftness] as it enters the field until end of turn.",
+   "text": "Activate\n\n[Rest]: Produce [r] or [g]. If you spend this will to play a resonator, it gains [Swiftness] as it enters the field until end of turn.",
    "flavor_text": "Over 10,000 years ago, underneath the magnificent Yggdrasil, a city lush with green was formed. The city was particularly known as a sightseeing spot, as people visited from all over to see places like Valentina's Theatre or Machina's Atelier.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2518,7 +2518,7 @@
    "race": "Vampire/Human/Guardian",
    "artist": "Nem",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nRemove an Elemental in your graveyard from the game: Produce [w], [r], [u], [g], or [b]. Put a [+100/+100] counter on this card. Play this ability only once per turn.",
+   "text": "Activate\n\nRemove an Elemental in your graveyard from the game: Produce [w], [r], [u], [g], or [b]. Put a [+100/+100] counter on this card. Play this ability only once per turn.",
    "flavor_text": "Since then, there hasn't been a soul alive that knew the whereabouts of Reiya and Gill. However, the hero who inherited that power and spirit will undoubtedly become the guardian of this world... that hero's name is...",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2620,7 +2620,7 @@
    "type": "Addition",
    "artist": "Miko Yamazaki",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nResonators you control gain [Flying], [Swiftness], [First Strike], [Precision], [Barrier] and/or [Drain] as long as you control a J-ruler with that ability.",
+   "text": "Continuous\n\nResonators you control gain [Flying], [Swiftness], [First Strike], [Precision], [Barrier] and/or [Drain] as long as you control a J-ruler with that ability.",
    "flavor_text": "While investigating a magical distortion, Grimm, the king of Light Palace, saved Pandora who had appeared from a gap in time. While a serious encounter did not occur this time, Grimm felt that an encounter with fate was near.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2653,7 +2653,7 @@
    "type": "Special Magic Stone",
    "artist": "Ashes",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\nBanish this card: Put an Aura from your removed area into your hand.",
+   "text": "Activate\n\nBanish this card: Put an Aura from your removed area into your hand.",
    "flavor_text": "Our most distant wishes will one day become reality.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2666,7 +2666,7 @@
    "type": "Special Magic Stone",
    "artist": "Saiko Takaki",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[Rest]: Produce [time].",
+   "text": "Activate\n\n[Rest]: Produce [time].",
    "flavor_text": "A magic stone with memories of the distant future.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2733,7 +2733,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Activate\n[u]: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\n[u]: This card gains [Flying] until end of turn.",
    "flavor_text": "The dragon rode the streams of time and soared over the world.",
    "all_sets": "Winds of the Ominous Moon"
   },
@@ -2759,7 +2759,7 @@
    "race": "Dinosaur",
    "artist": "Moopic",
    "expansion": "Winds of the Ominous Moon",
-   "text": "Continuous\nThis card gains [+100/+100] for each wind magic stone you control.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each wind magic stone you control.",
    "flavor_text": "Being herbivorous doesn't necessarily mean it's harmless.",
    "all_sets": "Winds of the Ominous Moon"
   },

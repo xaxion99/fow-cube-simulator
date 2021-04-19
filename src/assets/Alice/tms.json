@@ -51,7 +51,7 @@
    "race": "Wanderer/Little Girl",
    "artist": "桂福蔵",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever a Moon enters your field ⇒ You may draw a card.",
+   "text": "Automatic\n\nWhenever a Moon enters your field ⇒ You may draw a card.",
    "flavor_text": "\"Sheesh, she's become such a showoff. Now who's fault could that be?\" \"Are you saying it's my fault? It's clearly yours.\"—Fiethsing and Zero",
    "all_sets": "The Moonlit Savior"
   },
@@ -66,7 +66,7 @@
    "race": "Wizard",
    "artist": "桂福蔵",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\nGod's Art [Light of the Sacred Moon] [W][M][3]: Rest all J/resonators your opponent controls. Then recover all magic stones you control. You may pay [Awakening] costs [M] less this turn. (Play God's Art [Light of the Sacred Moon] only once per game.)",
+   "text": "Activate\n\nGod's Art [Light of the Sacred Moon] [W][M][3]: Rest all J/resonators your opponent controls. Then recover all magic stones you control. You may pay [Awakening] costs [M] less this turn. (Play God's Art [Light of the Sacred Moon] only once per game.)",
    "flavor_text": "\"An ally of justice shall appear from the moon! And who could that mysterious hero be? Obviously it's me!\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -88,7 +88,7 @@
    "race": "Moon",
    "artist": "狛蜜ザキ",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[M][2]: Rest target J-ruler.",
+   "text": "Activate\n\n[M][2]: Rest target J-ruler.",
    "flavor_text": "\"That's...the same moon from Earth...why is it here? -Avatar of the Seven Lands, Alice",
    "all_sets": "The Moonlit Savior"
   },
@@ -114,7 +114,7 @@
    "race": "Myth",
    "artist": "touge369",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nThis card gains [+300/+300] for each card in all removed areas that was removed by this card.",
+   "text": "Continuous\n\nThis card gains [+300/+300] for each card in all removed areas that was removed by this card.",
    "flavor_text": "\"My only purpose is to keep the seal from being broken.\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -154,7 +154,7 @@
    "race": "Wererabbit",
    "artist": "石商",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a Moon, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your deck for a Moon, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Even when she perishes, the moon remains.",
    "all_sets": "The Moonlit Savior"
   },
@@ -213,7 +213,7 @@
    "race": "Fairy",
    "artist": "gekko",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[M]: Fairies you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\n[M]: Fairies you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
    "flavor_text": "\"The power of the moon protects us all!\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -252,7 +252,7 @@
    "race": "Treasury Item",
    "artist": "七海ルシア",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[M]: Rest added resonator.",
+   "text": "Activate\n\n[M]: Rest added resonator.",
    "flavor_text": "Bamboo proves to be a pretty versatile material.",
    "all_sets": "The Moonlit Savior"
   },
@@ -289,7 +289,7 @@
    "race": "Bishop",
    "artist": "おつまみ",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card enters your field ⇒ You gain 400 life.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You gain 400 life.",
    "flavor_text": "\"Not only the body, but even the spirit is healed.\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -312,7 +312,7 @@
    "race": "Knight of the Round Table",
    "artist": "ハタリス",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever this card attacks ⇒ Resonators you control gain [+100/0] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Resonators you control gain [+100/0] until end of turn.",
    "flavor_text": "The sad man can be both strong and kind.",
    "all_sets": "The Moonlit Savior"
   },
@@ -335,7 +335,7 @@
    "race": "Myth/Moon",
    "artist": "七原しえ",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nPlayers cannot play activate abilities of resonators they control unless they control a Moon.",
+   "text": "Continuous\n\nPlayers cannot play activate abilities of resonators they control unless they control a Moon.",
    "flavor_text": "\"What? You guys didn't have a moon?!\" -Kaguya, the Moonlit Savior",
    "all_sets": "The Moonlit Savior"
   },
@@ -358,7 +358,7 @@
    "race": "Knight",
    "artist": "見田航介",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[Rest]: Target resonator with total cost 2 or less gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[Rest]: Target resonator with total cost 2 or less gains [+200/+200] until end of turn.",
    "flavor_text": "The kingdom of Gloria, like all the seven kingdoms, used to practice conscription, as many countries aspired to expand their territories.",
    "all_sets": "The Moonlit Savior"
   },
@@ -384,7 +384,7 @@
    "race": "Twelve Apostles",
    "artist": "lack",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[R]: This card deals 100 damage to each player.",
+   "text": "Activate\n\n[R]: This card deals 100 damage to each player.",
    "flavor_text": "\"Come on, hit me with everything you've got.\" -Conqueror of the Black Moon, Gill Lapis",
    "all_sets": "The Moonlit Savior"
   },
@@ -408,7 +408,7 @@
    "type": "Addition: Field",
    "artist": "Nagiにゃん",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nIf a card would be put into your graveyard from anywhere, remove it from the game instead.",
+   "text": "Continuous\n\nIf a card would be put into your graveyard from anywhere, remove it from the game instead.",
    "flavor_text": "From the memories of disaster, that town's flame burns eternal.",
    "all_sets": "The Moonlit Savior"
   },
@@ -426,7 +426,7 @@
    "type": "Addition: Resonator",
    "artist": "サウマロ",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever added resonator attacks ⇒ It gains [+500/+500] until end of turn and it deals 500 damage to you.",
+   "text": "Automatic\n\nWhenever added resonator attacks ⇒ It gains [+500/+500] until end of turn and it deals 500 damage to you.",
    "flavor_text": "With a flame in your heart, even wounds can't keep you from your goal.",
    "all_sets": "The Moonlit Savior"
   },
@@ -463,7 +463,7 @@
    "race": "Spirit",
    "artist": "スギカワタクミ",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever this card attacks ⇒ It deals 200 damage to you.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It deals 200 damage to you.",
    "flavor_text": "Pain becomes the desire for revenge, it doesn't matter who it's exacted upon.",
    "all_sets": "The Moonlit Savior"
   },
@@ -486,7 +486,7 @@
    "race": "Goddess",
    "artist": "弥生しろ",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Swiftness].",
+   "text": "Continuous\n\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Swiftness].",
    "flavor_text": "...The future shall be erased.",
    "all_sets": "The Moonlit Savior"
   },
@@ -509,7 +509,7 @@
    "race": "Goddess",
    "artist": "弥生しろ",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Precision].",
+   "text": "Continuous\n\nAs long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Precision].",
    "flavor_text": "When the past is sealed...",
    "all_sets": "The Moonlit Savior"
   },
@@ -529,7 +529,7 @@
    "race": "Goddess",
    "artist": "弥生しろ",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nAs long as there are ten or more cards in your removed area, this card gains [+900/+900] and [First Strike].",
+   "text": "Continuous\n\nAs long as there are ten or more cards in your removed area, this card gains [+900/+900] and [First Strike].",
    "flavor_text": "...And the present lies scorched...",
    "all_sets": "The Moonlit Savior"
   },
@@ -592,7 +592,7 @@
    "race": "Knight of the Round Table",
    "artist": "Mad",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever this card attacks ⇒ You may banish another resonator. If you do, this card deals 1000 damage to target resonator.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ You may banish another resonator. If you do, this card deals 1000 damage to target resonator.",
    "flavor_text": "Rebellious to any authority.",
    "all_sets": "The Moonlit Savior"
   },
@@ -612,7 +612,7 @@
    "race": "Egg",
    "artist": "白野椋",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a fire resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a fire resonator, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Soldiers of Certo often go pick up eggs to get food, but some of them become food themselves for what is born from these eggs.",
    "all_sets": "The Moonlit Savior"
   },
@@ -651,7 +651,7 @@
    "race": "Wizard",
    "artist": "BANAMONS*",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nYou may pay [1] less to play this ability for each card in your removed area.",
+   "text": "Continuous\n\nYou may pay [1] less to play this ability for each card in your removed area.",
    "flavor_text": "Observations are recorded. They manifest as disasters and are eventually forgotten.",
    "all_sets": "The Moonlit Savior"
   },
@@ -666,7 +666,7 @@
    "race": "Wizard",
    "artist": "BANAMONS*",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\nGod's Art [Total Recall] [R][R][2]: This card deals 100 damage to each J/resonator your opponent controls for each card in your removed area. Then, you may put any number of cards from your removed area into your graveyard. (Play God's Art [Total Recall] only once per game.)",
+   "text": "Activate\n\nGod's Art [Total Recall] [R][R][2]: This card deals 100 damage to each J/resonator your opponent controls for each card in your removed area. Then, you may put any number of cards from your removed area into your graveyard. (Play God's Art [Total Recall] only once per game.)",
    "flavor_text": "\"You're just as much a prisoner of time as he is.\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -686,7 +686,7 @@
    "race": "Wizard",
    "artist": "塗夢",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest], remove the top card of your deck from the game: This card deals 200 damage to target resonator.",
+   "text": "Activate\n\n[rest], remove the top card of your deck from the game: This card deals 200 damage to target resonator.",
    "flavor_text": "Time is always progressing forward. That can be inconvenient for some.",
    "all_sets": "The Moonlit Savior"
   },
@@ -726,7 +726,7 @@
    "race": "Dragon",
    "artist": "佐久間さのすけ",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card enters your field ⇒ Remove the top two cards of your deck from the game.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Remove the top two cards of your deck from the game.",
    "flavor_text": "That kind of dragon only eats time.",
    "all_sets": "The Moonlit Savior"
   },
@@ -766,7 +766,7 @@
    "race": "Human",
    "artist": "下江クリス",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Reveal the top card of your deck. If it's a resonator, resonators you control gain [+300/+300] until end of turn. Otherwise, return this card to its owner's hand.",
+   "text": "Automatic\n\nWhenever this card attacks or blocks ⇒ Reveal the top card of your deck. If it's a resonator, resonators you control gain [+300/+300] until end of turn. Otherwise, return this card to its owner's hand.",
    "flavor_text": "Shion's soldiers don't make mistakes.",
    "all_sets": "The Moonlit Savior"
   },
@@ -786,7 +786,7 @@
    "race": "Fairy Tale",
    "artist": "碧風羽",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[U][U][U], [rest]: Put this card on top of your deck. Search your deck for up to three Fairy Tale resonators, reveal them and put them into your hand. Then shuffle your deck",
+   "text": "Activate\n\n[U][U][U], [rest]: Put this card on top of your deck. Search your deck for up to three Fairy Tale resonators, reveal them and put them into your hand. Then shuffle your deck",
    "flavor_text": "\"Such a poor creature...Don't worry, I'll help you.\" -Thumbelina",
    "all_sets": "The Moonlit Savior"
   },
@@ -807,7 +807,7 @@
    "type": "Addition: Field",
    "artist": "みえ",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[U][1]: Target resonator loses all races and becomes a Fairy Tale until end of turn.",
+   "text": "Activate\n\n[U][1]: Target resonator loses all races and becomes a Fairy Tale until end of turn.",
    "flavor_text": "You can't see it from this world, but somewhere there exists a fantastic fairy tale world.",
    "all_sets": "The Moonlit Savior"
   },
@@ -825,7 +825,7 @@
    "type": "Addition: Resonator",
    "artist": "今野隼史",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\nAdded resonator gains \"[rest]: Recover another target resonator.\"",
+   "text": "Activate\n\nAdded resonator gains \"[rest]: Recover another target resonator.\"",
    "flavor_text": "With a wave of the baton, one can dictate another's movements.",
    "all_sets": "The Moonlit Savior"
   },
@@ -848,7 +848,7 @@
    "race": "Myth",
    "artist": "今野隼史",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nIf a resonator you control would be dealt damage less than its DEF, prevent it.",
+   "text": "Continuous\n\nIf a resonator you control would be dealt damage less than its DEF, prevent it.",
    "flavor_text": "Shion's summon filled the battlefield with uplifting music. Inspiration swept through the ranks of her soldiers.",
    "all_sets": "The Moonlit Savior"
   },
@@ -868,7 +868,7 @@
    "race": "Human",
    "artist": "kawaryu",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Reveal the top card of your deck. If it's a resonator, this card gains [+200/+200] until end of turn. Otherwise, return this card to its owner's hand.",
+   "text": "Automatic\n\nWhenever this card attacks or blocks ⇒ Reveal the top card of your deck. If it's a resonator, this card gains [+200/+200] until end of turn. Otherwise, return this card to its owner's hand.",
    "flavor_text": "If the audience reception is poor, the performer runs home immediately.",
    "all_sets": "The Moonlit Savior"
   },
@@ -891,7 +891,7 @@
    "race": "Human",
    "artist": "るみえ",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may put a water resonator with total cost 1 from your hand into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may put a water resonator with total cost 1 from your hand into your field.",
    "flavor_text": "\"Our target is Valentina. Alright everyone, let's go.\" -Coup d'Etat Mastermind, Shion",
    "all_sets": "The Moonlit Savior"
   },
@@ -934,7 +934,7 @@
    "race": "Human",
    "artist": "七海ルシア",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\nDiscard a card: This card gains [+200/+200] until end of turn.",
+   "text": "Activate\n\nDiscard a card: This card gains [+200/+200] until end of turn.",
    "flavor_text": "Cornered by the rebellion, Valentina had no choice but to bribe them with her amassed fortune.",
    "all_sets": "The Moonlit Savior"
   },
@@ -971,7 +971,7 @@
    "race": "Songstress",
    "artist": "j-peg",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nYou may look at the top card of your deck at any time.",
+   "text": "Continuous\n\nYou may look at the top card of your deck at any time.",
    "flavor_text": "Her songs resonated in the hearts of warriors everywhere.",
    "all_sets": "The Moonlit Savior"
   },
@@ -986,7 +986,7 @@
    "race": "Traitor",
    "artist": "j-peg",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\nGod's Art [Serenade of Rebellion] [U][U]: This card gains [+500/+500] until end of turn. Then it deals damage equal to its ATK to target J/resonator your opponent controls. (Play God's Art [Serenade of Rebellion] only once per game.)",
+   "text": "Activate\n\nGod's Art [Serenade of Rebellion] [U][U]: This card gains [+500/+500] until end of turn. Then it deals damage equal to its ATK to target J/resonator your opponent controls. (Play God's Art [Serenade of Rebellion] only once per game.)",
    "flavor_text": "\"Oh Lady Valentina, you've changed beyond recognition. So I send you this, my final requiem.\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -1009,7 +1009,7 @@
    "race": "Fairy Tale/Prince",
    "artist": "上木乃アロエ",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\nRest another recovered Fairy Tale resonator you control: This card gains [0/+200] until end of turn.",
+   "text": "Activate\n\nRest another recovered Fairy Tale resonator you control: This card gains [0/+200] until end of turn.",
    "flavor_text": "Many pined for the prince. Eventually that jealousy became dangerous, and he had to protect those close to him.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1029,7 +1029,7 @@
    "race": "Fairy Tale",
    "artist": "碧風羽",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Target J/resonator gains [+200/+200] for each support counter on this card until end of turn. Then remove all support counters from this card.",
+   "text": "Activate\n\n[rest]: Target J/resonator gains [+200/+200] for each support counter on this card until end of turn. Then remove all support counters from this card.",
    "flavor_text": "\"You can do it!\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -1055,7 +1055,7 @@
    "race": "Twelve Apostles/Human",
    "artist": "石商",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card enters your field ⇒ Gain control of target resonator your opponent controls as long as this card is in a field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Gain control of target resonator your opponent controls as long as this card is in a field.",
    "flavor_text": "She was willing to go to any lengths to make Alice her own. Even so far as to be controlled by another.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1098,7 +1098,7 @@
    "race": "Wererabbit",
    "artist": "狛蜜ザキ",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card enters your field ⇒ Return target resonator with total cost 2 or less to its owner's hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Return target resonator with total cost 2 or less to its owner's hand.",
    "flavor_text": "”No moon for you! Go home! Go home!”",
    "all_sets": "The Moonlit Savior"
   },
@@ -1147,7 +1147,7 @@
    "race": "Avatar",
    "artist": "Wednesday",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nIf damage would be dealt to you, it's dealt to this card instead.",
+   "text": "Continuous\n\nIf damage would be dealt to you, it's dealt to this card instead.",
    "flavor_text": "\"Yggdrasil's power tells me I have to stop you! Even if I can't win, I won't lose!\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -1170,7 +1170,7 @@
    "race": "Spirit",
    "artist": "Moopic",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nPrevent all damage that would be dealt to this card by J-rulers.",
+   "text": "Continuous\n\nPrevent all damage that would be dealt to this card by J-rulers.",
    "flavor_text": "The tiny spirits that lived in Yggdrasil held an immense power that they used to repel enemies.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1210,7 +1210,7 @@
    "race": "Human",
    "artist": "草薙蝶炎",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Target resonator's ATK becomes equal to its DEF until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator's ATK becomes equal to its DEF until end of turn.",
    "flavor_text": "\"You have the power! Believe in yourself!\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -1236,7 +1236,7 @@
    "race": "Divine Beast",
    "artist": "kakotomirai",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nThis card gains [+100/+100] for each Four Sacred Beasts you control.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each Four Sacred Beasts you control.",
    "flavor_text": "In order to protect Pricia, the Four Sacred Beasts were given life again by Huanglong.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1259,7 +1259,7 @@
    "race": "Beast",
    "artist": "ケルビン",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever an evolution counter is put on this card ⇒ This card and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
+   "text": "Automatic\n\nWhenever an evolution counter is put on this card ⇒ This card and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
    "flavor_text": "\"When Kujata prepares to charge, you'd better get out of the way, unless you want to get eaten.\" -Pricia, Pursuant of Exploding Flame",
    "all_sets": "The Moonlit Savior"
   },
@@ -1279,7 +1279,7 @@
    "race": "Elf",
    "artist": "乃希",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Produce [M].",
+   "text": "Activate\n\n[rest]: Produce [M].",
    "flavor_text": "Life from the moon, protection from the wind.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1320,7 +1320,7 @@
    "type": "Addition: Resonator",
    "artist": "竿",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Put it into its owner's hand.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Put it into its owner's hand.",
    "flavor_text": "The sound of all living things in harmony.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1343,7 +1343,7 @@
    "race": "Elf",
    "artist": "猫囃子(Nekobayashi)",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[M]: This card gains [0/+400] until end of turn.",
+   "text": "Activate\n\n[M]: This card gains [0/+400] until end of turn.",
    "flavor_text": "Serve the moon and know its protection.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1366,7 +1366,7 @@
    "race": "Elf",
    "artist": "夕子",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put the top card of your magic stone deck into your magic stone area rested.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put the top card of your magic stone deck into your magic stone area rested.",
    "flavor_text": "\"Looks like the fight's already started. Hold on Alice, I'm on my way!\" -Kaguya, the Moonlit Savior",
    "all_sets": "The Moonlit Savior"
   },
@@ -1404,7 +1404,7 @@
    "type": "Addition: Field",
    "artist": "サウマロ",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen a spell or ability your opponent controls targets a J/resonator you control ⇒ You may banish this card. If you do, cancel that spell or ability.",
+   "text": "Automatic\n\nWhen a spell or ability your opponent controls targets a J/resonator you control ⇒ You may banish this card. If you do, cancel that spell or ability.",
    "flavor_text": "\"Shion, you wait here. Leave the rest to me.\" -Pricia, Pursuant of Exploding Flame",
    "all_sets": "The Moonlit Savior"
   },
@@ -1427,7 +1427,7 @@
    "race": "Beast",
    "artist": "松本エイト",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nAs long as there are one or more evolution counters on this card, it gains [+300/+300] and [Precision].",
+   "text": "Continuous\n\nAs long as there are one or more evolution counters on this card, it gains [+300/+300] and [Precision].",
    "flavor_text": "The moon and the wolf have an inseparable bond.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1450,7 +1450,7 @@
    "race": "Avatar",
    "artist": "gozz",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nThis card gains [+200/+200] for each Avatar in your graveyard.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each Avatar in your graveyard.",
    "flavor_text": "Defeat only strengthens their resolve.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1464,7 +1464,7 @@
    "race": "Ethereal Tree",
    "artist": "草薙蝶炎",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nIf damage dealt by a source your opponent controls would reduce your life to 0 or less for the first time this game, it reduces your life to 100 instead. Then you may search your deck and/or hand for up to one card named \"Avatar of the Seven Lands, Alice\" and up to one card named \"Blade of the Seven Lands, Excalibur X\" and put them into your field. Then shuffle your deck.",
+   "text": "Continuous\n\nIf damage dealt by a source your opponent controls would reduce your life to 0 or less for the first time this game, it reduces your life to 100 instead. Then you may search your deck and/or hand for up to one card named \"Avatar of the Seven Lands, Alice\" and up to one card named \"Blade of the Seven Lands, Excalibur X\" and put them into your field. Then shuffle your deck.",
    "flavor_text": "This world continues to resist Lapis' control to the very last.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1487,7 +1487,7 @@
    "race": "Bird",
    "artist": "ハタリス",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[M]: This card gains [+200/+200] and [Flying] until end of turn.",
+   "text": "Activate\n\n[M]: This card gains [+200/+200] and [Flying] until end of turn.",
    "flavor_text": "The black moon only grants power to those the Primogenitor trusts.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1507,7 +1507,7 @@
    "race": "Fairy",
    "artist": "古城ばんび",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Put target non-darkness Fairy from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Put target non-darkness Fairy from your graveyard into your hand.",
    "flavor_text": "\"Even if I die, another will take my place.\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -1538,7 +1538,7 @@
    "race": "Wanderer",
    "artist": "ネム",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nYour opponent pays [1] more to play regalia's activate abilities.",
+   "text": "Continuous\n\nYour opponent pays [1] more to play regalia's activate abilities.",
    "flavor_text": "\"I finally found you...\" -Avatar of the Seven Lands, Alice",
    "all_sets": "The Moonlit Savior"
   },
@@ -1553,7 +1553,7 @@
    "race": "Subjugator",
    "artist": "ネム",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\nGod's Art [Space-Time Control] [B][M][2]: Search your opponent's deck for a resonator, regalia, and/or [Addition:Field] and put them into your field. Then your opponent shuffles their deck. (Play God's Art [Space-Time Control] only once per game.)",
+   "text": "Activate\n\nGod's Art [Space-Time Control] [B][M][2]: Search your opponent's deck for a resonator, regalia, and/or [Addition:Field] and put them into your field. Then your opponent shuffles their deck. (Play God's Art [Space-Time Control] only once per game.)",
    "flavor_text": "\"I see, you're survivors from that planet. Perfect. You've saved me the trouble of hunting you down.\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -1601,7 +1601,7 @@
    "race": "Demon",
    "artist": "ひがし",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ They discard a card.",
+   "text": "Automatic\n\nWhenever this card deals damage to your opponent ⇒ They discard a card.",
    "flavor_text": "When a demon laughs, you know something's been stolen.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1627,7 +1627,7 @@
    "race": "Angel/Demon",
    "artist": "Mad",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[B][M]: Whenever this card deals damage this turn ⇒ You gain that much life. Play this ability only once per turn.",
+   "text": "Activate\n\n[B][M]: Whenever this card deals damage this turn ⇒ You gain that much life. Play this ability only once per turn.",
    "flavor_text": "\"Follow me, and I shall be your angel. Oppose me, and I shall be your demon.\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -1650,7 +1650,7 @@
    "race": "Human",
    "artist": "SIGMAN",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[M]: This card gains [+100/+100] and [Precision] until end of turn.",
+   "text": "Activate\n\n[M]: This card gains [+100/+100] and [Precision] until end of turn.",
    "flavor_text": "\"Believing in something only makes it easier to break you.\" -Conqueror of the Black Moon, Gill Lapis",
    "all_sets": "The Moonlit Savior"
   },
@@ -1673,7 +1673,7 @@
    "race": "Twelve Apostles/Myth",
    "artist": "石商",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[B][M], remove this card in your graveyard from the game: Your opponent discards a card.",
+   "text": "Activate\n\n[B][M], remove this card in your graveyard from the game: Your opponent discards a card.",
    "flavor_text": "\"This world is trying to shut me out, huh? Fine. I'll put a curse on everything.\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -1713,7 +1713,7 @@
    "race": "Shadow/Knight",
    "artist": "坂井結城",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Each player banishes a non-Shadow resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Each player banishes a non-Shadow resonator.",
    "flavor_text": "Shadow only welcomes shadow.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1755,7 +1755,7 @@
    "race": "Moon",
    "artist": "ひがし",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[M], discard a resonator: Put another target resonator from your graveyard into your hand.",
+   "text": "Activate\n\n[M], discard a resonator: Put another target resonator from your graveyard into your hand.",
    "flavor_text": "When the true black moon hangs in the sky, the true conqueror shall appear.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1773,7 +1773,7 @@
    "type": "Addition: Resonator",
    "artist": "長崎祐子",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nAdded resonator gains \"You pay [2] more to play normal spells.\".",
+   "text": "Continuous\n\nAdded resonator gains \"You pay [2] more to play normal spells.\".",
    "flavor_text": "Silence is golden.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1813,7 +1813,7 @@
    "race": "Zombie",
    "artist": "ユウキリリー",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ Destroy target resonator with total cost 3 or less.",
+   "text": "Automatic\n\nWhen this card enters your field from a standby area ⇒ Destroy target resonator with total cost 3 or less.",
    "flavor_text": "Be careful walking about at night. No one knows what lurks in the dark corners of the world.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1833,7 +1833,7 @@
    "race": "Witch",
    "artist": "tokiwa",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[M]: Target resonator gains [-200/0] until end of turn.",
+   "text": "Activate\n\n[M]: Target resonator gains [-200/0] until end of turn.",
    "flavor_text": "The witch appears on a moonlit night to curse all those who cross her path.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1851,7 +1851,7 @@
    "type": "Addition: Resonator",
    "artist": "gozz",
    "expansion": "The Moonlit Savior",
-   "text": "Continuous\nAdded resonator gains [+600/+600] as long as it is with no attribute.",
+   "text": "Continuous\n\nAdded resonator gains [+600/+600] as long as it is with no attribute.",
    "flavor_text": "This strange screw will fit perfectly in any machine.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1871,7 +1871,7 @@
    "race": "Machine",
    "artist": "るみえ",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[1], rest another recovered resonator you control: This card gains [+X/+Y] until end of turn, where X is the ATK and Y is the DEF of the resonator rested this way. This card gains that resonator's symbol skills until end of turn.",
+   "text": "Activate\n\n[1], rest another recovered resonator you control: This card gains [+X/+Y] until end of turn, where X is the ATK and Y is the DEF of the resonator rested this way. This card gains that resonator's symbol skills until end of turn.",
    "flavor_text": "\"Let's go! Marybell, ready for action!\" -Pricia, Pursuant of Exploding Flame",
    "all_sets": "The Moonlit Savior"
   },
@@ -1897,7 +1897,7 @@
    "race": "Beast",
    "artist": "fzwrAym",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 500 damage to your opponent.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ It deals 500 damage to your opponent.",
    "flavor_text": "\"Everyone, please, lend me your strength. I have to be the one who stops Valentina!\"",
    "all_sets": "The Moonlit Savior"
   },
@@ -1955,7 +1955,7 @@
    "type": "Regalia",
    "artist": "SIGMAN",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhenever your J-ruler or an \"Avatar of the Seven Lands, Alice\" you control becomes targeted by spells or abilities ⇒ Cancel that spell or ability unless its controller pays [2].",
+   "text": "Automatic\n\nWhenever your J-ruler or an \"Avatar of the Seven Lands, Alice\" you control becomes targeted by spells or abilities ⇒ Cancel that spell or ability unless its controller pays [2].",
    "flavor_text": "Excalibur has the power to evolve with its wielder.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1973,7 +1973,7 @@
    "type": "Regalia",
    "artist": "祀花よう子",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\nDiscard another card named \"Heavenly Instrument, Hydromonica\": Draw a card.",
+   "text": "Activate\n\nDiscard another card named \"Heavenly Instrument, Hydromonica\": Draw a card.",
    "flavor_text": "Shion played a melody that inspired her troops like no other.",
    "all_sets": "The Moonlit Savior"
   },
@@ -1991,7 +1991,7 @@
    "type": "Regalia",
    "artist": "Mad",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest], banish this card: If your J-ruler is \"Gill Lapis, the Primogenitor\", put it into your ruler area, as a ruler.",
+   "text": "Activate\n\n[rest], banish this card: If your J-ruler is \"Gill Lapis, the Primogenitor\", put it into your ruler area, as a ruler.",
    "flavor_text": "Formerly planet Earth. Even now an entire planet's worth of terror flows forth from the creation.",
    "all_sets": "The Moonlit Savior"
   },
@@ -2009,7 +2009,7 @@
    "type": "Regalia",
    "artist": "kawaryu",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest], banish this card: Return target resonator you control to its owner's hand.",
+   "text": "Activate\n\n[rest], banish this card: Return target resonator you control to its owner's hand.",
    "flavor_text": "\"Hahaha! Pretty cool, huh?\" -Kaguya, the Moonlit Savior",
    "all_sets": "The Moonlit Savior"
   },
@@ -2027,7 +2027,7 @@
    "type": "Regalia",
    "artist": "城戸春一",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[R][R], banish this card: Put a non-regalia card from your removed area into your hand.\nIf your J/ruler is \"The Observer\" or \"Timeline Arsonist, Alisaris\", put up to two non-regalia cards from your removed area into your hand instead. (Reveal any face down card before putting it from your removed area into your hand this way.)",
+   "text": "Activate\n\n[R][R], banish this card: Put a non-regalia card from your removed area into your hand.\n\nIf your J/ruler is \"The Observer\" or \"Timeline Arsonist, Alisaris\", put up to two non-regalia cards from your removed area into your hand instead. (Reveal any face down card before putting it from your removed area into your hand this way.)",
    "flavor_text": "Should it ever break, the world shall know unending fire.",
    "all_sets": "The Moonlit Savior"
   },
@@ -2040,7 +2040,7 @@
    "type": "Special Magic Stone",
    "artist": "gozz",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Produce [M] or [B].",
+   "text": "Activate\n\n[rest]: Produce [M] or [B].",
    "flavor_text": "Light is stolen away into the sky.",
    "all_sets": "The Moonlit Savior"
   },
@@ -2053,7 +2053,7 @@
    "type": "Special Magic Stone",
    "artist": "猫囃子(Nekobayashi)",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Remove the top card of your deck from the game.",
+   "text": "Activate\n\n[rest]: Remove the top card of your deck from the game.",
    "flavor_text": "The memory of disaster is still being carved in Vell-Savaria.",
    "all_sets": "The Moonlit Savior"
   },
@@ -2066,7 +2066,7 @@
    "type": "Special Magic Stone",
    "artist": "fzwrAym",
    "expansion": "The Moonlit Savior",
-   "text": "Automatic\nWhen this card enters your magic stone area ⇒ Name a card. Reveal the top card of your deck, if it's the named card, put it into your hand.",
+   "text": "Automatic\n\nWhen this card enters your magic stone area ⇒ Name a card. Reveal the top card of your deck, if it's the named card, put it into your hand.",
    "flavor_text": "So long as Shion's song continues, this memoria shall shine.",
    "all_sets": "The Moonlit Savior"
   },
@@ -2079,7 +2079,7 @@
    "type": "Special Magic Stone",
    "artist": "乃希",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Produce [M] or [W].",
+   "text": "Activate\n\n[rest]: Produce [M] or [W].",
    "flavor_text": "Light shines down from above.",
    "all_sets": "The Moonlit Savior"
   },
@@ -2092,7 +2092,7 @@
    "type": "Special Magic Stone",
    "artist": "ケルビン",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[G], [rest]: Recover target resonator. Play this ability only during your opponent's turn.",
+   "text": "Activate\n\n[G], [rest]: Recover target resonator. Play this ability only during your opponent's turn.",
    "flavor_text": "The memory of the will of an entire world.",
    "all_sets": "The Moonlit Savior"
   },
@@ -2105,7 +2105,7 @@
    "type": "Basic Magic Stone",
    "artist": "gozz",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "The Moonlit Savior"
   },
   {
@@ -2117,7 +2117,7 @@
    "type": "Basic Magic Stone",
    "artist": "坂井結城",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "The Moonlit Savior"
   },
   {
@@ -2129,7 +2129,7 @@
    "type": "Basic Magic Stone",
    "artist": "下江クリス",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "The Moonlit Savior"
   },
   {
@@ -2141,7 +2141,7 @@
    "type": "Basic Magic Stone",
    "artist": "BANAMONS*",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "The Moonlit Savior"
   },
   {
@@ -2153,7 +2153,7 @@
    "type": "Basic Magic Stone",
    "artist": "たかむらはるき",
    "expansion": "The Moonlit Savior",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "The Moonlit Savior"
   }
  ]

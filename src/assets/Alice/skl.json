@@ -10,7 +10,7 @@
    "race": "Seven Kings",
    "artist": "今野準史",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[W][W]: Target resonator with [Flying] you control gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[W][W]: Target resonator with [Flying] you control gains [+200/+200] until end of turn.",
    "flavor_text": "The ruler of Armalla, the flying city. The wingmen who live on Armalla, the heavenly garden, do not hesitate to sacrifice themselves in its defense. The angels, are summoned to fight thanks to the magic stones.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -25,7 +25,7 @@
    "race": "Seven Kings",
    "artist": "今野隼史",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nGod's Art [W][W][2]: Whenever a J/resonator you control attacks this turn ⇒ this card deals 400 damage to target resonator your opponent controls for each time J/resonators you control attacked this turn. (Play God's Art only once per game.)",
+   "text": "Activate\n\nGod's Art [W][W][2]: Whenever a J/resonator you control attacks this turn ⇒ this card deals 400 damage to target resonator your opponent controls for each time J/resonators you control attacked this turn. (Play God's Art only once per game.)",
    "flavor_text": "\"The sky is weeping... the world is changing unrestrainedly.\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -48,7 +48,7 @@
    "race": "Four Sacred Beasts",
    "artist": "fzwrAym",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ You gain 200 life for each Four Sacred Beasts you control.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You gain 200 life for each Four Sacred Beasts you control.",
    "flavor_text": "It's the Patron's symbol.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -74,7 +74,7 @@
    "race": "Knight of the Round Table",
    "artist": "kakotomirai",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may remove target resonator with 1000 or more ATK from the game.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may remove target resonator with 1000 or more ATK from the game.",
    "flavor_text": "\"The soul just wants a place to go, nothing more.\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -97,7 +97,7 @@
    "race": "Holy Beast",
    "artist": "瞬く",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may destroy target addition.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may destroy target addition.",
    "flavor_text": "The kingdom offers its blessing to anyone and wolves aren’t an exception. These sacred beasts are allied with us in the protection of the kingdom.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -123,7 +123,7 @@
    "race": "Angel",
    "artist": "ピスケ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever this card attacks ⇒ You gain 300 life for each Angel you control.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ You gain 300 life for each Angel you control.",
    "flavor_text": "Summoned by Winged Lord, they are the highest rank in the angelic orders.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -162,7 +162,7 @@
    "race": "Seven Kings",
    "artist": "Mad",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[W][W]: You gain 200 life.",
+   "text": "Activate\n\n[W][W]: You gain 200 life.",
    "flavor_text": "The Sacred Queen Faria, the one who ruled upon Gloria, The Holy Land, was a honest and pure person. Her servants' loyalty to her was supreme. She hated the war, but the people of Gloria thought that she was the most suitable to rule the Seven Kingdoms.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -177,7 +177,7 @@
    "race": "Seven Kings",
    "artist": "Mad",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nGod's Art [W][W][4]: Recover all resonators you control. Play God's Art only once per game.",
+   "text": "Activate\n\nGod's Art [W][W][4]: Recover all resonators you control. Play God's Art only once per game.",
    "flavor_text": "“Sacred Sword that resonates with the spirit of the hero, grant me your power!”",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -217,7 +217,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
+   "text": "Continuous\n\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
    "flavor_text": "It’s the incarnation of the ideals.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -239,7 +239,7 @@
    "race": "Garden",
    "artist": "Fushikaden K.K.",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[W][W], [rest]: Rest target resonator without [Flying].",
+   "text": "Activate\n\n[W][W], [rest]: Rest target resonator without [Flying].",
    "flavor_text": "The wonderful view of the heavenly garden is granted only to those who are able to fly in the sky.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -262,7 +262,7 @@
    "race": "Wingman",
    "artist": "みえ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nPrevent all damage that would be dealt to this card by fire resonators.",
+   "text": "Continuous\n\nPrevent all damage that would be dealt to this card by fire resonators.",
    "flavor_text": "When the Herald of the Winged Lord got to Alice, he began to talk to her choosing his words very carefully.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -305,7 +305,7 @@
    "race": "Angel",
    "artist": "夕子",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nBanish this card: You gain 300 life.",
+   "text": "Activate\n\nBanish this card: You gain 300 life.",
    "flavor_text": "In Armalla, little angels are busy flying around all day to prepare for war.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -346,7 +346,7 @@
    "type": "Addition: Resonator",
    "artist": "下江クリス",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nAdded resonator cannot be attacked or targeted by Chants or abilities your opponent controls.",
+   "text": "Continuous\n\nAdded resonator cannot be attacked or targeted by Chants or abilities your opponent controls.",
    "flavor_text": "A divine blessing, gives absolute protection against the darkness. It also protects from fire, wind and water... and from the light if it'll ever be necessary.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -386,7 +386,7 @@
    "race": "Wingman",
    "artist": "上木乃アロエ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest]: Target resonator gains [Flying] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator gains [Flying] until end of turn.",
    "flavor_text": "The strong sense of responsibility drove this man to wake up even after death.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -406,7 +406,7 @@
    "race": "Soldier",
    "artist": "小泉哲哉",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nBanish this card: This card deals 200 damage to target player or resonator.",
+   "text": "Activate\n\nBanish this card: This card deals 200 damage to target player or resonator.",
    "flavor_text": "Alice, summon a soldier from the Ancient Treasure: I'll think about our next move!",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -428,7 +428,7 @@
    "race": "Mountain",
    "artist": "Cola",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
    "flavor_text": "The volcano is the future. Only the chosen ones will survive.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -473,7 +473,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nYou may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.",
    "flavor_text": "Reality will break the symbol.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -493,7 +493,7 @@
    "race": "Demon",
    "artist": "古城",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[R], banish this card: Target resonator gains [+400/0] until end of turn.",
+   "text": "Activate\n\n[R], banish this card: Target resonator gains [+400/0] until end of turn.",
    "flavor_text": "\"This sensation... it's as if I had already felt it.\" -Alice, the Girl in the Looking Glass",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -511,7 +511,7 @@
    "type": "Addition: Resonator",
    "artist": "七海ルシア",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[R][R]: Add this card to another target resonator.",
+   "text": "Activate\n\n[R][R]: Add this card to another target resonator.",
    "flavor_text": "\"Tremble before me!\" -Melgis, the Flame King",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -582,7 +582,7 @@
    "race": "Knight of the Round Table",
    "artist": "ORETO",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nIf this card would be dealt 700 or less damage, prevent it.",
+   "text": "Continuous\n\nIf this card would be dealt 700 or less damage, prevent it.",
    "flavor_text": "A body sustained by an indomitable spirit.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -596,7 +596,7 @@
    "race": "Seven Kings",
    "artist": "gekko",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[R][R]: This card deals 200 damage to target opponent.",
+   "text": "Activate\n\n[R][R]: This card deals 200 damage to target opponent.",
    "flavor_text": "The top of the big volcano is occupied by the Kingdom of Certo, ruled by the Flame King. On this desolate land, the kingdom survives thanks to war, getting resources from other countries. For this reason, Certo needs an extremely strong ruler.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -611,7 +611,7 @@
    "race": "Seven Kings",
    "artist": "gekko",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nGod's Art [R][R][4]: Destroy target resonator. This card gains [+X/0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art only once per game.",
+   "text": "Activate\n\nGod's Art [R][R][4]: Destroy target resonator. This card gains [+X/0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art only once per game.",
    "flavor_text": "\"Cursed sword, take my anger and give me your strength.\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -643,7 +643,7 @@
    "race": "Twelve Apostles/Snake",
    "artist": "douzen",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Put it on the bottom of its owner's deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Put it on the bottom of its owner's deck.",
    "flavor_text": "Ouroboros is the reincarnation of the world and it incarnates its first rule perfectly.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -712,7 +712,7 @@
    "race": "Fairy Tale",
    "artist": "碧風羽",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever this card attacks ⇒ It may deal 300 damage to target resonator for each passion counter on it. If it does, remove all passion counters from it.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It may deal 300 damage to target resonator for each passion counter on it. If it does, remove all passion counters from it.",
    "flavor_text": "\"I'll burn my heart a bright red, like a ripe apple. Hey, do you dwarves too think like me? Perfect! They should have left it here.\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -758,7 +758,7 @@
    "race": "Four Sacred Beasts",
    "artist": "松本エイト",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ It deals 200 damage to target resonator for each Four Sacred Beasts you control.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ It deals 200 damage to target resonator for each Four Sacred Beasts you control.",
    "flavor_text": "That is the symbol of destruction.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -795,7 +795,7 @@
    "race": "Soldier",
    "artist": "城戸春一",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
    "flavor_text": "Once Alice summoned another soldier from the Ancient Treasure, she began her preparations for the incoming war.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -841,7 +841,7 @@
    "race": "Fairy Tale",
    "artist": "碧風羽",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[U][U]: Return this card to its owner's hand.",
+   "text": "Activate\n\n[U][U]: Return this card to its owner's hand.",
    "flavor_text": "The beautiful and transparent princess made of glass.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -864,7 +864,7 @@
    "race": "Gorgon",
    "artist": "桂福蔵",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[U]: Target Gorgon gains [+200/0] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\n[U]: Target Gorgon gains [+200/0] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Once you lock your eyes with it, regardless of its power, you'll be deprived of your freedom of movement.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -905,7 +905,7 @@
    "type": "Addition: Resonator",
    "artist": "夕子",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nAs long as this card is added to a water resonator, it gains \"Prevent all damage that would be dealt to this card by chants or abilities.\".",
+   "text": "Continuous\n\nAs long as this card is added to a water resonator, it gains \"Prevent all damage that would be dealt to this card by chants or abilities.\".",
    "flavor_text": "One gaze alone was enough to set the bodies on fire.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -928,7 +928,7 @@
    "race": "Gorgon",
    "artist": "石商",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[U]: Gorgons you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\n[U]: Gorgons you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Once you lock your eyes with it, regardless of your bond with reality, you'll be deprived of your connection with the world.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -974,7 +974,7 @@
    "race": "Human",
    "artist": "ぽん吉",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ Return target resonator to its owner's hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Return target resonator to its owner's hand.",
    "flavor_text": "\"What's your problem?! Get away from here!\" -Valentina, the Princess of Love",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -995,7 +995,7 @@
    "type": "Addition: Field",
    "artist": "Fushikaden K.K.",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nAs long as you have five or more cards in your hand, water resonators you control gain [+100/+100].",
+   "text": "Continuous\n\nAs long as you have five or more cards in your hand, water resonators you control gain [+100/+100].",
    "flavor_text": "\"Welcome to my paradise.\" -Valentina, the Princess of Love",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1018,7 +1018,7 @@
    "race": "Human",
    "artist": "塗夢",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.",
    "flavor_text": "She's been put in charge by the Lady of the Ocean to assess the visitors of the city. She must ascertain their strength and, most importantly, the beauty of their faces.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1041,7 +1041,7 @@
    "race": "Gorgon",
    "artist": "藤田",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[U]: Target Gorgon gains [0/+200] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\n[U]: Target Gorgon gains [0/+200] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Once you lock your eyes with it, regardless of your will, you'll be deprived of your freedom to love.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1061,7 +1061,7 @@
    "race": "Human",
    "artist": "Moopic",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest]: Draw a card, then put a card from your hand on the bottom of your deck.",
+   "text": "Activate\n\n[rest]: Draw a card, then put a card from your hand on the bottom of your deck.",
    "flavor_text": "The seaside town of Shangri-La is the center of world trade. Here merchants can greatly profit from their business.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1075,7 +1075,7 @@
    "race": "Seven Kings",
    "artist": "石商",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[U][U]: You may put a water resonator with total cost 2 or less from your hand into your field.",
+   "text": "Activate\n\n[U][U]: You may put a water resonator with total cost 2 or less from your hand into your field.",
    "flavor_text": "The ruler who controls the city that lives on trading: Shangri-La. She loves destiny and beautiful things infinitely. She felt that Alice was destined to be her and so she aimed to own her.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1090,7 +1090,7 @@
    "race": "Seven Kings",
    "artist": "石商",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nGod's Art [U][U][2]: Gain control of target resonator. (Play God's Art only once per game.)",
+   "text": "Activate\n\nGod's Art [U][U][2]: Gain control of target resonator. (Play God's Art only once per game.)",
    "flavor_text": "\"Alice, you'll definitely be mine... this is a meeting decided by fate!\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1113,7 +1113,7 @@
    "race": "Four Sacred Beasts",
    "artist": "Mad",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever this card blocks ⇒ Prevent the next damage it would be dealt until end of turn.",
+   "text": "Automatic\n\nWhenever this card blocks ⇒ Prevent the next damage it would be dealt until end of turn.",
    "flavor_text": "That is the symbol of immobility.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1136,7 +1136,7 @@
    "race": "Beast",
    "artist": "ハタリス",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Target resonator gains [+200/+200] until end of turn.",
    "flavor_text": "That figure instilled a little courage in the heart of those who saw it.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1156,7 +1156,7 @@
    "race": "Soldier",
    "artist": "乃希",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nBanish this card: Prevent all damage that would be dealt by target resonator until end of turn.",
+   "text": "Activate\n\nBanish this card: Prevent all damage that would be dealt by target resonator until end of turn.",
    "flavor_text": "With its divine relic, Alice summons more soldiers to her protection.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1182,7 +1182,7 @@
    "race": "Twelve Apostles/Beast",
    "artist": "スギカワタクミ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever this card deals damage to a resonator while attacking ⇒ It deals that much damage to your opponent.",
+   "text": "Automatic\n\nWhenever this card deals damage to a resonator while attacking ⇒ It deals that much damage to your opponent.",
    "flavor_text": "\"That beast is not from this forest. My instinct is telling me that it's dangerous.\" -Pricia, the Beast Lady",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1220,7 +1220,7 @@
    "type": "Addition: Resonator",
    "artist": "Cola",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nAdded resonator gains [0/+400].",
+   "text": "Continuous\n\nAdded resonator gains [0/+400].",
    "flavor_text": "The branch of the tree of life is considered an amulet of this world.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1246,7 +1246,7 @@
    "race": "Human",
    "artist": "見田航介",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nRest three recovered Beasts you control: Reveal the top card of your deck. If it's a Beast resonator, put it into your hand.",
+   "text": "Activate\n\nRest three recovered Beasts you control: Reveal the top card of your deck. If it's a Beast resonator, put it into your hand.",
    "flavor_text": "In this forest, people attract beasts, and the beasts attract more beasts.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1269,7 +1269,7 @@
    "race": "Beast",
    "artist": "長崎祐子",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[G]: This card gains [+200/+200] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\n[G]: This card gains [+200/+200] until end of turn. Play this ability only once per turn.",
    "flavor_text": "The forest of Shisei is the source of power of the beasts.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1322,7 +1322,7 @@
    "race": "Seven Kings",
    "artist": "fzwrAym",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[G][G]: Target Beast or Four Sacred Beasts gains [+100/+100] until end of turn.",
+   "text": "Activate\n\n[G][G]: Target Beast or Four Sacred Beasts gains [+100/+100] until end of turn.",
    "flavor_text": "The ancient forest is the kingdom of the Beast Lady. She grew up here, learning to communicate with all the wild beasts. She's considered the ruler, they all obey her, even the four sacred beasts.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1337,7 +1337,7 @@
    "race": "Seven Kings",
    "artist": "fzwrAym",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nGod's Art [G][G][G][x]: Search your deck for up to X Four Sacred Beasts resonators with different names, reveal them and put them into your hand. Then put up to X Four Sacred Beasts resonators with different names from your hand into your field and shuffle your deck. (Play God's Art only once per game.)",
+   "text": "Activate\n\nGod's Art [G][G][G][x]: Search your deck for up to X Four Sacred Beasts resonators with different names, reveal them and put them into your hand. Then put up to X Four Sacred Beasts resonators with different names from your hand into your field and shuffle your deck. (Play God's Art only once per game.)",
    "flavor_text": "\"Hey guys, what do we play today?\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1363,7 +1363,7 @@
    "race": "Four Sacred Beasts",
    "artist": "ケルビン",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[1]: Other Four Sacred Beasts resonators you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\n[1]: Other Four Sacred Beasts resonators you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
    "flavor_text": "That is the symbol of rampage.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1400,7 +1400,7 @@
    "race": "Beast",
    "artist": "kakotomirai",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever another resonator enters your field ⇒ This card gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhenever another resonator enters your field ⇒ This card gains [+200/+200] until end of turn.",
    "flavor_text": "Forest dwellers can hardly see the Sacred Beast of Yggdrasil. But when the beast appears to someone it does it as a sign of good luck or terrible misfortune.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1422,7 +1422,7 @@
    "race": "Forest",
    "artist": "ケルビン",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from your field ⇒ You may pay [G][G][1]. If you do, draw a card.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from your field ⇒ You may pay [G][G][1]. If you do, draw a card.",
    "flavor_text": "Yggdrasil, the tree of life is safe in this forest: the area that surrounds it doesn't belong to anyone and it's considered a sacred temple.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1493,7 +1493,7 @@
    "race": "Zombie",
    "artist": "lack",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nRemove three resonators in your graveyard from the game: Put this card from your graveyard into your hand.",
+   "text": "Activate\n\nRemove three resonators in your graveyard from the game: Put this card from your graveyard into your hand.",
    "flavor_text": "\"His mind has been emptied completely, I am confident that from now on he will not betray me!\" -Rezzard, the Undead Lord",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1604,7 +1604,7 @@
    "race": "Reaper",
    "artist": "下江クリス",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ This card deals 200 damage to your opponent and you gain 200 life.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from your opponent's field ⇒ This card deals 200 damage to your opponent and you gain 200 life.",
    "flavor_text": "Don't ask the God of Death where the spirits go. If by chance you'll ever ask him, you may find that out with your very own soul.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1630,7 +1630,7 @@
    "race": "Zombie",
    "artist": "猫噺子",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field from a chant area ⇒ Target resonator your opponent controls gains [-700/-700] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field from a chant area ⇒ Target resonator your opponent controls gains [-700/-700] until end of turn.",
    "flavor_text": "This pain can be felt from the deepest darkness.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1648,7 +1648,7 @@
    "type": "Addition: Resonator",
    "artist": "Moopic",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever a resonator enters your field ⇒ You may add this card from your graveyard to that resonator.",
+   "text": "Automatic\n\nWhenever a resonator enters your field ⇒ You may add this card from your graveyard to that resonator.",
    "flavor_text": "There isn't a better way to get new servants.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1670,7 +1670,7 @@
    "race": "Grave",
    "artist": "tokiwa",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nBanish this card: Put the top five cards of your deck into your graveyard.",
+   "text": "Activate\n\nBanish this card: Put the top five cards of your deck into your graveyard.",
    "flavor_text": "\"Come on, you joined the group already!\" -Rezzard, the Undead Lord",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1696,7 +1696,7 @@
    "race": "Queen",
    "artist": "祀花よう子",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field from a chant area ⇒ Put target resonator with total cost 4 or less from your graveyard into your field.",
+   "text": "Automatic\n\nWhen this card enters your field from a chant area ⇒ Put target resonator with total cost 4 or less from your graveyard into your field.",
    "flavor_text": "\"Hey Rezzard, since you're here, I hope you'll call me if things start getting interesting!\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1716,7 +1716,7 @@
    "race": "Zombie",
    "artist": "森野ヒロ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put the top two cards of your deck into your graveyard.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put the top two cards of your deck into your graveyard.",
    "flavor_text": "For Niflheim Wanderers, death is merely a way to increase the number of followers.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1730,7 +1730,7 @@
    "race": "Seven Kings/Vampire",
    "artist": "touge369",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[B][B]: Put the top two cards of your deck into your graveyard.",
+   "text": "Activate\n\n[B][B]: Put the top two cards of your deck into your graveyard.",
    "flavor_text": "The vampire who rules Nifelheim, the realm of the dead. His nature is brutal and cruel and subtle as well. Hiding in the shadows, he observes the changes in the world, waiting for the right moment to strike.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1745,7 +1745,7 @@
    "race": "Seven Kings/Vampire",
    "artist": "touge369",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nGod's Art [B][B][4]: Remove any number of resonators in your graveyard from the game. For each card removed this way, each player banishes a resonator and discards a card. (Play God's Art only once per game.)",
+   "text": "Activate\n\nGod's Art [B][B][4]: Remove any number of resonators in your graveyard from the game. For each card removed this way, each player banishes a resonator and discards a card. (Play God's Art only once per game.)",
    "flavor_text": "\"Death comes to all, without distinction. I am the only exception.\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1771,7 +1771,7 @@
    "race": "Vampire",
    "artist": "Nagiにゃん",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ It deals 400 damage to your opponent and you gain 400 life.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ It deals 400 damage to your opponent and you gain 400 life.",
    "flavor_text": "Only the delicious blood can elate a vampire.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1811,7 +1811,7 @@
    "race": "Zombie",
    "artist": "おつまみ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put the top two cards of your deck into your graveyard.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put the top two cards of your deck into your graveyard.",
    "flavor_text": "\"Will, Soul and... Life, all unnecessary things in this world!\" -Rezzard, the Undead Lord",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1837,7 +1837,7 @@
    "race": "Zombie",
    "artist": "tokiwa",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ Destroy target resonator your opponent controls that dealt damage this turn.",
+   "text": "Automatic\n\nWhen this card enters your field from a standby area ⇒ Destroy target resonator your opponent controls that dealt damage this turn.",
    "flavor_text": "\"Maybe repeating constantly to pay attention will make them pay attention in the end. Although maybe paying attention won't be enough in that dark land.\" -Faria, the Sacred Queen",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1857,7 +1857,7 @@
    "race": "Machine",
    "artist": "kawaryu",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhenever this card is blocked ⇒ It gains [+200/0] until end of turn.",
+   "text": "Automatic\n\nWhenever this card is blocked ⇒ It gains [+200/0] until end of turn.",
    "flavor_text": "Those matters won't even leave you the time to give orders.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1896,7 +1896,7 @@
    "race": "Machine",
    "artist": "Cola",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[1]: This card gains [+200/0] until end of turn. At the end of turn ⇒ Banish it.",
+   "text": "Activate\n\n[1]: This card gains [+200/0] until end of turn. At the end of turn ⇒ Banish it.",
    "flavor_text": "Despite their mechanisms being small, they hide a mortal blow.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1916,7 +1916,7 @@
    "race": "Machine/Dragon",
    "artist": "松本エイト",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Automatic\nWhen this card is dealt damage ⇒ Destroy it.",
+   "text": "Automatic\n\nWhen this card is dealt damage ⇒ Destroy it.",
    "flavor_text": "\"It was able to copy that as well... and it did not use papier-m?ch?, did it?\" -Melgis, the Flame King",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1935,7 +1935,7 @@
    "race": "Machine",
    "artist": "Nagiにゃん",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[2], [rest]: Target resonator loses [Flying], [First Strike], [Pierce] or [Precision] until end of turn. If it does, another target resonator gains that ability until end of turn.",
+   "text": "Activate\n\n[2], [rest]: Target resonator loses [Flying], [First Strike], [Pierce] or [Precision] until end of turn. If it does, another target resonator gains that ability until end of turn.",
    "flavor_text": "That city keeps producing cold machines with no feelings, endlessly.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1949,7 +1949,7 @@
    "race": "Seven Kings",
    "artist": "るみえ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[x]: Search your deck for an addition or resonator with total cost X or less with no attribute, reveal it and put it into your hand. Then shuffle your deck. Play this ability only once per turn.",
+   "text": "Activate\n\n[x]: Search your deck for an addition or resonator with total cost X or less with no attribute, reveal it and put it into your hand. Then shuffle your deck. Play this ability only once per turn.",
    "flavor_text": "The ruler of Leginus and creator of all the machines. He's managed to create a nearly infinite source of energy thanks to the magic stones. He has no interest in anything other than his research. He considers the entire world his personal laboratory.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -1964,7 +1964,7 @@
    "race": "Seven Kings",
    "artist": "るみえ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nGod's Art [3]: Resonators with no attribute you control cannot be destroyed this turn. (Play God's Art only once per game.)",
+   "text": "Activate\n\nGod's Art [3]: Resonators with no attribute you control cannot be destroyed this turn. (Play God's Art only once per game.)",
    "flavor_text": "\"Go Marybell, with this fight we'll test your abilities.\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2001,7 +2001,7 @@
    "race": "Machine",
    "artist": "SIGMAN",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nBanish this card: Recover target resonator.",
+   "text": "Activate\n\nBanish this card: Recover target resonator.",
    "flavor_text": "The power supply team has only one purpose: to use all its members to provide assistance and spare parts.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2019,7 +2019,7 @@
    "type": "Addition: Resonator",
    "artist": "サウマロ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nIf added resonator would be destroyed, banish this card instead. If you do, remove all damage from that resonator.",
+   "text": "Continuous\n\nIf added resonator would be destroyed, banish this card instead. If you do, remove all damage from that resonator.",
    "flavor_text": "\"Since it cannot be scratched, I'll have to rip it away!\" -Pricia, the Beast Lady",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2039,7 +2039,7 @@
    "race": "Machine",
    "artist": "城戸春一",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest]: Target Machine J/resonator gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[rest]: Target Machine J/resonator gains [+200/+200] until end of turn.",
    "flavor_text": "They can fix anything perfectly, but they have one great weakness: they cannot move instantly.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2053,7 +2053,7 @@
    "race": "Wanderer/Pawn",
    "artist": "Wednesday",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest]: Search your deck for a card named \"Deep Blue, the Phantom Board\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[rest]: Search your deck for a card named \"Deep Blue, the Phantom Board\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Alice touched the divine relic and retrieved some of her memories. These were reflected on the mirror and took shape alongside her.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2068,7 +2068,7 @@
    "race": "Bishop",
    "artist": "Wednesday",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nGod's Art [U][G]: J/resonators you control cannot be targeted by chants or abilities until end of turn. Draw three cards. (Play God's Art only once per game.)",
+   "text": "Activate\n\nGod's Art [U][G]: J/resonators you control cannot be targeted by chants or abilities until end of turn. Draw three cards. (Play God's Art only once per game.)",
    "flavor_text": "\"I haven't forgotten about that time. I will show you that I shall defend everyone once again!\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2083,7 +2083,7 @@
    "race": "Knight",
    "artist": "Wednesday",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nGod's Art [U][R]: This card deals 500 damage to target resonator. You may pay [1]. If you do, copy this ability. You may choose new targets for the copy. (Play God's Art only once per game.)",
+   "text": "Activate\n\nGod's Art [U][R]: This card deals 500 damage to target resonator. You may pay [1]. If you do, copy this ability. You may choose new targets for the copy. (Play God's Art only once per game.)",
    "flavor_text": "\"Magic stones of Grimm's world, lend me a piece of your memories!\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2097,7 +2097,7 @@
    "race": "Minion of Primogenitor",
    "artist": "草薙蝶炎",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nMagic stones you control gain \"[rest]: Produce [R].\".",
+   "text": "Continuous\n\nMagic stones you control gain \"[rest]: Produce [R].\".",
    "flavor_text": "\"Uff, you sure are perstering me!\" -Alice, the Girl in the Looking Glass",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2112,7 +2112,7 @@
    "race": "Minion of Primogenitor",
    "artist": "草薙蝶炎",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Continuous\nThis card gains [+400/+400] as long as you don't control a resonator.",
+   "text": "Continuous\n\nThis card gains [+400/+400] as long as you don't control a resonator.",
    "flavor_text": "\"The strength of a relentless obsession.\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2130,7 +2130,7 @@
    "type": "Regalia",
    "artist": "今野隼史",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest], remove four arrow counters from this card: Destroy target J/resonator with [Flying].",
+   "text": "Activate\n\n[rest], remove four arrow counters from this card: Destroy target J/resonator with [Flying].",
    "flavor_text": "This bow can hit the unseen as well.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2148,7 +2148,7 @@
    "type": "Regalia",
    "artist": "SIGMAN",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nRemove three cards in your graveyard from the game: Put this card from your graveyard into your hand.",
+   "text": "Activate\n\nRemove three cards in your graveyard from the game: Put this card from your graveyard into your hand.",
    "flavor_text": "The body is heavy, life is light.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2166,7 +2166,7 @@
    "type": "Regalia",
    "artist": "gozz",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nDiscard another card named \"Deep Blue, the Phantom Board\": Produce [R], [U] or [G].",
+   "text": "Activate\n\nDiscard another card named \"Deep Blue, the Phantom Board\": Produce [R], [U] or [G].",
    "flavor_text": "What remains of an ancient world.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2184,7 +2184,7 @@
    "type": "Regalia",
    "artist": "長崎祐子",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nDiscard another card named \"Gleipnir, the Red Binding of Fate\": Draw a card.",
+   "text": "Activate\n\nDiscard another card named \"Gleipnir, the Red Binding of Fate\": Draw a card.",
    "flavor_text": "People believe that their actions are the result of their own free will, but they do not know that their destiny has been manipulated.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2202,7 +2202,7 @@
    "type": "Regalia",
    "artist": "Cola",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\nBanish this card: Target player shuffles all magic stones from his or her graveyard into his or her magic stone deck, then shuffles all other cards from his or her graveyard into his or her deck.",
+   "text": "Activate\n\nBanish this card: Target player shuffles all magic stones from his or her graveyard into his or her magic stone deck, then shuffles all other cards from his or her graveyard into his or her deck.",
    "flavor_text": "Its sound is almost imperceptible, but the soldiers of the Beast Lady can recognize it immediately.",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2220,7 +2220,7 @@
    "type": "Regalia",
    "artist": "るみえ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[1], [rest], banish this card: Destroy target regalia.",
+   "text": "Activate\n\n[1], [rest], banish this card: Destroy target regalia.",
    "flavor_text": "\"Master, what are your orders? Shall I beat them to death? Crush them to death? Or tear them apart? Please give orders for the method of extermination required.\"",
    "all_sets": "The Seven Kings of the Lands"
   },
@@ -2233,7 +2233,7 @@
    "type": "Basic Magic Stone",
    "artist": "古城バンビ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "The Seven Kings of the Lands"
   },
   {
@@ -2245,7 +2245,7 @@
    "type": "Basic Magic Stone",
    "artist": "kawaryu",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "The Seven Kings of the Lands"
   },
   {
@@ -2257,7 +2257,7 @@
    "type": "Basic Magic Stone",
    "artist": "佐々木光之助",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "The Seven Kings of the Lands"
   },
   {
@@ -2269,7 +2269,7 @@
    "type": "Basic Magic Stone",
    "artist": "白野椋",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "The Seven Kings of the Lands"
   },
   {
@@ -2281,7 +2281,7 @@
    "type": "Basic Magic Stone",
    "artist": "森野ヒロ",
    "expansion": "The Seven Kings of the Lands",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "The Seven Kings of the Lands"
   }
  ]

@@ -22,7 +22,7 @@
    "race": "Dragon",
    "artist": "Rumie",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [+400/+400] as long as you control a Moon.",
+   "text": "Continuous\n\nThis card gains [+400/+400] as long as you control a Moon.",
    "flavor_text": "Only when she looks at the moon does Ayu let such a longing expression slip. As if looking at something that can never return.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -42,7 +42,7 @@
    "race": "Wererabbit",
    "artist": "j-peg",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [+400/+400] and [Barrier] as long as you control four or more light magic stones.",
+   "text": "Continuous\n\nThis card gains [+400/+400] and [Barrier] as long as you control four or more light magic stones.",
    "flavor_text": "Arcana hold the secrets to the ultimate fate of this world.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -68,7 +68,7 @@
    "race": "Deity",
    "artist": "Retro",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nOther light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.",
+   "text": "Continuous\n\nOther light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.",
    "flavor_text": "\"Lend me your strength, proud war god of antiquity.\" -Misteltein, the Pious Sword Saint",
    "all_sets": "Awakening of the Ancients"
   },
@@ -94,7 +94,7 @@
    "race": "Human",
    "artist": "yuhki lily",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nAt the end of your turn ⇒ Recover this card.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Recover this card.",
    "flavor_text": "Practicing repetitive drills constantly has led to perfect unceasing form.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -114,7 +114,7 @@
    "race": "Valkyrie",
    "artist": "KONNO Takashi",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nBanish this card: Target resonator gains [Eternal] until end of turn.",
+   "text": "Activate\n\nBanish this card: Target resonator gains [Eternal] until end of turn.",
    "flavor_text": "There's no greater honor than to die for your lord.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -143,7 +143,7 @@
    "race": "Beast",
    "artist": "SO",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Destroy all resonators with [Flying] your opponent controls.",
+   "text": "Automatic\n\n[Enter] ⇒ Destroy all resonators with [Flying] your opponent controls.",
    "flavor_text": "The god sealed within Linorsphairia had been influenced by Alice's fairy tale power, taking the form of a large, flying, whale-like beast.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -162,7 +162,7 @@
    "race": "Ancient Ruins",
    "artist": "gozz",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nResonators you control gain [+200/+200] as long as there are three or more grave-post counters on this card. As long as there are seven or more grave-post counters on this card, they gain [+400/+400] instead.",
+   "text": "Continuous\n\nResonators you control gain [+200/+200] as long as there are three or more grave-post counters on this card. As long as there are seven or more grave-post counters on this card, they gain [+400/+400] instead.",
    "flavor_text": "All alone, Ares continued to protect these grounds.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -188,7 +188,7 @@
    "race": "Heroic Spirit",
    "artist": "tokiwa",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nWhenever a resonator you control attacks ⇒ You gain 400 life.",
+   "text": "Automatic\n\nWhenever a resonator you control attacks ⇒ You gain 400 life.",
    "flavor_text": "Blessings are granted to those of great faith. Even if they may be a horse.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -208,7 +208,7 @@
    "race": "Valkyrie",
    "artist": "KAZTO FURUYA",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[r]: This card gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[r]: This card gains [+200/+200] until end of turn.",
    "flavor_text": "She will do anything to see her lord's ambitions through.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -230,7 +230,7 @@
    "race": "Ancient Ruins",
    "artist": "mita kura",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nAt the beginning of you main phase ⇒ Produce [w]. If there are four or more runes revealed from your rune area, produce [w][w] instead.",
+   "text": "Automatic\n\nAt the beginning of you main phase ⇒ Produce [w]. If there are four or more runes revealed from your rune area, produce [w][w] instead.",
    "flavor_text": "In the last moments of the war, the spirits of Linorsphairia cut off the land from that world and brought it to this one.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -293,7 +293,7 @@
    "race": "Treasury Item",
    "artist": "Kusanagi Tyouen",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[Rest], discard a card, remove this card from the game: Produce [w][w][w].",
+   "text": "Activate\n\n[Rest], discard a card, remove this card from the game: Produce [w][w][w].",
    "flavor_text": "The wills of many have coalesced over the years, giving birth to the treasure tree.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -380,7 +380,7 @@
    "race": "Spirit",
    "artist": "Haruichi Kido",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nPrevent all damage that would be dealt to this card by resonators during your opponent's turn.",
+   "text": "Continuous\n\nPrevent all damage that would be dealt to this card by resonators during your opponent's turn.",
    "flavor_text": "Try to catch cloud, all you will find is thin air.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -444,7 +444,7 @@
    "race": "Spirit",
    "artist": "ShiroYayoi",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [Drain] as long as you control seven or more light magic stones.",
+   "text": "Continuous\n\nThis card gains [Drain] as long as you control seven or more light magic stones.",
    "flavor_text": "\"Where am I? My, what a lovely moon.\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -467,7 +467,7 @@
    "race": "Ancient Ruins",
    "artist": "Kakiken",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[Rest]: Put a [+100/+100] counter on target fire resonator.",
+   "text": "Activate\n\n[Rest]: Put a [+100/+100] counter on target fire resonator.",
    "flavor_text": "Asakna was once a city of many brave warriors. It now stands forgotten by the world.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -490,7 +490,7 @@
    "race": "Sand/Beast",
    "artist": "Haruki Komai",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Banish a fire magic stone.",
+   "text": "Automatic\n\n[Enter] ⇒ Banish a fire magic stone.",
    "flavor_text": "These birds are sometimes used within the palace to transport hot foods.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -560,7 +560,7 @@
    "race": "Heroic Spirit",
    "artist": "yuko",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nWhen this card is targeted by a spell ⇒ Banish it.",
+   "text": "Automatic\n\nWhen this card is targeted by a spell ⇒ Banish it.",
    "flavor_text": "Unsatisfied with their battles in life, this Asakna soldier walks again.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -583,7 +583,7 @@
    "race": "Human",
    "artist": "Yuko Nagasaki",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [0/+300] and [Swiftness] as long as you control two or more other resonators.",
+   "text": "Continuous\n\nThis card gains [0/+300] and [Swiftness] as long as you control two or more other resonators.",
    "flavor_text": "Isis is always accompanied by her guards. Strangely enough, their main duty is to stop Isis from getting into trouble.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -609,7 +609,7 @@
    "race": "Human",
    "artist": "Azuza",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Target resonator gains [+400/0] until end of turn.",
+   "text": "Automatic\n\n[Enter] ⇒ Target resonator gains [+400/0] until end of turn.",
    "flavor_text": "The name \"Kanna\" is passed down through the generations. Along with the duty of guarding the sealed god.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -629,7 +629,7 @@
    "race": "Human",
    "artist": "KAZTO FURUYA",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[Rest]: Target fire resonator gains [+200/+200] until end of turn. If it's \"Kanna, Descendent of the Oracle\", it also gains [Swiftness] and [Precision].",
+   "text": "Activate\n\n[Rest]: Target fire resonator gains [+200/+200] until end of turn. If it's \"Kanna, Descendent of the Oracle\", it also gains [Swiftness] and [Precision].",
    "flavor_text": "\"Ms. Zhuge Liang. We've been expecting you. Please, come right this way.\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -670,7 +670,7 @@
    "race": "Sand/Moon",
    "artist": "haniwa",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nWhen this card leaves the field ⇒ It deals 300 damage multiplied by the number of fire magic stones you control to each resonator.",
+   "text": "Automatic\n\nWhen this card leaves the field ⇒ It deals 300 damage multiplied by the number of fire magic stones you control to each resonator.",
    "flavor_text": "\"Scatter about, moon of chaos.\" -Nyarlathotep, the Return of Chaos",
    "all_sets": "Awakening of the Ancients"
   },
@@ -696,7 +696,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.",
    "flavor_text": "\"Nothing is bigger than a mountain. That's my strategy.\" -Zhuge Liang",
    "all_sets": "Awakening of the Ancients"
   },
@@ -719,7 +719,7 @@
    "race": "Cthulhu/Wanderer",
    "artist": "yuko",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[r][r], remove this card in your graveyard from the game, banish a fire magic stone: Destroy target resonator.",
+   "text": "Activate\n\n[r][r], remove this card in your graveyard from the game, banish a fire magic stone: Destroy target resonator.",
    "flavor_text": "\"Just like truth and fiction, order and chaos will always contradict. So don't go counting me out, I'll always be there when you least expect it... It's no lie you know!\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -763,7 +763,7 @@
    "race": "Cthulhu",
    "artist": "Shosuke",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [+300/+300] and [Swiftness] as long as you control four or more fire magic stones.",
+   "text": "Continuous\n\nThis card gains [+300/+300] and [Swiftness] as long as you control four or more fire magic stones.",
    "flavor_text": "\"This otherworldly being is an ally? ...So be it.\" -Isis",
    "all_sets": "Awakening of the Ancients"
   },
@@ -783,7 +783,7 @@
    "race": "Ascendant",
    "artist": "SIE NANAHARA",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[Rest], [r], discard a fire card: This card deals 600 damage to target resonator.",
+   "text": "Activate\n\n[Rest], [r], discard a fire card: This card deals 600 damage to target resonator.",
    "flavor_text": "\"I'll show you the power of what lies between heaven and earth!\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -807,7 +807,7 @@
    "type": "Chant/Master Rune(Divinity 2)",
    "artist": "yuko",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.",
+   "text": "Continuous\n\nThis card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.",
    "flavor_text": "The power of ancient Valhalla begins to resonate with the chaos.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -857,7 +857,7 @@
    "race": "Dragon",
    "artist": "Moopic",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ You may discard a card at random. If you do, this card deals 800 damage to target resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ You may discard a card at random. If you do, this card deals 800 damage to target resonator.",
    "flavor_text": "\"Nothing is faster than thunder. That's my strategy. What? You got a problem!?\" -Zhuge Liang",
    "all_sets": "Awakening of the Ancients"
   },
@@ -886,7 +886,7 @@
    "race": "Human",
    "artist": "Foo Midori",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.",
+   "text": "Automatic\n\n[Enter] ⇒ Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.",
    "flavor_text": "The flames of loyalty have continued to burn for all these years, ever since the time of ancient Valhalla.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -931,7 +931,7 @@
    "race": "Machine",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Look at the top five cards of your deck. You may put a card named \"Butterfly Gimmick\" from among them into the field. Put the rest on the bottom of your deck in a random order.",
+   "text": "Automatic\n\n[Enter] ⇒ Look at the top five cards of your deck. You may put a card named \"Butterfly Gimmick\" from among them into the field. Put the rest on the bottom of your deck in a random order.",
    "flavor_text": "The butterfly gimmicks overlap, soaring as one.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -954,7 +954,7 @@
    "race": "Wizard",
    "artist": "Hayama Kohei",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Search your deck for a card and put it into your graveyard. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] ⇒ Search your deck for a card and put it into your graveyard. Then shuffle your deck.",
    "flavor_text": "\"An envoy from you of all people, how rare. I wonder, has time treated you well?\" -Loki",
    "all_sets": "Awakening of the Ancients"
   },
@@ -998,7 +998,7 @@
    "race": "Beast",
    "artist": "Kelvin",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Put target resonator on top of its owner's deck. Draw two cards.",
+   "text": "Automatic\n\n[Enter] ⇒ Put target resonator on top of its owner's deck. Draw two cards.",
    "flavor_text": "\"This isn't even his final form! Hehe, just kidding.\" -Loki",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1021,7 +1021,7 @@
    "race": "Fairy Tale",
    "artist": "RYUEMON",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Reveal the top card of your deck. If it's a resonator, put it into the field.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Reveal the top card of your deck. If it's a resonator, put it into the field.",
    "flavor_text": "The mirror will answer any question... But those who hear that answer always fall into despair.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1041,7 +1041,7 @@
    "race": "Wizard/Machine",
    "artist": "kurisu",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nIf you would draw a card during your draw phase, you may instead look at the top two cards of your deck, put a card from among them into your hand and the rest into your graveyard.",
+   "text": "Continuous\n\nIf you would draw a card during your draw phase, you may instead look at the top two cards of your deck, put a card from among them into your hand and the rest into your graveyard.",
    "flavor_text": "\"I've already failed once to protect what was dear to me. Tell me. What am I to protect now?\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1061,7 +1061,7 @@
    "race": "Machine",
    "artist": "M ganzy",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [+300/+300] and \"This card cannot be blocked.\" as long as you control four or more water magic stones.",
+   "text": "Continuous\n\nThis card gains [+300/+300] and \"This card cannot be blocked.\" as long as you control four or more water magic stones.",
    "flavor_text": "A walking cane with no care for its original function.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1087,7 +1087,7 @@
    "race": "God/Wanderer",
    "artist": "IWAO",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[Rest], banish this card: Produce [u] for each resonator you control. Play this ability only during your turn.",
+   "text": "Activate\n\n[Rest], banish this card: Produce [u] for each resonator you control. Play this ability only during your turn.",
    "flavor_text": "\"Welcome back, my other half.\" -Loki",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1176,7 +1176,7 @@
    "race": "Machine",
    "artist": "Shinichi Chiba",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nBanish another Machine resonator: Return target resonator to its owner's hand.",
+   "text": "Activate\n\nBanish another Machine resonator: Return target resonator to its owner's hand.",
    "flavor_text": "\"I'm counting on you, Leviathan!\" -Freya",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1199,7 +1199,7 @@
    "race": "Machine",
    "artist": "Shinichi Chiba",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nBanish two \"Mini Leviathan\": Search your deck for a card with \"Leviathan\" in its name and put it into the field. Then shuffle your deck.",
+   "text": "Activate\n\nBanish two \"Mini Leviathan\": Search your deck for a card with \"Leviathan\" in its name and put it into the field. Then shuffle your deck.",
    "flavor_text": "Petit as it may be, it is still a Leviathan. Let your guard down and you'll be crushed to bits.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1246,7 +1246,7 @@
    "race": "Machine",
    "artist": "Shinichi Chiba",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[u], banish this card: Recover target Machine.",
+   "text": "Activate\n\n[u], banish this card: Recover target Machine.",
    "flavor_text": "\"Let the mending procedure begin.\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1265,7 +1265,7 @@
    "race": "Ancient Ruins",
    "artist": "Kakiken",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[u][u][1]: Remove a ruin counter from this card.",
+   "text": "Activate\n\n[u][u][1]: Remove a ruin counter from this card.",
    "flavor_text": "Before the war of Valhalla, this capital was laid to waste. The only clue is a single memory of Freya's, someone of great dark power had been here.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1312,7 +1312,7 @@
    "race": "House",
    "artist": "noki",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nRest another recovered resonator you control: This card gains [+200/+200] until end of turn.",
+   "text": "Activate\n\nRest another recovered resonator you control: This card gains [+200/+200] until end of turn.",
    "flavor_text": "\"Houses don't walk?\" \"There's no way something so boring could be true!\" -Hansel and Gretel",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1359,7 +1359,7 @@
    "race": "Cthulhu",
    "artist": "Saiko Takaki",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[u], remove three resonators in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.",
+   "text": "Activate\n\n[u], remove three resonators in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.",
    "flavor_text": "\"How cute! I'm going to make you my new pet!\" -Loki",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1399,7 +1399,7 @@
    "race": "Mouse/Wanderer",
    "artist": "Yukie TAJIMA",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[Rest], remove two intellect counters from this card: Search your deck for a chant, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[Rest], remove two intellect counters from this card: Search your deck for a chant, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"I have no likes or dislikes. Except cats. Cats are the worst.\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1421,7 +1421,7 @@
    "race": "Ancient Ruins",
    "artist": "ComamitsuZaki",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nWhenever a wind resonator you control is targeted by a spell or ability your opponent controls ⇒ Counter that spell or ability unless its controller pays [1].",
+   "text": "Automatic\n\nWhenever a wind resonator you control is targeted by a spell or ability your opponent controls ⇒ Counter that spell or ability unless its controller pays [1].",
    "flavor_text": "Near the end of the war, chief god Bastet formed a barrier to protect the ones they loved.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1444,7 +1444,7 @@
    "race": "Shikigami",
    "artist": "Yuko Nagasaki",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Recover two target magic stones if you control a Yin-Yang Master.",
+   "text": "Automatic\n\n[Enter] ⇒ Recover two target magic stones if you control a Yin-Yang Master.",
    "flavor_text": "A yin-yang master's best friend.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1487,7 +1487,7 @@
    "race": "Mimi Tribe",
    "artist": "ponkichi",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nDiscard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\nDiscard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Their party composition is a mess, their methods varied, but they are of one shared goal.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1510,7 +1510,7 @@
    "race": "Cat/Shikigami",
    "artist": "Matsurika Yoko",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Recover target Cat.",
+   "text": "Automatic\n\n[Enter] ⇒ Recover target Cat.",
    "flavor_text": "\"Yes, much has happened since then. For starters, would you like to see my dance?\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1556,7 +1556,7 @@
    "race": "Beast",
    "artist": "Hayama Kohei",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [+200/+200] as long as you control a water magic stone.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as you control a water magic stone.",
    "flavor_text": "When the Mimi tribe approach bodies of water, making themselves appear as unappetizing as possible is a crucial step in survival.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1598,7 +1598,7 @@
    "race": "Shikigami",
    "artist": "SAGAWA ASUKA",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [+100/+100] and [Swiftness] as long as you control a Yin-Yang Master.",
+   "text": "Continuous\n\nThis card gains [+100/+100] and [Swiftness] as long as you control a Yin-Yang Master.",
    "flavor_text": "\"I can see, hear, and speak just fine!\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1641,7 +1641,7 @@
    "race": "Shikigami",
    "artist": "Miko Yamazaki",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [+200/+200] as long as you control a Yin-Yang Master.",
+   "text": "Continuous\n\nThis card gains [+200/+200] as long as you control a Yin-Yang Master.",
    "flavor_text": "The sensation and words of the shikigami are passed through Rikugou before reaching Seimei.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1661,7 +1661,7 @@
    "race": "Cat/Ninja",
    "artist": "SIGMAN",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [+400/+400] and \"This card cannot be attacked.\" as long as you control four or more wind magic stones.",
+   "text": "Continuous\n\nThis card gains [+400/+400] and \"This card cannot be attacked.\" as long as you control four or more wind magic stones.",
    "flavor_text": "Transporting scrolls is an excellent way to learn the fundamentals of being a ninja.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1687,7 +1687,7 @@
    "race": "Cat/Yin-Yang Master",
    "artist": "Fukuzo Katsura",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nBanish a Shikigami: This card gains [Barrier] until end of turn.",
+   "text": "Activate\n\nBanish a Shikigami: This card gains [Barrier] until end of turn.",
    "flavor_text": "\"Yes, you may touch them. But the shikigami only listen to my commands.\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1747,7 +1747,7 @@
    "race": "Mimi Tribe/Beast",
    "artist": "yua",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nBanish this card: Target resonator gains [+400/+400] until end of turn.",
+   "text": "Activate\n\nBanish this card: Target resonator gains [+400/+400] until end of turn.",
    "flavor_text": "\"In times of danger, call upon the three beast warriors.\" -Legend Passed Down Within the Mimi Tribe",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1770,7 +1770,7 @@
    "race": "Mimi Tribe/Beast",
    "artist": "hatarisu",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nWhenever this card attacks ⇒ You gain 500 life.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ You gain 500 life.",
    "flavor_text": "Chamimi sensed danger approaching the Lost Isles and sent a messenger for the three beast warriors.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1796,7 +1796,7 @@
    "race": "Mimi Tribe/Beast",
    "artist": "gajumaru",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Draw a card if you control another Mimi Tribe.",
+   "text": "Automatic\n\n[Enter] ⇒ Draw a card if you control another Mimi Tribe.",
    "flavor_text": "As per legend, Chamimi summoned the three beast warriors. Now she's at a loss as to what to do next.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1821,7 +1821,7 @@
    "type": "Resonator",
    "race": "Spirit",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[Rest], banish two other resonators: Destroy target resonator.",
+   "text": "Activate\n\n[Rest], banish two other resonators: Destroy target resonator.",
    "flavor_text": "She lives to harvest. No matter what it may be.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1841,7 +1841,7 @@
    "race": "Human",
    "artist": "haniwa",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[Rest], [b], banish this card: Put target darkness resonator from your graveyard into your hand.",
+   "text": "Activate\n\n[Rest], [b], banish this card: Put target darkness resonator from your graveyard into your hand.",
    "flavor_text": "Lucifer prepared many sacrifices to break the seal on the altar.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1864,7 +1864,7 @@
    "race": "Zombie",
    "artist": "TAKUMI",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n[b][b][b][1]: Put this card from your graveyard into the field. Play this ability only during your turn.",
+   "text": "Activate\n\n[b][b][b][1]: Put this card from your graveyard into the field. Play this ability only during your turn.",
    "flavor_text": "The crawling undead are getting restless. What could Oborozuki be plotting?",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1890,7 +1890,7 @@
    "race": "Demon",
    "artist": "touge369",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nPay 600 life: This card gains [Eternal] until end of turn.",
+   "text": "Activate\n\nPay 600 life: This card gains [Eternal] until end of turn.",
    "flavor_text": "\"We welcome madness.\" -Lucifer",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1966,7 +1966,7 @@
    "race": "Beast",
    "artist": "douzen",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Remove up to two target cards in your opponent's graveyard from the game. Then put [+100/+100] counters on this card equal to the number of cards removed this way.",
+   "text": "Automatic\n\n[Enter] ⇒ Remove up to two target cards in your opponent's graveyard from the game. Then put [+100/+100] counters on this card equal to the number of cards removed this way.",
    "flavor_text": "Some people say nothing soothes the spirit better than a good meal. They must've never met an undead.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2006,7 +2006,7 @@
    "race": "Wizard",
    "artist": "Nakaba Higurashi",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field ⇒ Search your magic stone deck for a card named \"Darkness Magic Stone\" and put it into the field. Then shuffle your magic stone deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Search your magic stone deck for a card named \"Darkness Magic Stone\" and put it into the field. Then shuffle your magic stone deck.",
    "flavor_text": "As the spring turned impure, so too did her heart.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2032,7 +2032,7 @@
    "race": "Wizard",
    "artist": "Tomomi TOMIDA",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n[Enter] ⇒ Put two [100/100] darkness Skeleton resonator tokens into the field.",
+   "text": "Automatic\n\n[Enter] ⇒ Put two [100/100] darkness Skeleton resonator tokens into the field.",
    "flavor_text": "The darkness within cannot be perceived from outside. Only she herself knows how deep her darkness runs.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2055,7 +2055,7 @@
    "race": "Zombie",
    "artist": "Shosuke",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\nWhenever this card attacks ⇒ You may remove target card in your opponent's graveyard from the game.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ You may remove target card in your opponent's graveyard from the game.",
    "flavor_text": "\"Strong and sexy!\" -Laurier, Dark Corpse Sorceress",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2078,7 +2078,7 @@
    "race": "Vampire",
    "artist": "Mayo",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nPay 300 life: Produce [w],[r],[u],[g], or [b]. Play this ability only once per turn.",
+   "text": "Activate\n\nPay 300 life: Produce [w],[r],[u],[g], or [b]. Play this ability only once per turn.",
    "flavor_text": "All they've been informed is that the Perfect Matrix serves as a casket of magic energy.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2107,7 +2107,7 @@
    "race": "Vampire/Wanderer",
    "artist": "lack",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\nThis card gains [+1000/+1000] as long as you control ten or more magic stones.",
+   "text": "Continuous\n\nThis card gains [+1000/+1000] as long as you control ten or more magic stones.",
    "flavor_text": "Athenia in tow, Oborozuki used her overwhelming might to convince the beings of the Abyss to work towards her cause. What that was and what her true intentions are remain a mystery to all.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2198,7 +2198,7 @@
    "race": "Ancient Ruins",
    "artist": "Mad",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\nBanish this card: Search your deck for a resonator with total cost X or less and put it into the field, where X is the number of offering counters that were on this card. Then shuffle your deck.",
+   "text": "Activate\n\nBanish this card: Search your deck for a resonator with total cost X or less and put it into the field, where X is the number of offering counters that were on this card. Then shuffle your deck.",
    "flavor_text": "The altar contains the most detestable existences of Valhalla, locked away beneath countless seals.",
    "all_sets": "Awakening of the Ancients"
   }

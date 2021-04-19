@@ -10,7 +10,7 @@
    "race": "Wanderer",
    "artist": "Wednesday",
    "expansion": "The Twilight Wanderer",
-   "text": "Judgement\n[8]. You may pay [1] less to play this ability for each Fairy you control.",
+   "text": "Judgement\n\n[8]. You may pay [1] less to play this ability for each Fairy you control.",
    "flavor_text": "While dozing off, Alice saw a dream. A dream of a world she used to belong to.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -25,7 +25,7 @@
    "race": "Queen/Fairy",
    "artist": "Wednesday",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nGod's Art [Reminiscence of Utopia] [W][W]: J/resonators you control gain [+200/+200]. Search your deck for a card named \"Excalibur, the Spirit God's Sword\" and put it into your field. Then shuffle your deck. (Play God's Art [Reminiscence of Utopia] only once per game.)",
+   "text": "Activate\n\nGod's Art [Reminiscence of Utopia] [W][W]: J/resonators you control gain [+200/+200]. Search your deck for a card named \"Excalibur, the Spirit God's Sword\" and put it into your field. Then shuffle your deck. (Play God's Art [Reminiscence of Utopia] only once per game.)",
    "flavor_text": "When Alice awoke, she remembered what needed to be done, and the foe that must be defeated.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -45,7 +45,7 @@
    "race": "Soldier",
    "artist": "城戸春一",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[W], banish this card：Recover target resonator.",
+   "text": "Activate\n\n[W], banish this card：Recover target resonator.",
    "flavor_text": "Alice called the final soldier from the Ancient Treasury, and turned to face the battle.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -71,7 +71,7 @@
    "race": "Knight of the Round Table",
    "artist": "lack",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Target resonator gains [0/+800] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator gains [0/+800] until end of turn.",
    "flavor_text": "With the power he holds, he is ready to take on any burden.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -94,7 +94,7 @@
    "race": "Fairy",
    "artist": "長崎祐子",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nOther Fairy J/resonators you control gain [+200/0].",
+   "text": "Continuous\n\nOther Fairy J/resonators you control gain [+200/0].",
    "flavor_text": "When that fairy smiles, it signals an attack that will tear the opponent to pieces.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -139,7 +139,7 @@
    "race": "Knight of the Round Table",
    "artist": "touge369",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.",
    "flavor_text": "\"Galahad was recognized as the greatest knight of King Arthur.\" —Tales of King Arthur",
    "all_sets": "The Twilight Wanderer"
   },
@@ -162,7 +162,7 @@
    "race": "Knight of the Round Table",
    "artist": "ORETO",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
+   "text": "Automatic\n\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
    "flavor_text": "\"I failed to protect my ruler in the past. In this world, I'll protect you at any cost.\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -184,7 +184,7 @@
    "race": "Castle",
    "artist": "Fushikaden K.K.",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
+   "text": "Automatic\n\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
    "flavor_text": "Gloria lived a period of high prosperity under the guidance of the Sacred Queen.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -205,7 +205,7 @@
    "type": "Chant",
    "artist": "あき",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nRemove target addition or resonator that has or shares the highest ATK from the game. As long as your J-ruler is \"Alice, Fairy Queen\", you may pay [W][W] less to play its God's Art abilities this turn.",
+   "text": "Continuous\n\nRemove target addition or resonator that has or shares the highest ATK from the game. As long as your J-ruler is \"Alice, Fairy Queen\", you may pay [W][W] less to play its God's Art abilities this turn.",
    "flavor_text": "\"Now feel the light of hope, Grand Cross!\"—Alice, Fairy Queen",
    "all_sets": "The Twilight Wanderer"
   },
@@ -242,7 +242,7 @@
    "race": "Fairy",
    "artist": "みえ",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Gain 100 life for each Fairy you control.",
+   "text": "Activate\n\n[rest]: Gain 100 life for each Fairy you control.",
    "flavor_text": "\"Such a warm light...are you the ones who saved me?\"—Alice, Girl of the Lake",
    "all_sets": "The Twilight Wanderer"
   },
@@ -265,7 +265,7 @@
    "race": "Fairy",
    "artist": "上木乃アロエ",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nOther Fairy J/resonators you control gain [+200/0].",
+   "text": "Continuous\n\nOther Fairy J/resonators you control gain [+200/0].",
    "flavor_text": "When that fairy smiles, it signals a defense that will save any ally.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -285,7 +285,7 @@
    "race": "Knight of the Round Table",
    "artist": "碧風羽",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Prevent all damage that would be dealt to target J-ruler or Knight of the Round Table until end of turn.",
+   "text": "Activate\n\nBanish this card: Prevent all damage that would be dealt to target J-ruler or Knight of the Round Table until end of turn.",
    "flavor_text": "To her, this is the beginning of a new search for the Grail.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -320,7 +320,7 @@
    "type": "Addition: Resonator",
    "artist": "白野椋",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Prevent the next damage that would be dealt to target resonator until end of turn.",
+   "text": "Activate\n\nBanish this card: Prevent the next damage that would be dealt to target resonator until end of turn.",
    "flavor_text": "\"That power...it could kill in an instant, but instead they prolong the suffering.\" —Dark Alice, Maiden of Slaughter",
    "all_sets": "The Twilight Wanderer"
   },
@@ -363,7 +363,7 @@
    "race": "Fairy",
    "artist": "祀花よう子",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever a Fairy resonator enters your field ⇒ Fairy J/resonators you control gain [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhenever a Fairy resonator enters your field ⇒ Fairy J/resonators you control gain [+200/+200] until end of turn.",
    "flavor_text": "Providing guidance to generations of heroes.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -403,7 +403,7 @@
    "type": "Addition: Field",
    "artist": "Fushikaden K.K.",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nIf a normal spell you control would deal damage, it deals that much +200 instead.",
+   "text": "Continuous\n\nIf a normal spell you control would deal damage, it deals that much +200 instead.",
    "flavor_text": "\"Isn't this world kind of warm?\" \"No, I'm a little cold.\" \"Really?\" \"Really.\" —Reflect, Child of Potential and Refrain, Child of Convergence",
    "all_sets": "The Twilight Wanderer"
   },
@@ -491,7 +491,7 @@
    "race": "Human",
    "artist": "乃希",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nAs long as you control a Dragon, this card gains [Flying].",
+   "text": "Continuous\n\nAs long as you control a Dragon, this card gains [Flying].",
    "flavor_text": "To bond with a dragon is to leave the lands of Certo behind. It is an ancient art of survival.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -511,7 +511,7 @@
    "race": "Fairy",
    "artist": "Fushikaden K.K.",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: This card deals 100 damage to target resonator for each Fairy you control.",
+   "text": "Activate\n\n[rest]: This card deals 100 damage to target resonator for each Fairy you control.",
    "flavor_text": "Passing warmth becomes searing heat.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -534,7 +534,7 @@
    "race": "Dragon",
    "artist": "七海ルシア",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[R]: This card gains [+200/0] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [+200/0] until end of turn.",
    "flavor_text": "The fact that dragons breathe fire is useful in battle, but makes it difficult to tame them.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -574,7 +574,7 @@
    "race": "Queen",
    "artist": "祀花よう子",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[R], [rest]: Target resonator you control gains [+400/+400] until end of turn. When it deals or is dealt damage this turn, banish it.",
+   "text": "Activate\n\n[R], [rest]: Target resonator you control gains [+400/+400] until end of turn. When it deals or is dealt damage this turn, banish it.",
    "flavor_text": "\"Oh, seems I made another mistake...please bring me the next one.\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -597,7 +597,7 @@
    "race": "Knight of the Round Table",
    "artist": "ハタリス",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [+400/0] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Target resonator gains [+400/0] until end of turn.",
    "flavor_text": "\"This world? I don't care. I'll follow Lancelot anywhere, come what may.\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -620,7 +620,7 @@
    "race": "Knight of the Round Table",
    "artist": "スギカワタクミ",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[R]: This card gains [+100/0] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [+100/0] until end of turn.",
    "flavor_text": "The nature of a summoned hero depends on the nature of the summoner. The power of the demon sword changed him into a cruel knight.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -638,7 +638,7 @@
    "type": "Addition: Resonator",
    "artist": "白野椋",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: This card deals 200 damage to target J/resonator.",
+   "text": "Activate\n\nBanish this card: This card deals 200 damage to target J/resonator.",
    "flavor_text": "These bright burning matches proved too difficult to sell, but they helped sell a lot of water.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -667,7 +667,7 @@
    "race": "Twelve Apostles/Phoenix",
    "artist": "gozz",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may pay [R][R]. If you do, put this card into its owner's field.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ You may pay [R][R]. If you do, put this card into its owner's field.",
    "flavor_text": "Even the immortal flame cannot match a fragment of the Original King's power.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -681,7 +681,7 @@
    "race": "Minion of Primogenitor",
    "artist": "SIGMAN",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nFire magic stones you control gain \"[rest]: Produce [G]\".",
+   "text": "Activate\n\nFire magic stones you control gain \"[rest]: Produce [G]\".",
    "flavor_text": "\"So, shall I show you the power that defeated Blazer?\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -696,7 +696,7 @@
    "race": "Minion of Primogenitor/Dragon",
    "artist": "SIGMAN",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever a J/resonator that was dealt damage by this card this turn is destroyed ⇒ You may recover up to three target magic stones you control.",
+   "text": "Automatic\n\nWhenever a J/resonator that was dealt damage by this card this turn is destroyed ⇒ You may recover up to three target magic stones you control.",
    "flavor_text": "With just the beat of her wings she twisted and contorted the battlefield.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -719,7 +719,7 @@
    "race": "Dragon",
    "artist": "七海ルシア",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[R]: This card gains [+100/0] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [+100/0] until end of turn.",
    "flavor_text": "They're prepared to make the necessary sacrifice.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -762,7 +762,7 @@
    "race": "Fairy Tale",
    "artist": "碧風羽",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nDiscard a card named \"Magic Matchstick\": This card deals 400 damage to target J/resonator.",
+   "text": "Activate\n\nDiscard a card named \"Magic Matchstick\": This card deals 400 damage to target J/resonator.",
    "flavor_text": "I can't even sell one... everyone, look how bright they burn!",
    "all_sets": "The Twilight Wanderer"
   },
@@ -785,7 +785,7 @@
    "race": "Dragon",
    "artist": "佐久間さのすけ",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.",
    "flavor_text": "Despite their little bodies, baby dragons are extremely combative.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -811,7 +811,7 @@
    "race": "Twelve Apostles/Cthulhu",
    "artist": "スギカワタクミ",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ If it was played by its [Incarnation], for each different attribute among all banished resonators do the following:\n[W]: Gain 400 life.\n[R]: This card deals 400 damage to up to one target resonator.\n[U]: Draw a card.\n[G]: Produce [W], [R], [U], [G], or [B].\n[B]: Your opponent loses 400 life.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ If it was played by its [Incarnation], for each different attribute among all banished resonators do the following:\n\n[W]: Gain 400 life.\n\n[R]: This card deals 400 damage to up to one target resonator.\n\n[U]: Draw a card.\n\n[G]: Produce [W], [R], [U], [G], or [B].\n\n[B]: Your opponent loses 400 life.",
    "flavor_text": "What it is, what it wants. Even those who have seen it cannot say.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -829,7 +829,7 @@
    "type": "Addition: Resonator",
    "artist": "古城ばんび",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Draw a card.",
+   "text": "Activate\n\nBanish this card: Draw a card.",
    "flavor_text": "\"Once planted, it grows wildly. That is its power.\" —Overlord of the Seven Lands, Valentina",
    "all_sets": "The Twilight Wanderer"
   },
@@ -852,7 +852,7 @@
    "race": "Goddess",
    "artist": "ネム",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may destroy target regalia with total cost 0. If you do, draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may destroy target regalia with total cost 0. If you do, draw a card.",
    "flavor_text": "\"No one needs regalia, but me!\" —Alice, the Valkyrie of Fairy Tales",
    "all_sets": "The Twilight Wanderer"
   },
@@ -875,7 +875,7 @@
    "race": "Fairy Tale",
    "artist": "佐久間さのすけ",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Rest target resonator with total cost less than or equal to the number of tea party counters on this card. It doesn't recover during its controller's next recovery phase. Then remove all tea party counters from this card.",
+   "text": "Activate\n\n[rest]: Rest target resonator with total cost less than or equal to the number of tea party counters on this card. It doesn't recover during its controller's next recovery phase. Then remove all tea party counters from this card.",
    "flavor_text": "\"You guys have certainly changed a bit.\" —Alice, the Valkyrie of Fairy Tales",
    "all_sets": "The Twilight Wanderer"
   },
@@ -893,7 +893,7 @@
    "type": "Addition: Field",
    "artist": "kakotomirai",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest], [U][1]: Rest target resonator. It doesn't recover during the recovery phase as long as this card is rested.",
+   "text": "Activate\n\n[rest], [U][1]: Rest target resonator. It doesn't recover during the recovery phase as long as this card is rested.",
    "flavor_text": "That ship was built to house a special kind of fighting power.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -942,7 +942,7 @@
    "race": "Twelve Apostles/Beast",
    "artist": "松本エイト",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish three water magic stones: Rest all resonators your opponent controls.",
+   "text": "Activate\n\nBanish three water magic stones: Rest all resonators your opponent controls.",
    "flavor_text": "Those who saw it lost everything. All that was left was their fear.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -965,7 +965,7 @@
    "race": "Soldier",
    "artist": "塗夢",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ Return target fire resonator to its owner's hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Return target fire resonator to its owner's hand.",
    "flavor_text": "Her motto is \"Don't mix fire and water.\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -979,7 +979,7 @@
    "race": "Overlord",
    "artist": "石商",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[U][1]: Search your deck for a regalia, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[U][1]: Search your deck for a regalia, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"There is only one path to victory, make allies.\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -994,7 +994,7 @@
    "race": "Overlord",
    "artist": "石商",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may reveal any number of Seven Kings J-Rulers with different names you own from outside the game and keep them revealed until end of game.This card gains [+100/+100] for each card revealed this way and it gains all of those cards names and God's Art abilities.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may reveal any number of Seven Kings J-Rulers with different names you own from outside the game and keep them revealed until end of game.This card gains [+100/+100] for each card revealed this way and it gains all of those cards names and God's Art abilities.",
    "flavor_text": "\"To rule, the greatest love, it's satisfying enough just to obtain such power, like love for a child.\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1017,7 +1017,7 @@
    "race": "Fairy Tale",
    "artist": "ユウキリリー",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Return target resonator with total cost less than or equal to the number of tea party counters on this card to its owner's hand. Then remove all tea party counters from this card.",
+   "text": "Activate\n\n[rest]: Return target resonator with total cost less than or equal to the number of tea party counters on this card to its owner's hand. Then remove all tea party counters from this card.",
    "flavor_text": "The Sane Hatter chose his words carefully and moved about calmly. \"First, why don't we have some tea?\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1035,7 +1035,7 @@
    "type": "Chant",
    "artist": "Cola",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nReturn target addition, resonator, or regalia to its owner's hand.",
+   "text": "Continuous\n\nReturn target addition, resonator, or regalia to its owner's hand.",
    "flavor_text": "The tiniest gap in a strategy can decide a battle.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1055,7 +1055,7 @@
    "race": "Fairy Tale",
    "artist": "ひがし",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[Rest]: If there are two or more tea party counters on this card, draw a card. If you do, remove all tea party counters from this card.",
+   "text": "Activate\n\n[Rest]: If there are two or more tea party counters on this card, draw a card. If you do, remove all tea party counters from this card.",
    "flavor_text": "The September Hare pondered the meaning of his intelligence. Upon realizing there was no answer, he decided to ponder something else.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1078,7 +1078,7 @@
    "race": "Goddess",
    "artist": "長崎祐子",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[U]: This card gains [0/+100] until end of turn.",
+   "text": "Activate\n\n[U]: This card gains [0/+100] until end of turn.",
    "flavor_text": "Passion can overpower other emotions in an instant.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1102,7 +1102,7 @@
    "type": "Chant",
    "artist": "佐々木光之助",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nChoose a race. Return all resonators of the chosen race to their owners' hands. As long as your J-ruler is \"Overlord of the Seven Lands, Valentina\", you may pay [2] to play its next God's Art ability rather than pay its cost this turn.",
+   "text": "Continuous\n\nChoose a race. Return all resonators of the chosen race to their owners' hands. As long as your J-ruler is \"Overlord of the Seven Lands, Valentina\", you may pay [2] to play its next God's Art ability rather than pay its cost this turn.",
    "flavor_text": "\"I'll remove anyone who stands in my way. So, who shall join me?\" —Overlord of the Seven Lands, Valentina",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1125,7 +1125,7 @@
    "race": "Soldier",
    "artist": "gozz",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nThis card gains [+100/+100] for each water magic stone you control.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each water magic stone you control.",
    "flavor_text": "Valentina's subjugation of the Seven Lands was rushed. Yet she knew the celebration of a quick victory only meant losing it in the future.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1145,7 +1145,7 @@
    "race": "Soldier",
    "artist": "見田航介",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Your J-ruler cannot be targeted by chants or abilities until end of turn.",
+   "text": "Activate\n\nBanish this card: Your J-ruler cannot be targeted by chants or abilities until end of turn.",
    "flavor_text": "To a fanatic, death isn't always such a bad thing.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1182,7 +1182,7 @@
    "race": "Fairy",
    "artist": "下江クリス",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your deck. If it's a Fairy resonator, put it into your hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top card of your deck. If it's a Fairy resonator, put it into your hand.",
    "flavor_text": "\"Friends, I need your help!\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1223,7 +1223,7 @@
    "type": "Addition: Resonator",
    "artist": "みえ",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Target resonator gains [+200/+200] until end of turn.",
+   "text": "Activate\n\nBanish this card: Target resonator gains [+200/+200] until end of turn.",
    "flavor_text": "Contained in this single drop is the power of the great forest.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1246,7 +1246,7 @@
    "race": "Beast",
    "artist": "乃希",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nIf magic counters would be put on your J/ruler, put that many plus one instead.",
+   "text": "Continuous\n\nIf magic counters would be put on your J/ruler, put that many plus one instead.",
    "flavor_text": "\"Do you remember why we came to this world?\" \"No, I don't remember.\" \"Really?\" \"Really.\" —Reflect, Child of Potential and Refrain, Child of Convergence",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1286,7 +1286,7 @@
    "race": "Fruit",
    "artist": "長崎祐子",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.",
    "flavor_text": "Steadily ripening, little by little.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1304,7 +1304,7 @@
    "type": "Addition: Field",
    "artist": "Mad",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nYou may pay [1] less to play [Evolution] abilities of resonators you control.",
+   "text": "Continuous\n\nYou may pay [1] less to play [Evolution] abilities of resonators you control.",
    "flavor_text": "\"Everyone, you must grow strong. They're coming to take this place from us.\"—Pricia, Beast Queen in Hiding",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1327,7 +1327,7 @@
    "race": "Beast",
    "artist": "kakotomirai",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever an evolution counter is put on this card ⇒ Target player shuffles all magic stones from their graveyard into their magic stone deck and shuffles all other cards from their graveyard into their deck.",
+   "text": "Automatic\n\nWhenever an evolution counter is put on this card ⇒ Target player shuffles all magic stones from their graveyard into their magic stone deck and shuffles all other cards from their graveyard into their deck.",
    "flavor_text": "The cycle of life has the power to purge impurity from itself.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1353,7 +1353,7 @@
    "race": "Human/Beast",
    "artist": "fzwrAym",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[G]: Choose any number of attributes. This card becomes those attributes until end of turn.",
+   "text": "Activate\n\n[G]: Choose any number of attributes. This card becomes those attributes until end of turn.",
    "flavor_text": "Strength from adversity. Growth from necessity.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1367,7 +1367,7 @@
    "race": "Little Boy",
    "artist": "ケルビン",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[0]: Choose one. Play this ability only during your turn and only once per turn -\nTarget resonator gains [+200/+200] until end of turn. Put a magic counter on this card;\nor draw a card, put a card from your hand on the bottom of your deck. Put a magic counter on this card;\nor recover target resonator at the end of turn. Put a magic counter on this card.",
+   "text": "Activate\n\n[0]: Choose one. Play this ability only during your turn and only once per turn -\n\nTarget resonator gains [+200/+200] until end of turn. Put a magic counter on this card;\n\nor draw a card, put a card from your hand on the bottom of your deck. Put a magic counter on this card;\n\nor recover target resonator at the end of turn. Put a magic counter on this card.",
    "flavor_text": "A power not seen in this world is gathering.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1381,7 +1381,7 @@
    "race": "Little Girl",
    "artist": "ケルビン",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest], remove four magic counters from this card: Search your deck for a card and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[rest], remove four magic counters from this card: Search your deck for a card and put it into your hand. Then shuffle your deck.",
    "flavor_text": "When all possibilities converge at one point, the resulting power will manifest itself.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1402,7 +1402,7 @@
    "type": "Chant",
    "artist": "Nagiにゃん",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nMagic stones you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\" until end of turn. Recover up to two magic stones you control. Draw a card.",
+   "text": "Activate\n\nMagic stones you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\" until end of turn. Recover up to two magic stones you control. Draw a card.",
    "flavor_text": "\"Does it mean we can do anything?\" \"No, it means we can only do what we can.\" \"Really?\" \"Really.\"—Reflect, Child of Potential and Refrain, Child of Convergence",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1422,7 +1422,7 @@
    "race": "Elf",
    "artist": "古城ばんび",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nRemove a magic counter from your J/ruler: Return this card to its owner's hand.",
+   "text": "Activate\n\nRemove a magic counter from your J/ruler: Return this card to its owner's hand.",
    "flavor_text": "It has a power that doesn't belong in this world.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1445,7 +1445,7 @@
    "race": "Elf",
    "artist": "桂福蔵",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put three magic counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put three magic counters on your J/ruler.",
    "flavor_text": "The winds she summon release strong magic.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1471,7 +1471,7 @@
    "race": "Spirit",
    "artist": "ハタリス",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever an addition is added to this card ⇒ Draw a card.",
+   "text": "Automatic\n\nWhenever an addition is added to this card ⇒ Draw a card.",
    "flavor_text": "It's connected to all of the ancient forest.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1492,7 +1492,7 @@
    "type": "Chant",
    "artist": "fzwrAym",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nTarget J/resonator you control gains [+400/+400] until end of turn. Then that card and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
+   "text": "Continuous\n\nTarget J/resonator you control gains [+400/+400] until end of turn. Then that card and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
    "flavor_text": "\"Valentina! I'll never forgive you!\" —Pricia, Beast Queen in Hiding",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1512,7 +1512,7 @@
    "race": "Beast",
    "artist": "夕子",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nAs long as there are one or more evolution counters on this card, it gains [+300/+300].",
+   "text": "Continuous\n\nAs long as there are one or more evolution counters on this card, it gains [+300/+300].",
    "flavor_text": "Evolving means adapting to a new environment.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1535,7 +1535,7 @@
    "race": "Beast",
    "artist": "kakotomirai",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever an evolution counter is put on this card ⇒ Search your deck for a card named \"Drop of Yggdrasil\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhenever an evolution counter is put on this card ⇒ Search your deck for a card named \"Drop of Yggdrasil\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Should a drop of Yggdrasil ever fall, run.\" —Proverb of Shisei, the Ancient Forest",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1555,7 +1555,7 @@
    "race": "Fairy",
    "artist": "白野椋",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "flavor_text": "The fairies call the soothing breeze from far off skies.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1578,7 +1578,7 @@
    "race": "Twelve Apostles/Beast",
    "artist": "Mad",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever an evolution counter is put on this card ⇒ You may put an evolution counter on target resonator with no evolution counters on it.",
+   "text": "Automatic\n\nWhenever an evolution counter is put on this card ⇒ You may put an evolution counter on target resonator with no evolution counters on it.",
    "flavor_text": "Clouds aren't the only things that darken the skies.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1596,7 +1596,7 @@
    "type": "Addition: Field",
    "artist": "Fushikaden K.K.",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nYour opponent pays [1] more to play regalia's activate abilities.",
+   "text": "Continuous\n\nYour opponent pays [1] more to play regalia's activate abilities.",
    "flavor_text": "Designed specifically to combat against Seven Kings.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1614,7 +1614,7 @@
    "type": "Addition: Resonator",
    "artist": "Cola",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Target resonator gains [-400/-400] until end of turn.",
+   "text": "Activate\n\nBanish this card: Target resonator gains [-400/-400] until end of turn.",
    "flavor_text": "Trying to take it off only makes it worse.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1648,7 +1648,7 @@
    "race": "Wanderer",
    "artist": "祀花よう子",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[B]: Remove target card in your opponent's graveyard from the game.",
+   "text": "Activate\n\n[B]: Remove target card in your opponent's graveyard from the game.",
    "flavor_text": "In the middle of the great conference, the girl appeared. With a shadow darker than black. Her arrival signaled the coming darkness, a darkness reflected in the girl's own heart.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1663,7 +1663,7 @@
    "race": "Shadow/Knight",
    "artist": "祀花よう子",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nGod's Art [Walpurgis Night] [B][B]: J/resonators your opponent controls gain [-200/-200]. Search your deck for a card named \"Schrödinger, the Fallen Black Cat\" and put it into your field. Then shuffle your deck. (Play God's Art [Walpurgis Night] only once per game.)",
+   "text": "Activate\n\nGod's Art [Walpurgis Night] [B][B]: J/resonators your opponent controls gain [-200/-200]. Search your deck for a card named \"Schrödinger, the Fallen Black Cat\" and put it into your field. Then shuffle your deck. (Play God's Art [Walpurgis Night] only once per game.)",
    "flavor_text": "\"Everyone, I bid you hello...and goodbye.\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1683,7 +1683,7 @@
    "race": "Shadow/Bat",
    "artist": "あき",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your deck. If it's a Shadow resonator, put it into your hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top card of your deck. If it's a Shadow resonator, put it into your hand.",
    "flavor_text": "As the light shines brighter, so too do the shadows grow.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1703,7 +1703,7 @@
    "race": "Shadow/Soldier",
    "artist": "tokiwa",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Target resonator gains [-200/-200] until end of turn.",
+   "text": "Activate\n\nBanish this card: Target resonator gains [-200/-200] until end of turn.",
    "flavor_text": "Even if this warrior should vanish, the shadow of the blade shall still find its mark.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1726,7 +1726,7 @@
    "race": "Shadow/Seven Kings",
    "artist": "今野隼史",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[B][1]: This card deals 600 damage to target resonator with [Flying].",
+   "text": "Activate\n\n[B][1]: This card deals 600 damage to target resonator with [Flying].",
    "flavor_text": "The drive to protect the skies became the drive to destroy them.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1749,7 +1749,7 @@
    "race": "Shadow/Seven Kings",
    "artist": "猫囃子 (Nekobayashi)",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever this card deals damage ⇒ You gain that much life.",
+   "text": "Automatic\n\nWhenever this card deals damage ⇒ You gain that much life.",
    "flavor_text": "\"How was it?\" \"Meeow~\" \"Really? That's good.\" —Dark Alice, Maiden of Slaughter and Schrödinger, the Fallen Black Cat",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1800,7 +1800,7 @@
    "race": "Shadow/Seven Kings",
    "artist": "touge369",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field from a standby area ⇒ You may banish another resonator. If you do, your opponent discards a card and banishes a resonator.",
+   "text": "Automatic\n\nWhen this card enters your field from a standby area ⇒ You may banish another resonator. If you do, your opponent discards a card and banishes a resonator.",
    "flavor_text": "All constitution was removed. Replaced by something darker. In time his entire being fell into that darkness.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1826,7 +1826,7 @@
    "race": "Shadow/Vampire",
    "artist": "乃希",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen a resonator is put into a graveyard from your opponent's field ⇒ Recover this card and it gains [+400/0] until end of turn.",
+   "text": "Automatic\n\nWhen a resonator is put into a graveyard from your opponent's field ⇒ Recover this card and it gains [+400/0] until end of turn.",
    "flavor_text": "Blood and fear preserve her beauty.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1846,7 +1846,7 @@
    "race": "Shadow",
    "artist": "Azusa",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen a resonator is put into a graveyard from your opponent's field ⇒ Rest target resonator your opponent controls.",
+   "text": "Automatic\n\nWhen a resonator is put into a graveyard from your opponent's field ⇒ Rest target resonator your opponent controls.",
    "flavor_text": "\"Alice, I'm scattering the memory of our world to all worlds. That way we're sure to find it again.\" —Scheherazade, the Teller of the Crimson Moon",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1889,7 +1889,7 @@
    "type": "Chant",
    "artist": "スギカワタクミ",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nYour opponent banishes a resonator. As long as your J-ruler is \"Dark Alice, Maiden of Slaughter\", you may pay [B][B] less to play its God's Art abilities this turn.",
+   "text": "Continuous\n\nYour opponent banishes a resonator. As long as your J-ruler is \"Dark Alice, Maiden of Slaughter\", you may pay [B][B] less to play its God's Art abilities this turn.",
    "flavor_text": "\"Alice, are you still dreaming of our world? Reality isn't as kind as fairy tales.\" —Dark Alice, Maiden of Slaughter",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1912,7 +1912,7 @@
    "race": "Shadow",
    "artist": "Nagiにゃん",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card deals damage to a resonator ⇒ Destroy that resonator.",
+   "text": "Automatic\n\nWhen this card deals damage to a resonator ⇒ Destroy that resonator.",
    "flavor_text": "All it takes is a scratch.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1935,7 +1935,7 @@
    "race": "Shadow",
    "artist": "kawaryu",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nAs this card enters your field, you may remove a resonator in your graveyard from the game. If you do, this card enters your field as a copy of the card removed this way.",
+   "text": "Continuous\n\nAs this card enters your field, you may remove a resonator in your graveyard from the game. If you do, this card enters your field as a copy of the card removed this way.",
    "flavor_text": "The spitting image... made of shadow of course.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1953,7 +1953,7 @@
    "type": "Chant",
    "artist": "白野椋",
    "expansion": "The Twilight Wanderer",
-   "text": "Continuous\nLook at target opponent's hand and choose a resonator. They discard that card.",
+   "text": "Continuous\n\nLook at target opponent's hand and choose a resonator. They discard that card.",
    "flavor_text": "\"I don't need that memory.\"—Dark Alice, Maiden of Slaughter",
    "all_sets": "The Twilight Wanderer"
   },
@@ -1990,7 +1990,7 @@
    "race": "Shadow/Seven Kings",
    "artist": "るみえ",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card with no attribute, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your deck for a card with no attribute, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Marybell? Where is my Marybell?\"",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2010,7 +2010,7 @@
    "race": "Machine",
    "artist": "草薙蝶炎",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Target addition or regalia cannot be destroyed until end of turn.",
+   "text": "Activate\n\nBanish this card: Target addition or regalia cannot be destroyed until end of turn.",
    "flavor_text": "Designed for durability and quick usage.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2030,7 +2030,7 @@
    "race": "Machine",
    "artist": "森野ヒロ",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhen this card enters your field from a chant area ⇒ It deals 1000 damage to target attacking J/resonator.",
+   "text": "Automatic\n\nWhen this card enters your field from a chant area ⇒ It deals 1000 damage to target attacking J/resonator.",
    "flavor_text": "\"That machine king made some pretty interesting stuff.\" —Dark Alice, Maiden of Slaughter",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2050,7 +2050,7 @@
    "race": "Machine/Knight of the Round Table",
    "artist": "竿",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[1]: This card gains [Precision] until end of turn.",
+   "text": "Activate\n\n[1]: This card gains [Precision] until end of turn.",
    "flavor_text": "A knight more faithful than any other.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2070,7 +2070,7 @@
    "race": "Machine/Fairy",
    "artist": "サウマロ",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[1]: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\n[1]: This card gains [Flying] until end of turn.",
    "flavor_text": "Anything that flutters about the sky will be accepted by the fairies.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2088,7 +2088,7 @@
    "type": "Regalia",
    "artist": "草薙蝶炎",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[G], [rest], remove two magic counters from your J/ruler: Draw a card.",
+   "text": "Activate\n\n[G], [rest], remove two magic counters from your J/ruler: Draw a card.",
    "flavor_text": "A mysterious object that appears different to everyone.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2106,7 +2106,7 @@
    "type": "Regalia",
    "artist": "猫囃子 (Nekobayashi)",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "text": "Activate\n\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
    "flavor_text": "The sword destined to the chosen one.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2124,7 +2124,7 @@
    "type": "Regalia",
    "artist": "猫囃子 (Nekobayashi)",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "text": "Activate\n\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
    "flavor_text": "\"Faria, this was your intention, wasn't it? I understand. I'll open the path to the future.\"—Alice, Fairy Queen",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2142,7 +2142,7 @@
    "type": "Regalia",
    "artist": "douzen",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "text": "Activate\n\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
    "flavor_text": "The sword destined to those who crave power.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2160,7 +2160,7 @@
    "type": "Regalia",
    "artist": "上木乃アロエ",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "text": "Activate\n\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
    "flavor_text": "\"My cat will feast on your existence. From it you shall be reborn. I wonder... what will you become?\" —Dark Alice, Maiden of Slaughter",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2173,7 +2173,7 @@
    "type": "Special Magic Stone",
    "artist": "下江クリス",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[W], [rest]: Target Fairy resonator gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[W], [rest]: Target Fairy resonator gains [+200/+200] until end of turn.",
    "flavor_text": "It's a memory the future chose not to forget.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2186,7 +2186,7 @@
    "type": "Special Magic Stone",
    "artist": "瞬く (Ga-show)",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Produce [W], [R], [U], [G], or [B].",
+   "text": "Activate\n\n[rest]: Produce [W], [R], [U], [G], or [B].",
    "flavor_text": "It's a memory carved by the victor.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2199,7 +2199,7 @@
    "type": "Special Magic Stone",
    "artist": "Cola",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[G], [rest]: Target Four Sacred Beasts or Beast J/resonator gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[G], [rest]: Target Four Sacred Beasts or Beast J/resonator gains [+200/+200] until end of turn.",
    "flavor_text": "It's a memory fostered by Yggdrasil.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2212,7 +2212,7 @@
    "type": "Special Magic Stone",
    "artist": "城戸春一",
    "expansion": "The Twilight Wanderer",
-   "text": "Automatic\nWhenever a Shadow resonator enters your field ⇒ Target resonator gains [-100/0] until end of turn.",
+   "text": "Automatic\n\nWhenever a Shadow resonator enters your field ⇒ Target resonator gains [-100/0] until end of turn.",
    "flavor_text": "It's a world's memory of revenge.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2225,7 +2225,7 @@
    "type": "Special Magic Stone",
    "artist": "gekko",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: If target resonator would deal damage this turn, it deals that much +200 instead.",
+   "text": "Activate\n\n[rest]: If target resonator would deal damage this turn, it deals that much +200 instead.",
    "flavor_text": "It's a memory of tenacity.",
    "all_sets": "The Twilight Wanderer"
   },
@@ -2238,7 +2238,7 @@
    "type": "Basic Magic Stone",
    "artist": "Moopic",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "The Twilight Wanderer"
   },
   {
@@ -2250,7 +2250,7 @@
    "type": "Basic Magic Stone",
    "artist": "Moopic",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "The Twilight Wanderer"
   },
   {
@@ -2262,7 +2262,7 @@
    "type": "Basic Magic Stone",
    "artist": "Moopic",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "The Twilight Wanderer"
   },
   {
@@ -2274,7 +2274,7 @@
    "type": "Basic Magic Stone",
    "artist": "Moopic",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "The Twilight Wanderer"
   },
   {
@@ -2286,7 +2286,7 @@
    "type": "Basic Magic Stone",
    "artist": "Moopic",
    "expansion": "The Twilight Wanderer",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "The Twilight Wanderer"
   }
  ]

@@ -10,7 +10,7 @@
    "race": "Wanderer",
    "artist": "j-peg",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may pay the attribute cost of Minions and Moon Arts with any will.",
+   "text": "Continuous\n\nYou may pay the attribute cost of Minions and Moon Arts with any will.",
    "flavor_text": "And the moon shines on the true ruler of this world.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -24,7 +24,7 @@
    "race": "Wanderer",
    "artist": "j-peg",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may pay the attribute cost of Minions and Moon Arts with any will.",
+   "text": "Continuous\n\nYou may pay the attribute cost of Minions and Moon Arts with any will.",
    "flavor_text": "And the moon shines on the true ruler of this world.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -38,7 +38,7 @@
    "race": "Wanderer",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhenever a darkness regalia enters the field under your control >>> Choose one, then, if the regalia is \"Unknown Mother Goose\", choose one again;\n- Gain two light crystals.\n- Gain two darkness crystals.",
+   "text": "Automatic\n\nWhenever a darkness regalia enters the field under your control >>> Choose one, then, if the regalia is \"Unknown Mother Goose\", choose one again;\n\n- Gain two light crystals.\n\n- Gain two darkness crystals.",
    "flavor_text": "Traveling through endless darkness, she seeks the light beyond.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -52,7 +52,7 @@
    "race": "Wanderer",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhenever a darkness regalia enters the field under your control >>> Choose one, then, if the regalia is \"Unknown Mother Goose\", choose one again;\n- Gain two light crystals.\n- Gain two darkness crystals.",
+   "text": "Automatic\n\nWhenever a darkness regalia enters the field under your control >>> Choose one, then, if the regalia is \"Unknown Mother Goose\", choose one again;\n\n- Gain two light crystals.\n\n- Gain two darkness crystals.",
    "flavor_text": "Traveling through endless darkness, she seeks the light beyond.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -66,7 +66,7 @@
    "race": "Wizard",
    "artist": "Kotakan",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may have (Stranger) resonators in your deck. You may not have more than one copy of any (Stranger) resonator in your deck.",
+   "text": "Continuous\n\nYou may have (Stranger) resonators in your deck. You may not have more than one copy of any (Stranger) resonator in your deck.",
    "flavor_text": "Magna created all regalia in this world, and divided his memories of Valhalla among them. The regalia will keep their power as long as Magna exists.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -80,7 +80,7 @@
    "race": "Wizard",
    "artist": "Kotakan",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may have (Stranger) resonators in your deck. You may not have more than one copy of any (Stranger) resonator in your deck.",
+   "text": "Continuous\n\nYou may have (Stranger) resonators in your deck. You may not have more than one copy of any (Stranger) resonator in your deck.",
    "flavor_text": "Magna created all regalia in this world, and divided his memories of Valhalla among them. The regalia will keep their power as long as Magna exists.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -123,7 +123,7 @@
    "race": "Fairy Tale",
    "artist": "AKI",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nBanish a light crystal, discard this card: Target J/resonator gains [+400/+400] until end of turn. Draw a card.",
+   "text": "Activate\n\nBanish a light crystal, discard this card: Target J/resonator gains [+400/+400] until end of turn. Draw a card.",
    "flavor_text": "The King is a dependable card.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -161,7 +161,7 @@
    "race": "Fairy Tale",
    "artist": "AKI",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nBanish a light crystal: You gain 200 life.",
+   "text": "Activate\n\nBanish a light crystal: You gain 200 life.",
    "flavor_text": "The Jack is a prudent card.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -211,7 +211,7 @@
    "race": "Swordsman",
    "artist": "nisizawagomiri",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> Rest target resonator. It doesn't recover during the recovery phase as long as this card is in the field.",
+   "text": "Automatic\n\n[Enter] >>> Rest target resonator. It doesn't recover during the recovery phase as long as this card is in the field.",
    "flavor_text": "\"Of course, if I win, this will not happen. But I have a bad feeling about it ... and my intuition never goes wrong.\" ーNote of Magna 39",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -265,7 +265,7 @@
    "type": "Addition",
    "artist": "Nekobayashi",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nResonators entering the field under your opponent's control enter the field rested.",
+   "text": "Continuous\n\nResonators entering the field under your opponent's control enter the field rested.",
    "flavor_text": "This is the road Faria travels to protect her country.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -283,7 +283,7 @@
    "type": "Addition",
    "artist": "KONNO Takashi",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nAngels you control gain [Barrier] (Resonator).",
+   "text": "Continuous\n\nAngels you control gain [Barrier] (Resonator).",
    "flavor_text": "This is the road Arla travels for peace, and for his friends.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -324,7 +324,7 @@
    "race": "Myth/Moon",
    "artist": "SIE NANAHARA",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nPlayers cannot play activate abilities of resonators they control unless they control a Moon.",
+   "text": "Continuous\n\nPlayers cannot play activate abilities of resonators they control unless they control a Moon.",
    "flavor_text": "\"What? You guys didn't have a moon?!\" -Kaguya, the Moonlit Savior",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -350,7 +350,7 @@
    "race": "Valkyrie",
    "artist": "Azusa",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card leaves the field >>> Put all cards from all removed areas that were removed by this card into the field under their owners' control.",
+   "text": "Automatic\n\nWhen this card leaves the field >>> Put all cards from all removed areas that were removed by this card into the field under their owners' control.",
    "flavor_text": "\"Also, all regalia will lose the power of Valhalla, and everything related to it. They will become mere items of power, amplifying the traits of their respective owners.\" ーNote of Magna 38",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -370,7 +370,7 @@
    "race": "Fairy Tale, Beast",
    "artist": "SO",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nThis card gains [+200/+200] for each light crystal you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each light crystal you control.",
    "flavor_text": "\"Oh, a visitor from that world. Well, I'm busy now, so I'll deal with it later.\" ーGill Lapis",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -390,7 +390,7 @@
    "race": "Wizard",
    "artist": "yuko",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> Another target resonator gains [Barrier] until end of turn.",
+   "text": "Automatic\n\n[Enter] >>> Another target resonator gains [Barrier] until end of turn.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -452,7 +452,7 @@
    "race": "Deity",
    "artist": "Foo Midori",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nThis card gains [+400/+400] for each other (Stranger) resonator you control.",
+   "text": "Continuous\n\nThis card gains [+400/+400] for each other (Stranger) resonator you control.",
    "flavor_text": "\"This way, my powers can't be fully taken from me.\" ーNote of Magna 37",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -475,7 +475,7 @@
    "race": "Minion",
    "artist": "Tomomi TOMIDA",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Limit Break]\n[Quickcast]\nYou may pay [R] less to play this card.\nWhen you remove counters by this card >>> Put a [+100/+100] counter on each J/resonator you control for each counter removed this way.",
+   "text": "Automatic\n\n[Limit Break]\n\n[Quickcast]\n\nYou may pay [R] less to play this card.\n\nWhen you remove counters by this card >>> Put a [+100/+100] counter on each J/resonator you control for each counter removed this way.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -501,7 +501,7 @@
    "race": "Twelve Apostles",
    "artist": "lack",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[R]: This card deals 100 damage to each player.",
+   "text": "Activate\n\n[R]: This card deals 100 damage to each player.",
    "flavor_text": "\"Come on, hit me with everything you've got.\" -Conqueror of the Black Moon, Gill Lapis",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -557,7 +557,7 @@
    "race": "Deity",
    "artist": "lack",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> This card deals 1000 damage to your opponent and each J/resonator they control.",
+   "text": "Automatic\n\n[Enter] >>> This card deals 1000 damage to your opponent and each J/resonator they control.",
    "flavor_text": "\"At this rate, the protective barrier around Vell-Savaria will break soon.\" ーNote of Magna 32",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -607,7 +607,7 @@
    "race": "Twelve Apostles, Snake",
    "artist": "douzen",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Put it on the bottom of its owner's deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field >>> Put it on the bottom of its owner's deck.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -636,7 +636,7 @@
    "race": "Twelve Apostles/Phoenix",
    "artist": "gozz",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may pay [R][R]. If you do, put this card into its owner's field.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ You may pay [R][R]. If you do, put this card into its owner's field.",
    "flavor_text": "Even the immortal flame cannot match a fragment of the Original King's power.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -674,7 +674,7 @@
    "race": "Human",
    "artist": "Nagi-nyan",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nThis card gains [-X/-X], where X is your life.",
+   "text": "Continuous\n\nThis card gains [-X/-X], where X is your life.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -710,7 +710,7 @@
    "type": "Addition",
    "artist": "gekko",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nJ/resonators you control gain [Pierce].",
+   "text": "Continuous\n\nJ/resonators you control gain [Pierce].",
    "flavor_text": "This is the road Melgis travels, regretting all the deaths he caused.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -733,7 +733,7 @@
    "race": "Wizard",
    "artist": "KIA ASAMIYA",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may pay [1] less to play Mage Arts.",
+   "text": "Continuous\n\nYou may pay [1] less to play Mage Arts.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -752,7 +752,7 @@
    "race": "Machine",
    "artist": "Shinichi Chiba",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[Rest]：Rest target resonator your opponent controls. Play this ability only if you control \"Marybell Type Zero\".",
+   "text": "Activate\n\n[Rest]：Rest target resonator your opponent controls. Play this ability only if you control \"Marybell Type Zero\".",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -772,7 +772,7 @@
    "race": "Deity",
    "artist": "Toridamono",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhenever a resonator with total cost 3 or more enters the field under your control >>> You may put this card from your graveyard into the field.",
+   "text": "Automatic\n\nWhenever a resonator with total cost 3 or more enters the field under your control >>> You may put this card from your graveyard into the field.",
    "flavor_text": "\"My last wish is to keep this world in balance. If you read this, please help making my wish come true.\" ーNote of Magna 40",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -826,7 +826,7 @@
    "type": "Addition",
    "artist": "Rumie",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may spend any will produced by cards named \"Marybell Type Zero\" you control to play Machines.",
+   "text": "Continuous\n\nYou may spend any will produced by cards named \"Marybell Type Zero\" you control to play Machines.",
    "flavor_text": "This is the road Machina travels as the last wish of his assistant.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -844,7 +844,7 @@
    "type": "Addition",
    "artist": "Kamijo Roro",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[B][B][1]: Return this card to its owner's hand.",
+   "text": "Activate\n\n[B][B][1]: Return this card to its owner's hand.",
    "flavor_text": "This is the road Valentina travels to become Overlord of the Seven Lands.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -867,7 +867,7 @@
    "race": "Dragon",
    "artist": "Tomohiro Kitakaze",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[G]: Until end of turn, if this card would deal damage, it deals double that much instead. Play this ability only once per turn.",
+   "text": "Activate\n\n[G]: Until end of turn, if this card would deal damage, it deals double that much instead. Play this ability only once per turn.",
    "flavor_text": "\"What I started at Yggdrasil is a ritual that will send all remnants of Valhalla's power in this world back to Valhalla, in the much dreaded case of my defeat.\" ーNote of Magna 36",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -896,7 +896,7 @@
    "race": "Twelve Protective Deities, Beast",
    "artist": "Takumi Sugikawa",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Put all cards from all removed areas that were removed by this card into the field under your control.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field >>> Put all cards from all removed areas that were removed by this card into the field under your control.",
    "flavor_text": "The rest of the Twelve Protective Deities, scattered as guardians all over Attoractia, returned to Vell-Savaria with Magna.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -914,7 +914,7 @@
    "type": "Addition",
    "artist": "fzwrAym",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may pay [0] to play God's Art abilities as long as there are ten or more friendship counters on your J/ruler.",
+   "text": "Continuous\n\nYou may pay [0] to play God's Art abilities as long as there are ten or more friendship counters on your J/ruler.",
    "flavor_text": "This is the road Pricia travels for playing with her friends.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -955,7 +955,7 @@
    "race": "Deity",
    "artist": "Takumi Sugikawa",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> Put up to two target resonators from your graveyard into your hand.",
+   "text": "Automatic\n\n[Enter] >>> Put up to two target resonators from your graveyard into your hand.",
    "flavor_text": "\"If both Lenneth and I were defeated, this world would fall to the power of darkness. This must be avoided at all cost.\" ーNote of Magna 35",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -981,7 +981,7 @@
    "race": "Minion",
    "artist": "ComamitsuZaki",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card is revealed by the ability of a \"Gill Lapis\" you control >>> Draw a card. You lose 400 life.",
+   "text": "Automatic\n\nWhen this card is revealed by the ability of a \"Gill Lapis\" you control >>> Draw a card. You lose 400 life.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1059,7 +1059,7 @@
    "race": "Minion, Rabbit",
    "artist": "Misa Tsutsui",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card is revealed by the ability of a \"Gill Lapis\" you control >>> Your opponent discards a card.",
+   "text": "Automatic\n\nWhen this card is revealed by the ability of a \"Gill Lapis\" you control >>> Your opponent discards a card.",
    "flavor_text": "Under the light of the Black Moon, these ferocious rabbits are looking for offerings.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1079,7 +1079,7 @@
    "race": "Fairy Tale, Beast",
    "artist": "Shosuke",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nThis card gains [+200/+200] for each darkness crystal you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each darkness crystal you control.",
    "flavor_text": "On Attoractia Dark Alice caught the scent of her old enemy. But what will the starving wolf find there, its prey or a trap to catch it?",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1099,7 +1099,7 @@
    "race": "Minion",
    "artist": "Kusanagi Tyouen",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Limit Break]\n[First Strike]\nThis card gains [+800/+800].\nWhen this card is banished by the effect of an ability you control >>> This card deals damage equal to its ATK divided as you choose to any number of target players and/or J/resonators.",
+   "text": "Automatic\n\n[Limit Break]\n\n[First Strike]\n\nThis card gains [+800/+800].\n\nWhen this card is banished by the effect of an ability you control >>> This card deals damage equal to its ATK divided as you choose to any number of target players and/or J/resonators.",
    "flavor_text": "Bringing death, risking death.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1141,7 +1141,7 @@
    "type": "Addition: Field",
    "artist": "gozz",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nAt the beginning of each player's turn ⇒ That player banishes a resonator.",
+   "text": "Continuous\n\nAt the beginning of each player's turn ⇒ That player banishes a resonator.",
    "flavor_text": "Life was swallowed into the gaping maw of the dying world.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1159,7 +1159,7 @@
    "type": "Addition",
    "artist": "sasaki kounosuke",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[Rest]: Your opponent loses 200 life.",
+   "text": "Activate\n\n[Rest]: Your opponent loses 200 life.",
    "flavor_text": "With the corruption of Lenneth, Caduceus was transformed as well.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1218,7 +1218,7 @@
    "race": "Minion, Demon",
    "artist": "tokiwa",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card is revealed by the ability of a \"Gill Lapis\" you control >>> Put two [+100/+100] counters on target J/resonator.",
+   "text": "Automatic\n\nWhen this card is revealed by the ability of a \"Gill Lapis\" you control >>> Put two [+100/+100] counters on target J/resonator.",
    "flavor_text": "\"Lapis is busy. Dealing with Dark Alice and the others is a job for the lower ranks.\" ーSylvia, Minion of Lapis",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1259,7 +1259,7 @@
    "race": "Moon Art",
    "artist": "Nagi-nyan",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nIf you control [Limit Break] (\"Alisaris, Minion of Lapis\"), trigger an automatic ability of a card named \"Gill Lapis\" you control instead.",
+   "text": "Continuous\n\nIf you control [Limit Break] (\"Alisaris, Minion of Lapis\"), trigger an automatic ability of a card named \"Gill Lapis\" you control instead.",
    "flavor_text": "\"Welcome to Vell-Savaria, my Lord Lapis.\" ーAlisaris, Minion of Lapis",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1303,7 +1303,7 @@
    "race": "Twelve Apostles/Myth",
    "artist": "ishishou",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[B][M], remove this card in your graveyard from the game: Your opponent discards a card.",
+   "text": "Activate\n\n[B][M], remove this card in your graveyard from the game: Your opponent discards a card.",
    "flavor_text": "\"This world is trying to shut me out, huh? Fine. I'll put a curse on everything.\"",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1323,7 +1323,7 @@
    "race": "Shadow",
    "artist": "j-peg",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nBanish this card: Gain a light crystal and a darkness crystal.",
+   "text": "Activate\n\nBanish this card: Gain a light crystal and a darkness crystal.",
    "flavor_text": "A shadow, but still dedicated to the Lord.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1366,7 +1366,7 @@
    "race": "Minion",
    "artist": "Fukuzo Katsura",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Limit Break] (As long as you control [Limit Break] (\"Lenneth, the Dark Priestess\"), this card gains the following abilities.)\n[Flying] [Barrier] (Resonator)\n[Enter] >>> Choose one;\n- Destroy target regalia.\n- Destroy all (Stranger) resonators.\n- Reveal a Twelve Apostles from outside the game and put it into the field.",
+   "text": "Automatic\n\n[Limit Break] (As long as you control [Limit Break] (\"Lenneth, the Dark Priestess\"), this card gains the following abilities.)\n\n[Flying] [Barrier] (Resonator)\n\n[Enter] >>> Choose one;\n\n- Destroy target regalia.\n\n- Destroy all (Stranger) resonators.\n\n- Reveal a Twelve Apostles from outside the game and put it into the field.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1414,7 +1414,7 @@
    "race": "Fairy Tale",
    "artist": "Misa Tsutsui",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nThis card enters the field rested.",
+   "text": "Continuous\n\nThis card enters the field rested.",
    "flavor_text": "\"This thing was not summoned with my regalia. So what is it?\" ーMagna, the Creator of Regalia",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1455,7 +1455,7 @@
    "race": "Minion, Vampire",
    "artist": "kurisu",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\n[Limit Break]\nIf this card would deal damage, it deals double that much instead.",
+   "text": "Continuous\n\n[Limit Break]\n\nIf this card would deal damage, it deals double that much instead.",
    "flavor_text": "\"Yes, leaving my blood in this world could be called meddling, I guess.\" ーMikage Seijuro",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1493,7 +1493,7 @@
    "race": "Minion, Knight of the Round Table",
    "artist": "yuko",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nBanish this card: Put a Minion from your graveyard on top of your deck.",
+   "text": "Activate\n\nBanish this card: Put a Minion from your graveyard on top of your deck.",
    "flavor_text": "The black Holy Grail responds to the horrors of the Black Moon.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1515,7 +1515,7 @@
    "race": "Moon",
    "artist": "higashi",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[M], discard a resonator: Put another target resonator from your graveyard into your hand.",
+   "text": "Activate\n\n[M], discard a resonator: Put another target resonator from your graveyard into your hand.",
    "flavor_text": "When the true black moon hangs in the sky, the true conqueror shall appear.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1538,7 +1538,7 @@
    "race": "Minion",
    "artist": "Mad",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> Name a card. You gain [Limit Break] (Name of that card).",
+   "text": "Automatic\n\n[Enter] >>> Name a card. You gain [Limit Break] (Name of that card).",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1564,7 +1564,7 @@
    "race": "Fairy Tale",
    "artist": "AKI",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nBanish a darkness crystal, discard this card: Target J/resonator gains [-400/-400] until end of turn. Draw a card.",
+   "text": "Activate\n\nBanish a darkness crystal, discard this card: Target J/resonator gains [-400/-400] until end of turn. Draw a card.",
    "flavor_text": "The Queen is a proud card.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1587,7 +1587,7 @@
    "race": "Shadow",
    "artist": "kawaryu",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nAs this card enters your field, you may remove a resonator in your graveyard from the game. If you do, this card enters your field as a copy of the card removed this way.",
+   "text": "Continuous\n\nAs this card enters your field, you may remove a resonator in your graveyard from the game. If you do, this card enters your field as a copy of the card removed this way.",
    "flavor_text": "The spitting image... made of shadow of course.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1628,7 +1628,7 @@
    "race": "Fairy Tale",
    "artist": "AKI",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nBanish a darkness crystal: Your opponent loses 200 life.",
+   "text": "Activate\n\nBanish a darkness crystal: Your opponent loses 200 life.",
    "flavor_text": "The X is a deadly card.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1667,7 +1667,7 @@
    "type": "Addition",
    "artist": "touge369",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nCards in your graveyard cannot be targeted by spells or abilities your opponent controls.",
+   "text": "Continuous\n\nCards in your graveyard cannot be targeted by spells or abilities your opponent controls.",
    "flavor_text": "This is the road Rezzard travels for his own desires.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1685,7 +1685,7 @@
    "type": "Chant",
    "artist": "Shirono Muku",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nLook at target opponent's hand and choose a resonator. They discard that card.",
+   "text": "Continuous\n\nLook at target opponent's hand and choose a resonator. They discard that card.",
    "flavor_text": "\"I don't need that memory.\"—Dark Alice, Maiden of Slaughter",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1703,7 +1703,7 @@
    "type": "Addition",
    "artist": "Yuko Nagasaki",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Return it to its owner's hand.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field >>> Return it to its owner's hand.",
    "flavor_text": "There is only a fine line between restraint and relief.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1723,7 +1723,7 @@
    "race": "Fairy Tale",
    "artist": "Kelvin",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nThis card cannot attack.",
+   "text": "Continuous\n\nThis card cannot attack.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1744,7 +1744,7 @@
    "type": "Regalia",
    "artist": "Kusanagi Tyouen",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[Rest]: Produce two wills in any combination of [D] and/or [M]. Spend this will only to play God's Art abilities, Minions, or Moon Arts.",
+   "text": "Activate\n\n[Rest]: Produce two wills in any combination of [D] and/or [M]. Spend this will only to play God's Art abilities, Minions, or Moon Arts.",
    "flavor_text": "A jet-black sword craving for destruction.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1776,7 +1776,7 @@
    "race": "Twelve Protective Deities, Cthulhu",
    "artist": "Saiko Takaki",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> You gain 600 life. Your opponent loses 600 life. This card deals 600 damage to target resonator. Recover target magic stone. Draw a card.",
+   "text": "Automatic\n\n[Enter] >>> You gain 600 life. Your opponent loses 600 life. This card deals 600 damage to target resonator. Recover target magic stone. Draw a card.",
    "flavor_text": "\"I want it as my pet, it doesn't look like you are going to miss it.\" ーDark Alice",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1797,7 +1797,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nResonators gain [-200/-200].",
+   "text": "Continuous\n\nResonators gain [-200/-200].",
    "flavor_text": "Alice created a world that would steal away anyone's sanity.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1819,7 +1819,7 @@
    "race": "Mage Art",
    "artist": "Miko Yamazaki",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen a card named \"Defense Stance\", \"Magic Stance\", or \"The Final Stance\" enters the field under your control >>> Banish this card.",
+   "text": "Automatic\n\nWhen a card named \"Defense Stance\", \"Magic Stance\", or \"The Final Stance\" enters the field under your control >>> Banish this card.",
    "flavor_text": "In this stance attacks are fierce.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1866,7 +1866,7 @@
    "race": "Human",
    "artist": "Nekobayashi",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[G]: Recover this card. Play this ability only once per turn.",
+   "text": "Activate\n\n[G]: Recover this card. Play this ability only once per turn.",
    "flavor_text": "\"Let's go!\" \"Hey, not so fast.\"",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1888,7 +1888,7 @@
    "race": "Fairy Tale",
    "artist": "Moopic",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card leaves the field >>> Put a card from a removed area that was removed by this card into its owner's hand.",
+   "text": "Automatic\n\nWhen this card leaves the field >>> Put a card from a removed area that was removed by this card into its owner's hand.",
    "flavor_text": "\"Let you out? Only when Schr?dinger is hungry.\" ーDark Alice",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1910,7 +1910,7 @@
    "race": "Fairy Tale",
    "artist": "mita kura",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[Rest], banish all light crystals and darkness crystals: Your opponent chooses odd or even. Then, reveal the top card of your deck. If its total cost doesn't match your opponent's guess, gain twice the number of light crystals and darkness crystals banished to pay this ability's cost. (Total cost 0 counts as even.)",
+   "text": "Activate\n\n[Rest], banish all light crystals and darkness crystals: Your opponent chooses odd or even. Then, reveal the top card of your deck. If its total cost doesn't match your opponent's guess, gain twice the number of light crystals and darkness crystals banished to pay this ability's cost. (Total cost 0 counts as even.)",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1932,7 +1932,7 @@
    "race": "Mage Art",
    "artist": "muranako",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen a card named \"Attack Stance\", \"Magic Stance\", or \"The Final Stance\" enters the field under your control >>> Banish this card.",
+   "text": "Automatic\n\nWhen a card named \"Attack Stance\", \"Magic Stance\", or \"The Final Stance\" enters the field under your control >>> Banish this card.",
    "flavor_text": "In this stance defense is like an iron wall.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -1982,7 +1982,7 @@
    "race": "Wizard",
    "artist": "Nekobayashi",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nPay 400 life: This card deals 200 damage to each J/resonator.",
+   "text": "Activate\n\nPay 400 life: This card deals 200 damage to each J/resonator.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2011,7 +2011,7 @@
    "race": "Dragon",
    "artist": "Hatori Kyoka",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> Choose odd or even. Destroy all other resonators with a total cost matching your choice. (Total cost 0 counts as even.)",
+   "text": "Automatic\n\n[Enter] >>> Choose odd or even. Destroy all other resonators with a total cost matching your choice. (Total cost 0 counts as even.)",
    "flavor_text": "\"Something went wrong in Vell-Savaria. I left Lenneth in charge, but the usurper seems to be much stronger than I expected. I have to go back immediately, the barrier won't hold much longer.\" ーNote of Magna 34",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2034,7 +2034,7 @@
    "race": "Wizard",
    "artist": "Haruichi Kido",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may choose not to recover this card during the recovery phase.",
+   "text": "Continuous\n\nYou may choose not to recover this card during the recovery phase.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2084,7 +2084,7 @@
    "race": "Twelve Protective Deities",
    "artist": "jugemt",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nIf an effect would increase ATK or DEF of resonators your opponent controls, it decreases that much instead.",
+   "text": "Continuous\n\nIf an effect would increase ATK or DEF of resonators your opponent controls, it decreases that much instead.",
    "flavor_text": "Getting too strong too fast might kill you.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2107,7 +2107,7 @@
    "race": "Hero",
    "artist": "kakotomirai",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> Your opponent banishes a non-J-ruler, non-magic stone entity.",
+   "text": "Automatic\n\n[Enter] >>> Your opponent banishes a non-J-ruler, non-magic stone entity.",
    "flavor_text": "\"First the one trying to conquer this world. Then the one chasing him. Oh well, the balance of this world is close to collapsing.\" ーNote of Magna 31",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2136,7 +2136,7 @@
    "race": "Twelve Protective Deities",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[W][B]: Put a light magic stone or a water magic stone from your graveyard into the field.",
+   "text": "Activate\n\n[W][B]: Put a light magic stone or a water magic stone from your graveyard into the field.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2159,7 +2159,7 @@
    "race": "Minion",
    "artist": "Saiko Takaki",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> Destroy all damaged resonators.",
+   "text": "Automatic\n\n[Enter] >>> Destroy all damaged resonators.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2181,7 +2181,7 @@
    "race": "Mage Art",
    "artist": "hatarisu",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen a card named \"Attack Stance\", \"Defense Stance\", or \"The Final Stance\" enters the field under your control >>> Banish this card.",
+   "text": "Automatic\n\nWhen a card named \"Attack Stance\", \"Defense Stance\", or \"The Final Stance\" enters the field under your control >>> Banish this card.",
    "flavor_text": "In this stance the power of magic is enormous.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2204,7 +2204,7 @@
    "race": "Machine",
    "artist": "Shosuke",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nBanish this card: Produce [B][G].",
+   "text": "Activate\n\nBanish this card: Produce [B][G].",
    "flavor_text": "\"A support unit that can fight. The new storage system looks good.\" ーMachina",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2227,7 +2227,7 @@
    "race": "Wizard",
    "artist": "BANAMONS*",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nRemove the top card of your deck from the game: This card gains [+500/0] until end of turn. Play this ability only once per turn.",
+   "text": "Activate\n\nRemove the top card of your deck from the game: This card gains [+500/0] until end of turn. Play this ability only once per turn.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2253,7 +2253,7 @@
    "race": "Minion",
    "artist": "SIGMAN",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> Remove all resonators in target player's graveyard from the game. Put a [+100/+100] counter on this card for each resonator removed this way.",
+   "text": "Automatic\n\n[Enter] >>> Remove all resonators in target player's graveyard from the game. Put a [+100/+100] counter on this card for each resonator removed this way.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2282,7 +2282,7 @@
    "race": "Twelve Protective Deities",
    "artist": "Mad",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhen this card leaves the field >>> Put all cards from all removed areas that were removed by this card into their owners' hand.",
+   "text": "Automatic\n\nWhen this card leaves the field >>> Put all cards from all removed areas that were removed by this card into their owners' hand.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2305,7 +2305,7 @@
    "race": "Fairy Tale",
    "artist": "AKI",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\nWhenever another Fairy Tale resonator enters the field under your control >>> You may return this card to its owner's hand.",
+   "text": "Automatic\n\nWhenever another Fairy Tale resonator enters the field under your control >>> You may return this card to its owner's hand.",
    "flavor_text": "Nightmares repeat themselves, in dreams, in reality, even in a game.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2337,7 +2337,7 @@
    "race": "Machine, Human",
    "artist": "kakotomirai",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may pay [B] less to play this card for each Machine you control.",
+   "text": "Continuous\n\nYou may pay [B] less to play this card for each Machine you control.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2380,7 +2380,7 @@
    "race": "Fairy Tale",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nBanish a darkness crystal: This card becomes a [1000/1000] resonator with [Bane] and [Precision] until end of turn.",
+   "text": "Activate\n\nBanish a darkness crystal: This card becomes a [1000/1000] resonator with [Bane] and [Precision] until end of turn.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2412,7 +2412,7 @@
    "race": "Shadow",
    "artist": "Pisuke",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> You may banish any number of light and/or darkness crystals. Draw a card for each light crystal banished this way. Your opponent banishes a resonator for each darkness crystal banished this way.",
+   "text": "Automatic\n\n[Enter] >>> You may banish any number of light and/or darkness crystals. Draw a card for each light crystal banished this way. Your opponent banishes a resonator for each darkness crystal banished this way.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2435,7 +2435,7 @@
    "race": "Minion",
    "artist": "kakotomirai",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nJ/resonators your opponent controls lose and cannot gain [Flying].",
+   "text": "Continuous\n\nJ/resonators your opponent controls lose and cannot gain [Flying].",
    "flavor_text": "No one rules the sky in his presence.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2458,7 +2458,7 @@
    "race": "Fairy Tale",
    "artist": "Misa Tsutsui",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[Rest]: Look at the top two cards of your deck. Put them on the top of your deck in any order.",
+   "text": "Activate\n\n[Rest]: Look at the top two cards of your deck. Put them on the top of your deck in any order.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2503,7 +2503,7 @@
    "race": "Minion, Dragonoid",
    "artist": "SIGMAN",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Limit Break] (As long as you control [Limit Break] (\"Sylvia, Minion of Lapis\"), this card gains the following abilities.)\nThis card gains [+300/+300], [Flying] and \"Whenever this card attacks >>> It deals damage equal to its ATK to target J/resonator your opponent controls.\".",
+   "text": "Automatic\n\n[Limit Break] (As long as you control [Limit Break] (\"Sylvia, Minion of Lapis\"), this card gains the following abilities.)\n\nThis card gains [+300/+300], [Flying] and \"Whenever this card attacks >>> It deals damage equal to its ATK to target J/resonator your opponent controls.\".",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2534,7 +2534,7 @@
    "race": "Mage Art",
    "artist": "jugemt",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> If you don't control another \"The Final Stance\", take an extra turn after this one.",
+   "text": "Automatic\n\n[Enter] >>> If you don't control another \"The Final Stance\", take an extra turn after this one.",
    "flavor_text": "Magna concentrated all his remaining power, and released it in his final stance.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2564,7 +2564,7 @@
    "type": "Addition",
    "artist": "yuhki lily",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may pay [0] to play God's Art abilities of your J-ruler.",
+   "text": "Continuous\n\nYou may pay [0] to play God's Art abilities of your J-ruler.",
    "flavor_text": "The end of an era, but the origin of the Seven Lands.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2614,7 +2614,7 @@
    "race": "Twelve Protective Deities",
    "artist": "sakura moyon",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\nRest two recovered resonators you control: This card gains [Barrier] until end of turn.",
+   "text": "Activate\n\nRest two recovered resonators you control: This card gains [Barrier] until end of turn.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2635,7 +2635,7 @@
    "type": "Regalia",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[Rest]: Produce two wills in any combination of [W] and/or [D]. Spend this will only to play God's Art abilities, Fairy Tales, Shadows, or Mage Arts.",
+   "text": "Activate\n\n[Rest]: Produce two wills in any combination of [W] and/or [D]. Spend this will only to play God's Art abilities, Fairy Tales, Shadows, or Mage Arts.",
    "flavor_text": "Currently just a fairy tale of sad revenge.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2656,7 +2656,7 @@
    "type": "Addition",
    "artist": "Nakaba Higurashi",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nYou may pay the attribute cost of Twelve Protective Deities with any will.",
+   "text": "Continuous\n\nYou may pay the attribute cost of Twelve Protective Deities with any will.",
    "flavor_text": "Gill Lapis destroyed Vell-Savaria, and now the final battle is about to begin.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2682,7 +2682,7 @@
    "race": "Human",
    "artist": "KIA ASAMIYA",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Continuous\nThis card gains [+100/+100] for each card in your removed area.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each card in your removed area.",
    "flavor_text": "\"Battle never changes. We know that since Valhalla.\" ーMagna, the Creator of Regalia",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2705,7 +2705,7 @@
    "race": "Warrior",
    "artist": "Takumi Sugikawa",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Automatic\n[Enter] >>> Draw a card for each resonator put into a graveyard from the field this turn.",
+   "text": "Automatic\n\n[Enter] >>> Draw a card for each resonator put into a graveyard from the field this turn.",
    "flavor_text": "\"I went to Yggdrasil to prepare my backup plan, but I still hope that I won't need it.\" ーNote of Magna 33",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2728,7 +2728,7 @@
    "race": "Twelve Protective Deities",
    "artist": "gozz",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[Rest]: Produce one will of any attribute.",
+   "text": "Activate\n\n[Rest]: Produce one will of any attribute.",
    "flavor_text": "ー",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2746,7 +2746,7 @@
    "type": "Regalia",
    "artist": "Kotakan",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[Rest]: Produce one will of any attribute. Spend this will only to play God's Art abilities, (Stranger) resonators, Twelve Protective Deities, Sword Arts, or Mage Arts.",
+   "text": "Activate\n\n[Rest]: Produce one will of any attribute. Spend this will only to play God's Art abilities, (Stranger) resonators, Twelve Protective Deities, Sword Arts, or Mage Arts.",
    "flavor_text": "Harmony of the world, creation of hope.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2766,7 +2766,7 @@
    "race": "Ethereal Tree",
    "artist": "ishishou",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[Rest]: Produce one will of any attribute. Spend this will only to play regalia.",
+   "text": "Activate\n\n[Rest]: Produce one will of any attribute. Spend this will only to play regalia.",
    "flavor_text": "Yggdrasil will appear when Attoractia is in danger.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2779,7 +2779,7 @@
    "type": "Special Magic Stone",
    "artist": "gozz",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[rest]: Produce [M] or [B].",
+   "text": "Activate\n\n[rest]: Produce [M] or [B].",
    "flavor_text": "Light is stolen away into the sky.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2792,7 +2792,7 @@
    "type": "Special Magic Stone",
    "artist": "Nekobayashi",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[rest]: Produce [W] or [B].",
+   "text": "Activate\n\n[rest]: Produce [W] or [B].",
    "flavor_text": "A cursed darkness that covers all; A holy light that radiates freely.",
    "all_sets": "Alice Origin 4th Booster Pack"
   },
@@ -2805,7 +2805,7 @@
    "type": "Special Magic Stone",
    "artist": "matataku",
    "expansion": "Alice Origin 4th Booster Pack",
-   "text": "Activate\n[rest]: Produce [W], [R], [U], [G], or [B].",
+   "text": "Activate\n\n[rest]: Produce [W], [R], [U], [G], or [B].",
    "flavor_text": "It's a memory carved by the victor.",
    "all_sets": "Alice Origin 4th Booster Pack"
   }

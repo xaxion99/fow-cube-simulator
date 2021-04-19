@@ -42,7 +42,7 @@
    "race": "Fantasy/Saint",
    "artist": "gekko",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nOther resonators you control gain [+100/+100].",
+   "text": "Continuous\n\nOther resonators you control gain [+100/+100].",
    "flavor_text": "Jeanne's fantasy is within her mind. Her current mind holds a deep compassion for humans.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -90,7 +90,7 @@
    "race": "Fairy Tale/Human",
    "artist": "城戸春一",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\n[Enter] Choose target resonator. Remove it from the game if it's darkness. Otherwise, it gains [+200/+200] until end of turn. [Awakening [W]]：[Enter] If your J/ruler is \"Sacred Princess of Guidance\" or \"Lumia, the Creator of Hope\", J/resonators your opponent controls lose all abilities until end of turn.",
+   "text": "Automatic\n\n[Enter] Choose target resonator. Remove it from the game if it's darkness. Otherwise, it gains [+200/+200] until end of turn. [Awakening [W]]：[Enter] If your J/ruler is \"Sacred Princess of Guidance\" or \"Lumia, the Creator of Hope\", J/resonators your opponent controls lose all abilities until end of turn.",
    "flavor_text": "The book \"Fairy Tale of the Red Moon\" notes a story about Prince Grimms's valiant fight against the dark.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -113,7 +113,7 @@
    "race": "Ancient/Human",
    "artist": "見田航介",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nIf you control a Tower, this card gains [+0/+600].",
+   "text": "Continuous\n\nIf you control a Tower, this card gains [+0/+600].",
    "flavor_text": "\"All the keys are here. Please, come in.\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -139,7 +139,7 @@
    "race": "Saint/Human",
    "artist": "長崎祐子",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nEach turn, prevent the first damage that would be dealt to a Fantasy or Human J/resonator you control.",
+   "text": "Continuous\n\nEach turn, prevent the first damage that would be dealt to a Fantasy or Human J/resonator you control.",
    "flavor_text": "When Jeanne holds her sword up high, all are lost in admiration, and morale will rise.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -204,7 +204,7 @@
    "race": "Relic/Treasury Item",
    "artist": "Mz.縞",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nAdded resonator gains [+500/+500], cannot be targeted by darkness spells or darkness card's abilities and prevent all damage that would be dealt to it by darkness cards.",
+   "text": "Continuous\n\nAdded resonator gains [+500/+500], cannot be targeted by darkness spells or darkness card's abilities and prevent all damage that would be dealt to it by darkness cards.",
    "flavor_text": "That is a spear, and a fortune-teller's key.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -226,7 +226,7 @@
    "race": "Tower",
    "artist": "Cola",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ Put hope counters equal to the number of resonators you control on this card. Then, if there are ten or more hope counters on this card, banish it and destroy all resonators and additions your opponent controls.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ Put hope counters equal to the number of resonators you control on this card. Then, if there are ten or more hope counters on this card, banish it and destroy all resonators and additions your opponent controls.",
    "flavor_text": "This tower grows to the heavens, as if blessed by God.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -289,7 +289,7 @@
    "type": "Addition: Field",
    "artist": "今野隼史",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nRecovered resonators you control cannot be targeted by spells or abilities your opponent controls.",
+   "text": "Continuous\n\nRecovered resonators you control cannot be targeted by spells or abilities your opponent controls.",
    "flavor_text": "\"Pure ideals are impossible to destroy.\" 〜Jeanne d'Arc, the Awakened Purifier",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -303,7 +303,7 @@
    "race": "Princess",
    "artist": "下江クリス",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n(Rest): You gain 300 life.",
+   "text": "Activate\n\n(Rest): You gain 300 life.",
    "flavor_text": "Such determination for one so small.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -318,7 +318,7 @@
    "race": "Savior/Human",
    "artist": "下江クリス",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[0]: If there are no cards in your removed area, remove the top three cards of your deck from the game face down. You may look at them at any time.",
+   "text": "Activate\n\n[0]: If there are no cards in your removed area, remove the top three cards of your deck from the game face down. You may look at them at any time.",
    "flavor_text": "True hope is a power that can always begin anew. She casts hope where all seems lost.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -337,7 +337,7 @@
    "race": "Weapon",
    "artist": "Lunallena",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nAdded resonator gains \"[rest]: Rest target resonator. If it's a Demon, it cannot be recovered as long as this card is in a field. \"",
+   "text": "Continuous\n\nAdded resonator gains \"[rest]: Rest target resonator. If it's a Demon, it cannot be recovered as long as this card is in a field. \"",
    "flavor_text": "Holy powers can put evil under control, but never forget the price for these summons.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -360,7 +360,7 @@
    "race": "Soldier/Human",
    "artist": "Nagiにゃん",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\n[Enter] You may look at the top card of your opponent's deck.",
+   "text": "Automatic\n\n[Enter] You may look at the top card of your opponent's deck.",
    "flavor_text": "A strong scout will understand a threat and know where to fight it. They'll know if it becomes too dangerous.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -383,7 +383,7 @@
    "race": "Fairy Tale/Human",
    "artist": "碧風羽",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[1] (Rest): Resonators you control gain [+200/+200] as long as this card is rested.",
+   "text": "Activate\n\n[1] (Rest): Resonators you control gain [+200/+200] as long as this card is rested.",
    "flavor_text": "\"This baby's sleeping face looks as though she could sleep for one hundred years more.\" 〜Sacred Princess of Guidance",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -403,7 +403,7 @@
    "race": "Butler/Human",
    "artist": "佐々木光之介",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nYour J/ruler cannot be targeted by spells or abilities your opponent controls.",
+   "text": "Continuous\n\nYour J/ruler cannot be targeted by spells or abilities your opponent controls.",
    "flavor_text": "\"The land held festivals when the Queen gave birth to twins. Princess Lumia was harder to care for than Prince Grimm, but we still took our time with both of them.\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -426,7 +426,7 @@
    "race": "Nightmare/WereWolf",
    "artist": "石商",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nIf this card would deal damage to your opponent or to a resonator, it deals double that much instead.",
+   "text": "Continuous\n\nIf this card would deal damage to your opponent or to a resonator, it deals double that much instead.",
    "flavor_text": "The hero who obeyed Little Red Riding Hood decides to bare his teeth.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -469,7 +469,7 @@
    "race": "Card Soldier",
    "artist": "みえ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 200 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ It deals 200 damage to target resonator.",
    "flavor_text": "A diamond is obstinate and direct.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -492,7 +492,7 @@
    "race": "Card Soldier",
    "artist": "みえ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nIf damage would be dealt to a \"Queen of Hearts\" you control, it's dealt to this card instead.",
+   "text": "Continuous\n\nIf damage would be dealt to a \"Queen of Hearts\" you control, it's dealt to this card instead.",
    "flavor_text": "A heart is a dreamer and passionate.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -550,7 +550,7 @@
    "type": "Addition: Field",
    "artist": "Mad",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nResonators must attack if able.",
+   "text": "Continuous\n\nResonators must attack if able.",
    "flavor_text": "When all the soldiers are finally destroyed, this endless fight shall finish.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -564,7 +564,7 @@
    "race": "Knight",
    "artist": "kakotomirai",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Search your deck for a Dragon resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[rest]: Search your deck for a Dragon resonator, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Strong ones, fight with me!\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -579,7 +579,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\nBanish a fire resonator: This card gains [Imperishable] until end of turn.",
+   "text": "Activate\n\nBanish a fire resonator: This card gains [Imperishable] until end of turn.",
    "flavor_text": "Many dragons write down their terrifying experiences for future generations. However Bahamut will not partake in this tradition.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -597,7 +597,7 @@
    "type": "Addition: Resonator",
    "artist": "douzen",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nAdded resonator gains [+400/-400].",
+   "text": "Continuous\n\nAdded resonator gains [+400/-400].",
    "flavor_text": "Heightened growth has its side effects.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -620,7 +620,7 @@
    "race": "Flame Spirit/Cthulhu",
    "artist": "Moopic",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nThis card gains [+200/+200] for each spell card in your graveyard.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each spell card in your graveyard.",
    "flavor_text": "Alice had seen many worlds but never saw animals like these before.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -646,7 +646,7 @@
    "race": "Knight",
    "artist": "Mz.縞",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[R]: This card gains [+100/+0] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [+100/+0] until end of turn.",
    "flavor_text": "They are controlled by strong emotions, like fear and despair.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -667,7 +667,7 @@
    "type": "Addition: Resonator",
    "artist": "gozz",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nIf added resonator would deal damage, it deals that much + 200 instead.",
+   "text": "Continuous\n\nIf added resonator would deal damage, it deals that much + 200 instead.",
    "flavor_text": "The ninth disaster, or a hope to stop all others?",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -733,7 +733,7 @@
    "type": "Addition: Field",
    "artist": "ORETO",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhenever a non-Dragon resonator enters a field ⇒ This card deals 500 damage to it. If you control \"Bahamut, the Dragon King\", this card deals 800 damage instead.",
+   "text": "Automatic\n\nWhenever a non-Dragon resonator enters a field ⇒ This card deals 500 damage to it. If you control \"Bahamut, the Dragon King\", this card deals 800 damage instead.",
    "flavor_text": "The weak cannot survive in the Dragon King's domain.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -759,7 +759,7 @@
    "race": "Bird",
    "artist": "サウマロ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nAt the end of your turn ⇒ Put an omen counter on this card.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Put an omen counter on this card.",
    "flavor_text": "The bird looked over all and flew back towards the red moon.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -782,7 +782,7 @@
    "race": "Nightmare/Witch",
    "artist": "ひがし",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen this card becomes targeted by water spells or water card's abilities ⇒ Destroy it.",
+   "text": "Automatic\n\nWhen this card becomes targeted by water spells or water card's abilities ⇒ Destroy it.",
    "flavor_text": "She is frightened of the dark, and water is a most volatile poison to her.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -817,7 +817,7 @@
    "race": "Nightmare/Dragon",
    "artist": "gozz",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may search your deck for a card named \"Kusanagi Sword\" and add it to a resonator. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ You may search your deck for a card named \"Kusanagi Sword\" and add it to a resonator. Then shuffle your deck.",
    "flavor_text": "Lumia understands instinctively, without logic, that this is what people fear.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -831,7 +831,7 @@
    "race": "Little Girl",
    "artist": "Wednesday",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Judgement\n[J-Activate]: any number of will. You cannot choose to pay [0].",
+   "text": "Judgement\n\n[J-Activate]: any number of will. You cannot choose to pay [0].",
    "flavor_text": "\"Hey Grimm, do you think it was a good idea? I've entrusted your hopes to the Princess.\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -846,7 +846,7 @@
    "race": "Wanderer/Little Girl",
    "artist": "Wednesday",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\n[Enter] If you paid [W] for doing judgment, you gain 1000 life. If you paid [U], draw a card. If you paid [B], target opponent discard a card. If you paid [R], this card deals 1000 damage to up to one target resonator. If you paid [G], destroy up to one target addition. If you paid will of each attribute and will produced from \"Moojdart, the Fantasy Stone\", this card gains [Flying] and [Swiftness] until end of turn.",
+   "text": "Automatic\n\n[Enter] If you paid [W] for doing judgment, you gain 1000 life. If you paid [U], draw a card. If you paid [B], target opponent discard a card. If you paid [R], this card deals 1000 damage to up to one target resonator. If you paid [G], destroy up to one target addition. If you paid will of each attribute and will produced from \"Moojdart, the Fantasy Stone\", this card gains [Flying] and [Swiftness] until end of turn.",
    "flavor_text": "\"Being renowned all across the world is not important to me, observing and keeping the world in balance is important.\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -870,7 +870,7 @@
    "type": "Addition: Field",
    "artist": "Fushikaden K.K.",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\n[Enter] Take an extra turn after this one.",
+   "text": "Automatic\n\n[Enter] Take an extra turn after this one.",
    "flavor_text": "\"Welcome to my world.\" 〜Alice, the Drifter in the World",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -890,7 +890,7 @@
    "race": "Fairy Tale",
    "artist": "石商",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen this card is put into a graveyard from a field ⇒ Shuffle it into its owner's deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from a field ⇒ Shuffle it into its owner's deck.",
    "flavor_text": "\"The Hatter and March Hare over there are crazy. But don't worry, for you and I are already crazy. That's why we're in this world.\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -976,7 +976,7 @@
    "race": "Fairy Tale",
    "artist": "ケルビン",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[U], banish this card: Reveal the top card of your deck. If it's a resonator, put it into your field. Otherwise, put it into your graveyard.",
+   "text": "Activate\n\n[U], banish this card: Reveal the top card of your deck. If it's a resonator, put it into your field. Otherwise, put it into your graveyard.",
    "flavor_text": "Lumia looked disgusted when she saw the egg-shaped animals. Then Humpty Dumpty turned to her and said: \"You don't seem comfortable at all!\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -999,7 +999,7 @@
    "race": "Mermaid",
    "artist": "長崎祐子",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nYour opponent must block this card if able.",
+   "text": "Continuous\n\nYour opponent must block this card if able.",
    "flavor_text": "The Mermaid Princess was sad about her tragic love, but she never regretted it.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1042,7 +1042,7 @@
    "type": "Addition: Field",
    "artist": "Kawaryu",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nWhenever a resonator you control becomes targeted by spells or abilities other than through ⇒ Choose a new target at random. (Choose at random among all the legal targets including the original one.)",
+   "text": "Continuous\n\nWhenever a resonator you control becomes targeted by spells or abilities other than through ⇒ Choose a new target at random. (Choose at random among all the legal targets including the original one.)",
    "flavor_text": "The crazy tea party is far from ending. Those who try to end it wind up crazy themselves.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1062,7 +1062,7 @@
    "race": "Fairy Tale",
    "artist": "乃希",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhenever this card attacks ⇒ Reveal the top card of your deck. If its total cost is even, the next damage this card would deal this turn is dealt to you instead.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Reveal the top card of your deck. If its total cost is even, the next damage this card would deal this turn is dealt to you instead.",
    "flavor_text": "\"Me kicking somebody and you kicking me are like the same thing. Whatever happens, it's still kicking.\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1085,7 +1085,7 @@
    "race": "Human",
    "artist": "夕子",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[0]: Target resonator you control loses all abilities until end of turn.",
+   "text": "Activate\n\n[0]: Target resonator you control loses all abilities until end of turn.",
    "flavor_text": "Even though she lost all she had, she would never lose her kindness.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1108,7 +1108,7 @@
    "race": "Human/Fisherman",
    "artist": "gekko",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Reveal the top card of your deck. If it's a resonator, put it back, look at the top four cards of your deck and put them in any order. If it's an addition, put it into your hand. If it's a spell card, rest target resonator.",
+   "text": "Activate\n\n[rest]: Reveal the top card of your deck. If it's a resonator, put it back, look at the top four cards of your deck and put them in any order. If it's an addition, put it into your hand. If it's a spell card, rest target resonator.",
    "flavor_text": "\"Recently, I've been catching some mysterious things, that don't look like they should even exist in our world.\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1134,7 +1134,7 @@
    "race": "Dolphin",
    "artist": "佐久間さのすけ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhenever this card blocks ⇒ Rest target resonator.",
+   "text": "Automatic\n\nWhenever this card blocks ⇒ Rest target resonator.",
    "flavor_text": "Dolphins make good sentries as they cry at the sight of enemies.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1174,7 +1174,7 @@
    "type": "Addition: Resonator",
    "artist": "夕子",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nAdded resonator gains [+700/+700] if it has no printed abilities.",
+   "text": "Continuous\n\nAdded resonator gains [+700/+700] if it has no printed abilities.",
    "flavor_text": "This silver coin is only granted to special people.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1212,7 +1212,7 @@
    "type": "Addition: Resonator",
    "artist": "長崎祐子",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nAdded resonator gains \"[U][U][2] [rest]: Destroy target rested resonator.\" and \"[rest] banish this resonator: Draw three cards.\"",
+   "text": "Continuous\n\nAdded resonator gains \"[U][U][2] [rest]: Destroy target rested resonator.\" and \"[rest] banish this resonator: Draw three cards.\"",
    "flavor_text": "A choice between two things.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1232,7 +1232,7 @@
    "race": "Fairy Tale",
    "artist": "アサヒナ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nThis card gains [+300/+300] for each achievement counter on it.",
+   "text": "Continuous\n\nThis card gains [+300/+300] for each achievement counter on it.",
    "flavor_text": "\"I'm nothing but straw, and I lack a brain. I wonder if the wizard could grant my wish. Can I come with you?\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1252,7 +1252,7 @@
    "race": "Fairy Tale",
    "artist": "ハタリス",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nThis card gains [+300/+300] for each achievement counter on it.",
+   "text": "Continuous\n\nThis card gains [+300/+300] for each achievement counter on it.",
    "flavor_text": "\"I'm the king of beasts, but I'm not brave. Would the wizard make me brave?\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1266,7 +1266,7 @@
    "race": "Little Girl",
    "artist": "祀花よう子",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Judgement\n[G][G][1].",
+   "text": "Judgement\n\n[G][G][1].",
    "flavor_text": "You never know whether the true story has been told or not.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1281,7 +1281,7 @@
    "race": "Fairy Tale/Ancient",
    "artist": "祀花よう子",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nIf a spell or ability would decrease ATK or DEF of resonators you control, it decreases none instead.",
+   "text": "Continuous\n\nIf a spell or ability would decrease ATK or DEF of resonators you control, it decreases none instead.",
    "flavor_text": "\"I have waited more than a hundred of years for this moment... allies, let me take my world, my appearance and my story back!\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1304,7 +1304,7 @@
    "race": "Fairy Tale",
    "artist": "今野隼史",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ Put the top card of your magic stone deck into your magic stone area.",
+   "text": "Automatic\n\nWhenever this card deals damage to your opponent ⇒ Put the top card of your magic stone deck into your magic stone area.",
    "flavor_text": "Dorothy, wearing her silver shoes, chose to fight alongside the Zenithian Castle's protectors without a worry.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1325,7 +1325,7 @@
    "type": "Addition: Resonator",
    "artist": "CλT",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nIf added resonator would be dealt damage, prevent 500 of it.",
+   "text": "Continuous\n\nIf added resonator would be dealt damage, prevent 500 of it.",
    "flavor_text": "A sword made for one day's fight.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1368,7 +1368,7 @@
    "race": "Ancient/Dragon",
    "artist": "Mad",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]:Target resonator you control gains [+400/+0] until end of turn.",
+   "text": "Activate\n\n[rest]:Target resonator you control gains [+400/+0] until end of turn.",
    "flavor_text": "\"It\" protects eternal time within there.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1391,7 +1391,7 @@
    "race": "Fairy Tale",
    "artist": "碧風羽",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\nBanish this card: Cancel target normal spell unless its controller pays [2].",
+   "text": "Activate\n\nBanish this card: Cancel target normal spell unless its controller pays [2].",
    "flavor_text": "That smile can make everyone feel safe.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1414,7 +1414,7 @@
    "race": "Ancient/Elf",
    "artist": "塗夢",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]： Reveal the top card of your deck. If it's an Elf resonator, put it into your hand.",
+   "text": "Activate\n\n[rest]： Reveal the top card of your deck. If it's an Elf resonator, put it into your hand.",
    "flavor_text": "\"I'm nothing but a guide, an onlooker in this story. From here on, you shall all continue this tale.\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1434,7 +1434,7 @@
    "race": "Fairy Tale",
    "artist": "小泉哲哉",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nThis card gains [+300/+300] for each achievement counter on it.",
+   "text": "Continuous\n\nThis card gains [+300/+300] for each achievement counter on it.",
    "flavor_text": "\"I'm made from tin plates, and I lack a heart. Do you think if I see the wizard, he could grant me one?\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1457,7 +1457,7 @@
    "race": "Fairy Tale",
    "artist": "tokiwa",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\n[Enter] Search your deck for a chant card with total cost 1, reveal it and put it into your hand. If it's \"Oz's Magic\", you may play it without paying its cost instead putting it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] Search your deck for a chant card with total cost 1, reveal it and put it into your hand. If it's \"Oz's Magic\", you may play it without paying its cost instead putting it into your hand. Then shuffle your deck.",
    "flavor_text": "These abilities are a form of magic.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1515,7 +1515,7 @@
    "type": "Addition: Field",
    "artist": "ハタリス",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[G], Banish this card: Search your deck for a Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Activate\n\n[G], Banish this card: Search your deck for a Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"I can... still fight!!!\" 〜Little Red, the True Fairy Tale",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1536,7 +1536,7 @@
    "type": "Addition: Field",
    "artist": "Cola",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\nBanish this card: Target resonator gains [+400/+400] until end of turn.",
+   "text": "Activate\n\nBanish this card: Target resonator gains [+400/+400] until end of turn.",
    "flavor_text": "The power of hope's light covered Lumia's people and took them to the Zenithian castle.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1554,7 +1554,7 @@
    "type": "Addition: Resonator",
    "artist": "白野椋",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nAdded resonator gains [+300/+300].",
+   "text": "Continuous\n\nAdded resonator gains [+300/+300].",
    "flavor_text": "\"Nice shoes, I wish to wear them for the next fight, although I'd rather be wearing them to a ball.\" 〜Lumia, the Creator of Hope",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1574,7 +1574,7 @@
    "race": "Ancient/Wolf",
    "artist": "スギカワタクミ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhenever this card attacks ⇒ It gains [+400/+0] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ It gains [+400/+0] until end of turn.",
    "flavor_text": "A Zenithian castle flows slowly in time by an ancient power. Many of the animals live a very long time due to this ancient power.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1616,7 +1616,7 @@
    "race": "Tower",
    "artist": "Cola",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nAt the beginning of your main phase ⇒ If there are seven or more despair counters on this card, banish it and you may search your deck for up to two darkness resonators and play them without paying their cost. Then shuffle your deck.",
+   "text": "Automatic\n\nAt the beginning of your main phase ⇒ If there are seven or more despair counters on this card, banish it and you may search your deck for up to two darkness resonators and play them without paying their cost. Then shuffle your deck.",
    "flavor_text": "This tower grows to the heavens, as if to defy God.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1639,7 +1639,7 @@
    "race": "Nightmare/Card Soldier",
    "artist": "みえ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\n[Enter] Reveal the top four cards of your deck. Put a Card Soldier card among them into your hand. Put the rest into your graveyard.",
+   "text": "Automatic\n\n[Enter] Reveal the top four cards of your deck. Put a Card Soldier card among them into your hand. Put the rest into your graveyard.",
    "flavor_text": "A Club is shy and servile.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1659,7 +1659,7 @@
    "race": "Nightmare/Card Soldier",
    "artist": "みえ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nThis card gains [+200/+200] for each other Card Soldier you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each other Card Soldier you control.",
    "flavor_text": "A spade is haughty and arrogant.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1700,7 +1700,7 @@
    "type": "Addition: Resonator",
    "artist": "白野椋",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen added resonator is put into a graveyard from a field ⇒ This card deals 500 damage to that resonator's controller.",
+   "text": "Automatic\n\nWhen added resonator is put into a graveyard from a field ⇒ This card deals 500 damage to that resonator's controller.",
    "flavor_text": "This curse is a pain close to pleasure.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1720,7 +1720,7 @@
    "race": "Demon",
    "artist": "古城ばんび",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nAt the end of your turn ⇒ This card deals 200 damage to you.",
+   "text": "Continuous\n\nAt the end of your turn ⇒ This card deals 200 damage to you.",
    "flavor_text": "Imps are obvious trouble makers. Even the magicians who collect them know this.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1734,7 +1734,7 @@
    "race": "Prophet",
    "artist": "gozz",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Target resonator gains [-300/-300] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator gains [-300/-300] until end of turn.",
    "flavor_text": "The black prophecy foretells of a dire future.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1749,7 +1749,7 @@
    "race": "Wizard",
    "artist": "gozz",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[0]: Target resonator or addition loses all abilities until end of turn. Play this ability up to twice per turn.",
+   "text": "Activate\n\n[0]: Target resonator or addition loses all abilities until end of turn. Play this ability up to twice per turn.",
    "flavor_text": "\"Dracula fell... such a pity. The time has come for me to erase all...\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1775,7 +1775,7 @@
    "race": "Cthulhu",
    "artist": "kawaryu",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nThis card gains [+200/+200] for each resonator in all graveyards.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each resonator in all graveyards.",
    "flavor_text": "\"Soon... we are close to the beginning.\" ~ Abdul Alhazred, the Harbinger of Despair",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1794,7 +1794,7 @@
    "race": "Clothes",
    "artist": "古城ばんび",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen this card is put into a graveyard from a field ⇒ You may add it to target resonator you control.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from a field ⇒ You may add it to target resonator you control.",
    "flavor_text": "The Joker is an Ace. Once you become a Joker, you will always fear the Queen.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1820,7 +1820,7 @@
    "race": "Demon",
    "artist": "草薙蝶炎",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Put the top card of your deck and the top card of your opponent's deck into their owners' graveyards.",
+   "text": "Activate\n\n[rest]: Put the top card of your deck and the top card of your opponent's deck into their owners' graveyards.",
    "flavor_text": "That evil wasn't interested in the things that he could see.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1846,7 +1846,7 @@
    "race": "Demon",
    "artist": "touge369",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nAt the end of your turn ⇒ Banish another resonator you control.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Banish another resonator you control.",
    "flavor_text": "To summon an evil as dark as Mephistophele's, your soul is the very least of his requirements.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1871,7 +1871,7 @@
    "race": "Relic",
    "artist": "Mz.縞",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nAt the end of your turn ⇒ Discard your hand.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Discard your hand.",
    "flavor_text": "This note is nothing.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1894,7 +1894,7 @@
    "race": "Demon/Knight",
    "artist": "Mがんぢー",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Continuous\nThis card cannot be targeted by light chants or light card's abilities and prevent all damage that would be dealt to this card by light cards.",
+   "text": "Continuous\n\nThis card cannot be targeted by light chants or light card's abilities and prevent all damage that would be dealt to this card by light cards.",
    "flavor_text": "\"Those who refuse the power of the dark will eventually give in to their servile desires.\" 〜Abdul Alhazred, the Harbinger of Despair",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -1920,7 +1920,7 @@
    "race": "Nightmare",
    "artist": "百舌鳥",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest], banish two Card Soldiers: Destroy target resonator.",
+   "text": "Activate\n\n[rest], banish two Card Soldiers: Destroy target resonator.",
    "flavor_text": "\"No need to give them trial... I already cut their head off!\"",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2015,7 +2015,7 @@
    "type": "Special Magic Stone/True Magic Stone",
    "artist": "松本エイト",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
+   "text": "Automatic\n\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
    "flavor_text": "\"The true fairy stone is a legendary stone that was sealed by an ancient magician with his magic and very own soul... The princess is sleeping again...\"\"Haha Lumia hates studying. I'll learn it all, so don't worry.\"\"You are too soft on her, Prince Grimm...\" 〜One Past-scene at the Light Palace",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2028,7 +2028,7 @@
    "type": "Special Magic Stone/True Magic Stone",
    "artist": "長崎祐子",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
+   "text": "Automatic\n\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
    "flavor_text": "The true fairy stone provides the Zenithian castle's magic power.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2041,7 +2041,7 @@
    "type": "Special Magic Stone/True Magic Stone",
    "artist": "Moopic",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
+   "text": "Automatic\n\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
    "flavor_text": "This stone's real power is to seal magic away. But as long as Alhazred possesses it, the dark will continue to grow.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2054,7 +2054,7 @@
    "type": "Special Magic Stone",
    "artist": "サウマロ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [G] or [R].",
+   "text": "Activate\n\n[rest]: Produce [G] or [R].",
    "flavor_text": "A wind that can blow through everything; A fire that can burn through all.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2067,7 +2067,7 @@
    "type": "Special Magic Stone",
    "artist": "夕子",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [B] or [U].",
+   "text": "Activate\n\n[rest]: Produce [B] or [U].",
    "flavor_text": "Movements within the dark and murky depths.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2080,7 +2080,7 @@
    "type": "Special Magic Stone",
    "artist": "アサヒナ",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [W] or [G].",
+   "text": "Activate\n\n[rest]: Produce [W] or [G].",
    "flavor_text": "A momentary shine that reflects in the sky.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2093,7 +2093,7 @@
    "type": "Special Magic Stone",
    "artist": "河北亜希",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [W] or [U].",
+   "text": "Activate\n\n[rest]: Produce [W] or [U].",
    "flavor_text": "The shining paths that branch from the crossroad.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2106,7 +2106,7 @@
    "type": "Special Magic Stone",
    "artist": "tokiwa",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [B] or [R].",
+   "text": "Activate\n\n[rest]: Produce [B] or [R].",
    "flavor_text": "Hidden within the night, the burning spiral of seeds.",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2119,7 +2119,7 @@
    "type": "Special Magic Stone/True Magic Stone",
    "artist": "kawaryu",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
+   "text": "Automatic\n\nWhen you control two or more true magic stones with the same name, banish all but one of them.",
    "flavor_text": "\"Just burn through.\" 〜Bahamut, the Dragon King",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2132,7 +2132,7 @@
    "type": "Special Magic Stone/True Magic Stone",
    "artist": "七海ルシア",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Automatic\nWhen you control two or more true magic stones with the same name, banish all but one of them",
+   "text": "Automatic\n\nWhen you control two or more true magic stones with the same name, banish all but one of them",
    "flavor_text": "\"Did you see a good dream?\" 〜Alice in Wonderland",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
@@ -2145,7 +2145,7 @@
    "type": "Basic Magic Stone",
    "artist": "原田みどり",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
   {
@@ -2157,7 +2157,7 @@
    "type": "Basic Magic Stone",
    "artist": "原田みどり",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
   {
@@ -2169,7 +2169,7 @@
    "type": "Basic Magic Stone",
    "artist": "原田みどり",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
   {
@@ -2181,7 +2181,7 @@
    "type": "Basic Magic Stone",
    "artist": "原田みどり",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "The Castle of Heaven and The Two Towers"
   },
   {
@@ -2193,7 +2193,7 @@
    "type": "Basic Magic Stone",
    "artist": "原田みどり",
    "expansion": "The Castle of Heaven and The Two Towers",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "The Castle of Heaven and The Two Towers"
   }
  ]

@@ -22,7 +22,7 @@
    "race": "Myth",
    "artist": "七原しえ",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][W][W][1]: Target J/resonator gains [+800/+800] until end of turn.",
+   "text": "Activate\n\n[Inheritance][W][W][1]: Target J/resonator gains [+800/+800] until end of turn.",
    "flavor_text": "After glimpsing the future, this woman awoke once again.",
    "all_sets": "Legacy Lost"
   },
@@ -62,7 +62,7 @@
    "race": "Beast",
    "artist": "Mがんぢー",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][W]: Target J/resonator gains [+300/+300] and [Barrier] [R][B] until end of turn. (Pay [W] and discard this card to play this ability.)",
+   "text": "Activate\n\n[Inheritance][W]: Target J/resonator gains [+300/+300] and [Barrier] [R][B] until end of turn. (Pay [W] and discard this card to play this ability.)",
    "flavor_text": "The beast disappeared, but a radiant aura surrounded Millium and his friends.",
    "all_sets": "Legacy Lost"
   },
@@ -125,7 +125,7 @@
    "race": "Fairy Tale",
    "artist": "弥生しろ",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[W], remove a [+100/+100] counter from this card: Put a [+100/+100] counter on another target light J/resonator.",
+   "text": "Activate\n\n[W], remove a [+100/+100] counter from this card: Put a [+100/+100] counter on another target light J/resonator.",
    "flavor_text": "The delicious sparkling white apple invigorates its eater.",
    "all_sets": "Legacy Lost"
   },
@@ -148,7 +148,7 @@
    "race": "Spirit",
    "artist": "j-peg",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put a [+100/+100] counter on another target J/resonator you control.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put a [+100/+100] counter on another target J/resonator you control.",
    "flavor_text": "It's a faint light, but sometimes that's all you need to find hope.",
    "all_sets": "Legacy Lost"
   },
@@ -174,7 +174,7 @@
    "race": "Fairy Tale",
    "artist": "上條ロロ(Kamijyo Roro)",
    "expansion": "Legacy Lost",
-   "text": "Continuous\nPrevent all damage that would be dealt to this card. If damage was prevented this way, remove a [+100/+100] counter from this card.",
+   "text": "Continuous\n\nPrevent all damage that would be dealt to this card. If damage was prevented this way, remove a [+100/+100] counter from this card.",
    "flavor_text": "\"Hm, now where'd he go off to?\" \"How should I know?\" \"Did he go looking for apples?\" \"Exactly how many of us were there anyway?\"",
    "all_sets": "Legacy Lost"
   },
@@ -194,7 +194,7 @@
    "race": "Ancient",
    "artist": "ネム",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Remove the top card of your deck from the game. This card deals 100 damage multiplied by the total cost of the card removed this way to your opponent.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Remove the top card of your deck from the game. This card deals 100 damage multiplied by the total cost of the card removed this way to your opponent.",
    "flavor_text": "\"Now where have I seen that power before...hmm.\" -Kaguya, Lunar Researcher",
    "all_sets": "Legacy Lost"
   },
@@ -217,7 +217,7 @@
    "race": "Cthulhu",
    "artist": "ケルビン",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][R][1]: Put five limit counters on target Cthulhu J/resonator with [Limit].",
+   "text": "Activate\n\n[Inheritance][R][1]: Put five limit counters on target Cthulhu J/resonator with [Limit].",
    "flavor_text": "Bastet is always smiling suspiciously. Even after a thousand years.",
    "all_sets": "Legacy Lost"
   },
@@ -278,7 +278,7 @@
    "race": "Magic Lifeform",
    "artist": "SIGMAN",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][R][1]: This card deals 600 damage to target J/resonator. (Pay [R][1] and discard this card to play this ability.)",
+   "text": "Activate\n\n[Inheritance][R][1]: This card deals 600 damage to target J/resonator. (Pay [R][1] and discard this card to play this ability.)",
    "flavor_text": "A living flame.",
    "all_sets": "Legacy Lost"
   },
@@ -304,7 +304,7 @@
    "race": "Fairy Tale",
    "artist": "佐川明日香",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: This card deals 800 damage to each J/resonator without [Flying].",
+   "text": "Activate\n\n[rest]: This card deals 800 damage to each J/resonator without [Flying].",
    "flavor_text": "The clouds usually move freely. You only need to worry if they start getting pushed around.",
    "all_sets": "Legacy Lost"
   },
@@ -330,7 +330,7 @@
    "race": "Ancient",
    "artist": "BANAMONS*",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ If you removed two or more mana counters from your J/ruler this turn and you have no produced will, put two mana counters on your J/ruler.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ If you removed two or more mana counters from your J/ruler this turn and you have no produced will, put two mana counters on your J/ruler.",
    "flavor_text": "\"I'll be better than my father. For the sake of Altea, I'll record all of time.\"",
    "all_sets": "Legacy Lost"
   },
@@ -405,7 +405,7 @@
    "race": "Wizard",
    "artist": "猫囃子(Nekobayashi)",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.",
    "flavor_text": "Her spirit shines with radiant hopes.",
    "all_sets": "Legacy Lost"
   },
@@ -448,7 +448,7 @@
    "race": "Myth",
    "artist": "touge369",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put the top card of your deck into your graveyard. If it was put into your graveyard this way, put a [X00/X00] water/darkness Fantasy resonator token into your field, where X is that card's total cost.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put the top card of your deck into your graveyard. If it was put into your graveyard this way, put a [X00/X00] water/darkness Fantasy resonator token into your field, where X is that card's total cost.",
    "flavor_text": "\"Wonder what I'll get. Hope it's good.\"",
    "all_sets": "Legacy Lost"
   },
@@ -468,7 +468,7 @@
    "race": "Fantasy",
    "artist": "kawaryu",
    "expansion": "Legacy Lost",
-   "text": "Continuous\nPrevent all damage that would be dealt to this card during your opponent's turn.",
+   "text": "Continuous\n\nPrevent all damage that would be dealt to this card during your opponent's turn.",
    "flavor_text": "Illusions flicker between tangible and intangible forms, giving them an edge against real beings.",
    "all_sets": "Legacy Lost"
   },
@@ -491,7 +491,7 @@
    "race": "Ancient",
    "artist": "Azusa",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][U][U]: Return target resonator to its owner's hand. (Pay [U][U] and discard this card to play this ability.)",
+   "text": "Activate\n\n[Inheritance][U][U]: Return target resonator to its owner's hand. (Pay [U][U] and discard this card to play this ability.)",
    "flavor_text": "\"Master Lapis. I hope you know your punishment for returning is execution.\"",
    "all_sets": "Legacy Lost"
   },
@@ -561,7 +561,7 @@
    "race": "Elf/Six Sages",
    "artist": "狛蜜ザキ",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may return another target resonator you control to its owner's hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may return another target resonator you control to its owner's hand.",
    "flavor_text": "\"Thanks for everything. All in all, I've had a pretty good run. And Kaguya...I'm sorry.\"",
    "all_sets": "Legacy Lost"
   },
@@ -624,7 +624,7 @@
    "race": "Fairy Tale",
    "artist": "祀花よう子",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card deals damage to your opponent ⇒ You may banish this card. If you do, you may search your deck for a card named \"Skyscraper Giant\" and put it into your field. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card deals damage to your opponent ⇒ You may banish this card. If you do, you may search your deck for a card named \"Skyscraper Giant\" and put it into your field. Then shuffle your deck.",
    "flavor_text": "The beanstalk stretched to the heavens and beyond.",
    "all_sets": "Legacy Lost"
   },
@@ -647,7 +647,7 @@
    "race": "Beast",
    "artist": "gekko",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][G][2]: Target J/resonator gains [+700/+700] until end of turn. (Pay [G][2] and discard this card to play this ability.)",
+   "text": "Activate\n\n[Inheritance][G][2]: Target J/resonator gains [+700/+700] until end of turn. (Pay [G][2] and discard this card to play this ability.)",
    "flavor_text": "That which inherits its soul, inherits its power.",
    "all_sets": "Legacy Lost"
   },
@@ -667,7 +667,7 @@
    "race": "Magic Lifeform",
    "artist": "上木乃アロエ",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Produce [W], [R], [U], [G], or [B].",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Produce [W], [R], [U], [G], or [B].",
    "flavor_text": "A creation forged by Grusbalesta and influenced by Altea.",
    "all_sets": "Legacy Lost"
   },
@@ -704,7 +704,7 @@
    "race": "Beast",
    "artist": "ひがし",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][G]: Target J/resonator gains [+300/+300] and [Flying] until end of turn. (Pay [G] and discard this card to play this ability.)",
+   "text": "Activate\n\n[Inheritance][G]: Target J/resonator gains [+300/+300] and [Flying] until end of turn. (Pay [G] and discard this card to play this ability.)",
    "flavor_text": "The winds speed off into the sky.",
    "all_sets": "Legacy Lost"
   },
@@ -774,7 +774,7 @@
    "race": "Twelve Apostles/Dragon",
    "artist": "Mad",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Remove all resonators your opponent controls with the lowest total cost among resonators your opponent controls from the game.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Remove all resonators your opponent controls with the lowest total cost among resonators your opponent controls from the game.",
    "flavor_text": "\"The end finally comes to the land of beginnings.\" -Gill Lapis",
    "all_sets": "Legacy Lost"
   },
@@ -817,7 +817,7 @@
    "race": "Vampire",
    "artist": "トミダトモミ",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put two [+100/+100] counters on target resonator your opponent controls.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put two [+100/+100] counters on target resonator your opponent controls.",
    "flavor_text": "\"Kumomaru! Set them up!\" -Yashahime, First Daughter of the Mikage",
    "all_sets": "Legacy Lost"
   },
@@ -837,7 +837,7 @@
    "race": "Fantasy",
    "artist": "スギカワタクミ",
    "expansion": "Legacy Lost",
-   "text": "Activate\nBanish this card: Put a token copy of target token you control into your field.",
+   "text": "Activate\n\nBanish this card: Put a token copy of target token you control into your field.",
    "flavor_text": "The future of shadows is formless.",
    "all_sets": "Legacy Lost"
   },
@@ -863,7 +863,7 @@
    "race": "Vampire",
    "artist": "田島幸枝",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[B], remove a [+100/+100] counter from this card: Put two [+100/+100] counters on another target Vampire you control.",
+   "text": "Activate\n\n[B], remove a [+100/+100] counter from this card: Put two [+100/+100] counters on another target Vampire you control.",
    "flavor_text": "\"Well then, I'll be taking all your blood, if you don't mind.\"",
    "all_sets": "Legacy Lost"
   },
@@ -883,7 +883,7 @@
    "race": "Vampire",
    "artist": "駒井春樹",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target resonator your opponent controls with one or more [+100/+100] counters on it.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Destroy target resonator your opponent controls with one or more [+100/+100] counters on it.",
    "flavor_text": "\"Yashamaru! Finish it!\" -Yashahime, First Daughter of the Mikage",
    "all_sets": "Legacy Lost"
   },
@@ -932,7 +932,7 @@
    "race": "Ancient",
    "artist": "ユウキリリー",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top four cards of your deck. Put a chant from among them into your hand and the rest into your graveyard.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top four cards of your deck. Put a chant from among them into your hand and the rest into your graveyard.",
    "flavor_text": "Those that directly serve the Seven Luminaries are highly revered.",
    "all_sets": "Legacy Lost"
   },
@@ -958,7 +958,7 @@
    "race": "Chimera",
    "artist": "猫えモン",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target resonator. If you do, you gain life equal to its DEF.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Destroy target resonator. If you do, you gain life equal to its DEF.",
    "flavor_text": "All life is food for other life.",
    "all_sets": "Legacy Lost"
   },
@@ -982,7 +982,7 @@
    "type": "Addition",
    "artist": "Fushikaden K.K.",
    "expansion": "Legacy Lost",
-   "text": "Continuous\nPlayers pay [2] more to play non-Ancient Magic chants.",
+   "text": "Continuous\n\nPlayers pay [2] more to play non-Ancient Magic chants.",
    "flavor_text": "\"I think it's time to stop with the magic tricks and do some real spellwork.\" -Sol, Dark Commander of Steam",
    "all_sets": "Legacy Lost"
   },
@@ -1003,7 +1003,7 @@
    "type": "Addition",
    "artist": "今野隼史",
    "expansion": "Legacy Lost",
-   "text": "Continuous\nIf a card would be put into a graveyard from anywhere, remove it from the game instead.",
+   "text": "Continuous\n\nIf a card would be put into a graveyard from anywhere, remove it from the game instead.",
    "flavor_text": "\"I won't let you do anything bad.\" -Lumia, the Fated Rebirth",
    "all_sets": "Legacy Lost"
   },
@@ -1029,7 +1029,7 @@
    "race": "Human",
    "artist": "まよ",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Destroy target rested resonator your opponent controls.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Destroy target rested resonator your opponent controls.",
    "flavor_text": "The blessing turned to a flame that warded off danger.",
    "all_sets": "Legacy Lost"
   },
@@ -1052,7 +1052,7 @@
    "race": "Spirit",
    "artist": "古城ばんび",
    "expansion": "Legacy Lost",
-   "text": "Activate\nBanish this card: Put two mana counters on target J/ruler.",
+   "text": "Activate\n\nBanish this card: Put two mana counters on target J/ruler.",
    "flavor_text": "Alteans are experts at conserving and storing energy.",
    "all_sets": "Legacy Lost"
   },
@@ -1121,7 +1121,7 @@
    "race": "Fantasy",
    "artist": "tokiwa",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Draw a card.",
    "flavor_text": "\"I hoped we'd meet again soon, but not like this.\" -Zero, Master of the Magic Saber",
    "all_sets": "Legacy Lost"
   },
@@ -1147,7 +1147,7 @@
    "race": "Demon",
    "artist": "yua",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhenever this card is dealt damage by a J/resonator ⇒ This card deals that much damage to that J/resonator.",
+   "text": "Automatic\n\nWhenever this card is dealt damage by a J/resonator ⇒ This card deals that much damage to that J/resonator.",
    "flavor_text": "Such a troublesome little fellow.",
    "all_sets": "Legacy Lost"
   },
@@ -1170,7 +1170,7 @@
    "race": "Divine Beast",
    "artist": "gozz",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][W][G]: Target J/resonator you control gains [+600/+600] until end of turn.",
+   "text": "Activate\n\n[Inheritance][W][G]: Target J/resonator you control gains [+600/+600] until end of turn.",
    "flavor_text": "Gathering the will of its allies, this creature transmuted them into a tremendous power.",
    "all_sets": "Legacy Lost"
   },
@@ -1196,7 +1196,7 @@
    "race": "Dragon",
    "artist": "乃希",
    "expansion": "Legacy Lost",
-   "text": "Continuous\nYou may pay [W][G] less to play this card if you cancelled a spell your opponent controlled this turn.",
+   "text": "Continuous\n\nYou may pay [W][G] less to play this card if you cancelled a spell your opponent controlled this turn.",
    "flavor_text": "\"I can summon dragons too, you know!\" -Kaguya, Lunar Researcher",
    "all_sets": "Legacy Lost"
   },
@@ -1219,7 +1219,7 @@
    "race": "Fairy",
    "artist": "乃希",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card named \"Fairy of Recurrence\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your deck for a card named \"Fairy of Recurrence\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Fate is a cycle. The wheels ever turning.",
    "all_sets": "Legacy Lost"
   },
@@ -1260,7 +1260,7 @@
    "type": "Addition",
    "artist": "狛蜜ザキ",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Bestow] [rest]",
+   "text": "Activate\n\n[Bestow] [rest]",
    "flavor_text": "It's seen fated events and entrusts its new bearer with the future.",
    "all_sets": "Legacy Lost"
   },
@@ -1283,7 +1283,7 @@
    "race": "Fantasy",
    "artist": "坂井結城",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ Draw a card. Your opponent discards a card.",
+   "text": "Automatic\n\nWhenever this card deals damage to your opponent ⇒ Draw a card. Your opponent discards a card.",
    "flavor_text": "The ghost extended its arms, healing the insatiable hunger.",
    "all_sets": "Legacy Lost"
   },
@@ -1297,7 +1297,7 @@
    "race": "Human",
    "artist": "mie",
    "expansion": "Legacy Lost",
-   "text": "Activate\nDiscard a card with [Inheritance]: Draw a card. Play this ability only during your turn and only once per turn.",
+   "text": "Activate\n\nDiscard a card with [Inheritance]: Draw a card. Play this ability only during your turn and only once per turn.",
    "flavor_text": "Lars' sacred spirit had been inherited by two. First by Charlotte, and second by his other sister.",
    "all_sets": "Legacy Lost"
   },
@@ -1312,7 +1312,7 @@
    "race": "Human/Divine Beast",
    "artist": "猫囃子(Nekobayashi)",
    "expansion": "Legacy Lost",
-   "text": "Activate\nGod's Art [0]: This card gains [Barrier] until end of turn. Play God's Art only once per game.",
+   "text": "Activate\n\nGod's Art [0]: This card gains [Barrier] until end of turn. Play God's Art only once per game.",
    "flavor_text": "\"I'll be borrowing your power for a while, Pricia.\"",
    "all_sets": "Legacy Lost"
   },
@@ -1338,7 +1338,7 @@
    "race": "Chimera",
    "artist": "ねじしき",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put the top two cards of your magic stone deck into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put the top two cards of your magic stone deck into your field.",
    "flavor_text": "The power of the Kyuubi can merge two into one.",
    "all_sets": "Legacy Lost"
   },
@@ -1364,7 +1364,7 @@
    "race": "Six Sages",
    "artist": "fzwrAym",
    "expansion": "Legacy Lost",
-   "text": "Continuous\nThis card gains [Swiftness] and [Precision] as long as you control five or more magic stones with different names.",
+   "text": "Continuous\n\nThis card gains [Swiftness] and [Precision] as long as you control five or more magic stones with different names.",
    "flavor_text": "After extensive research, Grusbalesta finally realized the truth of the magic stones.",
    "all_sets": "Legacy Lost"
   },
@@ -1410,7 +1410,7 @@
    "race": "Dragon",
    "artist": "ケルビン",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ You gain 1000 life.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You gain 1000 life.",
    "flavor_text": "Its wings scatter light across the sky.",
    "all_sets": "Legacy Lost"
   },
@@ -1436,7 +1436,7 @@
    "race": "Wizard",
    "artist": "今野隼史",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.",
    "flavor_text": "\"These illusions are interesting. I suppose I'll make use of them for a time.\" -Invading Demon of Water, Valentina",
    "all_sets": "Legacy Lost"
   },
@@ -1459,7 +1459,7 @@
    "race": "Fantasy",
    "artist": "Moopic",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.",
    "flavor_text": "Illusions die twice.",
    "all_sets": "Legacy Lost"
   },
@@ -1473,7 +1473,7 @@
    "race": "Wanderer",
    "artist": "fzwrAym",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhenever you play a darkness chant ⇒ Target resonator gains [0/-X00] until end of turn, where X is that chant's total cost.",
+   "text": "Automatic\n\nWhenever you play a darkness chant ⇒ Target resonator gains [0/-X00] until end of turn, where X is that chant's total cost.",
    "flavor_text": "\"All can be used and must belong to me. That is my conviction.\"",
    "all_sets": "Legacy Lost"
   },
@@ -1488,7 +1488,7 @@
    "race": "Conqueror",
    "artist": "fzwrAym",
    "expansion": "Legacy Lost",
-   "text": "Activate\nBanish two resonators: Choose one - Draw a card; or destroy target resonator.",
+   "text": "Activate\n\nBanish two resonators: Choose one - Draw a card; or destroy target resonator.",
    "flavor_text": "\"Once again, an entire world shall bow to me.\"",
    "all_sets": "Legacy Lost"
   },
@@ -1542,7 +1542,7 @@
    "race": "Wanderer/Human",
    "artist": "桂福蔵",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhenever a card is bestowed to this card ⇒ Recover this card.",
+   "text": "Automatic\n\nWhenever a card is bestowed to this card ⇒ Recover this card.",
    "flavor_text": "Kaguya restored Grusbalesta from a magic stone. The two set to work to rebuilding the Earth's moon.",
    "all_sets": "Legacy Lost"
   },
@@ -1579,7 +1579,7 @@
    "race": "Human",
    "artist": "草薙蝶炎",
    "expansion": "Legacy Lost",
-   "text": "Judgement\n[0]",
+   "text": "Judgement\n\n[0]",
    "flavor_text": "\"Grusbalesta? What's it been? A thousand years?\"",
    "all_sets": "Legacy Lost"
   },
@@ -1593,7 +1593,7 @@
    "race": "Myth",
    "artist": "草薙蝶炎",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: Shuffle target card named \"Killing Stone\" from your graveyard into your magic stone deck.",
+   "text": "Activate\n\n[rest]: Shuffle target card named \"Killing Stone\" from your graveyard into your magic stone deck.",
    "flavor_text": "With words unfathomable, the Nine-Tailed Fox began the ceremony.",
    "all_sets": "Legacy Lost"
   },
@@ -1619,7 +1619,7 @@
    "race": "Wizard",
    "artist": "碧風羽",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put target wind or darkness resonator with total cost 1 from your graveyard into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put target wind or darkness resonator with total cost 1 from your graveyard into your field.",
    "flavor_text": "Insuring that ingredients are plentiful is the assistant's job.",
    "all_sets": "Legacy Lost"
   },
@@ -1633,7 +1633,7 @@
    "race": "Human",
    "artist": "下江クリス",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nAt the end of your turn ⇒ Remove target rested resonator you control from the game. Then put it into its owner's field.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Remove target rested resonator you control from the game. Then put it into its owner's field.",
    "flavor_text": "Fate is a cycle. When the world fell into crisis again, the girl stood defiant once more.",
    "all_sets": "Legacy Lost"
   },
@@ -1648,7 +1648,7 @@
    "race": "Human",
    "artist": "下江クリス",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhenever this card attacks ⇒ Remove target resonator from the game. Then put it into its owner's field rested.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Remove target resonator from the game. Then put it into its owner's field rested.",
    "flavor_text": "\"I never thought I'd borrow your power, but I'm counting on you, crimson girl!\"",
    "all_sets": "Legacy Lost"
   },
@@ -1737,7 +1737,7 @@
    "race": "Beast",
    "artist": "ハタリス",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your magic stone deck for a special magic stone and reveal it. Then shuffle the rest of your magic stone deck and put that card on top of it.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your magic stone deck for a special magic stone and reveal it. Then shuffle the rest of your magic stone deck and put that card on top of it.",
    "flavor_text": "\"You made it back? Good boy.\" -Lilias Petal, Agent of Salvation",
    "all_sets": "Legacy Lost"
   },
@@ -1763,7 +1763,7 @@
    "race": "Six Sages",
    "artist": "石商",
    "expansion": "Legacy Lost",
-   "text": "Activate\nBanish an Fantasy resonator: This card gains [Barrier](Chant) until end of turn.",
+   "text": "Activate\n\nBanish an Fantasy resonator: This card gains [Barrier](Chant) until end of turn.",
    "flavor_text": "\"That's Moojdart? Seems she's gotten a bit strange.\" -Grusbalesta, Magic Stone Researcher",
    "all_sets": "Legacy Lost"
   },
@@ -1787,7 +1787,7 @@
    "type": "Addition",
    "artist": "実田くら",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[U][B], remove a resonator in your graveyard from the game: Put a [400/400] water/darkness Fantasy resonator token into your field.",
+   "text": "Activate\n\n[U][B], remove a resonator in your graveyard from the game: Put a [400/400] water/darkness Fantasy resonator token into your field.",
    "flavor_text": "An illusionary town made for illusions.",
    "all_sets": "Legacy Lost"
   },
@@ -1813,7 +1813,7 @@
    "race": "Fantasy",
    "artist": "gozz",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Return target resonator to its owner's hand. Its controller discards a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Return target resonator to its owner's hand. Its controller discards a card.",
    "flavor_text": "A nightmare that threatens to invade reality.",
    "all_sets": "Legacy Lost"
   },
@@ -1836,7 +1836,7 @@
    "race": "Human/Cthulhu",
    "artist": "夕子",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nAt end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
+   "text": "Automatic\n\nAt end of turn ⇒ If there are no limit counters on this card, return it to its owner's hand.",
    "flavor_text": "\"Let me show you my true power. Hehehe, it's no lie.\"",
    "all_sets": "Legacy Lost"
   },
@@ -1885,7 +1885,7 @@
    "race": "Human",
    "artist": "ユウキリリー",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ If it was played from your hand, remove another target resonator you control from the game. Then put it into its owner's field rested.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ If it was played from your hand, remove another target resonator you control from the game. Then put it into its owner's field rested.",
    "flavor_text": "The blessing turned to a light that shielded from danger.",
    "all_sets": "Legacy Lost"
   },
@@ -1908,7 +1908,7 @@
    "race": "Magic Lifeform",
    "artist": "スギカワタクミ",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[U]: This card gains [Flying] until end of turn.",
+   "text": "Activate\n\n[U]: This card gains [Flying] until end of turn.",
    "flavor_text": "\"Hahaha! Puny eukaryotic beings!\"",
    "all_sets": "Legacy Lost"
   },
@@ -1952,7 +1952,7 @@
    "race": "Seven Luminaries Demon",
    "artist": "あき",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen you play a chant ⇒ You may return this card to its owner's hand.",
+   "text": "Automatic\n\nWhen you play a chant ⇒ You may return this card to its owner's hand.",
    "flavor_text": "The creature transformed, combining with Sol's magic.",
    "all_sets": "Legacy Lost"
   },
@@ -1978,7 +1978,7 @@
    "race": "Divine Beast",
    "artist": "長崎祐子",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][W][G][3]: Target J/resonator you control gains [+1000/+1000] until end of turn. (Pay [W][G][3] and discard this card to play this ability.)",
+   "text": "Activate\n\n[Inheritance][W][G][3]: Target J/resonator you control gains [+1000/+1000] until end of turn. (Pay [W][G][3] and discard this card to play this ability.)",
    "flavor_text": "Komainu will protect the world. Anytime, anywhere.",
    "all_sets": "Legacy Lost"
   },
@@ -2004,7 +2004,7 @@
    "race": "Divine Beast",
    "artist": "猫えモン",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][W][G][1]: Target J/resonator gains [+600/+600] until end of turn. Draw a card. (Pay [W][G][1] and discard this card to play this ability.)",
+   "text": "Activate\n\n[Inheritance][W][G][1]: Target J/resonator gains [+600/+600] until end of turn. Draw a card. (Pay [W][G][1] and discard this card to play this ability.)",
    "flavor_text": "Carrying hope, wherever it goes.",
    "all_sets": "Legacy Lost"
   },
@@ -2018,7 +2018,7 @@
    "race": "Seven Luminaries Mage",
    "artist": "あき",
    "expansion": "Legacy Lost",
-   "text": "Activate\nRemove a mana counter from this card: Produce [R] or [U]. Spend this will only to play Ancient Magic cards.",
+   "text": "Activate\n\nRemove a mana counter from this card: Produce [R] or [U]. Spend this will only to play Ancient Magic cards.",
    "flavor_text": "\"It truly is embarrassing as a teacher to see my students thoroughly defeated.\"",
    "all_sets": "Legacy Lost"
   },
@@ -2033,7 +2033,7 @@
    "race": "Dark Commander",
    "artist": "あき",
    "expansion": "Legacy Lost",
-   "text": "Activate\nRemove a mana counter from this card: Produce [R] or [U]. Spend this will only to play Ancient Magic cards.",
+   "text": "Activate\n\nRemove a mana counter from this card: Produce [R] or [U]. Spend this will only to play Ancient Magic cards.",
    "flavor_text": "\"I won't be as easily dispatched as my students.\"",
    "all_sets": "Legacy Lost"
   },
@@ -2104,7 +2104,7 @@
    "race": "Chimera",
    "artist": "七海ルシア",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nWhen this card enters your field ⇒ Choose one -\nLook at your opponent's hand and choose a card. They discard that card;\nor destroy target addition or regalia your opponent controls.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Choose one -\n\nLook at your opponent's hand and choose a card. They discard that card;\n\nor destroy target addition or regalia your opponent controls.",
    "flavor_text": "Lilias Petal's finest achievement in chimera creation.",
    "all_sets": "Legacy Lost"
   },
@@ -2153,7 +2153,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "Legacy Lost",
-   "text": "Continuous\nYou may spend will to pay this card's [Awakening] costs as though this card were an Ancient Magic.",
+   "text": "Continuous\n\nYou may spend will to pay this card's [Awakening] costs as though this card were an Ancient Magic.",
    "flavor_text": "Whether you're freezing or burning, you're suffering.",
    "all_sets": "Legacy Lost"
   },
@@ -2197,7 +2197,7 @@
    "type": "Addition",
    "artist": "駒井春樹",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: Recover target magic stone.",
+   "text": "Activate\n\n[rest]: Recover target magic stone.",
    "flavor_text": "A wellspring for naturally occurring will.",
    "all_sets": "Legacy Lost"
   },
@@ -2220,7 +2220,7 @@
    "race": "Divine Beast",
    "artist": "松本エイト",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[Inheritance][W][G]: Target J/resonator gains [+500/+500] and [Precision] until end of turn. (Pay [W][G] and discard this card to play this ability.)",
+   "text": "Activate\n\n[Inheritance][W][G]: Target J/resonator gains [+500/+500] and [Precision] until end of turn. (Pay [W][G] and discard this card to play this ability.)",
    "flavor_text": "Even personality is transmitted, it seems.",
    "all_sets": "Legacy Lost"
   },
@@ -2233,7 +2233,7 @@
    "type": "Special Magic Stone",
    "artist": "Cola",
    "expansion": "Legacy Lost",
-   "text": "Activate\nWhen you do judgment of a light ruler ⇒ Recover this card.",
+   "text": "Activate\n\nWhen you do judgment of a light ruler ⇒ Recover this card.",
    "flavor_text": "A former regalia recovered from Lapis. Now purified as a magic stone by Lumia.",
    "all_sets": "Legacy Lost"
   },
@@ -2246,7 +2246,7 @@
    "type": "Special Magic Stone",
    "artist": "草薙蝶炎",
    "expansion": "Legacy Lost",
-   "text": "Activate\nWhen this card is put into a graveyard from your field ⇒ Your opponent loses 100 life and you gain 100 life.",
+   "text": "Activate\n\nWhen this card is put into a graveyard from your field ⇒ Your opponent loses 100 life and you gain 100 life.",
    "flavor_text": "An embodiment of the nine-tailed fox's curse.",
    "all_sets": "Legacy Lost"
   },
@@ -2259,7 +2259,7 @@
    "type": "Special Magic Stone",
    "artist": "Mがんぢー",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[1], [rest]: Put a mana counter on your J/ruler.",
+   "text": "Activate\n\n[1], [rest]: Put a mana counter on your J/ruler.",
    "flavor_text": "Crystallized magic steam.",
    "all_sets": "Legacy Lost"
   },
@@ -2272,7 +2272,7 @@
    "type": "Special Magic Stone",
    "artist": "たかむらはるき",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: As long as your J-ruler is \"Faria, Ruler of Divine Beasts\", it gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[rest]: As long as your J-ruler is \"Faria, Ruler of Divine Beasts\", it gains [+200/+200] until end of turn.",
    "flavor_text": "A stone holding what's left of Pricia's spirit and memories.",
    "all_sets": "Legacy Lost"
   },
@@ -2285,7 +2285,7 @@
    "type": "Special Magic Stone",
    "artist": "佐川明日香",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: Target resonator token gains [+100/+100] until end of turn.",
+   "text": "Activate\n\n[rest]: Target resonator token gains [+100/+100] until end of turn.",
    "flavor_text": "From Attoractia, spilled forth remorseful looking illusions.",
    "all_sets": "Legacy Lost"
   },
@@ -2298,7 +2298,7 @@
    "type": "Basic Magic Stone",
    "artist": "白野椋",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Legacy Lost"
   },
   {
@@ -2310,7 +2310,7 @@
    "type": "Basic Magic Stone",
    "artist": "たかむらはるき",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Legacy Lost"
   },
   {
@@ -2322,7 +2322,7 @@
    "type": "Basic Magic Stone",
    "artist": "BANAMONS*",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Legacy Lost"
   },
   {
@@ -2334,7 +2334,7 @@
    "type": "Basic Magic Stone",
    "artist": "gozz",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Legacy Lost"
   },
   {
@@ -2346,7 +2346,7 @@
    "type": "Basic Magic Stone",
    "artist": "kawaryu",
    "expansion": "Legacy Lost",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Legacy Lost"
   },
   {
@@ -2412,7 +2412,7 @@
    "race": "Bomb",
    "artist": "にゃんまる",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nAt the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.",
+   "text": "Automatic\n\nAt the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.",
    "all_sets": "Legacy Lost"
   },
   {
@@ -2426,7 +2426,7 @@
    "race": "Bomb",
    "artist": "ジュンポコ",
    "expansion": "Legacy Lost",
-   "text": "Automatic\nAt the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.",
+   "text": "Automatic\n\nAt the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls.",
    "all_sets": "Legacy Lost"
   }
  ]

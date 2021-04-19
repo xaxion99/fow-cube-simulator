@@ -19,7 +19,7 @@
    "race": "Holy Beast",
    "artist": "瞬く",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may destroy target addition.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may destroy target addition.",
    "flavor_text": "The kingdom offers its blessing to anyone and wolves aren’t an exception. These sacred beasts are allied with us in the protection of the kingdom.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -37,7 +37,7 @@
    "type": "Regalia",
    "artist": "猫囃子",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "text": "Activate\n\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
    "flavor_text": "The sword destined to the chosen one.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -51,7 +51,7 @@
    "race": "Seven Kings",
    "artist": "猫囃子",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\n[W][W]: You gain 200 life.",
+   "text": "Activate\n\n[W][W]: You gain 200 life.",
    "flavor_text": "The Sacred Queen Faria, the one who ruled upon Gloria, The Holy Land, was a honest and pure person. Her servants' loyalty to her was supreme. She hated the war, but the people of Gloria thought that she was the most suitable to rule the Seven Kingdoms.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -66,7 +66,7 @@
    "race": "Seven Kings",
    "artist": "猫囃子",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\nGod's Art [W][W][4]: Recover all resonators you control. Play God's Art only once per game.",
+   "text": "Activate\n\nGod's Art [W][W][4]: Recover all resonators you control. Play God's Art only once per game.",
    "flavor_text": "“Sacred Sword that resonates with the spirit of the hero, grant me your power!”",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -89,7 +89,7 @@
    "race": "Knight of the Round Table",
    "artist": "touge３６９",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.",
    "flavor_text": "\"Galahad was recognized as the greatest knight of King Arthur.\" —Tales of King Arthur",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -112,7 +112,7 @@
    "race": "Knight of the Round Table",
    "artist": "松本エイト",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
+   "text": "Automatic\n\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
    "flavor_text": "\"I failed to protect my ruler in the past. In this world, I'll protect you at any cost.\"",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -134,7 +134,7 @@
    "race": "Castle",
    "artist": "Fushikaden K.K.",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
+   "text": "Automatic\n\nWhenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.",
    "flavor_text": "Gloria lived a period of high prosperity under the guidance of the Sacred Queen.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -157,7 +157,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Continuous\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
+   "text": "Continuous\n\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
    "flavor_text": "It’s the incarnation of the ideals.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -180,7 +180,7 @@
    "race": "Soldier",
    "artist": "すばる",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Search your deck for a card named \"Herald of Sacred Queen\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Search your deck for a card named \"Herald of Sacred Queen\", reveal it and put it into your hand. Then shuffle your deck.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
   {
@@ -239,7 +239,7 @@
    "race": "Knight of the Round Table",
    "artist": "城戸春一",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\nBanish this card: Prevent all damage that would be dealt to target J-ruler or Knight of the Round Table until end of turn.",
+   "text": "Activate\n\nBanish this card: Prevent all damage that would be dealt to target J-ruler or Knight of the Round Table until end of turn.",
    "flavor_text": "To her, this is the beginning of a new search for the Grail.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -276,7 +276,7 @@
    "race": "Bishop",
    "artist": "おつまみ",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ You gain 400 life.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You gain 400 life.",
    "flavor_text": "\"Not only the body, but even the spirit is healed.\"",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -299,7 +299,7 @@
    "race": "Knight of the Round Table",
    "artist": "ハタリス",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhenever this card attacks ⇒ Resonators you control gain [+100/0] until end of turn.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ Resonators you control gain [+100/0] until end of turn.",
    "flavor_text": "The sad man can be both strong and kind.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -322,7 +322,7 @@
    "race": "Knight",
    "artist": "見田航介",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\n[Rest]: Target resonator with total cost 2 or less gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[Rest]: Target resonator with total cost 2 or less gains [+200/+200] until end of turn.",
    "flavor_text": "The kingdom of Gloria, like all the seven kingdoms, used to practice conscription, as many countries aspired to expand their territories.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -363,7 +363,7 @@
    "race": "Mountain",
    "artist": "Cola",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
+   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.",
    "flavor_text": "The volcano is the future. Only the chosen ones will survive.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -425,7 +425,7 @@
    "race": "Dragon",
    "artist": "kakotomirai",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Continuous\nYou may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.",
    "flavor_text": "Reality will break the symbol.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -471,7 +471,7 @@
    "race": "Dragon",
    "artist": "七海ルシア",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\n[R]: This card gains [+200/0] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [+200/0] until end of turn.",
    "flavor_text": "The fact that dragons breathe fire is useful in battle, but makes it difficult to tame them.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -511,7 +511,7 @@
    "race": "Queen",
    "artist": "fzwrAym",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\n[R], [rest]: Target resonator you control gains [+400/+400] until end of turn. When it deals or is dealt damage this turn, banish it.",
+   "text": "Activate\n\n[R], [rest]: Target resonator you control gains [+400/+400] until end of turn. When it deals or is dealt damage this turn, banish it.",
    "flavor_text": "\"Oh, seems I made another mistake...please bring me the next one.\"",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -534,7 +534,7 @@
    "race": "Knight of the Round Table",
    "artist": "ハタリス",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhen this card enters your field ⇒ Target resonator gains [+400/0] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Target resonator gains [+400/0] until end of turn.",
    "flavor_text": "\"This world? I don't care. I'll follow Lancelot anywhere, come what may.\"",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -552,7 +552,7 @@
    "type": "Regalia",
    "artist": "douzen",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
+   "text": "Activate\n\nBanish this card: Your J-ruler gains [Imperishable] until end of turn.",
    "flavor_text": "The sword destined to those who crave power.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -575,7 +575,7 @@
    "race": "Knight of the Round Table",
    "artist": "石商",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\n[R]: This card gains [+100/0] until end of turn.",
+   "text": "Activate\n\n[R]: This card gains [+100/0] until end of turn.",
    "flavor_text": "The nature of a summoned hero depends on the nature of the summoner. The power of the demon sword changed him into a cruel knight.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -589,7 +589,7 @@
    "race": "Seven Kings",
    "artist": "douzen",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\n[R][R]: This card deals 200 damage to target opponent.",
+   "text": "Activate\n\n[R][R]: This card deals 200 damage to target opponent.",
    "flavor_text": "The top of the big volcano is occupied by the Kingdom of Certo, ruled by the Flame King. On this desolate land, the kingdom survives thanks to war, getting resources from other countries. For this reason, Certo needs an extremely strong ruler.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -604,7 +604,7 @@
    "race": "Seven Kings",
    "artist": "douzen",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\nGod's Art [R][R][4]: Destroy target resonator. This card gains [+X/0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art only once per game.",
+   "text": "Activate\n\nGod's Art [R][R][4]: Destroy target resonator. This card gains [+X/0] until end of turn, where X is the ATK of the destroyed resonator. Play God's Art only once per game.",
    "flavor_text": "\"Cursed sword, take my anger and give me your strength.\"",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -630,7 +630,7 @@
    "race": "Knight of the Round Table",
    "artist": "Mad",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhenever this card attacks ⇒ You may banish another resonator. If you do, this card deals 1000 damage to target resonator.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ You may banish another resonator. If you do, this card deals 1000 damage to target resonator.",
    "flavor_text": "Rebellious to any authority.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -650,7 +650,7 @@
    "race": "Egg",
    "artist": "白野椋",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a fire resonator, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Search your deck for a fire resonator, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Soldiers of Certo often go pick up eggs to get food, but some of them become food themselves for what is born from these eggs.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -698,7 +698,7 @@
    "race": "Dragon",
    "artist": "佐久間さのすけ",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.",
    "flavor_text": "Despite their little bodies, baby dragons are extremely combative.",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
@@ -711,7 +711,7 @@
    "type": "Basic Magic Stone",
    "artist": "kawaryu",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   },
   {
@@ -723,7 +723,7 @@
    "type": "Basic Magic Stone",
    "artist": "佐々木光之介",
    "expansion": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\"",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Starter Deck \"Faria, the Sacred Queen and Melgis, the Flame King\""
   }
  ]

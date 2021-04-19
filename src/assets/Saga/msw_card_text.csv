@@ -1,0 +1,568 @@
+"card_details_name","card_details_card_text"
+"A Duet of Light","Card Text
+Choose one, you may choose an additional one for each recovered J/ruler you control;
+- You gain 2000 life.
+- Put target non-magic stone, non-chant card or alternative card with total cost 3 or less from your graveyard into the field. You may only put a non-chant part of that alternative card into the field.
+- Put four [+100/+100] counters on each J/resonator you control."
+"Almerius","Card Text
+[Judgment] [W][W][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Continuous
+If you would set your starting life, set it to that much plus 3000 instead.
+Continuous
+You may pay [1] less to do judgment of rulers you control.
+Activate
+[Rest]: Target J/resonator gains [+200/+200] until end of turn."
+"Almerius","Card Text
+[Judgment] [W][W][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Continuous
+If you would set your starting life, set it to that much plus 3000 instead.
+Continuous
+You may pay [1] less to do judgment of rulers you control.
+Activate
+[Rest]: Target J/resonator gains [+200/+200] until end of turn."
+"Chiffon, Spirit of Guidance","Card Text
+[Flying]
+[Awakening] Rest a recovered light J/ruler you control: [Enter] >>> Destroy target non-magic stone entity your opponent controls."
+"Gathering of the Six Sages","Card Text
+[Quickcast]
+Continuous
+Recover a ruler you control. Draw a card."
+"Guardian Wizard","Card Text
+Continuous
+Prevent all non-battle damage that would be dealt to J/resonators you control.
+Automatic
+Whenever your opponent plays an awakened spell >>> J/resonators you control gain [Barrier] until end of turn."
+"Gullwing, Dragon Spirit","Card Text
+[Flying]
+Continuous
+As you play this card, you may rest any number of recovered J/rulers you control and/or any number of recovered Spirit resonators you control. You pay [W] less to play this card for each J/ruler rested this way and [1] less for each Spirit resonator rested this way.
+Automatic
+[Enter] >>> Recover all Spirits you control."
+"Messenger from the Spirit Village","Card Text
+[Flying]
+Automatic
+[Enter] >>> You may search your deck for an addition, reveal it and put it into your hand. Then shuffle your deck."
+"Princess Kaguya // Flying Bamboo","Card Text
+Continuous
+If you would produce will with a magic stone you control, you produce that will plus [M] instead.
+Continuous
+Calling a magic stone does not cause your J/rulers to rest.
+Activate
+[M]: This card gains [+200/+200] and [Flying] until end of turn.
+[Quickcast]
+Choose a ruler with [Tag] (Six Sages) you control and a ruler with [Tag] (Six Sages) you own from outside the game. Swap those rulers. If you spent [M] to play this card, put its ""Princess Kaguya"" part into the field instead of putting this card into its owner's graveyard."
+"Rapunzel, the Long-Haired Princess","Card Text
+Continuous
+This card doesn't recover during the recovery phase.
+Activate
+Rest a recovered resonator you control other than ""Rapunzel, the Long-Haired Princess"".: Recover this card.
+Activate
+[rest]: Target resonator gains [+200/+0] and [Flying] until end of turn."
+"Rush of Spirits","Card Text
+[Quickcast]
+As an additional cost to play this card, reveal a Spirit from your hand.
+Destroy target resonator if its total cost is less than the total cost of the revealed card."
+"Spirit of Hope","Card Text
+[Pierce]
+Automatic
+Whenever a J/ruler you control is recovered >>> This card gains [+300/0] until end of turn."
+"Spirit Ring","Card Text
+Automatic
+[Enter] >>> You may destroy target non-magic stone, non-J/resonator entity.
+Activate
+Rest a recovered J/ruler you control: Produce one will of any attribute. Spend this will only to play Spirit cards."
+"Spirit Village","Card Text
+Continuous
+Spirits you control gain [+200/+200].
+Continuous
+Spirits you own in all zones gain [Quickcast].
+Activate
+Rest a recovered light J/ruler you control: Look at the top two cards of your deck. You may reveal a Spirit from among them and put it into your hand. Then put the rest on the bottom of your deck in any order."
+"The Awakening of Almerius","Card Text
+[Quickcast]
+Destroy target non-Spirit resonator. If this card was awakened, destroy all non-Spirit resonators instead.
+[Awakening] [W][1], rest a recovered card named ""Almerius"" you control."
+"The Awakening of Zero","Card Text
+[Quickcast]
+J/resonators you control gain [Eternal] until end of turn. If this card was awakened, put ten [+100/+100] counters on a card named ""Zero, Apprentice Sage"" you control.
+[Awakening] Rest a recovered card named ""Zero, Apprentice Sage"" you control."
+"The Beginning of a Fairy Tale","Card Text
+[Quickcast]
+Put two [200/200] light Spirit, Fairy Tale resonator tokens into the field. If this card was awakened, draw a card.
+[Awakening] Rest a recovered J/ruler you control."
+"Tinker Bell, the Spirit // Rain of Light","Card Text
+Continuous
+This card gains [+200/+200] for each Fairy Tale you control.
+[Quickcast]
+Target up to X resonators. Rest those your opponent controls and recover those you control."
+"Zero, Apprentice Sage","Card Text
+[Judgment] [W]
+Continuous
+You cannot do judgment of this card unless your other ruler is astral.
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Automatic
+At the beginning of the game >>> Put four [+100/+100] counters on each ruler you control.
+Continuous
+Your J-ruler gains [Barrier].
+Activate
+[Rest]: Put two [+100/+100] counters on this card."
+"Zero, Apprentice Sage","Card Text
+[Judgment] [W]
+Continuous
+You cannot do judgment of this card unless your other ruler is astral.
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Automatic
+At the beginning of the game >>> Put four [+100/+100] counters on each ruler you control.
+Continuous
+Your J-ruler gains [Barrier].
+Activate
+[Rest]: Put two [+100/+100] counters on this card."
+"A Duet of Fire","Card Text
+Choose one, you may choose an additional one for each recovered J/ruler you control;
+- This card deals 800 damage to target player or J/resonator.
+- Discard your hand, then draw three cards.
+- J/resonators you control gain [+400/0] and [Pierce] until end of turn."
+"Cane of the Salamander","Card Text
+Automatic
+[Enter] >>> This card deals 500 damage to target player or J/resonator.
+Activate
+Rest a recovered J/ruler you control: Target resonator gains [Swiftness] and [Pierce] until end of turn."
+"Desperate Aid","Card Text
+[Quickcast]
+Continuous
+Until end of turn, the next damage that would be dealt to a target J/resonator you control is dealt to you instead. Recover a ruler you control."
+"Elfina, Spirit of Trials","Card Text
+[Quickcast]
+Automatic
+When this card is put into a graveyard from the field >>> It deals damage equal to its ATK to each J/resonator your opponent controls.
+Activate
+Remove this card in your graveyard from the game: Put four [+100/+100] counters on a fire J-ruler you control."
+"Fairy Tale Resistance Force","Card Text
+[Quickcast]
+Target Fairy Tale resonator gains [+400/+400] until end of turn. If this card was awakened, it gains [+1000/+1000] until end of turn instead.
+[Awakening] Rest a recovered J/ruler you control."
+"Fountain of Trials","Card Text
+Continuous
+Spirits you control gain [Swiftness].
+Activate
+[Rest]: Recover a fire ruler you control."
+"Infinite Matchsticks","Card Text
+You may have any number of copies of this card in your deck.
+[Quickcast]
+This card deals 200 damage plus an additional 200 damage for each card named ""Infinite Matchsticks"" in your graveyard to target player or J/resonator."
+"Milest","Card Text
+[Judgment] [R][R][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Automatic
+At the beginning of the main phase of your first turn >>> Produce [R].
+Continuous
+Your J-ruler gains [Swiftness].
+Activate
+[Rest]: This card deals 200 damage to target player or J/resonator."
+"Milest","Card Text
+[Judgment] [R][R][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Automatic
+At the beginning of the main phase of your first turn >>> Produce [R].
+Continuous
+Your J-ruler gains [Swiftness].
+Activate
+[Rest]: This card deals 200 damage to target player or J/resonator."
+"Salamander, the Spirit of Fire // Ghostflame","Card Text
+Activate
+Banish this card: This card deals damage equal to its ATK to target J/resonator.
+This card deals 300 damage to target player or resonator.
+Activate
+[R][R][1]: Put this card from your graveyard into your hand."
+"Shaman of the Spirit Village","Card Text
+Automatic
+Whenever a J/ruler you control is recovered >>> This card deals 400 damage to target player or J/resonator."
+"Snow White of the Red Apple // Apple Avenger","Card Text
+[Quickcast] [First Strike]
+Continuous
+This card enters the field with X [+100/+100] counters on it, where X is the total damage dealt by sources you controlled this turn divided by 100.
+[Quickcast]
+This card deals X damage divided as you choose to any number of target J/resonators your opponent controls, where X is the total damage that was dealt to you this turn. If X is 1000 or more, put this card's ""Snow White of the Red Apple"" part into the field instead of putting this card into its owner's graveyard."
+"Snow White's Fire Dwarves","Card Text
+Automatic
+Whenever this card is dealt damage >>> It deals that much damage to you."
+"Spirit of the Fiery Stone","Card Text
+Continuous
+This card gains [Swiftness], [Precision] and [First Strike] as long as you don't control a rested J/ruler."
+"The Awakening of Milest","Card Text
+This card deals 400 damage multiplied by X to target player or J/resonator. If this card was awakened, it deals 400 damage multiplied by X to your opponent and each J/resonator your opponent controls instead.
+[Awakening] Rest a recovered card named ""Milest"" you control."
+"The Little Explosive Match Girl","Card Text
+Activate
+Rest a recovered J/ruler you control: You may search your deck for a card named ""Infinite Matchsticks"", reveal it and put it into your hand. If you do, put two [+100/+100] counters on this card. Then shuffle your deck."
+"A Duet of Water","Card Text
+[Quickcast]
+Choose one, you may choose an additional one for each recovered J/ruler you control;
+- Draw a card.
+- Return up to two target resonators to their owners' hands.
+- Prevent all damage that would be dealt to J/resonators you control until end of turn."
+"Cinderella, Freed from the Ashes // Rampaging Pumpkin Carriage","Card Text
+[Quickcast]
+Automatic
+[Enter] >>> Look at the top two cards of your opponent's deck. Then put them on top and/or on the bottom of your opponent's deck in any order.
+[Quickcast]
+Put up to two target non-magic stone, non-J-ruler entities your opponent controls on top of their owner's deck in any order. If this card was awakened, put its ""Cinderella, Freed from the Ashes"" part into the field instead of putting this card into its owner's graveyard.
+[Awakening] [1]"
+"Fairy Tale Rabbit","Card Text
+Continuous
+This card gains [+200/+200] for each card in your hand."
+"Fiola, Spirit of Oblivion","Card Text
+[Quickcast]
+Automatic
+[Enter] >>> Put target non-resonator spell on the bottom of its owner's deck.
+Activate
+Remove this card in your graveyard from the game: Put four [+100/+100] counters on a water J-ruler you control."
+"Fountain of the Oblivion Moon","Card Text
+Automatic
+[Enter] >>> Name a non-J/ruler card. Activate abilities of cards that share the chosen name cannot be played as long as this card is in the field.
+Rest a recovered J/ruler you control: Draw a card."
+"Illusionary Flower of Sorrow","Card Text
+Automatic
+[Enter] >>> Return target resonator your opponent controls to its owner's hand.
+Rest a recovered J/ruler you control: Rest target J/resonator. It doesn't recover during its controller's next recovery phase."
+"Illusionary Mermaid","Card Text
+Continuous
+J/resonators your opponent controls cannot attack unless your opponent pays [1]. (Each attack costs [1].)"
+"Illusionary Snow","Card Text
+[Quickcast]
+Destroy target resonator that was the target of a successfully resolved ability of a J/ruler you controlled this turn."
+"Moojdart","Card Text
+[Judgment] [B][B][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Continuous
+If you would draw a starting hand, you draw a starting hand plus one additional card and your maximum hand size is increased by one until end of game instead.
+Automatic
+Whenever you do judgment of a ruler >>> Draw a card.
+[Rest]: Draw a card. Then put a card from your hand on the bottom of your deck."
+"Moojdart","Card Text
+[Judgment] [B][B][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Continuous
+If you would draw a starting hand, you draw a starting hand plus one additional card and your maximum hand size is increased by one until end of game instead.
+Automatic
+Whenever you do judgment of a ruler >>> Draw a card.
+[Rest]: Draw a card. Then put a card from your hand on the bottom of your deck."
+"Neverend, Fairy Tale Dragon","Card Text
+[Flying]
+Automatic
+[Enter] >>> Draw a card.
+Continuous
+This card gains [+1400/+1400] and ""Fairy Tales you control gain [Eternal]."" as long as there are ten or more Fairy Tales in the field under your control and/or in your graveyard.
+Activate
+Rest a recovered J/ruler you control: Cards you control and cards you own in non-field zones gain Fairy Tale until end of turn."
+"Neverend's Roar","Card Text
+As you play this card, you may reveal any number of Fairy Tales from your hand.
+Rest X target entities your opponent controls, where X is the number of cards revealed to play this card. They don't recover during their controller's next recovery phase."
+"Purplemist, the Fantasy Dragon // Moon Incarnation","Card Text
+[Flying]
+Continuous
+This card cannot be targeted by spells or abilities.
+Search your deck for a Moon addition, reveal it and put it into your hand. Then shuffle your deck.
+[Awakening] [2]: You may put a Moon addition from your hand into the field."
+"Spirit of Knowledge","Card Text
+Automatic
+[Enter] >>> Search your deck for a card with total cost 4 or more, reveal it, and put it into your hand. Then shuffle your deck."
+"The Awakening of Moojdart","Card Text
+Draw two cards. If this card was awakened, draw three cards instead.
+[Awakening] Rest a recovered card named ""Moojdart"" you control."
+"Three-Eyed Fortune Teller","Card Text
+Continuous
+Play with the top card of your deck revealed. As long as the top card of your deck is revealed this way and it's a chant, you may play it by paying its cost."
+"A Blank Page","Card Text
+Automatic
+[Enter] >>> Remove target resonator your opponent controls from the game. If this card was awakened, search your opponent's deck, graveyard, and hand for all cards that share a name with that resonator and remove them from the game. Then your opponent shuffles their deck.
+[Awakening] Rest a recovered J/ruler you control."
+"A Duet of Wind","Card Text
+[Quickcast]
+Choose one, you may choose an additional one for each recovered J/ruler you control;
+- Recover up to two magic stones you control.
+- Cancel target spell.
+- Put target non-magic stone card from your graveyard into your hand."
+"An Ancestor's Portrait","Card Text
+Automatic
+[Enter] >>> Put target magic stone from your graveyard into the field rested.
+Activate
+Rest a recovered J/ruler you control: Look at the top three cards of your deck or your magic stone deck and put them back in any order."
+"Fairy Tale Moon","Card Text
+Continuous
+Fairy Tale resonators you control gain [+200/+200].
+Continuous
+Magic stones you control gain ""[Rest]: Produce [M]."".
+Activate
+Rest a recovered wind J/ruler you control: Look at the top two cards of your deck. You may reveal a Fairy Tale resonator from among them and put it into your hand. Then put the rest on the bottom of your deck in any order."
+"Fiethsing","Card Text
+[Judgment] [G][G][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Continuous
+As the game starts, you may mulligan up to three times instead of once.
+Continuous
+You may do judgment any time you could play a card with [Quickcast].
+Activate
+[Rest]: Produce [1]. Spend this will only to play chants."
+"Fiethsing","Card Text
+[Judgment] [G][G][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Continuous
+As the game starts, you may mulligan up to three times instead of once.
+Continuous
+You may do judgment any time you could play a card with [Quickcast].
+Activate
+[Rest]: Produce [1]. Spend this will only to play chants."
+"Glinda, the Fairy","Card Text
+Automatic
+[Enter] Target resonator cannot be blocked until end of turn.
+Activate
+Banish this card: Cancel target normal spell unless its controller pays [2]."
+"Little Red, Fairy Tale of Air // Wind of Gods","Card Text
+Continuous
+This card gains [+100/+100] for each wind magic stone you control.
+Continuous
+This card gains [Swiftness] as long as you control a basic wind magic stone.
+Put target fire or darkness resonator on top of its owner's deck."
+"Magic Beanstalk","Card Text
+Automatic
+When the third or subsequent growth counter is put on this card >>> Banish it. If you do, search your deck for a resonator and put it into the field. Then shuffle your deck.
+Activate
+Rest a recovered J/ruler you control: Put a growth counter on this card."
+"Magic Stone Bird","Card Text
+[Flying]
+Activate
+[Rest]: Put target magic stone from your graveyard into the field rested."
+"Magic Stone Devotee","Card Text
+Activate
+Banish this card: Target magic stone you control becomes a [1000/1000] resonator until end of turn. It's still a magic stone."
+"Scheherazade, Weaver of Fairy Tales","Card Text
+Automatic
+[Enter] >>> You may search your deck for an addition or resonator with total cost 1 or less and put it into the field. If this card was awakened, you may search for both instead. Then shuffle your deck.
+[Awakening] Rest a recovered J/ruler you control."
+"The Awakening of Fiethsing","Card Text
+Search your deck for a resonator with total cost X or less and put it into the field. If this card was awakened, search for two resonators with total cost X or less instead. Then shuffle your deck.
+[Awakening] Rest a recovered card named ""Fiethsing"" you control."
+"The Hidden History - ""The Magic Stone War""","Card Text
+Automatic
+[Enter] >>> Draw a card.
+Activate
+Rest a recovered J/ruler you control: Put a Fairy Tale resonator with total cost 1 or less from your graveyard into your hand."
+"The Release of the Fairy Tales","Card Text
+Look at the top four cards of your deck. Reveal a card from among them and put it into your hand. If the revealed card is a Fairy Tale with total cost 3 or less, you may put it into the field instead. Then shuffle your deck."
+"Trish, Spirit of Autumn Wind","Card Text
+[Quickcast] [Flying]
+Automatic
+[Enter] >>> Cancel target resonator spell unless its controller pays [1]. If this card was awakened, cancel the chosen target instead.
+[Awakening] Rest a recovered wind J/ruler you control."
+"Welser, Master of the Six Sages // His Last Lecture","Card Text
+[Quickcast]
+Automatic
+[Enter] >>> Return target spell to its owner's hand. If this card was put into the field by the effect of its ""His Last Lecture"" part, remove this card from the game and put two [+100/+100] counters on each J/ruler you control.
+[Quickcast]
+Recover a ruler you control. If it is a Six Sages, put this card's ""Welser, Master of the Six Sages"" part into the field instead of putting this card into its owner's graveyard."
+"Wind Stone Shot","Card Text
+[Quickcast]
+Choose one, if this card was awakened, choose up to two instead;
+- Banish a magic stone. This card deals 1000 damage to target J/resonator.
+- Put target magic stone from your graveyard into the field rested.
+[Awakening] Rest a recovered J/ruler you control."
+"A Duet of Darkness","Card Text
+Choose one, you may choose an additional one for each recovered J/ruler you control;
+- Put target resonator from your graveyard into your hand.
+- Your opponent discards a card.
+- Resonators your opponent controls gain [-200/-200] for each different name among all magic stones you control until end of turn."
+"A World Invaded","Card Text
+Destroy all non-Cthulhu resonators with total cost 3 or less."
+"Abdul Alhazred, Poet of Madness // Dark Pulse","Card Text
+Continuous
+Resonators entering the field under your opponent's control don't cause their own abilities to trigger.
+[Quickcast]
+Destroy all resonators with total cost 2 or less."
+"Assault from the Demonic World","Card Text
+[Quickcast]
+Target J/resonator gains [-600/-600] until end of turn.
+[Revenge] - Destroy the chosen target instead."
+"Awakening of the Magic Stones","Card Text
+[Quickcast]
+Remove any number of magic stones you control and/or in your graveyard from the game. Produce [D] for each magic stone removed this way."
+"Darksphere, Spirit of Dark Night","Card Text
+[Flying] [Bane]
+Automatic
+[Enter] >>> Put target resonator from your graveyard into your hand. If this card was awakened, put the chosen target from your graveyard into the field instead.
+[Awakening] Rest a recovered darkness J/ruler you control."
+"Extraction Wizard","Card Text
+Automatic
+[Enter] >>> Put the top card of your deck into your graveyard. Recover a ruler you control.
+Activate
+Rest a recovered J/ruler you control, remove a magic stone in your graveyard from the game: Produce one will of any attribute."
+"Grusbalesta","Card Text
+[Judgment] [D][D][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Continuous
+If you would call your first magic stone this game, you may search your magic stone deck for a card and put it into the field instead. If you do, shuffle your magic stone deck.
+Automatic
+Whenever a magic stone is put into the field by the call of a J/ruler you control >>> It gains ""[Rest]: Produce [M] or one will of any attribute."" until end of turn.
+Activate
+[Rest]: Banish a magic stone. Put the top card of your magic stone deck into the field rested."
+"Grusbalesta","Card Text
+[Judgment] [D][D][1]
+[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.
+Continuous
+If you would call your first magic stone this game, you may search your magic stone deck for a card and put it into the field instead. If you do, shuffle your magic stone deck.
+Automatic
+Whenever a magic stone is put into the field by the call of a J/ruler you control >>> It gains ""[Rest]: Produce [M] or one will of any attribute."" until end of turn.
+Activate
+[Rest]: Banish a magic stone. Put the top card of your magic stone deck into the field rested."
+"Lilias Petal // Awakening of the Nine-Tailed Fox","Card Text
+[Quickcast]
+Automatic
+[Enter] >>> Destroy target damaged J/resonator.
+Automatic
+When this card is put into the field by the effect of its ""Awakening of the Nine-Tailed Fox"" part >>> Put nine [+100/+100] counters on this card.
+[Quickcast]
+This card deals 900 damage to each J/resonator. If you control three or more magic stones with different names, put this card's ""Lilias Petal"" part into the field instead of putting this card into its owner's graveyard."
+"One-Tailed Fox","Card Text
+[Drain]
+Activate
+Rest a recovered J/ruler you control: This card deals 100 damage to target player or J/resonator."
+"Secluded Fox Village","Card Text
+Automatic
+[Enter] >>> Destroy target resonator with total cost 2 or less.
+Activate
+Rest a recovered J/ruler you control: Target resonator you control gains [Bane] until end of turn."
+"Sparkling Boon of the Magic Stones","Card Text
+Banish any number of magic stones. Draw X cards, then put the top X cards of your magic stone deck into the field rested, where X is the number of magic stones banished this way."
+"Spirit of Regret","Card Text
+Automatic
+Whenever a J/ruler you control is recovered >>> This card gains [+200/+200] until end of turn."
+"Student at the Institute","Card Text
+Continuous
+You may pay [1] less to play this card for each different name among all magic stones you control.
+Automatic
+[Enter] >>> You may banish up to two magic stones. For each magic stone banished this way, your opponent banishes a resonator and you put a card from the top of your magic stone deck into the field rested."
+"The Awakening of Grusbalesta","Card Text
+[Quickcast]
+You may pay [2] less to play this card for each different name among all magic stones you control.
+Magic stones you control become [1000/1000] resonators until end of turn. They are still magic stones. If this card was awakened, they gain [Swiftness], [Eternal] and [Barrier] until end of turn.
+[Awakening] Rest a recovered card named ""Grusbalesta"" you control."
+"The Transformed","Card Text
+Automatic
+[Enter] >>> Your opponent discards a card. Your opponent loses 400 life."
+"Ultra Magic Stone Golem","Card Text
+[Precision] [Pierce]
+Continuous
+You may pay [2] less to play this card for each different name among all magic stones you control.
+Automatic
+[Enter] >>> Destroy all J/resonators your opponent controls with ATK less than the ATK of this card."
+"A Sacrifice of Words and Memories","Card Text
+You may pay [R] less to play this card if you control a card named ""Milest"".
+You may pay [B] less to play this card if you control a card named ""Moojdart"".
+Search your deck for a fire Spirit and/or a water Spirit, reveal them and put the first into your hand and the second into your graveyard. Then shuffle your deck. Recover a ruler you control."
+"Azathoth, Manifestation of Death","Card Text
+[Bane]
+Automatic
+[Enter] >>> Draw two cards, then discard a card. If this card was awakened, look at your opponent's hand and choose a card. They remove it from the game.
+[Awakening] [B][D]"
+"Deeper Ones","Card Text
+Continuous
+You may have any number of copies of this card in your deck.
+[Pierce]
+Continuous
+This card gains [+200/+200] for each Cthulhu in your graveyard.
+Automatic
+[Enter] >>> Search your deck for a card named ""Deeper Ones"", reveal it, and put it into your hand. Then shuffle your deck."
+"Hastur, Messenger of Madness","Card Text
+[Quickcast]
+Automatic
+[Enter] >>> Cancel target spell or ability that targets a Cthulhu you control. If this card was awakened, you may copy the target before canceling it instead. You may choose new targets for the copy.
+[Awakening] [B][R]"
+"Magic Stone Research Institute","Card Text
+Automatic
+[Enter] >>> Banish a magic stone. Put the top card of your magic stone deck into the field.
+Continuous
+J/resonators you control gain [+200/+200] for each different name among all magic stones you control.
+Activate
+Rest a recovered J/ruler you control: Remove all cards in your opponent's graveyard from the game."
+"Minphia, Storytelling Girl","Card Text
+Activate
+Rest a recovered J/ruler you control: Put two [+100/+100] counters on each Spirit and/or Fairy Tale J/resonator you control."
+"Necronomicon, Book of Outer World","Card Text
+Continuous
+You may pay [R][B] less to play this card if your ruler is ""Wolfgang, Exiled Demon Prince"". If you do, put a madness counter on your ruler.
+Continuous
+Non-J/resonator entities your opponent controls lose all [Enter] abilities.
+Continuous
+Cthulhu you control gain [+400/+400]."
+"Nyarlathotep, Bringer of War","Card Text
+[Precision]
+Automatic
+Whenever this card destroys a resonator >>> Put two [+100/+100] counters on it.
+[Awakening][R][D]: [Enter] >>> Destroy up to two target J/resonators your opponent controls. Players cannot chase to this ability."
+"Satan's Phantasmal Body // Flame of Outer World","Card Text
+Automatic
+[Enter] >>> Remove two madness counters from your ruler.
+Continuous
+While you are searching your deck, you may play this card from your deck by paying its cost. You may play either part of this alternative card.
+[Quickcast]
+This card deals 800 damage to target J/resonator. Players cannot chase to this card."
+"Shub-Niggurath, Gatekeeper of Outer World","Card Text
+Continuous
+If a fire chant you control would deal damage, it deals that much plus 400 instead.
+Darkness chants you control gain [Drain].
+Automatic
+[Enter] >>> Search your deck for a Cthulhu, reveal it, and put it into your hand. Then shuffle your deck. If this card was awakened, produce [R][D].
+[Awakening] [R]"
+"Spirits of Fire and Water","Card Text
+Continuous
+This card gains [+400/+400] as long as you control a card named ""Milest"".
+Continuous
+This card gains [Quickcast] in all zones as long as you control a card named ""Moojdart"".
+Continuous
+This card gains ""Prevent the first damage that would be dealt to this card each turn."" as long as you control a card named ""Moojdart""."
+"Symphony of the Two Great Dragons","Card Text
+Return all non-magic stone, non-J-ruler entities to their owners' hand. If this card was awakened, you may put a Spirit and/or a Fairy Tale from your hand into the field.
+[Awakening] Rest a recovered J/ruler you control."
+"The Magic of Trust and Love","Card Text
+[Quickcast]
+You may rest a recovered card named ""Milest"" or ""Moojdart"" you control rather than pay this card's cost.
+Choose one, if you control a card named ""Milest"" and a card named ""Moojdart"", choose both instead;
+- This card deals 700 damage to target player or J/resonator.
+- Draw a card."
+"Umr at-Tawil, Keymaster of Outer World","Card Text
+Activate
+Remove this card in your hand from the game: Produce [R], [B], or [D]. Spend this will only to play Cthulhu cards.
+Continuous
+You may play this card from your removed area.
+[Awakening] [R][B][D]: [Enter] >>> Put target resonator from your opponent's graveyard into the field under your control."
+"Wolfgang, Exiled Demon Prince","Card Text
+Continuous
+You may have only darkness and/or Cthulhu cards in your deck.
+Continuous
+You may put a madness counter on this card rather than pay an [Awakening] cost of a Cthulhu spell you control.
+Automatic
+At end of turn >>> If there are five or more madness counters on this card, you lose the game."
+"Wolfgang's Apocalypse","Card Text
+[Quickcast]
+Your opponent banishes a resonator. Put the top X cards of your deck into your graveyard, where X is the total cost of the resonator banished this way.
+If this card was awakened, you may play up to two Cthulhu from your graveyard without paying their cost until end of turn. If you do, at the next end of turn >>> Their controller banishes them.
+[Awakening] [R][D]"
+"Yog-Sothoth, True Hunger","Card Text
+Continuous
+Cthulhu resonators you control gain [Swiftness].
+Automatic
+[Enter] >>> This card gains [+1000/0] until end of turn. If this card was awakened, resonators you control gain [+1000/0] and [Pierce] until end of turn instead.
+[Awakening] [B][R]"
+"Moonbreeze's Memoria","Card Text
+Activate
+[rest]: Produce [M] or [W]."
+"The Magic Stone of the Demonic World","Card Text
+[Rest]: Produce [D].
+[Rest]: Produce [R] or [B]. Spend this will only to play cards with multiple attributes and no other attributes than [R], [B] or [D]."
+"The Magic Stone of the Six Sages","Card Text
+Automatic
+[Enter] >>> Recover a ruler you control.
+[Rest]: Produce [1].
+[Rest]: Produce one will of any attribute. Play this ability only if you control a recovered J/ruler."

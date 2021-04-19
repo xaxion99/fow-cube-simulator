@@ -43,7 +43,7 @@
    "race": "Ancient",
    "artist": "douzen",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nEach turn, J/resonators your opponent controls cannot attack unless it's your opponent's first attack this turn.",
+   "text": "Continuous\n\nEach turn, J/resonators your opponent controls cannot attack unless it's your opponent's first attack this turn.",
    "flavor_text": "\"Restraint is the true strength of law.\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -66,7 +66,7 @@
    "race": "Ancient/Angel/Demon",
    "artist": "Azusa",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put target Demon with total cost 1 from your graveyard into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put target Demon with total cost 1 from your graveyard into your field.",
    "flavor_text": "To save demons is the hope of all angels.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -92,7 +92,7 @@
    "race": "Ancient/Dragonoid",
    "artist": "ishishou",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nOther Ancients and Dragonoids you control gain [+200/+200].",
+   "text": "Continuous\n\nOther Ancients and Dragonoids you control gain [+200/+200].",
    "flavor_text": "\"Millium. I give you my power.\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -130,7 +130,7 @@
    "race": "Dragon",
    "artist": "Sanosuke Sakuma",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhenever this card attacks ⇒ [Force]1 (Roll a die.) This card gains [+X00/0] until end of turn, where X is the result of the roll.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ [Force]1 (Roll a die.) This card gains [+X00/0] until end of turn, where X is the result of the roll.",
    "flavor_text": "Force emboldens those that stand against evil.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -153,7 +153,7 @@
    "race": "Ancient/Dragonoid",
    "artist": "JURI",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhenever this card attacks ⇒ [Force]1 (Roll a die.) This card gains [+X00/0] until end of turn, where X is the result of the roll.",
+   "text": "Automatic\n\nWhenever this card attacks ⇒ [Force]1 (Roll a die.) This card gains [+X00/0] until end of turn, where X is the result of the roll.",
    "flavor_text": "The ancient Dragonoids were enslaved by Alhama'at long ago.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -199,7 +199,7 @@
    "race": "Soldier",
    "artist": "M ganzy",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nTreat this card as a fire magic stone.",
+   "text": "Continuous\n\nTreat this card as a fire magic stone.",
    "flavor_text": "To burn is fire's only desire.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -242,7 +242,7 @@
    "race": "Six Sages",
    "artist": "SIGMAN",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Fire Magic Stone ⇒ This card gains [+100/0] for each fire magic stone you control and [Pierce] until end of turn.",
+   "text": "Automatic\n\n[Resonance] Fire Magic Stone ⇒ This card gains [+100/0] for each fire magic stone you control and [Pierce] until end of turn.",
    "flavor_text": "\"Now this doesn't look like a very happy reunion.\" -Almerius, Summoner of Spirits",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -308,7 +308,7 @@
    "race": "Spirit",
    "artist": "Takumi Sugikawa",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\nBanish this card: This card deals damage equal to its ATK to target J/resonator.",
+   "text": "Activate\n\nBanish this card: This card deals damage equal to its ATK to target J/resonator.",
    "flavor_text": "Almerius, master of spirits that she was, controlled spirits of all elements.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -328,7 +328,7 @@
    "race": "Beast",
    "artist": "Nanami Lusia",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[Inheritance][R]: Target J/resonator gains [+200/+200] and [Swiftness] until end of turn.",
+   "text": "Activate\n\n[Inheritance][R]: Target J/resonator gains [+200/+200] and [Swiftness] until end of turn.",
    "flavor_text": "\"Be careful he doesn't buck you off. Ah! Not so fast! It's hot.\" -Pricia, True Beastmaster",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -351,7 +351,7 @@
    "race": "Wizard",
    "artist": "RYUEMON",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Fire Magic Stone (Whenever a fire magic stone enters your field.) ⇒ This card deals 200 damage to target opponent.",
+   "text": "Automatic\n\n[Resonance] Fire Magic Stone (Whenever a fire magic stone enters your field.) ⇒ This card deals 200 damage to target opponent.",
    "flavor_text": "Using Attoractia, Lapis attacked his father with the regalia's memories of grief and destruction.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -371,7 +371,7 @@
    "race": "Wererabbit",
    "artist": "yua",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Water Magic Stone (Whenever a water magic stone enters your field.) ⇒ This card gains [+300/+300] and [Flying] until end of turn.",
+   "text": "Automatic\n\n[Resonance] Water Magic Stone (Whenever a water magic stone enters your field.) ⇒ This card gains [+300/+300] and [Flying] until end of turn.",
    "flavor_text": "\"I can fly too!...sometimes.\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -414,7 +414,7 @@
    "race": "Ancient/Dragonoid",
    "artist": "Mayo",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest]: [Force]1 (Roll a die.) Target J/resonator gains [-X00/0] until end of turn, where X is the result of the roll.",
+   "text": "Activate\n\n[rest]: [Force]1 (Roll a die.) Target J/resonator gains [-X00/0] until end of turn, where X is the result of the roll.",
    "flavor_text": "With help from the Dragonoids, Millium's team snuck deep into enemy territory.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -440,7 +440,7 @@
    "race": "Myth",
    "artist": "Mayo",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Water Magic Stone ⇒ Draw a card.",
+   "text": "Automatic\n\n[Resonance] Water Magic Stone ⇒ Draw a card.",
    "flavor_text": "Kaguya's prayer awoke ancient myths.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -483,7 +483,7 @@
    "race": "Spirit",
    "artist": "Shirono Muku",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nTreat this card as a water magic stone.",
+   "text": "Continuous\n\nTreat this card as a water magic stone.",
    "flavor_text": "To surge and flow is water's only desire.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -506,7 +506,7 @@
    "race": "Spirit",
    "artist": "Matsurika Yoko",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may return target resonator your opponent controls with total cost less than or equal to the number of water magic stones you control to its owner's hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may return target resonator your opponent controls with total cost less than or equal to the number of water magic stones you control to its owner's hand.",
    "flavor_text": "\"Where's Fiethsing?\"...Silence was all the answer Almerius needed.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -525,7 +525,7 @@
    "race": "Treasury Item",
    "artist": "ShiroYayoi",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card is bestowed to a resonator ⇒ If you control a resonator and twelve \"Water Kimono of Twelve Parts\" bestowed to it, you win the game.",
+   "text": "Automatic\n\nWhen this card is bestowed to a resonator ⇒ If you control a resonator and twelve \"Water Kimono of Twelve Parts\" bestowed to it, you win the game.",
    "flavor_text": "If twelve are ever assembled, they create an unparalleled beauty.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -545,7 +545,7 @@
    "race": "Divine Beast",
    "artist": "Hayama Kohei",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card leaves your field for a non-field zone ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card leaves your field for a non-field zone ⇒ Draw a card.",
    "flavor_text": "Summoning the beasts from Attoractia, Pricia readied herself for her final clash with Valentina.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -571,7 +571,7 @@
    "race": "Myth",
    "artist": "Nakaba Higurashi",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Wind Magic Stone ⇒ Produce [W], [R], [U], [G], or [B].",
+   "text": "Automatic\n\n[Resonance] Wind Magic Stone ⇒ Produce [W], [R], [U], [G], or [B].",
    "flavor_text": "Kaguya asked the man if there was a way to save a dead soul. The man answered that only undeath was possible for such a thing.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -597,7 +597,7 @@
    "race": "Beast",
    "artist": "Nekobayashi",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest]: Target J/resonator gains [+700/+700] until end of turn.",
+   "text": "Activate\n\n[rest]: Target J/resonator gains [+700/+700] until end of turn.",
    "flavor_text": "\"Rely on me if you will, but don't trouble me with your worries.\" -Gilgamesh, Immortal Hunter",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -616,7 +616,7 @@
    "race": "Treasury Item",
    "artist": "noki",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\nBanish this card: Target up to three non-magic stone cards in a single graveyard. The owner of those cards shuffles them into their deck.",
+   "text": "Activate\n\nBanish this card: Target up to three non-magic stone cards in a single graveyard. The owner of those cards shuffles them into their deck.",
    "flavor_text": "Even such a fabled medicine proved ineffectual in restoring the dead to life.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -656,7 +656,7 @@
    "race": "Spirit",
    "artist": "Nekobayashi",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhenever another Spirit enters a field ⇒ Put a [+100/+100] counter on this card.",
+   "text": "Automatic\n\nWhenever another Spirit enters a field ⇒ Put a [+100/+100] counter on this card.",
    "flavor_text": "Almerius' skill with spirits worked as a chemical reaction, synergizing with them.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -702,7 +702,7 @@
    "race": "Elf",
    "artist": "uekino aroe",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put a [100/100] wind Elf resonator token into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put a [100/100] wind Elf resonator token into your field.",
    "flavor_text": "Even the winds sang a remorseful song upon Fiethsing's death.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -746,7 +746,7 @@
    "race": "Demon",
    "artist": "tokiwa",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\nBanish a resonator: This card gains [+200/+200] until end of turn.",
+   "text": "Activate\n\nBanish a resonator: This card gains [+200/+200] until end of turn.",
    "flavor_text": "A demon commander is always last to leave the battlefield.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -772,7 +772,7 @@
    "race": "Demon",
    "artist": "touge369",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put target Demon resonator with total cost 3 or less from your graveyard into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put target Demon resonator with total cost 3 or less from your graveyard into your field.",
    "flavor_text": "None dare disobey her orders.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -792,7 +792,7 @@
    "race": "Demon",
    "artist": "bambi kojo",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nTreat this card as a darkness magic stone.",
+   "text": "Continuous\n\nTreat this card as a darkness magic stone.",
    "flavor_text": "The creature wastes no time with speech. Its arrival tells all that needs to be told.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -836,7 +836,7 @@
    "race": "Fairy Tale",
    "artist": "yuhki lily",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest]: This card and target resonator gain [0/-400] until end of turn.",
+   "text": "Activate\n\n[rest]: This card and target resonator gain [0/-400] until end of turn.",
    "flavor_text": "\"So what if I go crazy from time to time. What's the problem?\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -859,7 +859,7 @@
    "race": "Ancient/Dragonoid",
    "artist": "Yukie TAJIMA",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[Inheritance][B][B]: Your J-ruler gains [Imperishable] until end of turn. If your J-ruler is \"Ebon Dragon Emperor, Gill Alhama'at\", you may pay [B][B] less to play this card's [Inheritance] abilities.",
+   "text": "Activate\n\n[Inheritance][B][B]: Your J-ruler gains [Imperishable] until end of turn. If your J-ruler is \"Ebon Dragon Emperor, Gill Alhama'at\", you may pay [B][B] less to play this card's [Inheritance] abilities.",
    "flavor_text": "\"This body, this heart, beats only for Alhama'at.\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -900,7 +900,7 @@
    "race": "Ancient/Dragonoid",
    "artist": "SIGMAN",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ [Force]1 (Roll a die.) Put X [+100/+100] counters on this card, where X is the result of the roll.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ [Force]1 (Roll a die.) Put X [+100/+100] counters on this card, where X is the result of the roll.",
    "flavor_text": "The power of the Dragonoids is now known by a new name. Force.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -921,7 +921,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nResonators gain [-200/-200].",
+   "text": "Continuous\n\nResonators gain [-200/-200].",
    "flavor_text": "Alice created a world that would steal away anyone's sanity.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -950,7 +950,7 @@
    "race": "Six Sages",
    "artist": "ponkichi",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhenever a Spirit enters your field ⇒ You gain 400 life.",
+   "text": "Automatic\n\nWhenever a Spirit enters your field ⇒ You gain 400 life.",
    "flavor_text": "Leader of the six sages, master of spirits.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -976,7 +976,7 @@
    "race": "Wanderer/Fairy Tale",
    "artist": "Wednesday",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[W][B][1], banish a non-token resonator: Destroy target non-magic stone, non-J/ruler card.",
+   "text": "Activate\n\n[W][B][1], banish a non-token resonator: Destroy target non-magic stone, non-J/ruler card.",
    "flavor_text": "In pure light or shadow, there is order. In a swirl of both, there is only chaos.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1029,7 +1029,7 @@
    "race": "Dragon/Zombie",
    "artist": "kakotomirai",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[R][R][B][B][2]: Put this card from your graveyard into your field.",
+   "text": "Activate\n\n[R][R][B][B][2]: Put this card from your graveyard into your field.",
    "flavor_text": "Mindless, the creature revived again and again.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1097,7 +1097,7 @@
    "race": "Beast",
    "artist": "Nagi-nyan",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhenever this card deals damage to your opponent ⇒ Remove the top card of your opponent's deck from the game.",
+   "text": "Automatic\n\nWhenever this card deals damage to your opponent ⇒ Remove the top card of your opponent's deck from the game.",
    "flavor_text": "\"Time to settle an old family affair.\" -Gill Lapis, Rebel of Darkest Fires",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1146,7 +1146,7 @@
    "race": "Dragon",
    "artist": "ComamitsuZaki",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Wind Magic Stone (Whenever a wind magic stone enters your field.) ⇒ This card gains [0/+500] and [Flying] until end of turn.",
+   "text": "Automatic\n\n[Resonance] Wind Magic Stone (Whenever a wind magic stone enters your field.) ⇒ This card gains [0/+500] and [Flying] until end of turn.",
    "flavor_text": "Fire means it's angry. Wind means it's leaving.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1172,7 +1172,7 @@
    "race": "Fairy Tale",
    "artist": "SAGAWA ASUKA",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nAt end of turn ⇒ Banish this card.",
+   "text": "Automatic\n\nAt end of turn ⇒ Banish this card.",
    "flavor_text": "The giants that fall from the sky are the worst of their kind.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1245,7 +1245,7 @@
    "race": "Angel",
    "artist": "Sakai Yuuki",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ This card deals 400 damage to target player. You gain 400 life.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ This card deals 400 damage to target player. You gain 400 life.",
    "flavor_text": "\"Madness and love. Two sides of the same coin.\" -Rachel, Nephilim Commander",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1268,7 +1268,7 @@
    "race": "Human",
    "artist": "Yuji Azuma",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhenever this card blocks or is blocked by a J/resonator ⇒ That J/resonator gains [-200/-200] until end of turn.",
+   "text": "Automatic\n\nWhenever this card blocks or is blocked by a J/resonator ⇒ That J/resonator gains [-200/-200] until end of turn.",
    "flavor_text": "The best protection is swift death.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1294,7 +1294,7 @@
    "race": "Beast",
    "artist": "Moopic",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card leaves your field for a non-field zone ⇒ Reveal cards from the top of your deck until you reveal a resonator. Put that card into your hand and the rest on the bottom of your deck in a random order.",
+   "text": "Automatic\n\nWhen this card leaves your field for a non-field zone ⇒ Reveal cards from the top of your deck until you reveal a resonator. Put that card into your hand and the rest on the bottom of your deck in a random order.",
    "flavor_text": "Life continues in spirals, moving from one to the next.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1317,7 +1317,7 @@
    "race": "Beast",
    "artist": "touge369",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest], banish a magic stone: Put the top card of your magic stone deck into your field.",
+   "text": "Activate\n\n[rest], banish a magic stone: Put the top card of your magic stone deck into your field.",
    "flavor_text": "Always the same, yet always changing. Like the world itself.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1340,7 +1340,7 @@
    "race": "Spirit",
    "artist": "YAMAMOTO−NAOKI",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[G]: This card gains [0/+200] until end of turn.",
+   "text": "Activate\n\n[G]: This card gains [0/+200] until end of turn.",
    "flavor_text": "The spirits stood, ever vigilant in their charges.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1354,7 +1354,7 @@
    "race": "Emperor",
    "artist": "gekko",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Light Magic Stone or Darkness Magic Stone ⇒ Put a mana counter on this card.",
+   "text": "Automatic\n\n[Resonance] Light Magic Stone or Darkness Magic Stone ⇒ Put a mana counter on this card.",
    "flavor_text": "\"Lapis. Do you truly believe yourself to be my child? A pity.\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1369,7 +1369,7 @@
    "race": "Dragon",
    "artist": "gekko",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Light Magic Stone or Darkness Magic Stone ⇒ Put two mana counters on this card.",
+   "text": "Automatic\n\n[Resonance] Light Magic Stone or Darkness Magic Stone ⇒ Put two mana counters on this card.",
    "flavor_text": "Alhama'at and Viola combined, exacerbating his power dramatically.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1384,7 +1384,7 @@
    "race": "Wizard",
    "artist": "gekko",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nYou may play Ancient Magic cards from your hand without paying their cost.",
+   "text": "Continuous\n\nYou may play Ancient Magic cards from your hand without paying their cost.",
    "flavor_text": "It's the end.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1398,7 +1398,7 @@
    "race": "Wanderer",
    "artist": "Nem",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[0]: If target non-magic stone card your opponent controls would be put into a graveyard this turn, remove it from the game instead. Play this ability only during your turn and only once per turn.",
+   "text": "Activate\n\n[0]: If target non-magic stone card your opponent controls would be put into a graveyard this turn, remove it from the game instead. Play this ability only during your turn and only once per turn.",
    "flavor_text": "Attoractia in hand, Lapis arrived. His plans were nearly complete.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1413,7 +1413,7 @@
    "race": "Wanderer",
    "artist": "Nem",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[R][B]: Put two target non-magic stone cards from your opponent's removed area on the bottom of their deck. If you do, destroy target resonator.",
+   "text": "Activate\n\n[R][B]: Put two target non-magic stone cards from your opponent's removed area on the bottom of their deck. If you do, destroy target resonator.",
    "flavor_text": "\"If I can just get Alhama'at's magic stone...\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1436,7 +1436,7 @@
    "race": "Treasury Item/Bird",
    "artist": "Takamura Haluki",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhenever this card becomes rested ⇒ You may rest target resonator.",
+   "text": "Automatic\n\nWhenever this card becomes rested ⇒ You may rest target resonator.",
    "flavor_text": "Chasing that which sparkles is a basic instinct.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1462,7 +1462,7 @@
    "race": "Spirit",
    "artist": "Cola",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Light Magic Stone or Water Magic Stone ⇒ Target a rested resonator. Destroy it or return it to its owner's hand.",
+   "text": "Automatic\n\n[Resonance] Light Magic Stone or Water Magic Stone ⇒ Target a rested resonator. Destroy it or return it to its owner's hand.",
    "flavor_text": "The great earth buries its enemies and nourishes its allies.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1476,7 +1476,7 @@
    "race": "Wizard",
    "artist": "Kamijyo Roro",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[0]: Reveal the top card of your deck. If it's a Treasury Item, put it into your hand. Play this ability only during your turn and only once per turn.",
+   "text": "Activate\n\n[0]: Reveal the top card of your deck. If it's a Treasury Item, put it into your hand. Play this ability only during your turn and only once per turn.",
    "flavor_text": "Kaguya's tears streamed down her face, and slowly coalesced into a magic stone.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1490,7 +1490,7 @@
    "race": "Moon Princess",
    "artist": "Fukuzo Katsura",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\nRest five recovered Treasury Items you control: This card becomes a [1500/1500] with [Flying] until end of turn.",
+   "text": "Activate\n\nRest five recovered Treasury Items you control: This card becomes a [1500/1500] with [Flying] until end of turn.",
    "flavor_text": "As her tears fell to the earth, Kaguya awoke to a new power, her heart focused on Fiethsing.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1515,7 +1515,7 @@
    "race": "Treasury Item",
    "artist": "Fukuzo Katsura",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nYou may play cards from your removed area that were removed by this card.",
+   "text": "Continuous\n\nYou may play cards from your removed area that were removed by this card.",
    "flavor_text": "A curious object. Every time one opens it, it seems to have more blank paper.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1536,7 +1536,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest]，discard a Spirit: Choose one - You gain 600 life; or draw a card.",
+   "text": "Activate\n\n[rest]，discard a Spirit: Choose one - You gain 600 life; or draw a card.",
    "flavor_text": "It's said the first spirits were born here.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1565,7 +1565,7 @@
    "race": "Heroic Spirit",
    "artist": "Rumie",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\nRemove a breeze counter from this card: Cancel target chant spell unless its controller pays [1].",
+   "text": "Activate\n\nRemove a breeze counter from this card: Cancel target chant spell unless its controller pays [1].",
    "flavor_text": "Faria felt the echoes of a powerful spirit from the fragment of Attoractia she took from Valentina.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1588,7 +1588,7 @@
    "race": "Mermaid",
    "artist": "Miko Yamazaki[",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ [Force]1 (Roll a die.) You gain 100 life multiplied by the result of the roll.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ [Force]1 (Roll a die.) You gain 100 life multiplied by the result of the roll.",
    "flavor_text": "\"This light...so nostalgic. So Almerius is free.\" -Grusbalesta, Magic Stone Researcher",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1622,7 +1622,7 @@
    "race": "Human",
    "artist": "Haruichi Kido",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhenever you roll one or more dice using [Force] ⇒ Put a dragon power counter on this card.",
+   "text": "Automatic\n\nWhenever you roll one or more dice using [Force] ⇒ Put a dragon power counter on this card.",
    "flavor_text": "\"You're giving that power to me?\" \"Yes, it has to be you.\" \"But...why?\" \"You are a descendant of the one who can wield such a power.\" -Millium, Successor of the Dragon Crest and Ryula, Alabaster Dragon Princess",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1637,7 +1637,7 @@
    "race": "Dragon",
    "artist": "Haruichi Kido",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ If there are forty or more [+100/+100] counters on this card, destroy all J/resonators your opponent controls.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ If there are forty or more [+100/+100] counters on this card, destroy all J/resonators your opponent controls.",
    "flavor_text": "Fusing with Ryula, the two became a mighty dragon. The last hope to stop Alhama'at.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1680,7 +1680,7 @@
    "race": "Rabbit/Treasury Item",
    "artist": "mie",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nYou may rest a Moon you control rather than pay this card's cost.",
+   "text": "Continuous\n\nYou may rest a Moon you control rather than pay this card's cost.",
    "flavor_text": "A rabbit that appeared alongside the moon.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1706,7 +1706,7 @@
    "race": "Treasury Item",
    "artist": "RYUEMON",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.",
    "flavor_text": "The awakened Kaguya used the moonlight to transform the plants into something marvelous.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1732,7 +1732,7 @@
    "race": "Wererabbit",
    "artist": "ShiroYayoi",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ You may put a Treasury Item with total cost 3 or less from your hand into your field.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ You may put a Treasury Item with total cost 3 or less from your hand into your field.",
    "flavor_text": "\"One treasure, two, three. Ah, Lady Kaguya, how may I help you?\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1768,7 +1768,7 @@
    "race": "Human/Beast",
    "artist": "fzwrAym",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Wind Magic Stone ⇒ Target resonator you control gains [Flying] until end of turn.",
+   "text": "Automatic\n\n[Resonance] Wind Magic Stone ⇒ Target resonator you control gains [Flying] until end of turn.",
    "flavor_text": "Her soul returned to its body after Valentina had been expelled, and Pricia awoke to the truth of other worlds.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1783,7 +1783,7 @@
    "race": "Wanderer",
    "artist": "fzwrAym",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\nGod's Art [Second Wind] [R][G]: Recover this card. J/resonators you control gain [Swiftness] and [Flying] until end of turn. Play this ability only if a fire magic stone and a wind magic stone were put into your field this turn.",
+   "text": "Activate\n\nGod's Art [Second Wind] [R][G]: Recover this card. J/resonators you control gain [Swiftness] and [Flying] until end of turn. Play this ability only if a fire magic stone and a wind magic stone were put into your field this turn.",
    "flavor_text": "\"The heart of this world beats on. Let us fight! Everyone, together!\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1872,7 +1872,7 @@
    "race": "Shadow",
    "artist": "Matsurika Yoko",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card leaves your field for a non-field zone ⇒ Destroy all Shadow resonator tokens you control.",
+   "text": "Automatic\n\nWhen this card leaves your field for a non-field zone ⇒ Destroy all Shadow resonator tokens you control.",
    "flavor_text": "The cat meowed and the world changed around it.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1921,7 +1921,7 @@
    "race": "Zombie",
    "artist": "Mad",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may put target non-magic stone card from your opponent's removed area on the bottom of their deck. If you do, this card deals 400 damage to target opponent.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may put target non-magic stone card from your opponent's removed area on the bottom of their deck. If you do, this card deals 400 damage to target opponent.",
    "flavor_text": "Fueled by the rage of its enemies.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1947,7 +1947,7 @@
    "race": "Vampire",
    "artist": "Kamijyo Roro",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ This card deals 400 damage multiplied by the number of Vampires you control to target resonator your opponent controls.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ This card deals 400 damage multiplied by the number of Vampires you control to target resonator your opponent controls.",
    "flavor_text": "\"Assistance is unnecessary.\" Lapis said to the messenger.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1968,7 +1968,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Continuous\nMagic stones you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\"",
+   "text": "Continuous\n\nMagic stones you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\"",
    "flavor_text": "A land that lived on in Pricia's heart.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -1994,7 +1994,7 @@
    "race": "Spirit",
    "artist": "Misa Tsutsui",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[Inheritance][W][U][1]: Spirits you control cannot be destroyed until end of turn.",
+   "text": "Activate\n\n[Inheritance][W][U][1]: Spirits you control cannot be destroyed until end of turn.",
    "flavor_text": "Sacred rains that wash away all tragedy.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2066,7 +2066,7 @@
    "race": "Fairy Tale",
    "artist": "Kutori PanYa",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Darkness Magic Stone ⇒ Resonators your opponent controls gain [-100/-100] until end of turn.",
+   "text": "Automatic\n\n[Resonance] Darkness Magic Stone ⇒ Resonators your opponent controls gain [-100/-100] until end of turn.",
    "flavor_text": "\"It's been a while since our last tea party. Let's have some...fun.\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2089,7 +2089,7 @@
    "race": "Fairy Tale",
    "artist": "hatarisu",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\n[Resonance] Light Magic Stone or Darkness Magic Stone (Whenever a light magic stone or darkness magic stone enters your field.) ⇒ This card may gain [+700/-700] until end of turn.",
+   "text": "Automatic\n\n[Resonance] Light Magic Stone or Darkness Magic Stone (Whenever a light magic stone or darkness magic stone enters your field.) ⇒ This card may gain [+700/-700] until end of turn.",
    "flavor_text": "It seems its mood changes when it's awake.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2111,7 +2111,7 @@
    "race": "Moon/Treasury Item",
    "artist": "Moopic",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card becomes rested ⇒ Target resonator gains [-200/0] until end of turn.",
+   "text": "Automatic\n\nWhen this card becomes rested ⇒ Target resonator gains [-200/0] until end of turn.",
    "flavor_text": "The satellite of the Earth, the true moon.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2177,7 +2177,7 @@
    "race": "Twelve Apostles",
    "artist": "j-peg",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[0]: Put three target non-magic stone cards from your opponent's removed area on the bottom of their deck. If you do, this card gains [+500/+500] until end of turn.",
+   "text": "Activate\n\n[0]: Put three target non-magic stone cards from your opponent's removed area on the bottom of their deck. If you do, this card gains [+500/+500] until end of turn.",
    "flavor_text": "\"Good thing I planned ahead. I'll make good use of your body, Shion.\"",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2203,7 +2203,7 @@
    "race": "Wererabbit",
    "artist": "Tomomi TOMIDA",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ Look at the top four cards of your deck and put them back in any order.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Look at the top four cards of your deck and put them back in any order.",
    "flavor_text": "The shadows that move forecast the things to come.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2226,7 +2226,7 @@
    "race": "Spirit",
    "artist": "Tsukumi",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhenever this card is dealt damage ⇒ You gain that much life.",
+   "text": "Automatic\n\nWhenever this card is dealt damage ⇒ You gain that much life.",
    "flavor_text": "The unseen things are numerous and busy.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2239,7 +2239,7 @@
    "type": "Special Magic Stone",
    "artist": "Kusanagi Tyouen",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest], remove a mana counter from your J/ruler: Produce [W], [R], [U], [G], or [B].",
+   "text": "Activate\n\n[rest], remove a mana counter from your J/ruler: Produce [W], [R], [U], [G], or [B].",
    "flavor_text": "A prototype magic stone from the celestial plane.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2252,7 +2252,7 @@
    "type": "Special Magic Stone",
    "artist": "kawaryu",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ Look at the top two cards of your deck and put them back in any order.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Look at the top two cards of your deck and put them back in any order.",
    "flavor_text": "The result of Kaguya's tears.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2265,7 +2265,7 @@
    "type": "Special Magic Stone",
    "artist": "Mad",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ Remove the top card of your opponent's deck from the game.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Remove the top card of your opponent's deck from the game.",
    "flavor_text": "Traitorous fire and dark memories.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2278,7 +2278,7 @@
    "type": "Special Magic Stone",
    "artist": "hatarisu",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card leaves your field for a non-field zone ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card leaves your field for a non-field zone ⇒ Draw a card.",
    "flavor_text": "The stone at which now and then collide.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2291,7 +2291,7 @@
    "type": "Special Magic Stone",
    "artist": "gozz",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Automatic\nWhen this card enters your field ⇒ If your ruler is \"Millium, Successor of the Dragon Crest\", put a dragon power counter on it.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ If your ruler is \"Millium, Successor of the Dragon Crest\", put a dragon power counter on it.",
    "flavor_text": "A stone that can seal away Alhama'at. The true power of the Dragonoids.",
    "all_sets": "Return of the Dragon Emperor"
   },
@@ -2304,7 +2304,7 @@
    "type": "Basic Magic Stone",
    "artist": "Sakai Yuuki",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "Return of the Dragon Emperor"
   },
   {
@@ -2316,7 +2316,7 @@
    "type": "Basic Magic Stone",
    "artist": "Shirono Muku",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "Return of the Dragon Emperor"
   },
   {
@@ -2328,7 +2328,7 @@
    "type": "Basic Magic Stone",
    "artist": "Miko Yamazaki",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "Return of the Dragon Emperor"
   },
   {
@@ -2340,7 +2340,7 @@
    "type": "Basic Magic Stone",
    "artist": "Takamura Haluki",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "Return of the Dragon Emperor"
   },
   {
@@ -2352,7 +2352,7 @@
    "type": "Basic Magic Stone",
    "artist": "BANAMONS*",
    "expansion": "Return of the Dragon Emperor",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "Return of the Dragon Emperor"
   },
   {
