@@ -1,4 +1,5 @@
 import { Component, Input, OnChanges, OnInit, SimpleChanges } from '@angular/core';
+import { CardFetcherService } from '../card-fetcher.service';
 
 @Component({
   selector: 'app-card-details',
@@ -23,19 +24,21 @@ export class CardDetailsComponent implements OnInit, OnChanges {
   type;
   url;
 
-  constructor() { }
+  constructor(private cfs: CardFetcherService) { }
 
   ngOnChanges(changes: SimpleChanges): void {
     this.initializeCard();
   }
 
   ngOnInit(): void {
+    if (this.card === undefined) {
+      this.card = this.cfs.getCard();
+    }
     this.initializeCard();
   }
 
   initializeCard() {
     // Initialize Card Details
-    console.log(this.card);
     this.allSets = this.card.all_sets;
     this.artist = this.card.artist;
     this.attDef = this.card.att_def;

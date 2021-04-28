@@ -1,332 +1,935 @@
 "card_url","card_name","card_image","card_number","card_rarity","card_cost_attribute","card_att_def","card_type","card_race","card_artist","card_expansion","card_text","card_flavor_text","card_all_sets"
-"http://www.fowtcg.com/card/4618","Accel, the White Gale Eagle","http://d12h0em1d7ppg.cloudfront.net/items/46/4618/image_en/f2dd8a96-2ade-4eee-a4c4-403e32286285.jpg","AO3-001","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","100 / 100","Resonator","Beast","Miko Yamazaki","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4618","Accel, the White Gale Eagle","http://d12h0em1d7ppg.cloudfront.net/items/46/4618/image_en/f2dd8a96-2ade-4eee-a4c4-403e32286285.jpg","AO3-001","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","100 / 100","Resonator","Beast","Miko Yamazaki","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Continuous
+Each turn, you may play your first “Accel's Reconnaissance” without paying its cost.
+Automatic
+[Enter] ⇒ Choose a card from your Stranger deck at random and remove it from the game. Then put three [+100/+100] counters on this card for each (Stranger) resonator in your removed area.
+Automatic
 Whenever this card attacks ⇒ It may deal X00 damage to target resonator, where X is the number of [+100/+100] counters on this card.","""Come on, Accel!"" ーPier, the Godspeed Archer","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4619","Accel's Reconnaissance","http://d12h0em1d7ppg.cloudfront.net/items/46/4619/image_en/940ba013-a6a8-4dff-8915-98397638c81d.jpg","AO3-002","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","haniwa","Alice Origin 3rd Booster Pack","","""Fly, Accel!"" ーPier, the Godspeed Archer","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4620","Apollon, the God of Light (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4620/image_en/ade0e458-e0d0-4afd-9738-499f9074b42f.jpg","AO3-003","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1400 / 1700","Resonator (Stranger)","Deity","ishishou","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4619","Accel's Reconnaissance","http://d12h0em1d7ppg.cloudfront.net/items/46/4619/image_en/940ba013-a6a8-4dff-8915-98397638c81d.jpg","AO3-002","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","haniwa","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Look at the top X+1 cards of your deck, where X is the number of (Stranger) resonators in your removed area. Put a card from among them into your hand and the rest on the top or the bottom of your deck in any order.","""Fly, Accel!"" ーPier, the Godspeed Archer","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4620","Apollon, the God of Light (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4620/image_en/ade0e458-e0d0-4afd-9738-499f9074b42f.jpg","AO3-003","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1400 / 1700","Resonator (Stranger)","Deity","ishishou","Alice Origin 3rd Booster Pack","Card Text
+[Pierce]
+Continuous
+If damage would be dealt to you, it's dealt to this card instead.
+Automatic
 When this card is put into a graveyard from the field ⇒ Remove it from the game. If you do, your life becomes 4000.","""If Armalla can rise to the sky, it can use its defensive position to keep Niflheim in check. It will be the bulwark of Vell-Savaria."" ーNote of Magna 28","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4620","Apollon, the God of Light (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4620/image_en/ade0e458-e0d0-4afd-9738-499f9074b42f.jpg","AO3-003","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1400 / 1700","Resonator (Stranger)","Deity","ishishou","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4620","Apollon, the God of Light (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4620/image_en/ade0e458-e0d0-4afd-9738-499f9074b42f.jpg","AO3-003","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1400 / 1700","Resonator (Stranger)","Deity","ishishou","Alice Origin 3rd Booster Pack","Card Text
+[Pierce]
+Continuous
+If damage would be dealt to you, it's dealt to this card instead.
+Automatic
 When this card is put into a graveyard from the field ⇒ Remove it from the game. If you do, your life becomes 4000.","""If Armalla can rise to the sky, it can use its defensive position to keep Niflheim in check. It will be the bulwark of Vell-Savaria."" ーNote of Magna 28","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4620","Apollon, the God of Light (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4620/image_en/ade0e458-e0d0-4afd-9738-499f9074b42f.jpg","AO3-003","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1400 / 1700","Resonator (Stranger)","Deity","ishishou","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4620","Apollon, the God of Light (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4620/image_en/ade0e458-e0d0-4afd-9738-499f9074b42f.jpg","AO3-003","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1400 / 1700","Resonator (Stranger)","Deity","ishishou","Alice Origin 3rd Booster Pack","Card Text
+[Pierce]
+Continuous
+If damage would be dealt to you, it's dealt to this card instead.
+Automatic
 When this card is put into a graveyard from the field ⇒ Remove it from the game. If you do, your life becomes 4000.","""If Armalla can rise to the sky, it can use its defensive position to keep Niflheim in check. It will be the bulwark of Vell-Savaria."" ーNote of Magna 28","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4621","Ares, the Knight God Emperor (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4621/image_en/96a9c698-faae-42d8-803c-27250e4c9ace.jpg","AO3-004","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 600","Resonator (Stranger)","Deity","Hitowa","Alice Origin 3rd Booster Pack","","""I hope Armalla's new power will keep the world in balance. But I need to prepare myself for the new threat, and will keep Genesis, my regalia which created all the others, close at hand."" ーNote of Magna 30","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4621","Ares, the Knight God Emperor (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4621/image_en/96a9c698-faae-42d8-803c-27250e4c9ace.jpg","AO3-004","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 600","Resonator (Stranger)","Deity","Hitowa","Alice Origin 3rd Booster Pack","","""I hope Armalla's new power will keep the world in balance. But I need to prepare myself for the new threat, and will keep Genesis, my regalia which created all the others, close at hand."" ーNote of Magna 30","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4622","Celestial Wing Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4622/image_en/c5b5f436-1691-400b-927e-8d7721b8bdb9.jpg","AO3-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Angel","Pisuke","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4621","Ares, the Knight God Emperor (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4621/image_en/96a9c698-faae-42d8-803c-27250e4c9ace.jpg","AO3-004","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 600","Resonator (Stranger)","Deity","Hitowa","Alice Origin 3rd Booster Pack","Card Text
+[Precision] [Eternal]","""I hope Armalla's new power will keep the world in balance. But I need to prepare myself for the new threat, and will keep Genesis, my regalia which created all the others, close at hand."" ーNote of Magna 30","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4621","Ares, the Knight God Emperor (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4621/image_en/96a9c698-faae-42d8-803c-27250e4c9ace.jpg","AO3-004","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 600","Resonator (Stranger)","Deity","Hitowa","Alice Origin 3rd Booster Pack","Card Text
+[Precision] [Eternal]","""I hope Armalla's new power will keep the world in balance. But I need to prepare myself for the new threat, and will keep Genesis, my regalia which created all the others, close at hand."" ーNote of Magna 30","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4622","Celestial Wing Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4622/image_en/c5b5f436-1691-400b-927e-8d7721b8bdb9.jpg","AO3-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Angel","Pisuke","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Automatic
+When this card enters your field ⇒ You may search your deck for an Angel resonator with total cost 4 or less and put it into your field. Then shuffle your deck.
+Automatic
 Whenever this card attacks ⇒ You gain 300 life for each Angel you control.","Summoned by Winged Lord, they are the highest rank in the angelic orders.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4622","Celestial Wing Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4622/image_en/c5b5f436-1691-400b-927e-8d7721b8bdb9.jpg","AO3-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Angel","Pisuke","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4622","Celestial Wing Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4622/image_en/c5b5f436-1691-400b-927e-8d7721b8bdb9.jpg","AO3-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Angel","Pisuke","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Automatic
+When this card enters your field ⇒ You may search your deck for an Angel resonator with total cost 4 or less and put it into your field. Then shuffle your deck.
+Automatic
 Whenever this card attacks ⇒ You gain 300 life for each Angel you control.","Summoned by Winged Lord, they are the highest rank in the angelic orders.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4622","Celestial Wing Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4622/image_en/c5b5f436-1691-400b-927e-8d7721b8bdb9.jpg","AO3-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1000 / 1000","Resonator","Angel","Pisuke","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4622","Celestial Wing Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4622/image_en/c5b5f436-1691-400b-927e-8d7721b8bdb9.jpg","AO3-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1000 / 1000","Resonator","Angel","Pisuke","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Automatic
+When this card enters your field ⇒ You may search your deck for an Angel resonator with total cost 4 or less and put it into your field. Then shuffle your deck.
+Automatic
 Whenever this card attacks ⇒ You gain 300 life for each Angel you control.","Summoned by Winged Lord, they are the highest rank in the angelic orders.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4623","Crystallization","http://d12h0em1d7ppg.cloudfront.net/items/46/4623/image_en/87ec43b2-cc37-41f1-88c0-5aa50e5d6183.jpg","AO3-006","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","jitari","Alice Origin 3rd Booster Pack","","Holy power purifies the corrupted and seals them in crystals.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4624","Dignified Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4624/image_en/40dfcd93-e9e0-4016-83ac-6636d7a84b87.jpg","AO3-007","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Angel","noki","Alice Origin 3rd Booster Pack","","The angelic figure inspires the people to the point where every insecurity vanishes.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4624","Dignified Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4624/image_en/40dfcd93-e9e0-4016-83ac-6636d7a84b87.jpg","AO3-007","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Angel","noki","Alice Origin 3rd Booster Pack","","The angelic figure inspires the people to the point where every insecurity vanishes.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4624","Dignified Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4624/image_en/40dfcd93-e9e0-4016-83ac-6636d7a84b87.jpg","AO3-007","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 800","Resonator","Angel","noki","Alice Origin 3rd Booster Pack","","The angelic figure inspires the people to the point where every insecurity vanishes.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4625","Give Wings","http://d12h0em1d7ppg.cloudfront.net/items/46/4625/image_en/e24b7f1d-adb1-44d0-806f-a6789e69e232.jpg","AO3-008","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","bambi kojo","Alice Origin 3rd Booster Pack","","""With these, you'll be able to fly in the sky!"" -Wingman of Armalla","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4626","Heavenly Garden of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4626/image_en/7c169300-a580-48a0-8d99-e13a3130859f.jpg","AO3-009","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition: Field","Garden","Fushikaden K.K.","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4623","Crystallization","http://d12h0em1d7ppg.cloudfront.net/items/46/4623/image_en/87ec43b2-cc37-41f1-88c0-5aa50e5d6183.jpg","AO3-006","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","jitari","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Destroy target resonator. Its controller gains 1000 life. If this card was awakened, choose a card from your Stranger deck at random and remove it from the game.
+[Awakening][G]","Holy power purifies the corrupted and seals them in crystals.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4624","Dignified Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4624/image_en/40dfcd93-e9e0-4016-83ac-6636d7a84b87.jpg","AO3-007","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Angel","noki","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)","The angelic figure inspires the people to the point where every insecurity vanishes.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4624","Dignified Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4624/image_en/40dfcd93-e9e0-4016-83ac-6636d7a84b87.jpg","AO3-007","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Angel","noki","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)","The angelic figure inspires the people to the point where every insecurity vanishes.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4624","Dignified Seraph","http://d12h0em1d7ppg.cloudfront.net/items/46/4624/image_en/40dfcd93-e9e0-4016-83ac-6636d7a84b87.jpg","AO3-007","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 800","Resonator","Angel","noki","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)","The angelic figure inspires the people to the point where every insecurity vanishes.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4625","Give Wings","http://d12h0em1d7ppg.cloudfront.net/items/46/4625/image_en/e24b7f1d-adb1-44d0-806f-a6789e69e232.jpg","AO3-008","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","bambi kojo","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Target resonator gains [+200/+200] and [Flying] until end of turn.","""With these, you'll be able to fly in the sky!"" -Wingman of Armalla","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4626","Heavenly Garden of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4626/image_en/7c169300-a580-48a0-8d99-e13a3130859f.jpg","AO3-009","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition: Field","Garden","Fushikaden K.K.","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Resonators you control with [Flying] gain [+200/+200].
+Activate
 [W][W], [rest]: Rest target resonator without [Flying].","The wonderful view of the heavenly garden is granted only to those who are able to fly in the sky.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4626","Heavenly Garden of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4626/image_en/7c169300-a580-48a0-8d99-e13a3130859f.jpg","AO3-009","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition: Field","Garden","Fushikaden K.K.","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4626","Heavenly Garden of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4626/image_en/7c169300-a580-48a0-8d99-e13a3130859f.jpg","AO3-009","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition: Field","Garden","Fushikaden K.K.","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Resonators you control with [Flying] gain [+200/+200].
+Activate
 [W][W], [rest]: Rest target resonator without [Flying].","The wonderful view of the heavenly garden is granted only to those who are able to fly in the sky.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4627","Herald of the Winged Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4627/image_en/b1f72f1e-1774-4c3b-aeb1-e8529d5de5c8.jpg","AO3-010","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","600 / 600","Resonator","Wingman","mie","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4627","Herald of the Winged Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4627/image_en/b1f72f1e-1774-4c3b-aeb1-e8529d5de5c8.jpg","AO3-010","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","600 / 600","Resonator","Wingman","mie","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Continuous
 Prevent all damage that would be dealt to this card by fire resonators.","When the Herald of the Winged Lord got to Alice, he began to talk to her choosing his words very carefully.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4627","Herald of the Winged Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4627/image_en/b1f72f1e-1774-4c3b-aeb1-e8529d5de5c8.jpg","AO3-010","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 600","Resonator","Wingman","mie","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4627","Herald of the Winged Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4627/image_en/b1f72f1e-1774-4c3b-aeb1-e8529d5de5c8.jpg","AO3-010","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 600","Resonator","Wingman","mie","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Continuous
 Prevent all damage that would be dealt to this card by fire resonators.","When the Herald of the Winged Lord got to Alice, he began to talk to her choosing his words very carefully.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4628","Knight of the White Hill","http://d12h0em1d7ppg.cloudfront.net/items/46/4628/image_en/2b8d6818-9db3-49f8-985b-72e6e7f4a406.jpg","AO3-011","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Human","muranako","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4628","Knight of the White Hill","http://d12h0em1d7ppg.cloudfront.net/items/46/4628/image_en/2b8d6818-9db3-49f8-985b-72e6e7f4a406.jpg","AO3-011","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Human","muranako","Alice Origin 3rd Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Choose a card from your Stranger deck at random and remove it from the game.
+Automatic
 When this card is put into a graveyard from the field ⇒ Choose a card from your Stranger deck at random and remove it from the game.","Faith can be a subtle power.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4629","Michael, the Archangel (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4629/image_en/267b67ab-0939-49d5-a5aa-690fba41593a.jpg","AO3-012","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Angel","Pochiharu","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4629","Michael, the Archangel (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4629/image_en/267b67ab-0939-49d5-a5aa-690fba41593a.jpg","AO3-012","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Angel","Pochiharu","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Activate
 [1]: Prevent all damage that would be dealt to Angel resonators you control until end of turn.","""I need to protect Vell-Savaria from Niflheim and the vampires, so I will look for help. And I have already an idea where I can find it."" ーNote of Magna 26","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4629","Michael, the Archangel (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4629/image_en/267b67ab-0939-49d5-a5aa-690fba41593a.jpg","AO3-012","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Angel","Pochiharu","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4629","Michael, the Archangel (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4629/image_en/267b67ab-0939-49d5-a5aa-690fba41593a.jpg","AO3-012","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Angel","Pochiharu","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Activate
 [1]: Prevent all damage that would be dealt to Angel resonators you control until end of turn.","""I need to protect Vell-Savaria from Niflheim and the vampires, so I will look for help. And I have already an idea where I can find it."" ーNote of Magna 26","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4629","Michael, the Archangel (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4629/image_en/267b67ab-0939-49d5-a5aa-690fba41593a.jpg","AO3-012","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Angel","Pochiharu","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4629","Michael, the Archangel (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4629/image_en/267b67ab-0939-49d5-a5aa-690fba41593a.jpg","AO3-012","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Angel","Pochiharu","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Activate
 [1]: Prevent all damage that would be dealt to Angel resonators you control until end of turn.","""I need to protect Vell-Savaria from Niflheim and the vampires, so I will look for help. And I have already an idea where I can find it."" ーNote of Magna 26","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4630","Mourning Angel","http://d12h0em1d7ppg.cloudfront.net/items/46/4630/image_en/c283c071-5bd8-4698-9b39-6a2a1f8ef8c1.jpg","AO3-013","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Angel","MATSUMOTO EIGHT","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4630","Mourning Angel","http://d12h0em1d7ppg.cloudfront.net/items/46/4630/image_en/c283c071-5bd8-4698-9b39-6a2a1f8ef8c1.jpg","AO3-013","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Angel","MATSUMOTO EIGHT","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Flying]
+Automatic
 [Enter] ⇒ Remove up to three target cards in a graveyard from the game.","""The living are the living, the dead are the dead.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4631","Pier, the Godspeed Archer","http://d12h0em1d7ppg.cloudfront.net/items/46/4631/image_en/6f07c478-6c99-41d4-83e9-04086ae972b3.jpg","AO3-014","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Five Heroes","Kamijo Roro","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4631","Pier, the Godspeed Archer","http://d12h0em1d7ppg.cloudfront.net/items/46/4631/image_en/6f07c478-6c99-41d4-83e9-04086ae972b3.jpg","AO3-014","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Five Heroes","Kamijo Roro","Alice Origin 3rd Booster Pack","Card Text
+[Flying] [Swiftness]
+Continuous
+This card enters the field with two divine bow counters on it.
+Activate
+Remove a divine bow counter from this card: This card deals 400 damage to target attacking or blocking J/resonator.
+Activate
+Remove two divine bow counters from this card: Destroy target addition.
+Remove four divine bow counters from this card: Destroy target J/resonator with [Flying].
+Activate
 [Rest]: Put X divine bow counters on this card, where X is the number of (Stranger) resonators in your removed area.","He returns to his friend, a divine bow in hand.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4632","Rabbit of Moonlit Nights","http://d12h0em1d7ppg.cloudfront.net/items/46/4632/image_en/3b9c0a45-aa6e-4715-b3dd-8dd4cfa50f62.jpg","AO3-015","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","200 / 400","Resonator","Rabbit","mie","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4632","Rabbit of Moonlit Nights","http://d12h0em1d7ppg.cloudfront.net/items/46/4632/image_en/3b9c0a45-aa6e-4715-b3dd-8dd4cfa50f62.jpg","AO3-015","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","200 / 400","Resonator","Rabbit","mie","Alice Origin 3rd Booster Pack","Card Text
+Activate
 Banish this card: Rest target J/resonator.","Foolish is the warrior who readies himself for sword and spell, but not rabbits.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4633","Release","http://d12h0em1d7ppg.cloudfront.net/items/46/4633/image_en/76e7b458-cb7d-469b-ae6f-7ce59f93098e.jpg","AO3-016","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","sasaki kounosuke","Alice Origin 3rd Booster Pack","","With Alice freed, she once again stood against Lapis.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4633","Release","http://d12h0em1d7ppg.cloudfront.net/items/46/4633/image_en/76e7b458-cb7d-469b-ae6f-7ce59f93098e.jpg","AO3-016","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","","sasaki kounosuke","Alice Origin 3rd Booster Pack","","With Alice freed, she once again stood against Lapis.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4634","Wingman of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4634/image_en/bc662377-a3fe-46fc-ae46-b10ed9dcb087.jpg","AO3-017","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","300 / 600","Resonator","Wingman","uekino aroe","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4633","Release","http://d12h0em1d7ppg.cloudfront.net/items/46/4633/image_en/76e7b458-cb7d-469b-ae6f-7ce59f93098e.jpg","AO3-016","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","sasaki kounosuke","Alice Origin 3rd Booster Pack","Card Text
+Put a non-magic stone card from your removed area into your hand. Draw a card.","With Alice freed, she once again stood against Lapis.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4633","Release","http://d12h0em1d7ppg.cloudfront.net/items/46/4633/image_en/76e7b458-cb7d-469b-ae6f-7ce59f93098e.jpg","AO3-016","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","","sasaki kounosuke","Alice Origin 3rd Booster Pack","Card Text
+Put a non-magic stone card from your removed area into your hand. Draw a card.","With Alice freed, she once again stood against Lapis.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4634","Wingman of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4634/image_en/bc662377-a3fe-46fc-ae46-b10ed9dcb087.jpg","AO3-017","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","300 / 600","Resonator","Wingman","uekino aroe","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Activate
 [rest]: Target resonator gains [Flying] until end of turn.","The strong sense of responsibility drove this man to wake up even after death.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4634","Wingman of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4634/image_en/bc662377-a3fe-46fc-ae46-b10ed9dcb087.jpg","AO3-017","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","300 / 600","Resonator","Wingman","uekino aroe","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4634","Wingman of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4634/image_en/bc662377-a3fe-46fc-ae46-b10ed9dcb087.jpg","AO3-017","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","300 / 600","Resonator","Wingman","uekino aroe","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Activate
 [rest]: Target resonator gains [Flying] until end of turn.","The strong sense of responsibility drove this man to wake up even after death.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4635","Crime and Punishment","http://d12h0em1d7ppg.cloudfront.net/items/46/4635/image_en/6c221b8f-90b1-4cce-a039-9fe0ac409e80.jpg","AO3-018","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","fzwrAym","Alice Origin 3rd Booster Pack","","Even if blood is washed from the hands, sins will not be washed away.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4636","Gatekeeper of Vell-Savaria","http://d12h0em1d7ppg.cloudfront.net/items/46/4636/image_en/f58855fa-f0fb-4bb3-abf3-80cc94a2579a.jpg","AO3-019","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 700","Resonator","Angel","Nakaba Higurashi","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4635","Crime and Punishment","http://d12h0em1d7ppg.cloudfront.net/items/46/4635/image_en/6c221b8f-90b1-4cce-a039-9fe0ac409e80.jpg","AO3-018","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","fzwrAym","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+This card deals X damage to target J/resonator, where X is the damage it dealt this turn.","Even if blood is washed from the hands, sins will not be washed away.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4636","Gatekeeper of Vell-Savaria","http://d12h0em1d7ppg.cloudfront.net/items/46/4636/image_en/f58855fa-f0fb-4bb3-abf3-80cc94a2579a.jpg","AO3-019","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 700","Resonator","Angel","Nakaba Higurashi","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Continuous
+You may treat light and fire resonators in your hand as Goddesses.
+Continuous
+This card gains [+100/0] for each card in your removed area.
+Automatic
 [Enter] ⇒ You may remove any number of cards in your hand from the game and draw that many cards.","""Hmm, you must be... a bad guy! By the orders of Lord Magna and Lenneth, you shall not pass!""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4637","Red Illusionary Dragon of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4637/image_en/adabe921-1dfc-4754-8e9a-f262a046687b.jpg","AO3-020","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4637","Red Illusionary Dragon of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4637/image_en/adabe921-1dfc-4754-8e9a-f262a046687b.jpg","AO3-020","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Card Text
+[Flying] [Swiftness]
+Continuous
+If you have [Passion], you may pay [2] less to play this card.
+Activate
 [1]: If you have [Passion], this card deals 400 damage to target resonator and this card gains [+400/0] until end of turn. Invert your ruler.","""Adelbert told me to observe this world, but there is nothing interesting here."" ーReflect","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4637","Red Illusionary Dragon of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4637/image_en/adabe921-1dfc-4754-8e9a-f262a046687b.jpg","AO3-020","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4637","Red Illusionary Dragon of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4637/image_en/adabe921-1dfc-4754-8e9a-f262a046687b.jpg","AO3-020","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Card Text
+[Flying] [Swiftness]
+Continuous
+If you have [Passion], you may pay [2] less to play this card.
+Activate
 [1]: If you have [Passion], this card deals 400 damage to target resonator and this card gains [+400/0] until end of turn. Invert your ruler.","""Adelbert told me to observe this world, but there is nothing interesting here."" ーReflect","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4637","Red Illusionary Dragon of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4637/image_en/adabe921-1dfc-4754-8e9a-f262a046687b.jpg","AO3-020","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4637","Red Illusionary Dragon of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4637/image_en/adabe921-1dfc-4754-8e9a-f262a046687b.jpg","AO3-020","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Card Text
+[Flying] [Swiftness]
+Continuous
+If you have [Passion], you may pay [2] less to play this card.
+Activate
 [1]: If you have [Passion], this card deals 400 damage to target resonator and this card gains [+400/0] until end of turn. Invert your ruler.","""Adelbert told me to observe this world, but there is nothing interesting here."" ーReflect","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4638","Red Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4638/image_en/03828a4a-8b19-4e46-9554-1a2a5cd0688f.jpg","AO3-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4638","Red Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4638/image_en/03828a4a-8b19-4e46-9554-1a2a5cd0688f.jpg","AO3-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness]
+Continuous
+If you have [Passion], you may pay [1] less to play this card.
+Continuous
+If you control ""Blue Illusionary Hero"", you may pay [R] less to play this card.
+Automatic
 [Enter] ⇒ If you have [Passion], target resonator gains [First Strike] and [+400/0] until end of turn. Invert your ruler.","The red hero is a blade of passion.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4638","Red Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4638/image_en/03828a4a-8b19-4e46-9554-1a2a5cd0688f.jpg","AO3-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4638","Red Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4638/image_en/03828a4a-8b19-4e46-9554-1a2a5cd0688f.jpg","AO3-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness]
+Continuous
+If you have [Passion], you may pay [1] less to play this card.
+Continuous
+If you control ""Blue Illusionary Hero"", you may pay [R] less to play this card.
+Automatic
 [Enter] ⇒ If you have [Passion], target resonator gains [First Strike] and [+400/0] until end of turn. Invert your ruler.","The red hero is a blade of passion.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4638","Red Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4638/image_en/03828a4a-8b19-4e46-9554-1a2a5cd0688f.jpg","AO3-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4638","Red Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4638/image_en/03828a4a-8b19-4e46-9554-1a2a5cd0688f.jpg","AO3-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness]
+Continuous
+If you have [Passion], you may pay [1] less to play this card.
+Continuous
+If you control ""Blue Illusionary Hero"", you may pay [R] less to play this card.
+Automatic
 [Enter] ⇒ If you have [Passion], target resonator gains [First Strike] and [+400/0] until end of turn. Invert your ruler.","The red hero is a blade of passion.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4639","Reflect's Summoning","http://d12h0em1d7ppg.cloudfront.net/items/46/4639/image_en/48c3eba0-ca86-48cd-afb0-ec75bab7e4c1.jpg","AO3-022","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Misa Tsutsui","Alice Origin 3rd Booster Pack","","The beast of passion engulfs the opponent in a spiral of frenzy.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4639","Reflect's Summoning","http://d12h0em1d7ppg.cloudfront.net/items/46/4639/image_en/48c3eba0-ca86-48cd-afb0-ec75bab7e4c1.jpg","AO3-022","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Misa Tsutsui","Alice Origin 3rd Booster Pack","","The beast of passion engulfs the opponent in a spiral of frenzy.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4640","Shuren, the King of Supremacy (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4640/image_en/47dff740-08c6-4883-82c2-1795d743b32b.jpg","AO3-023","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator (Stranger)","Warrior","Zton","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4639","Reflect's Summoning","http://d12h0em1d7ppg.cloudfront.net/items/46/4639/image_en/48c3eba0-ca86-48cd-afb0-ec75bab7e4c1.jpg","AO3-022","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Misa Tsutsui","Alice Origin 3rd Booster Pack","Card Text
+If you have [Passion], you may pay [R] less to play this card.
+Put a [800/400] fire Beast resonator token with ""[Enter] ⇒ This card deals damage equal to its ATK to target resonator. Then, if you have [Passion], invert your ruler."" into the field.","The beast of passion engulfs the opponent in a spiral of frenzy.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4639","Reflect's Summoning","http://d12h0em1d7ppg.cloudfront.net/items/46/4639/image_en/48c3eba0-ca86-48cd-afb0-ec75bab7e4c1.jpg","AO3-022","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Misa Tsutsui","Alice Origin 3rd Booster Pack","Card Text
+If you have [Passion], you may pay [R] less to play this card.
+Put a [800/400] fire Beast resonator token with ""[Enter] ⇒ This card deals damage equal to its ATK to target resonator. Then, if you have [Passion], invert your ruler."" into the field.","The beast of passion engulfs the opponent in a spiral of frenzy.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4640","Shuren, the King of Supremacy (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4640/image_en/47dff740-08c6-4883-82c2-1795d743b32b.jpg","AO3-023","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator (Stranger)","Warrior","Zton","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness]
+Continuous
 If your opponent was dealt damage this turn, you may pay [R][R] less to play this card.","""Does Supremacy mean brave?"" ""No, it means timid."" ""Really?"" ""Really."" ーReflect and Refrain","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4640","Shuren, the King of Supremacy (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4640/image_en/47dff740-08c6-4883-82c2-1795d743b32b.jpg","AO3-023","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator (Stranger)","Warrior","Zton","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4640","Shuren, the King of Supremacy (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4640/image_en/47dff740-08c6-4883-82c2-1795d743b32b.jpg","AO3-023","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator (Stranger)","Warrior","Zton","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness]
+Continuous
 If your opponent was dealt damage this turn, you may pay [R][R] less to play this card.","""Does Supremacy mean brave?"" ""No, it means timid."" ""Really?"" ""Really."" ーReflect and Refrain","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4640","Shuren, the King of Supremacy (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4640/image_en/47dff740-08c6-4883-82c2-1795d743b32b.jpg","AO3-023","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator (Stranger)","Warrior","Zton","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4640","Shuren, the King of Supremacy (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4640/image_en/47dff740-08c6-4883-82c2-1795d743b32b.jpg","AO3-023","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator (Stranger)","Warrior","Zton","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness]
+Continuous
 If your opponent was dealt damage this turn, you may pay [R][R] less to play this card.","""Does Supremacy mean brave?"" ""No, it means timid."" ""Really?"" ""Really."" ーReflect and Refrain","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4641","Snow White, the Valkyrie of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4641/image_en/fb5c0d4b-80f2-4c78-8fa9-4422172057a8.jpg","AO3-024","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 700","Resonator","Fairy Tale","Foo Midori","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4641","Snow White, the Valkyrie of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4641/image_en/fb5c0d4b-80f2-4c78-8fa9-4422172057a8.jpg","AO3-024","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 700","Resonator","Fairy Tale","Foo Midori","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [First Strike]
+Automatic
+Whenever this card attacks ⇒ Put a passion counter on it.
+Automatic
 Whenever this card attacks ⇒ It may deal 300 damage to target resonator for each passion counter on it. If it does, remove all passion counters from it.","""I'll burn my heart a bright red, like a ripe apple. Hey, do you dwarves too think like me? Perfect! They should have left it here.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4641","Snow White, the Valkyrie of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4641/image_en/fb5c0d4b-80f2-4c78-8fa9-4422172057a8.jpg","AO3-024","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 700","Resonator","Fairy Tale","Foo Midori","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4641","Snow White, the Valkyrie of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4641/image_en/fb5c0d4b-80f2-4c78-8fa9-4422172057a8.jpg","AO3-024","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 700","Resonator","Fairy Tale","Foo Midori","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [First Strike]
+Automatic
+Whenever this card attacks ⇒ Put a passion counter on it.
+Automatic
 Whenever this card attacks ⇒ It may deal 300 damage to target resonator for each passion counter on it. If it does, remove all passion counters from it.","""I'll burn my heart a bright red, like a ripe apple. Hey, do you dwarves too think like me? Perfect! They should have left it here.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4641","Snow White, the Valkyrie of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4641/image_en/fb5c0d4b-80f2-4c78-8fa9-4422172057a8.jpg","AO3-024","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 700","Resonator","Fairy Tale","Foo Midori","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4641","Snow White, the Valkyrie of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4641/image_en/fb5c0d4b-80f2-4c78-8fa9-4422172057a8.jpg","AO3-024","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 700","Resonator","Fairy Tale","Foo Midori","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [First Strike]
+Automatic
+Whenever this card attacks ⇒ Put a passion counter on it.
+Automatic
 Whenever this card attacks ⇒ It may deal 300 damage to target resonator for each passion counter on it. If it does, remove all passion counters from it.","""I'll burn my heart a bright red, like a ripe apple. Hey, do you dwarves too think like me? Perfect! They should have left it here.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4642","Spirit of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4642/image_en/6e5151b7-00cf-4a33-933a-861f677b7a4e.jpg","AO3-025","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 400","Resonator","Spirit","ShiroYayoi","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4642","Spirit of Passion","http://d12h0em1d7ppg.cloudfront.net/items/46/4642/image_en/6e5151b7-00cf-4a33-933a-861f677b7a4e.jpg","AO3-025","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 400","Resonator","Spirit","ShiroYayoi","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness]
+Automatic
+[Enter] ⇒ If you have [Passion], put two [+100/+100] counters on this card. Invert your ruler.
+Activate
 Remove two [+100/+100] counters from this card: This card deals 600 damage to target J/resonator.","The interest of Reflect becomes passion and travels Attoractia.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4643","Ushuah, the Flame Samurai Swordman (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4643/image_en/43434c29-1ccc-4236-8bac-638cf14ece87.jpg","AO3-026","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 1700","Resonator (Stranger)","Warrior","Foo Midori","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4643","Ushuah, the Flame Samurai Swordman (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4643/image_en/43434c29-1ccc-4236-8bac-638cf14ece87.jpg","AO3-026","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 1700","Resonator (Stranger)","Warrior","Foo Midori","Alice Origin 3rd Booster Pack","Card Text
+Automatic
 [Enter] ⇒ This card deals 1700 damage to target resonator. If this card would deal more damage to that resonator than its capacity this way, it deals the rest to that resonator's controller.","A sharp sword penetrates everything.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4643","Ushuah, the Flame Samurai Swordman (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4643/image_en/43434c29-1ccc-4236-8bac-638cf14ece87.jpg","AO3-026","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 1700","Resonator (Stranger)","Warrior","Foo Midori","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4643","Ushuah, the Flame Samurai Swordman (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4643/image_en/43434c29-1ccc-4236-8bac-638cf14ece87.jpg","AO3-026","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 1700","Resonator (Stranger)","Warrior","Foo Midori","Alice Origin 3rd Booster Pack","Card Text
+Automatic
 [Enter] ⇒ This card deals 1700 damage to target resonator. If this card would deal more damage to that resonator than its capacity this way, it deals the rest to that resonator's controller.","A sharp sword penetrates everything.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4643","Ushuah, the Flame Samurai Swordman (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4643/image_en/43434c29-1ccc-4236-8bac-638cf14ece87.jpg","AO3-026","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 1700","Resonator (Stranger)","Warrior","Foo Midori","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4643","Ushuah, the Flame Samurai Swordman (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4643/image_en/43434c29-1ccc-4236-8bac-638cf14ece87.jpg","AO3-026","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 1700","Resonator (Stranger)","Warrior","Foo Midori","Alice Origin 3rd Booster Pack","Card Text
+Automatic
 [Enter] ⇒ This card deals 1700 damage to target resonator. If this card would deal more damage to that resonator than its capacity this way, it deals the rest to that resonator's controller.","A sharp sword penetrates everything.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4643","Ushuah, the Flame Samurai Swordman (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4643/image_en/43434c29-1ccc-4236-8bac-638cf14ece87.jpg","AO3-026","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","1700 / 1700","Resonator (Stranger)","Warrior","Foo Midori","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4643","Ushuah, the Flame Samurai Swordman (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4643/image_en/43434c29-1ccc-4236-8bac-638cf14ece87.jpg","AO3-026","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","1700 / 1700","Resonator (Stranger)","Warrior","Foo Midori","Alice Origin 3rd Booster Pack","Card Text
+Automatic
 [Enter] ⇒ This card deals 1700 damage to target resonator. If this card would deal more damage to that resonator than its capacity this way, it deals the rest to that resonator's controller.","A sharp sword penetrates everything.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4644","Alice's Castling","http://d12h0em1d7ppg.cloudfront.net/items/46/4644/image_en/8d54af24-bf46-418e-9ad4-7a72ba0be57e.jpg","AO3-027","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","Yuji Azuma","Alice Origin 3rd Booster Pack","","""It's not trick, it's not illusion!"" -Alice, the Girl in the Looking Glass","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4645","Antorite, the Guardian of Deep Blue (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4645/image_en/69f4054b-694c-45e0-948f-3b3a08556c4d.jpg","AO3-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1100 / 1100","Resonator (Stranger)","Mermaid","kurisu","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4644","Alice's Castling","http://d12h0em1d7ppg.cloudfront.net/items/46/4644/image_en/8d54af24-bf46-418e-9ad4-7a72ba0be57e.jpg","AO3-027","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","Yuji Azuma","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Put target resonator you control on the bottom of its owner's deck. If you do, you may put a resonator with the same total cost from your hand into your field. Draw a card.","""It's not trick, it's not illusion!"" -Alice, the Girl in the Looking Glass","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4645","Antorite, the Guardian of Deep Blue (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4645/image_en/69f4054b-694c-45e0-948f-3b3a08556c4d.jpg","AO3-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1100 / 1100","Resonator (Stranger)","Mermaid","kurisu","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Continuous
+You may banish two water magic stones rather than pay this card's cost.
+Automatic
 [Enter] ⇒ Rest all J/resonators your opponent controls.","Where am I? Who... am I?","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4645","Antorite, the Guardian of Deep Blue (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4645/image_en/69f4054b-694c-45e0-948f-3b3a08556c4d.jpg","AO3-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1100 / 1100","Resonator (Stranger)","Mermaid","kurisu","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4645","Antorite, the Guardian of Deep Blue (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4645/image_en/69f4054b-694c-45e0-948f-3b3a08556c4d.jpg","AO3-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1100 / 1100","Resonator (Stranger)","Mermaid","kurisu","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Continuous
+You may banish two water magic stones rather than pay this card's cost.
+Automatic
 [Enter] ⇒ Rest all J/resonators your opponent controls.","Where am I? Who... am I?","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4645","Antorite, the Guardian of Deep Blue (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4645/image_en/69f4054b-694c-45e0-948f-3b3a08556c4d.jpg","AO3-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1100 / 1100","Resonator (Stranger)","Mermaid","kurisu","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4645","Antorite, the Guardian of Deep Blue (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4645/image_en/69f4054b-694c-45e0-948f-3b3a08556c4d.jpg","AO3-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1100 / 1100","Resonator (Stranger)","Mermaid","kurisu","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Continuous
+You may banish two water magic stones rather than pay this card's cost.
+Automatic
 [Enter] ⇒ Rest all J/resonators your opponent controls.","Where am I? Who... am I?","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4645","Antorite, the Guardian of Deep Blue (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4645/image_en/69f4054b-694c-45e0-948f-3b3a08556c4d.jpg","AO3-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","1100 / 1100","Resonator (Stranger)","Mermaid","kurisu","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4645","Antorite, the Guardian of Deep Blue (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4645/image_en/69f4054b-694c-45e0-948f-3b3a08556c4d.jpg","AO3-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","1100 / 1100","Resonator (Stranger)","Mermaid","kurisu","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Continuous
+You may banish two water magic stones rather than pay this card's cost.
+Automatic
 [Enter] ⇒ Rest all J/resonators your opponent controls.","Where am I? Who... am I?","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4646","Blue Illusionary Dragon of Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4646/image_en/25818b80-cd05-4072-a48c-b5419f5be5fa.jpg","AO3-029","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4646","Blue Illusionary Dragon of Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4646/image_en/25818b80-cd05-4072-a48c-b5419f5be5fa.jpg","AO3-029","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Flying]
+Continuous
+If you have [Calmness], you may pay [2] less to play this card.
+Automatic
 [1]: If you have [Calmness], rest target entity and this card gains [0/+400] until end of turn. Invert your ruler.","""Adelbert told me to observe this world, and there is definitely something interesting here."" ーRefrain","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4646","Blue Illusionary Dragon of Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4646/image_en/25818b80-cd05-4072-a48c-b5419f5be5fa.jpg","AO3-029","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4646","Blue Illusionary Dragon of Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4646/image_en/25818b80-cd05-4072-a48c-b5419f5be5fa.jpg","AO3-029","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Flying]
+Continuous
+If you have [Calmness], you may pay [2] less to play this card.
+Automatic
 [1]: If you have [Calmness], rest target entity and this card gains [0/+400] until end of turn. Invert your ruler.","""Adelbert told me to observe this world, and there is definitely something interesting here."" ーRefrain","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4646","Blue Illusionary Dragon of Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4646/image_en/25818b80-cd05-4072-a48c-b5419f5be5fa.jpg","AO3-029","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4646","Blue Illusionary Dragon of Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4646/image_en/25818b80-cd05-4072-a48c-b5419f5be5fa.jpg","AO3-029","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1000 / 1000","Resonator","Dragon","jugemt","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Flying]
+Continuous
+If you have [Calmness], you may pay [2] less to play this card.
+Automatic
 [1]: If you have [Calmness], rest target entity and this card gains [0/+400] until end of turn. Invert your ruler.","""Adelbert told me to observe this world, and there is definitely something interesting here."" ーRefrain","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4647","Blue Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4647/image_en/723e803e-85ee-4763-a382-51458d2c135d.jpg","AO3-030","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4647","Blue Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4647/image_en/723e803e-85ee-4763-a382-51458d2c135d.jpg","AO3-030","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Continuous
+If you have [Calmness], you may pay [1] less to play this card.
+Continuous
+If you control ""Red Illusionary Hero"", you may pay [B] less to play this card.
+Automatic
 [Enter] ⇒ If you have [Calmness], target resonator gains [Barrier] and [0/+400] until end of turn. Invert your ruler.","The blue hero is the wisdom of calmness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4647","Blue Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4647/image_en/723e803e-85ee-4763-a382-51458d2c135d.jpg","AO3-030","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4647","Blue Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4647/image_en/723e803e-85ee-4763-a382-51458d2c135d.jpg","AO3-030","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Continuous
+If you have [Calmness], you may pay [1] less to play this card.
+Continuous
+If you control ""Red Illusionary Hero"", you may pay [B] less to play this card.
+Automatic
 [Enter] ⇒ If you have [Calmness], target resonator gains [Barrier] and [0/+400] until end of turn. Invert your ruler.","The blue hero is the wisdom of calmness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4647","Blue Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4647/image_en/723e803e-85ee-4763-a382-51458d2c135d.jpg","AO3-030","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4647","Blue Illusionary Hero","http://d12h0em1d7ppg.cloudfront.net/items/46/4647/image_en/723e803e-85ee-4763-a382-51458d2c135d.jpg","AO3-030","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Illusion","Rumie","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Continuous
+If you have [Calmness], you may pay [1] less to play this card.
+Continuous
+If you control ""Red Illusionary Hero"", you may pay [B] less to play this card.
+Automatic
 [Enter] ⇒ If you have [Calmness], target resonator gains [Barrier] and [0/+400] until end of turn. Invert your ruler.","The blue hero is the wisdom of calmness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4648","Refrain's Summoning","http://d12h0em1d7ppg.cloudfront.net/items/46/4648/image_en/4ab49cf5-16d4-43d2-b49c-3400e7cb0854.jpg","AO3-031","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Misa Tsutsui","Alice Origin 3rd Booster Pack","","The beast of calmness invites you into a whirlpool of thoughts.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4648","Refrain's Summoning","http://d12h0em1d7ppg.cloudfront.net/items/46/4648/image_en/4ab49cf5-16d4-43d2-b49c-3400e7cb0854.jpg","AO3-031","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Misa Tsutsui","Alice Origin 3rd Booster Pack","","The beast of calmness invites you into a whirlpool of thoughts.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4649","Riina, the Girl with Nothing","http://d12h0em1d7ppg.cloudfront.net/items/46/4649/image_en/6f844b03-cbd4-47e9-981d-7f4e5335e8d6.jpg","AO3-032","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","400 / 400","Resonator","Human","yuko","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4648","Refrain's Summoning","http://d12h0em1d7ppg.cloudfront.net/items/46/4648/image_en/4ab49cf5-16d4-43d2-b49c-3400e7cb0854.jpg","AO3-031","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Misa Tsutsui","Alice Origin 3rd Booster Pack","Card Text
+If you have [Calmness], you may pay [B] less to play this card.
+Put a [400/800] water Beast resonator token with ""[Enter] ⇒ Draw three cards and put two cards from your hand on top of your deck in any order. Then, if you have [Calmness], invert your ruler."" into the field.","The beast of calmness invites you into a whirlpool of thoughts.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4648","Refrain's Summoning","http://d12h0em1d7ppg.cloudfront.net/items/46/4648/image_en/4ab49cf5-16d4-43d2-b49c-3400e7cb0854.jpg","AO3-031","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Misa Tsutsui","Alice Origin 3rd Booster Pack","Card Text
+If you have [Calmness], you may pay [B] less to play this card.
+Put a [400/800] water Beast resonator token with ""[Enter] ⇒ Draw three cards and put two cards from your hand on top of your deck in any order. Then, if you have [Calmness], invert your ruler."" into the field.","The beast of calmness invites you into a whirlpool of thoughts.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4649","Riina, the Girl with Nothing","http://d12h0em1d7ppg.cloudfront.net/items/46/4649/image_en/6f844b03-cbd4-47e9-981d-7f4e5335e8d6.jpg","AO3-032","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","400 / 400","Resonator","Human","yuko","Alice Origin 3rd Booster Pack","Card Text
+Activate
 [0]: Target resonator you control loses all abilities until end of turn.","Even though she lost all she had, she would never lose her kindness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4649","Riina, the Girl with Nothing","http://d12h0em1d7ppg.cloudfront.net/items/46/4649/image_en/6f844b03-cbd4-47e9-981d-7f4e5335e8d6.jpg","AO3-032","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Human","yuko","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4649","Riina, the Girl with Nothing","http://d12h0em1d7ppg.cloudfront.net/items/46/4649/image_en/6f844b03-cbd4-47e9-981d-7f4e5335e8d6.jpg","AO3-032","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Human","yuko","Alice Origin 3rd Booster Pack","Card Text
+Activate
 [0]: Target resonator you control loses all abilities until end of turn.","Even though she lost all she had, she would never lose her kindness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4650","Spirit of Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4650/image_en/f1ad0967-f5ca-4a9d-9f19-b87e8ea510f9.jpg","AO3-033","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","400 / 400","Resonator","Spirit","ShiroYayoi","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4650","Spirit of Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4650/image_en/f1ad0967-f5ca-4a9d-9f19-b87e8ea510f9.jpg","AO3-033","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","400 / 400","Resonator","Spirit","ShiroYayoi","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Automatic
+[Enter] ⇒ If you have [Calmness], put two [+100/+100] counters on this card. Invert your ruler.
+Activate
 Remove two [+100/+100] counters from this card: Draw a card.","The interest of Refrain becomes calmness and analyzes Attoractia.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4651","Wall of Ideas","http://d12h0em1d7ppg.cloudfront.net/items/46/4651/image_en/6297dfca-c6ac-4682-aad4-365a25accf86.jpg","AO3-034","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","Tom","Alice Origin 3rd Booster Pack","","""Should we soften them up?"" ""No, we have to make them tougher."" ""Really?"" ""Really.""—Reflect, Child of Potential and Refrain, Child of Convergence","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4652","Faurecia's Journey","http://d12h0em1d7ppg.cloudfront.net/items/46/4652/image_en/3348fd36-8f8b-4ad8-952c-64547641f42b.jpg","AO3-035","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","uekino aroe","Alice Origin 3rd Booster Pack","","Faurecia begins her journey back to being human again.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4653","Frigg, the Goddess of Abundance (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4653/image_en/562efff1-61e6-4f35-a1ea-21e90eb2eabe.jpg","AO3-036","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator (Stranger)","Goddess","MOGUMO","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4651","Wall of Ideas","http://d12h0em1d7ppg.cloudfront.net/items/46/4651/image_en/6297dfca-c6ac-4682-aad4-365a25accf86.jpg","AO3-034","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","Tom","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Target resonator gains [-800/0] or [0/+800] until end of turn.","""Should we soften them up?"" ""No, we have to make them tougher."" ""Really?"" ""Really.""—Reflect, Child of Potential and Refrain, Child of Convergence","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4652","Faurecia's Journey","http://d12h0em1d7ppg.cloudfront.net/items/46/4652/image_en/3348fd36-8f8b-4ad8-952c-64547641f42b.jpg","AO3-035","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","uekino aroe","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Choose one - Target any number of chant spells. For each spell, its controller may pay [1]. If they don't, cancel it; or put up to one target card from your graveyard on the bottom of your deck. Draw a card.","Faurecia begins her journey back to being human again.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4653","Frigg, the Goddess of Abundance (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4653/image_en/562efff1-61e6-4f35-a1ea-21e90eb2eabe.jpg","AO3-036","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator (Stranger)","Goddess","MOGUMO","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Automatic abilities of Goddess resonators you control trigger an additional time. ([Enter] is an automatic ability.)
+Automatic
 [Enter] ⇒ Recover a magic stone you control.","""Although I am uncertain about the goal of these vampires, I suspect they are trying to meet with that other invading force. This could be a dangerous threat in the future."" ーNote of Magna 25","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4653","Frigg, the Goddess of Abundance (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4653/image_en/562efff1-61e6-4f35-a1ea-21e90eb2eabe.jpg","AO3-036","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator (Stranger)","Goddess","MOGUMO","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4653","Frigg, the Goddess of Abundance (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4653/image_en/562efff1-61e6-4f35-a1ea-21e90eb2eabe.jpg","AO3-036","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator (Stranger)","Goddess","MOGUMO","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Automatic abilities of Goddess resonators you control trigger an additional time. ([Enter] is an automatic ability.)
+Automatic
 [Enter] ⇒ Recover a magic stone you control.","""Although I am uncertain about the goal of these vampires, I suspect they are trying to meet with that other invading force. This could be a dangerous threat in the future."" ーNote of Magna 25","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4653","Frigg, the Goddess of Abundance (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4653/image_en/562efff1-61e6-4f35-a1ea-21e90eb2eabe.jpg","AO3-036","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","1000 / 1000","Resonator (Stranger)","Goddess","MOGUMO","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4653","Frigg, the Goddess of Abundance (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4653/image_en/562efff1-61e6-4f35-a1ea-21e90eb2eabe.jpg","AO3-036","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","1000 / 1000","Resonator (Stranger)","Goddess","MOGUMO","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Automatic abilities of Goddess resonators you control trigger an additional time. ([Enter] is an automatic ability.)
+Automatic
 [Enter] ⇒ Recover a magic stone you control.","""Although I am uncertain about the goal of these vampires, I suspect they are trying to meet with that other invading force. This could be a dangerous threat in the future."" ーNote of Magna 25","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4654","Morgiana, the Wise Servant","http://d12h0em1d7ppg.cloudfront.net/items/46/4654/image_en/df2d6e7c-bc1c-4b50-8bb8-91c6e7f3c208.jpg","AO3-037","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","300 / 300","Resonator","Story/Human","j-peg","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4654","Morgiana, the Wise Servant","http://d12h0em1d7ppg.cloudfront.net/items/46/4654/image_en/df2d6e7c-bc1c-4b50-8bb8-91c6e7f3c208.jpg","AO3-037","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","300 / 300","Resonator","Story/Human","j-peg","Alice Origin 3rd Booster Pack","Card Text
+Continuous
 If you would draw a card in a phase other than draw phase, you may look at the top three cards of your deck, put one of them into your hand and the rest on the bottom of your deck in any order instead.","""Bettering that which is before you is as important as changing the world.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4655","Perceval, the Flying Knight","http://d12h0em1d7ppg.cloudfront.net/items/46/4655/image_en/961f4245-b49d-4b01-a0b1-bd88e9a93fb3.jpg","AO3-038","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","200 / 200","Resonator","Knight of the Round Table","suranaki","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4655","Perceval, the Flying Knight","http://d12h0em1d7ppg.cloudfront.net/items/46/4655/image_en/961f4245-b49d-4b01-a0b1-bd88e9a93fb3.jpg","AO3-038","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","200 / 200","Resonator","Knight of the Round Table","suranaki","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Automatic
+[Enter] ⇒ Reveal the top five cards of your deck. Put a resonator with [Flying] or a regalia from among them into your hand and the rest on the bottom of your deck in any order.
+Activate
 Banish this card: Put two [+100/+100] counters on target resonator with [Flying].","The green Holy Grail responds to the wings of the wind.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4656","Arthur, the Dead Lord of Vengeance","http://d12h0em1d7ppg.cloudfront.net/items/46/4656/image_en/9e728897-c60a-4821-8c2a-c82a9072a10f.jpg","AO3-039","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Zombie","lack","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4656","Arthur, the Dead Lord of Vengeance","http://d12h0em1d7ppg.cloudfront.net/items/46/4656/image_en/9e728897-c60a-4821-8c2a-c82a9072a10f.jpg","AO3-039","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Zombie","lack","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Other darkness resonators gain [+200/+200].
+Continuous
+Non-darkness resonators gain [-200/-200].
+Activate
 Remove three resonators in your graveyard from the game: Put this card from your graveyard into your hand.","""His mind has been emptied completely, I am confident that from now on he will not betray me!"" -Rezzard, the Undead Lord","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4656","Arthur, the Dead Lord of Vengeance","http://d12h0em1d7ppg.cloudfront.net/items/46/4656/image_en/9e728897-c60a-4821-8c2a-c82a9072a10f.jpg","AO3-039","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Zombie","lack","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4656","Arthur, the Dead Lord of Vengeance","http://d12h0em1d7ppg.cloudfront.net/items/46/4656/image_en/9e728897-c60a-4821-8c2a-c82a9072a10f.jpg","AO3-039","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Zombie","lack","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Other darkness resonators gain [+200/+200].
+Continuous
+Non-darkness resonators gain [-200/-200].
+Activate
 Remove three resonators in your graveyard from the game: Put this card from your graveyard into your hand.","""His mind has been emptied completely, I am confident that from now on he will not betray me!"" -Rezzard, the Undead Lord","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4656","Arthur, the Dead Lord of Vengeance","http://d12h0em1d7ppg.cloudfront.net/items/46/4656/image_en/9e728897-c60a-4821-8c2a-c82a9072a10f.jpg","AO3-039","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1000 / 1000","Resonator","Zombie","lack","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4656","Arthur, the Dead Lord of Vengeance","http://d12h0em1d7ppg.cloudfront.net/items/46/4656/image_en/9e728897-c60a-4821-8c2a-c82a9072a10f.jpg","AO3-039","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1000 / 1000","Resonator","Zombie","lack","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Other darkness resonators gain [+200/+200].
+Continuous
+Non-darkness resonators gain [-200/-200].
+Activate
 Remove three resonators in your graveyard from the game: Put this card from your graveyard into your hand.","""His mind has been emptied completely, I am confident that from now on he will not betray me!"" -Rezzard, the Undead Lord","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4657","Black Wizard (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4657/image_en/acbe1718-13c6-4ceb-a221-7875eb2f2cce.jpg","AO3-040","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator (Stranger)","Wizard","Moopic","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4657","Black Wizard (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4657/image_en/acbe1718-13c6-4ceb-a221-7875eb2f2cce.jpg","AO3-040","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator (Stranger)","Wizard","Moopic","Alice Origin 3rd Booster Pack","Card Text
+[Bane]
+Activate
 [0]: Produce [D]. Play this ability only during your turn, only once per turn and only if this card is in your graveyard.","""The power of those vampires is a negative force that sucks the life out of blood and spreads undead immortality. The Black City has fallen, and then rose again overnight as Niflheim, the realm of the Dead."" ーNote of Magna 23","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4658","Blood of the Mikage","http://d12h0em1d7ppg.cloudfront.net/items/46/4658/image_en/f7e46ea8-74ec-4289-84ca-57e4572e77e6.jpg","AO3-041","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","","SIE NANAHARA","Alice Origin 3rd Booster Pack","","""I'll give you some of my blood. You should feel the effects immediately. "" -Shara, Third Daughter of the Mikage","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4659","Fallen Angelic Destroyer, Lucifer","http://d12h0em1d7ppg.cloudfront.net/items/46/4659/image_en/605cc7a6-c783-4343-8262-2f291cc1617f.jpg","AO3-042","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","900 / 900","Resonator","Angel/Demon","Mad","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4658","Blood of the Mikage","http://d12h0em1d7ppg.cloudfront.net/items/46/4658/image_en/f7e46ea8-74ec-4289-84ca-57e4572e77e6.jpg","AO3-041","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","","SIE NANAHARA","Alice Origin 3rd Booster Pack","Card Text
+Target J/resonator you control gains [+800/+800] and [Precision] until end of turn. At the next end of turn, destroy it. (Cards you control with [Precision] can attack recovered J/resonators.)","""I'll give you some of my blood. You should feel the effects immediately. "" -Shara, Third Daughter of the Mikage","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4659","Fallen Angelic Destroyer, Lucifer","http://d12h0em1d7ppg.cloudfront.net/items/46/4659/image_en/605cc7a6-c783-4343-8262-2f291cc1617f.jpg","AO3-042","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","900 / 900","Resonator","Angel/Demon","Mad","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Automatic
+When this card enters your field ⇒ Your opponent banishes a resonator.
+Activate
 [B][M]: Whenever this card deals damage this turn ⇒ You gain that much life. Play this ability only once per turn.","""Follow me, and I shall be your angel. Oppose me, and I shall be your demon.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4659","Fallen Angelic Destroyer, Lucifer","http://d12h0em1d7ppg.cloudfront.net/items/46/4659/image_en/605cc7a6-c783-4343-8262-2f291cc1617f.jpg","AO3-042","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","900 / 900","Resonator","Angel/Demon","Mad","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4659","Fallen Angelic Destroyer, Lucifer","http://d12h0em1d7ppg.cloudfront.net/items/46/4659/image_en/605cc7a6-c783-4343-8262-2f291cc1617f.jpg","AO3-042","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","900 / 900","Resonator","Angel/Demon","Mad","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Automatic
+When this card enters your field ⇒ Your opponent banishes a resonator.
+Activate
 [B][M]: Whenever this card deals damage this turn ⇒ You gain that much life. Play this ability only once per turn.","""Follow me, and I shall be your angel. Oppose me, and I shall be your demon.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4659","Fallen Angelic Destroyer, Lucifer","http://d12h0em1d7ppg.cloudfront.net/items/46/4659/image_en/605cc7a6-c783-4343-8262-2f291cc1617f.jpg","AO3-042","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","900 / 900","Resonator","Angel/Demon","Mad","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4659","Fallen Angelic Destroyer, Lucifer","http://d12h0em1d7ppg.cloudfront.net/items/46/4659/image_en/605cc7a6-c783-4343-8262-2f291cc1617f.jpg","AO3-042","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","900 / 900","Resonator","Angel/Demon","Mad","Alice Origin 3rd Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Automatic
+When this card enters your field ⇒ Your opponent banishes a resonator.
+Activate
 [B][M]: Whenever this card deals damage this turn ⇒ You gain that much life. Play this ability only once per turn.","""Follow me, and I shall be your angel. Oppose me, and I shall be your demon.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4660","Grave Robbers","http://d12h0em1d7ppg.cloudfront.net/items/46/4660/image_en/73d6f5e2-47fa-4abc-a783-388b34091187.jpg","AO3-043","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Zombie","Mad","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4660","Grave Robbers","http://d12h0em1d7ppg.cloudfront.net/items/46/4660/image_en/73d6f5e2-47fa-4abc-a783-388b34091187.jpg","AO3-043","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Zombie","Mad","Alice Origin 3rd Booster Pack","Card Text
+Activate
+[Rest], remove a resonator in your graveyard from the game: Put two [+100/+100] counters on this card.
+Activate
 Banish this card: Remove target card in a graveyard from the game.","They leave all tombs clean and empty.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4660","Grave Robbers","http://d12h0em1d7ppg.cloudfront.net/items/46/4660/image_en/73d6f5e2-47fa-4abc-a783-388b34091187.jpg","AO3-043","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Zombie","Mad","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4660","Grave Robbers","http://d12h0em1d7ppg.cloudfront.net/items/46/4660/image_en/73d6f5e2-47fa-4abc-a783-388b34091187.jpg","AO3-043","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Zombie","Mad","Alice Origin 3rd Booster Pack","Card Text
+Activate
+[Rest], remove a resonator in your graveyard from the game: Put two [+100/+100] counters on this card.
+Activate
 Banish this card: Remove target card in a graveyard from the game.","They leave all tombs clean and empty.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4661","Knight of Sigurd","http://d12h0em1d7ppg.cloudfront.net/items/46/4661/image_en/62a29880-b168-4215-adf9-e8915d9ce097.jpg","AO3-044","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Knight","Haruichi Kido","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4661","Knight of Sigurd","http://d12h0em1d7ppg.cloudfront.net/items/46/4661/image_en/62a29880-b168-4215-adf9-e8915d9ce097.jpg","AO3-044","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Knight","Haruichi Kido","Alice Origin 3rd Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Look at the top two cards of your deck. Put one from among them into your graveyard and the rest on top of your deck in any order.
+Automatic
 When this card is put into a graveyard from the field ⇒ Look at the top two cards of your deck. Put one from among them into your graveyard and the rest on top of your deck in any order.","The Black City was protected King Sigurd and his knights, until disaster struck.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4662","Laurier, the Twilight Witch (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4662/image_en/dfd767d1-5416-4525-bd55-d9be3705773c.jpg","AO3-045","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator (Stranger)","Witch","lack","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4662","Laurier, the Twilight Witch (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4662/image_en/dfd767d1-5416-4525-bd55-d9be3705773c.jpg","AO3-045","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator (Stranger)","Witch","lack","Alice Origin 3rd Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Remove target resonator from the game.
+Continuous
 This card gains [+X/+Y] and all abilities of the resonator removed by this card, where X is the ATK and Y is the DEF of that resonator.","""It seems like there was a change in the Black City. Those visitors brought the concept of vampirism into this world."" ーNote of Magna 22","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4662","Laurier, the Twilight Witch (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4662/image_en/dfd767d1-5416-4525-bd55-d9be3705773c.jpg","AO3-045","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator (Stranger)","Witch","lack","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4662","Laurier, the Twilight Witch (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4662/image_en/dfd767d1-5416-4525-bd55-d9be3705773c.jpg","AO3-045","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator (Stranger)","Witch","lack","Alice Origin 3rd Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Remove target resonator from the game.
+Continuous
 This card gains [+X/+Y] and all abilities of the resonator removed by this card, where X is the ATK and Y is the DEF of that resonator.","""It seems like there was a change in the Black City. Those visitors brought the concept of vampirism into this world."" ーNote of Magna 22","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4663","Mikage Reiya","http://d12h0em1d7ppg.cloudfront.net/items/46/4663/image_en/7c520565-9307-43d0-a8fe-21c60c2d6b66.jpg","AO3-046","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Vampire","yuko","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4663","Mikage Reiya","http://d12h0em1d7ppg.cloudfront.net/items/46/4663/image_en/7c520565-9307-43d0-a8fe-21c60c2d6b66.jpg","AO3-046","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Vampire","yuko","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Flying]
+Automatic
+[Enter] ⇒ Search your deck for a darkness card and put it into your graveyard. Then shuffle your deck.
+Continuous
+Vampires you control gain [Drain].
+Automatic
 Whenever this card is banished as an additional cost of a Mage Art or by an effect of a Mage Art ⇒ Put this card from your graveyard into your hand.","""Father, if you are finished with your business, can we have some fun?""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4664","Moan of the Dead","http://d12h0em1d7ppg.cloudfront.net/items/46/4664/image_en/aae9bdf4-0735-466f-84cb-d342568a467b.jpg","AO3-047","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","Takumi Sugikawa","Alice Origin 3rd Booster Pack","","The undead are always craving company.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4665","Necromancy of the Undead Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4665/image_en/8155ed55-1ee3-4c09-a3ae-36e4bfa34a17.jpg","AO3-048","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Addition: Resonator","","Moopic","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4664","Moan of the Dead","http://d12h0em1d7ppg.cloudfront.net/items/46/4664/image_en/aae9bdf4-0735-466f-84cb-d342568a467b.jpg","AO3-047","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","Takumi Sugikawa","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+You may banish a darkness resonator rather than pay this card's cost.
+Destroy target resonator if its total cost is less than the number of cards in your graveyard. Choose a card from your Stranger deck at random and put it into your graveyard.","The undead are always craving company.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4665","Necromancy of the Undead Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4665/image_en/8155ed55-1ee3-4c09-a3ae-36e4bfa34a17.jpg","AO3-048","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Addition: Resonator","","Moopic","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Added resonator gains Zombie in addition to its own races.
+Continuous
+Added resonator gains [+200/+200].
+Automatic
 Whenever a resonator enters your field ⇒ You may add this card from your graveyard to that resonator.","There isn't a better way to get new servants.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4666","Niflheim, the Realm of the Dead","http://d12h0em1d7ppg.cloudfront.net/items/46/4666/image_en/a342e8e0-59a6-4358-a9ea-889cf04cb32d.jpg","AO3-049","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Addition: Field","Grave","tokiwa","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4666","Niflheim, the Realm of the Dead","http://d12h0em1d7ppg.cloudfront.net/items/46/4666/image_en/a342e8e0-59a6-4358-a9ea-889cf04cb32d.jpg","AO3-049","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Addition: Field","Grave","tokiwa","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Zombies you control gain [+200/+200].
+Activate
 Banish this card: Put the top five cards of your deck into your graveyard.","""Come on, you joined the group already!"" -Rezzard, the Undead Lord","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4666","Niflheim, the Realm of the Dead","http://d12h0em1d7ppg.cloudfront.net/items/46/4666/image_en/a342e8e0-59a6-4358-a9ea-889cf04cb32d.jpg","AO3-049","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition: Field","Grave","tokiwa","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4666","Niflheim, the Realm of the Dead","http://d12h0em1d7ppg.cloudfront.net/items/46/4666/image_en/a342e8e0-59a6-4358-a9ea-889cf04cb32d.jpg","AO3-049","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition: Field","Grave","tokiwa","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Zombies you control gain [+200/+200].
+Activate
 Banish this card: Put the top five cards of your deck into your graveyard.","""Come on, you joined the group already!"" -Rezzard, the Undead Lord","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4667","Priestess of the Black City","http://d12h0em1d7ppg.cloudfront.net/items/46/4667/image_en/982888f7-b0cb-4155-a78f-90bd8f6e6e62.jpg","AO3-050","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 1000","Resonator","Human","Shirono Muku","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4667","Priestess of the Black City","http://d12h0em1d7ppg.cloudfront.net/items/46/4667/image_en/982888f7-b0cb-4155-a78f-90bd8f6e6e62.jpg","AO3-050","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 1000","Resonator","Human","Shirono Muku","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may pay [1] less to play this card for each (Stranger) resonator in your graveyard.
+Automatic
 [Enter] ⇒ Until end of turn, you may play target (Stranger) resonator from your graveyard.","The heart of this priestess resonates with the call of strangers.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4667","Priestess of the Black City","http://d12h0em1d7ppg.cloudfront.net/items/46/4667/image_en/982888f7-b0cb-4155-a78f-90bd8f6e6e62.jpg","AO3-050","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 1000","Resonator","Human","Shirono Muku","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4667","Priestess of the Black City","http://d12h0em1d7ppg.cloudfront.net/items/46/4667/image_en/982888f7-b0cb-4155-a78f-90bd8f6e6e62.jpg","AO3-050","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 1000","Resonator","Human","Shirono Muku","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may pay [1] less to play this card for each (Stranger) resonator in your graveyard.
+Automatic
 [Enter] ⇒ Until end of turn, you may play target (Stranger) resonator from your graveyard.","The heart of this priestess resonates with the call of strangers.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4668","Residents of the Black City","http://d12h0em1d7ppg.cloudfront.net/items/46/4668/image_en/cccfc488-aae4-4b89-963b-b20dfa79b2bb.jpg","AO3-051","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Human","sasaki kounosuke","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4668","Residents of the Black City","http://d12h0em1d7ppg.cloudfront.net/items/46/4668/image_en/cccfc488-aae4-4b89-963b-b20dfa79b2bb.jpg","AO3-051","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Human","sasaki kounosuke","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may play this card from your graveyard.
+Automatic
 When this card enters the field from a graveyard ⇒ It gains [Swiftness], [Precision] and [+200/+200] until end of turn. Until end of turn, if this card would leave the field, remove it from the game instead. At the next end of turn ⇒ Remove this card from the game.","Death only makes them quicker and stronger.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4669","Soulhunt","http://d12h0em1d7ppg.cloudfront.net/items/46/4669/image_en/dabcf830-8f78-4a6f-8697-d62001af3d7d.jpg","AO3-052","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","","gekko","Alice Origin 3rd Booster Pack","","The word ""sacrifice"" means ""gain"" for the Undead Lord.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4670","Soulless Soldier","http://d12h0em1d7ppg.cloudfront.net/items/46/4670/image_en/0e9778a4-f2e4-4aab-b932-2ab4ae3bafad.jpg","AO3-053","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 500","Resonator","Zombie","otsumami","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4669","Soulhunt","http://d12h0em1d7ppg.cloudfront.net/items/46/4669/image_en/dabcf830-8f78-4a6f-8697-d62001af3d7d.jpg","AO3-052","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","","gekko","Alice Origin 3rd Booster Pack","Card Text
+Each player banishes a resonator, then each player discards a card.","The word ""sacrifice"" means ""gain"" for the Undead Lord.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4670","Soulless Soldier","http://d12h0em1d7ppg.cloudfront.net/items/46/4670/image_en/0e9778a4-f2e4-4aab-b932-2ab4ae3bafad.jpg","AO3-053","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 500","Resonator","Zombie","otsumami","Alice Origin 3rd Booster Pack","Card Text
+Automatic
 When this card enters your field ⇒ Put the top two cards of your deck into your graveyard.","""Will, Soul and... Life, all unnecessary things in this world!"" -Rezzard, the Undead Lord","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4670","Soulless Soldier","http://d12h0em1d7ppg.cloudfront.net/items/46/4670/image_en/0e9778a4-f2e4-4aab-b932-2ab4ae3bafad.jpg","AO3-053","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 500","Resonator","Zombie","otsumami","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4670","Soulless Soldier","http://d12h0em1d7ppg.cloudfront.net/items/46/4670/image_en/0e9778a4-f2e4-4aab-b932-2ab4ae3bafad.jpg","AO3-053","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 500","Resonator","Zombie","otsumami","Alice Origin 3rd Booster Pack","Card Text
+Automatic
 When this card enters your field ⇒ Put the top two cards of your deck into your graveyard.","""Will, Soul and... Life, all unnecessary things in this world!"" -Rezzard, the Undead Lord","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4671","Vampire's Staff","http://d12h0em1d7ppg.cloudfront.net/items/46/4671/image_en/a1e8a714-3af5-4aec-bf59-01a13993a9aa.jpg","AO3-054","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Vampire","kawaryu","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4671","Vampire's Staff","http://d12h0em1d7ppg.cloudfront.net/items/46/4671/image_en/a1e8a714-3af5-4aec-bf59-01a13993a9aa.jpg","AO3-054","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Vampire","kawaryu","Alice Origin 3rd Booster Pack","Card Text
+Continuous
 At the beginning of your recovery phase ⇒ Reveal the top card of your deck. This card deals 100 damage to target player for each will symbol on the attribute cost of the revealed card and you gain that much life.","Even a vampire must pay the price of blood.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4671","Vampire's Staff","http://d12h0em1d7ppg.cloudfront.net/items/46/4671/image_en/a1e8a714-3af5-4aec-bf59-01a13993a9aa.jpg","AO3-054","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Vampire","kawaryu","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4671","Vampire's Staff","http://d12h0em1d7ppg.cloudfront.net/items/46/4671/image_en/a1e8a714-3af5-4aec-bf59-01a13993a9aa.jpg","AO3-054","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Vampire","kawaryu","Alice Origin 3rd Booster Pack","Card Text
+Continuous
 At the beginning of your recovery phase ⇒ Reveal the top card of your deck. This card deals 100 damage to target player for each will symbol on the attribute cost of the revealed card and you gain that much life.","Even a vampire must pay the price of blood.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4672","A Part of True Power","http://d12h0em1d7ppg.cloudfront.net/items/46/4672/image_en/e4fbd84a-f38f-4dcd-af63-dd38d83b2d93.jpg","AO3-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","gekko","Alice Origin 3rd Booster Pack","","Reiya inherited the true power from her mother.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4672","A Part of True Power","http://d12h0em1d7ppg.cloudfront.net/items/46/4672/image_en/e4fbd84a-f38f-4dcd-af63-dd38d83b2d93.jpg","AO3-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","gekko","Alice Origin 3rd Booster Pack","","Reiya inherited the true power from her mother.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4673","Angel of Healing","http://d12h0em1d7ppg.cloudfront.net/items/46/4673/image_en/8ef02539-b242-436f-aa1e-2aa2c26fedb1.jpg","AO3-056","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Angel","sakura moyon","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4672","A Part of True Power","http://d12h0em1d7ppg.cloudfront.net/items/46/4672/image_en/e4fbd84a-f38f-4dcd-af63-dd38d83b2d93.jpg","AO3-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","gekko","Alice Origin 3rd Booster Pack","Card Text
+[Remnant]
+As an additional cost to play this card, banish a resonator.
+Put target darkness resonator from your graveyard into the field.","Reiya inherited the true power from her mother.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4672","A Part of True Power","http://d12h0em1d7ppg.cloudfront.net/items/46/4672/image_en/e4fbd84a-f38f-4dcd-af63-dd38d83b2d93.jpg","AO3-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","gekko","Alice Origin 3rd Booster Pack","Card Text
+[Remnant]
+As an additional cost to play this card, banish a resonator.
+Put target darkness resonator from your graveyard into the field.","Reiya inherited the true power from her mother.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4673","Angel of Healing","http://d12h0em1d7ppg.cloudfront.net/items/46/4673/image_en/8ef02539-b242-436f-aa1e-2aa2c26fedb1.jpg","AO3-056","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Angel","sakura moyon","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Flying]
+Automatic
 [Enter] ⇒ You gain 1000 life. Prevent the next damage that would be dealt to target resonator until end of turn. If this card entered the field from a deck, draw two cards.","The holy light of angels brings healing and salvation.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4673","Angel of Healing","http://d12h0em1d7ppg.cloudfront.net/items/46/4673/image_en/8ef02539-b242-436f-aa1e-2aa2c26fedb1.jpg","AO3-056","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Angel","sakura moyon","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4673","Angel of Healing","http://d12h0em1d7ppg.cloudfront.net/items/46/4673/image_en/8ef02539-b242-436f-aa1e-2aa2c26fedb1.jpg","AO3-056","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Angel","sakura moyon","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Flying]
+Automatic
 [Enter] ⇒ You gain 1000 life. Prevent the next damage that would be dealt to target resonator until end of turn. If this card entered the field from a deck, draw two cards.","The holy light of angels brings healing and salvation.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4673","Angel of Healing","http://d12h0em1d7ppg.cloudfront.net/items/46/4673/image_en/8ef02539-b242-436f-aa1e-2aa2c26fedb1.jpg","AO3-056","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Angel","sakura moyon","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4673","Angel of Healing","http://d12h0em1d7ppg.cloudfront.net/items/46/4673/image_en/8ef02539-b242-436f-aa1e-2aa2c26fedb1.jpg","AO3-056","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Angel","sakura moyon","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Flying]
+Automatic
 [Enter] ⇒ You gain 1000 life. Prevent the next damage that would be dealt to target resonator until end of turn. If this card entered the field from a deck, draw two cards.","The holy light of angels brings healing and salvation.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4674","Artemis, the Goddess of Hunt (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4674/image_en/03a882a9-75f8-44a4-8b4b-469e828e57e9.jpg","AO3-057","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Goddess","Toridamono","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4674","Artemis, the Goddess of Hunt (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4674/image_en/03a882a9-75f8-44a4-8b4b-469e828e57e9.jpg","AO3-057","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Goddess","Toridamono","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [First Strike]
+Activate
+[W]: Target entity you control gains [Barrier] until end of turn.
+Activate
+[W][G]: Resonators you control gain [+200/+200] until end of turn.
+Activate
 [W][W][G]: Remove target resonator from the game.","""A hero visited Vell-Savaria, a friend of Arla. I gave him Artemis, the God's Bow, just in case."" ーNote of Magna 29","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4674","Artemis, the Goddess of Hunt (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4674/image_en/03a882a9-75f8-44a4-8b4b-469e828e57e9.jpg","AO3-057","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Goddess","Toridamono","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4674","Artemis, the Goddess of Hunt (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4674/image_en/03a882a9-75f8-44a4-8b4b-469e828e57e9.jpg","AO3-057","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator (Stranger)","Goddess","Toridamono","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [First Strike]
+Activate
+[W]: Target entity you control gains [Barrier] until end of turn.
+Activate
+[W][G]: Resonators you control gain [+200/+200] until end of turn.
+Activate
 [W][W][G]: Remove target resonator from the game.","""A hero visited Vell-Savaria, a friend of Arla. I gave him Artemis, the God's Bow, just in case."" ーNote of Magna 29","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4674","Artemis, the Goddess of Hunt (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4674/image_en/03a882a9-75f8-44a4-8b4b-469e828e57e9.jpg","AO3-057","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator (Stranger)","Goddess","Toridamono","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4674","Artemis, the Goddess of Hunt (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4674/image_en/03a882a9-75f8-44a4-8b4b-469e828e57e9.jpg","AO3-057","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator (Stranger)","Goddess","Toridamono","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [First Strike]
+Activate
+[W]: Target entity you control gains [Barrier] until end of turn.
+Activate
+[W][G]: Resonators you control gain [+200/+200] until end of turn.
+Activate
 [W][W][G]: Remove target resonator from the game.","""A hero visited Vell-Savaria, a friend of Arla. I gave him Artemis, the God's Bow, just in case."" ーNote of Magna 29","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4674","Artemis, the Goddess of Hunt (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4674/image_en/03a882a9-75f8-44a4-8b4b-469e828e57e9.jpg","AO3-057","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator (Stranger)","Goddess","Toridamono","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4674","Artemis, the Goddess of Hunt (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4674/image_en/03a882a9-75f8-44a4-8b4b-469e828e57e9.jpg","AO3-057","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator (Stranger)","Goddess","Toridamono","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [First Strike]
+Activate
+[W]: Target entity you control gains [Barrier] until end of turn.
+Activate
+[W][G]: Resonators you control gain [+200/+200] until end of turn.
+Activate
 [W][W][G]: Remove target resonator from the game.","""A hero visited Vell-Savaria, a friend of Arla. I gave him Artemis, the God's Bow, just in case."" ーNote of Magna 29","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4675","Awakening of the Undead Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4675/image_en/624cda38-ba0b-4cf0-8221-e1a60c254ba7.jpg","AO3-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","touge369","Alice Origin 3rd Booster Pack","","""People always betray, death won't."" ーRezzard","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4675","Awakening of the Undead Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4675/image_en/624cda38-ba0b-4cf0-8221-e1a60c254ba7.jpg","AO3-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","touge369","Alice Origin 3rd Booster Pack","","""People always betray, death won't."" ーRezzard","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4676","Awakening of the Winged Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4676/image_en/05c6b7db-ef63-4c91-93af-d423b212cafe.jpg","AO3-059","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Kusanagi Tyouen","Alice Origin 3rd Booster Pack","","""Wings of the Archangel, please protect our land from the undead."" ーArla","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4676","Awakening of the Winged Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4676/image_en/05c6b7db-ef63-4c91-93af-d423b212cafe.jpg","AO3-059","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Sword Art","Kusanagi Tyouen","Alice Origin 3rd Booster Pack","","""Wings of the Archangel, please protect our land from the undead."" ーArla","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4678","Butterfly Effect","http://d12h0em1d7ppg.cloudfront.net/items/46/4678/image_en/a1a76cbb-cdc0-4ab4-88e0-b9c0956c3fd4.jpg","AO3-061","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","hatarisu","Alice Origin 3rd Booster Pack","","The flap of a butterfly's wings can cause disaster.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4678","Butterfly Effect","http://d12h0em1d7ppg.cloudfront.net/items/46/4678/image_en/a1a76cbb-cdc0-4ab4-88e0-b9c0956c3fd4.jpg","AO3-061","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","hatarisu","Alice Origin 3rd Booster Pack","","The flap of a butterfly's wings can cause disaster.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4679","Cathedral of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4679/image_en/6ca689fe-3d54-484f-bbde-0c2e1fa42edf.jpg","AO3-062","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","mita kura","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4675","Awakening of the Undead Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4675/image_en/624cda38-ba0b-4cf0-8221-e1a60c254ba7.jpg","AO3-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","touge369","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Choose one - This card deals 400 damage to each resonator. You gain life equal to the amount of damage dealt by this card; or banish any number of resonators. Draw that many cards; or put a [X00/X00] darkness Zombie resonator token into the field, where X is the number of cards in your graveyard.","""People always betray, death won't."" ーRezzard","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4675","Awakening of the Undead Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4675/image_en/624cda38-ba0b-4cf0-8221-e1a60c254ba7.jpg","AO3-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","touge369","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Choose one - This card deals 400 damage to each resonator. You gain life equal to the amount of damage dealt by this card; or banish any number of resonators. Draw that many cards; or put a [X00/X00] darkness Zombie resonator token into the field, where X is the number of cards in your graveyard.","""People always betray, death won't."" ーRezzard","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4676","Awakening of the Winged Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4676/image_en/05c6b7db-ef63-4c91-93af-d423b212cafe.jpg","AO3-059","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Kusanagi Tyouen","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Choose one - Recover up to two J/resonators with [Flying]; or look at the top four cards of your deck. Put a non-chant card with total cost 2 or less from among them into the field. Put the rest on the bottom of your deck in a random order; or choose a card from your Stranger deck at random and remove it from the game. You gain life equal to its ATK.","""Wings of the Archangel, please protect our land from the undead."" ーArla","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4676","Awakening of the Winged Lord","http://d12h0em1d7ppg.cloudfront.net/items/46/4676/image_en/05c6b7db-ef63-4c91-93af-d423b212cafe.jpg","AO3-059","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Sword Art","Kusanagi Tyouen","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Choose one - Recover up to two J/resonators with [Flying]; or look at the top four cards of your deck. Put a non-chant card with total cost 2 or less from among them into the field. Put the rest on the bottom of your deck in a random order; or choose a card from your Stranger deck at random and remove it from the game. You gain life equal to its ATK.","""Wings of the Archangel, please protect our land from the undead."" ーArla","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If you have [Passion], you may pay [B][B] less to play this card and choose one - Remove target resonator from the game; or resonators you control gain [+600/0] until end of turn.
+If you have [Calmness], you may pay [R][R] less to play this card and choose one - Put target non-magic stone, non-J/resonator entity on the bottom of its owner's deck; or draw a card.","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If you have [Passion], you may pay [B][B] less to play this card and choose one - Remove target resonator from the game; or resonators you control gain [+600/0] until end of turn.
+If you have [Calmness], you may pay [R][R] less to play this card and choose one - Put target non-magic stone, non-J/resonator entity on the bottom of its owner's deck; or draw a card.","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If you have [Passion], you may pay [B][B] less to play this card and choose one - Remove target resonator from the game; or resonators you control gain [+600/0] until end of turn.
+If you have [Calmness], you may pay [R][R] less to play this card and choose one - Put target non-magic stone, non-J/resonator entity on the bottom of its owner's deck; or draw a card.","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If you have [Passion], you may pay [B][B] less to play this card and choose one - Remove target resonator from the game; or resonators you control gain [+600/0] until end of turn.
+If you have [Calmness], you may pay [R][R] less to play this card and choose one - Put target non-magic stone, non-J/resonator entity on the bottom of its owner's deck; or draw a card.","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4677","Between Passion and Calmness","http://d12h0em1d7ppg.cloudfront.net/items/46/4677/image_en/71c66722-ec77-4d89-8c03-6ee34dd39bb4.jpg","AO3-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","Mage Art","Kelvin","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If you have [Passion], you may pay [B][B] less to play this card and choose one - Remove target resonator from the game; or resonators you control gain [+600/0] until end of turn.
+If you have [Calmness], you may pay [R][R] less to play this card and choose one - Put target non-magic stone, non-J/resonator entity on the bottom of its owner's deck; or draw a card.","There is infinite space between passion and calmness.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4678","Butterfly Effect","http://d12h0em1d7ppg.cloudfront.net/items/46/4678/image_en/a1a76cbb-cdc0-4ab4-88e0-b9c0956c3fd4.jpg","AO3-061","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","hatarisu","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If you have [Passion], this card gains ""This card deals 800 damage to target resonator your opponent controls chosen at random."".
+If you have [Calmness], this card gains ""Return target non-magic stone, non-J-ruler entity to its owner's hand. Draw a card."".","The flap of a butterfly's wings can cause disaster.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4678","Butterfly Effect","http://d12h0em1d7ppg.cloudfront.net/items/46/4678/image_en/a1a76cbb-cdc0-4ab4-88e0-b9c0956c3fd4.jpg","AO3-061","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","hatarisu","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If you have [Passion], this card gains ""This card deals 800 damage to target resonator your opponent controls chosen at random."".
+If you have [Calmness], this card gains ""Return target non-magic stone, non-J-ruler entity to its owner's hand. Draw a card."".","The flap of a butterfly's wings can cause disaster.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4679","Cathedral of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4679/image_en/6ca689fe-3d54-484f-bbde-0c2e1fa42edf.jpg","AO3-062","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","mita kura","Alice Origin 3rd Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Search your deck for an Angel, reveal it, and put it into your hand. Then shuffle your deck.
+Activate
 [Rest]: Produce [W][G]. Spend this will only to play Angels.","The choir of angels can be heard even far from the cathedral.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4679","Cathedral of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4679/image_en/6ca689fe-3d54-484f-bbde-0c2e1fa42edf.jpg","AO3-062","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Addition","","mita kura","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4679","Cathedral of Armalla","http://d12h0em1d7ppg.cloudfront.net/items/46/4679/image_en/6ca689fe-3d54-484f-bbde-0c2e1fa42edf.jpg","AO3-062","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Addition","","mita kura","Alice Origin 3rd Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Search your deck for an Angel, reveal it, and put it into your hand. Then shuffle your deck.
+Activate
 [Rest]: Produce [W][G]. Spend this will only to play Angels.","The choir of angels can be heard even far from the cathedral.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4680","Change the Heart","http://d12h0em1d7ppg.cloudfront.net/items/46/4680/image_en/e974834f-5000-4d3f-a7dc-15e9614273dc.jpg","AO3-063","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Regalia","","moopic","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4680","Change the Heart","http://d12h0em1d7ppg.cloudfront.net/items/46/4680/image_en/e974834f-5000-4d3f-a7dc-15e9614273dc.jpg","AO3-063","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Regalia","","moopic","Alice Origin 3rd Booster Pack","Card Text
+[Mythic]
+Activate
+[Rest]: Produce two wills in any combination of [R] and/or [B]. Spend this will only to play Mage Arts.
+Activate
 [Rest]: Produce [R] or [B]. If you have [Passion] or [Calmness], you may invert your ruler.","Everybody has a change of heart once a while, but for Reflect and Refrain it's as natural as breathing.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4680","Change the Heart","http://d12h0em1d7ppg.cloudfront.net/items/46/4680/image_en/e974834f-5000-4d3f-a7dc-15e9614273dc.jpg","AO3-063","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Regalia","","moopic","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4680","Change the Heart","http://d12h0em1d7ppg.cloudfront.net/items/46/4680/image_en/e974834f-5000-4d3f-a7dc-15e9614273dc.jpg","AO3-063","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Regalia","","moopic","Alice Origin 3rd Booster Pack","Card Text
+[Mythic]
+Activate
+[Rest]: Produce two wills in any combination of [R] and/or [B]. Spend this will only to play Mage Arts.
+Activate
 [Rest]: Produce [R] or [B]. If you have [Passion] or [Calmness], you may invert your ruler.","Everybody has a change of heart once a while, but for Reflect and Refrain it's as natural as breathing.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4681","Charlotte, the Sleeping Girl in the Castle","http://d12h0em1d7ppg.cloudfront.net/items/46/4681/image_en/c52ce420-2f6c-45b7-903c-9ff4d7f801a5.jpg","AO3-064","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 1000","Resonator","Little Girl","Nekobayashi","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4681","Charlotte, the Sleeping Girl in the Castle","http://d12h0em1d7ppg.cloudfront.net/items/46/4681/image_en/c52ce420-2f6c-45b7-903c-9ff4d7f801a5.jpg","AO3-064","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 1000","Resonator","Little Girl","Nekobayashi","Alice Origin 3rd Booster Pack","Card Text
+[Barrier]
+Continuous
+Cards named ""Faria"" you control gain [Barrier] and [+1000/+1000].
+Continuous
+Cards named ""Lars, Knight of the Sacred Spirit"" you control gain [Eternal].
+Automatic
 As long as your J-ruler is ""Faria"", it gains “Whenever a card named ""Excalibur"" enters the field under your control ⇒ Choose two - Choose a card from your Stranger deck at random and put it into the field; or remove target non-magic stone, non-J-ruler entity from the game; or draw two cards.","""Charlotte, I will protect you, always and forever."" ーFaria","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4681","Charlotte, the Sleeping Girl in the Castle","http://d12h0em1d7ppg.cloudfront.net/items/46/4681/image_en/c52ce420-2f6c-45b7-903c-9ff4d7f801a5.jpg","AO3-064","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 1000","Resonator","Little Girl","Nekobayashi","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4681","Charlotte, the Sleeping Girl in the Castle","http://d12h0em1d7ppg.cloudfront.net/items/46/4681/image_en/c52ce420-2f6c-45b7-903c-9ff4d7f801a5.jpg","AO3-064","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 1000","Resonator","Little Girl","Nekobayashi","Alice Origin 3rd Booster Pack","Card Text
+[Barrier]
+Continuous
+Cards named ""Faria"" you control gain [Barrier] and [+1000/+1000].
+Continuous
+Cards named ""Lars, Knight of the Sacred Spirit"" you control gain [Eternal].
+Automatic
 As long as your J-ruler is ""Faria"", it gains “Whenever a card named ""Excalibur"" enters the field under your control ⇒ Choose two - Choose a card from your Stranger deck at random and put it into the field; or remove target non-magic stone, non-J-ruler entity from the game; or draw two cards.","""Charlotte, I will protect you, always and forever."" ーFaria","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4682","Deathscythe","http://d12h0em1d7ppg.cloudfront.net/items/46/4682/image_en/4ef67b77-536c-4c77-a573-010a3e2ae295.jpg","AO3-065","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Regalia","","touge369","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4682","Deathscythe","http://d12h0em1d7ppg.cloudfront.net/items/46/4682/image_en/4ef67b77-536c-4c77-a573-010a3e2ae295.jpg","AO3-065","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Regalia","","touge369","Alice Origin 3rd Booster Pack","Card Text
+[Mythic]
+Activate
+[Rest]: Produce two wills in any combination of [G] and/or [D]. Spend this will only to play God's Art abilities, Mage Arts, cards from a graveyard or activate abilities of cards in a graveyard.
+Activate
 Remove three cards in your graveyard from the game: Put this card from your graveyard into your hand.","The slightest touch of Deathscythe can send away... or bring back.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4682","Deathscythe","http://d12h0em1d7ppg.cloudfront.net/items/46/4682/image_en/4ef67b77-536c-4c77-a573-010a3e2ae295.jpg","AO3-065","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Regalia","","touge369","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4682","Deathscythe","http://d12h0em1d7ppg.cloudfront.net/items/46/4682/image_en/4ef67b77-536c-4c77-a573-010a3e2ae295.jpg","AO3-065","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Regalia","","touge369","Alice Origin 3rd Booster Pack","Card Text
+[Mythic]
+Activate
+[Rest]: Produce two wills in any combination of [G] and/or [D]. Spend this will only to play God's Art abilities, Mage Arts, cards from a graveyard or activate abilities of cards in a graveyard.
+Activate
 Remove three cards in your graveyard from the game: Put this card from your graveyard into your hand.","The slightest touch of Deathscythe can send away... or bring back.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4683","Earthly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4683/image_en/c17ac539-ee47-42a5-ace0-3ed43d3fc3c8.jpg","AO3-066","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Shosuke","Alice Origin 3rd Booster Pack","","Aid for those up in the sky.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4683","Earthly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4683/image_en/c17ac539-ee47-42a5-ace0-3ed43d3fc3c8.jpg","AO3-066","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Sword Art","Shosuke","Alice Origin 3rd Booster Pack","","Aid for those up in the sky.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4684","Faurecia, the Virtuous Vampire","http://d12h0em1d7ppg.cloudfront.net/items/46/4684/image_en/a1913c71-20ba-4715-8875-b3567d568dfc.jpg","AO3-067","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","600 / 600","Resonator","Five Heroes/Vampire","Saiko Takaki","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4683","Earthly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4683/image_en/c17ac539-ee47-42a5-ace0-3ed43d3fc3c8.jpg","AO3-066","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Shosuke","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Choose one - Cancel target resonator spell with total cost 3 or less: or destroy target resonator with [Flying].","Aid for those up in the sky.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4683","Earthly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4683/image_en/c17ac539-ee47-42a5-ace0-3ed43d3fc3c8.jpg","AO3-066","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Sword Art","Shosuke","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+Choose one - Cancel target resonator spell with total cost 3 or less: or destroy target resonator with [Flying].","Aid for those up in the sky.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4684","Faurecia, the Virtuous Vampire","http://d12h0em1d7ppg.cloudfront.net/items/46/4684/image_en/a1913c71-20ba-4715-8875-b3567d568dfc.jpg","AO3-067","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","600 / 600","Resonator","Five Heroes/Vampire","Saiko Takaki","Alice Origin 3rd Booster Pack","Card Text
+[Flying] [Barrier]
+Activate
+Discard a wind card: Target resonator gains [+400/+400] until end of turn.
+Activate
+Discard a darkness card: Target resonator gains [-400/-400] until end of turn.
+Activate
+Discard a wind/darkness card: Target resonator gains [+400/+400] and another target resonator gains [-400/-400] until end of turn.
+Continuous
 If you control a Five Heroes not named ""Faurecia, the Virtuous Vampire"", you may pay [G] or [D] less to play this card.","Faurecia continues to fight the blood, and hates being a vampire.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4684","Faurecia, the Virtuous Vampire","http://d12h0em1d7ppg.cloudfront.net/items/46/4684/image_en/a1913c71-20ba-4715-8875-b3567d568dfc.jpg","AO3-067","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Five Heroes/Vampire","Saiko Takaki","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4684","Faurecia, the Virtuous Vampire","http://d12h0em1d7ppg.cloudfront.net/items/46/4684/image_en/a1913c71-20ba-4715-8875-b3567d568dfc.jpg","AO3-067","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Five Heroes/Vampire","Saiko Takaki","Alice Origin 3rd Booster Pack","Card Text
+[Flying] [Barrier]
+Activate
+Discard a wind card: Target resonator gains [+400/+400] until end of turn.
+Activate
+Discard a darkness card: Target resonator gains [-400/-400] until end of turn.
+Activate
+Discard a wind/darkness card: Target resonator gains [+400/+400] and another target resonator gains [-400/-400] until end of turn.
+Continuous
 If you control a Five Heroes not named ""Faurecia, the Virtuous Vampire"", you may pay [G] or [D] less to play this card.","Faurecia continues to fight the blood, and hates being a vampire.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Card Text
+[Bane] [Drain]
+Activate
+[D]: Put a promise counter on target resonator you control. Play this ability only if this card is in your graveyard.
+Automatic
 Whenever a resonator with a promise counter on it is put into a graveyard from the field ⇒ Put this card from your graveyard into the field.","""I sense an unknown power coming into this world. I wish it was harmless, but its defiling negative energy cannot be ignored."" ーNote of Magna 21","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Card Text
+[Bane] [Drain]
+Activate
+[D]: Put a promise counter on target resonator you control. Play this ability only if this card is in your graveyard.
+Automatic
 Whenever a resonator with a promise counter on it is put into a graveyard from the field ⇒ Put this card from your graveyard into the field.","""I sense an unknown power coming into this world. I wish it was harmless, but its defiling negative energy cannot be ignored."" ーNote of Magna 21","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Card Text
+[Bane] [Drain]
+Activate
+[D]: Put a promise counter on target resonator you control. Play this ability only if this card is in your graveyard.
+Automatic
 Whenever a resonator with a promise counter on it is put into a graveyard from the field ⇒ Put this card from your graveyard into the field.","""I sense an unknown power coming into this world. I wish it was harmless, but its defiling negative energy cannot be ignored."" ーNote of Magna 21","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Card Text
+[Bane] [Drain]
+Activate
+[D]: Put a promise counter on target resonator you control. Play this ability only if this card is in your graveyard.
+Automatic
 Whenever a resonator with a promise counter on it is put into a graveyard from the field ⇒ Put this card from your graveyard into the field.","""I sense an unknown power coming into this world. I wish it was harmless, but its defiling negative energy cannot be ignored."" ーNote of Magna 21","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4685","Faust, the Promising Warrior (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4685/image_en/ba77234a-1a50-421c-a0a7-62df46b80114.jpg","AO3-068","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","1400 / 1400","Resonator (Stranger)","Warrior","Pochiharu","Alice Origin 3rd Booster Pack","Card Text
+[Bane] [Drain]
+Activate
+[D]: Put a promise counter on target resonator you control. Play this ability only if this card is in your graveyard.
+Automatic
 Whenever a resonator with a promise counter on it is put into a graveyard from the field ⇒ Put this card from your graveyard into the field.","""I sense an unknown power coming into this world. I wish it was harmless, but its defiling negative energy cannot be ignored."" ーNote of Magna 21","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4686","Gloria's Round Table","http://d12h0em1d7ppg.cloudfront.net/items/46/4686/image_en/3f9bffa3-5956-4c5c-b27d-8d3d911dda93.jpg","AO3-069","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","tokiwa","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4686","Gloria's Round Table","http://d12h0em1d7ppg.cloudfront.net/items/46/4686/image_en/3f9bffa3-5956-4c5c-b27d-8d3d911dda93.jpg","AO3-069","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","tokiwa","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may rest a recovered ""Excalibur"" you control rather than pay this card's cost.
+Automatic
+[Enter] ⇒ Reveal cards from the top of your deck until you reveal a Knight of the Round Table. Put that card into the field and the rest on the bottom of your deck in a random order.
+Automatic
 Whenever a Knight of the Round Table is put into a graveyard from the field ⇒ You may return this card to its owner's hand.","The symbol of all Knight of the Round Table gathering in Gloria.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4686","Gloria's Round Table","http://d12h0em1d7ppg.cloudfront.net/items/46/4686/image_en/3f9bffa3-5956-4c5c-b27d-8d3d911dda93.jpg","AO3-069","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Addition","","tokiwa","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4686","Gloria's Round Table","http://d12h0em1d7ppg.cloudfront.net/items/46/4686/image_en/3f9bffa3-5956-4c5c-b27d-8d3d911dda93.jpg","AO3-069","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Addition","","tokiwa","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may rest a recovered ""Excalibur"" you control rather than pay this card's cost.
+Automatic
+[Enter] ⇒ Reveal cards from the top of your deck until you reveal a Knight of the Round Table. Put that card into the field and the rest on the bottom of your deck in a random order.
+Automatic
 Whenever a Knight of the Round Table is put into a graveyard from the field ⇒ You may return this card to its owner's hand.","The symbol of all Knight of the Round Table gathering in Gloria.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4687","Griphon, Racing Across Darkness","http://d12h0em1d7ppg.cloudfront.net/items/46/4687/image_en/d1315afe-5311-4578-9202-bda15f2d2863.jpg","AO3-070","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1200 / 1200","Resonator","Chimera","Nezishiki","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4687","Griphon, Racing Across Darkness","http://d12h0em1d7ppg.cloudfront.net/items/46/4687/image_en/d1315afe-5311-4578-9202-bda15f2d2863.jpg","AO3-070","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1200 / 1200","Resonator","Chimera","Nezishiki","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Automatic
 When this card enters your field ⇒ Put the top two cards of your magic stone deck into your field.","The power of the Kyuubi can merge two into one.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4687","Griphon, Racing Across Darkness","http://d12h0em1d7ppg.cloudfront.net/items/46/4687/image_en/d1315afe-5311-4578-9202-bda15f2d2863.jpg","AO3-070","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1200","Resonator","Chimera","Nezishiki","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4687","Griphon, Racing Across Darkness","http://d12h0em1d7ppg.cloudfront.net/items/46/4687/image_en/d1315afe-5311-4578-9202-bda15f2d2863.jpg","AO3-070","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1200","Resonator","Chimera","Nezishiki","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Automatic
 When this card enters your field ⇒ Put the top two cards of your magic stone deck into your field.","The power of the Kyuubi can merge two into one.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4687","Griphon, Racing Across Darkness","http://d12h0em1d7ppg.cloudfront.net/items/46/4687/image_en/d1315afe-5311-4578-9202-bda15f2d2863.jpg","AO3-070","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1200 / 1200","Resonator","Chimera","Nezishiki","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4687","Griphon, Racing Across Darkness","http://d12h0em1d7ppg.cloudfront.net/items/46/4687/image_en/d1315afe-5311-4578-9202-bda15f2d2863.jpg","AO3-070","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1200 / 1200","Resonator","Chimera","Nezishiki","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Automatic
 When this card enters your field ⇒ Put the top two cards of your magic stone deck into your field.","The power of the Kyuubi can merge two into one.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4688","Heavenly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4688/image_en/dcfc37ad-8e3a-4697-b143-62518eacf30f.jpg","AO3-071","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","KONNO Takashi","Alice Origin 3rd Booster Pack","","Aid for those stuck on the ground.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4688","Heavenly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4688/image_en/dcfc37ad-8e3a-4697-b143-62518eacf30f.jpg","AO3-071","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","KONNO Takashi","Alice Origin 3rd Booster Pack","","Aid for those stuck on the ground.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4688","Heavenly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4688/image_en/dcfc37ad-8e3a-4697-b143-62518eacf30f.jpg","AO3-071","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Sword Art","KONNO Takashi","Alice Origin 3rd Booster Pack","","Aid for those stuck on the ground.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4688","Heavenly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4688/image_en/dcfc37ad-8e3a-4697-b143-62518eacf30f.jpg","AO3-071","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Sword Art","KONNO Takashi","Alice Origin 3rd Booster Pack","","Aid for those stuck on the ground.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4689","Jabberwock, the Chaotic Disaster (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4689/image_en/ee0b15e3-571d-4f28-9ee8-102ba949d75f.jpg","AO3-072","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator (Stranger)","Magical Beast","NEJITA","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4688","Heavenly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4688/image_en/dcfc37ad-8e3a-4697-b143-62518eacf30f.jpg","AO3-071","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","KONNO Takashi","Alice Origin 3rd Booster Pack","Card Text
+As you play this card, you may rest any number of recovered resonators you control with [Flying]. You pay [W] or [G] less to play this card for each resonator rested this way.
+Destroy all resonators without [Flying].","Aid for those stuck on the ground.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4688","Heavenly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4688/image_en/dcfc37ad-8e3a-4697-b143-62518eacf30f.jpg","AO3-071","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","KONNO Takashi","Alice Origin 3rd Booster Pack","Card Text
+As you play this card, you may rest any number of recovered resonators you control with [Flying]. You pay [W] or [G] less to play this card for each resonator rested this way.
+Destroy all resonators without [Flying].","Aid for those stuck on the ground.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4688","Heavenly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4688/image_en/dcfc37ad-8e3a-4697-b143-62518eacf30f.jpg","AO3-071","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Sword Art","KONNO Takashi","Alice Origin 3rd Booster Pack","Card Text
+As you play this card, you may rest any number of recovered resonators you control with [Flying]. You pay [W] or [G] less to play this card for each resonator rested this way.
+Destroy all resonators without [Flying].","Aid for those stuck on the ground.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4688","Heavenly Flash","http://d12h0em1d7ppg.cloudfront.net/items/46/4688/image_en/dcfc37ad-8e3a-4697-b143-62518eacf30f.jpg","AO3-071","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Sword Art","KONNO Takashi","Alice Origin 3rd Booster Pack","Card Text
+As you play this card, you may rest any number of recovered resonators you control with [Flying]. You pay [W] or [G] less to play this card for each resonator rested this way.
+Destroy all resonators without [Flying].","Aid for those stuck on the ground.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4689","Jabberwock, the Chaotic Disaster (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4689/image_en/ee0b15e3-571d-4f28-9ee8-102ba949d75f.jpg","AO3-072","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator (Stranger)","Magical Beast","NEJITA","Alice Origin 3rd Booster Pack","Card Text
+Automatic
 [Enter] ⇒ Choose one - Your opponent reveals the top card of their deck. They reveal their hand and discard all cards with the same total cost as the revealed card; or your opponent reveals the top card of their deck. They destroy all non-magic stone, non-J-ruler entities they control with the same total cost as the revealed card; or your opponent reveals the top card of their deck. Each player reveals their hand and discards all cards with the same total cost as the revealed card. Then each player destroys all non-magic stone, non-J-ruler entities they control with the same total cost as the revealed card.","""The new king Rezzard has been transformed by the visiting vampires, and his regalia was changed as well. I wonder how this will affect the power of the strangers."" ーNote of Magna 24","Alice Origin 3rd Booster Pack"
 "http://www.fowtcg.com/card/4689","Jabberwock, the Chaotic Disaster (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4689/image_en/ee0b15e3-571d-4f28-9ee8-102ba949d75f.jpg","AO3-072","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","800 / 800","Resonator (Stranger)","Magical Beast","NEJITA","Alice Origin 3rd Booster Pack","-''-","""The new king Rezzard has been transformed by the visiting vampires, and his regalia was changed as well. I wonder how this will affect the power of the strangers."" ーNote of Magna 24","Alice Origin 3rd Booster Pack"
 "http://www.fowtcg.com/card/4689","Jabberwock, the Chaotic Disaster (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/46/4689/image_en/ee0b15e3-571d-4f28-9ee8-102ba949d75f.jpg","AO3-072","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator (Stranger)","Magical Beast","NEJITA","Alice Origin 3rd Booster Pack","-''-","""The new king Rezzard has been transformed by the visiting vampires, and his regalia was changed as well. I wonder how this will affect the power of the strangers."" ーNote of Magna 24","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4690","Magna's Angel","http://d12h0em1d7ppg.cloudfront.net/items/46/4690/image_en/cf170aa4-9082-4f0a-ba29-18af929d63ee.jpg","AO3-073","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","100 / 100","Resonator","Angel","kurisu","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4690","Magna's Angel","http://d12h0em1d7ppg.cloudfront.net/items/46/4690/image_en/cf170aa4-9082-4f0a-ba29-18af929d63ee.jpg","AO3-073","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","100 / 100","Resonator","Angel","kurisu","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Automatic
+[Enter] ⇒ Choose a card from your Stranger deck at random and remove it from the game.
+Continuous
 This card gains [+400/+400] for each different name among all (Stranger) resonators in your removed area.","Magna's angel is guarding Armalla, infused with the power of Valhalla.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4690","Magna's Angel","http://d12h0em1d7ppg.cloudfront.net/items/46/4690/image_en/cf170aa4-9082-4f0a-ba29-18af929d63ee.jpg","AO3-073","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","100 / 100","Resonator","Angel","kurisu","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4690","Magna's Angel","http://d12h0em1d7ppg.cloudfront.net/items/46/4690/image_en/cf170aa4-9082-4f0a-ba29-18af929d63ee.jpg","AO3-073","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","100 / 100","Resonator","Angel","kurisu","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Automatic
+[Enter] ⇒ Choose a card from your Stranger deck at random and remove it from the game.
+Continuous
 This card gains [+400/+400] for each different name among all (Stranger) resonators in your removed area.","Magna's angel is guarding Armalla, infused with the power of Valhalla.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4691","Mikage Seijuro","http://d12h0em1d7ppg.cloudfront.net/items/46/4691/image_en/b2a497fb-e5a8-4ac1-a384-cbee82166dba.jpg","AO3-074","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1200 / 1200","Resonator","Vampire","YAMAMOTO-NAOKI","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4691","Mikage Seijuro","http://d12h0em1d7ppg.cloudfront.net/items/46/4691/image_en/b2a497fb-e5a8-4ac1-a384-cbee82166dba.jpg","AO3-074","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1200 / 1200","Resonator","Vampire","YAMAMOTO-NAOKI","Alice Origin 3rd Booster Pack","Card Text
+[Flying] [Precision]
+Automatic
+Whenever a resonator dealt damage by this card this turn is put into a graveyard ⇒ Put it into the field under your control. It gains darkness in addition to its other attributes and Vampire in addition to its other races.
+Activate
+Remove a (Stranger) resonator in your graveyard from the game: This card gains [Eternal] until end of turn.
+Automatic
 [Enter] ⇒ You may pay any amount of life. This card deals that much damage to target resonator your opponent controls.","""So, this is the playground of Lapis. A very interesting world.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4691","Mikage Seijuro","http://d12h0em1d7ppg.cloudfront.net/items/46/4691/image_en/b2a497fb-e5a8-4ac1-a384-cbee82166dba.jpg","AO3-074","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1200","Resonator","Vampire","YAMAMOTO-NAOKI","Alice Origin 3rd Booster Pack","Automatic
-[Enter] ⇒ You may pay any amount of life. This card deals that much damage to target resonator your opponent controls.","""So, this is the playground of Lapis. A very interesting world.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4691","Mikage Seijuro","http://d12h0em1d7ppg.cloudfront.net/items/46/4691/image_en/b2a497fb-e5a8-4ac1-a384-cbee82166dba.jpg","AO3-074","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1200","Resonator","Vampire","YAMAMOTO-NAOKI","Alice Origin 3rd Booster Pack","Automatic
-[Enter] ⇒ You may pay any amount of life. This card deals that much damage to target resonator your opponent controls.","""So, this is the playground of Lapis. A very interesting world.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4691","Mikage Seijuro","http://d12h0em1d7ppg.cloudfront.net/items/46/4691/image_en/b2a497fb-e5a8-4ac1-a384-cbee82166dba.jpg","AO3-074","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1200","Resonator","Vampire","YAMAMOTO-NAOKI","Alice Origin 3rd Booster Pack","Automatic
-[Enter] ⇒ You may pay any amount of life. This card deals that much damage to target resonator your opponent controls.","""So, this is the playground of Lapis. A very interesting world.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4692","Mikage Seijuro's Game of Dreams","http://d12h0em1d7ppg.cloudfront.net/items/46/4692/image_en/7a455ef4-7884-4c21-b044-ae3b2f1c147e.jpg","AO3-075","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","IWAO","Alice Origin 3rd Booster Pack","","Life is but a dream.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4692","Mikage Seijuro's Game of Dreams","http://d12h0em1d7ppg.cloudfront.net/items/46/4692/image_en/7a455ef4-7884-4c21-b044-ae3b2f1c147e.jpg","AO3-075","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","IWAO","Alice Origin 3rd Booster Pack","","Life is but a dream.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4692","Mikage Seijuro's Game of Dreams","http://d12h0em1d7ppg.cloudfront.net/items/46/4692/image_en/7a455ef4-7884-4c21-b044-ae3b2f1c147e.jpg","AO3-075","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","IWAO","Alice Origin 3rd Booster Pack","","Life is but a dream.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4692","Mikage Seijuro's Game of Dreams","http://d12h0em1d7ppg.cloudfront.net/items/46/4692/image_en/7a455ef4-7884-4c21-b044-ae3b2f1c147e.jpg","AO3-075","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","IWAO","Alice Origin 3rd Booster Pack","","Life is but a dream.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4693","Milcell, the Clairvoyant Guide","http://d12h0em1d7ppg.cloudfront.net/items/46/4693/image_en/11114bfc-ef28-4fa5-a965-419c290c4172.jpg","AO3-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Human/Wizard","ComamitsuZaki","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4691","Mikage Seijuro","http://d12h0em1d7ppg.cloudfront.net/items/46/4691/image_en/b2a497fb-e5a8-4ac1-a384-cbee82166dba.jpg","AO3-074","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1200","Resonator","Vampire","YAMAMOTO-NAOKI","Alice Origin 3rd Booster Pack","-''-","""So, this is the playground of Lapis. A very interesting world.""","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4691","Mikage Seijuro","http://d12h0em1d7ppg.cloudfront.net/items/46/4691/image_en/b2a497fb-e5a8-4ac1-a384-cbee82166dba.jpg","AO3-074","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1200","Resonator","Vampire","YAMAMOTO-NAOKI","Alice Origin 3rd Booster Pack","-''-","""So, this is the playground of Lapis. A very interesting world.""","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4691","Mikage Seijuro","http://d12h0em1d7ppg.cloudfront.net/items/46/4691/image_en/b2a497fb-e5a8-4ac1-a384-cbee82166dba.jpg","AO3-074","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1200","Resonator","Vampire","YAMAMOTO-NAOKI","Alice Origin 3rd Booster Pack","-''-","""So, this is the playground of Lapis. A very interesting world.""","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4692","Mikage Seijuro's Game of Dreams","http://d12h0em1d7ppg.cloudfront.net/items/46/4692/image_en/7a455ef4-7884-4c21-b044-ae3b2f1c147e.jpg","AO3-075","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","IWAO","Alice Origin 3rd Booster Pack","Card Text
+Each player puts all resonators from their graveyard into the field. Then, each player banishes all resonators not put into the field this way.","Life is but a dream.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4692","Mikage Seijuro's Game of Dreams","http://d12h0em1d7ppg.cloudfront.net/items/46/4692/image_en/7a455ef4-7884-4c21-b044-ae3b2f1c147e.jpg","AO3-075","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","IWAO","Alice Origin 3rd Booster Pack","Card Text
+Each player puts all resonators from their graveyard into the field. Then, each player banishes all resonators not put into the field this way.","Life is but a dream.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4692","Mikage Seijuro's Game of Dreams","http://d12h0em1d7ppg.cloudfront.net/items/46/4692/image_en/7a455ef4-7884-4c21-b044-ae3b2f1c147e.jpg","AO3-075","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","IWAO","Alice Origin 3rd Booster Pack","Card Text
+Each player puts all resonators from their graveyard into the field. Then, each player banishes all resonators not put into the field this way.","Life is but a dream.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4692","Mikage Seijuro's Game of Dreams","http://d12h0em1d7ppg.cloudfront.net/items/46/4692/image_en/7a455ef4-7884-4c21-b044-ae3b2f1c147e.jpg","AO3-075","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","IWAO","Alice Origin 3rd Booster Pack","Card Text
+Each player puts all resonators from their graveyard into the field. Then, each player banishes all resonators not put into the field this way.","Life is but a dream.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4693","Milcell, the Clairvoyant Guide","http://d12h0em1d7ppg.cloudfront.net/items/46/4693/image_en/11114bfc-ef28-4fa5-a965-419c290c4172.jpg","AO3-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Human/Wizard","ComamitsuZaki","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may pay [1] less to play Mage Arts.
+Continuous
+If you don't control ""Milcell, the Clairvoyant Guide"" and your ruler is ""Reflect"" or ""Refrain"", you may pay [R][R][B] or [R][B][B] less to play this card. If this card was played this way, it enters the field with a guide counter on it.
+Continuous
 This card cannot attack as long as there is a guide counter on it.","She will show this world only to people she likes. And nobody on this world will ever notice.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4693","Milcell, the Clairvoyant Guide","http://d12h0em1d7ppg.cloudfront.net/items/46/4693/image_en/11114bfc-ef28-4fa5-a965-419c290c4172.jpg","AO3-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Human/Wizard","ComamitsuZaki","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4693","Milcell, the Clairvoyant Guide","http://d12h0em1d7ppg.cloudfront.net/items/46/4693/image_en/11114bfc-ef28-4fa5-a965-419c290c4172.jpg","AO3-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Human/Wizard","ComamitsuZaki","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may pay [1] less to play Mage Arts.
+Continuous
+If you don't control ""Milcell, the Clairvoyant Guide"" and your ruler is ""Reflect"" or ""Refrain"", you may pay [R][R][B] or [R][B][B] less to play this card. If this card was played this way, it enters the field with a guide counter on it.
+Continuous
 This card cannot attack as long as there is a guide counter on it.","She will show this world only to people she likes. And nobody on this world will ever notice.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4693","Milcell, the Clairvoyant Guide","http://d12h0em1d7ppg.cloudfront.net/items/46/4693/image_en/11114bfc-ef28-4fa5-a965-419c290c4172.jpg","AO3-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Human/Wizard","ComamitsuZaki","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4693","Milcell, the Clairvoyant Guide","http://d12h0em1d7ppg.cloudfront.net/items/46/4693/image_en/11114bfc-ef28-4fa5-a965-419c290c4172.jpg","AO3-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Human/Wizard","ComamitsuZaki","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may pay [1] less to play Mage Arts.
+Continuous
+If you don't control ""Milcell, the Clairvoyant Guide"" and your ruler is ""Reflect"" or ""Refrain"", you may pay [R][R][B] or [R][B][B] less to play this card. If this card was played this way, it enters the field with a guide counter on it.
+Continuous
 This card cannot attack as long as there is a guide counter on it.","She will show this world only to people she likes. And nobody on this world will ever notice.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4693","Milcell, the Clairvoyant Guide","http://d12h0em1d7ppg.cloudfront.net/items/46/4693/image_en/11114bfc-ef28-4fa5-a965-419c290c4172.jpg","AO3-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Human/Wizard","ComamitsuZaki","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4693","Milcell, the Clairvoyant Guide","http://d12h0em1d7ppg.cloudfront.net/items/46/4693/image_en/11114bfc-ef28-4fa5-a965-419c290c4172.jpg","AO3-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Human/Wizard","ComamitsuZaki","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may pay [1] less to play Mage Arts.
+Continuous
+If you don't control ""Milcell, the Clairvoyant Guide"" and your ruler is ""Reflect"" or ""Refrain"", you may pay [R][R][B] or [R][B][B] less to play this card. If this card was played this way, it enters the field with a guide counter on it.
+Continuous
 This card cannot attack as long as there is a guide counter on it.","She will show this world only to people she likes. And nobody on this world will ever notice.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4694","Pricia, Pursuant of Exploding Flame","http://d12h0em1d7ppg.cloudfront.net/items/46/4694/image_en/7f028799-b0b9-421e-8280-1fa789a85968.jpg","AO3-077","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","700 / 400","Resonator","Beast","fzwrAym","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4694","Pricia, Pursuant of Exploding Flame","http://d12h0em1d7ppg.cloudfront.net/items/46/4694/image_en/7f028799-b0b9-421e-8280-1fa789a85968.jpg","AO3-077","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","700 / 400","Resonator","Beast","fzwrAym","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [Precision] [First Strike]
+Activate
+[G]: This card gains [Flying] until end of turn.
+Automatic
 When this card is put into a graveyard from the field ⇒ It deals 500 damage to your opponent.","""I won't need my new power now, but I know that someday I will need every single bit to help new friends."" ーPricia","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4694","Pricia, Pursuant of Exploding Flame","http://d12h0em1d7ppg.cloudfront.net/items/46/4694/image_en/7f028799-b0b9-421e-8280-1fa789a85968.jpg","AO3-077","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 400","Resonator","Beast","fzwrAym","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4694","Pricia, Pursuant of Exploding Flame","http://d12h0em1d7ppg.cloudfront.net/items/46/4694/image_en/7f028799-b0b9-421e-8280-1fa789a85968.jpg","AO3-077","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 400","Resonator","Beast","fzwrAym","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [Precision] [First Strike]
+Activate
+[G]: This card gains [Flying] until end of turn.
+Automatic
 When this card is put into a graveyard from the field ⇒ It deals 500 damage to your opponent.","""I won't need my new power now, but I know that someday I will need every single bit to help new friends."" ーPricia","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4694","Pricia, Pursuant of Exploding Flame","http://d12h0em1d7ppg.cloudfront.net/items/46/4694/image_en/7f028799-b0b9-421e-8280-1fa789a85968.jpg","AO3-077","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","700 / 400","Resonator","Beast","fzwrAym","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4694","Pricia, Pursuant of Exploding Flame","http://d12h0em1d7ppg.cloudfront.net/items/46/4694/image_en/7f028799-b0b9-421e-8280-1fa789a85968.jpg","AO3-077","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","700 / 400","Resonator","Beast","fzwrAym","Alice Origin 3rd Booster Pack","Card Text
+[Swiftness] [Precision] [First Strike]
+Activate
+[G]: This card gains [Flying] until end of turn.
+Automatic
 When this card is put into a graveyard from the field ⇒ It deals 500 damage to your opponent.","""I won't need my new power now, but I know that someday I will need every single bit to help new friends."" ーPricia","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4695","Resistance of the Twelve Protective Deities","http://d12h0em1d7ppg.cloudfront.net/items/46/4695/image_en/259b2d2a-6a70-4224-b550-11155e5031f8.jpg","AO3-078","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Mage Art","SIE NANAHARA","Alice Origin 3rd Booster Pack","","""Such power... Lord Magna, we need help!"" ーLenneth","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4695","Resistance of the Twelve Protective Deities","http://d12h0em1d7ppg.cloudfront.net/items/46/4695/image_en/259b2d2a-6a70-4224-b550-11155e5031f8.jpg","AO3-078","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","SIE NANAHARA","Alice Origin 3rd Booster Pack","","""Such power... Lord Magna, we need help!"" ーLenneth","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4696","Sacred Beast of Artemis","http://d12h0em1d7ppg.cloudfront.net/items/46/4696/image_en/e1ea3caa-f366-4763-b6d1-c2c9485f9be5.jpg","AO3-079","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Beast","gozz","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4695","Resistance of the Twelve Protective Deities","http://d12h0em1d7ppg.cloudfront.net/items/46/4695/image_en/259b2d2a-6a70-4224-b550-11155e5031f8.jpg","AO3-078","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Mage Art","SIE NANAHARA","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If this card was played with will produced by ""Caduceus"", put it into its owner's hand as it resolves. Choose one - Look at the top two cards of your deck. Put a card from among them into your hand and remove the rest from the game; or put a Twelve Protective Deities from your hand into the field.","""Such power... Lord Magna, we need help!"" ーLenneth","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4695","Resistance of the Twelve Protective Deities","http://d12h0em1d7ppg.cloudfront.net/items/46/4695/image_en/259b2d2a-6a70-4224-b550-11155e5031f8.jpg","AO3-078","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","SIE NANAHARA","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If this card was played with will produced by ""Caduceus"", put it into its owner's hand as it resolves. Choose one - Look at the top two cards of your deck. Put a card from among them into your hand and remove the rest from the game; or put a Twelve Protective Deities from your hand into the field.","""Such power... Lord Magna, we need help!"" ーLenneth","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4696","Sacred Beast of Artemis","http://d12h0em1d7ppg.cloudfront.net/items/46/4696/image_en/e1ea3caa-f366-4763-b6d1-c2c9485f9be5.jpg","AO3-079","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Beast","gozz","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may pay [1] less to play this card for each different name among all (Stranger) resonators in your removed area.
+Continuous
 This card gains all attributes, races, activate abilities, and keyword abilities of (Stranger) resonators in your removed area.","A sacred beast from another world.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4696","Sacred Beast of Artemis","http://d12h0em1d7ppg.cloudfront.net/items/46/4696/image_en/e1ea3caa-f366-4763-b6d1-c2c9485f9be5.jpg","AO3-079","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator","Beast","gozz","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4696","Sacred Beast of Artemis","http://d12h0em1d7ppg.cloudfront.net/items/46/4696/image_en/e1ea3caa-f366-4763-b6d1-c2c9485f9be5.jpg","AO3-079","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","1000 / 1000","Resonator","Beast","gozz","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may pay [1] less to play this card for each different name among all (Stranger) resonators in your removed area.
+Continuous
 This card gains all attributes, races, activate abilities, and keyword abilities of (Stranger) resonators in your removed area.","A sacred beast from another world.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4696","Sacred Beast of Artemis","http://d12h0em1d7ppg.cloudfront.net/items/46/4696/image_en/e1ea3caa-f366-4763-b6d1-c2c9485f9be5.jpg","AO3-079","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1000 / 1000","Resonator","Beast","gozz","Alice Origin 3rd Booster Pack","Continuous
+"http://www.fowtcg.com/card/4696","Sacred Beast of Artemis","http://d12h0em1d7ppg.cloudfront.net/items/46/4696/image_en/e1ea3caa-f366-4763-b6d1-c2c9485f9be5.jpg","AO3-079","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1000 / 1000","Resonator","Beast","gozz","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+You may pay [1] less to play this card for each different name among all (Stranger) resonators in your removed area.
+Continuous
 This card gains all attributes, races, activate abilities, and keyword abilities of (Stranger) resonators in your removed area.","A sacred beast from another world.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4697","Scheherazade, the Teller of Heroic Epics","http://d12h0em1d7ppg.cloudfront.net/items/46/4697/image_en/6325f55d-c041-458b-ae9f-9cd0d3d8b4cd.jpg","AO3-080","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","700 / 700","Resonator","Wanderer","noki","Alice Origin 3rd Booster Pack","Activate
-Remove a story counter from this card: Look at a card from your Stranger deck at random. You may play it by paying its cost.","""Now this is an interesting story, a story worth adding to my other 1000.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4697","Scheherazade, the Teller of Heroic Epics","http://d12h0em1d7ppg.cloudfront.net/items/46/4697/image_en/6325f55d-c041-458b-ae9f-9cd0d3d8b4cd.jpg","AO3-080","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","700 / 700","Resonator","Wanderer","noki","Alice Origin 3rd Booster Pack","Activate
-Remove a story counter from this card: Look at a card from your Stranger deck at random. You may play it by paying its cost.","""Now this is an interesting story, a story worth adding to my other 1000.""","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4698","Scheherazade's Heroic Epic","http://d12h0em1d7ppg.cloudfront.net/items/46/4698/image_en/bba4ce50-23ca-43d1-8618-6d11bc753ed7.jpg","AO3-081","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","311tarou","Alice Origin 3rd Booster Pack","","""So, who is the next hero?"" ーScheherazade, the Teller of Heroic Epics","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4698","Scheherazade's Heroic Epic","http://d12h0em1d7ppg.cloudfront.net/items/46/4698/image_en/bba4ce50-23ca-43d1-8618-6d11bc753ed7.jpg","AO3-081","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","311tarou","Alice Origin 3rd Booster Pack","","""So, who is the next hero?"" ーScheherazade, the Teller of Heroic Epics","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4698","Scheherazade's Heroic Epic","http://d12h0em1d7ppg.cloudfront.net/items/46/4698/image_en/bba4ce50-23ca-43d1-8618-6d11bc753ed7.jpg","AO3-081","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","Mage Art","311tarou","Alice Origin 3rd Booster Pack","","""So, who is the next hero?"" ーScheherazade, the Teller of Heroic Epics","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4699","Sigurd, the Covenant King","http://d12h0em1d7ppg.cloudfront.net/items/46/4699/image_en/80cb64a4-11e1-437e-a2c2-5848e195e7d1.jpg","AO3-082","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","King/Zombie","AKI","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4697","Scheherazade, the Teller of Heroic Epics","http://d12h0em1d7ppg.cloudfront.net/items/46/4697/image_en/6325f55d-c041-458b-ae9f-9cd0d3d8b4cd.jpg","AO3-080","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","700 / 700","Resonator","Wanderer","noki","Alice Origin 3rd Booster Pack","Card Text
+[Barrier] (Chant)
+Continuous
+As long as your ruler is ""Reflect"" or ""Refrain"", you gain [Passion] and [Calmness].
+Automatic
+[Enter] ⇒ Put a story counter on this card. If this card was awakened, put five story counters on it instead.
+Activate
+Remove a story counter from this card: Look at a card from your Stranger deck at random. You may play it by paying its cost.
+[Awakening] Rest a recovered regalia you control.","""Now this is an interesting story, a story worth adding to my other 1000.""","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4697","Scheherazade, the Teller of Heroic Epics","http://d12h0em1d7ppg.cloudfront.net/items/46/4697/image_en/6325f55d-c041-458b-ae9f-9cd0d3d8b4cd.jpg","AO3-080","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","700 / 700","Resonator","Wanderer","noki","Alice Origin 3rd Booster Pack","Card Text
+[Barrier] (Chant)
+Continuous
+As long as your ruler is ""Reflect"" or ""Refrain"", you gain [Passion] and [Calmness].
+Automatic
+[Enter] ⇒ Put a story counter on this card. If this card was awakened, put five story counters on it instead.
+Activate
+Remove a story counter from this card: Look at a card from your Stranger deck at random. You may play it by paying its cost.
+[Awakening] Rest a recovered regalia you control.","""Now this is an interesting story, a story worth adding to my other 1000.""","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4698","Scheherazade's Heroic Epic","http://d12h0em1d7ppg.cloudfront.net/items/46/4698/image_en/bba4ce50-23ca-43d1-8618-6d11bc753ed7.jpg","AO3-081","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","311tarou","Alice Origin 3rd Booster Pack","Card Text
+Choose a card from your Stranger deck at random and put it into the field.","""So, who is the next hero?"" ーScheherazade, the Teller of Heroic Epics","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4698","Scheherazade's Heroic Epic","http://d12h0em1d7ppg.cloudfront.net/items/46/4698/image_en/bba4ce50-23ca-43d1-8618-6d11bc753ed7.jpg","AO3-081","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","311tarou","Alice Origin 3rd Booster Pack","Card Text
+Choose a card from your Stranger deck at random and put it into the field.","""So, who is the next hero?"" ーScheherazade, the Teller of Heroic Epics","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4698","Scheherazade's Heroic Epic","http://d12h0em1d7ppg.cloudfront.net/items/46/4698/image_en/bba4ce50-23ca-43d1-8618-6d11bc753ed7.jpg","AO3-081","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","Mage Art","311tarou","Alice Origin 3rd Booster Pack","Card Text
+Choose a card from your Stranger deck at random and put it into the field.","""So, who is the next hero?"" ーScheherazade, the Teller of Heroic Epics","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4699","Sigurd, the Covenant King","http://d12h0em1d7ppg.cloudfront.net/items/46/4699/image_en/80cb64a4-11e1-437e-a2c2-5848e195e7d1.jpg","AO3-082","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","King/Zombie","AKI","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Play this card only from your graveyard.
+Continuous
+Zombies you control gain [Bane].
+Automatic
 [Enter] ⇒ Search your deck for a darkness addition with total cost 2 or less and put it into the field. Then shuffle your deck.","The king is dead, the friend is gone.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4699","Sigurd, the Covenant King","http://d12h0em1d7ppg.cloudfront.net/items/46/4699/image_en/80cb64a4-11e1-437e-a2c2-5848e195e7d1.jpg","AO3-082","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","800 / 800","Resonator","King/Zombie","AKI","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4699","Sigurd, the Covenant King","http://d12h0em1d7ppg.cloudfront.net/items/46/4699/image_en/80cb64a4-11e1-437e-a2c2-5848e195e7d1.jpg","AO3-082","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","800 / 800","Resonator","King/Zombie","AKI","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Play this card only from your graveyard.
+Continuous
+Zombies you control gain [Bane].
+Automatic
 [Enter] ⇒ Search your deck for a darkness addition with total cost 2 or less and put it into the field. Then shuffle your deck.","The king is dead, the friend is gone.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4700","Spiral of Potential and Convergence","http://d12h0em1d7ppg.cloudfront.net/items/47/4700/image_en/44192cb1-d56e-47c1-8ac8-bd8fae2268c8.jpg","AO3-083","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","yua","Alice Origin 3rd Booster Pack","","Even endless possibilities will converge in the end.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4700","Spiral of Potential and Convergence","http://d12h0em1d7ppg.cloudfront.net/items/47/4700/image_en/44192cb1-d56e-47c1-8ac8-bd8fae2268c8.jpg","AO3-083","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","yua","Alice Origin 3rd Booster Pack","","Even endless possibilities will converge in the end.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4701","The End of Friendship","http://d12h0em1d7ppg.cloudfront.net/items/47/4701/image_en/a45bb335-c2d3-47f1-b429-38c2d63203cb.jpg","AO3-084","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","AKI","Alice Origin 3rd Booster Pack","","""Rezzard, you are my last friend, but I will kill you."" ーSigurd, the Covenant King","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4701","The End of Friendship","http://d12h0em1d7ppg.cloudfront.net/items/47/4701/image_en/a45bb335-c2d3-47f1-b429-38c2d63203cb.jpg","AO3-084","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","AKI","Alice Origin 3rd Booster Pack","","""Rezzard, you are my last friend, but I will kill you."" ーSigurd, the Covenant King","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4702","The Last Secret Sword","http://d12h0em1d7ppg.cloudfront.net/items/47/4702/image_en/dc81cea9-1922-42f2-b9c0-f1ca6e1a55ff.jpg","AO3-085","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","Pisuke","Alice Origin 3rd Booster Pack","","""This world is better than you think! As am I."" ーShakti","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4702","The Last Secret Sword","http://d12h0em1d7ppg.cloudfront.net/items/47/4702/image_en/dc81cea9-1922-42f2-b9c0-f1ca6e1a55ff.jpg","AO3-085","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","Pisuke","Alice Origin 3rd Booster Pack","","""This world is better than you think! As am I."" ーShakti","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4702","The Last Secret Sword","http://d12h0em1d7ppg.cloudfront.net/items/47/4702/image_en/dc81cea9-1922-42f2-b9c0-f1ca6e1a55ff.jpg","AO3-085","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Sword Art","Pisuke","Alice Origin 3rd Booster Pack","","""This world is better than you think! As am I."" ーShakti","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4703","Will-o'-the-Wisp (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/47/4703/image_en/ab711a89-37a7-4ffc-8cf3-344f9a809469.jpg","AO3-086","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 1000","Resonator (Stranger)","Spirit","akatsuchi","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4700","Spiral of Potential and Convergence","http://d12h0em1d7ppg.cloudfront.net/items/47/4700/image_en/44192cb1-d56e-47c1-8ac8-bd8fae2268c8.jpg","AO3-083","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","yua","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+If this is the second card you play this turn, you may pay [R] less to play this card. If this is the third card you play this turn, you may pay [B] less to play this card. If this is the fourth card you play this turn, you may pay [R][B] less to play this card.
+If you have [Passion], this card gains ""Look at the top four cards of your deck. Put a card from among them into your hand and the rest on the bottom of your deck in any order."".
+If you have [Calmness], this card gains ""Copy target chant spell you control. You may choose new targets for the copy."".","Even endless possibilities will converge in the end.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4700","Spiral of Potential and Convergence","http://d12h0em1d7ppg.cloudfront.net/items/47/4700/image_en/44192cb1-d56e-47c1-8ac8-bd8fae2268c8.jpg","AO3-083","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","yua","Alice Origin 3rd Booster Pack","-''-","Even endless possibilities will converge in the end.","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4701","The End of Friendship","http://d12h0em1d7ppg.cloudfront.net/items/47/4701/image_en/a45bb335-c2d3-47f1-b429-38c2d63203cb.jpg","AO3-084","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","Mage Art","AKI","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+As an additional cost to play this card, banish a resonator.
+Your opponent banishes two resonators.","""Rezzard, you are my last friend, but I will kill you."" ーSigurd, the Covenant King","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4701","The End of Friendship","http://d12h0em1d7ppg.cloudfront.net/items/47/4701/image_en/a45bb335-c2d3-47f1-b429-38c2d63203cb.jpg","AO3-084","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Mage Art","AKI","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast]
+As an additional cost to play this card, banish a resonator.
+Your opponent banishes two resonators.","""Rezzard, you are my last friend, but I will kill you."" ーSigurd, the Covenant King","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4702","The Last Secret Sword","http://d12h0em1d7ppg.cloudfront.net/items/47/4702/image_en/dc81cea9-1922-42f2-b9c0-f1ca6e1a55ff.jpg","AO3-085","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","Pisuke","Alice Origin 3rd Booster Pack","Card Text
+You may banish all but one entity you control and discard your hand rather than pay this card's cost.
+This card deals 1000 damage to your opponent.","""This world is better than you think! As am I."" ーShakti","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4702","The Last Secret Sword","http://d12h0em1d7ppg.cloudfront.net/items/47/4702/image_en/dc81cea9-1922-42f2-b9c0-f1ca6e1a55ff.jpg","AO3-085","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","Pisuke","Alice Origin 3rd Booster Pack","Card Text
+You may banish all but one entity you control and discard your hand rather than pay this card's cost.
+This card deals 1000 damage to your opponent.","""This world is better than you think! As am I."" ーShakti","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4702","The Last Secret Sword","http://d12h0em1d7ppg.cloudfront.net/items/47/4702/image_en/dc81cea9-1922-42f2-b9c0-f1ca6e1a55ff.jpg","AO3-085","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Sword Art","Pisuke","Alice Origin 3rd Booster Pack","Card Text
+You may banish all but one entity you control and discard your hand rather than pay this card's cost.
+This card deals 1000 damage to your opponent.","""This world is better than you think! As am I."" ーShakti","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4703","Will-o'-the-Wisp (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/47/4703/image_en/ab711a89-37a7-4ffc-8cf3-344f9a809469.jpg","AO3-086","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 1000","Resonator (Stranger)","Spirit","akatsuchi","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Barrier]
+Automatic
+[Enter] ⇒ Draw a card.
+Activate
 [0]: Return this card to its owner's hand.","""His name is Arla, the king of Armalla. I sent him my angel and the Wings of the Archangel, the power to counter that negative energy and rise to the sky."" ーNote of Magna 27","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4703","Will-o'-the-Wisp (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/47/4703/image_en/ab711a89-37a7-4ffc-8cf3-344f9a809469.jpg","AO3-086","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","0 / 1000","Resonator (Stranger)","Spirit","akatsuchi","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4703","Will-o'-the-Wisp (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/47/4703/image_en/ab711a89-37a7-4ffc-8cf3-344f9a809469.jpg","AO3-086","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","0 / 1000","Resonator (Stranger)","Spirit","akatsuchi","Alice Origin 3rd Booster Pack","Card Text
+[Quickcast] [Barrier]
+Automatic
+[Enter] ⇒ Draw a card.
+Activate
 [0]: Return this card to its owner's hand.","""His name is Arla, the king of Armalla. I sent him my angel and the Wings of the Archangel, the power to counter that negative energy and rise to the sky."" ーNote of Magna 27","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4704","Wings of the Archangel","http://d12h0em1d7ppg.cloudfront.net/items/47/4704/image_en/fedec07d-5f4f-4edb-88d4-e8036f783e12.jpg","AO3-087","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Regalia","","KONNO Takashi","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4704","Wings of the Archangel","http://d12h0em1d7ppg.cloudfront.net/items/47/4704/image_en/fedec07d-5f4f-4edb-88d4-e8036f783e12.jpg","AO3-087","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Regalia","","KONNO Takashi","Alice Origin 3rd Booster Pack","Card Text
+[Mythic]
+Continuous
+Your J-ruler gains [Flying].
+Activate
 [Rest]: Produce two wills in any combination of [W] and/or [G]. Spend this will only to play God's Art abilities, Sword Arts, or Angels.","Wings of embodied faith.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4704","Wings of the Archangel","http://d12h0em1d7ppg.cloudfront.net/items/47/4704/image_en/fedec07d-5f4f-4edb-88d4-e8036f783e12.jpg","AO3-087","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Regalia","","KONNO Takashi","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4704","Wings of the Archangel","http://d12h0em1d7ppg.cloudfront.net/items/47/4704/image_en/fedec07d-5f4f-4edb-88d4-e8036f783e12.jpg","AO3-087","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Regalia","","KONNO Takashi","Alice Origin 3rd Booster Pack","Card Text
+[Mythic]
+Continuous
+Your J-ruler gains [Flying].
+Activate
 [Rest]: Produce two wills in any combination of [W] and/or [G]. Spend this will only to play God's Art abilities, Sword Arts, or Angels.","Wings of embodied faith.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4705","Wounded Black Dragon","http://d12h0em1d7ppg.cloudfront.net/items/47/4705/image_en/0ef42434-7928-4d0c-98e2-0829a20141e8.jpg","AO3-088","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","Yukie TAJIMA","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4705","Wounded Black Dragon","http://d12h0em1d7ppg.cloudfront.net/items/47/4705/image_en/0ef42434-7928-4d0c-98e2-0829a20141e8.jpg","AO3-088","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","Yukie TAJIMA","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Automatic
+When this card is dealt damage ⇒ Banish it.
+Automatic
 When this card is put into a graveyard from the field ⇒ Put target Sword Art from your graveyard into your hand.","""I'll bury your sword with your father."" ーMelgis","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4705","Wounded Black Dragon","http://d12h0em1d7ppg.cloudfront.net/items/47/4705/image_en/0ef42434-7928-4d0c-98e2-0829a20141e8.jpg","AO3-088","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Dragon","Yukie TAJIMA","Alice Origin 3rd Booster Pack","Automatic
+"http://www.fowtcg.com/card/4705","Wounded Black Dragon","http://d12h0em1d7ppg.cloudfront.net/items/47/4705/image_en/0ef42434-7928-4d0c-98e2-0829a20141e8.jpg","AO3-088","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Dragon","Yukie TAJIMA","Alice Origin 3rd Booster Pack","Card Text
+[Flying]
+Automatic
+When this card is dealt damage ⇒ Banish it.
+Automatic
 When this card is put into a graveyard from the field ⇒ Put target Sword Art from your graveyard into your hand.","""I'll bury your sword with your father."" ーMelgis","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4706","Attoractia’s Memoria","http://d12h0em1d7ppg.cloudfront.net/items/47/4706/image_en/a8b89f4a-dc09-4d02-b2fd-eb42314b413d.jpg","AO3-089","N","","","Special Magic Stone","","Moopic","Alice Origin 3rd Booster Pack","","""This is the powersource Lord Magna made to extract the memories. He calls it a Memoria."" Lenneth, the Priestess of Vell-Savaria","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4707","Magic Stone of Black Silence","http://d12h0em1d7ppg.cloudfront.net/items/47/4707/image_en/0a135a46-d75e-4763-8878-4c3fac512a79.jpg","AO3-090","R","","","Special Magic Stone","","Moopic","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4706","Attoractia’s Memoria","http://d12h0em1d7ppg.cloudfront.net/items/47/4706/image_en/a8b89f4a-dc09-4d02-b2fd-eb42314b413d.jpg","AO3-089","N","","","Special Magic Stone","","Moopic","Alice Origin 3rd Booster Pack","Card Text
+[Rest]: Produce one will of any attribute shared with your J/ruler.","""This is the powersource Lord Magna made to extract the memories. He calls it a Memoria."" Lenneth, the Priestess of Vell-Savaria","Alice Origin 3rd Booster Pack"
+"http://www.fowtcg.com/card/4707","Magic Stone of Black Silence","http://d12h0em1d7ppg.cloudfront.net/items/47/4707/image_en/0a135a46-d75e-4763-8878-4c3fac512a79.jpg","AO3-090","R","","","Special Magic Stone","","Moopic","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Treat this card as a wind magic stone and darkness magic stone.
+Activate
 [rest]: Produce [G] or [B].","A darkness cast from the absence of light; A tranquility devoid of all sound.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4708","Magic Stone of Gusting Skies","http://d12h0em1d7ppg.cloudfront.net/items/47/4708/image_en/4f4f4a2d-2660-4288-a8c4-cb8c7c2ac1dc.jpg","AO3-091","R","","","Special Magic Stone","","Nekobayashi","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4708","Magic Stone of Gusting Skies","http://d12h0em1d7ppg.cloudfront.net/items/47/4708/image_en/4f4f4a2d-2660-4288-a8c4-cb8c7c2ac1dc.jpg","AO3-091","R","","","Special Magic Stone","","Nekobayashi","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Treat this card as a light magic stone and wind magic stone.
+Activate
 [rest]: Produce [W] or [G].","A momentary shine that reflects in the sky.","Alice Origin 3rd Booster Pack"
-"http://www.fowtcg.com/card/4709","Magic Stone of Hearth's Core","http://d12h0em1d7ppg.cloudfront.net/items/47/4709/image_en/5148d6b9-2732-462f-8c32-5d4f83f71588.jpg","AO3-092","R","","","Special Magic Stone","","gozz","Alice Origin 3rd Booster Pack","Activate
+"http://www.fowtcg.com/card/4709","Magic Stone of Hearth's Core","http://d12h0em1d7ppg.cloudfront.net/items/47/4709/image_en/5148d6b9-2732-462f-8c32-5d4f83f71588.jpg","AO3-092","R","","","Special Magic Stone","","gozz","Alice Origin 3rd Booster Pack","Card Text
+Continuous
+Treat this card as a fire magic stone and water magic stone.
+Activate
 [rest]: Produce [R] or [U].","A passion like burning flames; A presence as cold as ice.","Alice Origin 3rd Booster Pack"

@@ -1,68 +1,13 @@
-import { Component, OnInit } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
-
-// Promos Import
-import pr from 'src/assets/Promos/promos.json';
-
-// Grimm Cluster Imports
-import cmf from 'src/assets/Grimm/cmf.json';
-import tat from 'src/assets/Grimm/tat.json';
-import mpr from 'src/assets/Grimm/mpr.json';
-import moa from 'src/assets/Grimm/moa.json';
-import vin001 from 'src/assets/Grimm/vin001.json';
-
-// Alice Cluster Imports
-import vs01 from 'src/assets/Alice/vs01.json';
-import skl from 'src/assets/Alice/skl.json';
-import ttw from 'src/assets/Alice/ttw.json';
-import tms from 'src/assets/Alice/tms.json';
-import bfa from 'src/assets/Alice/bfa.json';
-import vin002 from 'src/assets/Alice/vin002.json';
-
-// Lapis Cluster Imports
-import sdl from 'src/assets/Lapis/sdl.json';
-import cfc from 'src/assets/Lapis/cfc.json';
-import lel from 'src/assets/Lapis/lel.json';
-import rde from 'src/assets/Lapis/rde.json';
-import enw from 'src/assets/Lapis/enw.json';
-import vin003 from 'src/assets/Lapis/vin003.json';
-
-// Reiya Cluster Imports
-import sdr from 'src/assets/Reiya/sdr.json';
-import acn from 'src/assets/Reiya/acn.json';
-import adk from 'src/assets/Reiya/adk.json';
-import sdr6 from 'src/assets/Reiya/sdr6.json';
-import tsw from 'src/assets/Reiya/tsw.json';
-import wom from 'src/assets/Reiya/wom.json';
-
-// New Valhalla Cluster Imports
-import sdv from 'src/assets/New Valhalla/sdv.json';
-import ndr from 'src/assets/New Valhalla/ndr.json';
-import snv from 'src/assets/New Valhalla/snv.json';
-import aoa from 'src/assets/New Valhalla/aoa.json';
-import dbv from 'src/assets/New Valhalla/dbv.json';
-
-// Alice Origins Cluster Imports
-import ao1 from 'src/assets/Alice Origins/ao1.json';
-import sdao1 from 'src/assets/Alice Origins/sdao1.json';
-import ao2 from 'src/assets/Alice Origins/ao2.json';
-import sdao2 from 'src/assets/Alice Origins/sdao2.json';
-import ao3 from 'src/assets/Alice Origins/ao3.json';
-import gits2045sd from 'src/assets/Alice Origins/gits2045sd.json';
-import gits2045 from 'src/assets/Alice Origins/gits2045.json';
-import pofa from 'src/assets/Alice Origins/pofa.json';
-
-// Saga Cluster Imports
-import edl from 'src/assets/Saga/edl.json';
-import msw from 'src/assets/Saga/msw.json';
+import { Component, Input, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
+import { CardFetcherService } from '../card-fetcher.service';
 
 @Component({
-  selector: 'app-card-fetcher',
-  templateUrl: './card-fetcher.component.html',
-  styleUrls: ['./card-fetcher.component.scss']
+  selector: 'app-card-searcher',
+  templateUrl: './card-searcher.component.html',
+  styleUrls: ['./card-searcher.component.scss']
 })
-export class CardFetcherComponent implements OnInit {
-
+export class CardSearcherComponent implements OnInit {
   // Relationship of Clusters to Sets as an object
   clusters = { Promos: ['PROMOS'],
                Grimm: ['CMF', 'TAT', 'MPR', 'MOA', 'VIN001'],
@@ -73,67 +18,45 @@ export class CardFetcherComponent implements OnInit {
                'Alice Origins': ['AO1', 'SDAO1', 'AO2', 'SDAO2', 'AO3', 'GITS2045SD', 'GITS2045', 'POFA'],
                Saga: ['EDL', 'MSW'],
              };
-
+  cards: any = [];
+  searchArray: any = [];
   cluster = '';
   set = '';
-  cards: any = [];
-  cardsTest: any = [];
-  card: any;
   cardIndex = 0;
   setIndex = 0;
-  jumpVar = 0;
+  searchIndexArray = [];
+  details = false;
 
-  constructor(private httpClient: HttpClient) { }
+  constructor(public cfs: CardFetcherService, private router: Router) { }
 
   ngOnInit(): void {
-    this.cards.push(pr); // Promos
-    this.cards.push(cmf); // Grimm Cluster
-    this.cards.push(tat);
-    this.cards.push(mpr);
-    this.cards.push(moa);
-    this.cards.push(vin001);
-    this.cards.push(vs01); // Alice Cluster
-    this.cards.push(skl);
-    this.cards.push(ttw);
-    this.cards.push(tms);
-    this.cards.push(bfa);
-    this.cards.push(vin002);
-    this.cards.push(sdl); // Lapis Cluster
-    this.cards.push(cfc);
-    this.cards.push(lel);
-    this.cards.push(rde);
-    this.cards.push(enw);
-    this.cards.push(vin003);
-    this.cards.push(sdr); // Reiya Cluster
-    this.cards.push(acn);
-    this.cards.push(adk);
-    this.cards.push(sdr6);
-    this.cards.push(tsw);
-    this.cards.push(wom);
-    this.cards.push(sdv); // New Valhalla Cluster
-    this.cards.push(ndr);
-    this.cards.push(snv);
-    this.cards.push(aoa);
-    this.cards.push(dbv);
-    this.cards.push(ao1); // Alice Origins Cluster
-    this.cards.push(sdao1);
-    this.cards.push(ao2);
-    this.cards.push(sdao2);
-    this.cards.push(ao3);
-    this.cards.push(gits2045sd);
-    this.cards.push(gits2045);
-    this.cards.push(pofa);
-    this.cards.push(edl); // Saga Cluster
-    this.cards.push(msw);
-
-    console.log(this.cards);
-    // console.log(this.cardsTest);
-
-    this.initializeCard();
+    this.cards = this.cfs.getCards();
   }
 
-  initializeCard() {
-    this.card = this.cards[this.setIndex].card[this.cardIndex];
+  // Retrieve and display cards of a given name
+  searchCard() {
+    this.searchArray = [];
+    this.searchIndexArray = [];
+    const vStr = document.getElementById('search') as unknown as HTMLInputElement;
+    const v = String(vStr.value);
+    for (let i = 0; i < this.cards.length; i++) { // const set of this.cards
+      for (let j = 0; j < this.cards[i].card.length; j++) { // const card of set.card
+        if (v === String(this.cards[i].card[j].name)) {
+          this.searchIndexArray.push({s: i, c: j});
+          this.searchArray.push(this.cards[i].card[j]);
+        }
+      }
+    }
+  }
+
+  // Choose a set based on the cluster and then display all cards in the set
+  getSet(sIndex) {
+    this.searchArray = [];
+    this.searchIndexArray = [];
+    for (let i = 0; i < this.cards[sIndex].card.length; i++) { // const card of this.cards[sIndex].card
+      this.searchIndexArray.push({s: sIndex, c: i});
+      this.searchArray.push(this.cards[sIndex].card[i]);
+    }
   }
 
   clusterSelected(event: any) {
@@ -224,15 +147,37 @@ export class CardFetcherComponent implements OnInit {
       this.setIndex = 38;
     }
 
-    this.initializeCard();
+    this.getSet(this.setIndex);
   }
 
-  // Move to the next card in the array
+  // Display a cards individual details
+  getDetailsFromSearch(card: any, i) {
+    this.setIndex = this.searchIndexArray[i].s;
+    this.cardIndex = this.searchIndexArray[i].c;
+    console.log('Set:', this.setIndex, 'Card:', this.cardIndex);
+    this.cfs.setCard(card);
+    this.details = true;
+  }
+
+  // Display a cards individual details
+  getDetails(card: any, i) {
+    this.cardIndex = i;
+    this.cfs.setCard(card);
+    this.details = true;
+  }
+
+  // Initialize a card for moving between cards details in a given set
+  initializeCard() {
+    console.log(this.cards[this.setIndex].card[this.cardIndex]);
+    this.getDetails(this.cards[this.setIndex].card[this.cardIndex], this.cardIndex);
+  }
+
+   // Move to the next card in the array
   nextCard() {
     if (this.cardIndex < this.cards[this.setIndex].card.length - 1) {
       this.cardIndex += 1;
-      console.log(this.cardIndex);
       this.initializeCard();
+      setTimeout(() => { }, 750); // Delay load of button click still buggy
     } else {
       console.log('This is the last card in the set.');
     }
@@ -242,8 +187,8 @@ export class CardFetcherComponent implements OnInit {
   prevCard() {
     if (this.cardIndex !== 0) {
       this.cardIndex -= 1;
-      console.log(this.cardIndex);
       this.initializeCard();
+      setTimeout(() => { }, 750); // Delay load of button click still buggy
     } else {
       console.log('This is the first card in the set.');
     }
@@ -258,14 +203,18 @@ export class CardFetcherComponent implements OnInit {
       v -= 1;
       if (v < this.cards[this.setIndex].card.length && v >= 0) {
         this.cardIndex = v;
-        console.log(this.cardIndex);
         this.initializeCard();
+        setTimeout(() => { }, 1500); // Delay load of button click still buggy
       } else {
         console.log('That value is outside of the current set.');
       }
     } else {
       console.log('That value is outside of the current set.');
     }
+  }
+
+  goBack() {
+    this.details = false;
   }
 
 }

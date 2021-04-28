@@ -1,31 +1,57 @@
 .row {
     display: flex;
+    // width: 100%;
+    margin: auto;
 }
 
+// .col {
+//     margin: auto;
+//     text-align: center;
+//     display: table-cell;
+//     padding: 16px;
+// }
+
 .column1 {
-    flex: 33%;
-    height: 552px;
+    flex: 25%;
     background-color: #aaa;
+    text-align: center;
+    // height: auto;
+    // margin: auto;
+    // display: table-cell;
 }
 
 .column2 {
-    flex: 67%;
-    height: 552px;
+    flex: 75%;
     background-color:#bbb;
-    white-space: pre-wrap; 
+    white-space: pre-wrap;
 }
+
+img#cardimage {
+    width: 350px; 
+    height: 488px; 
+    padding: 25px;
+}
+
+.url {
+    padding: 25px;
+    text-align: center;
+}
+
+.details {
+    margin: auto;
+    padding: 25px;
+}
+
+.section {
+    border: 1px solid black;
+}
+
 ul#costbreakdown {
     padding-inline-start: 0px;
 }
 
 ul#costbreakdown li {
     display:inline;
-}
-
-img#cardimage {
-    width: 350px; 
-    height: 488px; 
-    padding: 32px;
 }
 
 img#cost {

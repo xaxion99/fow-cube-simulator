@@ -16,6 +16,7 @@
    "type": "Chant",
    "artist": "夕子",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nThis card deals 500 damage to target resonator or player.\n\n[Break] This card deals 500 damage to target resonator or player.",
    "all_sets": "PR Card"
   },
   {
@@ -36,7 +37,7 @@
    "race": "Deity",
    "artist": "ケルビン",
    "expansion": "PR Card",
-   "text": "Activate\nRemove a resonator in your graveyard from the game: Put this card from your graveyard into your field rested. You may play only once per turn, during your turn.",
+   "text": "Activate\n\nRemove a resonator in your graveyard from the game: Put this card from your graveyard into your field rested. You may play only once per turn, during your turn.",
    "all_sets": "PR Card"
   },
   {
@@ -48,7 +49,7 @@
    "race": "Samurai",
    "artist": "ezusuke",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: This card deals 300 damage to target resonator.",
+   "text": "Judgement\n\n[R][R][R][2]\n\nContinuous\n\nIf a spell or ability you control would deal damage, it deals that much +100 instead.\n\nActivate\n\n[rest]: This card deals 300 damage to target resonator.",
    "all_sets": "PR Card"
   },
   {
@@ -61,7 +62,7 @@
    "race": "Deity",
    "artist": "手羽缶",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: This card deals 300 damage to target resonator.",
+   "text": "Automatic\n\n[Enter] This card deals 1000 damage to two target resonators.\n\nActivate\n\n[rest]: This card deals 300 damage to target resonator.",
    "all_sets": "PR Card"
   },
   {
@@ -79,7 +80,7 @@
    "race": "Elf",
    "artist": "Moopic",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "PR Card"
   },
   {
@@ -97,7 +98,7 @@
    "race": "Samurai",
    "artist": "石商",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: This card deals 400 damage to target resonator or player.",
+   "text": "Activate\n\nBanish this card: This card deals 400 damage to target resonator or player.\n\n[Break] This card deals 400 damage to target resonator.",
    "all_sets": "PR Card"
   },
   {
@@ -115,7 +116,7 @@
    "race": "Divine Tree",
    "artist": "Tobi",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: Destroy target card in a standby area.",
+   "text": "Continuous\n\nThis card cannot attack.\n\nAutomatic\n\n[Enter] You may discard a wind card. If you do, Produce [G][G][G].\n\nActivate\n\nBanish this card: Destroy target card in a standby area.",
    "all_sets": "PR Card"
   },
   {
@@ -139,7 +140,7 @@
    "race": "Nightmare",
    "artist": "gekko",
    "expansion": "PR Card",
-   "text": "Activate\nWhen this card is put into a graveyard from your field ⇒ Choose target resonator. Put this card into your field as an [Addition: Resonator] added to the chosen resonator resonator. This card gains \"Added resonator gains [-400/-400].\" . You may play only once per turn.",
+   "text": "Activate\n\nWhen this card is put into a graveyard from your field ⇒ Choose target resonator. Put this card into your field as an [Addition: Resonator] added to the chosen resonator resonator. This card gains \"Added resonator gains [-400/-400].\" . You may play only once per turn.",
    "all_sets": "PR Card"
   },
   {
@@ -163,7 +164,7 @@
    "race": "Oracle",
    "artist": "石商",
    "expansion": "PR Card",
-   "text": "Automatic\nAt the beginning of your end phase ⇒ Draw a number of cards equal to seven minus the number of cards in your hand.",
+   "text": "Automatic\n\nAt the beginning of your end phase ⇒ Draw a number of cards equal to seven minus the number of cards in your hand.",
    "all_sets": "PR Card"
   },
   {
@@ -187,7 +188,7 @@
    "race": "Deity",
    "artist": "ネム",
    "expansion": "PR Card",
-   "text": "Activate\n[W][W]: Up to two target resonator's ATK become 0 until end of turn.",
+   "text": "Activate\n\n[W][W]: Up to two target resonator's ATK become 0 until end of turn.",
    "all_sets": "PR Card"
   },
   {
@@ -211,7 +212,7 @@
    "race": "Deity",
    "artist": "もぐも",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Destroy target addition.",
+   "text": "Continuous\n\nThis card cannot be attacked by resonators your opponent controls.\n\nActivate\n\n[rest]: Prevent all battle damage that would be dealt to target resonator until end of turn. It cannot be targeted by chants until end of turn.\n\nActivate\n\n[rest]: Destroy target addition.",
    "all_sets": "PR Card"
   },
   {
@@ -230,6 +231,7 @@
    "type": "Chant",
    "artist": "じゅん",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nDestroy target addition.\n\n[Break] Destroy target addition.",
    "all_sets": "PR Card"
   },
   {
@@ -259,7 +261,7 @@
    "race": "Deity",
    "artist": "lack",
    "expansion": "PR Card",
-   "text": "Automatic\n[Enter] This card deals 1000 damage to you and each resonator your opponent controls.",
+   "text": "[Swiftness] [Pierce]\n\nAutomatic\n\n[Enter] This card deals 1000 damage to you and each resonator your opponent controls.",
    "all_sets": "PR Card"
   },
   {
@@ -283,7 +285,7 @@
    "race": "Phantom",
    "artist": "ねじ太",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen a resonator is summoned ⇒ You may reveal this card from your hand and pay [U][U]. If you do, put this card into your field. This card's ATK, DEF and abilities become those of the resonator that was summoned.",
+   "text": "Automatic\n\nWhen a resonator is summoned ⇒ You may reveal this card from your hand and pay [U][U]. If you do, put this card into your field. This card's ATK, DEF and abilities become those of the resonator that was summoned.",
    "all_sets": "PR Card"
   },
   {
@@ -305,6 +307,7 @@
    "type": "Chant",
    "artist": "おぐち",
    "expansion": "PR Card",
+   "text": "Each player discards their hand, then each player draws four cards.\n\n[Break] Each player draws two cards.",
    "all_sets": "PR Card"
   },
   {
@@ -323,6 +326,7 @@
    "type": "Chant",
    "artist": "kawaryu",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nReturn target resonator to its owner's hand.\n\n[Break] Return target resonator to its owner's hand.",
    "all_sets": "PR Card"
   },
   {
@@ -343,7 +347,7 @@
    "race": "Demon",
    "artist": "ezusuke",
    "expansion": "PR Card",
-   "text": "Continuous\nThis card's ATK and DEF are equal to the amount of life you paid as you played this card.",
+   "text": "Continuous\n\nAs an additional cost to play this card, pay any amount of life in multiples of 100.\n\nContinuous\n\nThis card's ATK and DEF are equal to the amount of life you paid as you played this card.",
    "all_sets": "PR Card"
   },
   {
@@ -362,6 +366,7 @@
    "type": "Chant",
    "artist": "じゅにあ",
    "expansion": "PR Card",
+   "text": "[Trigger] At the beginning of battle during your opponent's turn ⇒ End the battle. Your opponent cannot declare attack this turn.\n\n[Break] Prevent any damage that would be dealt until end of turn.",
    "all_sets": "PR Card"
   },
   {
@@ -380,7 +385,7 @@
    "type": "Addition:Resonator in your graveyard",
    "artist": "ani",
    "expansion": "PR Card",
-   "text": "Continuous\nAdded resonator gains [-200/-200].",
+   "text": "Activate\n\nWhen this card enters your field ⇒ Put added resonator into your field. This card becomes an [Addition: Resonator] added to that resonator.\n\nContinuous\n\nWhen this card leaves your field for a non-field zone ⇒ Destroy added resonator.\n\nContinuous\n\nAdded resonator gains [-200/-200].",
    "all_sets": "PR Card"
   },
   {
@@ -396,6 +401,7 @@
    "type": "Chant",
    "artist": "T・S",
    "expansion": "PR Card",
+   "text": "You lose 400 life. Produce [B][B][B]. Play \"Oath of Dark Night\" only once per game.\n\n[Break] Draw a card.",
    "all_sets": "PR Card"
   },
   {
@@ -417,6 +423,7 @@
    "type": "Chant",
    "artist": "雨松",
    "expansion": "PR Card",
+   "text": "Put all magic stones on the bottom of their owners' magic stone decks.",
    "all_sets": "PR Card"
   },
   {
@@ -432,7 +439,7 @@
    "type": "Addition:J/Ruler",
    "artist": "有",
    "expansion": "PR Card",
-   "text": "Continuous\nAs this card enters your field, choose a non-ability of the J/ruler this card is targeting. Added J/ruler loses that ability.",
+   "text": "Continuous\n\nAs this card enters your field, choose a non-ability of the J/ruler this card is targeting. Added J/ruler loses that ability.\n\n[Break] Put this card into your hand.",
    "all_sets": "PR Card"
   },
   {
@@ -451,6 +458,7 @@
    "type": "Chant",
    "artist": "塗夢",
    "expansion": "PR Card",
+   "text": "[Trigger] Anytime: Destroy target addition.\n\n[Break] Destroy target addition.",
    "all_sets": "PR Card"
   },
   {
@@ -474,7 +482,7 @@
    "race": "Deity",
    "artist": "匈歌ハトリ",
    "expansion": "PR Card",
-   "text": "Activate\nBanish a Lifebreak: Target resonator gains [-300/-300] until end of turn.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Destroy target resonator.\n\nAutomatic\n\n[Enter] Destroy target resonator you control. Then put a resonator from your graveyard into your field.\n\nActivate\n\nBanish a Lifebreak: Target resonator gains [-300/-300] until end of turn.\n\n[Break] Destroy target resonator you control and discard a card.",
    "all_sets": "PR Card"
   },
   {
@@ -495,7 +503,7 @@
    "race": "Knight",
    "artist": "塗夢",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: Put target resonator other than \"Reanimated Knight\" with total cost three or less from your graveyard into your field.",
+   "text": "Activate\n\nBanish this card: Put target resonator other than \"Reanimated Knight\" with total cost three or less from your graveyard into your field.",
    "all_sets": "PR Card"
   },
   {
@@ -513,7 +521,7 @@
    "race": "Vampire",
    "artist": "ヒロモト森一",
    "expansion": "PR Card",
-   "text": "Automatic\nAt the beginning of your recovery phase ⇒ You lose 400 life.",
+   "text": "Automatic\n\nAt the beginning of your recovery phase ⇒ You lose 400 life.",
    "all_sets": "PR Card"
   },
   {
@@ -532,6 +540,7 @@
    "type": "Chant",
    "artist": "夕子",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nSearch your deck for three resonators with different names and reveal them. If you chose three cards, your opponent chooses a card among them and puts it into your graveyard. Shuffle the rest into your deck.\n\n[Break] Put the top five cards of each player's deck into their graveyard.",
    "all_sets": "PR Card"
   },
   {
@@ -553,6 +562,7 @@
    "type": "Chant",
    "artist": "ぽしー",
    "expansion": "PR Card",
+   "text": "Return target spell to its owner's hand. Draw a card.",
    "all_sets": "PR Card"
   },
   {
@@ -571,6 +581,7 @@
    "type": "Chant",
    "artist": "夕子",
    "expansion": "PR Card",
+   "text": "Put a copy of target spell on the chase. You may choose new targets for that copy.\n\n[Break] Put target chant without [Quickcast] and [Trigger] from your graveyard into your hand.",
    "all_sets": "PR Card"
   },
   {
@@ -594,7 +605,7 @@
    "race": "Deity",
    "artist": "ピスケ",
    "expansion": "PR Card",
-   "text": "Continuous\nIf a player would gain life, this card deals that much damage to that player instead.",
+   "text": "Continuous\n\nThis card cannot be attacked by resonators.\n\nContinuous\n\nIf a player would gain life, this card deals that much damage to that player instead.",
    "all_sets": "PR Card"
   },
   {
@@ -610,7 +621,7 @@
    "type": "Addition: Field",
    "artist": "塗夢",
    "expansion": "PR Card",
-   "text": "Continuous\nPlayers cannot pay life.",
+   "text": "Continuous\n\nPlayers cannot pay life.\n\n[Break] Put this card into your hand.",
    "all_sets": "PR Card"
   },
   {
@@ -634,7 +645,7 @@
    "race": "Fairy Tale/Mage",
    "artist": "kakotomirai",
    "expansion": "PR Card",
-   "text": "Automatic\nWhenever this card attacks ⇒ Rest target resonator your opponent controls. It doesn't recover during the recovery phase as long as this card is in a field.",
+   "text": "Automatic\n\n[Enter]Rest target resonator your opponent controls. It doesn't recover during the recovery phase as long as this card is in a field.\n\nAutomatic\n\nWhenever this card attacks ⇒ Rest target resonator your opponent controls. It doesn't recover during the recovery phase as long as this card is in a field.",
    "flavor_text": "The sounds of his flute can entice anything; even vampires.",
    "all_sets": "PR Card"
   },
@@ -654,6 +665,7 @@
    "type": "Chant",
    "artist": "gekko",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nChoose one. If you control \"Juliet, the Hope\" and \"Romeo, the Despair\", choose up to three instead -\n\nDestroy target addition;\n\nor draw a card; or remove target resonator from the game, then put it into its owner's field.",
    "flavor_text": "Juliet's dream was to live with Romeo happily ever after. Now it is time for that dream to become reality.",
    "all_sets": "PR Card"
   },
@@ -675,7 +687,7 @@
    "race": "Fairy Tale/Human",
    "artist": "douzen",
    "expansion": "PR Card",
-   "text": "Activate\nYour opponent cannot add [Addition: Resonator] cards.",
+   "text": "Automatic\n\n[Enter]Destroy all [Addition: Resonator] cards your opponent controls.\n\nActivate\n\nYour opponent cannot add [Addition: Resonator] cards.",
    "flavor_text": "\"Perhaps you should try some new clothes on too!\"",
    "all_sets": "PR Card"
   },
@@ -694,6 +706,7 @@
    "race": "Fairy Tale/Human",
    "artist": "見田航介",
    "expansion": "PR Card",
+   "text": "[Swiftness] (This card can attack and play its abilities the same turn it enters a field.)",
    "all_sets": "PR Card"
   },
   {
@@ -712,6 +725,7 @@
    "type": "Chant",
    "artist": "kawaryu",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nBanish a resonator. If you do, draw two cards. If you banished a Human this way, draw three cards instead.",
    "flavor_text": "\"Oh... yes... I hear you. Oh Lord, what should I do next?\" —Jeanne d'Arc, the Flame of Hatred",
    "all_sets": "PR Card"
   },
@@ -730,7 +744,7 @@
    "race": "Elf",
    "artist": "Moopic",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "PR Card"
   },
   {
@@ -751,7 +765,7 @@
    "race": "Nightmare/Immortal/Prince",
    "artist": "Mz.縞",
    "expansion": "PR Card",
-   "text": "Automatic\n[Enter]Put target resonator from your graveyard into your hand.",
+   "text": "Automatic\n\n[Enter]Put target resonator from your graveyard into your hand.",
    "flavor_text": "He mistakenly believed Snow White was already dead. That is why he took her body to his castle.",
    "all_sets": "PR Card"
   },
@@ -771,7 +785,7 @@
    "type": "Addition: Field",
    "artist": "今野隼史",
    "expansion": "PR Card",
-   "text": "Continuous\nRecovered resonators you control cannot be targeted by spells or abilities your opponent controls.",
+   "text": "Continuous\n\nRecovered resonators you control cannot be targeted by spells or abilities your opponent controls.",
    "flavor_text": "\"Pure ideals are impossible to destroy.\" 〜Jeanne d'Arc, the Awakened Purifier",
    "all_sets": "PR Card"
   },
@@ -788,6 +802,7 @@
    "type": "Chant",
    "artist": "見田航介",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nTarget J/resonator you control and target J/resonator your opponent controls deal damage equal to their ATK to each other.",
    "flavor_text": "The \"real\" fight took three days. And now...",
    "all_sets": "PR Card"
   },
@@ -804,6 +819,7 @@
    "type": "Chant",
    "artist": "佐々木光之介",
    "expansion": "PR Card",
+   "text": "Destroy target resonator with total cost 2 or less.",
    "flavor_text": "\"Sudden evolution can be the same as degradation. Oh well- evolve until you die!\" 〜Little Dread, the Fake Red Moon",
    "all_sets": "PR Card"
   },
@@ -825,7 +841,7 @@
    "race": "Mermaid",
    "artist": "長崎祐子",
    "expansion": "PR Card",
-   "text": "Continuous\nYour opponent must block this card if able.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ Draw a card.\n\nContinuous\n\nYour opponent must block this card if able.",
    "flavor_text": "The Mermaid Princess was sad about her tragic love, but she never regretted it.",
    "all_sets": "PR Card"
   },
@@ -847,7 +863,7 @@
    "race": "Fairy Tale",
    "artist": "tokiwa",
    "expansion": "PR Card",
-   "text": "Automatic\n[Enter] Search your deck for a chant card with total cost 1, reveal it and put it into your hand. If it's \"Oz's Magic\", you may play it without paying its cost instead putting it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] Search your deck for a chant card with total cost 1, reveal it and put it into your hand. If it's \"Oz's Magic\", you may play it without paying its cost instead putting it into your hand. Then shuffle your deck.",
    "flavor_text": "These abilities are a form of magic.",
    "all_sets": "PR Card"
   },
@@ -871,7 +887,7 @@
    "race": "Relic",
    "artist": "Mz.縞",
    "expansion": "PR Card",
-   "text": "Automatic\nAt the end of your turn ⇒ Discard your hand.",
+   "text": "Continuous\n\nYou may play cards from your graveyard.\n\nContinuous\n\nIf a card would be put into your graveyard from anywhere, remove it from the game instead.\n\nAutomatic\n\nAt the end of your turn ⇒ Discard your hand.",
    "flavor_text": "This note is nothing.",
    "all_sets": "PR Card"
   },
@@ -893,7 +909,7 @@
    "race": "Elf",
    "artist": "もぐも",
    "expansion": "PR Card",
-   "text": "Automatic\n[Enter] Banish this card if you don't control another Elf.",
+   "text": "Automatic\n\n[Enter] Banish this card if you don't control another Elf.",
    "flavor_text": "After the sky castle fell to the ground, elves who lived there gathered around Fiethsing, waiting for the time of the battle.",
    "all_sets": "PR Card"
   },
@@ -905,7 +921,7 @@
    "type": "Special Magic Stone",
    "artist": "ひがし",
    "expansion": "PR Card",
-   "text": "Activate\n[rest], pay 200 life: Produce [W], [R], [U], [G] or [B].",
+   "text": "Activate\n\n[rest]: Produce [M].\n\nActivate\n\n[rest], pay 200 life: Produce [W], [R], [U], [G] or [B].",
    "flavor_text": "Placed on the back of the moon, this magic stone amplifies compensation.",
    "all_sets": "PR Card"
   },
@@ -917,7 +933,7 @@
    "type": "Special Magic Stone",
    "artist": "塗夢",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce one will of any attribute that a magic stone you control could produce.",
+   "text": "Activate\n\n[rest]: Produce [M].\n\nActivate\n\n[rest]: Produce one will of any attribute that a magic stone you control could produce.",
    "flavor_text": "Placed on the front of the moon, this magic stone reflects the light of the sun.",
    "all_sets": "PR Card"
   },
@@ -942,7 +958,7 @@
    "race": "Elf/Six Sages",
    "artist": "狛蜜ザキ",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce one will of any attribute.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] Prevent all damage that would be dealt by target resonator until end of turn.\n\nActivate\n\n[rest]: Produce one will of any attribute.",
    "flavor_text": "Wind is freedom, no matter where.",
    "all_sets": "PR Card"
   },
@@ -967,6 +983,7 @@
    "race": "Human",
    "artist": "るみえ",
    "expansion": "PR Card",
+   "text": "[Precision]\n\n[Incarnation] [W],[W]\n\n[Awakening] [W][W][2]: [Enter] Destroy all other resonators.",
    "flavor_text": "\"Your sin that destroyed the world. Punishment to all his kinsmen.\"",
    "all_sets": "PR Card"
   },
@@ -985,7 +1002,7 @@
    "race": "Fairy Tale/Human",
    "artist": "桂福蔵",
    "expansion": "PR Card",
-   "text": "Activate\nRemove three knowledge counters from any number of resonators you control: Remove target resonator from the game.",
+   "text": "Activate\n\n[1][rest]: Put a knowledge counter on target Six Sages.\n\nActivate\n\nRemove three knowledge counters from any number of resonators you control: Remove target resonator from the game.",
    "flavor_text": "“Kaguya was born together with the moon, she quickly grew like bamboo, and now is preparing to fight a war for the destiny of the world.” -Scheherazade, the Teller of the Crimson Moon",
    "all_sets": "PR Card"
   },
@@ -1010,7 +1027,7 @@
    "race": "Six Sages/Spirit",
    "artist": "石商",
    "expansion": "PR Card",
-   "text": "Activate\nRemove two knowledge counters from this card: Draw a card.",
+   "text": "Automatic\n\n[Enter] Put two knowledge counters on this card.\n\nAutomatic\n\nWhenever another Six Sages enters your field, put two knowledge counters on this card.\n\nActivate\n\nRemove a knowledge counter from this card: Rest target resonator.\n\nActivate\n\nRemove two knowledge counters from this card: Draw a card.",
    "flavor_text": "\"I can rely on her during a fight, but the fact that she is so elusive creates a lot of problems.\" -Zero, the Flashing Mage-Warrior",
    "all_sets": "PR Card"
   },
@@ -1035,7 +1052,7 @@
    "race": "Queen",
    "artist": "祀花よう子",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters your field from a chant area ⇒ Put target resonator with total cost 4 or less from your graveyard into your field.",
+   "text": "[Stealth] Your J/ruler is \"Rezzard, the Undead Lord\" or \"Rezzard, the Desecrating Vampire\" and you have ten or more cards in your graveyard. (While this card is in your standby area, you may play it without paying its cost when its [Stealth] condition is met.)\n\nAutomatic\n\nWhen this card enters your field from a chant area ⇒ Put target resonator with total cost 4 or less from your graveyard into your field.",
    "flavor_text": "\"Hey Rezzard, since you're here, I hope you'll call me if things start getting interesting!\"",
    "all_sets": "PR Card"
   },
@@ -1054,7 +1071,7 @@
    "race": "Shadow",
    "artist": "j-peg",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen a resonator is put into a graveyard from your opponent's field ⇒ Rest target resonator your opponent controls.",
+   "text": "Automatic\n\nWhen a resonator is put into a graveyard from your opponent's field ⇒ Rest target resonator your opponent controls.",
    "flavor_text": "\"Alice, I'm scattering the memory of our world to all worlds. That way we're sure to find it again.\" —Scheherazade, the Teller of the Crimson Moon",
    "all_sets": "PR Card"
   },
@@ -1076,7 +1093,7 @@
    "race": "Shadow/Seven Kings",
    "artist": "Nekobayashi",
    "expansion": "PR Card",
-   "text": "Automatic\nWhenever this card deals damage ⇒ You gain that much life.",
+   "text": "[Awakening] [B][B]: When this card enters your field, destroy target resonator.\n\nContinuous\n\nOther Shadow resonators you control gain [+200/+200].\n\nAutomatic\n\nWhenever this card deals damage ⇒ You gain that much life.",
    "flavor_text": "\"How was it?\" \"Meeow~\" \"Really? That's good.\" —Dark Alice, Maiden of Slaughter and Schrödinger, the Fallen Black Cat",
    "all_sets": "PR Card"
   },
@@ -1100,7 +1117,7 @@
    "type": "Resonator",
    "race": "Wanderer/Human",
    "expansion": "PR Card",
-   "text": "Activate\n[W], [rest]: Remove this card and target resonator from the game.",
+   "text": "[Flying]\n\nActivate\n\n[U]: Target resonator you control cannot be targeted by spells or abilities your opponent controls until end of turn.\n\nActivate\n\n[W], [rest]: Remove this card and target resonator from the game.",
    "flavor_text": "\"The apparence of Blazer means his return. You there... I defend this dimension. I won't let him mess around.\"",
    "all_sets": "PR Card"
   },
@@ -1117,6 +1134,7 @@
    "type": "Chant",
    "artist": "Nagiにゃん",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nThis card deals 500 damage to target player or J/resonator.",
    "flavor_text": "A dazzling flash of light can sometimes change the outcome of war.",
    "all_sets": "PR Card"
   },
@@ -1138,7 +1156,7 @@
    "race": "Vampire",
    "artist": "kawaryu",
    "expansion": "PR Card",
-   "text": "Continuous\nAt the beginning of your recovery phase ⇒ Reveal the top card of your deck. This card deals 100 damage to target player for each will symbol on the attribute cost of the revealed card and you gain that much life.",
+   "text": "Continuous\n\nAt the beginning of your recovery phase ⇒ Reveal the top card of your deck. This card deals 100 damage to target player for each will symbol on the attribute cost of the revealed card and you gain that much life.",
    "flavor_text": "Even a vampire must pay the price of blood.",
    "all_sets": "PR Card"
   },
@@ -1160,7 +1178,7 @@
    "race": "Fairy Tale",
    "artist": "碧風羽",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: Cancel target normal spell unless its controller pays [2].",
+   "text": "Automatic\n\n[Enter] Target resonator cannot be blocked until end of turn.\n\nActivate\n\nBanish this card: Cancel target normal spell unless its controller pays [2].",
    "flavor_text": "That smile can make everyone feel safe.",
    "all_sets": "PR Card"
   },
@@ -1180,6 +1198,7 @@
    "type": "Chant",
    "artist": "Fushikaden K.K.",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nDestroy target resonator.",
    "flavor_text": "\"Death is just one form. A complete death is the destruction of your entirety.\" 〜Abdul Alhazred, the Harbinger of Despair",
    "all_sets": "PR Card"
   },
@@ -1204,7 +1223,7 @@
    "race": "Fairy Tale/Queen",
    "artist": "ネム",
    "expansion": "PR Card",
-   "text": "Automatic\nWhenever this card deals damage to your opponent, he or she discards a card.",
+   "text": "[Awakening] [x]: [Enter] Rest X target resonators. They cannot recover as long as this card is on a field.\n\nAutomatic\n\nWhenever this card deals damage to your opponent, he or she discards a card.",
    "flavor_text": "\"I want to preserve the beauty of this world\" so thought the Queen, \"perhaps if all were to be frozen\", she thought.",
    "all_sets": "PR Card"
   },
@@ -1226,7 +1245,7 @@
    "race": "Human",
    "artist": "下江クリス",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: You gain life equal to the damage that was dealt to you this turn.",
+   "text": "Activate\n\nBanish this card: You gain life equal to the damage that was dealt to you this turn.",
    "flavor_text": "The story of regeneration is longer than that of destruction. Although no hero will be born on the Texts, her deeds will remain forever in the hearts of people.",
    "all_sets": "PR Card"
   },
@@ -1245,7 +1264,7 @@
    "race": "Fairy Tale/Spirit",
    "artist": "佐々木まや",
    "expansion": "PR Card",
-   "text": "Continuous\nThis card gains [+200/+200] for each Fairy Tale you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each Fairy Tale you control.",
    "flavor_text": "The size of one's spirit is what shall determine a fight.",
    "all_sets": "PR Card"
   },
@@ -1270,7 +1289,7 @@
    "race": "Fairy Tale/Human",
    "artist": "桂福蔵",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Target resonator gains [+200/+0] and [Flying] until end of turn.",
+   "text": "Continuous\n\nThis card doesn't recover during the recovery phase.\n\nActivate\n\nRest a recovered resonator you control other than \"Rapunzel, the Long-Haired Princess\".: Recover this card.\n\nActivate\n\n[rest]: Target resonator gains [+200/+0] and [Flying] until end of turn.",
    "flavor_text": "\"If you use her hair I think it might be possible to climb the tower and reach the skies!\". —Swordman of Full Moon",
    "all_sets": "PR Card"
   },
@@ -1292,7 +1311,7 @@
    "race": "Fairy Tale/Human",
    "artist": "乃希",
    "expansion": "PR Card",
-   "text": "Automatic\n[Enter]Reveal the top card of your magic stone deck. If it's a wind magic stone, put it into your magic stone area.",
+   "text": "Automatic\n\n[Enter]Reveal the top card of your magic stone deck. If it's a wind magic stone, put it into your magic stone area.",
    "flavor_text": "\"Brother! these sweets are ours now! We must protect them!\"",
    "all_sets": "PR Card"
   },
@@ -1317,7 +1336,7 @@
    "race": "Wanderer/Human",
    "artist": "Wednesday",
    "expansion": "PR Card",
-   "text": "Activate\n[W], [rest]: Remove this card and target resonator from the game.",
+   "text": "[Flying]\n\nActivate\n\n[U]: Target resonator you control cannot be targeted by spells or abilities your opponent controls until end of turn.\n\nActivate\n\n[W], [rest]: Remove this card and target resonator from the game.",
    "flavor_text": "\"The apparence of Blazer means his return. You there... I defend this dimension. I won't let him mess around.\"",
    "all_sets": "PR Card"
   },
@@ -1329,7 +1348,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [W].",
+   "text": "Activate\n\n[rest]: Produce [W].",
    "all_sets": "PR Card"
   },
   {
@@ -1353,7 +1372,7 @@
    "race": "Fairy Tale",
    "artist": "ケルビン",
    "expansion": "PR Card",
-   "text": "Activate\n[U], banish this card: Reveal the top card of your deck. If it's a resonator, put it into your field. Otherwise, put it into your graveyard.",
+   "text": "Activate\n\n[U], banish this card: Reveal the top card of your deck. If it's a resonator, put it into your field. Otherwise, put it into your graveyard.",
    "flavor_text": "Lumia looked disgusted when she saw the egg-shaped animals. Then Humpty Dumpty turned to her and said: \"You don't seem comfortable at all!\"",
    "all_sets": "PR Card"
   },
@@ -1365,7 +1384,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "PR Card"
   },
   {
@@ -1383,7 +1402,7 @@
    ],
    "type": "Chant",
    "expansion": "PR Card",
-   "text": "Continuous\nYour opponent banishes a resonator. As long as your J-ruler is \"Dark Alice, Maiden of Slaughter\", you may pay [B][B] less to play its God's Art abilities this turn.",
+   "text": "Continuous\n\nYour opponent banishes a resonator. As long as your J-ruler is \"Dark Alice, Maiden of Slaughter\", you may pay [B][B] less to play its God's Art abilities this turn.",
    "flavor_text": "\"Alice, are you still dreaming of our world? Reality isn't as kind as fairy tales.\" —Dark Alice, Maiden of Slaughter",
    "all_sets": "PR Card"
   },
@@ -1395,7 +1414,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [U].",
+   "text": "Activate\n\n[rest]: Produce [U].",
    "all_sets": "PR Card"
   },
   {
@@ -1414,6 +1433,7 @@
    "type": "Chant",
    "artist": "ピスケ",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nCancel target Activate ability. Draw a card.",
    "flavor_text": "\"There!\" - Kaguya, the Immortal Princess",
    "all_sets": "PR Card"
   },
@@ -1425,7 +1445,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [G].",
+   "text": "Activate\n\n[rest]: Produce [G].",
    "all_sets": "PR Card"
   },
   {
@@ -1443,7 +1463,7 @@
    "race": "Rabbit",
    "artist": "古城ばんび",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: Rest target J/resonator.",
+   "text": "Activate\n\nBanish this card: Rest target J/resonator.",
    "flavor_text": "Foolish is the warrior who readies himself for sword and spell, but not rabbits.",
    "all_sets": "PR Card"
   },
@@ -1455,7 +1475,7 @@
    "type": "Basic Magic Stone",
    "artist": "光芒",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "PR Card"
   },
   {
@@ -1479,7 +1499,7 @@
    "race": "Six Sages/Human",
    "artist": "lack",
    "expansion": "PR Card",
-   "text": "Activate\nRemove a knowledge counter from this card: Prevent the next 300 damage that would be dealt to target resonator this turn.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] Put a knowledge counter on this card.\n\nAutomatic\n\nWhenever another Six Sages enters your field, put a knowledge counter on this card.\n\nActivate\n\nRemove a knowledge counter from this card: Prevent the next 300 damage that would be dealt to target resonator this turn.",
    "flavor_text": "Appeared with the lightning, her only purpose is to defeat the enemy to preserve peace in the world.",
    "all_sets": "PR Card"
   },
@@ -1501,7 +1521,7 @@
    "race": "Knight of the Round Table",
    "artist": "松本エイト",
    "expansion": "PR Card",
-   "text": "Automatic\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
+   "text": "Continuous\n\nOther Knight of the Round Table resonators you control gain [+200/+200].\n\nAutomatic\n\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
    "flavor_text": "\"I failed to protect my ruler in the past. In this world, I'll protect you at any cost.\"",
    "all_sets": "PR Card"
   },
@@ -1526,7 +1546,7 @@
    "race": "Fantasy",
    "artist": "白井秀美",
    "expansion": "PR Card",
-   "text": "Continuous\nThis card gains [+200/+200] for each other \"Croco-Shark\" you control.",
+   "text": "Continuous\n\nYou may have any number of copies of this card in your deck.\n\n[Stealth] When you play a summon spell from your hand.\n\nAutomatic\n\nWhen this card enters your field from a standby area ⇒ You may put a card named \"Croco-Shark\" from your hand into your field.\n\nContinuous\n\nThis card gains [+200/+200] for each other \"Croco-Shark\" you control.",
    "flavor_text": "\"What's in the river? Oh er...don't worry about it.\" -Hare of Inaba",
    "all_sets": "PR Card"
   },
@@ -1546,6 +1566,7 @@
    "type": "Chant",
    "artist": "桂福蔵",
    "expansion": "PR Card",
+   "text": "Cancel target spell.\n\n[Awakening][M]: Players cannot chase to this card.",
    "flavor_text": "Light and wind can be so captivating, they can make one forget what they were doing.",
    "all_sets": "PR Card"
   },
@@ -1565,6 +1586,7 @@
    "type": "Chant",
    "artist": "SIGMAN",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nThis card deals 600 damage to target player or resonator.",
    "all_sets": "PR Card"
   },
   {
@@ -1580,6 +1602,7 @@
    "type": "Chant",
    "artist": "JURI",
    "expansion": "PR Card",
+   "text": "Destroy target addition or regalia.",
    "all_sets": "PR Card"
   },
   {
@@ -1595,7 +1618,7 @@
    "type": "Addition: Field",
    "artist": "祀花よう子",
    "expansion": "PR Card",
-   "text": "Continuous\nYour opponent pays [1] more to play regalia's activate abilities.",
+   "text": "Continuous\n\nYour opponent pays [1] more to do Judgment or to play God's Art abilities.\n\nContinuous\n\nYour opponent pays [1] more to play regalia's activate abilities.",
    "flavor_text": "Designed specifically to combat against Seven Kings.",
    "all_sets": "PR Card"
   },
@@ -1614,7 +1637,7 @@
    "race": "Human/Machine",
    "artist": "るみえ",
    "expansion": "PR Card",
-   "text": "Activate\nRemove this card in your graveyard from the game: Produce [2]. Spend this will only to play activate abilities of \"Marybell, the Steel Doll\" or to play \"Marybell, Insane Self-Aware Machine\".",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your field ⇒ You may search your deck for a card named \"Marybell, the Steel Doll\" or \"Marybell, Insane Self-Aware Machine\", reveal it, and put it into your hand. Then shuffle your deck.\n\nActivate\n\nRemove this card in your graveyard from the game: Produce [2]. Spend this will only to play activate abilities of \"Marybell, the Steel Doll\" or to play \"Marybell, Insane Self-Aware Machine\".",
    "flavor_text": "\"Master Machina...I will finish your research.\"",
    "all_sets": "PR Card"
   },
@@ -1631,6 +1654,7 @@
    "type": "Chant",
    "artist": "Cola",
    "expansion": "PR Card",
+   "text": "Each player banishes a resonator, then each player discards a card.",
    "flavor_text": "The word \"sacrifice\" means \"gain\" for the Undead Lord.",
    "all_sets": "PR Card"
   },
@@ -1652,7 +1676,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "PR Card",
-   "text": "Continuous\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
+   "text": "[Flying] (This card cannot be blocked by J/resonators without [Flying].)\n\nContinuous\n\nYou may pay [2] less to play this card for each resonator you control that entered your field this turn.",
    "flavor_text": "It’s the incarnation of the ideals.",
    "all_sets": "PR Card"
   },
@@ -1674,7 +1698,7 @@
    "race": "Knight of the Round Table",
    "artist": "Kamijyo Roro",
    "expansion": "PR Card",
-   "text": "Automatic\nWhenever this card attacks ⇒ It deals 200 damage to each resonator.",
+   "text": "Continuous\n\nAs long as you control a Beast, this card gains [Swiftness] and [First Strike].\n\nContinuous\n\nThis card gains [+200/+200] for each Beast you control.\n\nAutomatic\n\nWhenever this card attacks ⇒ It deals 200 damage to each resonator.",
    "flavor_text": "He preferred combat to needless conversing.",
    "all_sets": "PR Card"
   },
@@ -1699,7 +1723,7 @@
    "race": "Beast",
    "artist": "mie",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card is put into a graveyard from your field ⇒ It deals 500 damage to your opponent.",
+   "text": "[Swiftness] [Precision] [First Strike]\n\nActivate\n\n[G]: This card gains [Flying] until end of turn.\n\nAutomatic\n\nWhen this card is put into a graveyard from your field ⇒ It deals 500 damage to your opponent.",
    "flavor_text": "\"Everyone, please, lend me your strength. I have to be the one who stops Valentina!\"",
    "all_sets": "PR Card"
   },
@@ -1724,7 +1748,7 @@
    "race": "Little Girl",
    "artist": "桂福蔵",
    "expansion": "PR Card",
-   "text": "Automatic\nWhenever a resonator is put into a graveyard from your field ⇒ Put a [+100/+100] counter on this card.",
+   "text": "[Awakening][M][1]: When this card enters your field ⇒ You may search your deck for up to four Rabbit resonators with total cost 1 and put them into your field. Then shuffle your deck.\n\nAutomatic\n\nWhenever a resonator is put into a graveyard from your field ⇒ Put a [+100/+100] counter on this card.",
    "flavor_text": "\"Let's go everyone! Let's bust on through!\"",
    "all_sets": "PR Card"
   },
@@ -1752,7 +1776,7 @@
    "race": "Avatar",
    "artist": "Wednesday",
    "expansion": "PR Card",
-   "text": "Continuous\nIf damage would be dealt to you, it's dealt to this card instead.",
+   "text": "[Quickcast] [Precision]\n\nContinuous\n\nIf damage would be dealt to you, it's dealt to this card instead.",
    "flavor_text": "\"Yggdrasil's power tells me I have to stop you! Even if I can't win, I won't lose!\"",
    "all_sets": "PR Card"
   },
@@ -1765,7 +1789,7 @@
    "race": "Vampire",
    "artist": "Saiko Takaki",
    "expansion": "PR Card",
-   "text": "Activate\n[2]: This card deals 200 damage to target opponent. You gain 200 life.",
+   "text": "Judgement\n\n[B][2]\n\nActivate\n\n[2]: This card deals 200 damage to target opponent. You gain 200 life.",
    "flavor_text": "\"What's wrong? Even though I'm quite tall, I won't look down on you! It's just that I drink milk every day!\"",
    "all_sets": "PR Card"
   },
@@ -1779,7 +1803,7 @@
    "race": "Vampire",
    "artist": "Saiko Takaki",
    "expansion": "PR Card",
-   "text": "Activate\n[B][2], banish a darkness resonator: This card gains [Imperishable] until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field, destroy target resonator with total cost 3 or less. You gain life equal to its DEF.\n\nActivate\n\n[B][2], banish a darkness resonator: This card gains [Imperishable] until end of turn.",
    "all_sets": "PR Card"
   },
   {
@@ -1791,7 +1815,7 @@
    "race": "Human / Beast",
    "artist": "fzwrAym",
    "expansion": "PR Card",
-   "text": "Activate\n[G][G]: Choose one -\nBeasts you control gain [+100/+100] until end of turn;\nFour Sacred Beasts you control gain [+100/+100] until end of turn;",
+   "text": "[G][G]\n\n[Energize][G]\n\nContinuous\n\nThis card gains \"Pricia, the Beast Lady\" in addition to its other names.\n\nContinuous\n\nYou may pay the attribute cost of Four Sacred Beast resonators with will of any attribute.\n\nActivate\n\n[G][G]: Choose one -\n\nBeasts you control gain [+100/+100] until end of turn;\n\nFour Sacred Beasts you control gain [+100/+100] until end of turn;",
    "all_sets": "PR Card"
   },
   {
@@ -1804,7 +1828,7 @@
    "race": "Human / Beast",
    "artist": "fzwrAym",
    "expansion": "PR Card",
-   "text": "Activate\nGod's Art [\"Meet my family!\"][G][G][G][X]: Search your deck for up to X Four Sacred Beasts resonators with different names, reveal them and put them into your hand. Then put up to X Four Sacred Beasts resonators with different names from your hand into your field and shuffle your deck. (Play God's Art only once per game.)",
+   "text": "Continuous\n\nThis card gains \"Pricia, the Beast Lady\" in addition to its other names.\n\nContinuous\n\nThis card gains [Precision] as long as you control a light resonator, [Swiftness] as long as you control a fire resonator, [Flying] as long as you control a water resonator and [+200/+200] as long as you control a wind resonator.\n\nActivate\n\nGod's Art [\"Meet my family!\"][G][G][G][X]: Search your deck for up to X Four Sacred Beasts resonators with different names, reveal them and put them into your hand. Then put up to X Four Sacred Beasts resonators with different names from your hand into your field and shuffle your deck. (Play God's Art only once per game.)",
    "all_sets": "PR Card"
   },
   {
@@ -1816,7 +1840,7 @@
    "race": "Wizard",
    "artist": "BANAMONS*",
    "expansion": "PR Card",
-   "text": "Continuous\nThis card gains \"The Observer\" in addition to its other names.",
+   "text": "[R][11]. You may pay [1] less to do Judgment for each card in your removed area.\n\n[Energize][R]\n\nContinuous\n\nThis card gains \"The Observer\" in addition to its other names.",
    "all_sets": "PR Card"
   },
   {
@@ -1829,7 +1853,7 @@
    "race": "Wizard",
    "artist": "BANAMONS*",
    "expansion": "PR Card",
-   "text": "Activate\nGod's Art [Abyssal Malediction] [R][R][R]: This card deals 100 damage to each J/resonator your opponent controls for each card in your removed area. Then, you may put any number of cards from your removed area into your graveyard. (Play God's Art [Total Recall] only once per game.)",
+   "text": "Continuous\n\nThis card gains \"Timeline Arsonist, Alisaris\" in addition to its other names.\n\nAutomatic\n\nWhen this card enters your field ⇒ Search your deck for a card named \"Blazing Metropolis, Vell-Savaria\", and put into your field. Then shuffle your deck.\n\nContinuous\n\nResonators you control gain [Swiftness], [Precision], and [First Strike].\n\nActivate\n\nGod's Art [Abyssal Malediction] [R][R][R]: This card deals 100 damage to each J/resonator your opponent controls for each card in your removed area. Then, you may put any number of cards from your removed area into your graveyard. (Play God's Art [Total Recall] only once per game.)",
    "all_sets": "PR Card"
   },
   {
@@ -1841,7 +1865,7 @@
    "race": "Wanderer",
    "artist": "Wednesday",
    "expansion": "PR Card",
-   "text": "Continuous\nThis card gains \"Alice, Girl of the Lake\" in addition to its other names.",
+   "text": "[7]\n\n[Energize][W]\n\nContinuous\n\nThis card gains \"Alice, Girl of the Lake\" in addition to its other names.",
    "all_sets": "PR Card"
   },
   {
@@ -1854,7 +1878,7 @@
    "race": "Queen / Fairy",
    "artist": "Wednesday",
    "expansion": "PR Card",
-   "text": "Activate\nGod's Art [Return to Arcadia] [W]: J/resonators you control gain [+200/+200]. Search your deck for a card named \"Excalibur, the Spirit God's Sword\" and put into your field. Then shuffle your deck.(Play God's Art [Return to Arcadia] only once per gam.)",
+   "text": "Continuous\n\nThis card gains \"Alice, Fairy Queen\" in addition to its other names.\n\nAutomatic\n\nWhen this card enters your field ⇒ Recover all Fairy you control.\n\nActivate\n\nGod's Art [Return to Arcadia] [W]: J/resonators you control gain [+200/+200]. Search your deck for a card named \"Excalibur, the Spirit God's Sword\" and put into your field. Then shuffle your deck.(Play God's Art [Return to Arcadia] only once per gam.)",
    "all_sets": "PR Card"
   },
   {
@@ -1870,6 +1894,7 @@
    "type": "Chant",
    "artist": "スギカワタクミ",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nChoose one -\n\nThis card deals 500 damage to target J/resonator;\n\nor this card deals 500 damage to your opponent.",
    "flavor_text": "\"Hehehe, this pain is no lie.\" -Nyarlathotep, the True False Legend",
    "all_sets": "PR Card"
   },
@@ -1888,7 +1913,7 @@
    "race": "Familiar/Cat",
    "artist": "佐久間さのすけ",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: This card deals 200 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.\n\nActivate\n\nBanish this card: This card deals 200 damage to target resonator.",
    "flavor_text": "\"Already here, huh? I guess it's my turn.\" -Fiethsing, Master Magus of Holy Wind",
    "all_sets": "PR Card"
   },
@@ -1909,6 +1934,7 @@
    "race": "(Ancient Magic)",
    "artist": "佐々木光之介",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nDestroy target J-ruler. Players cannot chase to this card.",
    "flavor_text": "\"Tsk, forcing me to use this much power...\" -Interdimensional Monarch, Gill Lapis",
    "all_sets": "PR Card"
   },
@@ -1930,7 +1956,7 @@
    "race": "Goddess",
    "artist": "筒井海砂",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters your field ⇒ You may destroy target regalia with total cost 0. If you do, draw a card.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ You may destroy target regalia with total cost 0. If you do, draw a card.",
    "flavor_text": "\"No one needs regalia, but me!\" —Alice, the Valkyrie of Fairy Tales",
    "all_sets": "PR Card"
   },
@@ -1955,7 +1981,7 @@
    "race": "Fairy Tale",
    "artist": "Mad",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters your field ⇒ Choose one -\nPut up to two target special magic stones on top of their owners' magic stone decks in any order;\nor return up to two target resonators to their owners' hands.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Choose one -\n\nPut up to two target special magic stones on top of their owners' magic stone decks in any order;\n\nor return up to two target resonators to their owners' hands.",
    "flavor_text": "Many have fallen prey to his hook.",
    "all_sets": "PR Card"
   },
@@ -1980,7 +2006,7 @@
    "race": "Dragon/Zombie",
    "artist": "Retro",
    "expansion": "PR Card",
-   "text": "Activate\n[R][R][B][B][2]: Put this card from your graveyard into your field.",
+   "text": "[Swiftness][Flying]\n\nAutomatic\n\nAt the end of your turn ⇒ Put a non-magic stone card from your opponent's removed area on the bottom of their deck. If you don't, banish this card.\n\nActivate\n\n[R][R][B][B][2]: Put this card from your graveyard into your field.",
    "flavor_text": "Mindless, the creature revived again and again.",
    "all_sets": "PR Card"
   },
@@ -1999,7 +2025,7 @@
    "race": "Story/Human",
    "artist": "Mayo",
    "expansion": "PR Card",
-   "text": "Continuous\nIf you would draw a card in a phase other than draw phase, you may look at the top three cards of your deck, put one of them into your hand and the rest on the bottom of your deck in any order instead.",
+   "text": "Continuous\n\nIf you would draw a card in a phase other than draw phase, you may look at the top three cards of your deck, put one of them into your hand and the rest on the bottom of your deck in any order instead.",
    "flavor_text": "\"Bettering that which is before you is as important as changing the world.\"",
    "all_sets": "PR Card"
   },
@@ -2024,7 +2050,7 @@
    "race": "Twelve Apostles/Human",
    "artist": "ishishou",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters your field ⇒ Gain control of target resonator your opponent controls as long as this card is in a field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Gain control of target resonator your opponent controls as long as this card is in a field.",
    "flavor_text": "She was willing to go to any lengths to make Alice her own. Even so far as to be controlled by another.",
    "all_sets": "PR Card"
   },
@@ -2046,7 +2072,7 @@
    "race": "Fairy Tale",
    "artist": "Shiro Yaoi",
    "expansion": "PR Card",
-   "text": "Activate\nRest a recovered resonator you control: This card gains [Flying] until end of turn.",
+   "text": "Automatic\n\nWhen this card deals damage to your opponent ⇒ Search your deck for a Fairy Tale resonator, reveal it and put it into your hand. Then shuffle your deck.\n\nActivate\n\nRest a recovered resonator you control: This card gains [Flying] until end of turn.",
    "flavor_text": "\"This time, I'll show you the true stairway to the sky.\"",
    "all_sets": "PR Card"
   },
@@ -2065,7 +2091,7 @@
    "race": "Rabbit",
    "artist": "mie",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: Draw a card, then discard a card.",
+   "text": "Activate\n\nBanish this card: Draw a card, then discard a card.",
    "flavor_text": "Though lonely, the rabbit didn't give in.",
    "all_sets": "PR Card"
   },
@@ -2090,7 +2116,7 @@
    "race": "Angel",
    "artist": "Pisuke",
    "expansion": "PR Card",
-   "text": "Automatic\nWhenever this card attacks ⇒ You gain 300 life for each Angel you control.",
+   "text": "[Flying] (This card cannot be blocked by J/resonators without [Flying].)\n\nAutomatic\n\nWhen this card enters your field ⇒ You may search your deck for an Angel resonator with total cost 4 or less and put it into your field. Then shuffle your deck.\n\nAutomatic\n\nWhenever this card attacks ⇒ You gain 300 life for each Angel you control.",
    "flavor_text": "Summoned by Winged Lord, they are the highest rank in the angelic orders.",
    "all_sets": "PR Card"
   },
@@ -2107,6 +2133,7 @@
    "type": "Chant",
    "artist": "Takumi Sugawara",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nChoose one -\n\nThis card deals 500 damage to target J/resonator;\n\nor this card deals 500 damage to your opponent.",
    "flavor_text": "\"Hehehe, this pain is no lie.\" -Nyarlathotep, the True False Legend",
    "all_sets": "PR Card"
   },
@@ -2123,6 +2150,7 @@
    "type": "Chant",
    "artist": "SAGAWA ASUKA",
    "expansion": "PR Card",
+   "text": "[Quickcast] [Remnant]\n\nTarget resonator loses all abilities and becomes a [400/400] Bear until end of turn.",
    "flavor_text": "\"Take that! Turn into a bear!\" -Charlotte, Determined Girl",
    "all_sets": "PR Card"
   },
@@ -2142,6 +2170,7 @@
    "type": "Chant",
    "artist": "Matsurika Yoko",
    "expansion": "PR Card",
+   "text": "[Quickcast] [Remnant]\n\nPut target resonator from your graveyard into your field. Remove it from the game at end of turn.",
    "flavor_text": "A taboo in the old world.",
    "all_sets": "PR Card"
   },
@@ -2161,6 +2190,7 @@
    "type": "Chant",
    "artist": "yuhki lily",
    "expansion": "PR Card",
+   "text": "[Quickcast] [Remnant]\n\nTarget J/resonator gains [-500/-500] until end of turn. Draw a card.",
    "flavor_text": "The weak shall be disposed of.",
    "all_sets": "PR Card"
   },
@@ -2177,6 +2207,7 @@
    "type": "Chant",
    "artist": "Wednesday",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nPut target resonator you control on the bottom of its owner's deck. If you do, you may put a resonator with the same total cost from your hand into your field. Draw a card.",
    "flavor_text": "\"It's not trick, it's not illusion!\" -Alice, the Girl in the Looking Glass",
    "all_sets": "PR Card"
   },
@@ -2196,6 +2227,7 @@
    "type": "Chant",
    "artist": "Kamijo Roro",
    "expansion": "PR Card",
+   "text": "Search your deck for a Fairy Tale resonator, reveal it and put it into your hand. Then sｈuffle your deck. If your J/ruler is \"Millium, Prince of the Light Palace\" or \"Millium, Voice of a New Generation\", search your deck for up to two Fairy Tale resonators, reveal them and put them into your hand instead. Then shuffle your deck.",
    "flavor_text": "Millium inhereted his father's talent with fairy tales.",
    "all_sets": "PR Card"
   },
@@ -2215,6 +2247,7 @@
    "type": "Chant",
    "artist": "ComamitsuZaki",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nChoose one -\n\nDestroy target addition or regalia;\n\n[Torrent] Destroy all additions and regalia your opponent controls.",
    "flavor_text": "\"Melfee! Now!\" -Fiethsing, Master Magus of Holy Wind",
    "all_sets": "PR Card"
   },
@@ -2236,7 +2269,7 @@
    "race": "Wizard",
    "artist": "gozz",
    "expansion": "PR Card",
-   "text": "Continuous\nResonators entering your opponent's field don't cause their own abilities to trigger.",
+   "text": "Continuous\n\nResonators entering your opponent's field don't cause their own abilities to trigger.",
    "flavor_text": "The songs of madness torture the soldiers of the enemy.",
    "all_sets": "PR Card"
   },
@@ -2256,6 +2289,7 @@
    "type": "Chant",
    "artist": "Shirai Hidemi",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nEach player banishes a non-Cthulhu resonator they control.",
    "flavor_text": "The mere sight of the great ones is enough to erase lesser beings from existence.",
    "all_sets": "PR Card"
   },
@@ -2277,7 +2311,7 @@
    "race": "Vampire",
    "artist": "Azusa/SIE NANAHARA/Yukie TAJIMA",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Move a [+100/+100] counter from target resonator to this card.",
+   "text": "[Will of Despair]\n\nActivate\n\n[rest]: Destroy target resonator with 200 or less ATK.\n\nActivate\n\n[rest]: This card deals 200 damage to your opponent. You gain 200 life.\n\nActivate\n\n[rest]: Move a [+100/+100] counter from target resonator to this card.",
    "flavor_text": "Each of the sisters feeds in different ways.",
    "all_sets": "PR Card"
   },
@@ -2297,6 +2331,7 @@
    "type": "Chant",
    "artist": "lack",
    "expansion": "PR Card",
+   "text": "This card deals 300 damage to each player for each special magic stone they control.",
    "flavor_text": "\"I'll burn away all that are seeded with greed.\" - Cain, the Traitor of Gods",
    "all_sets": "PR Card"
   },
@@ -2313,6 +2348,7 @@
    "type": "Chant",
    "artist": "RL1708-1",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nThis card deals 400 damage to target J/resonator.\n\n[Awakening] Rest a recovered \"Red Riding Hood, Rainbow to the Heavens\" you control: This card deals 400 damage to each resonator your opponent controls other than this card's target.",
    "flavor_text": "\"If it's come to this, I guess I'd better get serious.\" -Red Riding Hood, Rainbow to the Heavens",
    "all_sets": "PR Card"
   },
@@ -2332,6 +2368,7 @@
    "type": "Chant",
    "artist": "Nekobayashi",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nPut target resonator that was put into a field this turn on the bottom of its owner's deck.",
    "flavor_text": "\"Lars...\" \"Faria, that's enough. We don't need to protect her any more. Let us rest now.\" \"Okay.\" -Lars and Faria",
    "all_sets": "PR Card"
   },
@@ -2353,7 +2390,7 @@
    "race": "Myth",
    "artist": "Retro",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters your field ⇒ Gain control of target resonator until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Gain control of target resonator until end of turn.",
    "flavor_text": "\"Are you sure? Alright, follow me!\"",
    "all_sets": "PR Card"
   },
@@ -2370,6 +2407,7 @@
    "type": "Chant",
    "artist": "Pisuke",
    "expansion": "PR Card",
+   "text": "Recover target J/resonator you control. It cannot attack this turn. Draw a card.",
    "flavor_text": "Having to wake up all on her own was her worst nightmare.",
    "all_sets": "PR Card"
   },
@@ -2394,7 +2432,7 @@
    "race": "Human",
    "artist": "AKI",
    "expansion": "PR Card",
-   "text": "Activate\n[rest], discard three cards: Gain control of target resonator.",
+   "text": "Continuous\n\nIf your J/ruler is \"Valentina, the Princess of Love\" or \"Valentina, the Ruler of Paradise\", you may pay [1] less to play this card.\n\nActivate\n\n[rest], discard a card: Return target resonator to its owner's hand.\n\nActivate\n\n[rest], discard three cards: Gain control of target resonator.",
    "flavor_text": "\"Here's my trump card; you die.\"",
    "all_sets": "PR Card"
   },
@@ -2406,7 +2444,7 @@
    "type": "Basic Magic Stone",
    "artist": "sakura moyon",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [R].",
+   "text": "Activate\n\n[rest]: Produce [R].",
    "all_sets": "PR Card"
   },
   {
@@ -2427,7 +2465,7 @@
    "race": "Elf",
    "artist": "j-peg",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [W], [R], [U], [G], or [B].",
+   "text": "[Quickcast]\n\nAutomatic\n\nWhen this card enters your field ⇒ Prevent all damage that would be dealt by target J/resonator this turn, if you played two or more cards this turn.\n\nActivate\n\n[rest]: Produce [W], [R], [U], [G], or [B].",
    "flavor_text": "A gentle wind that cradles all.",
    "all_sets": "PR Card"
   },
@@ -2447,6 +2485,7 @@
    "type": "Chant",
    "artist": "ComamitsuZaki",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nChoose one, if you control a water J/resonator and another wind J/resonator, you may choose both - Cancel target chant spell. Draw a card; or put a Treasury Item with total cost 3 or less from your hand into your field.",
    "flavor_text": "\"Kaguya. I have lived long enough. Look now to the future.\" \"But...but...\" \"Promise me.\" \"Okay, but one day I'll bring you-\" \"No. No magic can truly save the dead.\" -Fiethsing's Final Winds and Kaguya, Tears of the Moon",
    "all_sets": "PR Card"
   },
@@ -2471,7 +2510,7 @@
    "race": "Vampire/Fairy Tale",
    "artist": "Haruichi Kido",
    "expansion": "PR Card",
-   "text": "Activate\n[b][b]: J/resonators your opponent controls gain [-X00/-X00] until end of turn, where X is the number of Fairy Tales you control.",
+   "text": "[Flying] (This card cannot be blocked by J/resonators without [Flying].)\n\nAutomatic\n\nWhen this card enters the field ⇒ Put target resonator from your graveyard into your hand.\n\nActivate\n\n[b][b]: J/resonators your opponent controls gain [-X00/-X00] until end of turn, where X is the number of Fairy Tales you control.",
    "flavor_text": "His eyes seemed transfixed on the crimson moon, as if trying to remember something.",
    "all_sets": "PR Card"
   },
@@ -2496,7 +2535,7 @@
    "race": "Golem",
    "artist": "Misa Tsutsui",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters the field ⇒ Destroy target resonator your opponent controls.",
+   "text": "[Mobilize][３]\n\nContinuous\n\nYou may banish three Golems rather than pay this card's cost.\n\nAutomatic\n\nWhen this card enters the field ⇒ Destroy target resonator your opponent controls.",
    "flavor_text": "The ultimate soldier, born of alchemical synthesis.",
    "all_sets": "PR Card"
   },
@@ -2513,6 +2552,7 @@
    "type": "Chant",
    "artist": "lack",
    "expansion": "PR Card",
+   "text": "Cancel target spell unless its controller pays [1].",
    "flavor_text": "\"And I learned this one from Fiethsing!\" -Kaguya, the Moonlit Savior",
    "all_sets": "PR Card"
   },
@@ -2534,7 +2574,7 @@
    "race": "Spirit",
    "artist": "touge369",
    "expansion": "PR Card",
-   "text": "Automatic\n[Resonance] Darkness Magic Stone ⇒ You may pay [B][B][B]. If you do, put this card from your graveyard into your hand.",
+   "text": "Activate\n\n[rest], banish this card: This card deals 600 damage to target J/resonator and you gain 600 life.\n\nAutomatic\n\n[Resonance] Darkness Magic Stone ⇒ You may pay [B][B][B]. If you do, put this card from your graveyard into your hand.",
    "flavor_text": "Creeping unseen through the darkness. You only see it when it's too late.",
    "all_sets": "PR Card"
   },
@@ -2559,7 +2599,7 @@
    "race": "Fairy Tale",
    "artist": "Matsurika Yoko",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: This card deals 800 damage to each J/resonator without [Flying].",
+   "text": "[Precision] [Barrier](Chant)\n\nActivate\n\n[rest]: This card deals 800 damage to each J/resonator without [Flying].",
    "flavor_text": "The clouds usually move freely. You only need to worry if they start getting pushed around.",
    "all_sets": "PR Card"
   },
@@ -2582,6 +2622,7 @@
    "type": "Chant",
    "artist": "Kelvin",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nIf your opponent played two or more cards this turn, you may pay [g][g][2] less to play this card.\n\nCancel target spell.",
    "flavor_text": "Carrying no sound, leaving only silence.",
    "all_sets": "PR Card"
   },
@@ -2601,6 +2642,7 @@
    "type": "Chant",
    "artist": "Mad",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nChoose one - This turn, if a resonator would be put into your opponent's field without being played, remove it from game instead. Draw a card; or recover target resonator you control. It gains [+200/+200] and [Barrier] until end of turn. Draw a card; or remove all non-magic stone, non-J/ruler cards your opponent controls with total cost 0 from the game. Draw a card.",
    "flavor_text": "With a burst of light the regalia disappeared into the sky, and a brilliant blue planet was born in its place.",
    "all_sets": "PR Card"
   },
@@ -2619,7 +2661,7 @@
    "race": "Fairy Tale",
    "artist": "Matsurika Yoko",
    "expansion": "PR Card",
-   "text": "Continuous\nThis card gains [Swiftness] as long as you control a non-special wind magic stone.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each wind magic stone you control.\n\nContinuous\n\nThis card gains [Swiftness] as long as you control a non-special wind magic stone.",
    "flavor_text": "The girl's story has continued for ages, encompassing a collection of many adventures.",
    "all_sets": "PR Card"
   },
@@ -2641,7 +2683,7 @@
    "race": "Spirit",
    "artist": "yuko",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters your field ⇒ Reveal the top card of your magic stone deck. If it's a non-special light magic stone, put it into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top card of your magic stone deck. If it's a non-special light magic stone, put it into your field.",
    "flavor_text": "Bringer of pure, sacred light.",
    "all_sets": "PR Card"
   },
@@ -2660,7 +2702,7 @@
    "race": "Beast",
    "artist": "gozz",
    "expansion": "PR Card",
-   "text": "Activate\n[Inheritance][R]: Target J/resonator gains [+200/+200] and [Swiftness] until end of turn.",
+   "text": "[Swiftness]\n\nActivate\n\n[Inheritance][R]: Target J/resonator gains [+200/+200] and [Swiftness] until end of turn.",
    "flavor_text": "\"Be careful he doesn't buck you off. Ah! Not so fast! It's hot.\" -Pricia, True Beastmaster",
    "all_sets": "PR Card"
   },
@@ -2685,7 +2727,7 @@
    "race": "Elf",
    "artist": "Kamijo Roro",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put three [100/100] wind Elf resonator tokens into your field.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put three [100/100] wind Elf resonator tokens into your field.",
    "flavor_text": "\"Come, my brothers!\"",
    "all_sets": "PR Card"
   },
@@ -2710,7 +2752,7 @@
    "race": "Myth",
    "artist": "YK",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put up to one target resonator, up to one target addition, and up to one target chant from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put up to one target resonator, up to one target addition, and up to one target chant from your graveyard into your hand.",
    "flavor_text": "Her love brings the harvest, keeping the world fed.",
    "all_sets": "PR Card"
   },
@@ -2732,7 +2774,7 @@
    "race": "Mermaid",
    "artist": "noki",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters the field ⇒ Search your deck for a Mermaid not named \"Shaela's Elite\", reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Search your deck for a Mermaid not named \"Shaela's Elite\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Protecting Princess Shaela with their lives.",
    "all_sets": "PR Card"
   },
@@ -2744,7 +2786,7 @@
    "type": "Basic Magic Stone",
    "artist": "Nekobayashi",
    "expansion": "PR Card",
-   "text": "Activate\n[rest]: Produce [B].",
+   "text": "Activate\n\n[rest]: Produce [B].",
    "all_sets": "PR Card"
   },
   {
@@ -2763,6 +2805,7 @@
    "type": "Chant",
    "artist": "SIE NANAHARA",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nPrevent all damage that would be dealt by J/resonators this turn.",
    "flavor_text": "One look from her, and even a mad beast would halt in its tracks.",
    "all_sets": "PR Card"
   },
@@ -2779,6 +2822,7 @@
    "type": "Chant",
    "artist": "Kusagani Tyouen",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nDestroy target resonator with [Flying].",
    "flavor_text": "Sometimes it really is better to walk.",
    "all_sets": "PR Card"
   },
@@ -2798,6 +2842,7 @@
    "type": "Chant",
    "artist": "mita kura",
    "expansion": "PR Card",
+   "text": "[Trigger] When your opponent plays an automatic ability of a resonator they control that was put into a field from a non-field zone this turn, while you control a water magic stone ⇒ Cancel that ability and destroy that resonator.",
    "flavor_text": "Whatever poor creature was swallowed by the lake, disappeared into darkness.",
    "all_sets": "PR Card"
   },
@@ -2816,7 +2861,7 @@
    "race": "Divine Beast",
    "artist": "mita kura",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card leaves your field for a non-field zone ⇒ Draw a card.",
+   "text": "[Flying]\n\nActivate\n\n[Inheritance][G]: Draw a card.\n\nAutomatic\n\nWhen this card leaves your field for a non-field zone ⇒ Draw a card.",
    "flavor_text": "Summoning the beasts from Attoractia, Pricia readied herself for her final clash with Valentina.",
    "all_sets": "PR Card"
   },
@@ -2836,6 +2881,7 @@
    "type": "Chant",
    "artist": "Nem",
    "expansion": "PR Card",
+   "text": "You may pay 200 life rather than pay [1] up to X times to play this card.\n\nJ/resonators your opponent controls gain [-X00/-X00] until end of turn.",
    "flavor_text": "\"Time to drop the final curtain.\" -Gill Lapis, Usurper of Maddening Power",
    "all_sets": "PR Card"
   },
@@ -2855,7 +2901,7 @@
    "type": "Addition",
    "artist": "Wednesday",
    "expansion": "PR Card",
-   "text": "Continuous\nResonators gain [-200/-200].",
+   "text": "Continuous\n\nResonators gain [-200/-200].",
    "flavor_text": "Alice created a world that would steal away anyone's sanity.",
    "all_sets": "PR Card"
   },
@@ -2877,7 +2923,7 @@
    "race": "Spirit",
    "artist": "Kamijo Roro",
    "expansion": "PR Card",
-   "text": "Automatic\n[Resonance] Wind Magic Stone ⇒ Recover this card.",
+   "text": "Automatic\n\n[Resonance] Wind Magic Stone ⇒ Recover this card.",
    "flavor_text": "The winds blow twice.",
    "all_sets": "PR Card"
   },
@@ -2899,6 +2945,7 @@
    ],
    "type": "Chant",
    "expansion": "PR Card",
+   "text": "Put target resonator from your graveyard into the field.",
    "flavor_text": "With the gates to Outer World open, the world was engulfed in chaos.",
    "all_sets": "PR Card"
   },
@@ -2909,7 +2956,7 @@
    "number": "RL1803-2",
    "type": "Special Magic Stone",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put a mystery counter on your J/ruler.",
+   "text": "Continuous\n\nTreat this card as a darkness magic stone.\n\nActivate\n\n[rest]: Produce [b].\n\nAutomatic\n\nWhen this card enters the field ⇒ Put a mystery counter on your J/ruler.",
    "flavor_text": "A stone of endless night that draws in darkness.",
    "all_sets": "PR Card"
   },
@@ -2929,6 +2976,7 @@
    "type": "Chant",
    "race": "Spirit Magic",
    "expansion": "PR Card",
+   "text": "Search your magic stone deck for a basic magic stone and put it into the field rested. Then shuffle your magic stone deck.",
    "flavor_text": "Gill understands the laws of magic at a genius level.",
    "all_sets": "PR Card"
   },
@@ -2939,7 +2987,7 @@
    "number": "RL1804-2",
    "type": "Special Magic Stone",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: The weather is rain until end of turn.",
+   "text": "Continuous\n\nTreat this card as a water magic stone.\n\nActivate\n\n[rest]: Produce [u].\n\nActivate\n\nBanish this card: The weather is rain until end of turn.",
    "flavor_text": "A strange stone that appears to manipulate the weather.",
    "all_sets": "PR Card"
   },
@@ -2958,7 +3006,7 @@
    ],
    "type": "Chant",
    "expansion": "PR Card",
-   "text": "Activate\nMagic stones you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\" until end of turn. Recover up to two magic stones you control. Draw a card.",
+   "text": "Activate\n\nMagic stones you control gain \"[rest]: Produce [W], [R], [U], [G], or [B].\" until end of turn. Recover up to two magic stones you control. Draw a card.",
    "flavor_text": "\"Does it mean we can do anything?\" \"No, it means we can only do what we can.\" \"Really?\" \"Really.\"—Reflect, Child of Potential and Refrain, Child of Convergence",
    "all_sets": "PR Card"
   },
@@ -2974,6 +3022,7 @@
    ],
    "type": "Chant",
    "expansion": "PR Card",
+   "text": "[Quickcast]\n\nCancel target automatic ability of a resonator. Draw a card.",
    "flavor_text": "Keez's voice can immobilize opponents.",
    "all_sets": "PR Card"
   },
@@ -2984,7 +3033,7 @@
    "number": "RL1805-2",
    "type": "Special Magic Stone",
    "expansion": "PR Card",
-   "text": "Activate\nBanish this card: Draw a card.",
+   "text": "Continuous\n\nTreat this card as a wind magic stone.\n\nActivate\n\n[rest]: Produce [g].\n\nActivate\n\nBanish this card: Draw a card.",
    "flavor_text": "A catalytic stone that summons spirits.",
    "all_sets": "PR Card"
   },
@@ -2995,7 +3044,7 @@
    "number": "RL1806-1",
    "type": "Special Magic Stone",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters the field ⇒ Gain a light gem.",
+   "text": "Continuous\n\nTreat this card as a light magic stone.\n\nActivate\n\n[rest]: Produce [w].\n\nAutomatic\n\nWhen this card enters the field ⇒ Gain a light gem.",
    "flavor_text": "It shines with the promise of gems within.",
    "all_sets": "PR Card"
   },
@@ -3006,7 +3055,7 @@
    "number": "RL1806-2",
    "type": "Special Magic Stone",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put two strength counters on your J/ruler.",
+   "text": "Continuous\n\nTreat this card as a fire magic stone.\n\nActivate\n\n[rest]: Produce [r].\n\nAutomatic\n\nWhen this card enters the field ⇒ Put two strength counters on your J/ruler.",
    "flavor_text": "A stone housing the vitality of a dragon.",
    "all_sets": "PR Card"
   },
@@ -3030,7 +3079,7 @@
    "type": "Resonator",
    "race": "Dragon/Soul",
    "expansion": "PR Card",
-   "text": "Automatic\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Flying] until end of turn.",
+   "text": "[Flying]\n\nActivate\n\n[0]: Remove this card from the game. At the next end of turn ⇒ Put it into the field under its owner's control.\n\nActivate\n\n[1]: This card gains [+100/+100] until end of turn. Play this ability only if your J/ruler is \"Ayu, Lunar Swordswoman\" or \"Ayu, Shaman Swordswoman\".\n\nAutomatic\n\nWhen this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Flying] until end of turn.",
    "flavor_text": "A magical fog that no one can truly disperse.",
    "all_sets": "PR Card"
   }

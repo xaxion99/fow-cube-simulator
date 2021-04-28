@@ -1,38 +1,52 @@
 <div class="row">
-    <div class="column1">
+    <div class="column1" style="background:#aaa">
         <img id="cardimage" [src]="image">
+        <br>
+        <div class="url">
+            <a href={{url}}>{{ url }}</a>
+        </div>
     </div>
-    <div class="column2">
-        <table> <!-- style="width:50%" -->
+    <div class="column2" style="background:#bbb">
+        <table class="details"> <!-- style="width:50%" -->
             <tr>
-                <th>Name:</th>
-                <td>{{ name }}</td>
+                <div class="section">
+                    <th>Name:</th>
+                    <td>{{ name }}</td>
+                </div>
             </tr>
             <br>
             <tr>
-                <th>Type:</th>
-                <td>{{ type }}</td>
+                <div class="section">
+                    <th>Type:</th>
+                    <td>{{ type }}</td>
+                </div>
             </tr>
-            <br>
-            <tr>
-                <th>Cost:</th>
-                <td>
-                    <ul id="costbreakdown">
-                        <li *ngFor="let i of cost">
-                            <img id="cost" src={{i.attribute}}>
-                        </li>
-                    </ul>
-                </td>
+            <br *ngIf="cost !== undefined">
+            <tr *ngIf="cost !== undefined">
+                <div class="section">
+                    <th>Cost:</th>
+                    <td>
+                        <ul id="costbreakdown">
+                            <li *ngFor="let i of cost">
+                                <img id="cost" src={{i.attribute}}>
+                            </li>
+                        </ul>
+                    </td>
+                </div>
             </tr>
-            <br>
-            <tr>
-                <th>Atk / Def:</th>
-                <td>{{ attDef }}</td>
+            <br *ngIf="attDef !== undefined">
+            <tr *ngIf="attDef !== undefined">
+                <div class="section">
+                    <th>Atk / Def:</th>
+                    <td>{{ attDef }}</td>
+                </div>
             </tr>
-            <br>
-            <tr>
-                <th>Race:</th>
-                <td>{{ race }}</td>
+            <br *ngIf="race !== undefined">
+            <tr *ngIf="race !== undefined">
+                <div class="section">
+                    <th>Race:</th>
+                    <td>{{ race }}</td>
+                </div>
             </tr>
             <br>
             <!-- <tr>
@@ -41,28 +55,45 @@
             </tr>
             <br> -->
             <tr>
-                <th>Card Text:</th>
-                <td>{{ text }}</td>
+                <div class="section">
+                    <th>Card Text:</th>
+                    <td>{{ text }}</td>
+                </div>
+            </tr>
+            <br *ngIf="flavorText !== undefined">
+            <tr *ngIf="flavorText !== undefined">
+                <div class="section">
+                    <th>Flavor Text:</th>
+                    <td>{{ flavorText }}</td>
+                </div>
             </tr>
             <br>
             <tr>
-                <th>Flavor Text:</th>
-                <td>{{ flavorText }}</td>
+                <div class="section">
+                    <th>Set Number:</th>
+                    <td>{{ number }}</td>
+                </div>
+            </tr>
+            <br *ngIf="rarity !== undefined">
+            <tr *ngIf="rarity !== undefined">
+                <div class="section">
+                    <th>Rarity:</th>
+                    <td>{{ rarity }}</td>
+                </div>
             </tr>
             <br>
             <tr>
-                <th>Set Number:</th>
-                <td>{{ number }}</td>
+                <div class="section">
+                    <th>Artist:</th>
+                    <td>{{ artist }}</td>
+                </div>
             </tr>
             <br>
             <tr>
-                <th>Rarity:</th>
-                <td>{{ rarity }}</td>
-            </tr>
-            <br>
-            <tr>
-                <th>Expansion:</th>
-                <td>{{ expansion }}</td>
+                <div class="section">
+                    <th>Expansion:</th>
+                    <td>{{ expansion }}</td>
+                </div>
             </tr>
             <br>
             <!-- <tr>

@@ -1,0 +1,70 @@
+<div *ngIf="!details">
+    <table>
+        <tr>
+            <td>
+                <p>Search Card Name: </p>
+            </td>
+            <td>
+                <input type="text" id="search" value="">
+            </td>
+            <td>
+                <button (click)="searchCard()" id="searchButton">Search</button>
+            </td>
+            <td>
+                <p>Select Cluster: </p>
+            </td>
+            <td>
+                <select [(ngModel)]="cluster" (change)="clusterSelected($event)">
+                    <option value="" [disabled] selected>Select a Cluster:</option>
+                    <option *ngFor="let c of clusters | keyvalue" [value]="c.key" [innerHTML]="c.key"></option>
+                </select>
+            </td>
+            <td>
+                <select [(ngModel)]="set" (change)="setSelected($event)">
+                    <option value="" [disabled] selected>Select a Set:</option>
+                    <option *ngFor="let c of clusters[cluster]" [value]="c" [innerHTML]="c"></option>
+                </select>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <mat-grid-list cols="5" gutterSize="5" rowHeight="1:1.5">
+        <mat-grid-tile *ngFor="let c of searchArray; let i = index">
+            <img class="image" [src]="c.image" (click)="getDetailsFromSearch(c, i)">
+        </mat-grid-tile>
+    </mat-grid-list>
+</div>
+<div *ngIf="details">
+    <button (click)="goBack()" id="backButton">Back</button>
+    <br>
+    <app-card-details [card]="this.cfs.getCard()"></app-card-details>
+    <br>
+    <div>
+        <table>
+            <tr>
+                <td>
+                    <button (click)="prevCard()">Previous</button>
+                </td>
+                <td>
+                    <button (click)="nextCard()">Next</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <br>
+    <div>
+        <table>
+            <tr>
+                <td>
+                    <p>Jump to Card in Set: </p>
+                </td>
+                <td>
+                    <input type="text" id="jump" value="">
+                </td>
+                <td>
+                    <button (click)="jumpCard()" id="jumpButton">Jump</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>

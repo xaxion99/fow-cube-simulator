@@ -15,6 +15,7 @@
    "race": "Treasure",
    "artist": "jitari",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nDestroy target addition. Draw a card. Shuffle this card into its owner's deck as it resolves.",
    "flavor_text": "\"Oh, it ... It's wonderful! ... I think.\" ーSelesta, Treasure Hunter",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -32,6 +33,7 @@
    "type": "Chant",
    "artist": "KAZTO FURUYA",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nThis card deals damage to target resonator equal to that resonator's ATK. Then put two [+100/+100] counters on a resonator you control.",
    "flavor_text": "The light of the star lets you judge your sins.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -51,7 +53,7 @@
    "race": "Human, Wizard",
    "artist": "Kamijo Roro",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nIf a resonator would be put into the field without being played from a hand, remove it from the game instead.",
+   "text": "[Quickcast]\n\nContinuous\n\nThis card gains [Barrier] as long as there is a [+100/+100] counter on it.\n\nContinuous\n\nIf a resonator would be put into the field without being played from a hand, remove it from the game instead.",
    "flavor_text": "\"Now don't be scared of things you can't see.\"",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -83,7 +85,7 @@
    "race": "Dragonoid",
    "artist": "Pisuke",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: Put a [+100/+100] counter on another entity you control.",
+   "text": "[Barrier]\n\n[Rest]: Produce [W].\n\nActivate\n\n[Rest]: Put a [+100/+100] counter on another entity you control.\n\nDestroy all J/resonators with no [+100/+100] counters on them.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -100,6 +102,7 @@
    "type": "Chant",
    "artist": "sakura moyon",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast] [Remnant]\n\nTarget resonator gains [+400/+400] until end of turn. If there is a [+100/+100] counter on it, it also gains [Eternal] and [Barrier] until end of turn.",
    "flavor_text": "This grace gives divine protection to the blessed.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -122,7 +125,7 @@
    "race": "Deity",
    "artist": "jugemt",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nIf damage would be dealt to you, it's dealt to this card instead.",
+   "text": "[Quickcast]\n\nContinuous\n\nThis card gains [0/+1000] as long as your ruler is \"Ragnarok, Invading Dragon Lord\".\n\nContinuous\n\nIf damage would be dealt to you, it's dealt to this card instead.",
    "flavor_text": "Ragnarok appeared from another dimension, and the world shook and trembled.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -148,7 +151,7 @@
    "race": "Beast",
    "artist": "Misa Tsutsui",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\nRemove a [+100/+100] counter from this card: Put a [+100/+100] counter on another entity you control.",
+   "text": "[Flying]\n\nContinuous\n\nThis card enters the field with two [+100/+100] counters on it.\n\nActivate\n\nRemove a [+100/+100] counter from this card: Put a [+100/+100] counter on another entity you control.",
    "flavor_text": "There are many magical birds on the campus of the Academy.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -167,7 +170,7 @@
    "race": "Magic Crest",
    "artist": "fzwrAym",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen this card enters the field ⇒ Distribute four [+100/+100] counters on up to four target resonators.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Distribute four [+100/+100] counters on up to four target resonators.",
    "flavor_text": "The Light Magic Crest seems to grant some kind of strange power.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -181,7 +184,7 @@
    "race": "Human",
    "artist": "KAZTO FURUYA",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\nRemove X [+100/+100] counters from this card: Put X [+100/+100] counters on an entity you control. Play this ability only during your turn and only once per turn.",
+   "text": "[Judgment][W][W]\n\nActivate\n\n[0]: Reveal the top card of your deck and count the number of light will symbols in its attribute cost. Put X [+100/+100] counters on this card, where X is the number of will symbols you counted this way. Play this ability only during your turn and only once per turn.\n\nActivate\n\nRemove X [+100/+100] counters from this card: Put X [+100/+100] counters on an entity you control. Play this ability only during your turn and only once per turn.",
    "flavor_text": "One day, a comet fell from the sky, and a dragon appeared in its wake, changing the fate of this world forever.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -207,7 +210,7 @@
    "race": "Human",
    "artist": "sakura moyon",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Count the number of will symbols in the attribute cost of each entity you control. Put [+100/+100] counters on each of those entities equal to the number of will symbols you counted for that entity this way.",
+   "text": "Automatic\n\n[Enter] >>> Count the number of will symbols in the attribute cost of each entity you control. Put [+100/+100] counters on each of those entities equal to the number of will symbols you counted for that entity this way.",
    "flavor_text": "Oborozuki's family, blessed by the star, has protected the godly power supposedly resting at the Starlit Canopy for generations.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -233,7 +236,7 @@
    "race": "Human",
    "artist": "KAZTO FURUYA",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhenever a [+100/+100] counter is put on this card >>> Choose one;\n- This card deals damage equal to its ATK to target J/resonator.\n- You gain life equal to this card's DEF.",
+   "text": "Automatic\n\nWhenever a [+100/+100] counter is put on this card >>> Choose one;\n\n- This card deals damage equal to its ATK to target J/resonator.\n\n- You gain life equal to this card's DEF.\n\n[Quickcast]\n\nDouble the number of [+100/+100] counters on each magic stone and light entity you control.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -261,7 +264,7 @@
    "race": "Human, Wizard",
    "artist": "Miko Yamazaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest], remove X [+100/+100] counters from this card: Put a [0/0] light Spirit resonator token with [Flying] and X [+100/+100] counters on it into the field.",
+   "text": "[Flying]\n\nActivate\n\n[Rest], remove X [+100/+100] counters from this card: Put a [0/0] light Spirit resonator token with [Flying] and X [+100/+100] counters on it into the field.\n\n[Quickcast]\n\nYour opponent cannot play spells until end of turn.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -283,7 +286,7 @@
    "race": "Spirit",
    "artist": "j-peg",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen this card enters your field ⇒ Put a [+100/+100] counter on another target J/resonator you control.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Put a [+100/+100] counter on another target J/resonator you control.",
    "flavor_text": "It's a faint light, but sometimes that's all you need to find hope.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -303,7 +306,7 @@
    "race": "Spirit",
    "artist": "Miko Yamazaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Reveal the top card of your deck and count the number of will symbols in its attribute cost. Put X [+100/+100] counters on target entity you control, where X is the number of will symbols you counted this way.",
+   "text": "[Quickcast] [Flying]\n\nAutomatic\n\n[Enter] >>> Reveal the top card of your deck and count the number of will symbols in its attribute cost. Put X [+100/+100] counters on target entity you control, where X is the number of will symbols you counted this way.",
    "flavor_text": "The spirit of the star seems to know the future.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -335,7 +338,7 @@
    "race": "Dragon",
    "artist": "Kusanagi Tyouen",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nYou may pay [W] less to play this card for each magic stone and light entity you control with a [+100/+100] counter on it.",
+   "text": "[Flying] [Precision] [Pierce]\n\nContinuous\n\nYou may pay [W] less to play this card for each magic stone and light entity you control with a [+100/+100] counter on it.",
    "flavor_text": "Its brightness is a reflection of its power.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -356,7 +359,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhenever one or more [+100/+100] counters are put on this card >>> Draw a card.",
+   "text": "Automatic\n\n[Enter] >>> Remove target non-magic stone, non-J-ruler entity your opponent controls with total cost 3 or less from the game.\n\nAutomatic\n\nWhenever one or more [+100/+100] counters are put on this card >>> Draw a card.",
    "flavor_text": "Now only the stars and the earth remember the battle fought here in ancient times.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -374,7 +377,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: Look at the top card of your deck. You may put it on the bottom of your deck.",
+   "text": "Continuous\n\nIf you would count the number of will symbols in an attribute cost, count that number plus one instead.\n\nActivate\n\n[Rest]: Look at the top card of your deck. You may put it on the bottom of your deck.",
    "flavor_text": "Kaguya begins to tell a story, an epic about an ancient history that was, but never will be again.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -395,6 +398,7 @@
    "type": "Chant",
    "artist": "AKI",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nYou may pay [W][W] less to play this card if your opponent's ruler is \"Ragnarok, Invading Dragon Lord\".\n\nEntities you control cannot be removed from the game until end of turn.",
    "flavor_text": "The invader from another dimension, Ragnarok, is searching for the cursed Reiya. But Oborozuki will do everything she can to stop him, even sacrificing herself.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -420,7 +424,7 @@
    "race": "Dragon",
    "artist": "Kusanagi Tyouen",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nYou may pay [W] less to play this card for each magic stone and light entity you control with a [+100/+100] counter on it.",
+   "text": "[Flying]\n\nContinuous\n\nYou may pay [W] less to play this card for each magic stone and light entity you control with a [+100/+100] counter on it.",
    "flavor_text": "Its twinkling was said to be a good omen, but now it seems clouded.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -446,7 +450,7 @@
    "race": "Beast",
    "artist": "SIGMAN",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[R][R][R]: Put this card from your graveyard into the field.",
+   "text": "Automatic\n\nWhenever damage is dealt to this card >>> It deals that much damage to target player or J/resonator.\n\nActivate\n\n[R][R][R]: Put this card from your graveyard into the field.\n\n[Quickcast]\n\nThis card deals 1400 damage divided as you choose to target resonator you control and target resonator your opponent controls. You must assign a minimum of 200 damage to each target.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -466,6 +470,7 @@
    "type": "Chant",
    "artist": "Kelvin",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Put three [300/300] fire Beast resonator tokens with [Swiftness] and \"When this card is put into a graveyard from the field >>> It deals 200 damage to target J/resonator.\" into the field.",
    "flavor_text": "Speed that hurts.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -491,7 +496,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nYou may pay [R] less to play this card for each damaged J/resonator.",
+   "text": "[Flying] [Precision]\n\nContinuous\n\nYou may pay [R] less to play this card for each damaged J/resonator.",
    "flavor_text": "Extraordinary hunters must be quick to act.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -510,6 +515,7 @@
    "race": "Treasure",
    "artist": "Nekobayashi",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nYour J-ruler gains [Pierce] and [Swiftness] until end of turn. Draw a card. Shuffle this card into its owner's deck as it resolves.",
    "flavor_text": "\"Hmm, according to this scroll, this might have belonged to a dragonoid who loved training more than anything. ... Well, I'll still take it.\" ーSelesta, Treasure Hunter",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -530,6 +536,7 @@
    "type": "Chant",
    "artist": "yua",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Reveal the top card of your deck and count the number of fire will symbols in its attribute cost. Produce [R] for each will symbol you counted this way.",
    "flavor_text": "The Fox God gave his life, and entrusted the young fox inheriting his soul to Lilias's care.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -552,7 +559,7 @@
    "race": "Human",
    "artist": "Kamijo Roro",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Search your deck for a card named \"Hoelle Pig\", reveal it, and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] >>> Search your deck for a card named \"Hoelle Pig\", reveal it, and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Well, let's have ... Hoelle pork tonight.\"",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -575,7 +582,7 @@
    "race": "Deity",
    "artist": "jugemt",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Choose one;\n- This card deals 1000 damage to target player or J/resonator.\n- This card deals 1000 damage to three target players and/or J/resonators. Choose this option only if your ruler is \"Ragnarok, Invading Dragon Lord\".",
+   "text": "Automatic\n\n[Enter] >>> Choose one;\n\n- This card deals 1000 damage to target player or J/resonator.\n\n- This card deals 1000 damage to three target players and/or J/resonators. Choose this option only if your ruler is \"Ragnarok, Invading Dragon Lord\".",
    "flavor_text": "Ragnarok burns everything, even with a slightest touch of flame.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -601,7 +608,7 @@
    "race": "Beast",
    "artist": "Kelvin/Fushikaden K.K.",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[R]: Beasts gain [+200/0] until end of turn.",
+   "text": "[Swiftness] [Pierce]\n\nContinuous\n\nIf this card would deal damage while it is damaged, it deals double that much instead.\n\nActivate\n\n[R]: Beasts gain [+200/0] until end of turn.\n\nThis card deals 300 damage to each player for each special magic stone they control.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -623,7 +630,7 @@
    "race": "Beast",
    "artist": "Yuko Nagasaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\nBanish this card: Recover your ruler.",
+   "text": "Activate\n\nBanish this card: Recover your ruler.\n\n[Quickcast]\n\nPut five strength counters on your J/ruler. Draw a card.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -654,7 +661,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Destroy all damaged J/resonators your opponent controls. This card deals 400 damage for each resonator destroyed this way to your opponent.",
+   "text": "[Flying]\n\nContinuous\n\nYou may pay [R] less to play this card for each damaged J/resonator.\n\nAutomatic\n\n[Enter] >>> Destroy all damaged J/resonators your opponent controls. This card deals 400 damage for each resonator destroyed this way to your opponent.",
    "flavor_text": "\"He who runs after two hares will catch both.\" ーAncient dragonoid proverb",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -674,7 +681,7 @@
    "race": "Beast",
    "artist": "muranako",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> This card deals 700 damage to target resonator you control. If that resonator is still a legal target, produce [R].",
+   "text": "Automatic\n\n[Enter] >>> This card deals 700 damage to target resonator you control. If that resonator is still a legal target, produce [R].",
    "flavor_text": "No injury should suppress your will to fight.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -688,7 +695,7 @@
    "race": "Dragonoid",
    "artist": "SIGMAN",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: Put five strength counters on this card.",
+   "text": "[Judgment][R][R][R]\n\nActivate\n\n[0]: Choose one. Play this ability only during your turn and only once per turn;\n\n- This card deals 200 damage to target player or J/resonator.\n\n- Look at the top card of your deck. You may play it by paying its cost.\n\n- Put five strength counters on this card.\n\nActivate\n\n[Rest]: Put five strength counters on this card.",
    "flavor_text": "The survivor of the ruined nation of dragonoids, the last descendant.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -711,7 +718,7 @@
    "race": "Human",
    "artist": "fzwrAym",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> This card deals damage equal to its ATK to target J/resonator.",
+   "text": "Continuous\n\nThis card gains [+100/0] for each strength counter on your J/ruler.\n\nAutomatic\n\n[Enter] >>> This card deals damage equal to its ATK to target J/resonator.",
    "flavor_text": "Martial Arts is the way of the mind.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -735,6 +742,7 @@
    "type": "Chant",
    "artist": "311tarou",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nChoose one;\n\n- This card deals 1000 damage divided as you choose to any number of target resonators.\n\n- This card deals 2000 damage divided as you choose to any number of target resonators. Choose this option only if there are fifteen or more strength counters on your J/ruler.",
    "flavor_text": "\"The match is the moment!\" ーLilias, Last Descendant of Dragonoids",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -756,7 +764,7 @@
    "race": "Magic Crest",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen this card enters the field ⇒ It deals 600 damage to target resonator.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ It deals 600 damage to target resonator.",
    "flavor_text": "The Fire Magic Crest scorches those that touch it.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -774,7 +782,7 @@
    "type": "Addition",
    "artist": "Nekobayashi",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: If a fire source you control would deal damage this turn, it deals that much plus 200 instead.",
+   "text": "Activate\n\n[Rest]: If a fire source you control would deal damage this turn, it deals that much plus 200 instead.",
    "flavor_text": "In ancient times, dragonoids were enshrined here.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -800,7 +808,7 @@
    "race": "Spirit",
    "artist": "Miko Yamazaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Choose a player. This card deals 200 damage to each J/resonator they control. Produce [R] for each J/resonator that was dealt damage this way and wouldn't be destroyed by that damage.",
+   "text": "Automatic\n\n[Enter] >>> Choose a player. This card deals 200 damage to each J/resonator they control. Produce [R] for each J/resonator that was dealt damage this way and wouldn't be destroyed by that damage.",
    "flavor_text": "To keep the fire burning, the life fueling it must go on.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -818,7 +826,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\nRemove five strength counters from your J/ruler: Return this card to its owner's hand.",
+   "text": "Automatic\n\n[Enter] >>> Reveal the top card of your deck and count the number of will symbols in its attribute cost. This card deals 100 damage multiplied by the number of will symbols you counted this way to each J/resonator your opponent controls.\n\nActivate\n\nRemove five strength counters from your J/ruler: Return this card to its owner's hand.",
    "flavor_text": "The nation of the dragonoids was destroyed in the war in ancient times, and now only one dragonoid, herself, is still alive. At least that is what she thinks.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -847,7 +855,7 @@
    "race": "Beast",
    "artist": "Nagi-nyan",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nThis card gains [Precision], [First Strike], and [+400/+400] as long your opponent controls a damaged J/resonator.",
+   "text": "[Swiftness]\n\nContinuous\n\nThis card gains [Precision], [First Strike], and [+400/+400] as long your opponent controls a damaged J/resonator.\n\n[Quickcast]\n\nThis card deals 500 damage to target player or J/resonator.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -866,7 +874,7 @@
    "race": "Wizard",
    "artist": "Kamijo Roro",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nEach player may only play one chant spell per turn.",
+   "text": "[Quickcast]\n\nContinuous\n\nEach player may only play one resonator spell per turn.\n\nContinuous\n\nEach player may only play one chant spell per turn.",
    "flavor_text": "\"What are you doing here?\"",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -887,6 +895,7 @@
    "type": "Chant",
    "artist": "Rumie",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "You may pay [1] less to play this card for each Treasure in your removed area that was removed by an [Exploration] ability you controlled.\n\nReveal the top card of your deck and count the number of water will symbols in its attribute cost. Draw X cards, where X is the number of will symbols you counted this way.",
    "flavor_text": "\"Ah, my main man! So what's it all worth??\" ーSelesta, Treasure Hunter",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -909,7 +918,7 @@
    "race": "Human",
    "artist": "BANAMONS*/Cola",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nIf an entity your opponent controls would be put into its owner's hand by an ability of another card, you may put it on the bottom of its owner's deck instead.",
+   "text": "Automatic\n\n[Enter] >>> You may return target resonator to its owner's hand.\n\nContinuous\n\nIf an entity your opponent controls would be put into its owner's hand by an ability of another card, you may put it on the bottom of its owner's deck instead.\n\nReturn target addition, resonator, or regalia to its owner's hand.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -930,6 +939,7 @@
    "race": "Treasure",
    "artist": "gekko",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nJ/resonators you control gain [Barrier] and \"Prevent the next damage that would be dealt to this card.\" until end of turn. Shuffle this card into its owner's deck as it resolves.",
    "flavor_text": "\"Hmm, according to this scroll, there is no reference to it anywhere. …Well, what is it then?\" ーSelesta, Treasure Hunter",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -948,6 +958,7 @@
    "race": "Treasure",
    "artist": "hatarisu",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nYou have no maximum hand size until end of game. Draw a card. Shuffle this card into its owner's deck as it resolves.",
    "flavor_text": "\"Kiki, this is so cool!\" ーSelesta, Treasure Hunter",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -968,6 +979,7 @@
    "type": "Chant",
    "artist": "AKI",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nYour opponent reveals the top seven cards of their deck. If none of them share a name, you may play one from among them without paying its cost. Put the rest on the bottom of your opponent's deck in a random order.",
    "flavor_text": "The target of Selesta's last treasure hunt was Ragnarok, as her desire for treasure was stronger than everything else.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -989,6 +1001,7 @@
    "race": "Treasure",
    "artist": "Moopic",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nReturn target non-magic stone, non-J-ruler entity to its owner's hand. Draw a card. Shuffle this card into its owner's deck as it resolves.",
    "flavor_text": "\"Hmm, according to this scroll, this might have belonged to a panda king who loved jewels. ... Well, doesn't that sound way too dandy for a true panda?\" ーSelesta, Treasure Hunter",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1011,7 +1024,7 @@
    "race": "Beast",
    "artist": "Matsurika Yoko",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nWhile this card is revealed from your deck by an [Exploration] ability you control, you may play it without paying its cost.",
+   "text": "Continuous\n\nPrevent all non-battle damage that would be dealt to this card.\n\nAutomatic\n\n[Enter] >>> Draw two cards. Then put a card from your hand on top of your deck.\n\nContinuous\n\nWhile this card is revealed from your deck by an [Exploration] ability you control, you may play it without paying its cost.\n\n[Quickcast]\n\nShuffle this card into your deck. Then [Exploration] 4.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -1029,7 +1042,7 @@
    "race": "Magic Crest",
    "artist": "touge369",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen this card enters the field ⇒ Draw a card.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Draw a card.",
    "flavor_text": "The Water Magic Crest inspires dark thoughts.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1048,6 +1061,7 @@
    "race": "Treasure",
    "artist": "hatarisu",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nThis card deals 400 damage for each card in your hand to target J/resonator. Shuffle this card into its owner's deck as it resolves.",
    "flavor_text": "\"Hmm, according to this scroll, this might have belonged to a mermaid princess who controlled the weather with her parasol. …Well, I guess having another umbrella can't hurt.\" ーSelesta, Treasure Hunter",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1076,7 +1090,7 @@
    "race": "Spirit // Mage Art",
    "artist": "ishishou/hatarisu",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nYou may pay [B][B] less to play cards named ”Foresee\".",
+   "text": "Automatic\n\nWhenever you draw a card >>> Put two [+100/+100] counters on this card.\n\nContinuous\n\nYou may pay [B][B] less to play cards named ”Foresee\".\n\nDraw two cards.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -1089,7 +1103,7 @@
    "race": "Human, Rogue",
    "artist": "Matsurika Yoko",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[X]: Choose X cards from your removed area that were removed by an [Exploration] ability you controlled. Put a copy of each of those cards on the chase. Play this ability only during your turn and only once per turn.",
+   "text": "[Judgment][B][B][1]\n\nActivate\n\n[0]: [Exploration] X (You may look at the top X cards of your deck. You may reveal a card from among them. If it is a Treasure, remove it from the game. Put the rest on the bottom of your deck in any order.), where X is the number of magic stones you control. Play this ability only during your turn and only once per turn.\n\nActivate\n\n[X]: Choose X cards from your removed area that were removed by an [Exploration] ability you controlled. Put a copy of each of those cards on the chase. Play this ability only during your turn and only once per turn.",
    "flavor_text": "Very serious and honest, researching and working harder than anyone else. But tell her about a treasure, and she is gone.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1112,7 +1126,7 @@
    "race": "Beast",
    "artist": "Misa Tsutsui",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nThis card gains [+200/0] for each card in your hand.",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] >>> Draw a card.\n\nContinuous\n\nThis card gains [+200/0] for each card in your hand.",
    "flavor_text": "Knowledge covers the sky.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1130,7 +1144,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: Produce [B]. Spend this will only to play activate abilities of cards named “Selesta, Treasure Hunter” you control.",
+   "text": "Automatic\n\n[Enter] >>> Draw a card. Then put a card from your hand on top of your deck.\n\nActivate\n\n[Rest]: Produce [B]. Spend this will only to play activate abilities of cards named “Selesta, Treasure Hunter” you control.",
    "flavor_text": "Selesta excavated countless ancient treasures in her career, many of them related to magic stones. One of her descendants became the leading researcher on magic stones, and his name was Grusbalesta.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1151,7 +1165,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Draw X cards, where X is five minus the number of cards in your hand.",
+   "text": "Automatic\n\n[Enter] >>> Draw X cards, where X is five minus the number of cards in your hand.",
    "flavor_text": "The books in Lykeion's library are all most carefully selected..",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1171,7 +1185,7 @@
    "race": "Deity",
    "artist": "jugemt",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Draw a card. If your ruler is \"Ragnarok, Invading Dragon Lord\", draw three cards instead.",
+   "text": "Automatic\n\n[Enter] >>> Draw a card. If your ruler is \"Ragnarok, Invading Dragon Lord\", draw three cards instead.",
    "flavor_text": "Knowledge flows like water, until thirst absorbs it.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1197,7 +1211,7 @@
    "race": "Spirit",
    "artist": "Miko Yamazaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nWhile this card is revealed from your deck by an [Exploration] ability you control, you may play it without paying its cost.",
+   "text": "[Flying]\n\nContinuous\n\nWhile this card is revealed from your deck by an [Exploration] ability you control, you may play it without paying its cost.",
    "flavor_text": "The spirit of the lamp follows Selesta, unseen and tireless.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1217,7 +1231,7 @@
    "race": "Beast",
    "artist": "Kamijo Roro",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nThis card gains [Flying] as long as you have five or more cards in your hand.",
+   "text": "Automatic\n\nWhenever this card deals damage to a resonator >>> Return it to its owner's hand.\n\nAutomatic\n\nWhenever this card deals damage to a player >>> Draw a card.\n\nContinuous\n\nThis card gains [Flying] as long as you have five or more cards in your hand.",
    "flavor_text": "At the waterfront, you must keep your eyes on the sky.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1249,7 +1263,7 @@
    "race": "Dragon",
    "artist": "Kotakan",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Return up to two target non-magic stone, non-J-ruler entities your opponent controls to their owners' hand. Draw a card.",
+   "text": "[Flying]\n\nContinuous\n\nYou may pay [B] less to play this card for each Treasure in your removed area that was removed by an [Exploration] ability you controlled.\n\nAutomatic\n\n[Enter] >>> Return up to two target non-magic stone, non-J-ruler entities your opponent controls to their owners' hand. Draw a card.",
    "flavor_text": "While Selesta was sorting happily through all the treasure, suddenly the dragon came home.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1281,7 +1295,7 @@
    "race": "Elf, Wizard",
    "artist": "ComamitsuZaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[G]: Return this card to its owner's hand. You may pay [G][G] less to play cards named \"A Glimpse of the Prodigy\" until end of turn.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] >>> Prevent all damage that would be dealt by target J/resonator until end of turn.\n\nActivate\n\n[G]: Return this card to its owner's hand. You may pay [G][G] less to play cards named \"A Glimpse of the Prodigy\" until end of turn.\n\n[Quickcast]\n\nCancel target spell or automatic ability.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -1298,7 +1312,7 @@
    "type": "Addition",
    "artist": "SAGAWA ASUKA",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: Produce [G]. Spend this will only to play activate abilities of cards named “Altesing, Mischievous Boy” you control.",
+   "text": "Continuous\n\nJ/resonators you control gain [Barrier].\n\nActivate\n\n[Rest]: Produce [G]. Spend this will only to play activate abilities of cards named “Altesing, Mischievous Boy” you control.",
    "flavor_text": "\"Well now... Let me see what you'd think, my dear wind?\" ーAltesing, Mischievous Boy",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1324,7 +1338,7 @@
    "race": "Human, Wizard",
    "artist": "Haruichi Kido",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[G], [Rest]: Put a Magic Crest from your hand into the field.",
+   "text": "Automatic\n\n[Enter] >>> Search your deck for a Magic Crest, reveal it, and put it into your hand. Then shuffle your deck.\n\nActivate\n\n[G], [Rest]: Put a Magic Crest from your hand into the field.\n\nLook at the top five cards of your deck. You may reveal up to two non-resonator cards from among them and put them into your hand. Put the rest on the bottom of your deck in any order.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -1344,6 +1358,7 @@
    "type": "Chant",
    "artist": "Haruichi Kido",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Remnant]\n\nPut target chant from your graveyard into your hand.",
    "flavor_text": "Love is like magic.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1367,7 +1382,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: This turn, you may play your next chant with total cost 2 or less without paying its cost.",
+   "text": "Continuous\n\nYou may pay [G] less to play this card for each chant you played this turn.\n\nActivate\n\n[Rest]: This turn, you may play your next chant with total cost 2 or less without paying its cost.",
    "flavor_text": "At his Academy, Welser welcomes both geniuses and troublemakers.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1389,7 +1404,7 @@
    "race": "Magic Crest",
    "artist": "Nagi-nyan",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put the top card of your magic stone deck into the field.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put the top card of your magic stone deck into the field.",
    "flavor_text": "The Wind Magic Crest carries evil magic with it.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1421,7 +1436,7 @@
    "race": "Dragon",
    "artist": "douzen",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Put the top card of your magic stone deck into the field rested.",
+   "text": "[Flying]\n\nContinuous\n\nYou may pay [G] less to play this card for each chant you played this turn.\n\nAutomatic\n\n[Enter] >>> Put the top card of your magic stone deck into the field rested.",
    "flavor_text": "Really good magic sticks around like air, and a talented wizard makes good use of this residual power.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1439,6 +1454,7 @@
    "type": "Chant",
    "artist": "Yuko Nagasaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nChoose one;\n\n- Return target attacking resonator to its owner's hand.\n\n- Recover a magic stone you control.",
    "flavor_text": "\"The Second Rule of Magic: If timing and direction are right, you won't need power.\" ーWelser, the Progenitor of Magic",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1459,6 +1475,7 @@
    "type": "Chant",
    "artist": "SO",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "If this is the first chant you played this turn, put a [700/700] wind Beast resonator token with [Pierce] into the field. If this is the second chant you played this turn, put a [1000/1000] wind Beast resonator token with [Swiftness] into the field. If this is the third chant you played this turn, put a [1200/1200] wind Beast resonator token with [Pierce] into the field. If this is the fourth or subsequent chant you played this turn, put all three of those tokens into the field.",
    "flavor_text": "\"All Spells resonate with each other. Always try to make use of that influence properly, and you can achieve the maximum impact with minimum power.\" ーWelser, the Progenitor of Magic",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1481,7 +1498,7 @@
    "race": "Elf, Wizard",
    "artist": "311tarou",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nThis card gains [+1300/+1300] as long as you control ten or more magic stones.",
+   "text": "Continuous\n\nThis card gains [+1300/+1300] as long as you control ten or more magic stones.",
    "flavor_text": "There is only a fine line between fantasy and reality.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1501,7 +1518,7 @@
    "race": "Spirit",
    "artist": "Miko Yamazaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen you play your third or subsequent chant this turn >>> This card deals 800 damage to target J/resonator.",
+   "text": "[Flying]\n\nAutomatic\n\nWhen you play your first chant this turn >>> This card gains [+400/+400] until end of turn.\n\nAutomatic\n\nWhen you play your second chant this turn >>> Draw a card.\n\nAutomatic\n\nWhen you play your third or subsequent chant this turn >>> This card deals 800 damage to target J/resonator.",
    "flavor_text": "\"Yes, master, I can still do all three transformations.\"",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1530,7 +1547,7 @@
    "race": "Spirit",
    "artist": "311tarou",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Put the top card of your magic stone deck into the field rested.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field >>> Put the top card of your magic stone deck into the field rested.\n\nPut the top card of your magic stone deck into the field rested.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -1547,6 +1564,7 @@
    "type": "Chant",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Choose one. If this card was awakened, choose both instead;\n\n- Target J/resonator gains [Flying] until end of turn.\n\n- Destroy target J/resonator if it has [Flying].\n\n[Awakening][2]",
    "flavor_text": "The sky was as stormy as Elixir's heart.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1566,7 +1584,7 @@
    "race": "Elf, Wizard",
    "artist": "Kamijo Roro",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhenever you play a chant >>> Put two [+100/+100] counters on this card.",
+   "text": "Automatic\n\nWhenever you play a chant >>> Put two [+100/+100] counters on this card.",
    "flavor_text": "Though he is still a freshman at the Academy, he already knows a lot about magic.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1588,6 +1606,7 @@
    "race": "Treasure",
    "artist": "jitari",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nYou gain 200 life for each magic stone you control. Shuffle this card into its owner's deck as it resolves.",
    "flavor_text": "\"Hmm, according to this scroll, this might have belonged to a group of seven strong mages. …Well, nobody else still remembers their names, and I will forget soon as well.\" ーSelesta, Treasure Hunter",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1605,6 +1624,7 @@
    "type": "Chant",
    "artist": "noki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nDraw a card. Then put this card on top of your deck.",
    "flavor_text": "Welser's magical wind never ceases.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1618,7 +1638,7 @@
    "race": "Human, Wizard",
    "artist": "kurisu",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhenever you play a chant >>> Recover a magic stone you control. This ability triggers only once per turn.",
+   "text": "[Judgment][0]. Play this ability only if you control ten or more magic stones.\n\nAutomatic\n\nWhenever you play a chant >>> Recover a magic stone you control. This ability triggers only once per turn.",
    "flavor_text": "\"The First Rule of Magic: Magic should be natural to you, like breathing.\" ーWelser, the Progenitor of Magic",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1639,6 +1659,7 @@
    "type": "Chant",
    "artist": "Shirono Muku",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nReveal the top card of your deck and count the number of will symbols in its attribute cost. Cancel target spell if its total cost is less than or equal to the number of will symbols you counted this way.",
    "flavor_text": "A capricious star seems to drift with the wind.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1658,7 +1679,7 @@
    "race": "Deity",
    "artist": "jugemt",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Produce one will of any attribute. If your ruler is \"Ragnarok, Invading Dragon Lord\", produce three wills of any one attribute instead.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] >>> Produce one will of any attribute. If your ruler is \"Ragnarok, Invading Dragon Lord\", produce three wills of any one attribute instead.",
    "flavor_text": "Ragnarok's wind is a sign of doom and destruction.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1682,6 +1703,7 @@
    "type": "Chant",
    "artist": "gekko",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Put any number of resonators with a combined total cost of 4 or less from your graveyard into the field.",
    "flavor_text": "Oborozuki felt the sudden revitalization of the power of darkness.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1700,6 +1722,7 @@
    "race": "Treasure",
    "artist": "Saiko Takaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nJ/resonators you control gain [Drain] and [Bane] until end of turn. Shuffle this card into its owner's deck as it resolves.",
    "flavor_text": "\"Hmm, according to this scro… Yikes, this is gross!!\" ーSelesta, Treasure Hunter",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1731,7 +1754,7 @@
    "race": "Dragon",
    "artist": "suranaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Put X [400/400] darkness Zombie resonator tokens into the field, where X is the number of resonators in your graveyard.",
+   "text": "[Flying]\n\nContinuous\n\nYou may pay [D] less to play this card for each darkness resonator you controlled put into a graveyard from the field this turn.\n\nAutomatic\n\n[Enter] >>> Put X [400/400] darkness Zombie resonator tokens into the field, where X is the number of resonators in your graveyard.",
    "flavor_text": "Pick up a bone, and you might end up as bones yourself.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1754,7 +1777,7 @@
    "race": "Deity",
    "artist": "jugemt",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Enter] >>> Choose one;\n- Destroy target resonator.\n- Destroy three target J/resonators. Choose this option only if your ruler is \"Ragnarok, Invading Dragon Lord\".",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] >>> Choose one;\n\n- Destroy target resonator.\n\n- Destroy three target J/resonators. Choose this option only if your ruler is \"Ragnarok, Invading Dragon Lord\".",
    "flavor_text": "Ragnarok is heartless till the end.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1774,7 +1797,7 @@
    "race": "Human",
    "artist": "Yuko Nagasaki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Put a [400/400] darkness Zombie resonator token into the field.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from the field >>> Put a [400/400] darkness Zombie resonator token into the field.",
    "flavor_text": "Those blessed by the light will be afraid in the dark.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1794,7 +1817,7 @@
    "race": "Wizard",
    "artist": "Kamijo Roro",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nCards in all graveyards lose all abilities.",
+   "text": "Continuous\n\nCards in all graveyards lose all abilities.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -1811,7 +1834,7 @@
    "type": "Addition",
    "artist": "KONNO Takashi",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nAt end of turn >>> Remove target resonator in a graveyard from the game. Put a [400/400] darkness Zombie resonator token into the field.",
+   "text": "Automatic\n\nAt end of turn >>> Remove target resonator in a graveyard from the game. Put a [400/400] darkness Zombie resonator token into the field.",
    "flavor_text": "Undead life is \"born\" from this interdimensional graveyard.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1837,7 +1860,7 @@
    "race": "Demon",
    "artist": "Nakaba Higurashi",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Revenge] (If an entity you controlled was put into a graveyard from the field this turn, this card gains the following abilities until end of turn.) -\n[Flying]\nWhen this card is put into a graveyard from the field >>> Put another target resonator from your graveyard into your hand.",
+   "text": "You may pay [2] less to play this card if you don't control a J/resonator.\n\nAutomatic\n\n[Revenge] (If an entity you controlled was put into a graveyard from the field this turn, this card gains the following abilities until end of turn.) -\n\n[Flying]\n\nWhen this card is put into a graveyard from the field >>> Put another target resonator from your graveyard into your hand.",
    "flavor_text": "Showing up alone, leaving alone.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1857,6 +1880,7 @@
    "race": "Vampire",
    "artist": "j-peg",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "When this card leaves the field >>> Your opponent banishes a resonator.",
    "flavor_text": "Lonely needs company, but the price may be a bit high.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1888,7 +1912,7 @@
    "race": "Zombie",
    "artist": "Takumi Sugikawa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\n[Revenge] (If an entity you controlled was put into a graveyard from the field this turn, this card gains the following abilities until end of turn.) -\n[Enter] >>> Put a [400/400] darkness Zombie resonator token into the field.",
+   "text": "Other Zombies you control gain [+400/+400].\n\nAutomatic\n\n[Revenge] (If an entity you controlled was put into a graveyard from the field this turn, this card gains the following abilities until end of turn.) -\n\n[Enter] >>> Put a [400/400] darkness Zombie resonator token into the field.\n\nAs an additional cost to play this card, banish all Zombie resonators you control.\n\nThis card deals damage equal to the total ATK of the banished resonators to your opponent.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -1906,7 +1930,7 @@
    "race": "Magic Crest",
    "artist": "KONNO Takashi",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen this card enters the field ⇒ Put target resonator from your graveyard into your hand.",
+   "text": "Automatic\n\nWhen this card enters the field ⇒ Put target resonator from your graveyard into your hand.",
    "flavor_text": "The Darkness Magic Crest corrupts and twists life around it.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1920,7 +1944,7 @@
    "race": "Wanderer, Vampire",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\nBanish a resonator: Draw a card. Then put two [+100/+100] counters on target resonator you control. Play this ability only during your turn and only once per turn.",
+   "text": "[Judgment][D][D]\n\nActivate\n\nBanish a resonator: Draw a card. Then put two [+100/+100] counters on target resonator you control. Play this ability only during your turn and only once per turn.",
    "flavor_text": "Mikage's destiny brought him to this world. But Oborozuki will change his fate forever.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1934,7 +1958,7 @@
    "race": "Wanderer, Vampire",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\nBanish a resonator: Draw a card. Then put two [+100/+100] counters on target resonator you control. Play this ability only during your turn and only once per turn.",
+   "text": "[Judgment][D][D]\n\nActivate\n\nBanish a resonator: Draw a card. Then put two [+100/+100] counters on target resonator you control. Play this ability only during your turn and only once per turn.",
    "flavor_text": "Mikage's destiny brought him to this world. But Oborozuki will change his fate forever.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1952,6 +1976,7 @@
    "type": "Chant",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nAs an additional cost to play this card, remove two [+100/+100] counters from an entity you control.\n\nDestroy target J/resonator. Players cannot chase to this card.",
    "flavor_text": "The destiny of this world and the future of Oborozuki were cut off at the same time.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -1983,7 +2008,7 @@
    "race": "Knight",
    "artist": "Saiko Takaki/aki",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Automatic\nWhen this card is put into a graveyard from the field >>> Until end of turn, cards named \"Endless Night\" in your graveyard gain [Remnant] and you may play them without paying their cost.",
+   "text": "[Bane]\n\nAutomatic\n\nWhen this card is put into a graveyard from the field >>> Until end of turn, cards named \"Endless Night\" in your graveyard gain [Remnant] and you may play them without paying their cost.\n\n[Quickcast]\n\nDestroy target resonator your opponent controls. Then resonators gain [-200/-200] until end of turn.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -2006,6 +2031,7 @@
    "type": "Chant",
    "artist": "uekino aroe",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "Name a card. Search your opponent's deck, graveyard, and hand for all cards that share a name with the named card and remove them from the game. Then your opponent shuffles their deck.",
    "flavor_text": "Oborozuki broke the curse on Reiya with the power of time spinning, and then she helped Reiya to cut her existence from this world, before the power ran out.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -2040,7 +2066,7 @@
    "race": "Vampire",
    "artist": "yuko/YAMAMOTO-NAOKI",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[0]: Return this card to its owner's hand. You may pay [D][3] less to play cards named \"Eternal Recurrence\" until end of turn. Play this ability only during your turn and only once per turn.",
+   "text": "[Flying] [Drain] [Bane]\n\nAutomatic\n\nWhenever this card deals damage >>> Put two [+100/+100] counters on it.\n\nActivate\n\n[0]: Return this card to its owner's hand. You may pay [D][3] less to play cards named \"Eternal Recurrence\" until end of turn. Play this ability only during your turn and only once per turn.\n\nDestroy all resonators.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -2057,7 +2083,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\nBanish this card: Your opponent discards a card. Play this ability only during your turn.",
+   "text": "Activate\n\n[Rest]: Look at the top card of your deck. You may put it into the graveyard.\n\nActivate\n\nBanish this card: Your opponent discards a card. Play this ability only during your turn.",
    "flavor_text": "Mikage is a messenger from another dimension, who came to this world following Ragnarok. Originally, his plan was just to observe, but then Oborozuki changed his mind.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -2083,7 +2109,7 @@
    "race": "Human",
    "artist": "ShiroYayoi",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Continuous\nYou may pay [D] less to play cards named ”Curse of Ragnarok\".",
+   "text": "Automatic\n\n[Enter] >>> Target player banishes a non-magic stone, non-J-ruler entity. Put X [+100/+100] counters on this card, where X is the total cost of the entity banished this way.\n\nContinuous\n\nYou may pay [D] less to play cards named ”Curse of Ragnarok\".\n\n[Remnant]\n\nLook at your opponent's hand. Choose a card. They remove that card from the game.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -2106,6 +2132,7 @@
    "type": "Chant",
    "artist": "Tsukumi",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
+   "text": "[Quickcast]\n\nYou may pay [D] less to play this card for each darkness resonator you controlled put into a graveyard from the field this turn.\n\nJ/resonators your opponent control gain [-200/-200] until end of turn for each entity you controlled put into a graveyard this turn. Draw a card.",
    "flavor_text": "The final curse begins with death.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -2119,7 +2146,7 @@
    "race": "Dragon",
    "artist": "jugemt",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[X], where X is the number of times you already played this ability in this game: Choose one that was not chosen in this game. Play this ability only during your turn;\n- Produce two wills in any combination of attributes.\n- Copy target chant spell you control. You may choose new targets for the copy.\n- Draw three cards.\n- Remove all additions and regalia your opponent controls and all cards in your opponent's graveyard from the game.\n- Destroy all J-rulers.\n- Remove all resonators your opponent controls from the game.",
+   "text": "Continuous\n\nYou may not have more than one copy of any card in your deck.\n\nActivate\n\n[X], where X is the number of times you already played this ability in this game: Choose one that was not chosen in this game. Play this ability only during your turn;\n\n- Produce two wills in any combination of attributes.\n\n- Copy target chant spell you control. You may choose new targets for the copy.\n\n- Draw three cards.\n\n- Remove all additions and regalia your opponent controls and all cards in your opponent's graveyard from the game.\n\n- Destroy all J-rulers.\n\n- Remove all resonators your opponent controls from the game.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
   {
@@ -2131,7 +2158,7 @@
    "type": "Special Magic Stone",
    "artist": "haniwa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Revenge] -\n[Rest]: Put two [+100/+100] counters on target resonator.",
+   "text": "[Rest]: Produce [D].\n\nActivate\n\n[Revenge] -\n\n[Rest]: Put two [+100/+100] counters on target resonator.",
    "flavor_text": "This magic stone shines with the price of blood.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -2144,7 +2171,7 @@
    "type": "Special Magic Stone",
    "artist": "haniwa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: Put three strength counters on your J/ruler.",
+   "text": "[Rest]: Produce [R].\n\nActivate\n\n[Rest]: Put three strength counters on your J/ruler.",
    "flavor_text": "Dragonoids ruled over part of this world in ancient pasts, but now there is just a lone survivor.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -2157,7 +2184,7 @@
    "type": "Special Magic Stone",
    "artist": "haniwa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: Produce one will of any attribute. Play this ability only if this card was recovered by an ability this turn.",
+   "text": "[Rest]: Produce [G].\n\nActivate\n\n[Rest]: Produce one will of any attribute. Play this ability only if this card was recovered by an ability this turn.",
    "flavor_text": "At the end of his research, Welser discovered a way to seal magic into matter, and completed it with Elixir.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -2170,7 +2197,7 @@
    "type": "Special Magic Stone",
    "artist": "haniwa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: Put a [+100/+100] counter on this card.",
+   "text": "[Rest]: Produce [W].\n\nActivate\n\n[Rest]: Put a [+100/+100] counter on this card.",
    "flavor_text": "The star delivers the light of ancients pasts, illuminating the history of this world.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   },
@@ -2183,7 +2210,7 @@
    "type": "Special Magic Stone",
    "artist": "haniwa",
    "expansion": "Saga Cluster 1st 「The Epic of the Dragon Lord」",
-   "text": "Activate\n[Rest]: Produce one will of any attribute. Spend this will only to play Treasures.",
+   "text": "[Rest]: Produce [B].\n\nActivate\n\n[Rest]: Produce one will of any attribute. Spend this will only to play Treasures.",
    "flavor_text": "Ruined cities, relics, caves, there is so much in this world to explore the ancient pasts.",
    "all_sets": "Saga Cluster 1st 「The Epic of the Dragon Lord」"
   }

@@ -1,223 +1,561 @@
 "card_url","card_name","card_image","card_number","card_rarity","card_cost_attribute","card_att_def","card_type","card_race","card_artist","card_expansion","card_text","card_flavor_text","card_all_sets"
-"http://www.fowtcg.com/card/4187","Agravain, the Hard Hand","http://d12h0em1d7ppg.cloudfront.net/items/41/4187/image_en/aab52ab7-08ec-471b-81c2-7adf037bc376.jpg","AO1-001","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Knight of the Round Table","Mad","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4187","Agravain, the Hard Hand","http://d12h0em1d7ppg.cloudfront.net/items/41/4187/image_en/aab52ab7-08ec-471b-81c2-7adf037bc376.jpg","AO1-001","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Knight of the Round Table","Mad","Alice Origin 1st Booster Pack","Card Text
+[Barrier][R] [Barrier][D]
+Activate
 [W]: Target resonator gains [Barrier](R) and [Barrier](D) until end of turn.","He faces up squarely to all evils.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4188","Blessed Holy Wolf","http://d12h0em1d7ppg.cloudfront.net/items/41/4188/image_en/7b38e7b2-5c34-4bd7-823e-f59adff2a23d.jpg","AO1-002","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 600","Resonator","Holy Beast","matataku","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4188","Blessed Holy Wolf","http://d12h0em1d7ppg.cloudfront.net/items/41/4188/image_en/7b38e7b2-5c34-4bd7-823e-f59adff2a23d.jpg","AO1-002","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 600","Resonator","Holy Beast","matataku","Alice Origin 1st Booster Pack","Card Text
+Automatic
 When this card enters your field ⇒ You may destroy target addition.","The kingdom offers its blessing to anyone and wolves aren’t an exception. These sacred beasts are allied with us in the protection of the kingdom.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4188","Blessed Holy Wolf","http://d12h0em1d7ppg.cloudfront.net/items/41/4188/image_en/7b38e7b2-5c34-4bd7-823e-f59adff2a23d.jpg","AO1-002","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 600","Resonator","Holy Beast","matataku","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4188","Blessed Holy Wolf","http://d12h0em1d7ppg.cloudfront.net/items/41/4188/image_en/7b38e7b2-5c34-4bd7-823e-f59adff2a23d.jpg","AO1-002","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 600","Resonator","Holy Beast","matataku","Alice Origin 1st Booster Pack","Card Text
+Automatic
 When this card enters your field ⇒ You may destroy target addition.","The kingdom offers its blessing to anyone and wolves aren’t an exception. These sacred beasts are allied with us in the protection of the kingdom.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4189","Bors, Returned Adventurer","http://d12h0em1d7ppg.cloudfront.net/items/41/4189/image_en/96b365b1-a22e-4914-af45-c74ac30cfd43.jpg","AO1-003","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","600 / 600","Resonator","Knight of the Round Table","Matsurika Yoko","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4189","Bors, Returned Adventurer","http://d12h0em1d7ppg.cloudfront.net/items/41/4189/image_en/96b365b1-a22e-4914-af45-c74ac30cfd43.jpg","AO1-003","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","600 / 600","Resonator","Knight of the Round Table","Matsurika Yoko","Alice Origin 1st Booster Pack","Card Text
+Automatic
 When this card enters your field or attacks ⇒ Target Knight of the Round Table gains [+400/+400] until end of turn.","Ever seeking to do good, even in strange lands.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4189","Bors, Returned Adventurer","http://d12h0em1d7ppg.cloudfront.net/items/41/4189/image_en/96b365b1-a22e-4914-af45-c74ac30cfd43.jpg","AO1-003","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 600","Resonator","Knight of the Round Table","Matsurika Yoko","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4189","Bors, Returned Adventurer","http://d12h0em1d7ppg.cloudfront.net/items/41/4189/image_en/96b365b1-a22e-4914-af45-c74ac30cfd43.jpg","AO1-003","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 600","Resonator","Knight of the Round Table","Matsurika Yoko","Alice Origin 1st Booster Pack","Card Text
+Automatic
 When this card enters your field or attacks ⇒ Target Knight of the Round Table gains [+400/+400] until end of turn.","Ever seeking to do good, even in strange lands.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4190","Galahad, the Son of the God","http://d12h0em1d7ppg.cloudfront.net/items/41/4190/image_en/9c148e4e-c3de-4e68-8e06-88d72f1f47d7.jpg","AO1-004","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Knight of the Round Table","touge369","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4190","Galahad, the Son of the God","http://d12h0em1d7ppg.cloudfront.net/items/41/4190/image_en/9c148e4e-c3de-4e68-8e06-88d72f1f47d7.jpg","AO1-004","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Knight of the Round Table","touge369","Alice Origin 1st Booster Pack","Card Text
+Automatic
+Whenever this card attacks ⇒ You gain 500 life.
+Automatic
 When this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.","""Galahad was recognized as the greatest knight of King Arthur."" —Tales of King Arthur","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4190","Galahad, the Son of the God","http://d12h0em1d7ppg.cloudfront.net/items/41/4190/image_en/9c148e4e-c3de-4e68-8e06-88d72f1f47d7.jpg","AO1-004","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Knight of the Round Table","touge369","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4190","Galahad, the Son of the God","http://d12h0em1d7ppg.cloudfront.net/items/41/4190/image_en/9c148e4e-c3de-4e68-8e06-88d72f1f47d7.jpg","AO1-004","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Knight of the Round Table","touge369","Alice Origin 1st Booster Pack","Card Text
+Automatic
+Whenever this card attacks ⇒ You gain 500 life.
+Automatic
 When this card is put into a graveyard from your field ⇒ Rest target resonator your opponent controls.","""Galahad was recognized as the greatest knight of King Arthur."" —Tales of King Arthur","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4191","Gloria's Castle Town","http://d12h0em1d7ppg.cloudfront.net/items/41/4191/image_en/e3a7bd54-863e-430b-9a03-5ee6ed5b7872.jpg","AO1-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition: Field","Castle","Fushikaden K.K.","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4191","Gloria's Castle Town","http://d12h0em1d7ppg.cloudfront.net/items/41/4191/image_en/e3a7bd54-863e-430b-9a03-5ee6ed5b7872.jpg","AO1-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition: Field","Castle","Fushikaden K.K.","Alice Origin 1st Booster Pack","Card Text
+Automatic
 Whenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.","Gloria lived a period of high prosperity under the guidance of the Sacred Queen.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4191","Gloria's Castle Town","http://d12h0em1d7ppg.cloudfront.net/items/41/4191/image_en/e3a7bd54-863e-430b-9a03-5ee6ed5b7872.jpg","AO1-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition: Field","Castle","Fushikaden K.K.","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4191","Gloria's Castle Town","http://d12h0em1d7ppg.cloudfront.net/items/41/4191/image_en/e3a7bd54-863e-430b-9a03-5ee6ed5b7872.jpg","AO1-005","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition: Field","Castle","Fushikaden K.K.","Alice Origin 1st Booster Pack","Card Text
+Automatic
 Whenever you gain life ⇒ Target resonator gains [+300/+300] until end of turn.","Gloria lived a period of high prosperity under the guidance of the Sacred Queen.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4192","Gwiber, the White Dragon","http://d12h0em1d7ppg.cloudfront.net/items/41/4192/image_en/1cdbb4b4-7430-4c1e-8088-7f54bc5d880b.jpg","AO1-006","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1200 / 1200","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4192","Gwiber, the White Dragon","http://d12h0em1d7ppg.cloudfront.net/items/41/4192/image_en/1cdbb4b4-7430-4c1e-8088-7f54bc5d880b.jpg","AO1-006","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1200 / 1200","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Continuous
 You may pay [2] less to play this card for each resonator you control that entered your field this turn.","It’s the incarnation of the ideals.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4192","Gwiber, the White Dragon","http://d12h0em1d7ppg.cloudfront.net/items/41/4192/image_en/1cdbb4b4-7430-4c1e-8088-7f54bc5d880b.jpg","AO1-006","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1200 / 1200","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4192","Gwiber, the White Dragon","http://d12h0em1d7ppg.cloudfront.net/items/41/4192/image_en/1cdbb4b4-7430-4c1e-8088-7f54bc5d880b.jpg","AO1-006","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1200 / 1200","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Continuous
 You may pay [2] less to play this card for each resonator you control that entered your field this turn.","It’s the incarnation of the ideals.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4193","Izanami, the God of Life","http://d12h0em1d7ppg.cloudfront.net/items/41/4193/image_en/aa17fdf5-f3c1-4b32-8df0-d064c380fc31.jpg","AO1-007","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Twelve Protective Deities","sakura moyon","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4193","Izanami, the God of Life","http://d12h0em1d7ppg.cloudfront.net/items/41/4193/image_en/aa17fdf5-f3c1-4b32-8df0-d064c380fc31.jpg","AO1-007","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Twelve Protective Deities","sakura moyon","Alice Origin 1st Booster Pack","Card Text
+[Drain][Barrier](Resonator)
+Continuous
+You gain [Barrier].
+Activate
 [W][W][R], discard this card: Put target resonator with total cost 3 or less from your graveyard into the field.","It's a thin line between salvation and devastation, even for the gods.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4193","Izanami, the God of Life","http://d12h0em1d7ppg.cloudfront.net/items/41/4193/image_en/aa17fdf5-f3c1-4b32-8df0-d064c380fc31.jpg","AO1-007","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Twelve Protective Deities","sakura moyon","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4193","Izanami, the God of Life","http://d12h0em1d7ppg.cloudfront.net/items/41/4193/image_en/aa17fdf5-f3c1-4b32-8df0-d064c380fc31.jpg","AO1-007","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Twelve Protective Deities","sakura moyon","Alice Origin 1st Booster Pack","Card Text
+[Drain][Barrier](Resonator)
+Continuous
+You gain [Barrier].
+Activate
 [W][W][R], discard this card: Put target resonator with total cost 3 or less from your graveyard into the field.","It's a thin line between salvation and devastation, even for the gods.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4194","Life Profiteering Priest","http://d12h0em1d7ppg.cloudfront.net/items/41/4194/image_en/44947fae-9095-45b2-89db-8b102732a04b.jpg","AO1-008","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","200 / 400","Resonator","Priest","Yukie TAJIMA","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4194","Life Profiteering Priest","http://d12h0em1d7ppg.cloudfront.net/items/41/4194/image_en/44947fae-9095-45b2-89db-8b102732a04b.jpg","AO1-008","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","200 / 400","Resonator","Priest","Yukie TAJIMA","Alice Origin 1st Booster Pack","Card Text
+Continuous
 Whenever another resonator enters your field ⇒ You gain 200 life.","The wheel of life turns and turns.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4195","Light of Sacred Spirit","http://d12h0em1d7ppg.cloudfront.net/items/41/4195/image_en/adc8bd94-50de-4e1e-8deb-374378fe8bb2.jpg","AO1-009","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Haruichi Kido","Alice Origin 1st Booster Pack","","""Never can I stop here, I have to guard my family."" -Lars, Knight of the Sacred Spirit","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4195","Light of Sacred Spirit","http://d12h0em1d7ppg.cloudfront.net/items/41/4195/image_en/adc8bd94-50de-4e1e-8deb-374378fe8bb2.jpg","AO1-009","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Haruichi Kido","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Choose one, if you control ""Lars, Knight of the Sacred Spirit"", you may choose both instead - Remove target resonator with 900 ATK or more from the game; or search your deck for a Five Hero resonator, reveal it and put it into your hand.","""Never can I stop here, I have to guard my family."" -Lars, Knight of the Sacred Spirit","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Target player's life becomes 2000.
+Activate
 [W][R], put this card from your hand into your Stranger deck: Choose a card from your Stranger deck at random and put it into your hand.","The symbol of reincarnation.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Target player's life becomes 2000.
+Activate
 [W][R], put this card from your hand into your Stranger deck: Choose a card from your Stranger deck at random and put it into your hand.","The symbol of reincarnation.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Target player's life becomes 2000.
+Activate
 [W][R], put this card from your hand into your Stranger deck: Choose a card from your Stranger deck at random and put it into your hand.","The symbol of reincarnation.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Target player's life becomes 2000.
+Activate
 [W][R], put this card from your hand into your Stranger deck: Choose a card from your Stranger deck at random and put it into your hand.","The symbol of reincarnation.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4196","Ouroboros, the Reincarnating Light Serpent","http://d12h0em1d7ppg.cloudfront.net/items/41/4196/image_en/967943aa-ac16-4191-80bd-9d48ac6a8546.jpg","AO1-010","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","2000 / 2000","Resonator","Twelve Protective Deities","douzen","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Target player's life becomes 2000.
+Activate
 [W][R], put this card from your hand into your Stranger deck: Choose a card from your Stranger deck at random and put it into your hand.","The symbol of reincarnation.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4197","Parry","http://d12h0em1d7ppg.cloudfront.net/items/41/4197/image_en/94ac9ef0-a007-4f33-ac99-c9edc03375b8.jpg","AO1-011","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","hatarisu","Alice Origin 1st Booster Pack","","""Don't mess around with me!"" -Faria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4198","Pride of Knights","http://d12h0em1d7ppg.cloudfront.net/items/41/4198/image_en/55285882-5425-4eb8-bd3e-8391b0ffead4.jpg","AO1-012","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","gozz","Alice Origin 1st Booster Pack","","""I won't surrender!"" —Faria, the Sacred Queen","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4199","Protective Barrier","http://d12h0em1d7ppg.cloudfront.net/items/41/4199/image_en/4c89e539-b345-499c-a11e-628c5d1b7900.jpg","AO1-013","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","uekino aroe","Alice Origin 1st Booster Pack","","Thanks to its protection, we are granted enough time to sharpen our blades once again.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4200","Remilla, the Librarian of Magna","http://d12h0em1d7ppg.cloudfront.net/items/42/4200/image_en/480fc6ee-cde5-409f-b6a3-e2fa3037864d.jpg","AO1-014","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","200 / 500","Resonator","Wizard/Cat","Misa Tsutsui","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4197","Parry","http://d12h0em1d7ppg.cloudfront.net/items/41/4197/image_en/94ac9ef0-a007-4f33-ac99-c9edc03375b8.jpg","AO1-011","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","hatarisu","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Prevent all damage that would be dealt by target chant spell or ability until end of turn. Draw a card.","""Don't mess around with me!"" -Faria","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4198","Pride of Knights","http://d12h0em1d7ppg.cloudfront.net/items/41/4198/image_en/55285882-5425-4eb8-bd3e-8391b0ffead4.jpg","AO1-012","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","gozz","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Target J/resonator you control gains [+200/+200] until end of turn.
+You gain 200 life.","""I won't surrender!"" —Faria, the Sacred Queen","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4199","Protective Barrier","http://d12h0em1d7ppg.cloudfront.net/items/41/4199/image_en/4c89e539-b345-499c-a11e-628c5d1b7900.jpg","AO1-013","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","uekino aroe","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Prevent all damage that would be dealt to target resonator until end of turn.","Thanks to its protection, we are granted enough time to sharpen our blades once again.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4200","Remilla, the Librarian of Magna","http://d12h0em1d7ppg.cloudfront.net/items/42/4200/image_en/480fc6ee-cde5-409f-b6a3-e2fa3037864d.jpg","AO1-014","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","200 / 500","Resonator","Wizard/Cat","Misa Tsutsui","Alice Origin 1st Booster Pack","Card Text
+Automatic
+Whenever you play a Mage Art ⇒ Draw a card.
+Activate
 [Rest]: Look at the top card of your deck. You may remove it from the game.","""Lenneth, thanks for supporting me-ow.""","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4201","Seal of Lenneth","http://d12h0em1d7ppg.cloudfront.net/items/42/4201/image_en/f3e71f83-17eb-45a1-80d3-0c528ed046a6.jpg","AO1-015","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","jitari","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4201","Seal of Lenneth","http://d12h0em1d7ppg.cloudfront.net/items/42/4201/image_en/f3e71f83-17eb-45a1-80d3-0c528ed046a6.jpg","AO1-015","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","jitari","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Remove target non-J-ruler, non-magic stone entity your opponent controls from the game.
+Automatic
 When this card leaves the field ⇒ Put a card from a removed area that was removed by this card into the field under its owner's control.","""Seal!"" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4202","Spirit of Goddess","http://d12h0em1d7ppg.cloudfront.net/items/42/4202/image_en/1f31c574-2dcf-4cf1-8dc0-8b9c2385ef44.jpg","AO1-016","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Fairy","ShiroYayoi","Alice Origin 1st Booster Pack","Automatic
-[Enter] ⇒ Look at the top card of your deck. If it is a Goddess, reveal it, and put it into your hand. Otherwise, put it on the top or bottom of your deck.","Searching for the goddess, this fairy loves nothing more than to play and to fly.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4203","Spirit of Memory","http://d12h0em1d7ppg.cloudfront.net/items/42/4203/image_en/71712645-651c-4701-8779-2a266dd73d6a.jpg","AO1-017","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Spirit","Nakaba Higurashi","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4202","Spirit of Goddess","http://d12h0em1d7ppg.cloudfront.net/items/42/4202/image_en/1f31c574-2dcf-4cf1-8dc0-8b9c2385ef44.jpg","AO1-016","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Fairy","ShiroYayoi","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
+[Enter] ⇒ Look at the top card of your deck. If it is a Goddess, reveal it, and put it into your hand. Otherwise, put it on the top or bottom of your deck.
+Remove this card from the game: Produce [R]. Spend this will only to play Goddess cards.","Searching for the goddess, this fairy loves nothing more than to play and to fly.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4203","Spirit of Memory","http://d12h0em1d7ppg.cloudfront.net/items/42/4203/image_en/71712645-651c-4701-8779-2a266dd73d6a.jpg","AO1-017","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Spirit","Nakaba Higurashi","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Activate
+Remove this card from the game: Search your deck for a card named ""Spirit of Memory"" and put it into your hand.
+Continuous
 This card gains [+100/+100] for each card named ""Spirit of Memory"" in your removed area.","The truth lies in the memory.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4204","Barbatos, the Crimson Duke (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4204/image_en/a0a81709-e8b4-4f79-8ab7-f1aab2db5925.jpg","AO1-018","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","700 / 700","Resonator(Stranger)","Demon","Haruichi Kido","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4204","Barbatos, the Crimson Duke (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4204/image_en/a0a81709-e8b4-4f79-8ab7-f1aab2db5925.jpg","AO1-018","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","700 / 700","Resonator(Stranger)","Demon","Haruichi Kido","Alice Origin 1st Booster Pack","Card Text
+[Swiftness]
+Automatic
 [Enter] ⇒ Rest all other J/resonators.","""Grovel, guys!""","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4205","Berserk Dragon (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4205/image_en/b0368455-b0c5-4316-8174-235c8c84abd7.jpg","AO1-019","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 400","Resonator(Stranger)","Dragon","Yuu Fujiki","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4205","Berserk Dragon (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4205/image_en/b0368455-b0c5-4316-8174-235c8c84abd7.jpg","AO1-019","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 400","Resonator(Stranger)","Dragon","Yuu Fujiki","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Awakening][R][1]: [Enter] ⇒ This card gains [Swiftness] until end of turn. At the next end of turn ⇒ Its controller banishes it.","Reckless rush.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4205","Berserk Dragon (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4205/image_en/b0368455-b0c5-4316-8174-235c8c84abd7.jpg","AO1-019","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 400","Resonator(Stranger)","Dragon","Yuu Fujiki","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4205","Berserk Dragon (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4205/image_en/b0368455-b0c5-4316-8174-235c8c84abd7.jpg","AO1-019","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 400","Resonator(Stranger)","Dragon","Yuu Fujiki","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Awakening][R][1]: [Enter] ⇒ This card gains [Swiftness] until end of turn. At the next end of turn ⇒ Its controller banishes it.","Reckless rush.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4205","Berserk Dragon (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4205/image_en/b0368455-b0c5-4316-8174-235c8c84abd7.jpg","AO1-019","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 400","Resonator(Stranger)","Dragon","Yuu Fujiki","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4205","Berserk Dragon (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4205/image_en/b0368455-b0c5-4316-8174-235c8c84abd7.jpg","AO1-019","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 400","Resonator(Stranger)","Dragon","Yuu Fujiki","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Awakening][R][1]: [Enter] ⇒ This card gains [Swiftness] until end of turn. At the next end of turn ⇒ Its controller banishes it.","Reckless rush.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4206","Burn to Cinders","http://d12h0em1d7ppg.cloudfront.net/items/42/4206/image_en/e048121d-32b8-4030-a7ab-f2bbb339ba3c.jpg","AO1-020","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","gozz","Alice Origin 1st Booster Pack","","All was reduced to ashes, even the memory.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4206","Burn to Cinders","http://d12h0em1d7ppg.cloudfront.net/items/42/4206/image_en/e048121d-32b8-4030-a7ab-f2bbb339ba3c.jpg","AO1-020","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","gozz","Alice Origin 1st Booster Pack","","All was reduced to ashes, even the memory.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4207","Certo, the Blazing Volcano","http://d12h0em1d7ppg.cloudfront.net/items/42/4207/image_en/cf6ae5e7-3fae-4023-a1da-10015d8e4275.jpg","AO1-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Addition: Field","Mountain","Cola","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4206","Burn to Cinders","http://d12h0em1d7ppg.cloudfront.net/items/42/4206/image_en/e048121d-32b8-4030-a7ab-f2bbb339ba3c.jpg","AO1-020","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","gozz","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+This card deals 700 damage to target J/resonator. If it's a J-ruler, it loses [Imperishable] until end of turn. If it's a resonator and it would be put into a graveyard from a field this turn, remove it from game instead.","All was reduced to ashes, even the memory.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4206","Burn to Cinders","http://d12h0em1d7ppg.cloudfront.net/items/42/4206/image_en/e048121d-32b8-4030-a7ab-f2bbb339ba3c.jpg","AO1-020","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","gozz","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+This card deals 700 damage to target J/resonator. If it's a J-ruler, it loses [Imperishable] until end of turn. If it's a resonator and it would be put into a graveyard from a field this turn, remove it from game instead.","All was reduced to ashes, even the memory.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4207","Certo, the Blazing Volcano","http://d12h0em1d7ppg.cloudfront.net/items/42/4207/image_en/cf6ae5e7-3fae-4023-a1da-10015d8e4275.jpg","AO1-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Addition: Field","Mountain","Cola","Alice Origin 1st Booster Pack","Card Text
+Continuous
+Players cannot gain life.
+Automatic
 Whenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.","The volcano is the future. Only the chosen ones will survive.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4207","Certo, the Blazing Volcano","http://d12h0em1d7ppg.cloudfront.net/items/42/4207/image_en/cf6ae5e7-3fae-4023-a1da-10015d8e4275.jpg","AO1-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition: Field","Mountain","Cola","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4207","Certo, the Blazing Volcano","http://d12h0em1d7ppg.cloudfront.net/items/42/4207/image_en/cf6ae5e7-3fae-4023-a1da-10015d8e4275.jpg","AO1-021","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition: Field","Mountain","Cola","Alice Origin 1st Booster Pack","Card Text
+Continuous
+Players cannot gain life.
+Automatic
 Whenever a resonator is put into a graveyard from a field ⇒ This card deals 100 damage to each player.","The volcano is the future. Only the chosen ones will survive.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4208","Draig, the Red Dragon","http://d12h0em1d7ppg.cloudfront.net/items/42/4208/image_en/68c305f0-d6f9-455c-ad8a-7cd6c8b5a231.jpg","AO1-022","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1200 / 1200","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4208","Draig, the Red Dragon","http://d12h0em1d7ppg.cloudfront.net/items/42/4208/image_en/68c305f0-d6f9-455c-ad8a-7cd6c8b5a231.jpg","AO1-022","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1200 / 1200","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Continuous
 You may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.","Reality will break the symbol.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4208","Draig, the Red Dragon","http://d12h0em1d7ppg.cloudfront.net/items/42/4208/image_en/68c305f0-d6f9-455c-ad8a-7cd6c8b5a231.jpg","AO1-022","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1200 / 1200","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4208","Draig, the Red Dragon","http://d12h0em1d7ppg.cloudfront.net/items/42/4208/image_en/68c305f0-d6f9-455c-ad8a-7cd6c8b5a231.jpg","AO1-022","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1200 / 1200","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Card Text
+[Flying] (This card cannot be blocked by J/resonators without [Flying].)
+Continuous
 You may pay [1] less to play this card for each resonator put into a graveyard from your field this turn.","Reality will break the symbol.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4209","Familiar of Primogenitor","http://d12h0em1d7ppg.cloudfront.net/items/42/4209/image_en/72a7a048-49b0-459e-b375-c0c21868d94d.jpg","AO1-023","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 100","Resonator","Demon","bambi kojo","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4209","Familiar of Primogenitor","http://d12h0em1d7ppg.cloudfront.net/items/42/4209/image_en/72a7a048-49b0-459e-b375-c0c21868d94d.jpg","AO1-023","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 100","Resonator","Demon","bambi kojo","Alice Origin 1st Booster Pack","Card Text
+Activate
 [R], banish this card: Target resonator gains [+400/0] until end of turn.","""This sensation... it's as if I had already felt it."" -Alice, the Girl in the Looking Glass","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4210","Fire Fox","http://d12h0em1d7ppg.cloudfront.net/items/42/4210/image_en/3ab53592-60e3-4101-9fbf-c2ccf5d805d3.jpg","AO1-024","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 400","Resonator","Beast","Kelvin","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4210","Fire Fox","http://d12h0em1d7ppg.cloudfront.net/items/42/4210/image_en/3ab53592-60e3-4101-9fbf-c2ccf5d805d3.jpg","AO1-024","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 400","Resonator","Beast","Kelvin","Alice Origin 1st Booster Pack","Card Text
+Automatic
 [Enter] ⇒ This card may deal 400 damage to you. If it does, this card gains [+100/0] and [Swiftness] until end of turn.","Its heat can be felt directly.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4211","Gareth, the Dauntless Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4211/image_en/16050b9b-acd4-45bd-beea-f3907d1326aa.jpg","AO1-025","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Knight of the Round Table","ORETO","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4211","Gareth, the Dauntless Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4211/image_en/16050b9b-acd4-45bd-beea-f3907d1326aa.jpg","AO1-025","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Knight of the Round Table","ORETO","Alice Origin 1st Booster Pack","Card Text
+[Precision] (This card can attack recovered J/resonators.)
+Continuous
 If this card would be dealt 700 or less damage, prevent it.","A body sustained by an indomitable spirit.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4211","Gareth, the Dauntless Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4211/image_en/16050b9b-acd4-45bd-beea-f3907d1326aa.jpg","AO1-025","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Knight of the Round Table","ORETO","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4211","Gareth, the Dauntless Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4211/image_en/16050b9b-acd4-45bd-beea-f3907d1326aa.jpg","AO1-025","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Knight of the Round Table","ORETO","Alice Origin 1st Booster Pack","Card Text
+[Precision] (This card can attack recovered J/resonators.)
+Continuous
 If this card would be dealt 700 or less damage, prevent it.","A body sustained by an indomitable spirit.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4211","Gareth, the Dauntless Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4211/image_en/16050b9b-acd4-45bd-beea-f3907d1326aa.jpg","AO1-025","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Knight of the Round Table","ORETO","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4211","Gareth, the Dauntless Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4211/image_en/16050b9b-acd4-45bd-beea-f3907d1326aa.jpg","AO1-025","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Knight of the Round Table","ORETO","Alice Origin 1st Booster Pack","Card Text
+[Precision] (This card can attack recovered J/resonators.)
+Continuous
 If this card would be dealt 700 or less damage, prevent it.","A body sustained by an indomitable spirit.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4212","Heroic Spirit of Vell-Savaria","http://d12h0em1d7ppg.cloudfront.net/items/42/4212/image_en/b31d8b25-2743-450b-92f7-b226b83beb32.jpg","AO1-026","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 600","Resonator","Heroic Spirit","touge369","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4212","Heroic Spirit of Vell-Savaria","http://d12h0em1d7ppg.cloudfront.net/items/42/4212/image_en/b31d8b25-2743-450b-92f7-b226b83beb32.jpg","AO1-026","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 600","Resonator","Heroic Spirit","touge369","Alice Origin 1st Booster Pack","Card Text
+Activate
 Remove this card in your hand from the game: This card deals 200 damage to target resonator.","These memories from another world were pulled to Vell-Savaria and became its spirit guardians.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4213","Invasion of Alisaris","http://d12h0em1d7ppg.cloudfront.net/items/42/4213/image_en/4f111015-761e-4d9b-bbe9-77c2f097f307.jpg","AO1-027","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","AKI","Alice Origin 1st Booster Pack","","""Vell-Savaria. Interesting."" -Alisaris, the Invader of God's City","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4214","Keeper of the Future, Skuld","http://d12h0em1d7ppg.cloudfront.net/items/42/4214/image_en/8a789ad1-7ddc-449f-89f1-3b95c7d18657.jpg","AO1-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 500","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4213","Invasion of Alisaris","http://d12h0em1d7ppg.cloudfront.net/items/42/4213/image_en/4f111015-761e-4d9b-bbe9-77c2f097f307.jpg","AO1-027","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","AKI","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Remove the top three cards of your deck from the game. This card deals 100 damage multiplied by the combined total cost of the cards removed this way to target J/resonator.
+[Remnant]","""Vell-Savaria. Interesting."" -Alisaris, the Invader of God's City","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4214","Keeper of the Future, Skuld","http://d12h0em1d7ppg.cloudfront.net/items/42/4214/image_en/8a789ad1-7ddc-449f-89f1-3b95c7d18657.jpg","AO1-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 500","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Card Text
+Automatic
+When this card enters your field ⇒ Remove the top two cards of your deck from the game. This card deals 100 damage multiplied by the combined total cost of the cards removed this way to target J/resonator.
+Continuous
 As long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Swiftness].","...The future shall be erased.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4214","Keeper of the Future, Skuld","http://d12h0em1d7ppg.cloudfront.net/items/42/4214/image_en/8a789ad1-7ddc-449f-89f1-3b95c7d18657.jpg","AO1-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 500","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4214","Keeper of the Future, Skuld","http://d12h0em1d7ppg.cloudfront.net/items/42/4214/image_en/8a789ad1-7ddc-449f-89f1-3b95c7d18657.jpg","AO1-028","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 500","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Card Text
+Automatic
+When this card enters your field ⇒ Remove the top two cards of your deck from the game. This card deals 100 damage multiplied by the combined total cost of the cards removed this way to target J/resonator.
+Continuous
 As long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Swiftness].","...The future shall be erased.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4215","Keeper of the Past, Urthr","http://d12h0em1d7ppg.cloudfront.net/items/42/4215/image_en/7048d23c-0ef4-447c-8e75-f465e412ad39.jpg","AO1-029","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4215","Keeper of the Past, Urthr","http://d12h0em1d7ppg.cloudfront.net/items/42/4215/image_en/7048d23c-0ef4-447c-8e75-f465e412ad39.jpg","AO1-029","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Card Text
+Automatic
+When this card enters your field ⇒ You may remove up to two cards in your graveyard from the game. If you do, it deals 200 damage multiplied by the combined total cost of the cards removed this way to target J/resonator.
+Continuous
 As long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Precision].","When the past is sealed...","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4215","Keeper of the Past, Urthr","http://d12h0em1d7ppg.cloudfront.net/items/42/4215/image_en/7048d23c-0ef4-447c-8e75-f465e412ad39.jpg","AO1-029","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 800","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4215","Keeper of the Past, Urthr","http://d12h0em1d7ppg.cloudfront.net/items/42/4215/image_en/7048d23c-0ef4-447c-8e75-f465e412ad39.jpg","AO1-029","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 800","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Card Text
+Automatic
+When this card enters your field ⇒ You may remove up to two cards in your graveyard from the game. If you do, it deals 200 damage multiplied by the combined total cost of the cards removed this way to target J/resonator.
+Continuous
 As long as there are ten or more cards in your removed area, this card gains [+300/+300] and [Precision].","When the past is sealed...","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4216","Keeper of the Present, Verdandi","http://d12h0em1d7ppg.cloudfront.net/items/42/4216/image_en/cea3dfa8-605b-4263-a00e-4436e552dce4.jpg","AO1-030","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","100 / 100","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4216","Keeper of the Present, Verdandi","http://d12h0em1d7ppg.cloudfront.net/items/42/4216/image_en/cea3dfa8-605b-4263-a00e-4436e552dce4.jpg","AO1-030","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","100 / 100","Resonator","Goddess","ShiroYayoi","Alice Origin 1st Booster Pack","Card Text
+Automatic
+When this card enters your field ⇒ You may remove a card in your hand from the game. If you do, draw a card.
+Continuous
 As long as there are ten or more cards in your removed area, this card gains [+900/+900] and [First Strike].","...And the present lies scorched...","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4217","Memory of Disappearance","http://d12h0em1d7ppg.cloudfront.net/items/42/4217/image_en/b01d46c3-2c25-4bd9-87e2-7e71f4a3ab5f.jpg","AO1-031","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","bambi kojo","Alice Origin 1st Booster Pack","","In the infinite expanse of time, though countless memories are lost, countless memories persist.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4218","Regalia Break","http://d12h0em1d7ppg.cloudfront.net/items/42/4218/image_en/a18f56ac-6f5b-40c0-8365-ba7b7e1dd75b.jpg","AO1-032","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","AKI","Alice Origin 1st Booster Pack","","""Regalia have no place in this world."" -Shakti, the Red Eyes Swords Master","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4219","Rukh Egg","http://d12h0em1d7ppg.cloudfront.net/items/42/4219/image_en/371db00d-87cc-4ffa-bbd7-acc22ae1e99e.jpg","AO1-033","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 200","Resonator","Egg","Shirono Muku","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4217","Memory of Disappearance","http://d12h0em1d7ppg.cloudfront.net/items/42/4217/image_en/b01d46c3-2c25-4bd9-87e2-7e71f4a3ab5f.jpg","AO1-031","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","bambi kojo","Alice Origin 1st Booster Pack","Card Text
+Put target card from your removed area into your hand.","In the infinite expanse of time, though countless memories are lost, countless memories persist.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4218","Regalia Break","http://d12h0em1d7ppg.cloudfront.net/items/42/4218/image_en/a18f56ac-6f5b-40c0-8365-ba7b7e1dd75b.jpg","AO1-032","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","AKI","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Destroy target regalia. Draw a card.","""Regalia have no place in this world."" -Shakti, the Red Eyes Swords Master","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4219","Rukh Egg","http://d12h0em1d7ppg.cloudfront.net/items/42/4219/image_en/371db00d-87cc-4ffa-bbd7-acc22ae1e99e.jpg","AO1-033","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 200","Resonator","Egg","Shirono Muku","Alice Origin 1st Booster Pack","Card Text
+Continuous
+This card cannot attack.
+Automatic
 When this card is put into a graveyard from your field ⇒ Search your deck for a fire resonator, reveal it and put it into your hand. Then shuffle your deck.","Soldiers of Certo often go pick up eggs to get food, but some of them become food themselves for what is born from these eggs.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4220","Sanguine Arena","http://d12h0em1d7ppg.cloudfront.net/items/42/4220/image_en/53179be4-fab7-4d67-909e-6448a82baa86.jpg","AO1-034","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Addition: Field","","gozz","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4220","Sanguine Arena","http://d12h0em1d7ppg.cloudfront.net/items/42/4220/image_en/53179be4-fab7-4d67-909e-6448a82baa86.jpg","AO1-034","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Addition: Field","","gozz","Alice Origin 1st Booster Pack","Card Text
+Activate
 [rest]: This card deals 200 damage to each resonator. Play this ability only if you control a resonator.","The battle that took place here years ago between Melgis and Volga ended in an instant.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4221","Thunder","http://d12h0em1d7ppg.cloudfront.net/items/42/4221/image_en/bfeaa360-09a6-4646-a1d7-7e5265417abe.jpg","AO1-035","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","Nagi-nyan","Alice Origin 1st Booster Pack","","A dazzling flash of light can sometimes change the outcome of war.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4222","Torching the Timeline","http://d12h0em1d7ppg.cloudfront.net/items/42/4222/image_en/768e7dc0-064d-4462-a8e3-4d192d4b9345.jpg","AO1-036","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","Moopic","Alice Origin 1st Booster Pack","","""Before the flames of time, all is reduced to ash."" -Timeline Arsonist, Alisaris","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4223","Whelp Drake","http://d12h0em1d7ppg.cloudfront.net/items/42/4223/image_en/1d87ea6d-ad7b-4720-8f4f-7d02f9e3d02a.jpg","AO1-037","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 400","Resonator","Dragon","Sanosuke Sakuma","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4221","Thunder","http://d12h0em1d7ppg.cloudfront.net/items/42/4221/image_en/bfeaa360-09a6-4646-a1d7-7e5265417abe.jpg","AO1-035","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","Nagi-nyan","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+This card deals 500 damage to target player or J/resonator.","A dazzling flash of light can sometimes change the outcome of war.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4222","Torching the Timeline","http://d12h0em1d7ppg.cloudfront.net/items/42/4222/image_en/768e7dc0-064d-4462-a8e3-4d192d4b9345.jpg","AO1-036","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","","Moopic","Alice Origin 1st Booster Pack","Card Text
+This card deals 100 damage to target resonator for each card in your removed area.","""Before the flames of time, all is reduced to ash."" -Timeline Arsonist, Alisaris","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4223","Whelp Drake","http://d12h0em1d7ppg.cloudfront.net/items/42/4223/image_en/1d87ea6d-ad7b-4720-8f4f-7d02f9e3d02a.jpg","AO1-037","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 400","Resonator","Dragon","Sanosuke Sakuma","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 When this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.","Despite their little bodies, baby dragons are extremely combative.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4223","Whelp Drake","http://d12h0em1d7ppg.cloudfront.net/items/42/4223/image_en/1d87ea6d-ad7b-4720-8f4f-7d02f9e3d02a.jpg","AO1-037","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Dragon","Sanosuke Sakuma","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4223","Whelp Drake","http://d12h0em1d7ppg.cloudfront.net/items/42/4223/image_en/1d87ea6d-ad7b-4720-8f4f-7d02f9e3d02a.jpg","AO1-037","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Dragon","Sanosuke Sakuma","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 When this card is put into a graveyard from your field ⇒ It deals 400 damage to target resonator.","Despite their little bodies, baby dragons are extremely combative.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4224","Alice's Little Scout","http://d12h0em1d7ppg.cloudfront.net/items/42/4224/image_en/b87b9187-d225-440b-b322-6fb8af5b051a.jpg","AO1-038","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","200 / 200","Resonator","Soldier","Haruichi Kido","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4224","Alice's Little Scout","http://d12h0em1d7ppg.cloudfront.net/items/42/4224/image_en/b87b9187-d225-440b-b322-6fb8af5b051a.jpg","AO1-038","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","200 / 200","Resonator","Soldier","Haruichi Kido","Alice Origin 1st Booster Pack","Card Text
+Automatic
 When this card is put into a graveyard from your field ⇒ Draw a card.","Once Alice summoned another soldier from the Ancient Treasure, she began her preparations for the incoming war.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4225","Bewildering Charm","http://d12h0em1d7ppg.cloudfront.net/items/42/4225/image_en/68a2eb83-784b-4744-a201-0fdb0f3e22b3.jpg","AO1-039","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Tsukumi","Alice Origin 1st Booster Pack","","""Then, adieu."" -Vala, the Bewildering Mage","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4226","Rahab, The Emperor Dragon of Riptide (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4226/image_en/fb90c8c9-e634-4c72-843a-a58137910aa1.jpg","AO1-040","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Dragon","MATSUMOTO EIGHT","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4225","Bewildering Charm","http://d12h0em1d7ppg.cloudfront.net/items/42/4225/image_en/68a2eb83-784b-4744-a201-0fdb0f3e22b3.jpg","AO1-039","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Mage Art","Tsukumi","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Choose one - Return target resonator to its owner's hand; or draw a card.","""Then, adieu."" -Vala, the Bewildering Mage","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4226","Rahab, The Emperor Dragon of Riptide (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4226/image_en/fb90c8c9-e634-4c72-843a-a58137910aa1.jpg","AO1-040","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Dragon","MATSUMOTO EIGHT","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Draw two cards.","Water carries blessings.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4226","Rahab, The Emperor Dragon of Riptide (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4226/image_en/fb90c8c9-e634-4c72-843a-a58137910aa1.jpg","AO1-040","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Dragon","MATSUMOTO EIGHT","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4226","Rahab, The Emperor Dragon of Riptide (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4226/image_en/fb90c8c9-e634-4c72-843a-a58137910aa1.jpg","AO1-040","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Dragon","MATSUMOTO EIGHT","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Draw two cards.","Water carries blessings.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4226","Rahab, The Emperor Dragon of Riptide (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4226/image_en/fb90c8c9-e634-4c72-843a-a58137910aa1.jpg","AO1-040","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Dragon","MATSUMOTO EIGHT","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4226","Rahab, The Emperor Dragon of Riptide (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4226/image_en/fb90c8c9-e634-4c72-843a-a58137910aa1.jpg","AO1-040","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Dragon","MATSUMOTO EIGHT","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Draw two cards.","Water carries blessings.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4227","Vala, the Bewildering Mage","http://d12h0em1d7ppg.cloudfront.net/items/42/4227/image_en/78be403a-3671-4a10-819b-3041bda379d6.jpg","AO1-041","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","600 / 600","Resonator","Five Heroes","Yukie TAJIMA","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4227","Vala, the Bewildering Mage","http://d12h0em1d7ppg.cloudfront.net/items/42/4227/image_en/78be403a-3671-4a10-819b-3041bda379d6.jpg","AO1-041","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","600 / 600","Resonator","Five Heroes","Yukie TAJIMA","Alice Origin 1st Booster Pack","Card Text
+Continuous
+This card may not be banished as a cost to play a spell or ability.
+Automatic
 [Enter] ⇒ Switch the control of this card and target resonator your opponent controls.","""Hahaha, am I an ally? Or am I a foe?""","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4227","Vala, the Bewildering Mage","http://d12h0em1d7ppg.cloudfront.net/items/42/4227/image_en/78be403a-3671-4a10-819b-3041bda379d6.jpg","AO1-041","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","600 / 600","Resonator","Five Heroes","Yukie TAJIMA","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4227","Vala, the Bewildering Mage","http://d12h0em1d7ppg.cloudfront.net/items/42/4227/image_en/78be403a-3671-4a10-819b-3041bda379d6.jpg","AO1-041","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","600 / 600","Resonator","Five Heroes","Yukie TAJIMA","Alice Origin 1st Booster Pack","Card Text
+Continuous
+This card may not be banished as a cost to play a spell or ability.
+Automatic
 [Enter] ⇒ Switch the control of this card and target resonator your opponent controls.","""Hahaha, am I an ally? Or am I a foe?""","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4228","Astema, the Fallen Angel of Desolation (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4228/image_en/00491888-dd0a-4e35-900f-8d73142f6935.jpg","AO1-042","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator(Stranger)","Fallen Angel/Deity","Nem","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4228","Astema, the Fallen Angel of Desolation (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4228/image_en/00491888-dd0a-4e35-900f-8d73142f6935.jpg","AO1-042","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator(Stranger)","Fallen Angel/Deity","Nem","Alice Origin 1st Booster Pack","Card Text
+[Flying][Drain]
+Automatic
 At the beginning of each player's turn ⇒ That player banishes a non-Fallen Angel resonator.","Her smile is certain doom.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4228","Astema, the Fallen Angel of Desolation (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4228/image_en/00491888-dd0a-4e35-900f-8d73142f6935.jpg","AO1-042","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator(Stranger)","Fallen Angel/Deity","Nem","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4228","Astema, the Fallen Angel of Desolation (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4228/image_en/00491888-dd0a-4e35-900f-8d73142f6935.jpg","AO1-042","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator(Stranger)","Fallen Angel/Deity","Nem","Alice Origin 1st Booster Pack","Card Text
+[Flying][Drain]
+Automatic
 At the beginning of each player's turn ⇒ That player banishes a non-Fallen Angel resonator.","Her smile is certain doom.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4228","Astema, the Fallen Angel of Desolation (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4228/image_en/00491888-dd0a-4e35-900f-8d73142f6935.jpg","AO1-042","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator(Stranger)","Fallen Angel/Deity","Nem","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4228","Astema, the Fallen Angel of Desolation (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4228/image_en/00491888-dd0a-4e35-900f-8d73142f6935.jpg","AO1-042","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator(Stranger)","Fallen Angel/Deity","Nem","Alice Origin 1st Booster Pack","Card Text
+[Flying][Drain]
+Automatic
 At the beginning of each player's turn ⇒ That player banishes a non-Fallen Angel resonator.","Her smile is certain doom.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4229","Dark Alice's Shadow Warrior","http://d12h0em1d7ppg.cloudfront.net/items/42/4229/image_en/b1905a2e-6345-49ec-b80f-c4d77edb0494.jpg","AO1-043","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","300 / 300","Resonator","Shadow/Soldier","tokiwa","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4229","Dark Alice's Shadow Warrior","http://d12h0em1d7ppg.cloudfront.net/items/42/4229/image_en/b1905a2e-6345-49ec-b80f-c4d77edb0494.jpg","AO1-043","N","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","300 / 300","Resonator","Shadow/Soldier","tokiwa","Alice Origin 1st Booster Pack","Card Text
+Activate
 Banish this card: Target resonator gains [-200/-200] until end of turn.","Even if this warrior should vanish, the shadow of the blade shall still find its mark.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4230","Dark Indication","http://d12h0em1d7ppg.cloudfront.net/items/42/4230/image_en/c17a2ae2-702c-4e52-8320-f08c7143c32e.jpg","AO1-044","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","","haniwa","Alice Origin 1st Booster Pack","","You can't see a shadow in the greatest darkness.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4231","Alisaris, the Invader to the God's City","http://d12h0em1d7ppg.cloudfront.net/items/42/4231/image_en/6d71404b-bc84-4fc7-8d64-e37815c47846.jpg","AO1-045","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Resonator","Human","BANAMONS*","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4230","Dark Indication","http://d12h0em1d7ppg.cloudfront.net/items/42/4230/image_en/c17a2ae2-702c-4e52-8320-f08c7143c32e.jpg","AO1-044","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","","haniwa","Alice Origin 1st Booster Pack","Card Text
+Your opponent reveals their hand. Choose a chant or an addition. They discard that card.","You can't see a shadow in the greatest darkness.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4231","Alisaris, the Invader to the God's City","http://d12h0em1d7ppg.cloudfront.net/items/42/4231/image_en/6d71404b-bc84-4fc7-8d64-e37815c47846.jpg","AO1-045","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Resonator","Human","BANAMONS*","Alice Origin 1st Booster Pack","Card Text
+Continuous
+You may pay [1] less to play this card for each card in your removed area.
+Automatic
+[Enter] ⇒ Put a card from your removed area into your hand.
+Activate
 [0], reveal this card from your hand: Put it on top of your deck or into your graveyard, or remove it from the game.","Invading Vell-Savaria was the first step of Alisaris' plan.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4231","Alisaris, the Invader to the God's City","http://d12h0em1d7ppg.cloudfront.net/items/42/4231/image_en/6d71404b-bc84-4fc7-8d64-e37815c47846.jpg","AO1-045","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Resonator","Human","BANAMONS*","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4231","Alisaris, the Invader to the God's City","http://d12h0em1d7ppg.cloudfront.net/items/42/4231/image_en/6d71404b-bc84-4fc7-8d64-e37815c47846.jpg","AO1-045","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Resonator","Human","BANAMONS*","Alice Origin 1st Booster Pack","Card Text
+Continuous
+You may pay [1] less to play this card for each card in your removed area.
+Automatic
+[Enter] ⇒ Put a card from your removed area into your hand.
+Activate
 [0], reveal this card from your hand: Put it on top of your deck or into your graveyard, or remove it from the game.","Invading Vell-Savaria was the first step of Alisaris' plan.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4232","Amaterasu, the Oracle of Sacred Text (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4232/image_en/8d27f674-e2e2-4ba2-abe9-7a60118e2f28.jpg","AO1-046","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator(Stranger)","Deity","MOGUMO","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4232","Amaterasu, the Oracle of Sacred Text (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4232/image_en/8d27f674-e2e2-4ba2-abe9-7a60118e2f28.jpg","AO1-046","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator(Stranger)","Deity","MOGUMO","Alice Origin 1st Booster Pack","Card Text
+Continuous
+Other light or fire resonators you control gain [+200/+200].
+Continuous
 You may pay [1] less to play light or fire resonators.","The Sacred Text illuminates the way to salvation.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4232","Amaterasu, the Oracle of Sacred Text (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4232/image_en/8d27f674-e2e2-4ba2-abe9-7a60118e2f28.jpg","AO1-046","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator(Stranger)","Deity","MOGUMO","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4232","Amaterasu, the Oracle of Sacred Text (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4232/image_en/8d27f674-e2e2-4ba2-abe9-7a60118e2f28.jpg","AO1-046","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator(Stranger)","Deity","MOGUMO","Alice Origin 1st Booster Pack","Card Text
+Continuous
+Other light or fire resonators you control gain [+200/+200].
+Continuous
 You may pay [1] less to play light or fire resonators.","The Sacred Text illuminates the way to salvation.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4233","Athena, the Guardian of Blaze","http://d12h0em1d7ppg.cloudfront.net/items/42/4233/image_en/62634f8b-3c60-4bec-baa7-7ea9216d45b1.jpg","AO1-047","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Twelve Protective Deities/Goddess","yuko","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4233","Athena, the Guardian of Blaze","http://d12h0em1d7ppg.cloudfront.net/items/42/4233/image_en/62634f8b-3c60-4bec-baa7-7ea9216d45b1.jpg","AO1-047","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Twelve Protective Deities/Goddess","yuko","Alice Origin 1st Booster Pack","Card Text
+[Flying][Drain]
+Automatic
+Whenever you gain life ⇒ Put two [+100/+100] counters on this card.
+Activate
+[W]: You gain 200 life.
+Activate
 [R]: This card deals 100 damage for each [+100/+100] counter on this card to target J/resonator.","""Please protect us and the city."" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4233","Athena, the Guardian of Blaze","http://d12h0em1d7ppg.cloudfront.net/items/42/4233/image_en/62634f8b-3c60-4bec-baa7-7ea9216d45b1.jpg","AO1-047","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Twelve Protective Deities/Goddess","yuko","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4233","Athena, the Guardian of Blaze","http://d12h0em1d7ppg.cloudfront.net/items/42/4233/image_en/62634f8b-3c60-4bec-baa7-7ea9216d45b1.jpg","AO1-047","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Twelve Protective Deities/Goddess","yuko","Alice Origin 1st Booster Pack","Card Text
+[Flying][Drain]
+Automatic
+Whenever you gain life ⇒ Put two [+100/+100] counters on this card.
+Activate
+[W]: You gain 200 life.
+Activate
 [R]: This card deals 100 damage for each [+100/+100] counter on this card to target J/resonator.","""Please protect us and the city."" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4233","Athena, the Guardian of Blaze","http://d12h0em1d7ppg.cloudfront.net/items/42/4233/image_en/62634f8b-3c60-4bec-baa7-7ea9216d45b1.jpg","AO1-047","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Twelve Protective Deities/Goddess","yuko","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4233","Athena, the Guardian of Blaze","http://d12h0em1d7ppg.cloudfront.net/items/42/4233/image_en/62634f8b-3c60-4bec-baa7-7ea9216d45b1.jpg","AO1-047","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator","Twelve Protective Deities/Goddess","yuko","Alice Origin 1st Booster Pack","Card Text
+[Flying][Drain]
+Automatic
+Whenever you gain life ⇒ Put two [+100/+100] counters on this card.
+Activate
+[W]: You gain 200 life.
+Activate
 [R]: This card deals 100 damage for each [+100/+100] counter on this card to target J/resonator.","""Please protect us and the city."" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4234","Azazel, the Blazing Charger (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4234/image_en/250bbefb-ca00-4c0b-b3f6-f91db2e6e1f3.jpg","AO1-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","700 / 700","Resonator(Stranger)","Demon","Hatori Kyoka","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4234","Azazel, the Blazing Charger (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4234/image_en/250bbefb-ca00-4c0b-b3f6-f91db2e6e1f3.jpg","AO1-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","700 / 700","Resonator(Stranger)","Demon","Hatori Kyoka","Alice Origin 1st Booster Pack","Card Text
+Continuous
+Resonators you control gain [Swiftness].
+Automatic
+Whenever a resonator you control is put into a graveyard from the field ⇒ This card deals 200 damage to target player or J/resonator.
+Activate
 [R]: Target J/resonator must attack or block this turn if able.","""Charge till you die!""","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4234","Azazel, the Blazing Charger (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4234/image_en/250bbefb-ca00-4c0b-b3f6-f91db2e6e1f3.jpg","AO1-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","700 / 700","Resonator(Stranger)","Demon","Hatori Kyoka","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4234","Azazel, the Blazing Charger (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4234/image_en/250bbefb-ca00-4c0b-b3f6-f91db2e6e1f3.jpg","AO1-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","700 / 700","Resonator(Stranger)","Demon","Hatori Kyoka","Alice Origin 1st Booster Pack","Card Text
+Continuous
+Resonators you control gain [Swiftness].
+Automatic
+Whenever a resonator you control is put into a graveyard from the field ⇒ This card deals 200 damage to target player or J/resonator.
+Activate
 [R]: Target J/resonator must attack or block this turn if able.","""Charge till you die!""","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4235","Blazer","http://d12h0em1d7ppg.cloudfront.net/items/42/4235/image_en/95e7b124-4c1d-49d5-8c2d-bfaf9ab428a3.jpg","AO1-049","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4235","Blazer","http://d12h0em1d7ppg.cloudfront.net/items/42/4235/image_en/95e7b124-4c1d-49d5-8c2d-bfaf9ab428a3.jpg","AO1-049","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Target J/resonator your opponent controls loses all abilities until end of turn. Then destroy it. If a J-ruler was destroyed this way, the ruler your opponent controls loses all abilities until end of game.","Blazer is hiding, waiting for the time of slaughter.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4235","Blazer","http://d12h0em1d7ppg.cloudfront.net/items/42/4235/image_en/95e7b124-4c1d-49d5-8c2d-bfaf9ab428a3.jpg","AO1-049","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4235","Blazer","http://d12h0em1d7ppg.cloudfront.net/items/42/4235/image_en/95e7b124-4c1d-49d5-8c2d-bfaf9ab428a3.jpg","AO1-049","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 1000","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Target J/resonator your opponent controls loses all abilities until end of turn. Then destroy it. If a J-ruler was destroyed this way, the ruler your opponent controls loses all abilities until end of game.","Blazer is hiding, waiting for the time of slaughter.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4235","Blazer","http://d12h0em1d7ppg.cloudfront.net/items/42/4235/image_en/95e7b124-4c1d-49d5-8c2d-bfaf9ab428a3.jpg","AO1-049","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4235","Blazer","http://d12h0em1d7ppg.cloudfront.net/items/42/4235/image_en/95e7b124-4c1d-49d5-8c2d-bfaf9ab428a3.jpg","AO1-049","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Target J/resonator your opponent controls loses all abilities until end of turn. Then destroy it. If a J-ruler was destroyed this way, the ruler your opponent controls loses all abilities until end of game.","Blazer is hiding, waiting for the time of slaughter.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4235","Blazer","http://d12h0em1d7ppg.cloudfront.net/items/42/4235/image_en/95e7b124-4c1d-49d5-8c2d-bfaf9ab428a3.jpg","AO1-049","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4235","Blazer","http://d12h0em1d7ppg.cloudfront.net/items/42/4235/image_en/95e7b124-4c1d-49d5-8c2d-bfaf9ab428a3.jpg","AO1-049","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1000 / 1000","Resonator","Dragon","kakotomirai","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Target J/resonator your opponent controls loses all abilities until end of turn. Then destroy it. If a J-ruler was destroyed this way, the ruler your opponent controls loses all abilities until end of game.","Blazer is hiding, waiting for the time of slaughter.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4236","Caduceus","http://d12h0em1d7ppg.cloudfront.net/items/42/4236/image_en/e1ab71eb-df5f-4061-8dee-2135c5797a88.jpg","AO1-050","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Regalia","","Kusanagi Tyouen","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4236","Caduceus","http://d12h0em1d7ppg.cloudfront.net/items/42/4236/image_en/e1ab71eb-df5f-4061-8dee-2135c5797a88.jpg","AO1-050","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Regalia","","Kusanagi Tyouen","Alice Origin 1st Booster Pack","Card Text
+[Mythic]
+Continuous
+Your J-ruler gains [Drain].
+Activate
 [Rest]: Produce two wills in any combination of [W] and/or [R]. Spend this will only to play (Strangers), Mage Arts, or activate abilities of Twelve Protective Deities.","When memories were moved from Yggdrasil to the regalia, Caduceus received the memory of a hero.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4236","Caduceus","http://d12h0em1d7ppg.cloudfront.net/items/42/4236/image_en/e1ab71eb-df5f-4061-8dee-2135c5797a88.jpg","AO1-050","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Regalia","","Kusanagi Tyouen","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4236","Caduceus","http://d12h0em1d7ppg.cloudfront.net/items/42/4236/image_en/e1ab71eb-df5f-4061-8dee-2135c5797a88.jpg","AO1-050","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Regalia","","Kusanagi Tyouen","Alice Origin 1st Booster Pack","Card Text
+[Mythic]
+Continuous
+Your J-ruler gains [Drain].
+Activate
 [Rest]: Produce two wills in any combination of [W] and/or [R]. Spend this will only to play (Strangers), Mage Arts, or activate abilities of Twelve Protective Deities.","When memories were moved from Yggdrasil to the regalia, Caduceus received the memory of a hero.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4237","Crossing Point","http://d12h0em1d7ppg.cloudfront.net/items/42/4237/image_en/5396eee3-47c3-4296-8047-dca94205adc9.jpg","AO1-051","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Mage Art","uekino aroe","Alice Origin 1st Booster Pack","","The crossing point of the future of the goddess.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4237","Crossing Point","http://d12h0em1d7ppg.cloudfront.net/items/42/4237/image_en/5396eee3-47c3-4296-8047-dca94205adc9.jpg","AO1-051","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","uekino aroe","Alice Origin 1st Booster Pack","","The crossing point of the future of the goddess.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4238","Dark Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4238/image_en/218f6147-6055-4412-bc79-145244f288af.jpg","AO1-052","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","SO","Alice Origin 1st Booster Pack","","""Burn out, idiot."" -Melgis","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4238","Dark Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4238/image_en/218f6147-6055-4412-bc79-145244f288af.jpg","AO1-052","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","SO","Alice Origin 1st Booster Pack","","""Burn out, idiot."" -Melgis","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4238","Dark Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4238/image_en/218f6147-6055-4412-bc79-145244f288af.jpg","AO1-052","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Sword Art","SO","Alice Origin 1st Booster Pack","","""Burn out, idiot."" -Melgis","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4239","Darkest Fire Small Dragon","http://d12h0em1d7ppg.cloudfront.net/items/42/4239/image_en/6fca2a89-22ff-4af4-a18b-1433a7a750ee.jpg","AO1-053","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 600","Resonator","Dragon","noki","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4237","Crossing Point","http://d12h0em1d7ppg.cloudfront.net/items/42/4237/image_en/5396eee3-47c3-4296-8047-dca94205adc9.jpg","AO1-051","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Mage Art","uekino aroe","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Look at the top seven cards of your deck. You may reveal any number of Goddess resonators among them and put them into your hand. Remove the rest from the game.","The crossing point of the future of the goddess.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4237","Crossing Point","http://d12h0em1d7ppg.cloudfront.net/items/42/4237/image_en/5396eee3-47c3-4296-8047-dca94205adc9.jpg","AO1-051","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","uekino aroe","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Look at the top seven cards of your deck. You may reveal any number of Goddess resonators among them and put them into your hand. Remove the rest from the game.","The crossing point of the future of the goddess.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4238","Dark Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4238/image_en/218f6147-6055-4412-bc79-145244f288af.jpg","AO1-052","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","SO","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+As an additional cost to play this card, you may pay any amount of life. This card deals that much damage to target J/resonator. If you control ""Laevateinn"", this card may deal that much damage to a second target J/resonator. If this card was awakened, choose a card from your Stranger deck at random, and put it into the field.
+[Awakening][R][R][D][D]","""Burn out, idiot."" -Melgis","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4238","Dark Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4238/image_en/218f6147-6055-4412-bc79-145244f288af.jpg","AO1-052","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","SO","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+As an additional cost to play this card, you may pay any amount of life. This card deals that much damage to target J/resonator. If you control ""Laevateinn"", this card may deal that much damage to a second target J/resonator. If this card was awakened, choose a card from your Stranger deck at random, and put it into the field.
+[Awakening][R][R][D][D]","""Burn out, idiot."" -Melgis","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4238","Dark Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4238/image_en/218f6147-6055-4412-bc79-145244f288af.jpg","AO1-052","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Sword Art","SO","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+As an additional cost to play this card, you may pay any amount of life. This card deals that much damage to target J/resonator. If you control ""Laevateinn"", this card may deal that much damage to a second target J/resonator. If this card was awakened, choose a card from your Stranger deck at random, and put it into the field.
+[Awakening][R][R][D][D]","""Burn out, idiot."" -Melgis","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4239","Darkest Fire Small Dragon","http://d12h0em1d7ppg.cloudfront.net/items/42/4239/image_en/6fca2a89-22ff-4af4-a18b-1433a7a750ee.jpg","AO1-053","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 600","Resonator","Dragon","noki","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
+When this card is put into a graveyard from the field ⇒ Destroy target damaged resonator.
+Automatic
 Whenever a card named ""Shakti, the Red Eyes Swords Master"" enters the field under your control ⇒ You may pay 400 life. If you do, put this card from your graveyard into your hand.","This small dragon delivered to Shakti the sad news that her father Volga was slain.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4239","Darkest Fire Small Dragon","http://d12h0em1d7ppg.cloudfront.net/items/42/4239/image_en/6fca2a89-22ff-4af4-a18b-1433a7a750ee.jpg","AO1-053","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Dragon","noki","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4239","Darkest Fire Small Dragon","http://d12h0em1d7ppg.cloudfront.net/items/42/4239/image_en/6fca2a89-22ff-4af4-a18b-1433a7a750ee.jpg","AO1-053","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Dragon","noki","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Automatic
+When this card is put into a graveyard from the field ⇒ Destroy target damaged resonator.
+Automatic
 Whenever a card named ""Shakti, the Red Eyes Swords Master"" enters the field under your control ⇒ You may pay 400 life. If you do, put this card from your graveyard into your hand.","This small dragon delivered to Shakti the sad news that her father Volga was slain.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4240","Hitomatano-Orochi, the Pet of Lenneth","http://d12h0em1d7ppg.cloudfront.net/items/42/4240/image_en/e067ed6d-2bcd-4a2c-922f-cd286c9185de.jpg","AO1-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","200 / 200","Resonator","Twelve Protective Deities/Dragon","iwao","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4240","Hitomatano-Orochi, the Pet of Lenneth","http://d12h0em1d7ppg.cloudfront.net/items/42/4240/image_en/e067ed6d-2bcd-4a2c-922f-cd286c9185de.jpg","AO1-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","200 / 200","Resonator","Twelve Protective Deities/Dragon","iwao","Alice Origin 1st Booster Pack","Card Text
+[Barrier]
+Activate
+[W][R]: Put two [+100/+100] counters on this card. If you control a regalia, put four [+100/+100] counters on this card instead.
+Continuous
+This card gains [Precision], as long as there are eight or more [+100/+100] counters on it.
+Continuous
 This card gains [Eternal] and [Pierce], as long as there are twenty or more [+100/+100] counters on it.","It is always eating and growing, there is no turning back.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4240","Hitomatano-Orochi, the Pet of Lenneth","http://d12h0em1d7ppg.cloudfront.net/items/42/4240/image_en/e067ed6d-2bcd-4a2c-922f-cd286c9185de.jpg","AO1-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","200 / 200","Resonator","Twelve Protective Deities/Dragon","iwao","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4240","Hitomatano-Orochi, the Pet of Lenneth","http://d12h0em1d7ppg.cloudfront.net/items/42/4240/image_en/e067ed6d-2bcd-4a2c-922f-cd286c9185de.jpg","AO1-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","200 / 200","Resonator","Twelve Protective Deities/Dragon","iwao","Alice Origin 1st Booster Pack","Card Text
+[Barrier]
+Activate
+[W][R]: Put two [+100/+100] counters on this card. If you control a regalia, put four [+100/+100] counters on this card instead.
+Continuous
+This card gains [Precision], as long as there are eight or more [+100/+100] counters on it.
+Continuous
 This card gains [Eternal] and [Pierce], as long as there are twenty or more [+100/+100] counters on it.","It is always eating and growing, there is no turning back.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4241","Holy Nova","http://d12h0em1d7ppg.cloudfront.net/items/42/4241/image_en/59078402-8add-4021-bcba-8265cad982e9.jpg","AO1-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Tomomi TOMIDA","Alice Origin 1st Booster Pack","","""Stay back, this is my fight!"" -Faria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4241","Holy Nova","http://d12h0em1d7ppg.cloudfront.net/items/42/4241/image_en/59078402-8add-4021-bcba-8265cad982e9.jpg","AO1-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Tomomi TOMIDA","Alice Origin 1st Booster Pack","","""Stay back, this is my fight!"" -Faria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4241","Holy Nova","http://d12h0em1d7ppg.cloudfront.net/items/42/4241/image_en/59078402-8add-4021-bcba-8265cad982e9.jpg","AO1-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Sword Art","Tomomi TOMIDA","Alice Origin 1st Booster Pack","","""Stay back, this is my fight!"" -Faria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4241","Holy Nova","http://d12h0em1d7ppg.cloudfront.net/items/42/4241/image_en/59078402-8add-4021-bcba-8265cad982e9.jpg","AO1-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Sword Art","Tomomi TOMIDA","Alice Origin 1st Booster Pack","","""Stay back, this is my fight!"" -Faria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4242","Ishtar, the Great Goddess of Kindness (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4242/image_en/6764be44-bff4-4e13-8da5-21bb150b7338.jpg","AO1-056","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator(Stranger)","Goddess","Nem","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4241","Holy Nova","http://d12h0em1d7ppg.cloudfront.net/items/42/4241/image_en/59078402-8add-4021-bcba-8265cad982e9.jpg","AO1-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Tomomi TOMIDA","Alice Origin 1st Booster Pack","Card Text
+Destroy all resonators. If this card was awakened, choose a card from your Stranger deck at random, and put it into the field.
+[Awakening][W][W][B][B]","""Stay back, this is my fight!"" -Faria","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4241","Holy Nova","http://d12h0em1d7ppg.cloudfront.net/items/42/4241/image_en/59078402-8add-4021-bcba-8265cad982e9.jpg","AO1-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Sword Art","Tomomi TOMIDA","Alice Origin 1st Booster Pack","Card Text
+Destroy all resonators. If this card was awakened, choose a card from your Stranger deck at random, and put it into the field.
+[Awakening][W][W][B][B]","""Stay back, this is my fight!"" -Faria","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4241","Holy Nova","http://d12h0em1d7ppg.cloudfront.net/items/42/4241/image_en/59078402-8add-4021-bcba-8265cad982e9.jpg","AO1-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Sword Art","Tomomi TOMIDA","Alice Origin 1st Booster Pack","Card Text
+Destroy all resonators. If this card was awakened, choose a card from your Stranger deck at random, and put it into the field.
+[Awakening][W][W][B][B]","""Stay back, this is my fight!"" -Faria","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4241","Holy Nova","http://d12h0em1d7ppg.cloudfront.net/items/42/4241/image_en/59078402-8add-4021-bcba-8265cad982e9.jpg","AO1-055","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","Sword Art","Tomomi TOMIDA","Alice Origin 1st Booster Pack","Card Text
+Destroy all resonators. If this card was awakened, choose a card from your Stranger deck at random, and put it into the field.
+[Awakening][W][W][B][B]","""Stay back, this is my fight!"" -Faria","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4242","Ishtar, the Great Goddess of Kindness (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4242/image_en/6764be44-bff4-4e13-8da5-21bb150b7338.jpg","AO1-056","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator(Stranger)","Goddess","Nem","Alice Origin 1st Booster Pack","Card Text
+Automatic
 [Enter] ⇒ Put a non-(Stranger) resonator from your graveyard into the field.","The tears of kindness drip into the Nether Fountain.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4242","Ishtar, the Great Goddess of Kindness (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4242/image_en/6764be44-bff4-4e13-8da5-21bb150b7338.jpg","AO1-056","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator(Stranger)","Goddess","Nem","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4242","Ishtar, the Great Goddess of Kindness (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4242/image_en/6764be44-bff4-4e13-8da5-21bb150b7338.jpg","AO1-056","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator(Stranger)","Goddess","Nem","Alice Origin 1st Booster Pack","Card Text
+Automatic
 [Enter] ⇒ Put a non-(Stranger) resonator from your graveyard into the field.","The tears of kindness drip into the Nether Fountain.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4242","Ishtar, the Great Goddess of Kindness (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4242/image_en/6764be44-bff4-4e13-8da5-21bb150b7338.jpg","AO1-056","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Goddess","Nem","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4242","Ishtar, the Great Goddess of Kindness (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4242/image_en/6764be44-bff4-4e13-8da5-21bb150b7338.jpg","AO1-056","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Goddess","Nem","Alice Origin 1st Booster Pack","Card Text
+Automatic
 [Enter] ⇒ Put a non-(Stranger) resonator from your graveyard into the field.","The tears of kindness drip into the Nether Fountain.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4242","Ishtar, the Great Goddess of Kindness (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4242/image_en/6764be44-bff4-4e13-8da5-21bb150b7338.jpg","AO1-056","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Goddess","Nem","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4242","Ishtar, the Great Goddess of Kindness (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4242/image_en/6764be44-bff4-4e13-8da5-21bb150b7338.jpg","AO1-056","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator(Stranger)","Goddess","Nem","Alice Origin 1st Booster Pack","Card Text
+Automatic
 [Enter] ⇒ Put a non-(Stranger) resonator from your graveyard into the field.","The tears of kindness drip into the Nether Fountain.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4243","Lamorak, the Third Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4243/image_en/10b53d30-2d3e-46d4-aa29-b886b186a745.jpg","AO1-057","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","600 / 600","Resonator","Knight of the Round Table","ComamitsuZaki","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4243","Lamorak, the Third Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4243/image_en/10b53d30-2d3e-46d4-aa29-b886b186a745.jpg","AO1-057","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","600 / 600","Resonator","Knight of the Round Table","ComamitsuZaki","Alice Origin 1st Booster Pack","Card Text
+Continuous
+This card gains [+200/+200] and [Drain], as long as you control a regalia.
+Continuous
 Regalias you control gain [Barrier].","Guided by Excalibur, the knights came to Gloria.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4243","Lamorak, the Third Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4243/image_en/10b53d30-2d3e-46d4-aa29-b886b186a745.jpg","AO1-057","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","600 / 600","Resonator","Knight of the Round Table","ComamitsuZaki","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4243","Lamorak, the Third Knight","http://d12h0em1d7ppg.cloudfront.net/items/42/4243/image_en/10b53d30-2d3e-46d4-aa29-b886b186a745.jpg","AO1-057","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","600 / 600","Resonator","Knight of the Round Table","ComamitsuZaki","Alice Origin 1st Booster Pack","Card Text
+Continuous
+This card gains [+200/+200] and [Drain], as long as you control a regalia.
+Continuous
 Regalias you control gain [Barrier].","Guided by Excalibur, the knights came to Gloria.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4244","Lars, Knight of the Sacred Spirit","http://d12h0em1d7ppg.cloudfront.net/items/42/4244/image_en/0510a368-b312-4514-96a8-503c865f94b6.jpg","AO1-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Five Heroes","Nekobayashi","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4244","Lars, Knight of the Sacred Spirit","http://d12h0em1d7ppg.cloudfront.net/items/42/4244/image_en/0510a368-b312-4514-96a8-503c865f94b6.jpg","AO1-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Five Heroes","Nekobayashi","Alice Origin 1st Booster Pack","Card Text
+[Drain][First Strike]
+Continuous
+Prevent the first damage that would be dealt to Five Heroes you control each turn.
+Continuous
 You may pay the attribute cost of Five Hero cards with light will.","Lars travels to Vell-Savaria, to seek aid for her sister Charlotte.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4244","Lars, Knight of the Sacred Spirit","http://d12h0em1d7ppg.cloudfront.net/items/42/4244/image_en/0510a368-b312-4514-96a8-503c865f94b6.jpg","AO1-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Five Heroes","Nekobayashi","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4244","Lars, Knight of the Sacred Spirit","http://d12h0em1d7ppg.cloudfront.net/items/42/4244/image_en/0510a368-b312-4514-96a8-503c865f94b6.jpg","AO1-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Five Heroes","Nekobayashi","Alice Origin 1st Booster Pack","Card Text
+[Drain][First Strike]
+Continuous
+Prevent the first damage that would be dealt to Five Heroes you control each turn.
+Continuous
 You may pay the attribute cost of Five Hero cards with light will.","Lars travels to Vell-Savaria, to seek aid for her sister Charlotte.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4244","Lars, Knight of the Sacred Spirit","http://d12h0em1d7ppg.cloudfront.net/items/42/4244/image_en/0510a368-b312-4514-96a8-503c865f94b6.jpg","AO1-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Five Heroes","Nekobayashi","Alice Origin 1st Booster Pack","Continuous
+"http://www.fowtcg.com/card/4244","Lars, Knight of the Sacred Spirit","http://d12h0em1d7ppg.cloudfront.net/items/42/4244/image_en/0510a368-b312-4514-96a8-503c865f94b6.jpg","AO1-058","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Five Heroes","Nekobayashi","Alice Origin 1st Booster Pack","Card Text
+[Drain][First Strike]
+Continuous
+Prevent the first damage that would be dealt to Five Heroes you control each turn.
+Continuous
 You may pay the attribute cost of Five Hero cards with light will.","Lars travels to Vell-Savaria, to seek aid for her sister Charlotte.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4245","Light of Raze and Revive","http://d12h0em1d7ppg.cloudfront.net/items/42/4245/image_en/6a560a90-22ec-4171-a69f-bd8f5ea5fba7.jpg","AO1-059","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Mage Art","Kusanagi Tyouen","Alice Origin 1st Booster Pack","","""Don't be afraid. We are protected by Lord Magna."" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4245","Light of Raze and Revive","http://d12h0em1d7ppg.cloudfront.net/items/42/4245/image_en/6a560a90-22ec-4171-a69f-bd8f5ea5fba7.jpg","AO1-059","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Kusanagi Tyouen","Alice Origin 1st Booster Pack","","""Don't be afraid. We are protected by Lord Magna."" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4246","Opening the Red Eyes","http://d12h0em1d7ppg.cloudfront.net/items/42/4246/image_en/46363789-1aef-45d8-8b02-b2c01a999172.jpg","AO1-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","yua","Alice Origin 1st Booster Pack","","""Did you see? Then you ... will die."" -Shakti, the Red Eyes Swords Master","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4246","Opening the Red Eyes","http://d12h0em1d7ppg.cloudfront.net/items/42/4246/image_en/46363789-1aef-45d8-8b02-b2c01a999172.jpg","AO1-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Sword Art","yua","Alice Origin 1st Booster Pack","","""Did you see? Then you ... will die."" -Shakti, the Red Eyes Swords Master","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4247","Phoenix, the Inextinct Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4247/image_en/16f37131-ac46-4499-8766-9b836cf905fe.jpg","AO1-061","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 1000","Resonator","Twelve Protective Deities/Beast","jugemt","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4245","Light of Raze and Revive","http://d12h0em1d7ppg.cloudfront.net/items/42/4245/image_en/6a560a90-22ec-4171-a69f-bd8f5ea5fba7.jpg","AO1-059","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Mage Art","Kusanagi Tyouen","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Choose one - Remove target non-J-ruler, non-magic stone entity with total cost 3 or less from the game; or put a resonator with total cost 3 or less from your removed area into the field; or search your deck for a light regalia, reveal it, and put it into your hand.","""Don't be afraid. We are protected by Lord Magna."" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4245","Light of Raze and Revive","http://d12h0em1d7ppg.cloudfront.net/items/42/4245/image_en/6a560a90-22ec-4171-a69f-bd8f5ea5fba7.jpg","AO1-059","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","Kusanagi Tyouen","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Choose one - Remove target non-J-ruler, non-magic stone entity with total cost 3 or less from the game; or put a resonator with total cost 3 or less from your removed area into the field; or search your deck for a light regalia, reveal it, and put it into your hand.","""Don't be afraid. We are protected by Lord Magna."" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4246","Opening the Red Eyes","http://d12h0em1d7ppg.cloudfront.net/items/42/4246/image_en/46363789-1aef-45d8-8b02-b2c01a999172.jpg","AO1-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Sword Art","yua","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Target J/resonator gains [+700/+700], [Precision], and [First Strike] until end of turn. If it's ""Shakti, the Red Eyes Swords Master"", put seven [+100/+100] counters on it and it gains [Precision], [First Strike], and [Eternal] until end of turn instead.","""Did you see? Then you ... will die."" -Shakti, the Red Eyes Swords Master","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4246","Opening the Red Eyes","http://d12h0em1d7ppg.cloudfront.net/items/42/4246/image_en/46363789-1aef-45d8-8b02-b2c01a999172.jpg","AO1-060","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant","Sword Art","yua","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+Target J/resonator gains [+700/+700], [Precision], and [First Strike] until end of turn. If it's ""Shakti, the Red Eyes Swords Master"", put seven [+100/+100] counters on it and it gains [Precision], [First Strike], and [Eternal] until end of turn instead.","""Did you see? Then you ... will die."" -Shakti, the Red Eyes Swords Master","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4247","Phoenix, the Inextinct Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4247/image_en/16f37131-ac46-4499-8766-9b836cf905fe.jpg","AO1-061","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 1000","Resonator","Twelve Protective Deities/Beast","jugemt","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Continuous
+Your J-ruler gains [Imperishable].
+Activate
 [W][W][R][R]: Put this card from your graveyard or removed area into the field.","The fire of the phoenix burns forever.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4247","Phoenix, the Inextinct Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4247/image_en/16f37131-ac46-4499-8766-9b836cf905fe.jpg","AO1-061","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 1000","Resonator","Twelve Protective Deities/Beast","jugemt","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4247","Phoenix, the Inextinct Fire","http://d12h0em1d7ppg.cloudfront.net/items/42/4247/image_en/16f37131-ac46-4499-8766-9b836cf905fe.jpg","AO1-061","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","400 / 1000","Resonator","Twelve Protective Deities/Beast","jugemt","Alice Origin 1st Booster Pack","Card Text
+[Flying]
+Continuous
+Your J-ruler gains [Imperishable].
+Activate
 [W][W][R][R]: Put this card from your graveyard or removed area into the field.","The fire of the phoenix burns forever.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4248","Shakti, the Red Eyes Swords Master","http://d12h0em1d7ppg.cloudfront.net/items/42/4248/image_en/9e933516-456a-4ffd-8528-df108118bb2e.jpg","AO1-062","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 600","Resonator","Five Heroes","Pisuke","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4248","Shakti, the Red Eyes Swords Master","http://d12h0em1d7ppg.cloudfront.net/items/42/4248/image_en/9e933516-456a-4ffd-8528-df108118bb2e.jpg","AO1-062","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 600","Resonator","Five Heroes","Pisuke","Alice Origin 1st Booster Pack","Card Text
+Continuous
+For effects of regalia you control, treat this card also as a J-ruler.
+Automatic
 Whenever you play a Sword Art ⇒ Copy it. You may choose new targets for the copy.","""This sword should be good enough, at first glance.""","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4248","Shakti, the Red Eyes Swords Master","http://d12h0em1d7ppg.cloudfront.net/items/42/4248/image_en/9e933516-456a-4ffd-8528-df108118bb2e.jpg","AO1-062","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Five Heroes","Pisuke","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4248","Shakti, the Red Eyes Swords Master","http://d12h0em1d7ppg.cloudfront.net/items/42/4248/image_en/9e933516-456a-4ffd-8528-df108118bb2e.jpg","AO1-062","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Five Heroes","Pisuke","Alice Origin 1st Booster Pack","Card Text
+Continuous
+For effects of regalia you control, treat this card also as a J-ruler.
+Automatic
 Whenever you play a Sword Art ⇒ Copy it. You may choose new targets for the copy.","""This sword should be good enough, at first glance.""","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4249","The Palace of Three Goddess","http://d12h0em1d7ppg.cloudfront.net/items/42/4249/image_en/66f7a9a9-ffe8-4651-af2c-dfe97dcfe637.jpg","AO1-063","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","mita kura","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4249","The Palace of Three Goddess","http://d12h0em1d7ppg.cloudfront.net/items/42/4249/image_en/66f7a9a9-ffe8-4651-af2c-dfe97dcfe637.jpg","AO1-063","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","mita kura","Alice Origin 1st Booster Pack","Card Text
+Continuous
+You may pay [1] less to play this card for each card in your removed area.
+Automatic
+[Enter] ⇒ You may put any number of Goddess resonators with different names from your hand into the field.
+Activate
 [W][R]: Put two [+100/+100] counters on target Goddess resonator.","The voices from the past, present, and future will never stop in this palace.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4249","The Palace of Three Goddess","http://d12h0em1d7ppg.cloudfront.net/items/42/4249/image_en/66f7a9a9-ffe8-4651-af2c-dfe97dcfe637.jpg","AO1-063","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Addition","","mita kura","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4249","The Palace of Three Goddess","http://d12h0em1d7ppg.cloudfront.net/items/42/4249/image_en/66f7a9a9-ffe8-4651-af2c-dfe97dcfe637.jpg","AO1-063","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Addition","","mita kura","Alice Origin 1st Booster Pack","Card Text
+Continuous
+You may pay [1] less to play this card for each card in your removed area.
+Automatic
+[Enter] ⇒ You may put any number of Goddess resonators with different names from your hand into the field.
+Activate
 [W][R]: Put two [+100/+100] counters on target Goddess resonator.","The voices from the past, present, and future will never stop in this palace.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4250","Thor, the White Lightning (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4250/image_en/60f30ab6-8267-4588-a8e3-ccbf0286d395.jpg","AO1-064","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator(Stranger)","Deity","xinzan","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4250","Thor, the White Lightning (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4250/image_en/60f30ab6-8267-4588-a8e3-ccbf0286d395.jpg","AO1-064","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator(Stranger)","Deity","xinzan","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Remove the top card of your deck from the game. Destroy all non-magic stone entities your opponent controls that share the cost with the removed card.
+Activate
+[W]: This card gains [0/+200] until end of turn.
+Activate
 [R]: This card gains [+200/0] until end of turn.","The impact of destruction hits the battlefield like lightning.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4250","Thor, the White Lightning (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4250/image_en/60f30ab6-8267-4588-a8e3-ccbf0286d395.jpg","AO1-064","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator(Stranger)","Deity","xinzan","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4250","Thor, the White Lightning (Stranger)","http://d12h0em1d7ppg.cloudfront.net/items/42/4250/image_en/60f30ab6-8267-4588-a8e3-ccbf0286d395.jpg","AO1-064","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","800 / 800","Resonator(Stranger)","Deity","xinzan","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Remove the top card of your deck from the game. Destroy all non-magic stone entities your opponent controls that share the cost with the removed card.
+Activate
+[W]: This card gains [0/+200] until end of turn.
+Activate
 [R]: This card gains [+200/0] until end of turn.","The impact of destruction hits the battlefield like lightning.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4251","Twin-Adders Spiral","http://d12h0em1d7ppg.cloudfront.net/items/42/4251/image_en/3297630b-5617-4a7d-8b23-6e0acd625e33.jpg","AO1-065","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Mage Art","tokiwa","Alice Origin 1st Booster Pack","","""Release the twin adders!"" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4251","Twin-Adders Spiral","http://d12h0em1d7ppg.cloudfront.net/items/42/4251/image_en/3297630b-5617-4a7d-8b23-6e0acd625e33.jpg","AO1-065","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","tokiwa","Alice Origin 1st Booster Pack","","""Release the twin adders!"" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4252","Vell-Savaria, the God's City","http://d12h0em1d7ppg.cloudfront.net/items/42/4252/image_en/70e02144-d53a-4aa1-96b3-ef1a703ecc61.jpg","AO1-066","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","kotakan","Alice Origin 1st Booster Pack","Automatic
-[Enter] ⇒ Put target regalia from your graveyard into your hand.","Where the legend of the regalia was born.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4252","Vell-Savaria, the God's City","http://d12h0em1d7ppg.cloudfront.net/items/42/4252/image_en/70e02144-d53a-4aa1-96b3-ef1a703ecc61.jpg","AO1-066","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Addition","","kotakan","Alice Origin 1st Booster Pack","Automatic
-[Enter] ⇒ Put target regalia from your graveyard into your hand.","Where the legend of the regalia was born.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4253","Magic Stone of Heat Ray","http://d12h0em1d7ppg.cloudfront.net/items/42/4253/image_en/8aad7a87-0112-4c5a-ad3c-bf22b1fd9ada.jpg","AO1-067","R","","","Special Magic Stone","","Yuko Nagasaki","Alice Origin 1st Booster Pack","Activate
+"http://www.fowtcg.com/card/4251","Twin-Adders Spiral","http://d12h0em1d7ppg.cloudfront.net/items/42/4251/image_en/3297630b-5617-4a7d-8b23-6e0acd625e33.jpg","AO1-065","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","Mage Art","tokiwa","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+This card deals 600 damage to target player or J/resonator. You gain 600 life. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.
+[Awakening][W]","""Release the twin adders!"" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4251","Twin-Adders Spiral","http://d12h0em1d7ppg.cloudfront.net/items/42/4251/image_en/3297630b-5617-4a7d-8b23-6e0acd625e33.jpg","AO1-065","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant","Mage Art","tokiwa","Alice Origin 1st Booster Pack","Card Text
+[Quickcast]
+This card deals 600 damage to target player or J/resonator. You gain 600 life. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.
+[Awakening][W]","""Release the twin adders!"" -Lenneth, the Priestess of Vell-Savaria","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4252","Vell-Savaria, the God's City","http://d12h0em1d7ppg.cloudfront.net/items/42/4252/image_en/70e02144-d53a-4aa1-96b3-ef1a703ecc61.jpg","AO1-066","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","","kotakan","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Put target regalia from your graveyard into your hand.
+[Rest]: Produce [W] or [R]. Spend this will only to play (Stranger) resonators.","Where the legend of the regalia was born.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4252","Vell-Savaria, the God's City","http://d12h0em1d7ppg.cloudfront.net/items/42/4252/image_en/70e02144-d53a-4aa1-96b3-ef1a703ecc61.jpg","AO1-066","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Addition","","kotakan","Alice Origin 1st Booster Pack","Card Text
+Automatic
+[Enter] ⇒ Put target regalia from your graveyard into your hand.
+[Rest]: Produce [W] or [R]. Spend this will only to play (Stranger) resonators.","Where the legend of the regalia was born.","Alice Origin 1st Booster Pack"
+"http://www.fowtcg.com/card/4253","Magic Stone of Heat Ray","http://d12h0em1d7ppg.cloudfront.net/items/42/4253/image_en/8aad7a87-0112-4c5a-ad3c-bf22b1fd9ada.jpg","AO1-067","R","","","Special Magic Stone","","Yuko Nagasaki","Alice Origin 1st Booster Pack","Card Text
+Continuous
+Treat this card as a light magic stone and fire magic stone.
+Activate
 [rest]: Produce [W] or [R].","A piercing gleam of blinding light; An incandescent glow that cannot be touched.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4254","Lenneth, the Priest of Vell-Savaria","http://d12h0em1d7ppg.cloudfront.net/items/42/4254/image_en/8aacf7e0-b16b-453e-9ec7-654125bd4ff9.jpg","Buy a Box","RR","","","Ruler","Priest","SIE NANAHARA","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4254","Lenneth, the Priest of Vell-Savaria","http://d12h0em1d7ppg.cloudfront.net/items/42/4254/image_en/8aacf7e0-b16b-453e-9ec7-654125bd4ff9.jpg","Buy a Box","RR","","","Ruler","Priest","SIE NANAHARA","Alice Origin 1st Booster Pack","Card Text
+[Stranger]10 (You may begin the game with a Stranger deck of exactly ten (Stranger) resonators. You may not have more than two copies of any card in your Stranger deck.)
+Activate
+[Judgment] [W][W][R]
+[Energize][W][R]
+Automatic
 Whenever a light regalia enters the field under your control ⇒ Choose one, if the regalia is ""Caduceus"", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or remove the top card of your deck from the game. Then draw a card; or remove target resonator with total cost 1 or less from the game; or you may pay [0] to do judgment until end of turn.","Arriving in Vell-Savaria with a lost memory, she then became a container for the memories of this world.","Alice Origin 1st Booster Pack"
-"http://www.fowtcg.com/card/4255","Lenneth, the Priest of Vell-Savaria","http://d12h0em1d7ppg.cloudfront.net/items/42/4255/image_en/905d7f3c-e145-4a24-977e-9e0805550965.jpg","Buy a Box","JR","","","Ruler","Priest","SIE NANAHARA","Alice Origin 1st Booster Pack","Automatic
+"http://www.fowtcg.com/card/4255","Lenneth, the Priest of Vell-Savaria","http://d12h0em1d7ppg.cloudfront.net/items/42/4255/image_en/905d7f3c-e145-4a24-977e-9e0805550965.jpg","Buy a Box","JR","","","Ruler","Priest","SIE NANAHARA","Alice Origin 1st Booster Pack","Card Text
+[Stranger]10 (You may begin the game with a Stranger deck of exactly ten (Stranger) resonators. You may not have more than two copies of any card in your Stranger deck.)
+Activate
+[Judgment] [W][W][R]
+[Energize][W][R]
+Automatic
 Whenever a light regalia enters the field under your control ⇒ Choose one, if the regalia is ""Caduceus"", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or remove the top card of your deck from the game. Then draw a card; or remove target resonator with total cost 1 or less from the game; or you may pay [0] to do judgment until end of turn.","Arriving in Vell-Savaria with a lost memory, she then became a container for the memories of this world.","Alice Origin 1st Booster Pack"

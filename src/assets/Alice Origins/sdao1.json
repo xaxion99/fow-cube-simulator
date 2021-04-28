@@ -41,7 +41,7 @@
    "race": "Knight of the Round Table",
    "artist": "kakotomirai",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\nWhen this card enters your field ⇒ You may remove target resonator with 1000 or more ATK from the game.",
+   "text": "[Precision]\n\nAutomatic\n\nWhen this card enters your field ⇒ You may remove target resonator with 1000 or more ATK from the game.",
    "flavor_text": "\"The soul just wants a place to go, nothing more.\"",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -63,7 +63,7 @@
    "race": "Knight of the Round Table",
    "artist": "ORETO",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
+   "text": "Continuous\n\nOther Knight of the Round Table resonators you control gain [+200/+200].\n\nAutomatic\n\nWhenever this card attacks or blocks ⇒ Rest target resonator.",
    "flavor_text": "\"I failed to protect my ruler in the past. In this world, I'll protect you at any cost.\"",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -101,7 +101,7 @@
    "race": "Knight of the Round Table",
    "artist": "Foo Midori",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Activate\n\nBanish this card: Prevent all damage that would be dealt to target J-ruler or Knight of the Round Table until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Reveal the top five cards of your deck. You may put a Regalia or Knight of the Round Table from among them into your hand. Put the rest on the bottom of your deck in any order.\n\nActivate\n\nBanish this card: Prevent all damage that would be dealt to target J-ruler or Knight of the Round Table until end of turn.",
    "flavor_text": "To her, this is the beginning of a new search for the Grail.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -123,7 +123,7 @@
    "race": "Paladin",
    "artist": "ezusuke",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\n[Enter] ⇒ Destroy target rested resonator.",
+   "text": "[Flying] [Barrier][R] [Barrier][D]\n\nAutomatic\n\n[Enter] ⇒ Destroy target rested resonator.",
    "flavor_text": "\"I made a place to live to heal my wounded body. The name is Vell-Savaria, whose meaning is 'the memory of gods' in the language of Valhalla.\" - Note of Magna 2",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -142,7 +142,7 @@
    "race": "Wizard",
    "artist": "Haruichi Kido",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\n[Enter] ⇒ Distribute two [+100/+100] counters on up to two target J/resonators you control.",
+   "text": "[Drain]\n\nContinuous\n\nPrevent all damage that would be dealt to resonators with a [+100/+100] counter on them by chants and abilities.\n\nAutomatic\n\n[Enter] ⇒ Distribute two [+100/+100] counters on up to two target J/resonators you control.",
    "flavor_text": "\"I drifted here to escape the time of Ragnarok, as the Battle of Gods will destroy Valhalla. Everything, except the Miniature World.\" - Note of Magna 1",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -159,6 +159,7 @@
    "type": "Chant",
    "artist": "Nagi-nyan",
    "expansion": "Alice Origin 1st Start Deck",
+   "text": "[QuickCast]\n\nChoose one -\n\nThis card deals 500 damage to target resonator;\n\nor destroy target resonator that was dealt damage this turn.",
    "flavor_text": "\"Burn!\" -Melgis, the Flame King",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -177,7 +178,7 @@
    "race": "Queen",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Activate\n\n[R], [rest]: Target resonator you control gains [+400/+400] until end of turn. When it deals or is dealt damage this turn, banish it.",
+   "text": "Activate\n\n[rest], banish a resonator: Draw two cards, then discard a card.\n\nActivate\n\n[R], [rest]: Target resonator you control gains [+400/+400] until end of turn. When it deals or is dealt damage this turn, banish it.",
    "flavor_text": "\"Oh, seems I made another mistake...please bring me the next one.\"",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -199,7 +200,7 @@
    "race": "Knight of the Round Table",
    "artist": "hatarisu",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\nWhen this card enters your field ⇒ Target resonator gains [+400/0] until end of turn.",
+   "text": "Continuous\n\nYou may pay [R] less to play this card if you control \"Lancelot, the Knight of Mad Demon\".\n\nAutomatic\n\nWhen this card enters your field ⇒ Target resonator gains [+400/0] until end of turn.",
    "flavor_text": "\"This world? I don't care. I'll follow Lancelot anywhere, come what may.\"",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -221,7 +222,7 @@
    "race": "Knight of the Round Table",
    "artist": "Takumi Sugikawa",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Activate\n\n[R]: This card gains [+100/0] until end of turn.",
+   "text": "[Swiftness] (This card can attack and you can play its [rest] abilities the same turn it enters a field.)\n\nContinuous\n\nAs you choose a card to attack, you must choose this card if able.\n\nAutomatic\n\nWhenever this card attacks ⇒ If this card's ATK is 1000 or more, this card deals 700 damage to target resonator.\n\nActivate\n\n[R]: This card gains [+100/0] until end of turn.",
    "flavor_text": "The nature of a summoned hero depends on the nature of the summoner. The power of the demon sword changed him into a cruel knight.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -240,7 +241,7 @@
    "race": "Knight of the Round Table",
    "artist": "Haruichi Kido",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Activate\n\nBanish this card: This card deals 200 damage to target player or J/resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ Reveal the top five cards of your deck. You may put a regalia or a fire resonator with cost 2 or less from among them into your hand. Put the rest on the bottom of your deck in any order.\n\nActivate\n\nBanish this card: This card deals 200 damage to target player or J/resonator.",
    "flavor_text": "The red Holy Grail responds to the ambition of Melgis.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -281,7 +282,7 @@
    "race": "Beast",
    "artist": "Shinichi Hiromoto",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\nWhenever this card is dealt damage ⇒ It deals that much damage to your opponent.",
+   "text": "[Swiftness]\n\nAutomatic\n\nWhenever this card is dealt damage ⇒ It deals that much damage to your opponent.",
    "flavor_text": "\"I met a girl playing with animals near the giant tree, and she told me that its name was Yggdrasil. Apparently a part of the power of Valhalla came to this world before me, and made the tree into a container of memories.\" - Note of Magna 7",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -300,7 +301,7 @@
    "race": "Swordsman",
    "artist": "Pisuke",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\n[Enter] ⇒ Put target resonator on top of its owner's deck.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] ⇒ Put target resonator on top of its owner's deck.",
    "flavor_text": "\"Strangely, in Vell-Savaria many things like spirits, ghosts, and gods from other worlds are appearing. Maybe the memories of this world are resonating with my power and presence.\" - Note of Magna 3",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -319,7 +320,7 @@
    "race": "Spirit",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\n[Enter] ⇒ Return up to three target non-J/resonator non-magic stone entities to their owners' hands.",
+   "text": "[Quickcast][Flying]\n\nAutomatic\n\n[Enter] ⇒ Return up to three target non-J/resonator non-magic stone entities to their owners' hands.",
    "flavor_text": "\"A lady who lost her memory came to Vell-Savaria. This cannot be a coincidence, as the barrier around the city keeps visitors away. Her name is Lenneth, and without her memory she can become a container of memories.\" - Note of Magna 4",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -338,7 +339,7 @@
    "race": "Demon",
    "artist": "ezusuke",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\n[Enter] ⇒ Draw a card for each 700 life paid as this card entered the field.",
+   "text": "Continuous\n\nAs this card enters the field, pay any amount of life. This card enters the field with a [+100/+100] counter on it for each 100 life paid this way.\n\nAutomatic\n\n[Enter] ⇒ Draw a card for each 700 life paid as this card entered the field.",
    "flavor_text": "\"To keep storing the power of Valhalla in this tree will be bad for this world, as this really is a lot of power.\" - Note of Magna 9",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -357,7 +358,7 @@
    "race": "Spirit",
    "artist": "lack",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Your opponent banishes a resonator.",
+   "text": "[Bane]\n\nAutomatic\n\n[Enter] ⇒ Your opponent banishes a resonator.\n\nAutomatic\n\nWhen this card is put into a graveyard from the field ⇒ Your opponent banishes a resonator.",
    "flavor_text": "\"Yggdrasil has memories from many different worlds, including the memories of Valhalla. And I am the only one who can use or remove them.\" - Note of Magna 8",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -382,7 +383,7 @@
    "race": "Knight of the Round Table",
    "artist": "Hitowa",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\n[Enter] ⇒ You may search your deck for a Knight of the Round Table and put it into the field.",
+   "text": "[Precision][First Strike]\n\nContinuous\n\nOther Knight of the Round Tables you control gain [Eternal].\n\nAutomatic\n\n[Enter] ⇒ You may search your deck for a Knight of the Round Table and put it into the field.",
    "flavor_text": "\"I decided to go on a quest to find out why all those memories from other worlds would suddenly appear here in this world, and left Vell-Savaria in the capable hands of Lenneth.\" - Note of Magna 5",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -406,6 +407,7 @@
    "race": "Sword Art",
    "artist": "Saiko Takaki",
    "expansion": "Alice Origin 1st Start Deck",
+   "text": "[Quickcast]\n\nChoose one - This card deals 800 damage to target player; or target player banishes a resonator; or this card deals 400 damage to each J/resonator your opponent controls. You may put a fire resonator with total cost 3 or less from your hand into the field.",
    "flavor_text": "\"Give me your power!\" - Melgis",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -429,6 +431,7 @@
    "race": "Sword Art",
    "artist": "uekino aroe",
    "expansion": "Alice Origin 1st Start Deck",
+   "text": "[Quickcast]\n\nChoose one - Search your deck for a light regalia and put it into the field; or gain 1000 life. Draw a card; or rest target J/resonator. J/resonators you control gain [+400/+400] until end of turn.",
    "flavor_text": "That light will be the beacon of Gloria.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -449,6 +452,7 @@
    "race": "Sword Art",
    "artist": "yuhki lily",
    "expansion": "Alice Origin 1st Start Deck",
+   "text": "[Quickcast]\n\nDestroy target J/resonator. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.\n\n[Awakening][R]",
    "flavor_text": "Blood will quench thirst.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -473,7 +477,7 @@
    "race": "Hero",
    "artist": "Hatori Kyoka",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\nWhenever this card attacks ⇒ Your opponent discards a card.",
+   "text": "[First Strike][Bane]\n\nContinuous\n\nThis card gains [Swiftness] and [Precision], as long as your life is 2000 or less.\n\nAutomatic\n\nWhenever this card attacks ⇒ Your opponent discards a card.",
    "flavor_text": "\"I decided to remove memories from Yggdrasil to keep it stable, and put them into magical objects that now resonate strongly with those memories. The keepers of these objects will be able to use the memories and power of Valhalla and other worlds, as long as I live. And I named them Regalia.\" - Note of Magna 10",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -495,7 +499,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\n[Enter] ⇒ Destroy target damaged resonator. If you do, put two [+100/+100] counters on this card.",
+   "text": "[Flying]\n\nContinuous\n\nThis card gains [Swiftness], as long as you control \"Volga, the Fire King\".\n\nAutomatic\n\n[Enter] ⇒ Destroy target damaged resonator. If you do, put two [+100/+100] counters on this card.",
    "flavor_text": "The Darkest Fire loves blood and scars.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -515,7 +519,7 @@
    "type": "Regalia",
    "artist": "Takumi Sugikawa",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Continuous\n\nYour J-ruler gains [+400/+400].",
+   "text": "[Mythic] (If you control two or more entities with [Mythic] that share a name, banish all but one of them.)\n\nContinuous\n\nYour J-ruler gains [+400/+400].\n\n[Rest]: Produce two wills in any combination of [W] and/or [B]. Spend this will only to play God's Art abilities, (Strangers), or Sword Arts.",
    "flavor_text": "Sacred Light will shine with noble will.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -528,7 +532,7 @@
    "race": "Little Girl",
    "artist": "Nekobayashi",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\nWhenever a light regalia enters the field under your control ⇒ Choose one, if the regalia is \"Excalibur\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or destroy target rested resonator; or draw a card; or you may pay [0] to do judgment until end of turn.",
+   "text": "[Stranger]10 (You may begin the game with a Stranger deck of exactly ten (Stranger) resonators. You may not have more than two copies of any card in your Stranger deck.)\n\nActivate\n\n[Judgment] [W][W][B]\n\n[Energize][W][B]\n\nAutomatic\n\nWhenever a light regalia enters the field under your control ⇒ Choose one, if the regalia is \"Excalibur\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or destroy target rested resonator; or draw a card; or you may pay [0] to do judgment until end of turn.",
    "flavor_text": "Her sister is ill in bed, her brother left. This little girl takes a step into the future, taking up the sword to protect her home with strong will.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -548,7 +552,7 @@
    "type": "Regalia",
    "artist": "saki kounosuke",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Continuous\n\nYour J-ruler gains [Swiftness].",
+   "text": "[Mythic] (If you control two or more entities with [Mythic] that share a name, banish all but one of them.)\n\nContinuous\n\nYour J-ruler gains [Swiftness].\n\n[Rest]: Produce two wills in any combination of [R] and/or [D]. Spend this will only to play God's Art abilities, (Strangers), or Sword Arts.",
    "flavor_text": "The souls of the heroes are exploited by insolent ambitions.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -561,7 +565,7 @@
    "race": "Warrior",
    "artist": "gekko",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\nWhenever a fire regalia enters the field under your control ⇒ Choose one, if the regalia is \"Laevateinn\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or this card deals 500 damage to target player or J/resonator; or put a [700/100] fire Warrior resonator token with [Swiftness] into the field. At the next end of turn ⇒ Its controller banishes it; or you may pay [0] to do judgment until end of turn.",
+   "text": "[Stranger]10 (You may begin the game with a Stranger deck of exactly ten (Stranger) resonators. You may not have more than two copies of any card in your Stranger deck.)\n\nActivate\n\n[Judgment] [R][R][D]\n\n[Energize][R][D]\n\nAutomatic\n\nWhenever a fire regalia enters the field under your control ⇒ Choose one, if the regalia is \"Laevateinn\", choose up to two instead - Choose a card from your Stranger deck at random and put it into your hand; or this card deals 500 damage to target player or J/resonator; or put a [700/100] fire Warrior resonator token with [Swiftness] into the field. At the next end of turn ⇒ Its controller banishes it; or you may pay [0] to do judgment until end of turn.",
    "flavor_text": "His family died, his friends left him. He is all alone, trying to win every fight.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -582,7 +586,7 @@
    "race": "Sword Art",
    "artist": "KAZTO FURUYA",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Continuouo\n\nRemove target resonator or addition from the game. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.",
+   "text": "[Quickcast]\n\nContinuouo\n\nRemove target resonator or addition from the game. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.\n\n[Awakening][W]",
    "flavor_text": "\"Never forget this!\" -Faria",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -607,7 +611,7 @@
    "race": "Wanderer",
    "artist": "Wednesday",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Activate\n\n[0]: Choose a race. Resonators you control gain the chosen race until end of turn. Play this ability only once per turn.",
+   "text": "[Quickcast]\n\nContinuous\n\nYour J-ruler gains [Barrier].\n\nAutomatic\n\n[Enter] ⇒ Rest target J/resonator.\n\nActivate\n\n[0]: Choose a race. Resonators you control gain the chosen race until end of turn. Play this ability only once per turn.",
    "flavor_text": "A traveler from another world visited Attoractia, and met with the future Sacred Queen.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -629,7 +633,7 @@
    "race": "Fairy",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Automatic\n\n[Enter] ⇒ Search your deck for a card named \"Avalon, Illusionary Home of Knights\" and put it into the field. If you control \"Avalon, Illusionary Home of Knights\", you may search your deck for a card named \"Excalibur\" instead.",
+   "text": "[Flying]\n\nContinuoun\n\nKnight of the Round Tables in your hand gain [Quickcast].\n\nAutomatic\n\n[Enter] ⇒ Search your deck for a card named \"Avalon, Illusionary Home of Knights\" and put it into the field. If you control \"Avalon, Illusionary Home of Knights\", you may search your deck for a card named \"Excalibur\" instead.",
    "flavor_text": "\"Hero, where are you?\"",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -654,7 +658,7 @@
    "race": "King",
    "artist": "ukuzo Katsura",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Continuou\n\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Laevateinn\", reveal it and put it into your hand. If your life is 2000 or less, you may put it into the field instead.",
+   "text": "[Precision][Swiftness]\n\nContinuou\n\nWhen this card is put into a graveyard from the field ⇒ Search your deck for a card named \"Laevateinn\", reveal it and put it into your hand. If your life is 2000 or less, you may put it into the field instead.",
    "flavor_text": "\"Kid, if you can defeat me, I'll give you this sword. If I still can.\"",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -666,6 +670,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "Alice Origin 1st Start Deck",
+   "text": "[Rest]: Produce one will of any attribute shared with your J/ruler.",
    "flavor_text": "\"This is the powersource Lord Magna made to extract the memories. He calls it a Memoria.\" Lenneth, the Priestess of Vell-Savaria",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -677,7 +682,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Activate\n\n[rest]: Produce [W] or [U].",
+   "text": "Continuous\n\nTreat this card as a light magic stone and water magic stone.\n\nActivate\n\n[rest]: Produce [W] or [U].",
    "flavor_text": "The shining paths that branch from the crossroad.",
    "all_sets": "Alice Origin 1st Start Deck"
   },
@@ -689,7 +694,7 @@
    "type": "Special Magic Stone",
    "artist": "Nagi-nyan",
    "expansion": "Alice Origin 1st Start Deck",
-   "text": "Activate\n\n[rest]: Produce [B] or [R].",
+   "text": "Continuous\n\nTreat this card as a darkness magic stone and fire magic stone.\n\nActivate\n\n[rest]: Produce [B] or [R].",
    "flavor_text": "Hidden within the night, the burning spiral of seeds.",
    "all_sets": "Alice Origin 1st Start Deck"
   },

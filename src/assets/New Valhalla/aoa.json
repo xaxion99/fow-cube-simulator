@@ -22,7 +22,7 @@
    "race": "Dragon",
    "artist": "Rumie",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\n\nThis card gains [+400/+400] as long as you control a Moon.",
+   "text": "[Flying]\n\nContinuous\n\nThis card gains [+400/+400] as long as you control a Moon.",
    "flavor_text": "Only when she looks at the moon does Ayu let such a longing expression slip. As if looking at something that can never return.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -68,7 +68,7 @@
    "race": "Deity",
    "artist": "Retro",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\n\nOther light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.",
+   "text": "Automatic\n\n[Enter] ⇒ Produce [w][w].\n\nContinuous\n\nOther light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.",
    "flavor_text": "\"Lend me your strength, proud war god of antiquity.\" -Misteltein, the Pious Sword Saint",
    "all_sets": "Awakening of the Ancients"
   },
@@ -114,7 +114,7 @@
    "race": "Valkyrie",
    "artist": "KONNO Takashi",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\nBanish this card: Target resonator gains [Eternal] until end of turn.",
+   "text": "[Flying]\n\nActivate\n\nBanish this card: Target resonator gains [Eternal] until end of turn.",
    "flavor_text": "There's no greater honor than to die for your lord.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -143,7 +143,7 @@
    "race": "Beast",
    "artist": "SO",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ Destroy all resonators with [Flying] your opponent controls.",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] ⇒ Destroy all resonators with [Flying] your opponent controls.",
    "flavor_text": "The god sealed within Linorsphairia had been influenced by Alice's fairy tale power, taking the form of a large, flying, whale-like beast.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -162,7 +162,7 @@
    "race": "Ancient Ruins",
    "artist": "gozz",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\n\nResonators you control gain [+200/+200] as long as there are three or more grave-post counters on this card. As long as there are seven or more grave-post counters on this card, they gain [+400/+400] instead.",
+   "text": "Automatic\n\nWhenever a resonator you control is put into a graveyard from the field ⇒ Put a grave-post counter on this card.\n\nContinuous\n\nResonators you control gain [+200/+200] as long as there are three or more grave-post counters on this card. As long as there are seven or more grave-post counters on this card, they gain [+400/+400] instead.",
    "flavor_text": "All alone, Ares continued to protect these grounds.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -208,7 +208,7 @@
    "race": "Valkyrie",
    "artist": "KAZTO FURUYA",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\n[r]: This card gains [+200/+200] until end of turn.",
+   "text": "Activate\n\n[w]: This card gains [Flying] and [First Strike] until end of turn.\n\nActivate\n\n[r]: This card gains [+200/+200] until end of turn.",
    "flavor_text": "She will do anything to see her lord's ambitions through.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -252,6 +252,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "Saiko Takaki",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nYou pay [w] more to play this card from a rune area.\n\nReturn target rested resonator to its owner's hand. Foresee 2.",
    "flavor_text": "\"Lalalala〜♪ Hm? I'm out of tune?\" -Ayu",
    "all_sets": "Awakening of the Ancients"
   },
@@ -274,6 +275,7 @@
    "race": "Human",
    "artist": "Nakaba Higurashi",
    "expansion": "Awakening of the Ancients",
+   "text": "[Rune]2 - [Enter] ⇒ You gain 500 life.",
    "flavor_text": "\"Lord Odin shall inevitably return to bestow victory and glory to Minerva.\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -293,7 +295,7 @@
    "race": "Treasury Item",
    "artist": "Kusanagi Tyouen",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\n[Rest], discard a card, remove this card from the game: Produce [w][w][w].",
+   "text": "Activate\n\n[Rest], discard a card, remove this card from the game: Produce [w][w][w].\n\n[w], banish this card: Destroy target addition.",
    "flavor_text": "The wills of many have coalesced over the years, giving birth to the treasure tree.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -317,6 +319,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "Retro",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nYou pay [1] more to play this card from a rune area.\n\nDestroy target attacking or blocking resonator.",
    "flavor_text": "The blades of light pour from above, turning their target into pieces in a dazzlement of light.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -337,6 +340,7 @@
    "type": "Chant",
    "artist": "mita kura",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nIf damage would be dealt to resonators you control this turn, prevent 200 of it. Draw a card.",
    "flavor_text": "Wrapping all of life in its embrace, the light of Linorsphairia.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -358,6 +362,7 @@
    "type": "Chant/Rune(Divinity 1)",
    "artist": "hatarisu",
    "expansion": "Awakening of the Ancients",
+   "text": "You may pay [1] less to play this card from a rune area.\n\nChoose one - Put target resonator from your graveyard into your hand; or put up to three target Heroic Spirit resonators from your graveyard into your hand.",
    "flavor_text": "\"To the warrior spirits resting within this earth... I shall free your souls now.\" -Misteltein, the Pious Sword Saint",
    "all_sets": "Awakening of the Ancients"
   },
@@ -380,7 +385,7 @@
    "race": "Spirit",
    "artist": "Haruichi Kido",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\n\nPrevent all damage that would be dealt to this card by resonators during your opponent's turn.",
+   "text": "[Flying]\n\nContinuous\n\nPrevent all damage that would be dealt to this card by resonators during your opponent's turn.",
    "flavor_text": "Try to catch cloud, all you will find is thin air.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -401,6 +406,7 @@
    "type": "Chant/Master Rune(Divinity 2)",
    "artist": "SO",
    "expansion": "Awakening of the Ancients",
+   "text": "You may pay [3] less to play this card if your J/ruler is \"Atom Seikhart\" or \"Atom Seikhart, the Shimmering Rabbit\".\n\nLook at the top three cards of your deck. Reveal any number of resonators with different total cost from among them and put them into your hand. Put the rest on the bottom of your deck in a random order. If this card was awakened, you may put them into the field instead. (If there are resonators with total cost 1, 2, and 2, you may reveal a 1 and a 2.)\n\n[Awakening][w][w][2]",
    "flavor_text": "\"Fortune favors the brave! Now, let's go, let's go!\" -Ayu",
    "all_sets": "Awakening of the Ancients"
   },
@@ -419,6 +425,7 @@
    "type": "Chant",
    "artist": "jugemt",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nThis card deals 300 damage multiplied by the number of resonators you control to target J/resonator.",
    "flavor_text": "\"Show them no mercy. Fire!\" -Brunhild",
    "all_sets": "Awakening of the Ancients"
   },
@@ -444,7 +451,7 @@
    "race": "Spirit",
    "artist": "ShiroYayoi",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\n\nThis card gains [Drain] as long as you control seven or more light magic stones.",
+   "text": "Automatic\n\nWhenever you play a resonator spell ⇒ This card gains [+400/+400] until end of turn. This ability triggers only once per turn.\n\nContinuous\n\nThis card gains [Drain] as long as you control seven or more light magic stones.",
    "flavor_text": "\"Where am I? My, what a lovely moon.\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -490,7 +497,7 @@
    "race": "Sand/Beast",
    "artist": "Haruki Komai",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ Banish a fire magic stone.",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] ⇒ Banish a fire magic stone.",
    "flavor_text": "These birds are sometimes used within the palace to transport hot foods.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -514,6 +521,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "Nagi-nyan",
    "expansion": "Awakening of the Ancients",
+   "text": "You may pay [1] less to play this card from a rune area.\n\nAs an additional cost to play this card, banish a resonator.\n\nRecover target resonator. It gains [+400/+400] until end of turn.",
    "flavor_text": "\"Contract complete. I'll make sure to work you to death, and then some.\" -Nyarlathotep, the Return of Chaos",
    "all_sets": "Awakening of the Ancients"
   },
@@ -538,6 +546,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "Kotakan",
    "expansion": "Awakening of the Ancients",
+   "text": "You may pay [1] less to play this card from a rune area.\n\nThis card deals 800 damage to target J/resonator. Search your deck for a Dragon with total cost 5 or less and put it into the field. Then shuffle your deck.",
    "flavor_text": "\"The one to govern this world shall be me.\" -Fu Xi",
    "all_sets": "Awakening of the Ancients"
   },
@@ -609,7 +618,7 @@
    "race": "Human",
    "artist": "Azuza",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ Target resonator gains [+400/0] until end of turn.",
+   "text": "Continuous\n\nYou may pay [r][r] less to play this card as long as you control five or more fire magic stones.\n\nAutomatic\n\n[Enter] ⇒ Target resonator gains [+400/0] until end of turn.\n\n[Rune]4 - [Swiftness]",
    "flavor_text": "The name \"Kanna\" is passed down through the generations. Along with the duty of guarding the sealed god.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -648,6 +657,7 @@
    "type": "Chant/Rune(Divinity 1)",
    "artist": "Mad",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nYou pay [1] more to play this card from a rune area.\n\nTarget resonator gains [Barrier](Chant) until end of turn.",
    "flavor_text": "A body can be forged in months. To temper the mind takes years of patience.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -670,7 +680,7 @@
    "race": "Sand/Moon",
    "artist": "haniwa",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\nWhen this card leaves the field ⇒ It deals 300 damage multiplied by the number of fire magic stones you control to each resonator.",
+   "text": "Activate\n\n[r]: This card gains [Flying] until end of turn.\n\nAutomatic\n\nWhen this card leaves the field ⇒ It deals 300 damage multiplied by the number of fire magic stones you control to each resonator.",
    "flavor_text": "\"Scatter about, moon of chaos.\" -Nyarlathotep, the Return of Chaos",
    "all_sets": "Awakening of the Ancients"
   },
@@ -696,7 +706,7 @@
    "race": "Dragon",
    "artist": "gozz",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] ⇒ This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.",
    "flavor_text": "\"Nothing is bigger than a mountain. That's my strategy.\" -Zhuge Liang",
    "all_sets": "Awakening of the Ancients"
   },
@@ -719,7 +729,7 @@
    "race": "Cthulhu/Wanderer",
    "artist": "yuko",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\n[r][r], remove this card in your graveyard from the game, banish a fire magic stone: Destroy target resonator.",
+   "text": "Continuous\n\nYou may play this card from your removed area.\n\nContinuous\n\nYou pay [1] more to play this card from your removed area.\n\nActivate\n\n[Rest], remove this card from the game: Draw a card.\n\nActivate\n\n[r][r], remove this card in your graveyard from the game, banish a fire magic stone: Destroy target resonator.",
    "flavor_text": "\"Just like truth and fiction, order and chaos will always contradict. So don't go counting me out, I'll always be there when you least expect it... It's no lie you know!\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -744,6 +754,7 @@
    "type": "Chant",
    "artist": "SIE NANAHARA",
    "expansion": "Awakening of the Ancients",
+   "text": "This card deals 2000 damage to target J/resonator and 500 damage to its controller.",
    "flavor_text": "\"Fly away!\" -Shu, Ruler of Air",
    "all_sets": "Awakening of the Ancients"
   },
@@ -783,7 +794,7 @@
    "race": "Ascendant",
    "artist": "SIE NANAHARA",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\n[Rest], [r], discard a fire card: This card deals 600 damage to target resonator.",
+   "text": "Activate\n\n[Rest], remove a fire card in your graveyard from the game: Produce [r].\n\nActivate\n\n[Rest], [r], discard a fire card: This card deals 600 damage to target resonator.",
    "flavor_text": "\"I'll show you the power of what lies between heaven and earth!\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -807,7 +818,7 @@
    "type": "Chant/Master Rune(Divinity 2)",
    "artist": "yuko",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\n\nThis card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.",
+   "text": "You may pay [3] less to play this card if your J/ruler is \"Isis\" or \"Isis, the Hundred Weapon Master\".\n\nContinuous\n\nThis card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.",
    "flavor_text": "The power of ancient Valhalla begins to resonate with the chaos.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -829,6 +840,7 @@
    "type": "Chant",
    "artist": "Shirono Muku",
    "expansion": "Awakening of the Ancients",
+   "text": "You may discard a resonator. If you do, draw two cards.",
    "flavor_text": "\"Those who wake the sage shall be fed to the dragons.\" -Memo for Visitors",
    "all_sets": "Awakening of the Ancients"
   },
@@ -857,7 +869,7 @@
    "race": "Dragon",
    "artist": "Moopic",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ You may discard a card at random. If you do, this card deals 800 damage to target resonator.",
+   "text": "[Flying][Swiftness]\n\nAutomatic\n\n[Enter] ⇒ You may discard a card at random. If you do, this card deals 800 damage to target resonator.",
    "flavor_text": "\"Nothing is faster than thunder. That's my strategy. What? You got a problem!?\" -Zhuge Liang",
    "all_sets": "Awakening of the Ancients"
   },
@@ -886,7 +898,7 @@
    "race": "Human",
    "artist": "Foo Midori",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.",
+   "text": "Continuous\n\nFire resonators you control gain [Swiftness].\n\nAutomatic\n\n[Enter] ⇒ Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.",
    "flavor_text": "The flames of loyalty have continued to burn for all these years, ever since the time of ancient Valhalla.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -909,6 +921,7 @@
    "race": "Human",
    "artist": "AKI",
    "expansion": "Awakening of the Ancients",
+   "text": "[Rune]2 - [Enter] ⇒ This card deals 400 damage to target resonator.",
    "flavor_text": "As training to endure long missions, they make the scorching sands their home.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -931,7 +944,7 @@
    "race": "Machine",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ Look at the top five cards of your deck. You may put a card named \"Butterfly Gimmick\" from among them into the field. Put the rest on the bottom of your deck in a random order.",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] ⇒ Look at the top five cards of your deck. You may put a card named \"Butterfly Gimmick\" from among them into the field. Put the rest on the bottom of your deck in a random order.",
    "flavor_text": "The butterfly gimmicks overlap, soaring as one.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -976,6 +989,7 @@
    "type": "Chant",
    "artist": "Mad",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nTarget J/resonator gains [-400/0] until end of turn. It must attack or block this turn if able. Foresee 2.",
    "flavor_text": "An \"order\" means you have no choice in the matter.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -998,7 +1012,7 @@
    "race": "Beast",
    "artist": "Kelvin",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ Put target resonator on top of its owner's deck. Draw two cards.",
+   "text": "[Flying]\n\nContinuous\n\nThis card gains [Quickcast] as long as it's in your hand and there are four or more runes revealed from your rune area.\n\nAutomatic\n\n[Enter] ⇒ Put target resonator on top of its owner's deck. Draw two cards.",
    "flavor_text": "\"This isn't even his final form! Hehe, just kidding.\" -Loki",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1041,7 +1055,7 @@
    "race": "Wizard/Machine",
    "artist": "kurisu",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\n\nIf you would draw a card during your draw phase, you may instead look at the top two cards of your deck, put a card from among them into your hand and the rest into your graveyard.",
+   "text": "Continuous\n\nThis card gains [0/+400] as long as you control another Machine.\n\nContinuous\n\nIf you would draw a card during your draw phase, you may instead look at the top two cards of your deck, put a card from among them into your hand and the rest into your graveyard.",
    "flavor_text": "\"I've already failed once to protect what was dear to me. Tell me. What am I to protect now?\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1087,7 +1101,7 @@
    "race": "God/Wanderer",
    "artist": "IWAO",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\n[Rest], banish this card: Produce [u] for each resonator you control. Play this ability only during your turn.",
+   "text": "Automatic\n\nWhenever another resonator enters the field under your control ⇒ Produce [u]. This ability triggers only once per turn.\n\nActivate\n\n[Rest], banish this card: Produce [u] for each resonator you control. Play this ability only during your turn.",
    "flavor_text": "\"Welcome back, my other half.\" -Loki",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1110,6 +1124,7 @@
    "race": "Illusion",
    "artist": "ShiroYayoi",
    "expansion": "Awakening of the Ancients",
+   "text": "[Rune]2 - [Enter] ⇒ Return target resonator with total cost 2 or less to its owner's hand.",
    "flavor_text": "The familiar of an ominous god.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1127,6 +1142,7 @@
    "type": "Chant",
    "artist": "kawaryu",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nLook at your opponent's hand. Draw a card.",
    "flavor_text": "\"This sensation... I see, you're waiting for me to come find you.\" -Guinevere, the Mobility Queen",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1148,6 +1164,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "gekko",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nYou pay [u] more to play this card from a rune area.\n\nLook at your opponent's hand. Choose up to two cards with [Quickcast] from among them. They discard those cards.",
    "flavor_text": "\"Is this one... plotting something? I guess we're equal in that regard.\" -Loki",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1199,7 +1216,7 @@
    "race": "Machine",
    "artist": "Shinichi Chiba",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\nBanish two \"Mini Leviathan\": Search your deck for a card with \"Leviathan\" in its name and put it into the field. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] ⇒ Return target resonator to its owner's hand.\n\nActivate\n\nBanish two \"Mini Leviathan\": Search your deck for a card with \"Leviathan\" in its name and put it into the field. Then shuffle your deck.",
    "flavor_text": "Petit as it may be, it is still a Leviathan. Let your guard down and you'll be crushed to bits.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1224,6 +1241,7 @@
    "type": "Chant/Rune(Divinity 3)",
    "artist": "Shinichi Chiba",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nYou may pay [u][1] less to play this card from a rune area.\n\nDestroy target resonator with total cost 4 or more. If you do, draw two cards.",
    "flavor_text": "The blue light washes all away.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1265,7 +1283,7 @@
    "race": "Ancient Ruins",
    "artist": "Kakiken",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\n[u][u][1]: Remove a ruin counter from this card.",
+   "text": "Automatic\n\nAt the end of your turn ⇒ Put a ruin counter on this card. Then, if there are five or more ruin counters on it, banish it. If you do, shuffle all resonators into their owner's deck.\n\nActivate\n\n[u][u][1]: Remove a ruin counter from this card.",
    "flavor_text": "Before the war of Valhalla, this capital was laid to waste. The only clue is a single memory of Freya's, someone of great dark power had been here.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1287,6 +1305,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Awakening of the Ancients",
+   "text": "You pay [1] more to play this card from a rune area.\n\nDraw X cards, where X is the number of times that resonators attacked this turn.",
    "flavor_text": "The soldiers of the round table gazed at the land from the skies. Still seeking the meaning of their existence, they descended to the earth.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1334,6 +1353,7 @@
    "type": "Chant/Master Rune(Divinity 2)",
    "artist": "IWAO",
    "expansion": "Awakening of the Ancients",
+   "text": "You may pay [2] less to play this card if your J/ruler is \"Loki\" or \"Loki, the Witch of Chaos\".\n\nLook at the top seven cards of your deck. You may put a resonator with total cost X or less from among them into the field, where X is the number of magic stones you control. Put the rest on the bottom of your deck in a random order.",
    "flavor_text": "To Loki, total harmony. To the world, utter dissonance.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1380,6 +1400,7 @@
    "type": "Chant",
    "artist": "yua",
    "expansion": "Awakening of the Ancients",
+   "text": "Put target chant from your graveyard into your hand. If this card was awakened, put up to one second target chant from your graveyard into your hand.\n\n[Awakening][g][g][1]",
    "flavor_text": "\"Hmm... I wonder... Eureka!\" -Algernon, Mouse of Intellect",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1399,7 +1420,7 @@
    "race": "Mouse/Wanderer",
    "artist": "Yukie TAJIMA",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\n[Rest], remove two intellect counters from this card: Search your deck for a chant, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] ⇒ Put a intellect counter on this card. If you control five or more magic stones, put three intellect counters on this card instead.\n\nActivate\n\nRemove a intellect counter from this card: This card gains [+400/+200] until end of turn.\n\nActivate\n\n[Rest], remove two intellect counters from this card: Search your deck for a chant, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"I have no likes or dislikes. Except cats. Cats are the worst.\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1462,6 +1483,7 @@
    "type": "Chant",
    "artist": "ComamitsuZaki",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nThis card deals 200 damage to two target resonators. Foresee 1.",
    "flavor_text": "\"Roll and... strike!\" -Hanzo",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1487,7 +1509,7 @@
    "race": "Mimi Tribe",
    "artist": "ponkichi",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\nDiscard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.",
+   "text": "Automatic\n\n[Enter] ⇒ Draw a card.\n\nActivate\n\nDiscard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Their party composition is a mess, their methods varied, but they are of one shared goal.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1510,7 +1532,7 @@
    "race": "Cat/Shikigami",
    "artist": "Matsurika Yoko",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ Recover target Cat.",
+   "text": "Automatic\n\nWhen this card is put into a graveyard from your hand by a spell or ability your opponent controls ⇒ Put this card into the field.\n\nAutomatic\n\n[Enter] ⇒ Recover target Cat.",
    "flavor_text": "\"Yes, much has happened since then. For starters, would you like to see my dance?\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1531,6 +1553,7 @@
    "type": "Chant/Rune(Divinity 3)",
    "artist": "Matsurika Yoko",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nYou may pay [g] less to play this card from a rune area.\n\nChange the target of target spell targeting a Cat you control.",
    "flavor_text": "Dance, along with the forgotten fragrances of Valhalla.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1579,6 +1602,7 @@
    "race": "Mimi Tribe",
    "artist": "Nekobayashi",
    "expansion": "Awakening of the Ancients",
+   "text": "[Rune]2 - [Enter] → Draw a card, then discard a card.",
    "flavor_text": "When it comes to work, the Mimi tribe take it seriously.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1619,6 +1643,7 @@
    "type": "Chant/Master Rune(Divinity 2)",
    "artist": "Yukie TAJIMA",
    "expansion": "Awakening of the Ancients",
+   "text": "You may pay [2] less to play this card if your J/ruler is \"Chamimi\" or \"Chamimi, Guardian of the Sacred Bow\".\n\nUntil end of turn, you declare your opponent's blocks instead of your opponent.",
    "flavor_text": "\"This is a gift from me. Flowers for what will be your final resting place.\" -Algernon, Mouse of Intellect",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1641,7 +1666,7 @@
    "race": "Shikigami",
    "artist": "Miko Yamazaki",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\n\nThis card gains [+200/+200] as long as you control a Yin-Yang Master.",
+   "text": "Continuous\n\nIf damage would be dealt to you, it's dealt to this card instead.\n\nContinuous\n\nThis card gains [+200/+200] as long as you control a Yin-Yang Master.",
    "flavor_text": "The sensation and words of the shikigami are passed through Rikugou before reaching Seimei.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1687,7 +1712,7 @@
    "race": "Cat/Yin-Yang Master",
    "artist": "Fukuzo Katsura",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\nBanish a Shikigami: This card gains [Barrier] until end of turn.",
+   "text": "Automatic\n\n[Enter] ⇒ Look at the top four cards of your deck. You may reveal a Shikigami from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.\n\nActivate\n\n[Rest], [g]: You may put a Shikigami with total cost 4 or less from your hand into the field.\n\nActivate\n\nBanish a Shikigami: This card gains [Barrier] until end of turn.",
    "flavor_text": "\"Yes, you may touch them. But the shikigami only listen to my commands.\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1708,6 +1733,7 @@
    "type": "Chant/Rune(Divinity 1)",
    "artist": "Fukuzo Katsura",
    "expansion": "Awakening of the Ancients",
+   "text": "You pay [1] more to play this card from a rune area.\n\nLook at the top five cards of your deck. You may put a Shikigami with total cost 3 or less from among them into the field. If this card was awakened, put up to two into the field instead.\n\n[Awakening][g][1]",
    "flavor_text": "\"Witness the power of the shikigami.\" -Seimei, the Shikigami User",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1728,6 +1754,7 @@
    "type": "Chant/Rune(Divinity 1)",
    "artist": "Nagi-nyan",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nYou pay [1] more to play this card from a rune area.\n\nTarget J/resonator gains [+400/+400] until end of turn. You gain 500 life. Draw a card.",
    "flavor_text": "\"Mi-?\" \"Mi-?!\" \"Mi-!!\"",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1796,7 +1823,7 @@
    "race": "Mimi Tribe/Beast",
    "artist": "gajumaru",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\n[Enter] ⇒ Draw a card if you control another Mimi Tribe.",
+   "text": "Automatic\n\n[Enter] ⇒ Draw a card if you control another Mimi Tribe.\n\n[Rune]5 - [Enter] ⇒ Search your deck for up to one card named \"Three Beast Warrior, Eaglemi\" and up to one card named \"Three Beast Warrior, Molemi\" and put them into the field. Then shuffle your deck.",
    "flavor_text": "As per legend, Chamimi summoned the three beast warriors. Now she's at a loss as to what to do next.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1821,7 +1848,7 @@
    "type": "Resonator",
    "race": "Spirit",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\n[Rest], banish two other resonators: Destroy target resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ Put target darkness resonator with total cost 1 or less from your graveyard into the field.\n\nActivate\n\n[Rest], banish two other resonators: Destroy target resonator.",
    "flavor_text": "She lives to harvest. No matter what it may be.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1890,7 +1917,7 @@
    "race": "Demon",
    "artist": "touge369",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\nPay 600 life: This card gains [Eternal] until end of turn.",
+   "text": "Automatic\n\n[Enter] ⇒ Choose a resonator at random, then destroy all other resonators.\n\nActivate\n\nPay 600 life: This card gains [Eternal] until end of turn.",
    "flavor_text": "\"We welcome madness.\" -Lucifer",
    "all_sets": "Awakening of the Ancients"
   },
@@ -1987,6 +2014,7 @@
    "type": "Chant/Rune(Divinity 3)",
    "artist": "kakiken",
    "expansion": "Awakening of the Ancients",
+   "text": "You may pay [1] less to play this card from a rune area.\n\nPut the top ten cards of your deck into your graveyard.",
    "flavor_text": "\"This one, that one, all of them, rotten to the core. Could it be, even me?\" -Alseid, the Harvester",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2055,7 +2083,7 @@
    "race": "Zombie",
    "artist": "Shosuke",
    "expansion": "Awakening of the Ancients",
-   "text": "Automatic\n\nWhenever this card attacks ⇒ You may remove target card in your opponent's graveyard from the game.",
+   "text": "Automatic\n\n[Enter] ⇒ Remove two target resonators in your graveyard from the game. If you do, put two [+100/+100] counters on this card.\n\nAutomatic\n\nWhenever this card attacks ⇒ You may remove target card in your opponent's graveyard from the game.",
    "flavor_text": "\"Strong and sexy!\" -Laurier, Dark Corpse Sorceress",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2107,7 +2135,7 @@
    "race": "Vampire/Wanderer",
    "artist": "lack",
    "expansion": "Awakening of the Ancients",
-   "text": "Continuous\n\nThis card gains [+1000/+1000] as long as you control ten or more magic stones.",
+   "text": "Automatic\n\n[Enter] ⇒ Put two fresh blood counters on this card. If there are four or more runes revealed from your rune area, put four fresh blood counters on this card instead.\n\nContinuous\n\nRemove a fresh blood counter from this card: This card gains [Flying] and [Drain] until end of turn.\n\nActivate\n\n[Rest], remove two fresh blood counters from this card: Destroy target J/resonator.\n\nContinuous\n\nThis card gains [+1000/+1000] as long as you control ten or more magic stones.",
    "flavor_text": "Athenia in tow, Oborozuki used her overwhelming might to convince the beings of the Abyss to work towards her cause. What that was and what her true intentions are remain a mystery to all.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2131,6 +2159,7 @@
    "type": "Chant/Master Rune(Divinity 2)",
    "artist": "gekko",
    "expansion": "Awakening of the Ancients",
+   "text": "You may pay [2] less to play this card if your J/ruler is \"Lich\" or \"Lich, the Saint of Death\".\n\nRemove target resonator from the game. Look at your opponent's hand and choose a card that shares an attribute with the removed card. They remove that card from the game.",
    "flavor_text": "\"Perfect. This'll do for the vessel.\" \"Huh?\" \"You looking down on us?!\" -Oborozuki, Caller of Gods confronting Alice and Nyarlathotep",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2154,6 +2183,7 @@
    "type": "Chant",
    "artist": "Tomomi TOMIDA",
    "expansion": "Awakening of the Ancients",
+   "text": "Put target resonator from a graveyard into the field under your control.",
    "flavor_text": "\"Gotcha. Let's have some fun.\" -Laurier, Dark Corpse Sorceress",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2177,6 +2207,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "touge369",
    "expansion": "Awakening of the Ancients",
+   "text": "[Quickcast]\n\nYou may pay [b] less to play this card from a rune area.\n\nPlay this card only if you control a Demon.\n\nDestroy target J/resonator. Its controller discards a card at random.",
    "flavor_text": "Diabolos' roar reached to the ends of the earth.",
    "all_sets": "Awakening of the Ancients"
   },
@@ -2198,7 +2229,7 @@
    "race": "Ancient Ruins",
    "artist": "Mad",
    "expansion": "Awakening of the Ancients",
-   "text": "Activate\n\nBanish this card: Search your deck for a resonator with total cost X or less and put it into the field, where X is the number of offering counters that were on this card. Then shuffle your deck.",
+   "text": "Activate\n\nBanish a resonator: Put an offering counter on this card.\n\nActivate\n\nBanish this card: Search your deck for a resonator with total cost X or less and put it into the field, where X is the number of offering counters that were on this card. Then shuffle your deck.",
    "flavor_text": "The altar contains the most detestable existences of Valhalla, locked away beneath countless seals.",
    "all_sets": "Awakening of the Ancients"
   }

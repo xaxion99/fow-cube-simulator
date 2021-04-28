@@ -1,352 +1,806 @@
 "card_url","card_name","card_image","card_number","card_rarity","card_cost_attribute","card_att_def","card_type","card_race","card_artist","card_expansion","card_text","card_flavor_text","card_all_sets"
-"http://www.fowtcg.com/card/3982","Ancient Moon Dragon","http://d12h0em1d7ppg.cloudfront.net/items/39/3982/image_en/29a6e173-bcb8-49c2-ba88-7476ae15c762.jpg","AOA-001","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Dragon","Rumie","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3982","Ancient Moon Dragon","http://d12h0em1d7ppg.cloudfront.net/items/39/3982/image_en/29a6e173-bcb8-49c2-ba88-7476ae15c762.jpg","AOA-001","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Dragon","Rumie","Awakening of the Ancients","Card Text
+[Flying]
+Continuous
 This card gains [+400/+400] as long as you control a Moon.","Only when she looks at the moon does Ayu let such a longing expression slip. As if looking at something that can never return.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3982","Ancient Moon Dragon","http://d12h0em1d7ppg.cloudfront.net/items/39/3982/image_en/29a6e173-bcb8-49c2-ba88-7476ae15c762.jpg","AOA-001","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Dragon","Rumie","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3982","Ancient Moon Dragon","http://d12h0em1d7ppg.cloudfront.net/items/39/3982/image_en/29a6e173-bcb8-49c2-ba88-7476ae15c762.jpg","AOA-001","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Dragon","Rumie","Awakening of the Ancients","Card Text
+[Flying]
+Continuous
 This card gains [+400/+400] as long as you control a Moon.","Only when she looks at the moon does Ayu let such a longing expression slip. As if looking at something that can never return.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3982","Ancient Moon Dragon","http://d12h0em1d7ppg.cloudfront.net/items/39/3982/image_en/29a6e173-bcb8-49c2-ba88-7476ae15c762.jpg","AOA-001","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 800","Resonator","Dragon","Rumie","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3982","Ancient Moon Dragon","http://d12h0em1d7ppg.cloudfront.net/items/39/3982/image_en/29a6e173-bcb8-49c2-ba88-7476ae15c762.jpg","AOA-001","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 800","Resonator","Dragon","Rumie","Awakening of the Ancients","Card Text
+[Flying]
+Continuous
 This card gains [+400/+400] as long as you control a Moon.","Only when she looks at the moon does Ayu let such a longing expression slip. As if looking at something that can never return.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3983","Arcana Collector","http://d12h0em1d7ppg.cloudfront.net/items/39/3983/image_en/fde1312c-5b1b-40e2-ad4b-381c9024728d.jpg","AOA-002","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","300 / 300","Resonator","Wererabbit","j-peg","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3983","Arcana Collector","http://d12h0em1d7ppg.cloudfront.net/items/39/3983/image_en/fde1312c-5b1b-40e2-ad4b-381c9024728d.jpg","AOA-002","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","300 / 300","Resonator","Wererabbit","j-peg","Awakening of the Ancients","Card Text
+Continuous
 This card gains [+400/+400] and [Barrier] as long as you control four or more light magic stones.","Arcana hold the secrets to the ultimate fate of this world.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3984","Ares, Knight God Emperor of the Burial Grounds","http://d12h0em1d7ppg.cloudfront.net/items/39/3984/image_en/00d97389-e026-456f-9aea-5cf74151d127.jpg","AOA-003","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 800","Resonator","Deity","Retro","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3984","Ares, Knight God Emperor of the Burial Grounds","http://d12h0em1d7ppg.cloudfront.net/items/39/3984/image_en/00d97389-e026-456f-9aea-5cf74151d127.jpg","AOA-003","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 800","Resonator","Deity","Retro","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Produce [w][w].
+Continuous
 Other light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.","""Lend me your strength, proud war god of antiquity."" -Misteltein, the Pious Sword Saint","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3984","Ares, Knight God Emperor of the Burial Grounds","http://d12h0em1d7ppg.cloudfront.net/items/39/3984/image_en/00d97389-e026-456f-9aea-5cf74151d127.jpg","AOA-003","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 800","Resonator","Deity","Retro","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3984","Ares, Knight God Emperor of the Burial Grounds","http://d12h0em1d7ppg.cloudfront.net/items/39/3984/image_en/00d97389-e026-456f-9aea-5cf74151d127.jpg","AOA-003","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 800","Resonator","Deity","Retro","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Produce [w][w].
+Continuous
 Other light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.","""Lend me your strength, proud war god of antiquity."" -Misteltein, the Pious Sword Saint","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3984","Ares, Knight God Emperor of the Burial Grounds","http://d12h0em1d7ppg.cloudfront.net/items/39/3984/image_en/00d97389-e026-456f-9aea-5cf74151d127.jpg","AOA-003","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1000 / 800","Resonator","Deity","Retro","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3984","Ares, Knight God Emperor of the Burial Grounds","http://d12h0em1d7ppg.cloudfront.net/items/39/3984/image_en/00d97389-e026-456f-9aea-5cf74151d127.jpg","AOA-003","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1000 / 800","Resonator","Deity","Retro","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Produce [w][w].
+Continuous
 Other light resonators you control gain [+200/+200]. As long as there are four or more runes revealed from your rune area, they gain [+400/+400] instead.","""Lend me your strength, proud war god of antiquity."" -Misteltein, the Pious Sword Saint","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3985","Ballista Warrior","http://d12h0em1d7ppg.cloudfront.net/items/39/3985/image_en/49c2851c-7a9d-4c95-88e3-9b072fe47e13.jpg","AOA-004","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","700 / 1700","Resonator","Human","yuhki lily","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3985","Ballista Warrior","http://d12h0em1d7ppg.cloudfront.net/items/39/3985/image_en/49c2851c-7a9d-4c95-88e3-9b072fe47e13.jpg","AOA-004","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","700 / 1700","Resonator","Human","yuhki lily","Awakening of the Ancients","Card Text
+Automatic
 At the end of your turn ⇒ Recover this card.","Practicing repetitive drills constantly has led to perfect unceasing form.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3985","Ballista Warrior","http://d12h0em1d7ppg.cloudfront.net/items/39/3985/image_en/49c2851c-7a9d-4c95-88e3-9b072fe47e13.jpg","AOA-004","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","700 / 1700","Resonator","Human","yuhki lily","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3985","Ballista Warrior","http://d12h0em1d7ppg.cloudfront.net/items/39/3985/image_en/49c2851c-7a9d-4c95-88e3-9b072fe47e13.jpg","AOA-004","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","700 / 1700","Resonator","Human","yuhki lily","Awakening of the Ancients","Card Text
+Automatic
 At the end of your turn ⇒ Recover this card.","Practicing repetitive drills constantly has led to perfect unceasing form.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3985","Ballista Warrior","http://d12h0em1d7ppg.cloudfront.net/items/39/3985/image_en/49c2851c-7a9d-4c95-88e3-9b072fe47e13.jpg","AOA-004","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","700 / 1700","Resonator","Human","yuhki lily","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3985","Ballista Warrior","http://d12h0em1d7ppg.cloudfront.net/items/39/3985/image_en/49c2851c-7a9d-4c95-88e3-9b072fe47e13.jpg","AOA-004","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","700 / 1700","Resonator","Human","yuhki lily","Awakening of the Ancients","Card Text
+Automatic
 At the end of your turn ⇒ Recover this card.","Practicing repetitive drills constantly has led to perfect unceasing form.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3986","Brunhild's Shield","http://d12h0em1d7ppg.cloudfront.net/items/39/3986/image_en/95aa03ea-8c0a-4628-9705-66d782af6e1a.jpg","AOA-005","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 700","Resonator","Valkyrie","KONNO Takashi","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/3986","Brunhild's Shield","http://d12h0em1d7ppg.cloudfront.net/items/39/3986/image_en/95aa03ea-8c0a-4628-9705-66d782af6e1a.jpg","AOA-005","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 700","Resonator","Valkyrie","KONNO Takashi","Awakening of the Ancients","Card Text
+[Flying]
+Activate
 Banish this card: Target resonator gains [Eternal] until end of turn.","There's no greater honor than to die for your lord.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3987","Delphinius, Flying Giant Beast in the Sky","http://d12h0em1d7ppg.cloudfront.net/items/39/3987/image_en/b3681c5a-5fbe-4eea-8d82-2fd48d7d40b6.jpg","AOA-006","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1300 / 1500","Resonator","Beast","SO","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3987","Delphinius, Flying Giant Beast in the Sky","http://d12h0em1d7ppg.cloudfront.net/items/39/3987/image_en/b3681c5a-5fbe-4eea-8d82-2fd48d7d40b6.jpg","AOA-006","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1300 / 1500","Resonator","Beast","SO","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Destroy all resonators with [Flying] your opponent controls.","The god sealed within Linorsphairia had been influenced by Alice's fairy tale power, taking the form of a large, flying, whale-like beast.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3987","Delphinius, Flying Giant Beast in the Sky","http://d12h0em1d7ppg.cloudfront.net/items/39/3987/image_en/b3681c5a-5fbe-4eea-8d82-2fd48d7d40b6.jpg","AOA-006","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1300 / 1500","Resonator","Beast","SO","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3987","Delphinius, Flying Giant Beast in the Sky","http://d12h0em1d7ppg.cloudfront.net/items/39/3987/image_en/b3681c5a-5fbe-4eea-8d82-2fd48d7d40b6.jpg","AOA-006","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1300 / 1500","Resonator","Beast","SO","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Destroy all resonators with [Flying] your opponent controls.","The god sealed within Linorsphairia had been influenced by Alice's fairy tale power, taking the form of a large, flying, whale-like beast.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3987","Delphinius, Flying Giant Beast in the Sky","http://d12h0em1d7ppg.cloudfront.net/items/39/3987/image_en/b3681c5a-5fbe-4eea-8d82-2fd48d7d40b6.jpg","AOA-006","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1300 / 1500","Resonator","Beast","SO","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3987","Delphinius, Flying Giant Beast in the Sky","http://d12h0em1d7ppg.cloudfront.net/items/39/3987/image_en/b3681c5a-5fbe-4eea-8d82-2fd48d7d40b6.jpg","AOA-006","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1300 / 1500","Resonator","Beast","SO","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Destroy all resonators with [Flying] your opponent controls.","The god sealed within Linorsphairia had been influenced by Alice's fairy tale power, taking the form of a large, flying, whale-like beast.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3987","Delphinius, Flying Giant Beast in the Sky","http://d12h0em1d7ppg.cloudfront.net/items/39/3987/image_en/b3681c5a-5fbe-4eea-8d82-2fd48d7d40b6.jpg","AOA-006","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1300 / 1500","Resonator","Beast","SO","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3987","Delphinius, Flying Giant Beast in the Sky","http://d12h0em1d7ppg.cloudfront.net/items/39/3987/image_en/b3681c5a-5fbe-4eea-8d82-2fd48d7d40b6.jpg","AOA-006","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1300 / 1500","Resonator","Beast","SO","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Destroy all resonators with [Flying] your opponent controls.","The god sealed within Linorsphairia had been influenced by Alice's fairy tale power, taking the form of a large, flying, whale-like beast.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3988","Holy Knight Burial Grounds","http://d12h0em1d7ppg.cloudfront.net/items/39/3988/image_en/0c33ca77-a7ff-48ec-9dc3-b017538dcad9.jpg","AOA-007","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","Ancient Ruins","gozz","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3988","Holy Knight Burial Grounds","http://d12h0em1d7ppg.cloudfront.net/items/39/3988/image_en/0c33ca77-a7ff-48ec-9dc3-b017538dcad9.jpg","AOA-007","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","Ancient Ruins","gozz","Awakening of the Ancients","Card Text
+Automatic
+Whenever a resonator you control is put into a graveyard from the field ⇒ Put a grave-post counter on this card.
+Continuous
 Resonators you control gain [+200/+200] as long as there are three or more grave-post counters on this card. As long as there are seven or more grave-post counters on this card, they gain [+400/+400] instead.","All alone, Ares continued to protect these grounds.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3989","Holy Steed of Faith","http://d12h0em1d7ppg.cloudfront.net/items/39/3989/image_en/5fa8fcbc-c90c-4c21-b5ba-3a244f47c4fd.jpg","AOA-008","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Heroic Spirit","tokiwa","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3989","Holy Steed of Faith","http://d12h0em1d7ppg.cloudfront.net/items/39/3989/image_en/5fa8fcbc-c90c-4c21-b5ba-3a244f47c4fd.jpg","AOA-008","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Heroic Spirit","tokiwa","Awakening of the Ancients","Card Text
+Automatic
 Whenever a resonator you control attacks ⇒ You gain 400 life.","Blessings are granted to those of great faith. Even if they may be a horse.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3989","Holy Steed of Faith","http://d12h0em1d7ppg.cloudfront.net/items/39/3989/image_en/5fa8fcbc-c90c-4c21-b5ba-3a244f47c4fd.jpg","AOA-008","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Heroic Spirit","tokiwa","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3989","Holy Steed of Faith","http://d12h0em1d7ppg.cloudfront.net/items/39/3989/image_en/5fa8fcbc-c90c-4c21-b5ba-3a244f47c4fd.jpg","AOA-008","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","1000 / 1000","Resonator","Heroic Spirit","tokiwa","Awakening of the Ancients","Card Text
+Automatic
 Whenever a resonator you control attacks ⇒ You gain 400 life.","Blessings are granted to those of great faith. Even if they may be a horse.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3989","Holy Steed of Faith","http://d12h0em1d7ppg.cloudfront.net/items/39/3989/image_en/5fa8fcbc-c90c-4c21-b5ba-3a244f47c4fd.jpg","AOA-008","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1000 / 1000","Resonator","Heroic Spirit","tokiwa","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3989","Holy Steed of Faith","http://d12h0em1d7ppg.cloudfront.net/items/39/3989/image_en/5fa8fcbc-c90c-4c21-b5ba-3a244f47c4fd.jpg","AOA-008","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1000 / 1000","Resonator","Heroic Spirit","tokiwa","Awakening of the Ancients","Card Text
+Automatic
 Whenever a resonator you control attacks ⇒ You gain 400 life.","Blessings are granted to those of great faith. Even if they may be a horse.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3990","Kara, Valkyrie of the Red Lance","http://d12h0em1d7ppg.cloudfront.net/items/39/3990/image_en/39425d72-be0e-4bce-95e9-1d520ba5f442.jpg","AOA-009","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Valkyrie","KAZTO FURUYA","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/3990","Kara, Valkyrie of the Red Lance","http://d12h0em1d7ppg.cloudfront.net/items/39/3990/image_en/39425d72-be0e-4bce-95e9-1d520ba5f442.jpg","AOA-009","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 400","Resonator","Valkyrie","KAZTO FURUYA","Awakening of the Ancients","Card Text
+Activate
+[w]: This card gains [Flying] and [First Strike] until end of turn.
+Activate
 [r]: This card gains [+200/+200] until end of turn.","She will do anything to see her lord's ambitions through.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3991","Linorsphairia, Vast Land Above the Clouds","http://d12h0em1d7ppg.cloudfront.net/items/39/3991/image_en/539f6612-21f4-4e8d-b934-671188c6cc97.jpg","AOA-010","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","Ancient Ruins","mita kura","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3991","Linorsphairia, Vast Land Above the Clouds","http://d12h0em1d7ppg.cloudfront.net/items/39/3991/image_en/539f6612-21f4-4e8d-b934-671188c6cc97.jpg","AOA-010","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","Ancient Ruins","mita kura","Awakening of the Ancients","Card Text
+Automatic
 At the beginning of you main phase ⇒ Produce [w]. If there are four or more runes revealed from your rune area, produce [w][w] instead.","In the last moments of the war, the spirits of Linorsphairia cut off the land from that world and brought it to this one.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3991","Linorsphairia, Vast Land Above the Clouds","http://d12h0em1d7ppg.cloudfront.net/items/39/3991/image_en/539f6612-21f4-4e8d-b934-671188c6cc97.jpg","AOA-010","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","Ancient Ruins","mita kura","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/3991","Linorsphairia, Vast Land Above the Clouds","http://d12h0em1d7ppg.cloudfront.net/items/39/3991/image_en/539f6612-21f4-4e8d-b934-671188c6cc97.jpg","AOA-010","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Addition","Ancient Ruins","mita kura","Awakening of the Ancients","Card Text
+Automatic
 At the beginning of you main phase ⇒ Produce [w]. If there are four or more runes revealed from your rune area, produce [w][w] instead.","In the last moments of the war, the spirits of Linorsphairia cut off the land from that world and brought it to this one.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3992","Moonlight Nocturne","http://d12h0em1d7ppg.cloudfront.net/items/39/3992/image_en/d2dea38f-cca1-41c9-92c6-e88a9c8492e5.jpg","AOA-011","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 0","Chant/Rune(Divinity 2)","","Saiko Takaki","Awakening of the Ancients","","""Lalalala〜♪ Hm? I'm out of tune?"" -Ayu","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3992","Moonlight Nocturne","http://d12h0em1d7ppg.cloudfront.net/items/39/3992/image_en/d2dea38f-cca1-41c9-92c6-e88a9c8492e5.jpg","AOA-011","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant/Rune(Divinity 2)","","Saiko Takaki","Awakening of the Ancients","","""Lalalala〜♪ Hm? I'm out of tune?"" -Ayu","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3993","Priest of Minerva","http://d12h0em1d7ppg.cloudfront.net/items/39/3993/image_en/8795d01c-2cb7-40b0-9a62-399b8da33ac3.jpg","AOA-012","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","500 / 700","Resonator","Human","Nakaba Higurashi","Awakening of the Ancients","","""Lord Odin shall inevitably return to bestow victory and glory to Minerva.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3993","Priest of Minerva","http://d12h0em1d7ppg.cloudfront.net/items/39/3993/image_en/8795d01c-2cb7-40b0-9a62-399b8da33ac3.jpg","AOA-012","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 700","Resonator","Human","Nakaba Higurashi","Awakening of the Ancients","","""Lord Odin shall inevitably return to bestow victory and glory to Minerva.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3994","Sapling of the Treasure Tree","http://d12h0em1d7ppg.cloudfront.net/items/39/3994/image_en/075961d2-c89e-4896-b144-e36c44961021.jpg","AOA-013","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 100","Resonator","Treasury Item","Kusanagi Tyouen","Awakening of the Ancients","Activate
-[Rest], discard a card, remove this card from the game: Produce [w][w][w].","The wills of many have coalesced over the years, giving birth to the treasure tree.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3995","Shower of Light Blades","http://d12h0em1d7ppg.cloudfront.net/items/39/3995/image_en/594feda4-dad2-4612-ba73-ade79c4b6dbc.jpg","AOA-014","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant/Rune(Divinity 2)","","Retro","Awakening of the Ancients","","The blades of light pour from above, turning their target into pieces in a dazzlement of light.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3995","Shower of Light Blades","http://d12h0em1d7ppg.cloudfront.net/items/39/3995/image_en/594feda4-dad2-4612-ba73-ade79c4b6dbc.jpg","AOA-014","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant/Rune(Divinity 2)","","Retro","Awakening of the Ancients","","The blades of light pour from above, turning their target into pieces in a dazzlement of light.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3995","Shower of Light Blades","http://d12h0em1d7ppg.cloudfront.net/items/39/3995/image_en/594feda4-dad2-4612-ba73-ade79c4b6dbc.jpg","AOA-014","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 2)","","Retro","Awakening of the Ancients","","The blades of light pour from above, turning their target into pieces in a dazzlement of light.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3996","Snow of Linorsphairia","http://d12h0em1d7ppg.cloudfront.net/items/39/3996/image_en/9af75908-94f4-4020-b739-7860dd66ab18.jpg","AOA-015","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","mita kura","Awakening of the Ancients","","Wrapping all of life in its embrace, the light of Linorsphairia.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3996","Snow of Linorsphairia","http://d12h0em1d7ppg.cloudfront.net/items/39/3996/image_en/9af75908-94f4-4020-b739-7860dd66ab18.jpg","AOA-015","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","","mita kura","Awakening of the Ancients","","Wrapping all of life in its embrace, the light of Linorsphairia.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3997","Soul Resonance","http://d12h0em1d7ppg.cloudfront.net/items/39/3997/image_en/17ab358a-2a5e-49d3-9642-0c018b229ff0.jpg","AOA-016","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 0","Chant/Rune(Divinity 1)","","hatarisu","Awakening of the Ancients","","""To the warrior spirits resting within this earth... I shall free your souls now."" -Misteltein, the Pious Sword Saint","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3997","Soul Resonance","http://d12h0em1d7ppg.cloudfront.net/items/39/3997/image_en/17ab358a-2a5e-49d3-9642-0c018b229ff0.jpg","AOA-016","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant/Rune(Divinity 1)","","hatarisu","Awakening of the Ancients","","""To the warrior spirits resting within this earth... I shall free your souls now."" -Misteltein, the Pious Sword Saint","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3998","Spirit of Cloud","http://d12h0em1d7ppg.cloudfront.net/items/39/3998/image_en/7795b8d2-ad1a-48af-8e6a-ad27416db56c.jpg","AOA-017","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 600","Resonator","Spirit","Haruichi Kido","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3992","Moonlight Nocturne","http://d12h0em1d7ppg.cloudfront.net/items/39/3992/image_en/d2dea38f-cca1-41c9-92c6-e88a9c8492e5.jpg","AOA-011","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 0","Chant/Rune(Divinity 2)","","Saiko Takaki","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [w] more to play this card from a rune area.
+Return target rested resonator to its owner's hand. Foresee 2.","""Lalalala〜♪ Hm? I'm out of tune?"" -Ayu","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3992","Moonlight Nocturne","http://d12h0em1d7ppg.cloudfront.net/items/39/3992/image_en/d2dea38f-cca1-41c9-92c6-e88a9c8492e5.jpg","AOA-011","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant/Rune(Divinity 2)","","Saiko Takaki","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [w] more to play this card from a rune area.
+Return target rested resonator to its owner's hand. Foresee 2.","""Lalalala〜♪ Hm? I'm out of tune?"" -Ayu","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3993","Priest of Minerva","http://d12h0em1d7ppg.cloudfront.net/items/39/3993/image_en/8795d01c-2cb7-40b0-9a62-399b8da33ac3.jpg","AOA-012","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","500 / 700","Resonator","Human","Nakaba Higurashi","Awakening of the Ancients","Card Text
+[Rune]2 - [Enter] ⇒ You gain 500 life.","""Lord Odin shall inevitably return to bestow victory and glory to Minerva.""","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3993","Priest of Minerva","http://d12h0em1d7ppg.cloudfront.net/items/39/3993/image_en/8795d01c-2cb7-40b0-9a62-399b8da33ac3.jpg","AOA-012","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 700","Resonator","Human","Nakaba Higurashi","Awakening of the Ancients","Card Text
+[Rune]2 - [Enter] ⇒ You gain 500 life.","""Lord Odin shall inevitably return to bestow victory and glory to Minerva.""","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3994","Sapling of the Treasure Tree","http://d12h0em1d7ppg.cloudfront.net/items/39/3994/image_en/075961d2-c89e-4896-b144-e36c44961021.jpg","AOA-013","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 100","Resonator","Treasury Item","Kusanagi Tyouen","Awakening of the Ancients","Card Text
+Activate
+[Rest], discard a card, remove this card from the game: Produce [w][w][w].
+[w], banish this card: Destroy target addition.","The wills of many have coalesced over the years, giving birth to the treasure tree.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3995","Shower of Light Blades","http://d12h0em1d7ppg.cloudfront.net/items/39/3995/image_en/594feda4-dad2-4612-ba73-ade79c4b6dbc.jpg","AOA-014","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant/Rune(Divinity 2)","","Retro","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [1] more to play this card from a rune area.
+Destroy target attacking or blocking resonator.","The blades of light pour from above, turning their target into pieces in a dazzlement of light.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3995","Shower of Light Blades","http://d12h0em1d7ppg.cloudfront.net/items/39/3995/image_en/594feda4-dad2-4612-ba73-ade79c4b6dbc.jpg","AOA-014","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant/Rune(Divinity 2)","","Retro","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [1] more to play this card from a rune area.
+Destroy target attacking or blocking resonator.","The blades of light pour from above, turning their target into pieces in a dazzlement of light.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3995","Shower of Light Blades","http://d12h0em1d7ppg.cloudfront.net/items/39/3995/image_en/594feda4-dad2-4612-ba73-ade79c4b6dbc.jpg","AOA-014","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 2)","","Retro","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [1] more to play this card from a rune area.
+Destroy target attacking or blocking resonator.","The blades of light pour from above, turning their target into pieces in a dazzlement of light.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3996","Snow of Linorsphairia","http://d12h0em1d7ppg.cloudfront.net/items/39/3996/image_en/9af75908-94f4-4020-b739-7860dd66ab18.jpg","AOA-015","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant","","mita kura","Awakening of the Ancients","Card Text
+[Quickcast]
+If damage would be dealt to resonators you control this turn, prevent 200 of it. Draw a card.","Wrapping all of life in its embrace, the light of Linorsphairia.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3996","Snow of Linorsphairia","http://d12h0em1d7ppg.cloudfront.net/items/39/3996/image_en/9af75908-94f4-4020-b739-7860dd66ab18.jpg","AOA-015","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","","mita kura","Awakening of the Ancients","Card Text
+[Quickcast]
+If damage would be dealt to resonators you control this turn, prevent 200 of it. Draw a card.","Wrapping all of life in its embrace, the light of Linorsphairia.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3997","Soul Resonance","http://d12h0em1d7ppg.cloudfront.net/items/39/3997/image_en/17ab358a-2a5e-49d3-9642-0c018b229ff0.jpg","AOA-016","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 0","Chant/Rune(Divinity 1)","","hatarisu","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+Choose one - Put target resonator from your graveyard into your hand; or put up to three target Heroic Spirit resonators from your graveyard into your hand.","""To the warrior spirits resting within this earth... I shall free your souls now."" -Misteltein, the Pious Sword Saint","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3997","Soul Resonance","http://d12h0em1d7ppg.cloudfront.net/items/39/3997/image_en/17ab358a-2a5e-49d3-9642-0c018b229ff0.jpg","AOA-016","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant/Rune(Divinity 1)","","hatarisu","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+Choose one - Put target resonator from your graveyard into your hand; or put up to three target Heroic Spirit resonators from your graveyard into your hand.","""To the warrior spirits resting within this earth... I shall free your souls now."" -Misteltein, the Pious Sword Saint","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3998","Spirit of Cloud","http://d12h0em1d7ppg.cloudfront.net/items/39/3998/image_en/7795b8d2-ad1a-48af-8e6a-ad27416db56c.jpg","AOA-017","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","400 / 600","Resonator","Spirit","Haruichi Kido","Awakening of the Ancients","Card Text
+[Flying]
+Continuous
 Prevent all damage that would be dealt to this card by resonators during your opponent's turn.","Try to catch cloud, all you will find is thin air.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3998","Spirit of Cloud","http://d12h0em1d7ppg.cloudfront.net/items/39/3998/image_en/7795b8d2-ad1a-48af-8e6a-ad27416db56c.jpg","AOA-017","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","400 / 600","Resonator","Spirit","Haruichi Kido","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3998","Spirit of Cloud","http://d12h0em1d7ppg.cloudfront.net/items/39/3998/image_en/7795b8d2-ad1a-48af-8e6a-ad27416db56c.jpg","AOA-017","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","400 / 600","Resonator","Spirit","Haruichi Kido","Awakening of the Ancients","Card Text
+[Flying]
+Continuous
 Prevent all damage that would be dealt to this card by resonators during your opponent's turn.","Try to catch cloud, all you will find is thin air.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3999","Traveler in the Sea of Clouds","http://d12h0em1d7ppg.cloudfront.net/items/39/3999/image_en/f6a15a52-d358-427c-93c2-7fd95ea3e7a0.jpg","AOA-018","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant/Master Rune(Divinity 2)","","SO","Awakening of the Ancients","","""Fortune favors the brave! Now, let's go, let's go!"" -Ayu","Awakening of the Ancients"
-"http://www.fowtcg.com/card/3999","Traveler in the Sea of Clouds","http://d12h0em1d7ppg.cloudfront.net/items/39/3999/image_en/f6a15a52-d358-427c-93c2-7fd95ea3e7a0.jpg","AOA-018","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","","Chant/Master Rune(Divinity 2)","","SO","Awakening of the Ancients","","""Fortune favors the brave! Now, let's go, let's go!"" -Ayu","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4000","Volley","http://d12h0em1d7ppg.cloudfront.net/items/40/4000/image_en/e52c1c66-29ad-4e23-9325-e952579f039d.jpg","AOA-019","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 0","Chant","","jugemt","Awakening of the Ancients","","""Show them no mercy. Fire!"" -Brunhild","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4001","Yggnitsvay, Spirit of Laurel","http://d12h0em1d7ppg.cloudfront.net/items/40/4001/image_en/aac56e82-0a9b-4b55-b7b0-37c765f9eaad.jpg","AOA-020","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Spirit","ShiroYayoi","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/3999","Traveler in the Sea of Clouds","http://d12h0em1d7ppg.cloudfront.net/items/39/3999/image_en/f6a15a52-d358-427c-93c2-7fd95ea3e7a0.jpg","AOA-018","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","","Chant/Master Rune(Divinity 2)","","SO","Awakening of the Ancients","Card Text
+You may pay [3] less to play this card if your J/ruler is ""Atom Seikhart"" or ""Atom Seikhart, the Shimmering Rabbit"".
+Look at the top three cards of your deck. Reveal any number of resonators with different total cost from among them and put them into your hand. Put the rest on the bottom of your deck in a random order. If this card was awakened, you may put them into the field instead. (If there are resonators with total cost 1, 2, and 2, you may reveal a 1 and a 2.)
+[Awakening][w][w][2]","""Fortune favors the brave! Now, let's go, let's go!"" -Ayu","Awakening of the Ancients"
+"http://www.fowtcg.com/card/3999","Traveler in the Sea of Clouds","http://d12h0em1d7ppg.cloudfront.net/items/39/3999/image_en/f6a15a52-d358-427c-93c2-7fd95ea3e7a0.jpg","AOA-018","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","","Chant/Master Rune(Divinity 2)","","SO","Awakening of the Ancients","-''-","""Fortune favors the brave! Now, let's go, let's go!"" -Ayu","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4000","Volley","http://d12h0em1d7ppg.cloudfront.net/items/40/4000/image_en/e52c1c66-29ad-4e23-9325-e952579f039d.jpg","AOA-019","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","0 / 0","Chant","","jugemt","Awakening of the Ancients","Card Text
+[Quickcast]
+This card deals 300 damage multiplied by the number of resonators you control to target J/resonator.","""Show them no mercy. Fire!"" -Brunhild","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4001","Yggnitsvay, Spirit of Laurel","http://d12h0em1d7ppg.cloudfront.net/items/40/4001/image_en/aac56e82-0a9b-4b55-b7b0-37c765f9eaad.jpg","AOA-020","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Spirit","ShiroYayoi","Awakening of the Ancients","Card Text
+Automatic
+Whenever you play a resonator spell ⇒ This card gains [+400/+400] until end of turn. This ability triggers only once per turn.
+Continuous
 This card gains [Drain] as long as you control seven or more light magic stones.","""Where am I? My, what a lovely moon.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4001","Yggnitsvay, Spirit of Laurel","http://d12h0em1d7ppg.cloudfront.net/items/40/4001/image_en/aac56e82-0a9b-4b55-b7b0-37c765f9eaad.jpg","AOA-020","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Spirit","ShiroYayoi","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4001","Yggnitsvay, Spirit of Laurel","http://d12h0em1d7ppg.cloudfront.net/items/40/4001/image_en/aac56e82-0a9b-4b55-b7b0-37c765f9eaad.jpg","AOA-020","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/white.png","800 / 800","Resonator","Spirit","ShiroYayoi","Awakening of the Ancients","Card Text
+Automatic
+Whenever you play a resonator spell ⇒ This card gains [+400/+400] until end of turn. This ability triggers only once per turn.
+Continuous
 This card gains [Drain] as long as you control seven or more light magic stones.","""Where am I? My, what a lovely moon.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4001","Yggnitsvay, Spirit of Laurel","http://d12h0em1d7ppg.cloudfront.net/items/40/4001/image_en/aac56e82-0a9b-4b55-b7b0-37c765f9eaad.jpg","AOA-020","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 800","Resonator","Spirit","ShiroYayoi","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4001","Yggnitsvay, Spirit of Laurel","http://d12h0em1d7ppg.cloudfront.net/items/40/4001/image_en/aac56e82-0a9b-4b55-b7b0-37c765f9eaad.jpg","AOA-020","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 800","Resonator","Spirit","ShiroYayoi","Awakening of the Ancients","Card Text
+Automatic
+Whenever you play a resonator spell ⇒ This card gains [+400/+400] until end of turn. This ability triggers only once per turn.
+Continuous
 This card gains [Drain] as long as you control seven or more light magic stones.","""Where am I? My, what a lovely moon.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4002","Asakna Training Grounds","http://d12h0em1d7ppg.cloudfront.net/items/40/4002/image_en/becb5ce9-6f1a-4ebb-9be2-557966818369.jpg","AOA-021","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Addition","Ancient Ruins","Kakiken","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4002","Asakna Training Grounds","http://d12h0em1d7ppg.cloudfront.net/items/40/4002/image_en/becb5ce9-6f1a-4ebb-9be2-557966818369.jpg","AOA-021","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Addition","Ancient Ruins","Kakiken","Awakening of the Ancients","Card Text
+Activate
 [Rest]: Put a [+100/+100] counter on target fire resonator.","Asakna was once a city of many brave warriors. It now stands forgotten by the world.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4002","Asakna Training Grounds","http://d12h0em1d7ppg.cloudfront.net/items/40/4002/image_en/becb5ce9-6f1a-4ebb-9be2-557966818369.jpg","AOA-021","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Addition","Ancient Ruins","Kakiken","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4002","Asakna Training Grounds","http://d12h0em1d7ppg.cloudfront.net/items/40/4002/image_en/becb5ce9-6f1a-4ebb-9be2-557966818369.jpg","AOA-021","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Addition","Ancient Ruins","Kakiken","Awakening of the Ancients","Card Text
+Activate
 [Rest]: Put a [+100/+100] counter on target fire resonator.","Asakna was once a city of many brave warriors. It now stands forgotten by the world.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4003","Bird of Scorching Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4003/image_en/ecc20360-c8ef-4d8b-a0c9-893ab1851431.jpg","AOA-022","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 900","Resonator","Sand/Beast","Haruki Komai","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4003","Bird of Scorching Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4003/image_en/ecc20360-c8ef-4d8b-a0c9-893ab1851431.jpg","AOA-022","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1000 / 900","Resonator","Sand/Beast","Haruki Komai","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Banish a fire magic stone.","These birds are sometimes used within the palace to transport hot foods.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4003","Bird of Scorching Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4003/image_en/ecc20360-c8ef-4d8b-a0c9-893ab1851431.jpg","AOA-022","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1000 / 900","Resonator","Sand/Beast","Haruki Komai","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4003","Bird of Scorching Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4003/image_en/ecc20360-c8ef-4d8b-a0c9-893ab1851431.jpg","AOA-022","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1000 / 900","Resonator","Sand/Beast","Haruki Komai","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Banish a fire magic stone.","These birds are sometimes used within the palace to transport hot foods.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4004","Contract Forged in Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4004/image_en/d749ca05-63fb-4468-863a-0096f7b5ccf0.jpg","AOA-023","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant/Rune(Divinity 2)","","Nagi-nyan","Awakening of the Ancients","","""Contract complete. I'll make sure to work you to death, and then some."" -Nyarlathotep, the Return of Chaos","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4004","Contract Forged in Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4004/image_en/d749ca05-63fb-4468-863a-0096f7b5ccf0.jpg","AOA-023","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant/Rune(Divinity 2)","","Nagi-nyan","Awakening of the Ancients","","""Contract complete. I'll make sure to work you to death, and then some."" -Nyarlathotep, the Return of Chaos","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4004","Contract Forged in Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4004/image_en/d749ca05-63fb-4468-863a-0096f7b5ccf0.jpg","AOA-023","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 2)","","Nagi-nyan","Awakening of the Ancients","","""Contract complete. I'll make sure to work you to death, and then some."" -Nyarlathotep, the Return of Chaos","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4005","Flame Dragon Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4005/image_en/fb707424-7319-4f12-838a-3eedcb55288d.jpg","AOA-024","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant/Rune(Divinity 2)","","Kotakan","Awakening of the Ancients","","""The one to govern this world shall be me."" -Fu Xi","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4005","Flame Dragon Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4005/image_en/fb707424-7319-4f12-838a-3eedcb55288d.jpg","AOA-024","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant/Rune(Divinity 2)","","Kotakan","Awakening of the Ancients","","""The one to govern this world shall be me."" -Fu Xi","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4005","Flame Dragon Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4005/image_en/fb707424-7319-4f12-838a-3eedcb55288d.jpg","AOA-024","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","0 / 0","Chant/Rune(Divinity 2)","","Kotakan","Awakening of the Ancients","","""The one to govern this world shall be me."" -Fu Xi","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4006","Ghost of Asakna","http://d12h0em1d7ppg.cloudfront.net/items/40/4006/image_en/6e6c2a00-52a5-4e1a-a5b6-c5425cb0b1bc.jpg","AOA-025","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1200 / 1000","Resonator","Heroic Spirit","yuko","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4004","Contract Forged in Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4004/image_en/d749ca05-63fb-4468-863a-0096f7b5ccf0.jpg","AOA-023","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant/Rune(Divinity 2)","","Nagi-nyan","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+As an additional cost to play this card, banish a resonator.
+Recover target resonator. It gains [+400/+400] until end of turn.","""Contract complete. I'll make sure to work you to death, and then some."" -Nyarlathotep, the Return of Chaos","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4004","Contract Forged in Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4004/image_en/d749ca05-63fb-4468-863a-0096f7b5ccf0.jpg","AOA-023","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant/Rune(Divinity 2)","","Nagi-nyan","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+As an additional cost to play this card, banish a resonator.
+Recover target resonator. It gains [+400/+400] until end of turn.","""Contract complete. I'll make sure to work you to death, and then some."" -Nyarlathotep, the Return of Chaos","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4004","Contract Forged in Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4004/image_en/d749ca05-63fb-4468-863a-0096f7b5ccf0.jpg","AOA-023","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 2)","","Nagi-nyan","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+As an additional cost to play this card, banish a resonator.
+Recover target resonator. It gains [+400/+400] until end of turn.","""Contract complete. I'll make sure to work you to death, and then some."" -Nyarlathotep, the Return of Chaos","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4005","Flame Dragon Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4005/image_en/fb707424-7319-4f12-838a-3eedcb55288d.jpg","AOA-024","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant/Rune(Divinity 2)","","Kotakan","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+This card deals 800 damage to target J/resonator. Search your deck for a Dragon with total cost 5 or less and put it into the field. Then shuffle your deck.","""The one to govern this world shall be me."" -Fu Xi","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4005","Flame Dragon Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4005/image_en/fb707424-7319-4f12-838a-3eedcb55288d.jpg","AOA-024","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant/Rune(Divinity 2)","","Kotakan","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+This card deals 800 damage to target J/resonator. Search your deck for a Dragon with total cost 5 or less and put it into the field. Then shuffle your deck.","""The one to govern this world shall be me."" -Fu Xi","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4005","Flame Dragon Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4005/image_en/fb707424-7319-4f12-838a-3eedcb55288d.jpg","AOA-024","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","0 / 0","Chant/Rune(Divinity 2)","","Kotakan","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+This card deals 800 damage to target J/resonator. Search your deck for a Dragon with total cost 5 or less and put it into the field. Then shuffle your deck.","""The one to govern this world shall be me."" -Fu Xi","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4006","Ghost of Asakna","http://d12h0em1d7ppg.cloudfront.net/items/40/4006/image_en/6e6c2a00-52a5-4e1a-a5b6-c5425cb0b1bc.jpg","AOA-025","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1200 / 1000","Resonator","Heroic Spirit","yuko","Awakening of the Ancients","Card Text
+Automatic
 When this card is targeted by a spell ⇒ Banish it.","Unsatisfied with their battles in life, this Asakna soldier walks again.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4006","Ghost of Asakna","http://d12h0em1d7ppg.cloudfront.net/items/40/4006/image_en/6e6c2a00-52a5-4e1a-a5b6-c5425cb0b1bc.jpg","AOA-025","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1200 / 1000","Resonator","Heroic Spirit","yuko","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4006","Ghost of Asakna","http://d12h0em1d7ppg.cloudfront.net/items/40/4006/image_en/6e6c2a00-52a5-4e1a-a5b6-c5425cb0b1bc.jpg","AOA-025","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1200 / 1000","Resonator","Heroic Spirit","yuko","Awakening of the Ancients","Card Text
+Automatic
 When this card is targeted by a spell ⇒ Banish it.","Unsatisfied with their battles in life, this Asakna soldier walks again.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4007","Isis' Elite Guard","http://d12h0em1d7ppg.cloudfront.net/items/40/4007/image_en/476c36b3-de7d-410d-9a95-865aa9557bb0.jpg","AOA-026","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 500","Resonator","Human","Yuko Nagasaki","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4007","Isis' Elite Guard","http://d12h0em1d7ppg.cloudfront.net/items/40/4007/image_en/476c36b3-de7d-410d-9a95-865aa9557bb0.jpg","AOA-026","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 500","Resonator","Human","Yuko Nagasaki","Awakening of the Ancients","Card Text
+Continuous
 This card gains [0/+300] and [Swiftness] as long as you control two or more other resonators.","Isis is always accompanied by her guards. Strangely enough, their main duty is to stop Isis from getting into trouble.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4007","Isis' Elite Guard","http://d12h0em1d7ppg.cloudfront.net/items/40/4007/image_en/476c36b3-de7d-410d-9a95-865aa9557bb0.jpg","AOA-026","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 500","Resonator","Human","Yuko Nagasaki","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4007","Isis' Elite Guard","http://d12h0em1d7ppg.cloudfront.net/items/40/4007/image_en/476c36b3-de7d-410d-9a95-865aa9557bb0.jpg","AOA-026","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 500","Resonator","Human","Yuko Nagasaki","Awakening of the Ancients","Card Text
+Continuous
 This card gains [0/+300] and [Swiftness] as long as you control two or more other resonators.","Isis is always accompanied by her guards. Strangely enough, their main duty is to stop Isis from getting into trouble.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4008","Kanna, Descendent of the Oracle","http://d12h0em1d7ppg.cloudfront.net/items/40/4008/image_en/d7f32425-424b-4b88-99b3-b352042ea337.jpg","AOA-027","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 800","Resonator","Human","Azuza","Awakening of the Ancients","Automatic
-[Enter] ⇒ Target resonator gains [+400/0] until end of turn.","The name ""Kanna"" is passed down through the generations. Along with the duty of guarding the sealed god.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4008","Kanna, Descendent of the Oracle","http://d12h0em1d7ppg.cloudfront.net/items/40/4008/image_en/d7f32425-424b-4b88-99b3-b352042ea337.jpg","AOA-027","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 800","Resonator","Human","Azuza","Awakening of the Ancients","Automatic
-[Enter] ⇒ Target resonator gains [+400/0] until end of turn.","The name ""Kanna"" is passed down through the generations. Along with the duty of guarding the sealed god.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4008","Kanna, Descendent of the Oracle","http://d12h0em1d7ppg.cloudfront.net/items/40/4008/image_en/d7f32425-424b-4b88-99b3-b352042ea337.jpg","AOA-027","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 800","Resonator","Human","Azuza","Awakening of the Ancients","Automatic
-[Enter] ⇒ Target resonator gains [+400/0] until end of turn.","The name ""Kanna"" is passed down through the generations. Along with the duty of guarding the sealed god.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4009","Kanna's Attendant","http://d12h0em1d7ppg.cloudfront.net/items/40/4009/image_en/e8227b50-9cb9-4eba-9ef3-ef8dc2e0e53b.jpg","AOA-028","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","300 / 300","Resonator","Human","KAZTO FURUYA","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4008","Kanna, Descendent of the Oracle","http://d12h0em1d7ppg.cloudfront.net/items/40/4008/image_en/d7f32425-424b-4b88-99b3-b352042ea337.jpg","AOA-027","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 800","Resonator","Human","Azuza","Awakening of the Ancients","Card Text
+Continuous
+You may pay [r][r] less to play this card as long as you control five or more fire magic stones.
+Automatic
+[Enter] ⇒ Target resonator gains [+400/0] until end of turn.
+[Rune]4 - [Swiftness]","The name ""Kanna"" is passed down through the generations. Along with the duty of guarding the sealed god.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4008","Kanna, Descendent of the Oracle","http://d12h0em1d7ppg.cloudfront.net/items/40/4008/image_en/d7f32425-424b-4b88-99b3-b352042ea337.jpg","AOA-027","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 800","Resonator","Human","Azuza","Awakening of the Ancients","Card Text
+Continuous
+You may pay [r][r] less to play this card as long as you control five or more fire magic stones.
+Automatic
+[Enter] ⇒ Target resonator gains [+400/0] until end of turn.
+[Rune]4 - [Swiftness]","The name ""Kanna"" is passed down through the generations. Along with the duty of guarding the sealed god.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4008","Kanna, Descendent of the Oracle","http://d12h0em1d7ppg.cloudfront.net/items/40/4008/image_en/d7f32425-424b-4b88-99b3-b352042ea337.jpg","AOA-027","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 800","Resonator","Human","Azuza","Awakening of the Ancients","Card Text
+Continuous
+You may pay [r][r] less to play this card as long as you control five or more fire magic stones.
+Automatic
+[Enter] ⇒ Target resonator gains [+400/0] until end of turn.
+[Rune]4 - [Swiftness]","The name ""Kanna"" is passed down through the generations. Along with the duty of guarding the sealed god.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4009","Kanna's Attendant","http://d12h0em1d7ppg.cloudfront.net/items/40/4009/image_en/e8227b50-9cb9-4eba-9ef3-ef8dc2e0e53b.jpg","AOA-028","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","300 / 300","Resonator","Human","KAZTO FURUYA","Awakening of the Ancients","Card Text
+Activate
 [Rest]: Target fire resonator gains [+200/+200] until end of turn. If it's ""Kanna, Descendent of the Oracle"", it also gains [Swiftness] and [Precision].","""Ms. Zhuge Liang. We've been expecting you. Please, come right this way.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4010","Mind Like Still Water","http://d12h0em1d7ppg.cloudfront.net/items/40/4010/image_en/69c1920f-ed1f-4fab-ad3e-120452f6e12b.jpg","AOA-029","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant/Rune(Divinity 1)","","Mad","Awakening of the Ancients","","A body can be forged in months. To temper the mind takes years of patience.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4011","Moon of Crimson Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4011/image_en/c9e41cae-44b5-4538-a4fd-1b6cc9b11433.jpg","AOA-030","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","100 / 1500","Resonator","Sand/Moon","haniwa","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4010","Mind Like Still Water","http://d12h0em1d7ppg.cloudfront.net/items/40/4010/image_en/69c1920f-ed1f-4fab-ad3e-120452f6e12b.jpg","AOA-029","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant/Rune(Divinity 1)","","Mad","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [1] more to play this card from a rune area.
+Target resonator gains [Barrier](Chant) until end of turn.","A body can be forged in months. To temper the mind takes years of patience.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4011","Moon of Crimson Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4011/image_en/c9e41cae-44b5-4538-a4fd-1b6cc9b11433.jpg","AOA-030","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","100 / 1500","Resonator","Sand/Moon","haniwa","Awakening of the Ancients","Card Text
+Activate
+[r]: This card gains [Flying] until end of turn.
+Automatic
 When this card leaves the field ⇒ It deals 300 damage multiplied by the number of fire magic stones you control to each resonator.","""Scatter about, moon of chaos."" -Nyarlathotep, the Return of Chaos","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4011","Moon of Crimson Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4011/image_en/c9e41cae-44b5-4538-a4fd-1b6cc9b11433.jpg","AOA-030","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","100 / 1500","Resonator","Sand/Moon","haniwa","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4011","Moon of Crimson Sand","http://d12h0em1d7ppg.cloudfront.net/items/40/4011/image_en/c9e41cae-44b5-4538-a4fd-1b6cc9b11433.jpg","AOA-030","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","100 / 1500","Resonator","Sand/Moon","haniwa","Awakening of the Ancients","Card Text
+Activate
+[r]: This card gains [Flying] until end of turn.
+Automatic
 When this card leaves the field ⇒ It deals 300 damage multiplied by the number of fire magic stones you control to each resonator.","""Scatter about, moon of chaos."" -Nyarlathotep, the Return of Chaos","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4012","Mountain Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4012/image_en/b38be8f6-11e5-4b76-a9dd-7b16290432bc.jpg","AOA-031","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 1500","Resonator","Dragon","gozz","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4012","Mountain Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4012/image_en/b38be8f6-11e5-4b76-a9dd-7b16290432bc.jpg","AOA-031","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 1500","Resonator","Dragon","gozz","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.","""Nothing is bigger than a mountain. That's my strategy."" -Zhuge Liang","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4012","Mountain Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4012/image_en/b38be8f6-11e5-4b76-a9dd-7b16290432bc.jpg","AOA-031","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 1500","Resonator","Dragon","gozz","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4012","Mountain Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4012/image_en/b38be8f6-11e5-4b76-a9dd-7b16290432bc.jpg","AOA-031","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","2000 / 1500","Resonator","Dragon","gozz","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.","""Nothing is bigger than a mountain. That's my strategy."" -Zhuge Liang","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4012","Mountain Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4012/image_en/b38be8f6-11e5-4b76-a9dd-7b16290432bc.jpg","AOA-031","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","2000 / 1500","Resonator","Dragon","gozz","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4012","Mountain Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4012/image_en/b38be8f6-11e5-4b76-a9dd-7b16290432bc.jpg","AOA-031","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","2000 / 1500","Resonator","Dragon","gozz","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ This card deals 200 damage multiplied by the number of fire magic stones you control to target resonator.","""Nothing is bigger than a mountain. That's my strategy."" -Zhuge Liang","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4013","Nyarlathotep, the Return of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4013/image_en/baee07d5-5477-4e25-88e2-abf5209b2d20.jpg","AOA-032","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 500","Resonator","Cthulhu/Wanderer","yuko","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4013","Nyarlathotep, the Return of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4013/image_en/baee07d5-5477-4e25-88e2-abf5209b2d20.jpg","AOA-032","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 500","Resonator","Cthulhu/Wanderer","yuko","Awakening of the Ancients","Card Text
+Continuous
+You may play this card from your removed area.
+Continuous
+You pay [1] more to play this card from your removed area.
+Activate
+[Rest], remove this card from the game: Draw a card.
+Activate
 [r][r], remove this card in your graveyard from the game, banish a fire magic stone: Destroy target resonator.","""Just like truth and fiction, order and chaos will always contradict. So don't go counting me out, I'll always be there when you least expect it... It's no lie you know!""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4013","Nyarlathotep, the Return of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4013/image_en/baee07d5-5477-4e25-88e2-abf5209b2d20.jpg","AOA-032","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 500","Resonator","Cthulhu/Wanderer","yuko","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4013","Nyarlathotep, the Return of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4013/image_en/baee07d5-5477-4e25-88e2-abf5209b2d20.jpg","AOA-032","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","500 / 500","Resonator","Cthulhu/Wanderer","yuko","Awakening of the Ancients","Card Text
+Continuous
+You may play this card from your removed area.
+Continuous
+You pay [1] more to play this card from your removed area.
+Activate
+[Rest], remove this card from the game: Draw a card.
+Activate
 [r][r], remove this card in your graveyard from the game, banish a fire magic stone: Destroy target resonator.","""Just like truth and fiction, order and chaos will always contradict. So don't go counting me out, I'll always be there when you least expect it... It's no lie you know!""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4014","Sand Upheaval","http://d12h0em1d7ppg.cloudfront.net/items/40/4014/image_en/cafb0652-ce2d-4d7e-8eb2-6d02ed8ea5ad.jpg","AOA-033","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant","","SIE NANAHARA","Awakening of the Ancients","","""Fly away!"" -Shu, Ruler of Air","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4014","Sand Upheaval","http://d12h0em1d7ppg.cloudfront.net/items/40/4014/image_en/cafb0652-ce2d-4d7e-8eb2-6d02ed8ea5ad.jpg","AOA-033","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant","","SIE NANAHARA","Awakening of the Ancients","","""Fly away!"" -Shu, Ruler of Air","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4014","Sand Upheaval","http://d12h0em1d7ppg.cloudfront.net/items/40/4014/image_en/cafb0652-ce2d-4d7e-8eb2-6d02ed8ea5ad.jpg","AOA-033","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","0 / 0","Chant","","SIE NANAHARA","Awakening of the Ancients","","""Fly away!"" -Shu, Ruler of Air","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4015","Shadow of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4015/image_en/f94a1a07-7c7c-48d9-8948-5e1e4c432afc.jpg","AOA-034","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","300 / 300","Resonator","Cthulhu","Shosuke","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4014","Sand Upheaval","http://d12h0em1d7ppg.cloudfront.net/items/40/4014/image_en/cafb0652-ce2d-4d7e-8eb2-6d02ed8ea5ad.jpg","AOA-033","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant","","SIE NANAHARA","Awakening of the Ancients","Card Text
+This card deals 2000 damage to target J/resonator and 500 damage to its controller.","""Fly away!"" -Shu, Ruler of Air","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4014","Sand Upheaval","http://d12h0em1d7ppg.cloudfront.net/items/40/4014/image_en/cafb0652-ce2d-4d7e-8eb2-6d02ed8ea5ad.jpg","AOA-033","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant","","SIE NANAHARA","Awakening of the Ancients","Card Text
+This card deals 2000 damage to target J/resonator and 500 damage to its controller.","""Fly away!"" -Shu, Ruler of Air","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4014","Sand Upheaval","http://d12h0em1d7ppg.cloudfront.net/items/40/4014/image_en/cafb0652-ce2d-4d7e-8eb2-6d02ed8ea5ad.jpg","AOA-033","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","0 / 0","Chant","","SIE NANAHARA","Awakening of the Ancients","Card Text
+This card deals 2000 damage to target J/resonator and 500 damage to its controller.","""Fly away!"" -Shu, Ruler of Air","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4015","Shadow of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4015/image_en/f94a1a07-7c7c-48d9-8948-5e1e4c432afc.jpg","AOA-034","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","300 / 300","Resonator","Cthulhu","Shosuke","Awakening of the Ancients","Card Text
+Continuous
 This card gains [+300/+300] and [Swiftness] as long as you control four or more fire magic stones.","""This otherworldly being is an ally? ...So be it."" -Isis","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4016","Shu, Ruler of Air","http://d12h0em1d7ppg.cloudfront.net/items/40/4016/image_en/9259722b-d2b0-4c32-95f1-2c6eac934e63.jpg","AOA-035","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","100 / 300","Resonator","Ascendant","SIE NANAHARA","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4016","Shu, Ruler of Air","http://d12h0em1d7ppg.cloudfront.net/items/40/4016/image_en/9259722b-d2b0-4c32-95f1-2c6eac934e63.jpg","AOA-035","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","100 / 300","Resonator","Ascendant","SIE NANAHARA","Awakening of the Ancients","Card Text
+Activate
+[Rest], remove a fire card in your graveyard from the game: Produce [r].
+Activate
 [Rest], [r], discard a fire card: This card deals 600 damage to target resonator.","""I'll show you the power of what lies between heaven and earth!""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4017","Spiral of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4017/image_en/c2a8ed7b-2f28-43ef-ac77-b6a2e42392ec.jpg","AOA-036","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant/Master Rune(Divinity 2)","","yuko","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4017","Spiral of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4017/image_en/c2a8ed7b-2f28-43ef-ac77-b6a2e42392ec.jpg","AOA-036","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant/Master Rune(Divinity 2)","","yuko","Awakening of the Ancients","Card Text
+You may pay [3] less to play this card if your J/ruler is ""Isis"" or ""Isis, the Hundred Weapon Master"".
+Continuous
 This card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.","The power of ancient Valhalla begins to resonate with the chaos.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4017","Spiral of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4017/image_en/c2a8ed7b-2f28-43ef-ac77-b6a2e42392ec.jpg","AOA-036","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant/Master Rune(Divinity 2)","","yuko","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4017","Spiral of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4017/image_en/c2a8ed7b-2f28-43ef-ac77-b6a2e42392ec.jpg","AOA-036","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","","Chant/Master Rune(Divinity 2)","","yuko","Awakening of the Ancients","Card Text
+You may pay [3] less to play this card if your J/ruler is ""Isis"" or ""Isis, the Hundred Weapon Master"".
+Continuous
 This card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.","The power of ancient Valhalla begins to resonate with the chaos.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4017","Spiral of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4017/image_en/c2a8ed7b-2f28-43ef-ac77-b6a2e42392ec.jpg","AOA-036","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","","Chant/Master Rune(Divinity 2)","","yuko","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4017","Spiral of Chaos","http://d12h0em1d7ppg.cloudfront.net/items/40/4017/image_en/c2a8ed7b-2f28-43ef-ac77-b6a2e42392ec.jpg","AOA-036","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","","Chant/Master Rune(Divinity 2)","","yuko","Awakening of the Ancients","Card Text
+You may pay [3] less to play this card if your J/ruler is ""Isis"" or ""Isis, the Hundred Weapon Master"".
+Continuous
 This card deals 1000 damage to target resonator. If this card would deal more damage to that resonator than its DEF, this card deals the rest to that resonator's controller.","The power of ancient Valhalla begins to resonate with the chaos.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4018","The Sage's Afternoon Nap","http://d12h0em1d7ppg.cloudfront.net/items/40/4018/image_en/88488383-6605-4c1b-bf97-843afa805969.jpg","AOA-037","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant","","Shirono Muku","Awakening of the Ancients","","""Those who wake the sage shall be fed to the dragons."" -Memo for Visitors","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4018","The Sage's Afternoon Nap","http://d12h0em1d7ppg.cloudfront.net/items/40/4018/image_en/88488383-6605-4c1b-bf97-843afa805969.jpg","AOA-037","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant","","Shirono Muku","Awakening of the Ancients","","""Those who wake the sage shall be fed to the dragons."" -Memo for Visitors","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4019","Thunder Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4019/image_en/22aa0b16-c5b4-41b5-8785-1f54e50bc066.jpg","AOA-038","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","900 / 800","Resonator","Dragon","Moopic","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4018","The Sage's Afternoon Nap","http://d12h0em1d7ppg.cloudfront.net/items/40/4018/image_en/88488383-6605-4c1b-bf97-843afa805969.jpg","AOA-037","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","0 / 0","Chant","","Shirono Muku","Awakening of the Ancients","Card Text
+You may discard a resonator. If you do, draw two cards.","""Those who wake the sage shall be fed to the dragons."" -Memo for Visitors","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4018","The Sage's Afternoon Nap","http://d12h0em1d7ppg.cloudfront.net/items/40/4018/image_en/88488383-6605-4c1b-bf97-843afa805969.jpg","AOA-037","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant","","Shirono Muku","Awakening of the Ancients","Card Text
+You may discard a resonator. If you do, draw two cards.","""Those who wake the sage shall be fed to the dragons."" -Memo for Visitors","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4019","Thunder Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4019/image_en/22aa0b16-c5b4-41b5-8785-1f54e50bc066.jpg","AOA-038","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","900 / 800","Resonator","Dragon","Moopic","Awakening of the Ancients","Card Text
+[Flying][Swiftness]
+Automatic
 [Enter] ⇒ You may discard a card at random. If you do, this card deals 800 damage to target resonator.","""Nothing is faster than thunder. That's my strategy. What? You got a problem!?"" -Zhuge Liang","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4019","Thunder Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4019/image_en/22aa0b16-c5b4-41b5-8785-1f54e50bc066.jpg","AOA-038","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","900 / 800","Resonator","Dragon","Moopic","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4019","Thunder Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4019/image_en/22aa0b16-c5b4-41b5-8785-1f54e50bc066.jpg","AOA-038","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","900 / 800","Resonator","Dragon","Moopic","Awakening of the Ancients","Card Text
+[Flying][Swiftness]
+Automatic
 [Enter] ⇒ You may discard a card at random. If you do, this card deals 800 damage to target resonator.","""Nothing is faster than thunder. That's my strategy. What? You got a problem!?"" -Zhuge Liang","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4019","Thunder Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4019/image_en/22aa0b16-c5b4-41b5-8785-1f54e50bc066.jpg","AOA-038","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","900 / 800","Resonator","Dragon","Moopic","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4019","Thunder Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4019/image_en/22aa0b16-c5b4-41b5-8785-1f54e50bc066.jpg","AOA-038","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","900 / 800","Resonator","Dragon","Moopic","Awakening of the Ancients","Card Text
+[Flying][Swiftness]
+Automatic
 [Enter] ⇒ You may discard a card at random. If you do, this card deals 800 damage to target resonator.","""Nothing is faster than thunder. That's my strategy. What? You got a problem!?"" -Zhuge Liang","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4019","Thunder Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4019/image_en/22aa0b16-c5b4-41b5-8785-1f54e50bc066.jpg","AOA-038","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","900 / 800","Resonator","Dragon","Moopic","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4019","Thunder Dragon","http://d12h0em1d7ppg.cloudfront.net/items/40/4019/image_en/22aa0b16-c5b4-41b5-8785-1f54e50bc066.jpg","AOA-038","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","900 / 800","Resonator","Dragon","Moopic","Awakening of the Ancients","Card Text
+[Flying][Swiftness]
+Automatic
 [Enter] ⇒ You may discard a card at random. If you do, this card deals 800 damage to target resonator.","""Nothing is faster than thunder. That's my strategy. What? You got a problem!?"" -Zhuge Liang","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4020","Ushuah, the Swordsman of Eternal Flame","http://d12h0em1d7ppg.cloudfront.net/items/40/4020/image_en/0a7b6092-b1dd-4504-82a4-8182b1e2c633.jpg","AOA-039","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 100","Resonator","Human","Foo Midori","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4020","Ushuah, the Swordsman of Eternal Flame","http://d12h0em1d7ppg.cloudfront.net/items/40/4020/image_en/0a7b6092-b1dd-4504-82a4-8182b1e2c633.jpg","AOA-039","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 100","Resonator","Human","Foo Midori","Awakening of the Ancients","Card Text
+Continuous
+Fire resonators you control gain [Swiftness].
+Automatic
 [Enter] ⇒ Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.","The flames of loyalty have continued to burn for all these years, ever since the time of ancient Valhalla.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4020","Ushuah, the Swordsman of Eternal Flame","http://d12h0em1d7ppg.cloudfront.net/items/40/4020/image_en/0a7b6092-b1dd-4504-82a4-8182b1e2c633.jpg","AOA-039","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 100","Resonator","Human","Foo Midori","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4020","Ushuah, the Swordsman of Eternal Flame","http://d12h0em1d7ppg.cloudfront.net/items/40/4020/image_en/0a7b6092-b1dd-4504-82a4-8182b1e2c633.jpg","AOA-039","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 100","Resonator","Human","Foo Midori","Awakening of the Ancients","Card Text
+Continuous
+Fire resonators you control gain [Swiftness].
+Automatic
 [Enter] ⇒ Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.","The flames of loyalty have continued to burn for all these years, ever since the time of ancient Valhalla.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4020","Ushuah, the Swordsman of Eternal Flame","http://d12h0em1d7ppg.cloudfront.net/items/40/4020/image_en/0a7b6092-b1dd-4504-82a4-8182b1e2c633.jpg","AOA-039","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 100","Resonator","Human","Foo Midori","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4020","Ushuah, the Swordsman of Eternal Flame","http://d12h0em1d7ppg.cloudfront.net/items/40/4020/image_en/0a7b6092-b1dd-4504-82a4-8182b1e2c633.jpg","AOA-039","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","1700 / 100","Resonator","Human","Foo Midori","Awakening of the Ancients","Card Text
+Continuous
+Fire resonators you control gain [Swiftness].
+Automatic
 [Enter] ⇒ Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.","The flames of loyalty have continued to burn for all these years, ever since the time of ancient Valhalla.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4020","Ushuah, the Swordsman of Eternal Flame","http://d12h0em1d7ppg.cloudfront.net/items/40/4020/image_en/0a7b6092-b1dd-4504-82a4-8182b1e2c633.jpg","AOA-039","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1700 / 100","Resonator","Human","Foo Midori","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4020","Ushuah, the Swordsman of Eternal Flame","http://d12h0em1d7ppg.cloudfront.net/items/40/4020/image_en/0a7b6092-b1dd-4504-82a4-8182b1e2c633.jpg","AOA-039","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1700 / 100","Resonator","Human","Foo Midori","Awakening of the Ancients","Card Text
+Continuous
+Fire resonators you control gain [Swiftness].
+Automatic
 [Enter] ⇒ Look at the top five cards of your deck. You may put a resonator with total cost 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.","The flames of loyalty have continued to burn for all these years, ever since the time of ancient Valhalla.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4021","Warrior Lurking Beneath the Sands","http://d12h0em1d7ppg.cloudfront.net/items/40/4021/image_en/d4698056-02a7-45db-ac32-8fb1a2b28bd3.jpg","AOA-040","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 400","Resonator","Human","AKI","Awakening of the Ancients","","As training to endure long missions, they make the scorching sands their home.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4021","Warrior Lurking Beneath the Sands","http://d12h0em1d7ppg.cloudfront.net/items/40/4021/image_en/d4698056-02a7-45db-ac32-8fb1a2b28bd3.jpg","AOA-040","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","600 / 400","Resonator","Human","AKI","Awakening of the Ancients","","As training to endure long missions, they make the scorching sands their home.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4022","Butterfly Gimmick","http://d12h0em1d7ppg.cloudfront.net/items/40/4022/image_en/41169079-8ca0-4414-822e-54c2519194a8.jpg","AOA-041","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","300 / 300","Resonator","Machine","MATSUMOTO EIGHT","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4021","Warrior Lurking Beneath the Sands","http://d12h0em1d7ppg.cloudfront.net/items/40/4021/image_en/d4698056-02a7-45db-ac32-8fb1a2b28bd3.jpg","AOA-040","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/red.png","600 / 400","Resonator","Human","AKI","Awakening of the Ancients","Card Text
+[Rune]2 - [Enter] ⇒ This card deals 400 damage to target resonator.","As training to endure long missions, they make the scorching sands their home.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4021","Warrior Lurking Beneath the Sands","http://d12h0em1d7ppg.cloudfront.net/items/40/4021/image_en/d4698056-02a7-45db-ac32-8fb1a2b28bd3.jpg","AOA-040","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","600 / 400","Resonator","Human","AKI","Awakening of the Ancients","Card Text
+[Rune]2 - [Enter] ⇒ This card deals 400 damage to target resonator.","As training to endure long missions, they make the scorching sands their home.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4022","Butterfly Gimmick","http://d12h0em1d7ppg.cloudfront.net/items/40/4022/image_en/41169079-8ca0-4414-822e-54c2519194a8.jpg","AOA-041","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","300 / 300","Resonator","Machine","MATSUMOTO EIGHT","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Look at the top five cards of your deck. You may put a card named ""Butterfly Gimmick"" from among them into the field. Put the rest on the bottom of your deck in a random order.","The butterfly gimmicks overlap, soaring as one.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4022","Butterfly Gimmick","http://d12h0em1d7ppg.cloudfront.net/items/40/4022/image_en/41169079-8ca0-4414-822e-54c2519194a8.jpg","AOA-041","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","300 / 300","Resonator","Machine","MATSUMOTO EIGHT","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4022","Butterfly Gimmick","http://d12h0em1d7ppg.cloudfront.net/items/40/4022/image_en/41169079-8ca0-4414-822e-54c2519194a8.jpg","AOA-041","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","300 / 300","Resonator","Machine","MATSUMOTO EIGHT","Awakening of the Ancients","Card Text
+[Flying]
+Automatic
 [Enter] ⇒ Look at the top five cards of your deck. You may put a card named ""Butterfly Gimmick"" from among them into the field. Put the rest on the bottom of your deck in a random order.","The butterfly gimmicks overlap, soaring as one.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4023","Chronos' Envoy","http://d12h0em1d7ppg.cloudfront.net/items/40/4023/image_en/fcaf9327-18f8-4d17-a4e0-cc083709f94b.jpg","AOA-042","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","400 / 400","Resonator","Wizard","Hayama Kohei","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4023","Chronos' Envoy","http://d12h0em1d7ppg.cloudfront.net/items/40/4023/image_en/fcaf9327-18f8-4d17-a4e0-cc083709f94b.jpg","AOA-042","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","400 / 400","Resonator","Wizard","Hayama Kohei","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Search your deck for a card and put it into your graveyard. Then shuffle your deck.","""An envoy from you of all people, how rare. I wonder, has time treated you well?"" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4023","Chronos' Envoy","http://d12h0em1d7ppg.cloudfront.net/items/40/4023/image_en/fcaf9327-18f8-4d17-a4e0-cc083709f94b.jpg","AOA-042","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Wizard","Hayama Kohei","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4023","Chronos' Envoy","http://d12h0em1d7ppg.cloudfront.net/items/40/4023/image_en/fcaf9327-18f8-4d17-a4e0-cc083709f94b.jpg","AOA-042","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Wizard","Hayama Kohei","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Search your deck for a card and put it into your graveyard. Then shuffle your deck.","""An envoy from you of all people, how rare. I wonder, has time treated you well?"" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4024","Commanding Gaze","http://d12h0em1d7ppg.cloudfront.net/items/40/4024/image_en/6d9d9720-bfae-4e3c-9831-185effc8cd9e.jpg","AOA-043","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant","","Mad","Awakening of the Ancients","","An ""order"" means you have no choice in the matter.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4024","Commanding Gaze","http://d12h0em1d7ppg.cloudfront.net/items/40/4024/image_en/6d9d9720-bfae-4e3c-9831-185effc8cd9e.jpg","AOA-043","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant","","Mad","Awakening of the Ancients","","An ""order"" means you have no choice in the matter.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4025","Fenrir, Second Form","http://d12h0em1d7ppg.cloudfront.net/items/40/4025/image_en/848194d8-ab8f-495f-b303-f0ddf7118e00.jpg","AOA-044","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1100","Resonator","Beast","Kelvin","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4024","Commanding Gaze","http://d12h0em1d7ppg.cloudfront.net/items/40/4024/image_en/6d9d9720-bfae-4e3c-9831-185effc8cd9e.jpg","AOA-043","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant","","Mad","Awakening of the Ancients","Card Text
+[Quickcast]
+Target J/resonator gains [-400/0] until end of turn. It must attack or block this turn if able. Foresee 2.","An ""order"" means you have no choice in the matter.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4024","Commanding Gaze","http://d12h0em1d7ppg.cloudfront.net/items/40/4024/image_en/6d9d9720-bfae-4e3c-9831-185effc8cd9e.jpg","AOA-043","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant","","Mad","Awakening of the Ancients","Card Text
+[Quickcast]
+Target J/resonator gains [-400/0] until end of turn. It must attack or block this turn if able. Foresee 2.","An ""order"" means you have no choice in the matter.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4025","Fenrir, Second Form","http://d12h0em1d7ppg.cloudfront.net/items/40/4025/image_en/848194d8-ab8f-495f-b303-f0ddf7118e00.jpg","AOA-044","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1100","Resonator","Beast","Kelvin","Awakening of the Ancients","Card Text
+[Flying]
+Continuous
+This card gains [Quickcast] as long as it's in your hand and there are four or more runes revealed from your rune area.
+Automatic
 [Enter] ⇒ Put target resonator on top of its owner's deck. Draw two cards.","""This isn't even his final form! Hehe, just kidding."" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4025","Fenrir, Second Form","http://d12h0em1d7ppg.cloudfront.net/items/40/4025/image_en/848194d8-ab8f-495f-b303-f0ddf7118e00.jpg","AOA-044","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1000 / 1100","Resonator","Beast","Kelvin","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4025","Fenrir, Second Form","http://d12h0em1d7ppg.cloudfront.net/items/40/4025/image_en/848194d8-ab8f-495f-b303-f0ddf7118e00.jpg","AOA-044","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","1000 / 1100","Resonator","Beast","Kelvin","Awakening of the Ancients","Card Text
+[Flying]
+Continuous
+This card gains [Quickcast] as long as it's in your hand and there are four or more runes revealed from your rune area.
+Automatic
 [Enter] ⇒ Put target resonator on top of its owner's deck. Draw two cards.","""This isn't even his final form! Hehe, just kidding."" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4026","Fiendish Mirror","http://d12h0em1d7ppg.cloudfront.net/items/40/4026/image_en/659684f9-59e6-4768-a5eb-1e2102a632db.jpg","AOA-045","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 400","Resonator","Fairy Tale","RYUEMON","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4026","Fiendish Mirror","http://d12h0em1d7ppg.cloudfront.net/items/40/4026/image_en/659684f9-59e6-4768-a5eb-1e2102a632db.jpg","AOA-045","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 400","Resonator","Fairy Tale","RYUEMON","Awakening of the Ancients","Card Text
+Automatic
 When this card is put into a graveyard from the field ⇒ Reveal the top card of your deck. If it's a resonator, put it into the field.","The mirror will answer any question... But those who hear that answer always fall into despair.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4026","Fiendish Mirror","http://d12h0em1d7ppg.cloudfront.net/items/40/4026/image_en/659684f9-59e6-4768-a5eb-1e2102a632db.jpg","AOA-045","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","0 / 400","Resonator","Fairy Tale","RYUEMON","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4026","Fiendish Mirror","http://d12h0em1d7ppg.cloudfront.net/items/40/4026/image_en/659684f9-59e6-4768-a5eb-1e2102a632db.jpg","AOA-045","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","0 / 400","Resonator","Fairy Tale","RYUEMON","Awakening of the Ancients","Card Text
+Automatic
 When this card is put into a graveyard from the field ⇒ Reveal the top card of your deck. If it's a resonator, put it into the field.","The mirror will answer any question... But those who hear that answer always fall into despair.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4027","Freya, Royal Palace Contraption Mage","http://d12h0em1d7ppg.cloudfront.net/items/40/4027/image_en/9d2e7634-dc21-40cf-851e-48c3be0b6d3d.jpg","AOA-046","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 200","Resonator","Wizard/Machine","kurisu","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4027","Freya, Royal Palace Contraption Mage","http://d12h0em1d7ppg.cloudfront.net/items/40/4027/image_en/9d2e7634-dc21-40cf-851e-48c3be0b6d3d.jpg","AOA-046","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 200","Resonator","Wizard/Machine","kurisu","Awakening of the Ancients","Card Text
+Continuous
+This card gains [0/+400] as long as you control another Machine.
+Continuous
 If you would draw a card during your draw phase, you may instead look at the top two cards of your deck, put a card from among them into your hand and the rest into your graveyard.","""I've already failed once to protect what was dear to me. Tell me. What am I to protect now?""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4028","Freya's Transforming Cane","http://d12h0em1d7ppg.cloudfront.net/items/40/4028/image_en/c034df81-2966-4637-92ae-c3d8910e8054.jpg","AOA-047","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","300 / 300","Resonator","Machine","M ganzy","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4028","Freya's Transforming Cane","http://d12h0em1d7ppg.cloudfront.net/items/40/4028/image_en/c034df81-2966-4637-92ae-c3d8910e8054.jpg","AOA-047","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","300 / 300","Resonator","Machine","M ganzy","Awakening of the Ancients","Card Text
+Continuous
 This card gains [+300/+300] and ""This card cannot be blocked."" as long as you control four or more water magic stones.","A walking cane with no care for its original function.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4029","Garmheld, Half of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4029/image_en/2908e98d-f406-4d4d-b9cc-c2a48809637d.jpg","AOA-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","500 / 800","Resonator","God/Wanderer","IWAO","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4029","Garmheld, Half of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4029/image_en/2908e98d-f406-4d4d-b9cc-c2a48809637d.jpg","AOA-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","500 / 800","Resonator","God/Wanderer","IWAO","Awakening of the Ancients","Card Text
+Automatic
+Whenever another resonator enters the field under your control ⇒ Produce [u]. This ability triggers only once per turn.
+Activate
 [Rest], banish this card: Produce [u] for each resonator you control. Play this ability only during your turn.","""Welcome back, my other half."" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4029","Garmheld, Half of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4029/image_en/2908e98d-f406-4d4d-b9cc-c2a48809637d.jpg","AOA-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","500 / 800","Resonator","God/Wanderer","IWAO","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4029","Garmheld, Half of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4029/image_en/2908e98d-f406-4d4d-b9cc-c2a48809637d.jpg","AOA-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","500 / 800","Resonator","God/Wanderer","IWAO","Awakening of the Ancients","Card Text
+Automatic
+Whenever another resonator enters the field under your control ⇒ Produce [u]. This ability triggers only once per turn.
+Activate
 [Rest], banish this card: Produce [u] for each resonator you control. Play this ability only during your turn.","""Welcome back, my other half."" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4029","Garmheld, Half of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4029/image_en/2908e98d-f406-4d4d-b9cc-c2a48809637d.jpg","AOA-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 800","Resonator","God/Wanderer","IWAO","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4029","Garmheld, Half of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4029/image_en/2908e98d-f406-4d4d-b9cc-c2a48809637d.jpg","AOA-048","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 800","Resonator","God/Wanderer","IWAO","Awakening of the Ancients","Card Text
+Automatic
+Whenever another resonator enters the field under your control ⇒ Produce [u]. This ability triggers only once per turn.
+Activate
 [Rest], banish this card: Produce [u] for each resonator you control. Play this ability only during your turn.","""Welcome back, my other half."" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4030","Garmheld's Phantasmal Warrior","http://d12h0em1d7ppg.cloudfront.net/items/40/4030/image_en/a09afcbb-1f69-4a80-bd2f-3692998b9f49.jpg","AOA-049","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","500 / 500","Resonator","Illusion","ShiroYayoi","Awakening of the Ancients","","The familiar of an ominous god.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4030","Garmheld's Phantasmal Warrior","http://d12h0em1d7ppg.cloudfront.net/items/40/4030/image_en/a09afcbb-1f69-4a80-bd2f-3692998b9f49.jpg","AOA-049","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 500","Resonator","Illusion","ShiroYayoi","Awakening of the Ancients","","The familiar of an ominous god.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4031","Guinevere's Investigation","http://d12h0em1d7ppg.cloudfront.net/items/40/4031/image_en/eb50cd79-d920-406e-a34d-2503a6e147d3.jpg","AOA-050","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","kawaryu","Awakening of the Ancients","","""This sensation... I see, you're waiting for me to come find you."" -Guinevere, the Mobility Queen","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4032","Loki's Insight","http://d12h0em1d7ppg.cloudfront.net/items/40/4032/image_en/79532e18-1720-498b-8e49-0a98d54effe2.jpg","AOA-051","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 2)","","gekko","Awakening of the Ancients","","""Is this one... plotting something? I guess we're equal in that regard."" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4032","Loki's Insight","http://d12h0em1d7ppg.cloudfront.net/items/40/4032/image_en/79532e18-1720-498b-8e49-0a98d54effe2.jpg","AOA-051","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant/Rune(Divinity 2)","","gekko","Awakening of the Ancients","","""Is this one... plotting something? I guess we're equal in that regard."" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4033","Mecha Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4033/image_en/8bc1c1a8-a408-4d15-8e16-7dc4f10c3f44.jpg","AOA-052","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1200 / 1300","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4030","Garmheld's Phantasmal Warrior","http://d12h0em1d7ppg.cloudfront.net/items/40/4030/image_en/a09afcbb-1f69-4a80-bd2f-3692998b9f49.jpg","AOA-049","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","500 / 500","Resonator","Illusion","ShiroYayoi","Awakening of the Ancients","Card Text
+[Rune]2 - [Enter] ⇒ Return target resonator with total cost 2 or less to its owner's hand.","The familiar of an ominous god.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4030","Garmheld's Phantasmal Warrior","http://d12h0em1d7ppg.cloudfront.net/items/40/4030/image_en/a09afcbb-1f69-4a80-bd2f-3692998b9f49.jpg","AOA-049","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","500 / 500","Resonator","Illusion","ShiroYayoi","Awakening of the Ancients","Card Text
+[Rune]2 - [Enter] ⇒ Return target resonator with total cost 2 or less to its owner's hand.","The familiar of an ominous god.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4031","Guinevere's Investigation","http://d12h0em1d7ppg.cloudfront.net/items/40/4031/image_en/eb50cd79-d920-406e-a34d-2503a6e147d3.jpg","AOA-050","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","kawaryu","Awakening of the Ancients","Card Text
+[Quickcast]
+Look at your opponent's hand. Draw a card.","""This sensation... I see, you're waiting for me to come find you."" -Guinevere, the Mobility Queen","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4032","Loki's Insight","http://d12h0em1d7ppg.cloudfront.net/items/40/4032/image_en/79532e18-1720-498b-8e49-0a98d54effe2.jpg","AOA-051","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 2)","","gekko","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [u] more to play this card from a rune area.
+Look at your opponent's hand. Choose up to two cards with [Quickcast] from among them. They discard those cards.","""Is this one... plotting something? I guess we're equal in that regard."" -Loki","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4032","Loki's Insight","http://d12h0em1d7ppg.cloudfront.net/items/40/4032/image_en/79532e18-1720-498b-8e49-0a98d54effe2.jpg","AOA-051","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 0","Chant/Rune(Divinity 2)","","gekko","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [u] more to play this card from a rune area.
+Look at your opponent's hand. Choose up to two cards with [Quickcast] from among them. They discard those cards.","""Is this one... plotting something? I guess we're equal in that regard."" -Loki","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4033","Mecha Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4033/image_en/8bc1c1a8-a408-4d15-8e16-7dc4f10c3f44.jpg","AOA-052","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1200 / 1300","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Card Text
+Activate
 Banish another Machine resonator: Return target resonator to its owner's hand.","""I'm counting on you, Leviathan!"" -Freya","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4033","Mecha Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4033/image_en/8bc1c1a8-a408-4d15-8e16-7dc4f10c3f44.jpg","AOA-052","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1200 / 1300","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4033","Mecha Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4033/image_en/8bc1c1a8-a408-4d15-8e16-7dc4f10c3f44.jpg","AOA-052","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1200 / 1300","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Card Text
+Activate
 Banish another Machine resonator: Return target resonator to its owner's hand.","""I'm counting on you, Leviathan!"" -Freya","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4033","Mecha Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4033/image_en/8bc1c1a8-a408-4d15-8e16-7dc4f10c3f44.jpg","AOA-052","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1200 / 1300","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4033","Mecha Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4033/image_en/8bc1c1a8-a408-4d15-8e16-7dc4f10c3f44.jpg","AOA-052","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1200 / 1300","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Card Text
+Activate
 Banish another Machine resonator: Return target resonator to its owner's hand.","""I'm counting on you, Leviathan!"" -Freya","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4033","Mecha Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4033/image_en/8bc1c1a8-a408-4d15-8e16-7dc4f10c3f44.jpg","AOA-052","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1200 / 1300","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4033","Mecha Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4033/image_en/8bc1c1a8-a408-4d15-8e16-7dc4f10c3f44.jpg","AOA-052","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","1200 / 1300","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Card Text
+Activate
 Banish another Machine resonator: Return target resonator to its owner's hand.","""I'm counting on you, Leviathan!"" -Freya","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4034","Mini Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4034/image_en/9ded64e3-d140-4981-bebe-e1717421a923.jpg","AOA-053","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","700 / 700","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4034","Mini Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4034/image_en/9ded64e3-d140-4981-bebe-e1717421a923.jpg","AOA-053","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","700 / 700","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Return target resonator to its owner's hand.
+Activate
 Banish two ""Mini Leviathan"": Search your deck for a card with ""Leviathan"" in its name and put it into the field. Then shuffle your deck.","Petit as it may be, it is still a Leviathan. Let your guard down and you'll be crushed to bits.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4034","Mini Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4034/image_en/9ded64e3-d140-4981-bebe-e1717421a923.jpg","AOA-053","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","700 / 700","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4034","Mini Leviathan","http://d12h0em1d7ppg.cloudfront.net/items/40/4034/image_en/9ded64e3-d140-4981-bebe-e1717421a923.jpg","AOA-053","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","700 / 700","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Return target resonator to its owner's hand.
+Activate
 Banish two ""Mini Leviathan"": Search your deck for a card with ""Leviathan"" in its name and put it into the field. Then shuffle your deck.","Petit as it may be, it is still a Leviathan. Let your guard down and you'll be crushed to bits.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4035","Ocean Beam","http://d12h0em1d7ppg.cloudfront.net/items/40/4035/image_en/47d5466e-12aa-4e6a-bf90-0334b5e9f998.jpg","AOA-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 3)","","Shinichi Chiba","Awakening of the Ancients","","The blue light washes all away.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4035","Ocean Beam","http://d12h0em1d7ppg.cloudfront.net/items/40/4035/image_en/47d5466e-12aa-4e6a-bf90-0334b5e9f998.jpg","AOA-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 3)","","Shinichi Chiba","Awakening of the Ancients","","The blue light washes all away.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4035","Ocean Beam","http://d12h0em1d7ppg.cloudfront.net/items/40/4035/image_en/47d5466e-12aa-4e6a-bf90-0334b5e9f998.jpg","AOA-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","0 / 0","Chant/Rune(Divinity 3)","","Shinichi Chiba","Awakening of the Ancients","","The blue light washes all away.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4036","Repair Bug","http://d12h0em1d7ppg.cloudfront.net/items/40/4036/image_en/89c6bb38-f0c6-4bd6-80c7-3d5af36fca1f.jpg","AOA-055","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 800","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4035","Ocean Beam","http://d12h0em1d7ppg.cloudfront.net/items/40/4035/image_en/47d5466e-12aa-4e6a-bf90-0334b5e9f998.jpg","AOA-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 3)","","Shinichi Chiba","Awakening of the Ancients","Card Text
+[Quickcast]
+You may pay [u][1] less to play this card from a rune area.
+Destroy target resonator with total cost 4 or more. If you do, draw two cards.","The blue light washes all away.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4035","Ocean Beam","http://d12h0em1d7ppg.cloudfront.net/items/40/4035/image_en/47d5466e-12aa-4e6a-bf90-0334b5e9f998.jpg","AOA-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 3)","","Shinichi Chiba","Awakening of the Ancients","Card Text
+[Quickcast]
+You may pay [u][1] less to play this card from a rune area.
+Destroy target resonator with total cost 4 or more. If you do, draw two cards.","The blue light washes all away.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4035","Ocean Beam","http://d12h0em1d7ppg.cloudfront.net/items/40/4035/image_en/47d5466e-12aa-4e6a-bf90-0334b5e9f998.jpg","AOA-054","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","0 / 0","Chant/Rune(Divinity 3)","","Shinichi Chiba","Awakening of the Ancients","Card Text
+[Quickcast]
+You may pay [u][1] less to play this card from a rune area.
+Destroy target resonator with total cost 4 or more. If you do, draw two cards.","The blue light washes all away.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4036","Repair Bug","http://d12h0em1d7ppg.cloudfront.net/items/40/4036/image_en/89c6bb38-f0c6-4bd6-80c7-3d5af36fca1f.jpg","AOA-055","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 800","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Card Text
+Activate
 [u], banish this card: Recover target Machine.","""Let the mending procedure begin.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4036","Repair Bug","http://d12h0em1d7ppg.cloudfront.net/items/40/4036/image_en/89c6bb38-f0c6-4bd6-80c7-3d5af36fca1f.jpg","AOA-055","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 800","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4036","Repair Bug","http://d12h0em1d7ppg.cloudfront.net/items/40/4036/image_en/89c6bb38-f0c6-4bd6-80c7-3d5af36fca1f.jpg","AOA-055","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 800","Resonator","Machine","Shinichi Chiba","Awakening of the Ancients","Card Text
+Activate
 [u], banish this card: Recover target Machine.","""Let the mending procedure begin.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4037","Ruined Capital","http://d12h0em1d7ppg.cloudfront.net/items/40/4037/image_en/6f433662-e362-4538-bc4a-a5bef387a365.jpg","AOA-056","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Addition","Ancient Ruins","Kakiken","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4037","Ruined Capital","http://d12h0em1d7ppg.cloudfront.net/items/40/4037/image_en/6f433662-e362-4538-bc4a-a5bef387a365.jpg","AOA-056","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Addition","Ancient Ruins","Kakiken","Awakening of the Ancients","Card Text
+Automatic
+At the end of your turn ⇒ Put a ruin counter on this card. Then, if there are five or more ruin counters on it, banish it. If you do, shuffle all resonators into their owner's deck.
+Activate
 [u][u][1]: Remove a ruin counter from this card.","Before the war of Valhalla, this capital was laid to waste. The only clue is a single memory of Freya's, someone of great dark power had been here.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4038","Soldiers of the New Round Table","http://d12h0em1d7ppg.cloudfront.net/items/40/4038/image_en/ebc4269b-7637-47a3-92ba-c693cabcdcef.jpg","AOA-057","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 2)","","MATSUMOTO EIGHT","Awakening of the Ancients","","The soldiers of the round table gazed at the land from the skies. Still seeking the meaning of their existence, they descended to the earth.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4038","Soldiers of the New Round Table","http://d12h0em1d7ppg.cloudfront.net/items/40/4038/image_en/ebc4269b-7637-47a3-92ba-c693cabcdcef.jpg","AOA-057","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 2)","","MATSUMOTO EIGHT","Awakening of the Ancients","","The soldiers of the round table gazed at the land from the skies. Still seeking the meaning of their existence, they descended to the earth.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4039","Strolling House","http://d12h0em1d7ppg.cloudfront.net/items/40/4039/image_en/006996ff-ff20-4e87-bb83-b9b5f274b1ce.jpg","AOA-058","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 1200","Resonator","House","noki","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4038","Soldiers of the New Round Table","http://d12h0em1d7ppg.cloudfront.net/items/40/4038/image_en/ebc4269b-7637-47a3-92ba-c693cabcdcef.jpg","AOA-057","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 2)","","MATSUMOTO EIGHT","Awakening of the Ancients","Card Text
+You pay [1] more to play this card from a rune area.
+Draw X cards, where X is the number of times that resonators attacked this turn.","The soldiers of the round table gazed at the land from the skies. Still seeking the meaning of their existence, they descended to the earth.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4038","Soldiers of the New Round Table","http://d12h0em1d7ppg.cloudfront.net/items/40/4038/image_en/ebc4269b-7637-47a3-92ba-c693cabcdcef.jpg","AOA-057","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Rune(Divinity 2)","","MATSUMOTO EIGHT","Awakening of the Ancients","Card Text
+You pay [1] more to play this card from a rune area.
+Draw X cards, where X is the number of times that resonators attacked this turn.","The soldiers of the round table gazed at the land from the skies. Still seeking the meaning of their existence, they descended to the earth.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4039","Strolling House","http://d12h0em1d7ppg.cloudfront.net/items/40/4039/image_en/006996ff-ff20-4e87-bb83-b9b5f274b1ce.jpg","AOA-058","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 1200","Resonator","House","noki","Awakening of the Ancients","Card Text
+Activate
 Rest another recovered resonator you control: This card gains [+200/+200] until end of turn.","""Houses don't walk?"" ""There's no way something so boring could be true!"" -Hansel and Gretel","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4039","Strolling House","http://d12h0em1d7ppg.cloudfront.net/items/40/4039/image_en/006996ff-ff20-4e87-bb83-b9b5f274b1ce.jpg","AOA-058","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 1200","Resonator","House","noki","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4039","Strolling House","http://d12h0em1d7ppg.cloudfront.net/items/40/4039/image_en/006996ff-ff20-4e87-bb83-b9b5f274b1ce.jpg","AOA-058","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 1200","Resonator","House","noki","Awakening of the Ancients","Card Text
+Activate
 Rest another recovered resonator you control: This card gains [+200/+200] until end of turn.","""Houses don't walk?"" ""There's no way something so boring could be true!"" -Hansel and Gretel","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4039","Strolling House","http://d12h0em1d7ppg.cloudfront.net/items/40/4039/image_en/006996ff-ff20-4e87-bb83-b9b5f274b1ce.jpg","AOA-058","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","800 / 1200","Resonator","House","noki","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4039","Strolling House","http://d12h0em1d7ppg.cloudfront.net/items/40/4039/image_en/006996ff-ff20-4e87-bb83-b9b5f274b1ce.jpg","AOA-058","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","800 / 1200","Resonator","House","noki","Awakening of the Ancients","Card Text
+Activate
 Rest another recovered resonator you control: This card gains [+200/+200] until end of turn.","""Houses don't walk?"" ""There's no way something so boring could be true!"" -Hansel and Gretel","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4040","The Return of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4040/image_en/31831230-b288-49b2-8c2e-d7a25607799b.jpg","AOA-059","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Master Rune(Divinity 2)","","IWAO","Awakening of the Ancients","","To Loki, total harmony. To the world, utter dissonance.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4040","The Return of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4040/image_en/31831230-b288-49b2-8c2e-d7a25607799b.jpg","AOA-059","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","0 / 0","Chant/Master Rune(Divinity 2)","","IWAO","Awakening of the Ancients","","To Loki, total harmony. To the world, utter dissonance.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4041","The Returnee from Twilight","http://d12h0em1d7ppg.cloudfront.net/items/40/4041/image_en/d0bd6ac6-f406-4686-a393-b37393342038.jpg","AOA-060","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Cthulhu","Saiko Takaki","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4040","The Return of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4040/image_en/31831230-b288-49b2-8c2e-d7a25607799b.jpg","AOA-059","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","0 / 0","Chant/Master Rune(Divinity 2)","","IWAO","Awakening of the Ancients","Card Text
+You may pay [2] less to play this card if your J/ruler is ""Loki"" or ""Loki, the Witch of Chaos"".
+Look at the top seven cards of your deck. You may put a resonator with total cost X or less from among them into the field, where X is the number of magic stones you control. Put the rest on the bottom of your deck in a random order.","To Loki, total harmony. To the world, utter dissonance.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4040","The Return of God","http://d12h0em1d7ppg.cloudfront.net/items/40/4040/image_en/31831230-b288-49b2-8c2e-d7a25607799b.jpg","AOA-059","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","0 / 0","Chant/Master Rune(Divinity 2)","","IWAO","Awakening of the Ancients","Card Text
+You may pay [2] less to play this card if your J/ruler is ""Loki"" or ""Loki, the Witch of Chaos"".
+Look at the top seven cards of your deck. You may put a resonator with total cost X or less from among them into the field, where X is the number of magic stones you control. Put the rest on the bottom of your deck in a random order.","To Loki, total harmony. To the world, utter dissonance.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4041","The Returnee from Twilight","http://d12h0em1d7ppg.cloudfront.net/items/40/4041/image_en/d0bd6ac6-f406-4686-a393-b37393342038.jpg","AOA-060","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Cthulhu","Saiko Takaki","Awakening of the Ancients","Card Text
+Activate
 [u], remove three resonators in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.","""How cute! I'm going to make you my new pet!"" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4041","The Returnee from Twilight","http://d12h0em1d7ppg.cloudfront.net/items/40/4041/image_en/d0bd6ac6-f406-4686-a393-b37393342038.jpg","AOA-060","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Cthulhu","Saiko Takaki","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4041","The Returnee from Twilight","http://d12h0em1d7ppg.cloudfront.net/items/40/4041/image_en/d0bd6ac6-f406-4686-a393-b37393342038.jpg","AOA-060","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","800 / 800","Resonator","Cthulhu","Saiko Takaki","Awakening of the Ancients","Card Text
+Activate
 [u], remove three resonators in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.","""How cute! I'm going to make you my new pet!"" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4041","The Returnee from Twilight","http://d12h0em1d7ppg.cloudfront.net/items/40/4041/image_en/d0bd6ac6-f406-4686-a393-b37393342038.jpg","AOA-060","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Cthulhu","Saiko Takaki","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4041","The Returnee from Twilight","http://d12h0em1d7ppg.cloudfront.net/items/40/4041/image_en/d0bd6ac6-f406-4686-a393-b37393342038.jpg","AOA-060","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Cthulhu","Saiko Takaki","Awakening of the Ancients","Card Text
+Activate
 [u], remove three resonators in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.","""How cute! I'm going to make you my new pet!"" -Loki","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4042","200 IQ","http://d12h0em1d7ppg.cloudfront.net/items/40/4042/image_en/6d150539-6061-4ef1-820f-80a9978c895c.jpg","AOA-061","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","","yua","Awakening of the Ancients","","""Hmm... I wonder... Eureka!"" -Algernon, Mouse of Intellect","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4042","200 IQ","http://d12h0em1d7ppg.cloudfront.net/items/40/4042/image_en/6d150539-6061-4ef1-820f-80a9978c895c.jpg","AOA-061","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","","yua","Awakening of the Ancients","","""Hmm... I wonder... Eureka!"" -Algernon, Mouse of Intellect","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4043","Algernon, Mouse of Intellect","http://d12h0em1d7ppg.cloudfront.net/items/40/4043/image_en/3b835db1-5323-4742-aa83-39af8a67bb0d.jpg","AOA-062","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","200 / 200","Resonator","Mouse/Wanderer","Yukie TAJIMA","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4042","200 IQ","http://d12h0em1d7ppg.cloudfront.net/items/40/4042/image_en/6d150539-6061-4ef1-820f-80a9978c895c.jpg","AOA-061","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","","yua","Awakening of the Ancients","Card Text
+Put target chant from your graveyard into your hand. If this card was awakened, put up to one second target chant from your graveyard into your hand.
+[Awakening][g][g][1]","""Hmm... I wonder... Eureka!"" -Algernon, Mouse of Intellect","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4042","200 IQ","http://d12h0em1d7ppg.cloudfront.net/items/40/4042/image_en/6d150539-6061-4ef1-820f-80a9978c895c.jpg","AOA-061","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant","","yua","Awakening of the Ancients","Card Text
+Put target chant from your graveyard into your hand. If this card was awakened, put up to one second target chant from your graveyard into your hand.
+[Awakening][g][g][1]","""Hmm... I wonder... Eureka!"" -Algernon, Mouse of Intellect","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4043","Algernon, Mouse of Intellect","http://d12h0em1d7ppg.cloudfront.net/items/40/4043/image_en/3b835db1-5323-4742-aa83-39af8a67bb0d.jpg","AOA-062","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","200 / 200","Resonator","Mouse/Wanderer","Yukie TAJIMA","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Put a intellect counter on this card. If you control five or more magic stones, put three intellect counters on this card instead.
+Activate
+Remove a intellect counter from this card: This card gains [+400/+200] until end of turn.
+Activate
 [Rest], remove two intellect counters from this card: Search your deck for a chant, reveal it and put it into your hand. Then shuffle your deck.","""I have no likes or dislikes. Except cats. Cats are the worst.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4044","Barrier Castle","http://d12h0em1d7ppg.cloudfront.net/items/40/4044/image_en/843e54cf-f1e3-43c5-a966-25232d4edd8b.jpg","AOA-063","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Addition","Ancient Ruins","ComamitsuZaki","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4044","Barrier Castle","http://d12h0em1d7ppg.cloudfront.net/items/40/4044/image_en/843e54cf-f1e3-43c5-a966-25232d4edd8b.jpg","AOA-063","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Addition","Ancient Ruins","ComamitsuZaki","Awakening of the Ancients","Card Text
+Automatic
 Whenever a wind resonator you control is targeted by a spell or ability your opponent controls ⇒ Counter that spell or ability unless its controller pays [1].","Near the end of the war, chief god Bastet formed a barrier to protect the ones they loved.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4044","Barrier Castle","http://d12h0em1d7ppg.cloudfront.net/items/40/4044/image_en/843e54cf-f1e3-43c5-a966-25232d4edd8b.jpg","AOA-063","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition","Ancient Ruins","ComamitsuZaki","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4044","Barrier Castle","http://d12h0em1d7ppg.cloudfront.net/items/40/4044/image_en/843e54cf-f1e3-43c5-a966-25232d4edd8b.jpg","AOA-063","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition","Ancient Ruins","ComamitsuZaki","Awakening of the Ancients","Card Text
+Automatic
 Whenever a wind resonator you control is targeted by a spell or ability your opponent controls ⇒ Counter that spell or ability unless its controller pays [1].","Near the end of the war, chief god Bastet formed a barrier to protect the ones they loved.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4045","Dog Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4045/image_en/8e56b9ff-73ca-4b54-b3cb-602122aed39b.jpg","AOA-064","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","600 / 600","Resonator","Shikigami","Yuko Nagasaki","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4045","Dog Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4045/image_en/8e56b9ff-73ca-4b54-b3cb-602122aed39b.jpg","AOA-064","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","600 / 600","Resonator","Shikigami","Yuko Nagasaki","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Recover two target magic stones if you control a Yin-Yang Master.","A yin-yang master's best friend.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4045","Dog Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4045/image_en/8e56b9ff-73ca-4b54-b3cb-602122aed39b.jpg","AOA-064","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","600 / 600","Resonator","Shikigami","Yuko Nagasaki","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4045","Dog Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4045/image_en/8e56b9ff-73ca-4b54-b3cb-602122aed39b.jpg","AOA-064","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","600 / 600","Resonator","Shikigami","Yuko Nagasaki","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Recover two target magic stones if you control a Yin-Yang Master.","A yin-yang master's best friend.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4046","Gunpowder Barrel","http://d12h0em1d7ppg.cloudfront.net/items/40/4046/image_en/3d768161-9bdb-4bb5-83b5-226610ba9947.jpg","AOA-065","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","","ComamitsuZaki","Awakening of the Ancients","","""Roll and... strike!"" -Hanzo","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4047","Hunting Party","http://d12h0em1d7ppg.cloudfront.net/items/40/4047/image_en/7b115e3c-3cd4-4e65-9891-ed2267e0b880.jpg","AOA-066","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 700","Resonator","Mimi Tribe","ponkichi","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4046","Gunpowder Barrel","http://d12h0em1d7ppg.cloudfront.net/items/40/4046/image_en/3d768161-9bdb-4bb5-83b5-226610ba9947.jpg","AOA-065","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant","","ComamitsuZaki","Awakening of the Ancients","Card Text
+[Quickcast]
+This card deals 200 damage to two target resonators. Foresee 1.","""Roll and... strike!"" -Hanzo","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4047","Hunting Party","http://d12h0em1d7ppg.cloudfront.net/items/40/4047/image_en/7b115e3c-3cd4-4e65-9891-ed2267e0b880.jpg","AOA-066","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 700","Resonator","Mimi Tribe","ponkichi","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Draw a card.
+Activate
 Discard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.","Their party composition is a mess, their methods varied, but they are of one shared goal.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4047","Hunting Party","http://d12h0em1d7ppg.cloudfront.net/items/40/4047/image_en/7b115e3c-3cd4-4e65-9891-ed2267e0b880.jpg","AOA-066","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 700","Resonator","Mimi Tribe","ponkichi","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4047","Hunting Party","http://d12h0em1d7ppg.cloudfront.net/items/40/4047/image_en/7b115e3c-3cd4-4e65-9891-ed2267e0b880.jpg","AOA-066","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 700","Resonator","Mimi Tribe","ponkichi","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Draw a card.
+Activate
 Discard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.","Their party composition is a mess, their methods varied, but they are of one shared goal.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4047","Hunting Party","http://d12h0em1d7ppg.cloudfront.net/items/40/4047/image_en/7b115e3c-3cd4-4e65-9891-ed2267e0b880.jpg","AOA-066","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 700","Resonator","Mimi Tribe","ponkichi","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4047","Hunting Party","http://d12h0em1d7ppg.cloudfront.net/items/40/4047/image_en/7b115e3c-3cd4-4e65-9891-ed2267e0b880.jpg","AOA-066","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","800 / 700","Resonator","Mimi Tribe","ponkichi","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Draw a card.
+Activate
 Discard a card: This card gains [+400/0] until end of turn. Play this ability only once per turn.","Their party composition is a mess, their methods varied, but they are of one shared goal.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4048","Kukunochi, the Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4048/image_en/49a49f63-6fdf-40cd-909c-97a3398f997f.jpg","AOA-067","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 1200","Resonator","Cat/Shikigami","Matsurika Yoko","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4048","Kukunochi, the Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4048/image_en/49a49f63-6fdf-40cd-909c-97a3398f997f.jpg","AOA-067","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 1200","Resonator","Cat/Shikigami","Matsurika Yoko","Awakening of the Ancients","Card Text
+Automatic
+When this card is put into a graveyard from your hand by a spell or ability your opponent controls ⇒ Put this card into the field.
+Automatic
 [Enter] ⇒ Recover target Cat.","""Yes, much has happened since then. For starters, would you like to see my dance?""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4048","Kukunochi, the Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4048/image_en/49a49f63-6fdf-40cd-909c-97a3398f997f.jpg","AOA-067","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","700 / 1200","Resonator","Cat/Shikigami","Matsurika Yoko","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4048","Kukunochi, the Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4048/image_en/49a49f63-6fdf-40cd-909c-97a3398f997f.jpg","AOA-067","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","700 / 1200","Resonator","Cat/Shikigami","Matsurika Yoko","Awakening of the Ancients","Card Text
+Automatic
+When this card is put into a graveyard from your hand by a spell or ability your opponent controls ⇒ Put this card into the field.
+Automatic
 [Enter] ⇒ Recover target Cat.","""Yes, much has happened since then. For starters, would you like to see my dance?""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4049","Kukunochi's Dance","http://d12h0em1d7ppg.cloudfront.net/items/40/4049/image_en/9b74de19-6ed0-4d31-8c49-b2a618324dc0.jpg","AOA-068","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 3)","","Matsurika Yoko","Awakening of the Ancients","","Dance, along with the forgotten fragrances of Valhalla.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4049","Kukunochi's Dance","http://d12h0em1d7ppg.cloudfront.net/items/40/4049/image_en/9b74de19-6ed0-4d31-8c49-b2a618324dc0.jpg","AOA-068","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 3)","","Matsurika Yoko","Awakening of the Ancients","","Dance, along with the forgotten fragrances of Valhalla.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4050","Marine Beast of the Lost Isles","http://d12h0em1d7ppg.cloudfront.net/items/40/4050/image_en/ed81499d-7502-4376-8f5d-04799b719d71.jpg","AOA-069","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Beast","Hayama Kohei","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4049","Kukunochi's Dance","http://d12h0em1d7ppg.cloudfront.net/items/40/4049/image_en/9b74de19-6ed0-4d31-8c49-b2a618324dc0.jpg","AOA-068","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 3)","","Matsurika Yoko","Awakening of the Ancients","Card Text
+[Quickcast]
+You may pay [g] less to play this card from a rune area.
+Change the target of target spell targeting a Cat you control.","Dance, along with the forgotten fragrances of Valhalla.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4049","Kukunochi's Dance","http://d12h0em1d7ppg.cloudfront.net/items/40/4049/image_en/9b74de19-6ed0-4d31-8c49-b2a618324dc0.jpg","AOA-068","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 3)","","Matsurika Yoko","Awakening of the Ancients","Card Text
+[Quickcast]
+You may pay [g] less to play this card from a rune area.
+Change the target of target spell targeting a Cat you control.","Dance, along with the forgotten fragrances of Valhalla.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4050","Marine Beast of the Lost Isles","http://d12h0em1d7ppg.cloudfront.net/items/40/4050/image_en/ed81499d-7502-4376-8f5d-04799b719d71.jpg","AOA-069","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Beast","Hayama Kohei","Awakening of the Ancients","Card Text
+Continuous
 This card gains [+200/+200] as long as you control a water magic stone.","When the Mimi tribe approach bodies of water, making themselves appear as unappetizing as possible is a crucial step in survival.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4050","Marine Beast of the Lost Isles","http://d12h0em1d7ppg.cloudfront.net/items/40/4050/image_en/ed81499d-7502-4376-8f5d-04799b719d71.jpg","AOA-069","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Beast","Hayama Kohei","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4050","Marine Beast of the Lost Isles","http://d12h0em1d7ppg.cloudfront.net/items/40/4050/image_en/ed81499d-7502-4376-8f5d-04799b719d71.jpg","AOA-069","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Beast","Hayama Kohei","Awakening of the Ancients","Card Text
+Continuous
 This card gains [+200/+200] as long as you control a water magic stone.","When the Mimi tribe approach bodies of water, making themselves appear as unappetizing as possible is a crucial step in survival.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4050","Marine Beast of the Lost Isles","http://d12h0em1d7ppg.cloudfront.net/items/40/4050/image_en/ed81499d-7502-4376-8f5d-04799b719d71.jpg","AOA-069","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Beast","Hayama Kohei","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4050","Marine Beast of the Lost Isles","http://d12h0em1d7ppg.cloudfront.net/items/40/4050/image_en/ed81499d-7502-4376-8f5d-04799b719d71.jpg","AOA-069","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","800 / 800","Resonator","Beast","Hayama Kohei","Awakening of the Ancients","Card Text
+Continuous
 This card gains [+200/+200] as long as you control a water magic stone.","When the Mimi tribe approach bodies of water, making themselves appear as unappetizing as possible is a crucial step in survival.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4051","Mimi Tribe Logger","http://d12h0em1d7ppg.cloudfront.net/items/40/4051/image_en/0acb36c3-9e61-4752-ab79-bf2a4d5ce941.jpg","AOA-070","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","600 / 600","Resonator","Mimi Tribe","Nekobayashi","Awakening of the Ancients","","When it comes to work, the Mimi tribe take it seriously.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4051","Mimi Tribe Logger","http://d12h0em1d7ppg.cloudfront.net/items/40/4051/image_en/0acb36c3-9e61-4752-ab79-bf2a4d5ce941.jpg","AOA-070","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","600 / 600","Resonator","Mimi Tribe","Nekobayashi","Awakening of the Ancients","","When it comes to work, the Mimi tribe take it seriously.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4052","Monkey Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4052/image_en/7f04cee2-7069-4907-916e-1a4e4578555f.jpg","AOA-071","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","400 / 400","Resonator","Shikigami","SAGAWA ASUKA","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4051","Mimi Tribe Logger","http://d12h0em1d7ppg.cloudfront.net/items/40/4051/image_en/0acb36c3-9e61-4752-ab79-bf2a4d5ce941.jpg","AOA-070","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","600 / 600","Resonator","Mimi Tribe","Nekobayashi","Awakening of the Ancients","Card Text
+[Rune]2 - [Enter] → Draw a card, then discard a card.","When it comes to work, the Mimi tribe take it seriously.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4051","Mimi Tribe Logger","http://d12h0em1d7ppg.cloudfront.net/items/40/4051/image_en/0acb36c3-9e61-4752-ab79-bf2a4d5ce941.jpg","AOA-070","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","600 / 600","Resonator","Mimi Tribe","Nekobayashi","Awakening of the Ancients","Card Text
+[Rune]2 - [Enter] → Draw a card, then discard a card.","When it comes to work, the Mimi tribe take it seriously.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4052","Monkey Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4052/image_en/7f04cee2-7069-4907-916e-1a4e4578555f.jpg","AOA-071","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","400 / 400","Resonator","Shikigami","SAGAWA ASUKA","Awakening of the Ancients","Card Text
+Continuous
 This card gains [+100/+100] and [Swiftness] as long as you control a Yin-Yang Master.","""I can see, hear, and speak just fine!""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4053","Nature's Beauty","http://d12h0em1d7ppg.cloudfront.net/items/40/4053/image_en/052b8674-9ffc-4539-878f-bb3bea692aff.jpg","AOA-072","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Master Rune(Divinity 2)","","Yukie TAJIMA","Awakening of the Ancients","","""This is a gift from me. Flowers for what will be your final resting place."" -Algernon, Mouse of Intellect","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4053","Nature's Beauty","http://d12h0em1d7ppg.cloudfront.net/items/40/4053/image_en/052b8674-9ffc-4539-878f-bb3bea692aff.jpg","AOA-072","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","","Chant/Master Rune(Divinity 2)","","Yukie TAJIMA","Awakening of the Ancients","","""This is a gift from me. Flowers for what will be your final resting place."" -Algernon, Mouse of Intellect","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4054","Rikugou, Tree Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4054/image_en/06f90256-0dc0-4baa-9123-5fce728c2ebe.jpg","AOA-073","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","300 / 1000","Resonator","Shikigami","Miko Yamazaki","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4053","Nature's Beauty","http://d12h0em1d7ppg.cloudfront.net/items/40/4053/image_en/052b8674-9ffc-4539-878f-bb3bea692aff.jpg","AOA-072","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Master Rune(Divinity 2)","","Yukie TAJIMA","Awakening of the Ancients","Card Text
+You may pay [2] less to play this card if your J/ruler is ""Chamimi"" or ""Chamimi, Guardian of the Sacred Bow"".
+Until end of turn, you declare your opponent's blocks instead of your opponent.","""This is a gift from me. Flowers for what will be your final resting place."" -Algernon, Mouse of Intellect","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4053","Nature's Beauty","http://d12h0em1d7ppg.cloudfront.net/items/40/4053/image_en/052b8674-9ffc-4539-878f-bb3bea692aff.jpg","AOA-072","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","","Chant/Master Rune(Divinity 2)","","Yukie TAJIMA","Awakening of the Ancients","Card Text
+You may pay [2] less to play this card if your J/ruler is ""Chamimi"" or ""Chamimi, Guardian of the Sacred Bow"".
+Until end of turn, you declare your opponent's blocks instead of your opponent.","""This is a gift from me. Flowers for what will be your final resting place."" -Algernon, Mouse of Intellect","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4054","Rikugou, Tree Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4054/image_en/06f90256-0dc0-4baa-9123-5fce728c2ebe.jpg","AOA-073","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","300 / 1000","Resonator","Shikigami","Miko Yamazaki","Awakening of the Ancients","Card Text
+Continuous
+If damage would be dealt to you, it's dealt to this card instead.
+Continuous
 This card gains [+200/+200] as long as you control a Yin-Yang Master.","The sensation and words of the shikigami are passed through Rikugou before reaching Seimei.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4054","Rikugou, Tree Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4054/image_en/06f90256-0dc0-4baa-9123-5fce728c2ebe.jpg","AOA-073","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","300 / 1000","Resonator","Shikigami","Miko Yamazaki","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4054","Rikugou, Tree Shikigami","http://d12h0em1d7ppg.cloudfront.net/items/40/4054/image_en/06f90256-0dc0-4baa-9123-5fce728c2ebe.jpg","AOA-073","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","300 / 1000","Resonator","Shikigami","Miko Yamazaki","Awakening of the Ancients","Card Text
+Continuous
+If damage would be dealt to you, it's dealt to this card instead.
+Continuous
 This card gains [+200/+200] as long as you control a Yin-Yang Master.","The sensation and words of the shikigami are passed through Rikugou before reaching Seimei.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4055","Scroll Transporter","http://d12h0em1d7ppg.cloudfront.net/items/40/4055/image_en/cc22524b-826e-46df-a29f-3239244ac942.jpg","AOA-074","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","300 / 300","Resonator","Cat/Ninja","SIGMAN","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4055","Scroll Transporter","http://d12h0em1d7ppg.cloudfront.net/items/40/4055/image_en/cc22524b-826e-46df-a29f-3239244ac942.jpg","AOA-074","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","300 / 300","Resonator","Cat/Ninja","SIGMAN","Awakening of the Ancients","Card Text
+Continuous
 This card gains [+400/+400] and ""This card cannot be attacked."" as long as you control four or more wind magic stones.","Transporting scrolls is an excellent way to learn the fundamentals of being a ninja.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4056","Seimei, the Shikigami User","http://d12h0em1d7ppg.cloudfront.net/items/40/4056/image_en/b998d463-3df7-4aac-aa95-e3aee8de71fe.jpg","AOA-075","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 800","Resonator","Cat/Yin-Yang Master","Fukuzo Katsura","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4056","Seimei, the Shikigami User","http://d12h0em1d7ppg.cloudfront.net/items/40/4056/image_en/b998d463-3df7-4aac-aa95-e3aee8de71fe.jpg","AOA-075","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 800","Resonator","Cat/Yin-Yang Master","Fukuzo Katsura","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Look at the top four cards of your deck. You may reveal a Shikigami from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.
+Activate
+[Rest], [g]: You may put a Shikigami with total cost 4 or less from your hand into the field.
+Activate
 Banish a Shikigami: This card gains [Barrier] until end of turn.","""Yes, you may touch them. But the shikigami only listen to my commands.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4056","Seimei, the Shikigami User","http://d12h0em1d7ppg.cloudfront.net/items/40/4056/image_en/b998d463-3df7-4aac-aa95-e3aee8de71fe.jpg","AOA-075","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 800","Resonator","Cat/Yin-Yang Master","Fukuzo Katsura","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4056","Seimei, the Shikigami User","http://d12h0em1d7ppg.cloudfront.net/items/40/4056/image_en/b998d463-3df7-4aac-aa95-e3aee8de71fe.jpg","AOA-075","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 800","Resonator","Cat/Yin-Yang Master","Fukuzo Katsura","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Look at the top four cards of your deck. You may reveal a Shikigami from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.
+Activate
+[Rest], [g]: You may put a Shikigami with total cost 4 or less from your hand into the field.
+Activate
 Banish a Shikigami: This card gains [Barrier] until end of turn.","""Yes, you may touch them. But the shikigami only listen to my commands.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4056","Seimei, the Shikigami User","http://d12h0em1d7ppg.cloudfront.net/items/40/4056/image_en/b998d463-3df7-4aac-aa95-e3aee8de71fe.jpg","AOA-075","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","700 / 800","Resonator","Cat/Yin-Yang Master","Fukuzo Katsura","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4056","Seimei, the Shikigami User","http://d12h0em1d7ppg.cloudfront.net/items/40/4056/image_en/b998d463-3df7-4aac-aa95-e3aee8de71fe.jpg","AOA-075","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","700 / 800","Resonator","Cat/Yin-Yang Master","Fukuzo Katsura","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Look at the top four cards of your deck. You may reveal a Shikigami from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.
+Activate
+[Rest], [g]: You may put a Shikigami with total cost 4 or less from your hand into the field.
+Activate
 Banish a Shikigami: This card gains [Barrier] until end of turn.","""Yes, you may touch them. But the shikigami only listen to my commands.""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4057","Shikigami Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4057/image_en/268d7eeb-9977-43ba-b840-f744671852b3.jpg","AOA-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 1)","","Fukuzo Katsura","Awakening of the Ancients","","""Witness the power of the shikigami."" -Seimei, the Shikigami User","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4057","Shikigami Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4057/image_en/268d7eeb-9977-43ba-b840-f744671852b3.jpg","AOA-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 1)","","Fukuzo Katsura","Awakening of the Ancients","","""Witness the power of the shikigami."" -Seimei, the Shikigami User","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4058","Three Beast Conference","http://d12h0em1d7ppg.cloudfront.net/items/40/4058/image_en/14925647-7e6a-4de1-9144-0a2d73aedd63.jpg","AOA-077","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 1)","","Nagi-nyan","Awakening of the Ancients","","""Mi-?"" ""Mi-?!"" ""Mi-!!""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4058","Three Beast Conference","http://d12h0em1d7ppg.cloudfront.net/items/40/4058/image_en/14925647-7e6a-4de1-9144-0a2d73aedd63.jpg","AOA-077","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 1)","","Nagi-nyan","Awakening of the Ancients","","""Mi-?"" ""Mi-?!"" ""Mi-!!""","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4059","Three Beast Warrior, Eaglemi","http://d12h0em1d7ppg.cloudfront.net/items/40/4059/image_en/a655599c-f2fa-4288-97a3-69834e148e77.jpg","AOA-078","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","300 / 300","Resonator","Mimi Tribe/Beast","yua","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4057","Shikigami Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4057/image_en/268d7eeb-9977-43ba-b840-f744671852b3.jpg","AOA-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 1)","","Fukuzo Katsura","Awakening of the Ancients","Card Text
+You pay [1] more to play this card from a rune area.
+Look at the top five cards of your deck. You may put a Shikigami with total cost 3 or less from among them into the field. If this card was awakened, put up to two into the field instead.
+[Awakening][g][1]","""Witness the power of the shikigami."" -Seimei, the Shikigami User","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4057","Shikigami Summoning","http://d12h0em1d7ppg.cloudfront.net/items/40/4057/image_en/268d7eeb-9977-43ba-b840-f744671852b3.jpg","AOA-076","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 1)","","Fukuzo Katsura","Awakening of the Ancients","Card Text
+You pay [1] more to play this card from a rune area.
+Look at the top five cards of your deck. You may put a Shikigami with total cost 3 or less from among them into the field. If this card was awakened, put up to two into the field instead.
+[Awakening][g][1]","""Witness the power of the shikigami."" -Seimei, the Shikigami User","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4058","Three Beast Conference","http://d12h0em1d7ppg.cloudfront.net/items/40/4058/image_en/14925647-7e6a-4de1-9144-0a2d73aedd63.jpg","AOA-077","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 1)","","Nagi-nyan","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [1] more to play this card from a rune area.
+Target J/resonator gains [+400/+400] until end of turn. You gain 500 life. Draw a card.","""Mi-?"" ""Mi-?!"" ""Mi-!!""","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4058","Three Beast Conference","http://d12h0em1d7ppg.cloudfront.net/items/40/4058/image_en/14925647-7e6a-4de1-9144-0a2d73aedd63.jpg","AOA-077","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","","Chant/Rune(Divinity 1)","","Nagi-nyan","Awakening of the Ancients","Card Text
+[Quickcast]
+You pay [1] more to play this card from a rune area.
+Target J/resonator gains [+400/+400] until end of turn. You gain 500 life. Draw a card.","""Mi-?"" ""Mi-?!"" ""Mi-!!""","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4059","Three Beast Warrior, Eaglemi","http://d12h0em1d7ppg.cloudfront.net/items/40/4059/image_en/a655599c-f2fa-4288-97a3-69834e148e77.jpg","AOA-078","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","300 / 300","Resonator","Mimi Tribe/Beast","yua","Awakening of the Ancients","Card Text
+Activate
 Banish this card: Target resonator gains [+400/+400] until end of turn.","""In times of danger, call upon the three beast warriors."" -Legend Passed Down Within the Mimi Tribe","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4060","Three Beast Warrior, Molemi","http://d12h0em1d7ppg.cloudfront.net/items/40/4060/image_en/3eb5870d-7e90-416f-aacf-a3db0ab094e6.jpg","AOA-079","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 500","Resonator","Mimi Tribe/Beast","hatarisu","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4060","Three Beast Warrior, Molemi","http://d12h0em1d7ppg.cloudfront.net/items/40/4060/image_en/3eb5870d-7e90-416f-aacf-a3db0ab094e6.jpg","AOA-079","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 500","Resonator","Mimi Tribe/Beast","hatarisu","Awakening of the Ancients","Card Text
+Automatic
 Whenever this card attacks ⇒ You gain 500 life.","Chamimi sensed danger approaching the Lost Isles and sent a messenger for the three beast warriors.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4060","Three Beast Warrior, Molemi","http://d12h0em1d7ppg.cloudfront.net/items/40/4060/image_en/3eb5870d-7e90-416f-aacf-a3db0ab094e6.jpg","AOA-079","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 500","Resonator","Mimi Tribe/Beast","hatarisu","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4060","Three Beast Warrior, Molemi","http://d12h0em1d7ppg.cloudfront.net/items/40/4060/image_en/3eb5870d-7e90-416f-aacf-a3db0ab094e6.jpg","AOA-079","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","700 / 500","Resonator","Mimi Tribe/Beast","hatarisu","Awakening of the Ancients","Card Text
+Automatic
 Whenever this card attacks ⇒ You gain 500 life.","Chamimi sensed danger approaching the Lost Isles and sent a messenger for the three beast warriors.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4061","Three Beast Warrior, Tigermi","http://d12h0em1d7ppg.cloudfront.net/items/40/4061/image_en/b1731b99-37fc-4cbb-b921-35afd4dca055.jpg","AOA-080","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Mimi Tribe/Beast","gajumaru","Awakening of the Ancients","Automatic
-[Enter] ⇒ Draw a card if you control another Mimi Tribe.","As per legend, Chamimi summoned the three beast warriors. Now she's at a loss as to what to do next.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4061","Three Beast Warrior, Tigermi","http://d12h0em1d7ppg.cloudfront.net/items/40/4061/image_en/b1731b99-37fc-4cbb-b921-35afd4dca055.jpg","AOA-080","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Mimi Tribe/Beast","gajumaru","Awakening of the Ancients","Automatic
-[Enter] ⇒ Draw a card if you control another Mimi Tribe.","As per legend, Chamimi summoned the three beast warriors. Now she's at a loss as to what to do next.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4061","Three Beast Warrior, Tigermi","http://d12h0em1d7ppg.cloudfront.net/items/40/4061/image_en/b1731b99-37fc-4cbb-b921-35afd4dca055.jpg","AOA-080","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Mimi Tribe/Beast","gajumaru","Awakening of the Ancients","Automatic
-[Enter] ⇒ Draw a card if you control another Mimi Tribe.","As per legend, Chamimi summoned the three beast warriors. Now she's at a loss as to what to do next.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4062","Alseid, the Harvester","http://d12h0em1d7ppg.cloudfront.net/items/40/4062/image_en/0679f894-a6b6-44cc-9f7e-d49688b84f2e.jpg","AOA-081","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 800","Resonator","Spirit","","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4061","Three Beast Warrior, Tigermi","http://d12h0em1d7ppg.cloudfront.net/items/40/4061/image_en/b1731b99-37fc-4cbb-b921-35afd4dca055.jpg","AOA-080","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Mimi Tribe/Beast","gajumaru","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Draw a card if you control another Mimi Tribe.
+[Rune]5 - [Enter] ⇒ Search your deck for up to one card named ""Three Beast Warrior, Eaglemi"" and up to one card named ""Three Beast Warrior, Molemi"" and put them into the field. Then shuffle your deck.","As per legend, Chamimi summoned the three beast warriors. Now she's at a loss as to what to do next.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4061","Three Beast Warrior, Tigermi","http://d12h0em1d7ppg.cloudfront.net/items/40/4061/image_en/b1731b99-37fc-4cbb-b921-35afd4dca055.jpg","AOA-080","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Mimi Tribe/Beast","gajumaru","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Draw a card if you control another Mimi Tribe.
+[Rune]5 - [Enter] ⇒ Search your deck for up to one card named ""Three Beast Warrior, Eaglemi"" and up to one card named ""Three Beast Warrior, Molemi"" and put them into the field. Then shuffle your deck.","As per legend, Chamimi summoned the three beast warriors. Now she's at a loss as to what to do next.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4061","Three Beast Warrior, Tigermi","http://d12h0em1d7ppg.cloudfront.net/items/40/4061/image_en/b1731b99-37fc-4cbb-b921-35afd4dca055.jpg","AOA-080","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/green.png","800 / 800","Resonator","Mimi Tribe/Beast","gajumaru","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Draw a card if you control another Mimi Tribe.
+[Rune]5 - [Enter] ⇒ Search your deck for up to one card named ""Three Beast Warrior, Eaglemi"" and up to one card named ""Three Beast Warrior, Molemi"" and put them into the field. Then shuffle your deck.","As per legend, Chamimi summoned the three beast warriors. Now she's at a loss as to what to do next.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4062","Alseid, the Harvester","http://d12h0em1d7ppg.cloudfront.net/items/40/4062/image_en/0679f894-a6b6-44cc-9f7e-d49688b84f2e.jpg","AOA-081","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 800","Resonator","Spirit","","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Put target darkness resonator with total cost 1 or less from your graveyard into the field.
+Activate
 [Rest], banish two other resonators: Destroy target resonator.","She lives to harvest. No matter what it may be.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4062","Alseid, the Harvester","http://d12h0em1d7ppg.cloudfront.net/items/40/4062/image_en/0679f894-a6b6-44cc-9f7e-d49688b84f2e.jpg","AOA-081","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 800","Resonator","Spirit","","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4062","Alseid, the Harvester","http://d12h0em1d7ppg.cloudfront.net/items/40/4062/image_en/0679f894-a6b6-44cc-9f7e-d49688b84f2e.jpg","AOA-081","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 800","Resonator","Spirit","","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Put target darkness resonator with total cost 1 or less from your graveyard into the field.
+Activate
 [Rest], banish two other resonators: Destroy target resonator.","She lives to harvest. No matter what it may be.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4062","Alseid, the Harvester","http://d12h0em1d7ppg.cloudfront.net/items/40/4062/image_en/0679f894-a6b6-44cc-9f7e-d49688b84f2e.jpg","AOA-081","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 800","Resonator","Spirit","","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4062","Alseid, the Harvester","http://d12h0em1d7ppg.cloudfront.net/items/40/4062/image_en/0679f894-a6b6-44cc-9f7e-d49688b84f2e.jpg","AOA-081","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 800","Resonator","Spirit","","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Put target darkness resonator with total cost 1 or less from your graveyard into the field.
+Activate
 [Rest], banish two other resonators: Destroy target resonator.","She lives to harvest. No matter what it may be.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4063","Believer Blinded by Faith","http://d12h0em1d7ppg.cloudfront.net/items/40/4063/image_en/895f40ec-05a3-498a-ad33-ffc8b77519d2.jpg","AOA-082","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","0 / 400","Resonator","Human","haniwa","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4063","Believer Blinded by Faith","http://d12h0em1d7ppg.cloudfront.net/items/40/4063/image_en/895f40ec-05a3-498a-ad33-ffc8b77519d2.jpg","AOA-082","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","0 / 400","Resonator","Human","haniwa","Awakening of the Ancients","Card Text
+Activate
 [Rest], [b], banish this card: Put target darkness resonator from your graveyard into your hand.","Lucifer prepared many sacrifices to break the seal on the altar.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4064","Crawler Zombie","http://d12h0em1d7ppg.cloudfront.net/items/40/4064/image_en/a27e5cda-e91e-4e9b-846f-fb1b18c9b056.jpg","AOA-083","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Zombie","TAKUMI","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4064","Crawler Zombie","http://d12h0em1d7ppg.cloudfront.net/items/40/4064/image_en/a27e5cda-e91e-4e9b-846f-fb1b18c9b056.jpg","AOA-083","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Zombie","TAKUMI","Awakening of the Ancients","Card Text
+Activate
 [b][b][b][1]: Put this card from your graveyard into the field. Play this ability only during your turn.","The crawling undead are getting restless. What could Oborozuki be plotting?","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4064","Crawler Zombie","http://d12h0em1d7ppg.cloudfront.net/items/40/4064/image_en/a27e5cda-e91e-4e9b-846f-fb1b18c9b056.jpg","AOA-083","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Zombie","TAKUMI","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4064","Crawler Zombie","http://d12h0em1d7ppg.cloudfront.net/items/40/4064/image_en/a27e5cda-e91e-4e9b-846f-fb1b18c9b056.jpg","AOA-083","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Zombie","TAKUMI","Awakening of the Ancients","Card Text
+Activate
 [b][b][b][1]: Put this card from your graveyard into the field. Play this ability only during your turn.","The crawling undead are getting restless. What could Oborozuki be plotting?","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4065","Diabolos, Sealed God of Madness","http://d12h0em1d7ppg.cloudfront.net/items/40/4065/image_en/3d7f140d-35a6-4069-8502-94172409d4f1.jpg","AOA-084","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1000","Resonator","Demon","touge369","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4065","Diabolos, Sealed God of Madness","http://d12h0em1d7ppg.cloudfront.net/items/40/4065/image_en/3d7f140d-35a6-4069-8502-94172409d4f1.jpg","AOA-084","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1000","Resonator","Demon","touge369","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Choose a resonator at random, then destroy all other resonators.
+Activate
 Pay 600 life: This card gains [Eternal] until end of turn.","""We welcome madness."" -Lucifer","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4065","Diabolos, Sealed God of Madness","http://d12h0em1d7ppg.cloudfront.net/items/40/4065/image_en/3d7f140d-35a6-4069-8502-94172409d4f1.jpg","AOA-084","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1000","Resonator","Demon","touge369","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4065","Diabolos, Sealed God of Madness","http://d12h0em1d7ppg.cloudfront.net/items/40/4065/image_en/3d7f140d-35a6-4069-8502-94172409d4f1.jpg","AOA-084","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","1200 / 1000","Resonator","Demon","touge369","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Choose a resonator at random, then destroy all other resonators.
+Activate
 Pay 600 life: This card gains [Eternal] until end of turn.","""We welcome madness."" -Lucifer","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4065","Diabolos, Sealed God of Madness","http://d12h0em1d7ppg.cloudfront.net/items/40/4065/image_en/3d7f140d-35a6-4069-8502-94172409d4f1.jpg","AOA-084","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1200 / 1000","Resonator","Demon","touge369","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4065","Diabolos, Sealed God of Madness","http://d12h0em1d7ppg.cloudfront.net/items/40/4065/image_en/3d7f140d-35a6-4069-8502-94172409d4f1.jpg","AOA-084","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1200 / 1000","Resonator","Demon","touge369","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Choose a resonator at random, then destroy all other resonators.
+Activate
 Pay 600 life: This card gains [Eternal] until end of turn.","""We welcome madness."" -Lucifer","Awakening of the Ancients"
 "http://www.fowtcg.com/card/4066","Diabolos' Kin","http://d12h0em1d7ppg.cloudfront.net/items/40/4066/image_en/85d351ff-6d5c-4287-99b6-aef51b58aac1.jpg","AOA-085","C","","Tatsuki Mutou","Awakening of the Ancients","","","Awakening of the Ancients","","",""
 "http://www.fowtcg.com/card/4067","Fallen Angel of Madness","http://d12h0em1d7ppg.cloudfront.net/items/40/4067/image_en/c3834732-14ae-4292-a083-4a48ebb7045a.jpg","AOA-086","U","","Haruichi Kido","Awakening of the Ancients","","","Awakening of the Ancients","","",""
 "http://www.fowtcg.com/card/4068","Fallen Angel of the Ritual","http://d12h0em1d7ppg.cloudfront.net/items/40/4068/image_en/9e056fd9-ecb3-434d-90f1-13268de46b47.jpg","AOA-087","C","","gajumaru","Awakening of the Ancients","","","Awakening of the Ancients","","",""
 "http://www.fowtcg.com/card/4069","Fallen to Madness","http://d12h0em1d7ppg.cloudfront.net/items/40/4069/image_en/0ef4774e-5001-4871-94a1-1689ebc7d4d7.jpg","AOA-088","C","","KEIICHIRO ITO","Awakening of the Ancients","","","Awakening of the Ancients","","",""
 "http://www.fowtcg.com/card/4070","Freed from the Altar","http://d12h0em1d7ppg.cloudfront.net/items/40/4070/image_en/ba7004e6-1da5-4c6a-a147-0f469c12cfba.jpg","AOA-089","U","","Mad","Awakening of the Ancients","","","Awakening of the Ancients","","",""
-"http://www.fowtcg.com/card/4071","Graveyard Scavenger","http://d12h0em1d7ppg.cloudfront.net/items/40/4071/image_en/f5efa510-1600-468b-b134-7253b2f97dc8.jpg","AOA-090","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","900 / 700","Resonator","Beast","douzen","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4071","Graveyard Scavenger","http://d12h0em1d7ppg.cloudfront.net/items/40/4071/image_en/f5efa510-1600-468b-b134-7253b2f97dc8.jpg","AOA-090","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","900 / 700","Resonator","Beast","douzen","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Remove up to two target cards in your opponent's graveyard from the game. Then put [+100/+100] counters on this card equal to the number of cards removed this way.","Some people say nothing soothes the spirit better than a good meal. They must've never met an undead.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4071","Graveyard Scavenger","http://d12h0em1d7ppg.cloudfront.net/items/40/4071/image_en/f5efa510-1600-468b-b134-7253b2f97dc8.jpg","AOA-090","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","900 / 700","Resonator","Beast","douzen","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4071","Graveyard Scavenger","http://d12h0em1d7ppg.cloudfront.net/items/40/4071/image_en/f5efa510-1600-468b-b134-7253b2f97dc8.jpg","AOA-090","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","900 / 700","Resonator","Beast","douzen","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Remove up to two target cards in your opponent's graveyard from the game. Then put [+100/+100] counters on this card equal to the number of cards removed this way.","Some people say nothing soothes the spirit better than a good meal. They must've never met an undead.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4071","Graveyard Scavenger","http://d12h0em1d7ppg.cloudfront.net/items/40/4071/image_en/f5efa510-1600-468b-b134-7253b2f97dc8.jpg","AOA-090","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","900 / 700","Resonator","Beast","douzen","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4071","Graveyard Scavenger","http://d12h0em1d7ppg.cloudfront.net/items/40/4071/image_en/f5efa510-1600-468b-b134-7253b2f97dc8.jpg","AOA-090","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","900 / 700","Resonator","Beast","douzen","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Remove up to two target cards in your opponent's graveyard from the game. Then put [+100/+100] counters on this card equal to the number of cards removed this way.","Some people say nothing soothes the spirit better than a good meal. They must've never met an undead.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4072","Harvesting Season","http://d12h0em1d7ppg.cloudfront.net/items/40/4072/image_en/d5588927-9ffb-4611-aeec-34dbf8ea0ae5.jpg","AOA-091","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant/Rune(Divinity 3)","","kakiken","Awakening of the Ancients","","""This one, that one, all of them, rotten to the core. Could it be, even me?"" -Alseid, the Harvester","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4072","Harvesting Season","http://d12h0em1d7ppg.cloudfront.net/items/40/4072/image_en/d5588927-9ffb-4611-aeec-34dbf8ea0ae5.jpg","AOA-091","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 3)","","kakiken","Awakening of the Ancients","","""This one, that one, all of them, rotten to the core. Could it be, even me?"" -Alseid, the Harvester","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4073","Lailah, Maiden of the Swamps","http://d12h0em1d7ppg.cloudfront.net/items/40/4073/image_en/72ca9be1-af56-4741-b07c-f2a374511a65.jpg","AOA-092","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","0 / 200","Resonator","Wizard","Nakaba Higurashi","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4072","Harvesting Season","http://d12h0em1d7ppg.cloudfront.net/items/40/4072/image_en/d5588927-9ffb-4611-aeec-34dbf8ea0ae5.jpg","AOA-091","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","","Chant/Rune(Divinity 3)","","kakiken","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+Put the top ten cards of your deck into your graveyard.","""This one, that one, all of them, rotten to the core. Could it be, even me?"" -Alseid, the Harvester","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4072","Harvesting Season","http://d12h0em1d7ppg.cloudfront.net/items/40/4072/image_en/d5588927-9ffb-4611-aeec-34dbf8ea0ae5.jpg","AOA-091","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 3)","","kakiken","Awakening of the Ancients","Card Text
+You may pay [1] less to play this card from a rune area.
+Put the top ten cards of your deck into your graveyard.","""This one, that one, all of them, rotten to the core. Could it be, even me?"" -Alseid, the Harvester","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4073","Lailah, Maiden of the Swamps","http://d12h0em1d7ppg.cloudfront.net/items/40/4073/image_en/72ca9be1-af56-4741-b07c-f2a374511a65.jpg","AOA-092","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","0 / 200","Resonator","Wizard","Nakaba Higurashi","Awakening of the Ancients","Card Text
+Automatic
 When this card is put into a graveyard from the field ⇒ Search your magic stone deck for a card named ""Darkness Magic Stone"" and put it into the field. Then shuffle your magic stone deck.","As the spring turned impure, so too did her heart.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4074","Laurier, Dark Corpse Sorceress","http://d12h0em1d7ppg.cloudfront.net/items/40/4074/image_en/57760103-622f-45a1-878b-bcf572731a44.jpg","AOA-093","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Wizard","Tomomi TOMIDA","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4074","Laurier, Dark Corpse Sorceress","http://d12h0em1d7ppg.cloudfront.net/items/40/4074/image_en/57760103-622f-45a1-878b-bcf572731a44.jpg","AOA-093","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Wizard","Tomomi TOMIDA","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Put two [100/100] darkness Skeleton resonator tokens into the field.","The darkness within cannot be perceived from outside. Only she herself knows how deep her darkness runs.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4074","Laurier, Dark Corpse Sorceress","http://d12h0em1d7ppg.cloudfront.net/items/40/4074/image_en/57760103-622f-45a1-878b-bcf572731a44.jpg","AOA-093","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Wizard","Tomomi TOMIDA","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4074","Laurier, Dark Corpse Sorceress","http://d12h0em1d7ppg.cloudfront.net/items/40/4074/image_en/57760103-622f-45a1-878b-bcf572731a44.jpg","AOA-093","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","400 / 400","Resonator","Wizard","Tomomi TOMIDA","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Put two [100/100] darkness Skeleton resonator tokens into the field.","The darkness within cannot be perceived from outside. Only she herself knows how deep her darkness runs.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4074","Laurier, Dark Corpse Sorceress","http://d12h0em1d7ppg.cloudfront.net/items/40/4074/image_en/57760103-622f-45a1-878b-bcf572731a44.jpg","AOA-093","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Wizard","Tomomi TOMIDA","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4074","Laurier, Dark Corpse Sorceress","http://d12h0em1d7ppg.cloudfront.net/items/40/4074/image_en/57760103-622f-45a1-878b-bcf572731a44.jpg","AOA-093","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400","Resonator","Wizard","Tomomi TOMIDA","Awakening of the Ancients","Card Text
+Automatic
 [Enter] ⇒ Put two [100/100] darkness Skeleton resonator tokens into the field.","The darkness within cannot be perceived from outside. Only she herself knows how deep her darkness runs.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4075","Laurier's Experiment","http://d12h0em1d7ppg.cloudfront.net/items/40/4075/image_en/b2c9cf30-f7bb-47f6-b0f3-915cb3eda147.jpg","AOA-094","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Zombie","Shosuke","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4075","Laurier's Experiment","http://d12h0em1d7ppg.cloudfront.net/items/40/4075/image_en/b2c9cf30-f7bb-47f6-b0f3-915cb3eda147.jpg","AOA-094","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Zombie","Shosuke","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Remove two target resonators in your graveyard from the game. If you do, put two [+100/+100] counters on this card.
+Automatic
 Whenever this card attacks ⇒ You may remove target card in your opponent's graveyard from the game.","""Strong and sexy!"" -Laurier, Dark Corpse Sorceress","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4075","Laurier's Experiment","http://d12h0em1d7ppg.cloudfront.net/items/40/4075/image_en/b2c9cf30-f7bb-47f6-b0f3-915cb3eda147.jpg","AOA-094","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Zombie","Shosuke","Awakening of the Ancients","Automatic
+"http://www.fowtcg.com/card/4075","Laurier's Experiment","http://d12h0em1d7ppg.cloudfront.net/items/40/4075/image_en/b2c9cf30-f7bb-47f6-b0f3-915cb3eda147.jpg","AOA-094","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/dark.png","600 / 600","Resonator","Zombie","Shosuke","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Remove two target resonators in your graveyard from the game. If you do, put two [+100/+100] counters on this card.
+Automatic
 Whenever this card attacks ⇒ You may remove target card in your opponent's graveyard from the game.","""Strong and sexy!"" -Laurier, Dark Corpse Sorceress","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4076","Mana Transmuter","http://d12h0em1d7ppg.cloudfront.net/items/40/4076/image_en/2947f134-848c-4172-b56a-91338dd078b2.jpg","AOA-095","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","600 / 700","Resonator","Vampire","Mayo","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4076","Mana Transmuter","http://d12h0em1d7ppg.cloudfront.net/items/40/4076/image_en/2947f134-848c-4172-b56a-91338dd078b2.jpg","AOA-095","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","600 / 700","Resonator","Vampire","Mayo","Awakening of the Ancients","Card Text
+Activate
 Pay 300 life: Produce [w],[r],[u],[g], or [b]. Play this ability only once per turn.","All they've been informed is that the Perfect Matrix serves as a casket of magic energy.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4076","Mana Transmuter","http://d12h0em1d7ppg.cloudfront.net/items/40/4076/image_en/2947f134-848c-4172-b56a-91338dd078b2.jpg","AOA-095","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 700","Resonator","Vampire","Mayo","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4076","Mana Transmuter","http://d12h0em1d7ppg.cloudfront.net/items/40/4076/image_en/2947f134-848c-4172-b56a-91338dd078b2.jpg","AOA-095","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 700","Resonator","Vampire","Mayo","Awakening of the Ancients","Card Text
+Activate
 Pay 300 life: Produce [w],[r],[u],[g], or [b]. Play this ability only once per turn.","All they've been informed is that the Perfect Matrix serves as a casket of magic energy.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4077","Oborozuki, Caller of Gods","http://d12h0em1d7ppg.cloudfront.net/items/40/4077/image_en/328c2bd5-7718-483f-8625-cdedf623e7a3.jpg","AOA-096","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Vampire/Wanderer","lack","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4077","Oborozuki, Caller of Gods","http://d12h0em1d7ppg.cloudfront.net/items/40/4077/image_en/328c2bd5-7718-483f-8625-cdedf623e7a3.jpg","AOA-096","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Vampire/Wanderer","lack","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Put two fresh blood counters on this card. If there are four or more runes revealed from your rune area, put four fresh blood counters on this card instead.
+Continuous
+Remove a fresh blood counter from this card: This card gains [Flying] and [Drain] until end of turn.
+Activate
+[Rest], remove two fresh blood counters from this card: Destroy target J/resonator.
+Continuous
 This card gains [+1000/+1000] as long as you control ten or more magic stones.","Athenia in tow, Oborozuki used her overwhelming might to convince the beings of the Abyss to work towards her cause. What that was and what her true intentions are remain a mystery to all.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4077","Oborozuki, Caller of Gods","http://d12h0em1d7ppg.cloudfront.net/items/40/4077/image_en/328c2bd5-7718-483f-8625-cdedf623e7a3.jpg","AOA-096","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Vampire/Wanderer","lack","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4077","Oborozuki, Caller of Gods","http://d12h0em1d7ppg.cloudfront.net/items/40/4077/image_en/328c2bd5-7718-483f-8625-cdedf623e7a3.jpg","AOA-096","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Vampire/Wanderer","lack","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Put two fresh blood counters on this card. If there are four or more runes revealed from your rune area, put four fresh blood counters on this card instead.
+Continuous
+Remove a fresh blood counter from this card: This card gains [Flying] and [Drain] until end of turn.
+Activate
+[Rest], remove two fresh blood counters from this card: Destroy target J/resonator.
+Continuous
 This card gains [+1000/+1000] as long as you control ten or more magic stones.","Athenia in tow, Oborozuki used her overwhelming might to convince the beings of the Abyss to work towards her cause. What that was and what her true intentions are remain a mystery to all.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4077","Oborozuki, Caller of Gods","http://d12h0em1d7ppg.cloudfront.net/items/40/4077/image_en/328c2bd5-7718-483f-8625-cdedf623e7a3.jpg","AOA-096","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Vampire/Wanderer","lack","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4077","Oborozuki, Caller of Gods","http://d12h0em1d7ppg.cloudfront.net/items/40/4077/image_en/328c2bd5-7718-483f-8625-cdedf623e7a3.jpg","AOA-096","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Vampire/Wanderer","lack","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Put two fresh blood counters on this card. If there are four or more runes revealed from your rune area, put four fresh blood counters on this card instead.
+Continuous
+Remove a fresh blood counter from this card: This card gains [Flying] and [Drain] until end of turn.
+Activate
+[Rest], remove two fresh blood counters from this card: Destroy target J/resonator.
+Continuous
 This card gains [+1000/+1000] as long as you control ten or more magic stones.","Athenia in tow, Oborozuki used her overwhelming might to convince the beings of the Abyss to work towards her cause. What that was and what her true intentions are remain a mystery to all.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4077","Oborozuki, Caller of Gods","http://d12h0em1d7ppg.cloudfront.net/items/40/4077/image_en/328c2bd5-7718-483f-8625-cdedf623e7a3.jpg","AOA-096","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Vampire/Wanderer","lack","Awakening of the Ancients","Continuous
+"http://www.fowtcg.com/card/4077","Oborozuki, Caller of Gods","http://d12h0em1d7ppg.cloudfront.net/items/40/4077/image_en/328c2bd5-7718-483f-8625-cdedf623e7a3.jpg","AOA-096","SR","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","1000 / 1000","Resonator","Vampire/Wanderer","lack","Awakening of the Ancients","Card Text
+Automatic
+[Enter] ⇒ Put two fresh blood counters on this card. If there are four or more runes revealed from your rune area, put four fresh blood counters on this card instead.
+Continuous
+Remove a fresh blood counter from this card: This card gains [Flying] and [Drain] until end of turn.
+Activate
+[Rest], remove two fresh blood counters from this card: Destroy target J/resonator.
+Continuous
 This card gains [+1000/+1000] as long as you control ten or more magic stones.","Athenia in tow, Oborozuki used her overwhelming might to convince the beings of the Abyss to work towards her cause. What that was and what her true intentions are remain a mystery to all.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4078","Perfect Matrix","http://d12h0em1d7ppg.cloudfront.net/items/40/4078/image_en/a439a834-2e7e-4288-b2a3-1f452da024a9.jpg","AOA-097","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant/Master Rune(Divinity 2)","","gekko","Awakening of the Ancients","","""Perfect. This'll do for the vessel."" ""Huh?"" ""You looking down on us?!"" -Oborozuki, Caller of Gods confronting Alice and Nyarlathotep","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4078","Perfect Matrix","http://d12h0em1d7ppg.cloudfront.net/items/40/4078/image_en/a439a834-2e7e-4288-b2a3-1f452da024a9.jpg","AOA-097","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant/Master Rune(Divinity 2)","","gekko","Awakening of the Ancients","","""Perfect. This'll do for the vessel."" ""Huh?"" ""You looking down on us?!"" -Oborozuki, Caller of Gods confronting Alice and Nyarlathotep","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4078","Perfect Matrix","http://d12h0em1d7ppg.cloudfront.net/items/40/4078/image_en/a439a834-2e7e-4288-b2a3-1f452da024a9.jpg","AOA-097","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","","Chant/Master Rune(Divinity 2)","","gekko","Awakening of the Ancients","","""Perfect. This'll do for the vessel."" ""Huh?"" ""You looking down on us?!"" -Oborozuki, Caller of Gods confronting Alice and Nyarlathotep","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4079","Puppeteer","http://d12h0em1d7ppg.cloudfront.net/items/40/4079/image_en/0e53acf0-8af2-4d36-a0be-5fb7eb38e29a.jpg","AOA-098","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","Tomomi TOMIDA","Awakening of the Ancients","","""Gotcha. Let's have some fun."" -Laurier, Dark Corpse Sorceress","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4079","Puppeteer","http://d12h0em1d7ppg.cloudfront.net/items/40/4079/image_en/0e53acf0-8af2-4d36-a0be-5fb7eb38e29a.jpg","AOA-098","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","Tomomi TOMIDA","Awakening of the Ancients","","""Gotcha. Let's have some fun."" -Laurier, Dark Corpse Sorceress","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4079","Puppeteer","http://d12h0em1d7ppg.cloudfront.net/items/40/4079/image_en/0e53acf0-8af2-4d36-a0be-5fb7eb38e29a.jpg","AOA-098","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","","Chant","","Tomomi TOMIDA","Awakening of the Ancients","","""Gotcha. Let's have some fun."" -Laurier, Dark Corpse Sorceress","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4080","Roar of Diabolos","http://d12h0em1d7ppg.cloudfront.net/items/40/4080/image_en/79fb84db-1b6e-49a4-bf34-144f971daf22.jpg","AOA-099","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant/Rune(Divinity 2)","","touge369","Awakening of the Ancients","","Diabolos' roar reached to the ends of the earth.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4080","Roar of Diabolos","http://d12h0em1d7ppg.cloudfront.net/items/40/4080/image_en/79fb84db-1b6e-49a4-bf34-144f971daf22.jpg","AOA-099","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant/Rune(Divinity 2)","","touge369","Awakening of the Ancients","","Diabolos' roar reached to the ends of the earth.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4080","Roar of Diabolos","http://d12h0em1d7ppg.cloudfront.net/items/40/4080/image_en/79fb84db-1b6e-49a4-bf34-144f971daf22.jpg","AOA-099","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 2)","","touge369","Awakening of the Ancients","","Diabolos' roar reached to the ends of the earth.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4081","Sacrificial Altar","http://d12h0em1d7ppg.cloudfront.net/items/40/4081/image_en/aa0c81a9-5b29-4665-a0be-43a3a3c8372c.jpg","AOA-100","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Addition","Ancient Ruins","Mad","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4078","Perfect Matrix","http://d12h0em1d7ppg.cloudfront.net/items/40/4078/image_en/a439a834-2e7e-4288-b2a3-1f452da024a9.jpg","AOA-097","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant/Master Rune(Divinity 2)","","gekko","Awakening of the Ancients","Card Text
+You may pay [2] less to play this card if your J/ruler is ""Lich"" or ""Lich, the Saint of Death"".
+Remove target resonator from the game. Look at your opponent's hand and choose a card that shares an attribute with the removed card. They remove that card from the game.","""Perfect. This'll do for the vessel."" ""Huh?"" ""You looking down on us?!"" -Oborozuki, Caller of Gods confronting Alice and Nyarlathotep","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4078","Perfect Matrix","http://d12h0em1d7ppg.cloudfront.net/items/40/4078/image_en/a439a834-2e7e-4288-b2a3-1f452da024a9.jpg","AOA-097","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant/Master Rune(Divinity 2)","","gekko","Awakening of the Ancients","Card Text
+You may pay [2] less to play this card if your J/ruler is ""Lich"" or ""Lich, the Saint of Death"".
+Remove target resonator from the game. Look at your opponent's hand and choose a card that shares an attribute with the removed card. They remove that card from the game.","""Perfect. This'll do for the vessel."" ""Huh?"" ""You looking down on us?!"" -Oborozuki, Caller of Gods confronting Alice and Nyarlathotep","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4078","Perfect Matrix","http://d12h0em1d7ppg.cloudfront.net/items/40/4078/image_en/a439a834-2e7e-4288-b2a3-1f452da024a9.jpg","AOA-097","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","","Chant/Master Rune(Divinity 2)","","gekko","Awakening of the Ancients","Card Text
+You may pay [2] less to play this card if your J/ruler is ""Lich"" or ""Lich, the Saint of Death"".
+Remove target resonator from the game. Look at your opponent's hand and choose a card that shares an attribute with the removed card. They remove that card from the game.","""Perfect. This'll do for the vessel."" ""Huh?"" ""You looking down on us?!"" -Oborozuki, Caller of Gods confronting Alice and Nyarlathotep","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4079","Puppeteer","http://d12h0em1d7ppg.cloudfront.net/items/40/4079/image_en/0e53acf0-8af2-4d36-a0be-5fb7eb38e29a.jpg","AOA-098","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","Tomomi TOMIDA","Awakening of the Ancients","Card Text
+Put target resonator from a graveyard into the field under your control.","""Gotcha. Let's have some fun."" -Laurier, Dark Corpse Sorceress","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4079","Puppeteer","http://d12h0em1d7ppg.cloudfront.net/items/40/4079/image_en/0e53acf0-8af2-4d36-a0be-5fb7eb38e29a.jpg","AOA-098","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant","","Tomomi TOMIDA","Awakening of the Ancients","Card Text
+Put target resonator from a graveyard into the field under your control.","""Gotcha. Let's have some fun."" -Laurier, Dark Corpse Sorceress","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4079","Puppeteer","http://d12h0em1d7ppg.cloudfront.net/items/40/4079/image_en/0e53acf0-8af2-4d36-a0be-5fb7eb38e29a.jpg","AOA-098","C","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","","Chant","","Tomomi TOMIDA","Awakening of the Ancients","Card Text
+Put target resonator from a graveyard into the field under your control.","""Gotcha. Let's have some fun."" -Laurier, Dark Corpse Sorceress","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4080","Roar of Diabolos","http://d12h0em1d7ppg.cloudfront.net/items/40/4080/image_en/79fb84db-1b6e-49a4-bf34-144f971daf22.jpg","AOA-099","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant/Rune(Divinity 2)","","touge369","Awakening of the Ancients","Card Text
+[Quickcast]
+You may pay [b] less to play this card from a rune area.
+Play this card only if you control a Demon.
+Destroy target J/resonator. Its controller discards a card at random.","Diabolos' roar reached to the ends of the earth.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4080","Roar of Diabolos","http://d12h0em1d7ppg.cloudfront.net/items/40/4080/image_en/79fb84db-1b6e-49a4-bf34-144f971daf22.jpg","AOA-099","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Chant/Rune(Divinity 2)","","touge369","Awakening of the Ancients","Card Text
+[Quickcast]
+You may pay [b] less to play this card from a rune area.
+Play this card only if you control a Demon.
+Destroy target J/resonator. Its controller discards a card at random.","Diabolos' roar reached to the ends of the earth.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4080","Roar of Diabolos","http://d12h0em1d7ppg.cloudfront.net/items/40/4080/image_en/79fb84db-1b6e-49a4-bf34-144f971daf22.jpg","AOA-099","R","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Chant/Rune(Divinity 2)","","touge369","Awakening of the Ancients","Card Text
+[Quickcast]
+You may pay [b] less to play this card from a rune area.
+Play this card only if you control a Demon.
+Destroy target J/resonator. Its controller discards a card at random.","Diabolos' roar reached to the ends of the earth.","Awakening of the Ancients"
+"http://www.fowtcg.com/card/4081","Sacrificial Altar","http://d12h0em1d7ppg.cloudfront.net/items/40/4081/image_en/aa0c81a9-5b29-4665-a0be-43a3a3c8372c.jpg","AOA-100","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/blue.png","","Addition","Ancient Ruins","Mad","Awakening of the Ancients","Card Text
+Activate
+Banish a resonator: Put an offering counter on this card.
+Activate
 Banish this card: Search your deck for a resonator with total cost X or less and put it into the field, where X is the number of offering counters that were on this card. Then shuffle your deck.","The altar contains the most detestable existences of Valhalla, locked away beneath countless seals.","Awakening of the Ancients"
-"http://www.fowtcg.com/card/4081","Sacrificial Altar","http://d12h0em1d7ppg.cloudfront.net/items/40/4081/image_en/aa0c81a9-5b29-4665-a0be-43a3a3c8372c.jpg","AOA-100","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition","Ancient Ruins","Mad","Awakening of the Ancients","Activate
+"http://www.fowtcg.com/card/4081","Sacrificial Altar","http://d12h0em1d7ppg.cloudfront.net/items/40/4081/image_en/aa0c81a9-5b29-4665-a0be-43a3a3c8372c.jpg","AOA-100","U","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","","Addition","Ancient Ruins","Mad","Awakening of the Ancients","Card Text
+Activate
+Banish a resonator: Put an offering counter on this card.
+Activate
 Banish this card: Search your deck for a resonator with total cost X or less and put it into the field, where X is the number of offering counters that were on this card. Then shuffle your deck.","The altar contains the most detestable existences of Valhalla, locked away beneath countless seals.","Awakening of the Ancients"

@@ -16,7 +16,7 @@
    "race": "Beast",
    "artist": "Miko Yamazaki",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhenever this card attacks ⇒ It may deal X00 damage to target resonator, where X is the number of [+100/+100] counters on this card.",
+   "text": "[Flying]\n\nContinuous\n\nEach turn, you may play your first “Accel's Reconnaissance” without paying its cost.\n\nAutomatic\n\n[Enter] ⇒ Choose a card from your Stranger deck at random and remove it from the game. Then put three [+100/+100] counters on this card for each (Stranger) resonator in your removed area.\n\nAutomatic\n\nWhenever this card attacks ⇒ It may deal X00 damage to target resonator, where X is the number of [+100/+100] counters on this card.",
    "flavor_text": "\"Come on, Accel!\" ーPier, the Godspeed Archer",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -35,6 +35,7 @@
    "race": "Sword Art",
    "artist": "haniwa",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nLook at the top X+1 cards of your deck, where X is the number of (Stranger) resonators in your removed area. Put a card from among them into your hand and the rest on the top or the bottom of your deck in any order.",
    "flavor_text": "\"Fly, Accel!\" ーPier, the Godspeed Archer",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -60,7 +61,7 @@
    "race": "Deity",
    "artist": "ishishou",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Remove it from the game. If you do, your life becomes 4000.",
+   "text": "[Pierce]\n\nContinuous\n\nIf damage would be dealt to you, it's dealt to this card instead.\n\nAutomatic\n\nWhen this card is put into a graveyard from the field ⇒ Remove it from the game. If you do, your life becomes 4000.",
    "flavor_text": "\"If Armalla can rise to the sky, it can use its defensive position to keep Niflheim in check. It will be the bulwark of Vell-Savaria.\" ーNote of Magna 28",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -83,6 +84,7 @@
    "race": "Deity",
    "artist": "Hitowa",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Precision] [Eternal]",
    "flavor_text": "\"I hope Armalla's new power will keep the world in balance. But I need to prepare myself for the new threat, and will keep Genesis, my regalia which created all the others, close at hand.\" ーNote of Magna 30",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -108,7 +110,7 @@
    "race": "Angel",
    "artist": "Pisuke",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhenever this card attacks ⇒ You gain 300 life for each Angel you control.",
+   "text": "[Flying] (This card cannot be blocked by J/resonators without [Flying].)\n\nAutomatic\n\nWhen this card enters your field ⇒ You may search your deck for an Angel resonator with total cost 4 or less and put it into your field. Then shuffle your deck.\n\nAutomatic\n\nWhenever this card attacks ⇒ You gain 300 life for each Angel you control.",
    "flavor_text": "Summoned by Winged Lord, they are the highest rank in the angelic orders.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -127,6 +129,7 @@
    "race": "Sword Art",
    "artist": "jitari",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nDestroy target resonator. Its controller gains 1000 life. If this card was awakened, choose a card from your Stranger deck at random and remove it from the game.\n\n[Awakening][G]",
    "flavor_text": "Holy power purifies the corrupted and seals them in crystals.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -152,6 +155,7 @@
    "race": "Angel",
    "artist": "noki",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Flying] (This card cannot be blocked by J/resonators without [Flying].)",
    "flavor_text": "The angelic figure inspires the people to the point where every insecurity vanishes.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -169,6 +173,7 @@
    "type": "Chant",
    "artist": "bambi kojo",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nTarget resonator gains [+200/+200] and [Flying] until end of turn.",
    "flavor_text": "\"With these, you'll be able to fly in the sky!\" -Wingman of Armalla",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -190,7 +195,7 @@
    "race": "Garden",
    "artist": "Fushikaden K.K.",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[W][W], [rest]: Rest target resonator without [Flying].",
+   "text": "Continuous\n\nResonators you control with [Flying] gain [+200/+200].\n\nActivate\n\n[W][W], [rest]: Rest target resonator without [Flying].",
    "flavor_text": "The wonderful view of the heavenly garden is granted only to those who are able to fly in the sky.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -213,7 +218,7 @@
    "race": "Wingman",
    "artist": "mie",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Continuous\n\nPrevent all damage that would be dealt to this card by fire resonators.",
+   "text": "[Flying] (This card cannot be blocked by J/resonators without [Flying].)\n\nContinuous\n\nPrevent all damage that would be dealt to this card by fire resonators.",
    "flavor_text": "When the Herald of the Winged Lord got to Alice, he began to talk to her choosing his words very carefully.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -233,7 +238,7 @@
    "race": "Human",
    "artist": "muranako",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Choose a card from your Stranger deck at random and remove it from the game.",
+   "text": "Automatic\n\n[Enter] ⇒ Choose a card from your Stranger deck at random and remove it from the game.\n\nAutomatic\n\nWhen this card is put into a graveyard from the field ⇒ Choose a card from your Stranger deck at random and remove it from the game.",
    "flavor_text": "Faith can be a subtle power.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -259,7 +264,7 @@
    "race": "Angel",
    "artist": "Pochiharu",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[1]: Prevent all damage that would be dealt to Angel resonators you control until end of turn.",
+   "text": "[Flying]\n\nActivate\n\n[1]: Prevent all damage that would be dealt to Angel resonators you control until end of turn.",
    "flavor_text": "\"I need to protect Vell-Savaria from Niflheim and the vampires, so I will look for help. And I have already an idea where I can find it.\" ーNote of Magna 26",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -279,7 +284,7 @@
    "race": "Angel",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ Remove up to three target cards in a graveyard from the game.",
+   "text": "[Quickcast] [Flying]\n\nAutomatic\n\n[Enter] ⇒ Remove up to three target cards in a graveyard from the game.",
    "flavor_text": "\"The living are the living, the dead are the dead.\"",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -299,7 +304,7 @@
    "race": "Five Heroes",
    "artist": "Kamijo Roro",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[Rest]: Put X divine bow counters on this card, where X is the number of (Stranger) resonators in your removed area.",
+   "text": "[Flying] [Swiftness]\n\nContinuous\n\nThis card enters the field with two divine bow counters on it.\n\nActivate\n\nRemove a divine bow counter from this card: This card deals 400 damage to target attacking or blocking J/resonator.\n\nActivate\n\nRemove two divine bow counters from this card: Destroy target addition.\n\nRemove four divine bow counters from this card: Destroy target J/resonator with [Flying].\n\nActivate\n\n[Rest]: Put X divine bow counters on this card, where X is the number of (Stranger) resonators in your removed area.",
    "flavor_text": "He returns to his friend, a divine bow in hand.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -340,6 +345,7 @@
    "type": "Chant",
    "artist": "sasaki kounosuke",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "Put a non-magic stone card from your removed area into your hand. Draw a card.",
    "flavor_text": "With Alice freed, she once again stood against Lapis.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -362,7 +368,7 @@
    "race": "Wingman",
    "artist": "uekino aroe",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[rest]: Target resonator gains [Flying] until end of turn.",
+   "text": "[Flying] (This card cannot be blocked by J/resonators without [Flying].)\n\nActivate\n\n[rest]: Target resonator gains [Flying] until end of turn.",
    "flavor_text": "The strong sense of responsibility drove this man to wake up even after death.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -380,6 +386,7 @@
    "type": "Chant",
    "artist": "fzwrAym",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nThis card deals X damage to target J/resonator, where X is the damage it dealt this turn.",
    "flavor_text": "Even if blood is washed from the hands, sins will not be washed away.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -399,7 +406,7 @@
    "race": "Angel",
    "artist": "Nakaba Higurashi",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ You may remove any number of cards in your hand from the game and draw that many cards.",
+   "text": "[Quickcast]\n\nContinuous\n\nYou may treat light and fire resonators in your hand as Goddesses.\n\nContinuous\n\nThis card gains [+100/0] for each card in your removed area.\n\nAutomatic\n\n[Enter] ⇒ You may remove any number of cards in your hand from the game and draw that many cards.",
    "flavor_text": "\"Hmm, you must be... a bad guy! By the orders of Lord Magna and Lenneth, you shall not pass!\"",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -425,7 +432,7 @@
    "race": "Dragon",
    "artist": "jugemt",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[1]: If you have [Passion], this card deals 400 damage to target resonator and this card gains [+400/0] until end of turn. Invert your ruler.",
+   "text": "[Flying] [Swiftness]\n\nContinuous\n\nIf you have [Passion], you may pay [2] less to play this card.\n\nActivate\n\n[1]: If you have [Passion], this card deals 400 damage to target resonator and this card gains [+400/0] until end of turn. Invert your ruler.",
    "flavor_text": "\"Adelbert told me to observe this world, but there is nothing interesting here.\" ーReflect",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -451,7 +458,7 @@
    "race": "Illusion",
    "artist": "Rumie",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ If you have [Passion], target resonator gains [First Strike] and [+400/0] until end of turn. Invert your ruler.",
+   "text": "[Swiftness]\n\nContinuous\n\nIf you have [Passion], you may pay [1] less to play this card.\n\nContinuous\n\nIf you control \"Blue Illusionary Hero\", you may pay [R] less to play this card.\n\nAutomatic\n\n[Enter] ⇒ If you have [Passion], target resonator gains [First Strike] and [+400/0] until end of turn. Invert your ruler.",
    "flavor_text": "The red hero is a blade of passion.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -473,6 +480,7 @@
    "race": "Mage Art",
    "artist": "Misa Tsutsui",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "If you have [Passion], you may pay [R] less to play this card.\n\nPut a [800/400] fire Beast resonator token with \"[Enter] ⇒ This card deals damage equal to its ATK to target resonator. Then, if you have [Passion], invert your ruler.\" into the field.",
    "flavor_text": "The beast of passion engulfs the opponent in a spiral of frenzy.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -498,7 +506,7 @@
    "race": "Warrior",
    "artist": "Zton",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Continuous\n\nIf your opponent was dealt damage this turn, you may pay [R][R] less to play this card.",
+   "text": "[Swiftness]\n\nContinuous\n\nIf your opponent was dealt damage this turn, you may pay [R][R] less to play this card.",
    "flavor_text": "\"Does Supremacy mean brave?\" \"No, it means timid.\" \"Really?\" \"Really.\" ーReflect and Refrain",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -524,7 +532,7 @@
    "race": "Fairy Tale",
    "artist": "Foo Midori",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhenever this card attacks ⇒ It may deal 300 damage to target resonator for each passion counter on it. If it does, remove all passion counters from it.",
+   "text": "[Swiftness] [First Strike]\n\nAutomatic\n\nWhenever this card attacks ⇒ Put a passion counter on it.\n\nAutomatic\n\nWhenever this card attacks ⇒ It may deal 300 damage to target resonator for each passion counter on it. If it does, remove all passion counters from it.",
    "flavor_text": "\"I'll burn my heart a bright red, like a ripe apple. Hey, do you dwarves too think like me? Perfect! They should have left it here.\"",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -544,7 +552,7 @@
    "race": "Spirit",
    "artist": "ShiroYayoi",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\nRemove two [+100/+100] counters from this card: This card deals 600 damage to target J/resonator.",
+   "text": "[Swiftness]\n\nAutomatic\n\n[Enter] ⇒ If you have [Passion], put two [+100/+100] counters on this card. Invert your ruler.\n\nActivate\n\nRemove two [+100/+100] counters from this card: This card deals 600 damage to target J/resonator.",
    "flavor_text": "The interest of Reflect becomes passion and travels Attoractia.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -591,6 +599,7 @@
    "type": "Chant",
    "artist": "Yuji Azuma",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nPut target resonator you control on the bottom of its owner's deck. If you do, you may put a resonator with the same total cost from your hand into your field. Draw a card.",
    "flavor_text": "\"It's not trick, it's not illusion!\" -Alice, the Girl in the Looking Glass",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -619,7 +628,7 @@
    "race": "Mermaid",
    "artist": "kurisu",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ Rest all J/resonators your opponent controls.",
+   "text": "[Quickcast]\n\nContinuous\n\nYou may banish two water magic stones rather than pay this card's cost.\n\nAutomatic\n\n[Enter] ⇒ Rest all J/resonators your opponent controls.",
    "flavor_text": "Where am I? Who... am I?",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -645,7 +654,7 @@
    "race": "Dragon",
    "artist": "jugemt",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[1]: If you have [Calmness], rest target entity and this card gains [0/+400] until end of turn. Invert your ruler.",
+   "text": "[Quickcast] [Flying]\n\nContinuous\n\nIf you have [Calmness], you may pay [2] less to play this card.\n\nAutomatic\n\n[1]: If you have [Calmness], rest target entity and this card gains [0/+400] until end of turn. Invert your ruler.",
    "flavor_text": "\"Adelbert told me to observe this world, and there is definitely something interesting here.\" ーRefrain",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -671,7 +680,7 @@
    "race": "Illusion",
    "artist": "Rumie",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ If you have [Calmness], target resonator gains [Barrier] and [0/+400] until end of turn. Invert your ruler.",
+   "text": "[Quickcast]\n\nContinuous\n\nIf you have [Calmness], you may pay [1] less to play this card.\n\nContinuous\n\nIf you control \"Red Illusionary Hero\", you may pay [B] less to play this card.\n\nAutomatic\n\n[Enter] ⇒ If you have [Calmness], target resonator gains [Barrier] and [0/+400] until end of turn. Invert your ruler.",
    "flavor_text": "The blue hero is the wisdom of calmness.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -693,6 +702,7 @@
    "race": "Mage Art",
    "artist": "Misa Tsutsui",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "If you have [Calmness], you may pay [B] less to play this card.\n\nPut a [400/800] water Beast resonator token with \"[Enter] ⇒ Draw three cards and put two cards from your hand on top of your deck in any order. Then, if you have [Calmness], invert your ruler.\" into the field.",
    "flavor_text": "The beast of calmness invites you into a whirlpool of thoughts.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -735,7 +745,7 @@
    "race": "Spirit",
    "artist": "ShiroYayoi",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\nRemove two [+100/+100] counters from this card: Draw a card.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] ⇒ If you have [Calmness], put two [+100/+100] counters on this card. Invert your ruler.\n\nActivate\n\nRemove two [+100/+100] counters from this card: Draw a card.",
    "flavor_text": "The interest of Refrain becomes calmness and analyzes Attoractia.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -753,6 +763,7 @@
    "type": "Chant",
    "artist": "Tom",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nTarget resonator gains [-800/0] or [0/+800] until end of turn.",
    "flavor_text": "\"Should we soften them up?\" \"No, we have to make them tougher.\" \"Really?\" \"Really.\"—Reflect, Child of Potential and Refrain, Child of Convergence",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -771,6 +782,7 @@
    "race": "Mage Art",
    "artist": "uekino aroe",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nChoose one - Target any number of chant spells. For each spell, its controller may pay [1]. If they don't, cancel it; or put up to one target card from your graveyard on the bottom of your deck. Draw a card.",
    "flavor_text": "Faurecia begins her journey back to being human again.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -796,7 +808,7 @@
    "race": "Goddess",
    "artist": "MOGUMO",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ Recover a magic stone you control.",
+   "text": "Continuous\n\nAutomatic abilities of Goddess resonators you control trigger an additional time. ([Enter] is an automatic ability.)\n\nAutomatic\n\n[Enter] ⇒ Recover a magic stone you control.",
    "flavor_text": "\"Although I am uncertain about the goal of these vampires, I suspect they are trying to meet with that other invading force. This could be a dangerous threat in the future.\" ーNote of Magna 25",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -836,7 +848,7 @@
    "race": "Knight of the Round Table",
    "artist": "suranaki",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\nBanish this card: Put two [+100/+100] counters on target resonator with [Flying].",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] ⇒ Reveal the top five cards of your deck. Put a resonator with [Flying] or a regalia from among them into your hand and the rest on the bottom of your deck in any order.\n\nActivate\n\nBanish this card: Put two [+100/+100] counters on target resonator with [Flying].",
    "flavor_text": "The green Holy Grail responds to the wings of the wind.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -862,7 +874,7 @@
    "race": "Zombie",
    "artist": "lack",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\nRemove three resonators in your graveyard from the game: Put this card from your graveyard into your hand.",
+   "text": "Continuous\n\nOther darkness resonators gain [+200/+200].\n\nContinuous\n\nNon-darkness resonators gain [-200/-200].\n\nActivate\n\nRemove three resonators in your graveyard from the game: Put this card from your graveyard into your hand.",
    "flavor_text": "\"His mind has been emptied completely, I am confident that from now on he will not betray me!\" -Rezzard, the Undead Lord",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -882,7 +894,7 @@
    "race": "Wizard",
    "artist": "Moopic",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[0]: Produce [D]. Play this ability only during your turn, only once per turn and only if this card is in your graveyard.",
+   "text": "[Bane]\n\nActivate\n\n[0]: Produce [D]. Play this ability only during your turn, only once per turn and only if this card is in your graveyard.",
    "flavor_text": "\"The power of those vampires is a negative force that sucks the life out of blood and spreads undead immortality. The Black City has fallen, and then rose again overnight as Niflheim, the realm of the Dead.\" ーNote of Magna 23",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -900,6 +912,7 @@
    "type": "Chant",
    "artist": "SIE NANAHARA",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "Target J/resonator you control gains [+800/+800] and [Precision] until end of turn. At the next end of turn, destroy it. (Cards you control with [Precision] can attack recovered J/resonators.)",
    "flavor_text": "\"I'll give you some of my blood. You should feel the effects immediately. \" -Shara, Third Daughter of the Mikage",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -925,7 +938,7 @@
    "race": "Angel/Demon",
    "artist": "Mad",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[B][M]: Whenever this card deals damage this turn ⇒ You gain that much life. Play this ability only once per turn.",
+   "text": "[Flying] (This card cannot be blocked by J/resonators without [Flying].)\n\nAutomatic\n\nWhen this card enters your field ⇒ Your opponent banishes a resonator.\n\nActivate\n\n[B][M]: Whenever this card deals damage this turn ⇒ You gain that much life. Play this ability only once per turn.",
    "flavor_text": "\"Follow me, and I shall be your angel. Oppose me, and I shall be your demon.\"",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -948,7 +961,7 @@
    "race": "Zombie",
    "artist": "Mad",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\nBanish this card: Remove target card in a graveyard from the game.",
+   "text": "Activate\n\n[Rest], remove a resonator in your graveyard from the game: Put two [+100/+100] counters on this card.\n\nActivate\n\nBanish this card: Remove target card in a graveyard from the game.",
    "flavor_text": "They leave all tombs clean and empty.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -968,7 +981,7 @@
    "race": "Knight",
    "artist": "Haruichi Kido",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Look at the top two cards of your deck. Put one from among them into your graveyard and the rest on top of your deck in any order.",
+   "text": "Automatic\n\n[Enter] ⇒ Look at the top two cards of your deck. Put one from among them into your graveyard and the rest on top of your deck in any order.\n\nAutomatic\n\nWhen this card is put into a graveyard from the field ⇒ Look at the top two cards of your deck. Put one from among them into your graveyard and the rest on top of your deck in any order.",
    "flavor_text": "The Black City was protected King Sigurd and his knights, until disaster struck.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -991,7 +1004,7 @@
    "race": "Witch",
    "artist": "lack",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Continuous\n\nThis card gains [+X/+Y] and all abilities of the resonator removed by this card, where X is the ATK and Y is the DEF of that resonator.",
+   "text": "Automatic\n\n[Enter] ⇒ Remove target resonator from the game.\n\nContinuous\n\nThis card gains [+X/+Y] and all abilities of the resonator removed by this card, where X is the ATK and Y is the DEF of that resonator.",
    "flavor_text": "\"It seems like there was a change in the Black City. Those visitors brought the concept of vampirism into this world.\" ーNote of Magna 22",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1011,7 +1024,7 @@
    "race": "Vampire",
    "artist": "yuko",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhenever this card is banished as an additional cost of a Mage Art or by an effect of a Mage Art ⇒ Put this card from your graveyard into your hand.",
+   "text": "[Quickcast] [Flying]\n\nAutomatic\n\n[Enter] ⇒ Search your deck for a darkness card and put it into your graveyard. Then shuffle your deck.\n\nContinuous\n\nVampires you control gain [Drain].\n\nAutomatic\n\nWhenever this card is banished as an additional cost of a Mage Art or by an effect of a Mage Art ⇒ Put this card from your graveyard into your hand.",
    "flavor_text": "\"Father, if you are finished with your business, can we have some fun?\"",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1030,6 +1043,7 @@
    "race": "Mage Art",
    "artist": "Takumi Sugikawa",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nYou may banish a darkness resonator rather than pay this card's cost.\n\nDestroy target resonator if its total cost is less than the number of cards in your graveyard. Choose a card from your Stranger deck at random and put it into your graveyard.",
    "flavor_text": "The undead are always craving company.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1047,7 +1061,7 @@
    "type": "Addition: Resonator",
    "artist": "Moopic",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhenever a resonator enters your field ⇒ You may add this card from your graveyard to that resonator.",
+   "text": "Continuous\n\nAdded resonator gains Zombie in addition to its own races.\n\nContinuous\n\nAdded resonator gains [+200/+200].\n\nAutomatic\n\nWhenever a resonator enters your field ⇒ You may add this card from your graveyard to that resonator.",
    "flavor_text": "There isn't a better way to get new servants.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1069,7 +1083,7 @@
    "race": "Grave",
    "artist": "tokiwa",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\nBanish this card: Put the top five cards of your deck into your graveyard.",
+   "text": "Continuous\n\nZombies you control gain [+200/+200].\n\nActivate\n\nBanish this card: Put the top five cards of your deck into your graveyard.",
    "flavor_text": "\"Come on, you joined the group already!\" -Rezzard, the Undead Lord",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1092,7 +1106,7 @@
    "race": "Human",
    "artist": "Shirono Muku",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ Until end of turn, you may play target (Stranger) resonator from your graveyard.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each (Stranger) resonator in your graveyard.\n\nAutomatic\n\n[Enter] ⇒ Until end of turn, you may play target (Stranger) resonator from your graveyard.",
    "flavor_text": "The heart of this priestess resonates with the call of strangers.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1112,7 +1126,7 @@
    "race": "Human",
    "artist": "sasaki kounosuke",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhen this card enters the field from a graveyard ⇒ It gains [Swiftness], [Precision] and [+200/+200] until end of turn. Until end of turn, if this card would leave the field, remove it from the game instead. At the next end of turn ⇒ Remove this card from the game.",
+   "text": "Continuous\n\nYou may play this card from your graveyard.\n\nAutomatic\n\nWhen this card enters the field from a graveyard ⇒ It gains [Swiftness], [Precision] and [+200/+200] until end of turn. Until end of turn, if this card would leave the field, remove it from the game instead. At the next end of turn ⇒ Remove this card from the game.",
    "flavor_text": "Death only makes them quicker and stronger.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1130,6 +1144,7 @@
    "type": "Chant",
    "artist": "gekko",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "Each player banishes a resonator, then each player discards a card.",
    "flavor_text": "The word \"sacrifice\" means \"gain\" for the Undead Lord.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1197,6 +1212,7 @@
    "race": "Mage Art",
    "artist": "gekko",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Remnant]\n\nAs an additional cost to play this card, banish a resonator.\n\nPut target darkness resonator from your graveyard into the field.",
    "flavor_text": "Reiya inherited the true power from her mother.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1222,7 +1238,7 @@
    "race": "Angel",
    "artist": "sakura moyon",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ You gain 1000 life. Prevent the next damage that would be dealt to target resonator until end of turn. If this card entered the field from a deck, draw two cards.",
+   "text": "[Quickcast] [Flying]\n\nAutomatic\n\n[Enter] ⇒ You gain 1000 life. Prevent the next damage that would be dealt to target resonator until end of turn. If this card entered the field from a deck, draw two cards.",
    "flavor_text": "The holy light of angels brings healing and salvation.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1251,7 +1267,7 @@
    "race": "Goddess",
    "artist": "Toridamono",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[W][W][G]: Remove target resonator from the game.",
+   "text": "[Swiftness] [First Strike]\n\nActivate\n\n[W]: Target entity you control gains [Barrier] until end of turn.\n\nActivate\n\n[W][G]: Resonators you control gain [+200/+200] until end of turn.\n\nActivate\n\n[W][W][G]: Remove target resonator from the game.",
    "flavor_text": "\"A hero visited Vell-Savaria, a friend of Arla. I gave him Artemis, the God's Bow, just in case.\" ーNote of Magna 29",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1273,6 +1289,7 @@
    "race": "Mage Art",
    "artist": "touge369",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nChoose one - This card deals 400 damage to each resonator. You gain life equal to the amount of damage dealt by this card; or banish any number of resonators. Draw that many cards; or put a [X00/X00] darkness Zombie resonator token into the field, where X is the number of cards in your graveyard.",
    "flavor_text": "\"People always betray, death won't.\" ーRezzard",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1294,6 +1311,7 @@
    "race": "Sword Art",
    "artist": "Kusanagi Tyouen",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nChoose one - Recover up to two J/resonators with [Flying]; or look at the top four cards of your deck. Put a non-chant card with total cost 2 or less from among them into the field. Put the rest on the bottom of your deck in a random order; or choose a card from your Stranger deck at random and remove it from the game. You gain life equal to its ATK.",
    "flavor_text": "\"Wings of the Archangel, please protect our land from the undead.\" ーArla",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1324,6 +1342,7 @@
    "race": "Mage Art",
    "artist": "Kelvin",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nIf you have [Passion], you may pay [B][B] less to play this card and choose one - Remove target resonator from the game; or resonators you control gain [+600/0] until end of turn.\n\nIf you have [Calmness], you may pay [R][R] less to play this card and choose one - Put target non-magic stone, non-J/resonator entity on the bottom of its owner's deck; or draw a card.",
    "flavor_text": "There is infinite space between passion and calmness.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1345,6 +1364,7 @@
    "race": "Mage Art",
    "artist": "hatarisu",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nIf you have [Passion], this card gains \"This card deals 800 damage to target resonator your opponent controls chosen at random.\".\n\nIf you have [Calmness], this card gains \"Return target non-magic stone, non-J-ruler entity to its owner's hand. Draw a card.\".",
    "flavor_text": "The flap of a butterfly's wings can cause disaster.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1365,7 +1385,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[Rest]: Produce [W][G]. Spend this will only to play Angels.",
+   "text": "Automatic\n\n[Enter] ⇒ Search your deck for an Angel, reveal it, and put it into your hand. Then shuffle your deck.\n\nActivate\n\n[Rest]: Produce [W][G]. Spend this will only to play Angels.",
    "flavor_text": "The choir of angels can be heard even far from the cathedral.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1386,7 +1406,7 @@
    "type": "Regalia",
    "artist": "moopic",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[Rest]: Produce [R] or [B]. If you have [Passion] or [Calmness], you may invert your ruler.",
+   "text": "[Mythic]\n\nActivate\n\n[Rest]: Produce two wills in any combination of [R] and/or [B]. Spend this will only to play Mage Arts.\n\nActivate\n\n[Rest]: Produce [R] or [B]. If you have [Passion] or [Calmness], you may invert your ruler.",
    "flavor_text": "Everybody has a change of heart once a while, but for Reflect and Refrain it's as natural as breathing.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1409,7 +1429,7 @@
    "race": "Little Girl",
    "artist": "Nekobayashi",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nAs long as your J-ruler is \"Faria\", it gains “Whenever a card named \"Excalibur\" enters the field under your control ⇒ Choose two - Choose a card from your Stranger deck at random and put it into the field; or remove target non-magic stone, non-J-ruler entity from the game; or draw two cards.",
+   "text": "[Barrier]\n\nContinuous\n\nCards named \"Faria\" you control gain [Barrier] and [+1000/+1000].\n\nContinuous\n\nCards named \"Lars, Knight of the Sacred Spirit\" you control gain [Eternal].\n\nAutomatic\n\nAs long as your J-ruler is \"Faria\", it gains “Whenever a card named \"Excalibur\" enters the field under your control ⇒ Choose two - Choose a card from your Stranger deck at random and put it into the field; or remove target non-magic stone, non-J-ruler entity from the game; or draw two cards.",
    "flavor_text": "\"Charlotte, I will protect you, always and forever.\" ーFaria",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1430,7 +1450,7 @@
    "type": "Regalia",
    "artist": "touge369",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\nRemove three cards in your graveyard from the game: Put this card from your graveyard into your hand.",
+   "text": "[Mythic]\n\nActivate\n\n[Rest]: Produce two wills in any combination of [G] and/or [D]. Spend this will only to play God's Art abilities, Mage Arts, cards from a graveyard or activate abilities of cards in a graveyard.\n\nActivate\n\nRemove three cards in your graveyard from the game: Put this card from your graveyard into your hand.",
    "flavor_text": "The slightest touch of Deathscythe can send away... or bring back.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1452,6 +1472,7 @@
    "race": "Sword Art",
    "artist": "Shosuke",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nChoose one - Cancel target resonator spell with total cost 3 or less: or destroy target resonator with [Flying].",
    "flavor_text": "Aid for those up in the sky.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1474,7 +1495,7 @@
    "race": "Five Heroes/Vampire",
    "artist": "Saiko Takaki",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Continuous\n\nIf you control a Five Heroes not named \"Faurecia, the Virtuous Vampire\", you may pay [G] or [D] less to play this card.",
+   "text": "[Flying] [Barrier]\n\nActivate\n\nDiscard a wind card: Target resonator gains [+400/+400] until end of turn.\n\nActivate\n\nDiscard a darkness card: Target resonator gains [-400/-400] until end of turn.\n\nActivate\n\nDiscard a wind/darkness card: Target resonator gains [+400/+400] and another target resonator gains [-400/-400] until end of turn.\n\nContinuous\n\nIf you control a Five Heroes not named \"Faurecia, the Virtuous Vampire\", you may pay [G] or [D] less to play this card.",
    "flavor_text": "Faurecia continues to fight the blood, and hates being a vampire.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1506,7 +1527,7 @@
    "race": "Warrior",
    "artist": "Pochiharu",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhenever a resonator with a promise counter on it is put into a graveyard from the field ⇒ Put this card from your graveyard into the field.",
+   "text": "[Bane] [Drain]\n\nActivate\n\n[D]: Put a promise counter on target resonator you control. Play this ability only if this card is in your graveyard.\n\nAutomatic\n\nWhenever a resonator with a promise counter on it is put into a graveyard from the field ⇒ Put this card from your graveyard into the field.",
    "flavor_text": "\"I sense an unknown power coming into this world. I wish it was harmless, but its defiling negative energy cannot be ignored.\" ーNote of Magna 21",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1527,7 +1548,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhenever a Knight of the Round Table is put into a graveyard from the field ⇒ You may return this card to its owner's hand.",
+   "text": "Continuous\n\nYou may rest a recovered \"Excalibur\" you control rather than pay this card's cost.\n\nAutomatic\n\n[Enter] ⇒ Reveal cards from the top of your deck until you reveal a Knight of the Round Table. Put that card into the field and the rest on the bottom of your deck in a random order.\n\nAutomatic\n\nWhenever a Knight of the Round Table is put into a graveyard from the field ⇒ You may return this card to its owner's hand.",
    "flavor_text": "The symbol of all Knight of the Round Table gathering in Gloria.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1553,7 +1574,7 @@
    "race": "Chimera",
    "artist": "Nezishiki",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhen this card enters your field ⇒ Put the top two cards of your magic stone deck into your field.",
+   "text": "[Flying]\n\nAutomatic\n\nWhen this card enters your field ⇒ Put the top two cards of your magic stone deck into your field.",
    "flavor_text": "The power of the Kyuubi can merge two into one.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1581,6 +1602,7 @@
    "race": "Sword Art",
    "artist": "KONNO Takashi",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "As you play this card, you may rest any number of recovered resonators you control with [Flying]. You pay [W] or [G] less to play this card for each resonator rested this way.\n\nDestroy all resonators without [Flying].",
    "flavor_text": "Aid for those stuck on the ground.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1629,7 +1651,7 @@
    "race": "Angel",
    "artist": "kurisu",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Continuous\n\nThis card gains [+400/+400] for each different name among all (Stranger) resonators in your removed area.",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] ⇒ Choose a card from your Stranger deck at random and remove it from the game.\n\nContinuous\n\nThis card gains [+400/+400] for each different name among all (Stranger) resonators in your removed area.",
    "flavor_text": "Magna's angel is guarding Armalla, infused with the power of Valhalla.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1658,7 +1680,7 @@
    "race": "Vampire",
    "artist": "YAMAMOTO-NAOKI",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ You may pay any amount of life. This card deals that much damage to target resonator your opponent controls.",
+   "text": "[Flying] [Precision]\n\nAutomatic\n\nWhenever a resonator dealt damage by this card this turn is put into a graveyard ⇒ Put it into the field under your control. It gains darkness in addition to its other attributes and Vampire in addition to its other races.\n\nActivate\n\nRemove a (Stranger) resonator in your graveyard from the game: This card gains [Eternal] until end of turn.\n\nAutomatic\n\n[Enter] ⇒ You may pay any amount of life. This card deals that much damage to target resonator your opponent controls.",
    "flavor_text": "\"So, this is the playground of Lapis. A very interesting world.\"",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1686,6 +1708,7 @@
    "race": "Mage Art",
    "artist": "IWAO",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "Each player puts all resonators from their graveyard into the field. Then, each player banishes all resonators not put into the field this way.",
    "flavor_text": "Life is but a dream.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1714,7 +1737,7 @@
    "race": "Human/Wizard",
    "artist": "ComamitsuZaki",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Continuous\n\nThis card cannot attack as long as there is a guide counter on it.",
+   "text": "Continuous\n\nYou may pay [1] less to play Mage Arts.\n\nContinuous\n\nIf you don't control \"Milcell, the Clairvoyant Guide\" and your ruler is \"Reflect\" or \"Refrain\", you may pay [R][R][B] or [R][B][B] less to play this card. If this card was played this way, it enters the field with a guide counter on it.\n\nContinuous\n\nThis card cannot attack as long as there is a guide counter on it.",
    "flavor_text": "She will show this world only to people she likes. And nobody on this world will ever notice.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1740,7 +1763,7 @@
    "race": "Beast",
    "artist": "fzwrAym",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ It deals 500 damage to your opponent.",
+   "text": "[Swiftness] [Precision] [First Strike]\n\nActivate\n\n[G]: This card gains [Flying] until end of turn.\n\nAutomatic\n\nWhen this card is put into a graveyard from the field ⇒ It deals 500 damage to your opponent.",
    "flavor_text": "\"I won't need my new power now, but I know that someday I will need every single bit to help new friends.\" ーPricia",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1762,6 +1785,7 @@
    "race": "Mage Art",
    "artist": "SIE NANAHARA",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nIf this card was played with will produced by \"Caduceus\", put it into its owner's hand as it resolves. Choose one - Look at the top two cards of your deck. Put a card from among them into your hand and remove the rest from the game; or put a Twelve Protective Deities from your hand into the field.",
    "flavor_text": "\"Such power... Lord Magna, we need help!\" ーLenneth",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1787,7 +1811,7 @@
    "race": "Beast",
    "artist": "gozz",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Continuous\n\nThis card gains all attributes, races, activate abilities, and keyword abilities of (Stranger) resonators in your removed area.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each different name among all (Stranger) resonators in your removed area.\n\nContinuous\n\nThis card gains all attributes, races, activate abilities, and keyword abilities of (Stranger) resonators in your removed area.",
    "flavor_text": "A sacred beast from another world.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1810,7 +1834,7 @@
    "race": "Wanderer",
    "artist": "noki",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\nRemove a story counter from this card: Look at a card from your Stranger deck at random. You may play it by paying its cost.",
+   "text": "[Barrier] (Chant)\n\nContinuous\n\nAs long as your ruler is \"Reflect\" or \"Refrain\", you gain [Passion] and [Calmness].\n\nAutomatic\n\n[Enter] ⇒ Put a story counter on this card. If this card was awakened, put five story counters on it instead.\n\nActivate\n\nRemove a story counter from this card: Look at a card from your Stranger deck at random. You may play it by paying its cost.\n\n[Awakening] Rest a recovered regalia you control.",
    "flavor_text": "\"Now this is an interesting story, a story worth adding to my other 1000.\"",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1835,6 +1859,7 @@
    "race": "Mage Art",
    "artist": "311tarou",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "Choose a card from your Stranger deck at random and put it into the field.",
    "flavor_text": "\"So, who is the next hero?\" ーScheherazade, the Teller of Heroic Epics",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1857,7 +1882,7 @@
    "race": "King/Zombie",
    "artist": "AKI",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ Search your deck for a darkness addition with total cost 2 or less and put it into the field. Then shuffle your deck.",
+   "text": "Continuous\n\nPlay this card only from your graveyard.\n\nContinuous\n\nZombies you control gain [Bane].\n\nAutomatic\n\n[Enter] ⇒ Search your deck for a darkness addition with total cost 2 or less and put it into the field. Then shuffle your deck.",
    "flavor_text": "The king is dead, the friend is gone.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1879,6 +1904,7 @@
    "race": "Mage Art",
    "artist": "yua",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nIf this is the second card you play this turn, you may pay [R] less to play this card. If this is the third card you play this turn, you may pay [B] less to play this card. If this is the fourth card you play this turn, you may pay [R][B] less to play this card.\n\nIf you have [Passion], this card gains \"Look at the top four cards of your deck. Put a card from among them into your hand and the rest on the bottom of your deck in any order.\".\n\nIf you have [Calmness], this card gains \"Copy target chant spell you control. You may choose new targets for the copy.\".",
    "flavor_text": "Even endless possibilities will converge in the end.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1900,6 +1926,7 @@
    "race": "Mage Art",
    "artist": "AKI",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Quickcast]\n\nAs an additional cost to play this card, banish a resonator.\n\nYour opponent banishes two resonators.",
    "flavor_text": "\"Rezzard, you are my last friend, but I will kill you.\" ーSigurd, the Covenant King",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1924,6 +1951,7 @@
    "race": "Sword Art",
    "artist": "Pisuke",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "You may banish all but one entity you control and discard your hand rather than pay this card's cost.\n\nThis card deals 1000 damage to your opponent.",
    "flavor_text": "\"This world is better than you think! As am I.\" ーShakti",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1946,7 +1974,7 @@
    "race": "Spirit",
    "artist": "akatsuchi",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[0]: Return this card to its owner's hand.",
+   "text": "[Quickcast] [Barrier]\n\nAutomatic\n\n[Enter] ⇒ Draw a card.\n\nActivate\n\n[0]: Return this card to its owner's hand.",
    "flavor_text": "\"His name is Arla, the king of Armalla. I sent him my angel and the Wings of the Archangel, the power to counter that negative energy and rise to the sky.\" ーNote of Magna 27",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1967,7 +1995,7 @@
    "type": "Regalia",
    "artist": "KONNO Takashi",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[Rest]: Produce two wills in any combination of [W] and/or [G]. Spend this will only to play God's Art abilities, Sword Arts, or Angels.",
+   "text": "[Mythic]\n\nContinuous\n\nYour J-ruler gains [Flying].\n\nActivate\n\n[Rest]: Produce two wills in any combination of [W] and/or [G]. Spend this will only to play God's Art abilities, Sword Arts, or Angels.",
    "flavor_text": "Wings of embodied faith.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -1990,7 +2018,7 @@
    "race": "Dragon",
    "artist": "Yukie TAJIMA",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Automatic\n\nWhen this card is put into a graveyard from the field ⇒ Put target Sword Art from your graveyard into your hand.",
+   "text": "[Flying]\n\nAutomatic\n\nWhen this card is dealt damage ⇒ Banish it.\n\nAutomatic\n\nWhen this card is put into a graveyard from the field ⇒ Put target Sword Art from your graveyard into your hand.",
    "flavor_text": "\"I'll bury your sword with your father.\" ーMelgis",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -2003,6 +2031,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "Alice Origin 3rd Booster Pack",
+   "text": "[Rest]: Produce one will of any attribute shared with your J/ruler.",
    "flavor_text": "\"This is the powersource Lord Magna made to extract the memories. He calls it a Memoria.\" Lenneth, the Priestess of Vell-Savaria",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -2015,7 +2044,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[rest]: Produce [G] or [B].",
+   "text": "Continuous\n\nTreat this card as a wind magic stone and darkness magic stone.\n\nActivate\n\n[rest]: Produce [G] or [B].",
    "flavor_text": "A darkness cast from the absence of light; A tranquility devoid of all sound.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -2028,7 +2057,7 @@
    "type": "Special Magic Stone",
    "artist": "Nekobayashi",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[rest]: Produce [W] or [G].",
+   "text": "Continuous\n\nTreat this card as a light magic stone and wind magic stone.\n\nActivate\n\n[rest]: Produce [W] or [G].",
    "flavor_text": "A momentary shine that reflects in the sky.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   },
@@ -2041,7 +2070,7 @@
    "type": "Special Magic Stone",
    "artist": "gozz",
    "expansion": "Alice Origin 3rd Booster Pack",
-   "text": "Activate\n\n[rest]: Produce [R] or [U].",
+   "text": "Continuous\n\nTreat this card as a fire magic stone and water magic stone.\n\nActivate\n\n[rest]: Produce [R] or [U].",
    "flavor_text": "A passion like burning flames; A presence as cold as ice.",
    "all_sets": "Alice Origin 3rd Booster Pack"
   }

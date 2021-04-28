@@ -19,7 +19,7 @@
    "race": "Four Sacred Beasts",
    "artist": "fzwrAym",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\nWhen this card enters your field ⇒ You gain 200 life for each Four Sacred Beasts you control.",
+   "text": "[Precision]\n\nAutomatic\n\nWhen this card enters your field ⇒ You gain 200 life for each Four Sacred Beasts you control.",
    "flavor_text": "It's the Patron's symbol.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -38,6 +38,7 @@
    "race": "Sword Art/Moon Art",
    "artist": "Pisuke",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "As an additional cost to play this card, pay any amount of life. Draw a card for each 1000 life paid this way.\n\n[Awakening][R]: This card deals X damage divided as you choose to any number of target J/resonators, where X is the amount of life paid as additional cost.\n\n[Awakening][M]: J/resonators gain [-100/-100] for each 100 life paid as additional cost until end of turn.",
    "flavor_text": "In a moonlit night, unnoticed by the world, there was a duel between unwavering belief and a dark invader.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -60,7 +61,7 @@
    "race": "Four Sacred Beasts",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\nWhen this card enters your field ⇒ It deals 200 damage to target resonator for each Four Sacred Beasts you control.",
+   "text": "[Swiftness] (This card can attack and play its abilities the same turn it enters a field.)\n\nAutomatic\n\nWhen this card enters your field ⇒ It deals 200 damage to target resonator for each Four Sacred Beasts you control.",
    "flavor_text": "That is the symbol of destruction.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -79,6 +80,7 @@
    "race": "Sword Art",
    "artist": "haniwa",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast]\n\nDraw a card. If you control \"Mariabella\", choose a card from your Stranger deck at random and put it into your hand.",
    "flavor_text": "\"For you, huh, made from spare parts.\" —Machina",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -96,7 +98,7 @@
    "type": "Addition: Resonator",
    "artist": "bambi kojo",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\nBanish this card: Draw a card.",
+   "text": "Continuous\n\nAdded resonator cannot attack resonators.\n\nActivate\n\nBanish this card: Draw a card.",
    "flavor_text": "\"Once planted, it grows wildly. That is its power.\" —Overlord of the Seven Lands, Valentina",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -115,7 +117,7 @@
    "race": "Machine",
    "artist": "KAZTO FURUYA",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[Rest], banish a Machine resonator: This card deals damage equal to the banished resonator's ATK to target J/resonator. Play this ability only if you control \"Marybell Type Zero\".",
+   "text": "Continuous\n\nCards named \"Marybell Type Zero\" you control gain [Pierce].\n\nActivate\n\n[Rest]: Target J/resonator you control gains [+400/0] until end of turn.\n\nActivate\n\n[Rest], banish a Machine resonator: This card deals damage equal to the banished resonator's ATK to target J/resonator. Play this ability only if you control \"Marybell Type Zero\".",
    "flavor_text": "The strongest weapon of Leginus.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -135,7 +137,7 @@
    "race": "Wizard",
    "artist": "ShiroYayoi",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\nBanish this card: Put target Gorgon from your graveyard into your hand.",
+   "text": "Continuous\n\nYou may pay [1] less to play Gorgon spells.\n\nActivate\n\nBanish this card: Put target Gorgon from your graveyard into your hand.",
    "flavor_text": "The mage charmed by Valentina gladly sacrificed her life.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -158,7 +160,7 @@
    "race": "Gorgon",
    "artist": "Fukuzo Katsura",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[U]: Target Gorgon gains [+200/0] until end of turn. Play this ability only once per turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Rest target resonator. It doesn't recover during the recovery phase as long as this card is in a field.\n\nActivate\n\n[U]: Target Gorgon gains [+200/0] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Once you lock your eyes with it, regardless of its power, you'll be deprived of your freedom of movement.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -179,6 +181,7 @@
    "type": "Chant",
    "artist": "hatarisu",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Draw two cards.",
    "flavor_text": "\"I see a shadow approaching above this world: it's the sign of the impending battle. The fate of the world lies both in the hands of the warriors of the light and those of the shadow.\" -The Prediction of a Fortune-Teller",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -229,7 +232,7 @@
    "race": "Machine",
    "artist": "mita kura",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Continuous\n\nAs long as this card is in your removed area, you may pay [0] to play activate abilities of cards named \"Leginus, the Mechanical City\" you control.",
+   "text": "Automatic\n\n[Enter] ⇒ Draw a card.\n\nAutomatic\n\nWhenever you do judgment of a ruler ⇒ Remove this card from the game. You may reveal a \"Leginus, the Mechanical City\" from outside the game and put it into the field.\n\nContinuous\n\nAs long as this card is in your removed area, you may pay [0] to play activate abilities of cards named \"Leginus, the Mechanical City\" you control.",
    "flavor_text": "Utopia for those who seek knowledge.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -255,7 +258,7 @@
    "race": "Machine",
    "artist": "Shosuke",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Continuous\n\nAs long as you control seven or more Machines, other Machine J/resonators you control gain the keyword abilities of this card.",
+   "text": "Continuous\n\nAs long as you control three or more Machines, Machine J/resonators you control gain [+200/+200].\n\nContinuous\n\nAs long as you control five or more Machines, this card gains [Flying].\n\nContinuous\n\nAs long as you control seven or more Machines, other Machine J/resonators you control gain the keyword abilities of this card.",
    "flavor_text": "Battle skills and intel are shared by rapid transmission technology.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -278,7 +281,7 @@
    "race": "Gorgon",
    "artist": "ishishou",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[U]: Gorgons you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "text": "Automatic\n\nWhenever this card blocks or is blocked by a resonator ⇒ Put that resonator on the bottom of its owner's deck.\n\nActivate\n\n[U]: Gorgons you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Once you lock your eyes with it, regardless of your bond with reality, you'll be deprived of your connection with the world.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -298,7 +301,7 @@
    "race": "Machine",
    "artist": "NEJITA",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[G]: This card gains [Barrier] until end of turn.",
+   "text": "[Quickcast]\n\nAutomatic\n\nWhenever this card blocks ⇒ Recover it and it gains [0/+1000] until end of turn. This ability triggers only once per turn.\n\nActivate\n\n[B]: This card gains [Flying] until end of turn.\n\nActivate\n\n[G]: This card gains [Barrier] until end of turn.",
    "flavor_text": "By analyzing this machine from another world, Machina discovered many new technologies.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -319,7 +322,7 @@
    "type": "Addition: Field",
    "artist": "Fushikaden K.K.",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Continuous\n\nAs long as you have five or more cards in your hand, water resonators you control gain [+100/+100].",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Draw a card.\n\nContinuous\n\nWater resonators you control gain [+100/+100].\n\nContinuous\n\nAs long as you have five or more cards in your hand, water resonators you control gain [+100/+100].",
    "flavor_text": "\"Welcome to my paradise.\" -Valentina, the Princess of Love",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -339,7 +342,7 @@
    "race": "Human",
    "artist": "j-peg",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\nWhenever you play a water or darkness Mage Art ⇒ Target resonator gains [-200/0] until end of turn.",
+   "text": "Activate\n\n[Rest]: Produce [B] or [D]. Spend this will only to play Mage Arts.\n\nAutomatic\n\nWhenever you play a water or darkness Mage Art ⇒ Target resonator gains [-200/0] until end of turn.",
    "flavor_text": "The melody played by Shion invokes feelings of a sorrowful search.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -362,7 +365,7 @@
    "race": "Gorgon",
    "artist": "yuhki lily",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[U]: Target Gorgon gains [0/+200] until end of turn. Play this ability only once per turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Target resonator loses all abilities as long as this card is in a field.\n\nActivate\n\n[U]: Target Gorgon gains [0/+200] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Once you lock your eyes with it, regardless of your will, you'll be deprived of your freedom to love.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -381,6 +384,7 @@
    "race": "Sword Art",
    "artist": "Kusanagi Tyouen",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast]\n\nAs an additional cost to play this card, reveal a Machine resonator from your hand.\n\nThis card deals damage equal to revealed resonator's ATK to target J/resonator. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.\n\n[Awakening][G]",
    "flavor_text": "Machina's orders have to be followed to the letter.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -399,6 +403,7 @@
    "race": "Mage Art",
    "artist": "jitari",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast][Remnant]\n\nTarget J/resonator gains [-800/0] until end of turn.",
    "flavor_text": "Vala disappeared after achieving her goal and returned to Shangri-La as Valentina.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -437,7 +442,7 @@
    "race": "Machine",
    "artist": "IWAO",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[Rest]: Prevent all damage that would be dealt to target Machine resonator until end of turn. Play this ability only if you control \"Marybell Type Zero\".",
+   "text": "Continuous\n\nCards named \"Marybell Type Zero\" you control gain [Barrier].\n\nActivate\n\n[Rest]: Target J/resonator you control gains [0/+400] until end of turn.\n\nActivate\n\n[Rest]: Prevent all damage that would be dealt to target Machine resonator until end of turn. Play this ability only if you control \"Marybell Type Zero\".",
    "flavor_text": "The strongest shield of Leginus.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -460,7 +465,7 @@
    "race": "Machine",
    "artist": "muranako",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Continuous\n\nAs long as you control five or more Machines, this card gains [Barrier].",
+   "text": "Activate\n\nRest two recovered Machines you control: Rest target J/resonator.\n\nContinuous\n\nAs long as you control five or more Machines, this card gains [Barrier].",
    "flavor_text": "For advanced machines, water is no enemy.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -483,7 +488,7 @@
    "race": "Four Sacred Beasts",
    "artist": "Mad",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\nWhenever this card blocks ⇒ Prevent the next damage it would be dealt until end of turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ Return target resonator to its owner's hand if its total cost is less than or equal to the number of Four Sacred Beasts you control.\n\nAutomatic\n\nWhenever this card blocks ⇒ Prevent the next damage it would be dealt until end of turn.",
    "flavor_text": "That is the symbol of immobility.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -503,7 +508,7 @@
    "race": "Human",
    "artist": "MOGUMO",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\nBanish this card: Target (Stranger) or regalia gains [Barrier] until end of turn.",
+   "text": "Automatic\n\n[Enter] ⇒ Put up to two target cards in any removed area into their owner's graveyard.\n\nAutomatic\n\nWhen this card is put into a graveyard from the field ⇒ You may pay [G]. If you do, choose a card from your Stranger deck at random and put it into your hand.\n\nActivate\n\nBanish this card: Target (Stranger) or regalia gains [Barrier] until end of turn.",
    "flavor_text": "The time of abundant harvest will not end when the wind stops.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -528,6 +533,7 @@
    "race": "Sword Art",
    "artist": "BANAMONS*",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast]\n\nYou may play this card without paying its cost if it targets a spell that was not played from a hand.\n\nCancel target chant spell. If you control a wind regalia, draw a card.",
    "flavor_text": "\"No, never!\" —Pricia",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -545,6 +551,7 @@
    "type": "Chant",
    "artist": "yuko",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "You may pay [G] less to play this card if it targets a Beast.\n\nTarget resonator gains [Swiftness] and [Precision] until end of turn. Draw a card.",
    "flavor_text": "By mimicking the movements of beasts, Pricia was able to move even quicker.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -570,7 +577,7 @@
    "race": "Four Sacred Beasts",
    "artist": "Kelvin",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[1]: Other Four Sacred Beasts resonators you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
+   "text": "Automatic\n\nWhen this card enters your field ⇒ If you control another Four Sacred Beasts, draw a card.\n\nActivate\n\n[1]: Other Four Sacred Beasts resonators you control gain [+200/+200] until end of turn. Play this ability only once per turn.",
    "flavor_text": "That is the symbol of rampage.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -590,7 +597,7 @@
    "race": "Beast",
    "artist": "kakotomirai",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\nWhenever another resonator enters your field ⇒ This card gains [+200/+200] until end of turn.",
+   "text": "Continuous\n\nBeasts you control cannot be targeted by chants or abilities your opponent controls during your opponent's turn.\n\nContinuous\n\nWind resonators in your hand gain [Quickcast].\n\nAutomatic\n\nWhenever another resonator enters your field ⇒ This card gains [+200/+200] until end of turn.",
    "flavor_text": "Forest dwellers can hardly see the Sacred Beast of Yggdrasil. But when the beast appears to someone it does it as a sign of good luck or terrible misfortune.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -610,7 +617,7 @@
    "race": "Beast",
    "artist": "Yuko Nagasaki",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Continuous\n\nAs long as there are three or more friendship counters on your J/ruler, this card gains [Precision].",
+   "text": "Automatic\n\n[Enter] ⇒ Put a friendship counter on your J/ruler.\n\nContinuous\n\nAs long as there are three or more friendship counters on your J/ruler, this card gains [Precision].",
    "flavor_text": "Mind and body focused in just one direction.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -628,7 +635,7 @@
    "type": "Addition",
    "artist": "AKI",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[Rest]: If there are three or more friendship counters on your J/ruler, you may put a Four Sacred Beasts from your hand into the field.",
+   "text": "Automatic\n\n[Enter] ⇒ Put a friendship counter on your J/ruler. You may search your deck for a Four Sacred Beasts, reveal it and put it into your hand. Then shuffle your deck.\n\nActivate\n\n[Rest]: If there are three or more friendship counters on your J/ruler, you may put a Four Sacred Beasts from your hand into the field.",
    "flavor_text": "Bathing in these hot springs rekindles the fighting spirit.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -650,7 +657,7 @@
    "race": "Forest",
    "artist": "Kelvin",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\nWhenever a resonator is put into a graveyard from your field ⇒ You may pay [G][G][1]. If you do, draw a card.",
+   "text": "Continuous\n\nBeasts and Four Sacred Beasts you control gain [+200/+200].\n\nAutomatic\n\nWhenever a resonator is put into a graveyard from your field ⇒ You may pay [G][G][1]. If you do, draw a card.",
    "flavor_text": "Yggdrasil, the tree of life is safe in this forest: the area that surrounds it doesn't belong to anyone and it's considered a sacred temple.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -696,7 +703,7 @@
    "race": "Beast",
    "artist": "gozz",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Continuous\n\nThis card can block J/resonators with [Flying].",
+   "text": "Continuous\n\nIf there are three or more friendship counters on your J/ruler, this card in your hand gains [Quickcast] and you may pay [1] less to play this card.\n\nAutomatic\n\n[Enter] ⇒ Destroy target resonator with [Flying].\n\nContinuous\n\nThis card can block J/resonators with [Flying].",
    "flavor_text": "\"That flying guy is a bad guy!\" —Pricia",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -719,7 +726,7 @@
    "race": "Demon",
    "artist": "Mad",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ Destroy target resonator with ATK 0 or less.",
+   "text": "[Bane]\n\nContinuous\n\nIf your opponent controls a J/resonator with ATK 0 or less, you may pay [3] less to pay this card.\n\nAutomatic\n\n[Enter] ⇒ Destroy target resonator with ATK 0 or less.",
    "flavor_text": "\"Oh, I think I'll get along with you.\" —Valentina",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -740,6 +747,7 @@
    "type": "Chant",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast] [Remnant]\n\nPut target resonator from your graveyard into your field. Remove it from the game at end of turn.",
    "flavor_text": "A taboo in the old world.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -757,7 +765,7 @@
    "type": "Addition",
    "artist": "Haruichi Kido",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[Rest], remove a forbidden arts counter from this card: Draw a card.",
+   "text": "Activate\n\n[Rest]: Destroy target resonator with ATK 0 or less. Put a forbidden arts counter on this card.\n\nActivate\n\n[Rest], remove a forbidden arts counter from this card: Draw a card.",
    "flavor_text": "\"The weak will always be exploited. But you rejoice, it is me who does the exploiting.\" —Valentina",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -779,6 +787,7 @@
    "race": "Sword Art",
    "artist": "Nekobayashi",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast]\n\nYou and entities you control gain [Barrier] until end of turn. Draw a card.\n\nIf you control \"Excalibur\" and a J-ruler named \"Faria\", you may play this card without paying its cost.",
    "flavor_text": "The new enemy's attack awakened Faria.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -800,6 +809,7 @@
    "race": "Mage Art",
    "artist": "Yukie TAJIMA",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Look at your opponent's hand. Choose a card. They put that card on the bottom of their deck. If this card was awakened, choose a card from your Stranger deck at random and put it into your hand.\n\n[Awakening] Discard two cards.",
    "flavor_text": "\"Show me your true desire.\" —Valentina",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -821,6 +831,7 @@
    "race": "Sword Art",
    "artist": "yuko",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast]\n\nChoose one - This card deals 1000 damage to target J/resonator; or target J/resonator you control gains [+1000/+1000] until end of turn.\n\nIf there are three or more friendship counters on your J/ruler, you may pay [G] or [R] to play this card instead. If there are seven or more friendship counters on your J/ruler, you may play this card without paying its cost.",
    "flavor_text": "\"This is a proof of friendship!\" —Pricia",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -869,7 +880,7 @@
    "race": "Machine",
    "artist": "noki",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[Rest], banish two Machines: Choose a card from your Stranger deck at random and put it into your hand.",
+   "text": "[Flying]\n\nActivate\n\n[Rest], banish two Machines: Choose a card from your Stranger deck at random and put it into your hand.",
    "flavor_text": "\"Ehh.. Who are you messaging?!\" —Mariabella",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -895,7 +906,7 @@
    "race": "Elemental",
    "artist": "gekko",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\nRest a recovered card named \"Laevateinn\" you control: Put this card from your graveyard into the field. If it would leave the field, remove it from the game instead.",
+   "text": "[Swiftness][Precision]\n\nAutomatic\n\nAt the end of your turn ⇒ Banish this card.\n\nAutomatic\n\nWhen this card is put into a graveyard from the field ⇒ Choose a card from your Stranger deck at random and put it into your hand.\n\nActivate\n\nRest a recovered card named \"Laevateinn\" you control: Put this card from your graveyard into the field. If it would leave the field, remove it from the game instead.",
    "flavor_text": "Laevateinn's power crystal.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -920,6 +931,7 @@
    "race": "Mage Art",
    "artist": "ishishou",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Search your deck for up to three Gorgons that don't share a name, reveal them, and put them into your hand. Then shuffle your deck. Remove this card from the game and put a forbidden arts counter on it. Then, if you control a J-ruler named \"Valentina\", put up to three Gorgons that don't share a name from your hand into the field.\n\nAs long as this card is in your removed area with one or more forbidden arts counters on it, Gorgons you control gain [+200/+200].",
    "flavor_text": "\"Welcome, you all.\" —Valentina",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -942,7 +954,7 @@
    "race": "Beast",
    "artist": "Misa Tsutsui",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ This card may deal damage equal to its ATK to target attacking or blocking J/resonator. This ability triggers only if there are three or more friendship counters on your J/ruler.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] ⇒ This card may deal damage equal to its ATK to target attacking or blocking J/resonator. This ability triggers only if there are three or more friendship counters on your J/ruler.",
    "flavor_text": "\"WARNING! Bear in area. NO, it's behind you already!\" —Sign in the forest of Sissei",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -965,7 +977,7 @@
    "race": "God/Beast",
    "artist": "suranaki",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Continuous\n\nAs long as you control four or more Four Sacred Beasts with different names, this card and Four Sacred Beasts you control gain [Swiftness], [Flying], and [Barrier].",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each Four Sacred Beasts you control.\n\nAutomatic\n\n[Enter] ⇒ Reveal cards from the top of your deck until you reveal a Four Sacred Beasts resonator that doesn't share a name with resonators you control. Put that card into the field and shuffle the rest into your deck.\n\nContinuous\n\nAs long as you control four or more Four Sacred Beasts with different names, this card and Four Sacred Beasts you control gain [Swiftness], [Flying], and [Barrier].",
    "flavor_text": "Call of the beginning.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -988,7 +1000,7 @@
    "race": "Human/Machine",
    "artist": "Rumie",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\nRemove this card in your graveyard from the game: Put a soul counter on a “Marybell Type Zero” you control.",
+   "text": "Automatic\n\n[Enter] ⇒ Search your deck for a Machine, reveal it, and put it into your hand. Then shuffle your deck.\n\nActivate\n\n[B], discard this card: Search your deck for a card named \"Marybell Type Zero\", reveal it, and put it into your hand. Then shuffle your deck.\n\nActivate\n\nRemove this card in your graveyard from the game: Put a soul counter on a “Marybell Type Zero” you control.",
    "flavor_text": "\"Mariabella, I think we will be together for a very long time, but...\"",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1014,7 +1026,7 @@
    "race": "Machine",
    "artist": "Takumi Sugikawa",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ Draw two cards, then discard two cards. Put a [200/200] water Machine resonator token into the field for each Machine discarded this way. If this card was awakened, draw two cards.",
+   "text": "Automatic\n\n[Enter] ⇒ Draw two cards, then discard two cards. Put a [200/200] water Machine resonator token into the field for each Machine discarded this way. If this card was awakened, draw two cards.\n\n[Awakening] Remove two Machines in your graveyard from the game.",
    "flavor_text": "\"A very effective utilization of resources!\" —Mariabella",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1036,7 +1048,7 @@
    "race": "Machine",
    "artist": "Kusanagi Tyouen",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[0]: This card becomes a [1000/1000] resonator until end of turn. Play this ability only if there is a soul counter on this card.",
+   "text": "[Mythic]\n\nContinuous\n\nYour J-ruler gains [Barrier].\n\nActivate\n\n[Rest]: Produce two wills in any combination of [B] and/or [G]. Spend this will only to play God's Art abilities, (Strangers), or Sword Arts.\n\nActivate\n\n[0]: This card becomes a [1000/1000] resonator until end of turn. Play this ability only if there is a soul counter on this card.",
    "flavor_text": "\"Any number times zero will still be zero, so I need to add a soul to make it a one.\" —Machina",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1059,7 +1071,7 @@
    "race": "Knight of the Round Table",
    "artist": "sakura moyon",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\nWhenever a (Stranger) enters the field under your control ⇒ You may pay [W]. If you do, put this card from your graveyard into your hand.",
+   "text": "Automatic\n\n[Enter] ⇒ Remove target darkness resonator from the game.\n\nContinuous\n\nYour opponent pays [2] more to play activate abilities of resonators they control.\n\nAutomatic\n\nWhenever a (Stranger) enters the field under your control ⇒ You may pay [W]. If you do, put this card from your graveyard into your hand.",
    "flavor_text": "Sometimes the nameless beat the famous.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1082,7 +1094,7 @@
    "race": "Wizard",
    "artist": "YASUYUKI",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ You may change all targets of target spell or ability that has one or more targets.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] ⇒ You may change all targets of target spell or ability that has one or more targets.",
    "flavor_text": "No matter what harmful power you direct at Freya, she deflects it right back to you.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1133,6 +1145,7 @@
    "race": "Sword Art",
    "artist": "fzwrAym",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "Put a friendship counter on your J/ruler. If this card was awakened, choose X times from the following, otherwise choose X times from the following at random, where X is the number of friendship counters on your J/ruler. (You can choose any option multiple times.) - This card deals 500 damage to your opponent; or put a [600/600] wind Beast resonator token into the field. It gains [Swiftness] until end of turn; or recover up to two magic stones you control; or choose a card from your Stranger deck at random and put it into your hand.\n\n[Awakening][R][R][G][G]",
    "flavor_text": "\"The real name of this skill is 'Super Beast Burning Special Ultra Glorious…', hey, wait!\" —Pricia",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1154,6 +1167,7 @@
    "race": "Sword Art",
    "artist": "Rumie",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast]\n\nChoose one - Machine J/resonators you control gain [Swiftness] and [+200/+200] until end of turn; or return two target Machines you control to their owner's hand; or search your deck for two Machines with total cost 1 or less. Put one into the field and the other into your graveyard. Then shuffle your deck.",
    "flavor_text": "After completing his research, Machina transformed Leginus.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1175,6 +1189,7 @@
    "race": "Sword Art",
    "artist": "hatarisu",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast]\n\nChoose one, if you don't control \"Mariabella\", choose one at random instead - Destroy target Machine resonator you control and draw X cards, where X is the total cost of the resonator destroyed this way; or put six [+100/+100] counters on target Machine resonator you control; or put a token copy of target Machine resonator you control into the field.",
    "flavor_text": "\"Yes, this will be fine, don't worry!\"",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1200,7 +1215,7 @@
    "race": "Wanderer",
    "artist": "Matsurika Yoko",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Automatic\n\n[Enter] ⇒ Choose a number. Your opponent banishes a resonator with total cost equal to that number. If this card was awakened, your opponent banishes all resonators with total cost equal to that number instead and you choose a card from your Stranger deck at random and put it into your hand.",
+   "text": "Automatic\n\n[Enter] ⇒ Choose a number. Your opponent banishes a resonator with total cost equal to that number. If this card was awakened, your opponent banishes all resonators with total cost equal to that number instead and you choose a card from your Stranger deck at random and put it into your hand.\n\n[Awakening] Remove three resonators in your graveyard from the game.",
    "flavor_text": "\"It's a world that can't be helped? You think so, Schr?dinger?\"",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1220,7 +1235,7 @@
    "race": "Machine",
    "artist": "Cola",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[1]: This card gains [+200/0] until end of turn. At the end of turn ⇒ Banish it.",
+   "text": "[Precision] (This card can attack recovered J/resonators.)\n\nActivate\n\n[1]: This card gains [+200/0] until end of turn. At the end of turn ⇒ Banish it.",
    "flavor_text": "Despite their mechanisms being small, they hide a mortal blow.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1240,7 +1255,7 @@
    "race": "Machine",
    "artist": "Rumie",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[B][G], remove a Machine in your graveyard from the game: Put this card from your graveyard into your hand. Play this ability only if your J/ruler is \"Machina\".",
+   "text": "Activate\n\nBanish this card: You gain 1000 life. Draw a card.\n\nActivate\n\n[B][G], remove a Machine in your graveyard from the game: Put this card from your graveyard into your hand. Play this ability only if your J/ruler is \"Machina\".",
    "flavor_text": "A strange machine is watching over the fates of Machina and Mariabella.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1259,7 +1274,7 @@
    "race": "Machine",
    "artist": "Nagi-nyan",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[2], [rest]: Target resonator loses [Flying], [First Strike], [Pierce] or [Precision] until end of turn. If it does, another target resonator gains that ability until end of turn.",
+   "text": "Continuous\n\nMachines you control gain [+200/+200].\n\nActivate\n\n[2], [rest]: Target resonator loses [Flying], [First Strike], [Pierce] or [Precision] until end of turn. If it does, another target resonator gains that ability until end of turn.",
    "flavor_text": "That city keeps producing cold machines with no feelings, endlessly.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1296,6 +1311,7 @@
    "type": "Chant",
    "artist": "kawaryu",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Quickcast]\n\nYou may pay [1] less to play this card for each Machine you control.\n\nDraw two cards.",
    "flavor_text": "\"This goes here, and this goes there. It's perfect!\"",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1335,7 +1351,7 @@
    "race": "Machine",
    "artist": "SIGMAN",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Continuous\n\nThis card cannot be destroyed.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each Machine you control.\n\nContinuous\n\nThis card cannot be destroyed.",
    "flavor_text": "The remote connection between machines may even prevent their destruction.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1348,6 +1364,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "Alice Origin 2nd Booster Pack",
+   "text": "[Rest]: Produce one will of any attribute shared with your J/ruler.",
    "flavor_text": "\"This is the powersource Lord Magna made to extract the memories. He calls it a Memoria.\" Lenneth, the Priestess of Vell-Savaria",
    "all_sets": "Alice Origin 2nd Booster Pack"
   },
@@ -1360,7 +1377,7 @@
    "type": "Special Magic Stone",
    "artist": "sasaki kounosuke",
    "expansion": "Alice Origin 2nd Booster Pack",
-   "text": "Activate\n\n[rest]: Produce [G] or [U].",
+   "text": "Continuous\n\nTreat this card as a wind magic stone and water magic stone.\n\nActivate\n\n[rest]: Produce [G] or [U].",
    "flavor_text": "A divine blessing for nature's growth; An oasis to quench all thirsts.",
    "all_sets": "Alice Origin 2nd Booster Pack"
   }

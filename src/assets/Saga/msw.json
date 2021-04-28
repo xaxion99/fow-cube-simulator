@@ -17,6 +17,7 @@
    "type": "Chant",
    "artist": "AKI",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Choose one, you may choose an additional one for each recovered J/ruler you control;\n\n- You gain 2000 life.\n\n- Put target non-magic stone, non-chant card or alternative card with total cost 3 or less from your graveyard into the field. You may only put a non-chant part of that alternative card into the field.\n\n- Put four [+100/+100] counters on each J/resonator you control.",
    "flavor_text": "\"Zero, can you fight?\" \"Yes, uh, probably.\" ーAlmerius & Zero",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -30,7 +31,7 @@
    "race": "Human, Six Sages",
    "artist": "Miko Yamazaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Target J/resonator gains [+200/+200] until end of turn.",
+   "text": "[Judgment] [W][W][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nContinuous\n\nIf you would set your starting life, set it to that much plus 3000 instead.\n\nContinuous\n\nYou may pay [1] less to do judgment of rulers you control.\n\nActivate\n\n[Rest]: Target J/resonator gains [+200/+200] until end of turn.",
    "flavor_text": "\"I'm the leader now? But, why?!\"",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -44,7 +45,7 @@
    "race": "Human, Six Sages",
    "artist": "Miko Yamazaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Target J/resonator gains [+200/+200] until end of turn.",
+   "text": "[Judgment] [W][W][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nContinuous\n\nIf you would set your starting life, set it to that much plus 3000 instead.\n\nContinuous\n\nYou may pay [1] less to do judgment of rulers you control.\n\nActivate\n\n[Rest]: Target J/resonator gains [+200/+200] until end of turn.",
    "flavor_text": "\"I'm the leader now? But, why?!\"",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -67,6 +68,7 @@
    "race": "Spirit",
    "artist": "j-peg",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Flying]\n\n[Awakening] Rest a recovered light J/ruler you control: [Enter] >>> Destroy target non-magic stone entity your opponent controls.",
    "flavor_text": "She guides the living and expels the dead.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -84,7 +86,7 @@
    "type": "Chant",
    "artist": "AKI",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nRecover a ruler you control. Draw a card.",
+   "text": "[Quickcast]\n\nContinuous\n\nRecover a ruler you control. Draw a card.",
    "flavor_text": "Each of the Six Sages is completely different in personality, quality, and magic. The only thing they have in common is that they revere Welser.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -107,7 +109,7 @@
    "race": "Human, Wizard",
    "artist": "Misa Tsutsui",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nWhenever your opponent plays an awakened spell >>> J/resonators you control gain [Barrier] until end of turn.",
+   "text": "Continuous\n\nPrevent all non-battle damage that would be dealt to J/resonators you control.\n\nAutomatic\n\nWhenever your opponent plays an awakened spell >>> J/resonators you control gain [Barrier] until end of turn.",
    "flavor_text": "Defense is a very important part of the battle against the invaders.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -133,7 +135,7 @@
    "race": "Spirit, Dragon",
    "artist": "Kotakan",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Recover all Spirits you control.",
+   "text": "[Flying]\n\nContinuous\n\nAs you play this card, you may rest any number of recovered J/rulers you control and/or any number of recovered Spirit resonators you control. You pay [W] less to play this card for each J/ruler rested this way and [1] less for each Spirit resonator rested this way.\n\nAutomatic\n\n[Enter] >>> Recover all Spirits you control.",
    "flavor_text": "Spirits live everywhere, secretly observing and protecting the world. But the invasion from the demonic world was the greatest danger they ever faced.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -156,7 +158,7 @@
    "race": "Spirit",
    "artist": "sasaki kounosuke",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> You may search your deck for an addition, reveal it and put it into your hand. Then shuffle your deck.",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] >>> You may search your deck for an addition, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Spirits can provide guidance or trials; they can impart knowledge, but are also very capricious, or may be hiding in darkness. In other words, spirits are everywhere in this world.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -182,7 +184,7 @@
    "race": "Fairy Tale",
    "artist": "Fukuzo Katsura / Yosuke Adachi + Studio Encount,K.K",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[M]: This card gains [+200/+200] and [Flying] until end of turn.",
+   "text": "Continuous\n\nIf you would produce will with a magic stone you control, you produce that will plus [M] instead.\n\nContinuous\n\nCalling a magic stone does not cause your J/rulers to rest.\n\nActivate\n\n[M]: This card gains [+200/+200] and [Flying] until end of turn.\n\n[Quickcast]\n\nChoose a ruler with [Tag] (Six Sages) you control and a ruler with [Tag] (Six Sages) you own from outside the game. Swap those rulers. If you spent [M] to play this card, put its \"Princess Kaguya\" part into the field instead of putting this card into its owner's graveyard.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -208,7 +210,7 @@
    "race": "Fairy Tale/Human",
    "artist": "hatarisu",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[rest]: Target resonator gains [+200/+0] and [Flying] until end of turn.",
+   "text": "Continuous\n\nThis card doesn't recover during the recovery phase.\n\nActivate\n\nRest a recovered resonator you control other than \"Rapunzel, the Long-Haired Princess\".: Recover this card.\n\nActivate\n\n[rest]: Target resonator gains [+200/+0] and [Flying] until end of turn.",
    "flavor_text": "\"If you use her hair I think it might be possible to climb the tower and reach the skies!\". —Swordman of Full Moon",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -226,6 +228,7 @@
    "type": "Chant",
    "artist": "gekko",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nAs an additional cost to play this card, reveal a Spirit from your hand.\n\nDestroy target resonator if its total cost is less than the total cost of the revealed card.",
    "flavor_text": "\"There IS strength in numbers! You can do anything, when you have enough!\" ーAlmerius",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -245,7 +248,7 @@
    "race": "Fairy Tale, Spirit",
    "artist": "Haruichi Kido",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nWhenever a J/ruler you control is recovered >>> This card gains [+300/0] until end of turn.",
+   "text": "[Pierce]\n\nAutomatic\n\nWhenever a J/ruler you control is recovered >>> This card gains [+300/0] until end of turn.",
    "flavor_text": "Hope only shines on those who stand up.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -263,7 +266,7 @@
    "type": "Addition",
    "artist": "haniwa",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: Produce one will of any attribute. Spend this will only to play Spirit cards.",
+   "text": "Automatic\n\n[Enter] >>> You may destroy target non-magic stone, non-J/resonator entity.\n\nActivate\n\nRest a recovered J/ruler you control: Produce one will of any attribute. Spend this will only to play Spirit cards.",
    "flavor_text": "The power of the spirits is everywhere and in everything.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -281,7 +284,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered light J/ruler you control: Look at the top two cards of your deck. You may reveal a Spirit from among them and put it into your hand. Then put the rest on the bottom of your deck in any order.",
+   "text": "Continuous\n\nSpirits you control gain [+200/+200].\n\nContinuous\n\nSpirits you own in all zones gain [Quickcast].\n\nActivate\n\nRest a recovered light J/ruler you control: Look at the top two cards of your deck. You may reveal a Spirit from among them and put it into your hand. Then put the rest on the bottom of your deck in any order.",
    "flavor_text": "Almerius went to visit the spirit village, where she gained the trust, friendship, and support of the spirits.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -302,6 +305,7 @@
    "type": "Chant",
    "artist": "Yosuke Adachi + Studio Encount,K.K",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nDestroy target non-Spirit resonator. If this card was awakened, destroy all non-Spirit resonators instead.\n\n[Awakening] [W][1], rest a recovered card named \"Almerius\" you control.",
    "flavor_text": "\"I can hear them, the voices of the spirits!\" ーAlmerius",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -319,6 +323,7 @@
    "type": "Chant",
    "artist": "Yosuke Adachi + Studio Encount,K.K",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nJ/resonators you control gain [Eternal] until end of turn. If this card was awakened, put ten [+100/+100] counters on a card named \"Zero, Apprentice Sage\" you control.\n\n[Awakening] Rest a recovered card named \"Zero, Apprentice Sage\" you control.",
    "flavor_text": "\"Interesting! The more powerful they are, the less they are aware of their talent.\" ーWelser, Master of the Six Sages",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -337,6 +342,7 @@
    "race": "Fairy Tale",
    "artist": "ShiroYayoi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nPut two [200/200] light Spirit, Fairy Tale resonator tokens into the field. If this card was awakened, draw a card.\n\n[Awakening] Rest a recovered J/ruler you control.",
    "flavor_text": "This tale of Scheherazade marks the beginning of the second stage of the invasion.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -365,7 +371,7 @@
    "race": "Fairy Tale, Spirit",
    "artist": "Toridamono / yuko",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nThis card gains [+200/+200] for each Fairy Tale you control.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each Fairy Tale you control.\n\n[Quickcast]\n\nTarget up to X resonators. Rest those your opponent controls and recover those you control.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -379,7 +385,7 @@
    "race": "Human, Six Sages",
    "artist": "karuta shiki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Put two [+100/+100] counters on this card.",
+   "text": "[Judgment] [W]\n\nContinuous\n\nYou cannot do judgment of this card unless your other ruler is astral.\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nAutomatic\n\nAt the beginning of the game >>> Put four [+100/+100] counters on each ruler you control.\n\nContinuous\n\nYour J-ruler gains [Barrier].\n\nActivate\n\n[Rest]: Put two [+100/+100] counters on this card.",
    "flavor_text": "\"Hmph, 'Apprentice Sage', and all I do is serving tea. I wonder when the master will finally teach me magic?!\"",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -393,7 +399,7 @@
    "race": "Human, Six Sages",
    "artist": "karuta shiki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Put two [+100/+100] counters on this card.",
+   "text": "[Judgment] [W]\n\nContinuous\n\nYou cannot do judgment of this card unless your other ruler is astral.\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nAutomatic\n\nAt the beginning of the game >>> Put four [+100/+100] counters on each ruler you control.\n\nContinuous\n\nYour J-ruler gains [Barrier].\n\nActivate\n\n[Rest]: Put two [+100/+100] counters on this card.",
    "flavor_text": "\"Hmph, 'Apprentice Sage', and all I do is serving tea. I wonder when the master will finally teach me magic?!\"",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -414,6 +420,7 @@
    "type": "Chant",
    "artist": "Takumi Sugikawa",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Choose one, you may choose an additional one for each recovered J/ruler you control;\n\n- This card deals 800 damage to target player or J/resonator.\n\n- Discard your hand, then draw three cards.\n\n- J/resonators you control gain [+400/0] and [Pierce] until end of turn.",
    "flavor_text": "\"Zero, can you do it?\" \"Yes, I think so, I learned from Almerius!\" ーMilest & Zero",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -431,7 +438,7 @@
    "type": "Addition",
    "artist": "sasaki kounosuke",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: Target resonator gains [Swiftness] and [Pierce] until end of turn.",
+   "text": "Automatic\n\n[Enter] >>> This card deals 500 damage to target player or J/resonator.\n\nActivate\n\nRest a recovered J/ruler you control: Target resonator gains [Swiftness] and [Pierce] until end of turn.",
    "flavor_text": "This cane was made by Welser, who put his fire magic into it.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -449,7 +456,7 @@
    "type": "Chant",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nUntil end of turn, the next damage that would be dealt to a target J/resonator you control is dealt to you instead. Recover a ruler you control.",
+   "text": "[Quickcast]\n\nContinuous\n\nUntil end of turn, the next damage that would be dealt to a target J/resonator you control is dealt to you instead. Recover a ruler you control.",
    "flavor_text": "\"Princess! No, it's alright! If I die, one of the others can take my place!!\" ーSnow White's Fire Dwarves",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -472,7 +479,7 @@
    "race": "Spirit",
    "artist": "Nekobayashi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRemove this card in your graveyard from the game: Put four [+100/+100] counters on a fire J-ruler you control.",
+   "text": "[Quickcast]\n\nAutomatic\n\nWhen this card is put into a graveyard from the field >>> It deals damage equal to its ATK to each J/resonator your opponent controls.\n\nActivate\n\nRemove this card in your graveyard from the game: Put four [+100/+100] counters on a fire J-ruler you control.",
    "flavor_text": "Giving power to those who pass her trials, burning those that fail.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -491,6 +498,7 @@
    "race": "Fairy Tale",
    "artist": "haniwa",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nTarget Fairy Tale resonator gains [+400/+400] until end of turn. If this card was awakened, it gains [+1000/+1000] until end of turn instead.\n\n[Awakening] Rest a recovered J/ruler you control.",
    "flavor_text": "The beginning of a spine-chilling fairy tale.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -508,7 +516,7 @@
    "type": "Addition",
    "artist": "Nekobayashi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Recover a fire ruler you control.",
+   "text": "Continuous\n\nSpirits you control gain [Swiftness].\n\nActivate\n\n[Rest]: Recover a fire ruler you control.",
    "flavor_text": "The power of the spirits can be obtained through trials, but there is always a price only few are ever willing to pay.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -527,6 +535,7 @@
    "race": "Fairy Tale",
    "artist": "Rumie",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "You may have any number of copies of this card in your deck.\n\n[Quickcast]\n\nThis card deals 200 damage plus an additional 200 damage for each card named \"Infinite Matchsticks\" in your graveyard to target player or J/resonator.",
    "flavor_text": "Nothing is more dangerous than a smoldering fire.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -540,7 +549,7 @@
    "race": "Human, Six Sages",
    "artist": "SIGMAN",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: This card deals 200 damage to target player or J/resonator.",
+   "text": "[Judgment] [R][R][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nAutomatic\n\nAt the beginning of the main phase of your first turn >>> Produce [R].\n\nContinuous\n\nYour J-ruler gains [Swiftness].\n\nActivate\n\n[Rest]: This card deals 200 damage to target player or J/resonator.",
    "flavor_text": "He is determined to protect Moojdart at all costs. Even if he would have to give up all ways to express his emotions.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -554,7 +563,7 @@
    "race": "Human, Six Sages",
    "artist": "SIGMAN",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: This card deals 200 damage to target player or J/resonator.",
+   "text": "[Judgment] [R][R][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nAutomatic\n\nAt the beginning of the main phase of your first turn >>> Produce [R].\n\nContinuous\n\nYour J-ruler gains [Swiftness].\n\nActivate\n\n[Rest]: This card deals 200 damage to target player or J/resonator.",
    "flavor_text": "He is determined to protect Moojdart at all costs. Even if he would have to give up all ways to express his emotions.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -577,7 +586,7 @@
    "race": "Spirit",
    "artist": "Takumi Sugikawa / SIGMAN",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[R][R][1]: Put this card from your graveyard into your hand.",
+   "text": "Activate\n\nBanish this card: This card deals damage equal to its ATK to target J/resonator.\n\nThis card deals 300 damage to target player or resonator.\n\nActivate\n\n[R][R][1]: Put this card from your graveyard into your hand.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -600,7 +609,7 @@
    "race": "Human, Spirit",
    "artist": "yuhki lily",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nWhenever a J/ruler you control is recovered >>> This card deals 400 damage to target player or J/resonator.",
+   "text": "Automatic\n\nWhenever a J/ruler you control is recovered >>> This card deals 400 damage to target player or J/resonator.",
    "flavor_text": "She is the living proof that spirits can also reside in humans.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -626,7 +635,7 @@
    "race": "Fairy Tale // Fairy Tale",
    "artist": "KONNO Takashi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nThis card enters the field with X [+100/+100] counters on it, where X is the total damage dealt by sources you controlled this turn divided by 100.",
+   "text": "[Quickcast] [First Strike]\n\nContinuous\n\nThis card enters the field with X [+100/+100] counters on it, where X is the total damage dealt by sources you controlled this turn divided by 100.\n\n[Quickcast]\n\nThis card deals X damage divided as you choose to any number of target J/resonators your opponent controls, where X is the total damage that was dealt to you this turn. If X is 1000 or more, put this card's \"Snow White of the Red Apple\" part into the field instead of putting this card into its owner's graveyard.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -649,7 +658,7 @@
    "race": "Fairy Tale",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nWhenever this card is dealt damage >>> It deals that much damage to you.",
+   "text": "Automatic\n\nWhenever this card is dealt damage >>> It deals that much damage to you.",
    "flavor_text": "They all feel the same way.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -675,7 +684,7 @@
    "race": "Spirit",
    "artist": "Nagi-nyan",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nThis card gains [Swiftness], [Precision] and [First Strike] as long as you don't control a rested J/ruler.",
+   "text": "Continuous\n\nThis card gains [Swiftness], [Precision] and [First Strike] as long as you don't control a rested J/ruler.",
    "flavor_text": "A shining spirit resonating with a magic stone.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -696,6 +705,7 @@
    "type": "Chant",
    "artist": "Yosuke Adachi + Studio Encount,K.K",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "This card deals 400 damage multiplied by X to target player or J/resonator. If this card was awakened, it deals 400 damage multiplied by X to your opponent and each J/resonator your opponent controls instead.\n\n[Awakening] Rest a recovered card named \"Milest\" you control.",
    "flavor_text": "His flames exude burning grief.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -715,7 +725,7 @@
    "race": "Fairy Tale",
    "artist": "Rumie",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: You may search your deck for a card named \"Infinite Matchsticks\", reveal it and put it into your hand. If you do, put two [+100/+100] counters on this card. Then shuffle your deck.",
+   "text": "Activate\n\nRest a recovered J/ruler you control: You may search your deck for a card named \"Infinite Matchsticks\", reveal it and put it into your hand. If you do, put two [+100/+100] counters on this card. Then shuffle your deck.",
    "flavor_text": "\"TIME-LIMITED! Matches that burn MUCH better!! LIMITED EDITION!\"",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -739,6 +749,7 @@
    "type": "Chant",
    "artist": "yua",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nChoose one, you may choose an additional one for each recovered J/ruler you control;\n\n- Draw a card.\n\n- Return up to two target resonators to their owners' hands.\n\n- Prevent all damage that would be dealt to J/resonators you control until end of turn.",
    "flavor_text": "\"Zero, are you alright?\" \"I'll do my best, as before with Milest!\" ーMoojdart & Zero",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -770,7 +781,7 @@
    "race": "Fairy Tale // Fairy Tale",
    "artist": "muraicchi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Look at the top two cards of your opponent's deck. Then put them on top and/or on the bottom of your opponent's deck in any order.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] >>> Look at the top two cards of your opponent's deck. Then put them on top and/or on the bottom of your opponent's deck in any order.\n\n[Quickcast]\n\nPut up to two target non-magic stone, non-J-ruler entities your opponent controls on top of their owner's deck in any order. If this card was awakened, put its \"Cinderella, Freed from the Ashes\" part into the field instead of putting this card into its owner's graveyard.\n\n[Awakening] [1]",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -790,7 +801,7 @@
    "race": "Fairy Tale, Rabbit",
    "artist": "311taro",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nThis card gains [+200/+200] for each card in your hand.",
+   "text": "Continuous\n\nThis card gains [+200/+200] for each card in your hand.",
    "flavor_text": "This rabbit was a sure sign that Princess Kaguya would soon appear.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -813,7 +824,7 @@
    "race": "Spirit",
    "artist": "SIGMAN",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRemove this card in your graveyard from the game: Put four [+100/+100] counters on a water J-ruler you control.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] >>> Put target non-resonator spell on the bottom of its owner's deck.\n\nActivate\n\nRemove this card in your graveyard from the game: Put four [+100/+100] counters on a water J-ruler you control.",
    "flavor_text": "Fiola received the sacrifice, and she gave Moojdart the power of illusions in return.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -838,7 +849,7 @@
    "race": "Moon",
    "artist": "tokiwa",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Name a non-J/ruler card. Activate abilities of cards that share the chosen name cannot be played as long as this card is in the field.",
+   "text": "Automatic\n\n[Enter] >>> Name a non-J/ruler card. Activate abilities of cards that share the chosen name cannot be played as long as this card is in the field.\n\nRest a recovered J/ruler you control: Draw a card.",
    "flavor_text": "No matter how much the world changes, the Oblivion Moon will stay the same.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -856,7 +867,7 @@
    "type": "Addition",
    "artist": "tokiwa",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Return target resonator your opponent controls to its owner's hand.",
+   "text": "Automatic\n\n[Enter] >>> Return target resonator your opponent controls to its owner's hand.\n\nRest a recovered J/ruler you control: Rest target J/resonator. It doesn't recover during its controller's next recovery phase.",
    "flavor_text": "This delicate flower seemed to reflect the heart of Moojdart.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -876,7 +887,7 @@
    "race": "Mermaid, Fantasy",
    "artist": "Kamijo Roro",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nJ/resonators your opponent controls cannot attack unless your opponent pays [1]. (Each attack costs [1].)",
+   "text": "Continuous\n\nJ/resonators your opponent controls cannot attack unless your opponent pays [1]. (Each attack costs [1].)",
    "flavor_text": "Illusions revived races that were long extinct in this world.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -894,6 +905,7 @@
    "type": "Chant",
    "artist": "jitari",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nDestroy target resonator that was the target of a successfully resolved ability of a J/ruler you controlled this turn.",
    "flavor_text": "Sometimes illusions have a greater effect than reality.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -907,7 +919,7 @@
    "race": "Human, Six Sages",
    "artist": "ishishou",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nWhenever you do judgment of a ruler >>> Draw a card.",
+   "text": "[Judgment] [B][B][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nContinuous\n\nIf you would draw a starting hand, you draw a starting hand plus one additional card and your maximum hand size is increased by one until end of game instead.\n\nAutomatic\n\nWhenever you do judgment of a ruler >>> Draw a card.\n\n[Rest]: Draw a card. Then put a card from your hand on the bottom of your deck.",
    "flavor_text": "She is determined to protect Milest at all costs. Even if she would have to give up her love and her memories.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -921,7 +933,7 @@
    "race": "Human, Six Sages",
    "artist": "ishishou",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nWhenever you do judgment of a ruler >>> Draw a card.",
+   "text": "[Judgment] [B][B][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nContinuous\n\nIf you would draw a starting hand, you draw a starting hand plus one additional card and your maximum hand size is increased by one until end of game instead.\n\nAutomatic\n\nWhenever you do judgment of a ruler >>> Draw a card.\n\n[Rest]: Draw a card. Then put a card from your hand on the bottom of your deck.",
    "flavor_text": "She is determined to protect Milest at all costs. Even if she would have to give up her love and her memories.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -941,7 +953,7 @@
    "race": "Fairy Tale, Dragon",
    "artist": "SO",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: Cards you control and cards you own in non-field zones gain Fairy Tale until end of turn.",
+   "text": "[Flying]\n\nAutomatic\n\n[Enter] >>> Draw a card.\n\nContinuous\n\nThis card gains [+1400/+1400] and \"Fairy Tales you control gain [Eternal].\" as long as there are ten or more Fairy Tales in the field under your control and/or in your graveyard.\n\nActivate\n\nRest a recovered J/ruler you control: Cards you control and cards you own in non-field zones gain Fairy Tale until end of turn.",
    "flavor_text": "The power of the fairy tales became the last bastion in the battle against the Cthulhus.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -965,6 +977,7 @@
    "type": "Chant",
    "artist": "SO",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "As you play this card, you may reveal any number of Fairy Tales from your hand.\n\nRest X target entities your opponent controls, where X is the number of cards revealed to play this card. They don't recover during their controller's next recovery phase.",
    "flavor_text": "The beginning of the last stand.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -996,7 +1009,7 @@
    "race": "Fantasy, Dragon",
    "artist": "Kelvin / Nanami Lusia",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nThis card cannot be targeted by spells or abilities.",
+   "text": "[Flying]\n\nContinuous\n\nThis card cannot be targeted by spells or abilities.\n\nSearch your deck for a Moon addition, reveal it and put it into your hand. Then shuffle your deck.\n\n[Awakening] [2]: You may put a Moon addition from your hand into the field.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1016,7 +1029,7 @@
    "race": "Fairy Tale, Spirit",
    "artist": "Haruichi Kido",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Search your deck for a card with total cost 4 or more, reveal it, and put it into your hand. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] >>> Search your deck for a card with total cost 4 or more, reveal it, and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Knowledge is the source of everything, even spirits or fairy tales.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1037,6 +1050,7 @@
    "type": "Chant",
    "artist": "Yosuke Adachi + Studio Encount,K.K",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Draw two cards. If this card was awakened, draw three cards instead.\n\n[Awakening] Rest a recovered card named \"Moojdart\" you control.",
    "flavor_text": "There is nothing but a tiny remnant of her true feelings left.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1059,7 +1073,7 @@
    "race": "Wizard",
    "artist": "Matsurika Yoko",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nPlay with the top card of your deck revealed. As long as the top card of your deck is revealed this way and it's a chant, you may play it by paying its cost.",
+   "text": "Continuous\n\nPlay with the top card of your deck revealed. As long as the top card of your deck is revealed this way and it's a chant, you may play it by paying its cost.",
    "flavor_text": "\"I saw the future! Hmm, a terrible future, though.\"",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1083,7 +1097,7 @@
    "type": "Addition",
    "artist": "jitari",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Remove target resonator your opponent controls from the game. If this card was awakened, search your opponent's deck, graveyard, and hand for all cards that share a name with that resonator and remove them from the game. Then your opponent shuffles their deck.",
+   "text": "Automatic\n\n[Enter] >>> Remove target resonator your opponent controls from the game. If this card was awakened, search your opponent's deck, graveyard, and hand for all cards that share a name with that resonator and remove them from the game. Then your opponent shuffles their deck.\n\n[Awakening] Rest a recovered J/ruler you control.",
    "flavor_text": "What is written on this page will be the beginning of a new story.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1107,6 +1121,7 @@
    "type": "Chant",
    "artist": "Tsukumi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nChoose one, you may choose an additional one for each recovered J/ruler you control;\n\n- Recover up to two magic stones you control.\n\n- Cancel target spell.\n\n- Put target non-magic stone card from your graveyard into your hand.",
    "flavor_text": "\"Fieth! Wait a moment, please!\" \"The wind waits for nobody!\" ーZero & Fiethsing",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1127,7 +1142,7 @@
    "type": "Addition",
    "artist": "Matsurika Yoko",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: Look at the top three cards of your deck or your magic stone deck and put them back in any order.",
+   "text": "Automatic\n\n[Enter] >>> Put target magic stone from your graveyard into the field rested.\n\nActivate\n\nRest a recovered J/ruler you control: Look at the top three cards of your deck or your magic stone deck and put them back in any order.",
    "flavor_text": "Selesta, a remote ancestor of Grusbalesta, was supposedly part of the Five who repelled the Dragon Lord in ages past.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1146,7 +1161,7 @@
    "race": "Fairy Tale, Moon",
    "artist": "SAGAWA ASUKA",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered wind J/ruler you control: Look at the top two cards of your deck. You may reveal a Fairy Tale resonator from among them and put it into your hand. Then put the rest on the bottom of your deck in any order.",
+   "text": "Continuous\n\nFairy Tale resonators you control gain [+200/+200].\n\nContinuous\n\nMagic stones you control gain \"[Rest]: Produce [M].\".\n\nActivate\n\nRest a recovered wind J/ruler you control: Look at the top two cards of your deck. You may reveal a Fairy Tale resonator from among them and put it into your hand. Then put the rest on the bottom of your deck in any order.",
    "flavor_text": "Depending on your emotions, this moon can look completely different.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1160,7 +1175,7 @@
    "race": "Elf, Six Sages",
    "artist": "ComamitsuZaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Produce [1]. Spend this will only to play chants.",
+   "text": "[Judgment] [G][G][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nContinuous\n\nAs the game starts, you may mulligan up to three times instead of once.\n\nContinuous\n\nYou may do judgment any time you could play a card with [Quickcast].\n\nActivate\n\n[Rest]: Produce [1]. Spend this will only to play chants.",
    "flavor_text": "Nobody can predict where the wind will go.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1174,7 +1189,7 @@
    "race": "Elf, Six Sages",
    "artist": "ComamitsuZaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Produce [1]. Spend this will only to play chants.",
+   "text": "[Judgment] [G][G][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nContinuous\n\nAs the game starts, you may mulligan up to three times instead of once.\n\nContinuous\n\nYou may do judgment any time you could play a card with [Quickcast].\n\nActivate\n\n[Rest]: Produce [1]. Spend this will only to play chants.",
    "flavor_text": "Nobody can predict where the wind will go.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1197,7 +1212,7 @@
    "race": "Fairy Tale",
    "artist": "Foo Midori",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nBanish this card: Cancel target normal spell unless its controller pays [2].",
+   "text": "Automatic\n\n[Enter] Target resonator cannot be blocked until end of turn.\n\nActivate\n\nBanish this card: Cancel target normal spell unless its controller pays [2].",
    "flavor_text": "That smile can make everyone feel safe.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1220,7 +1235,7 @@
    "race": "Fairy Tale",
    "artist": "Matsurika Yoko / ComamitsuZaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nThis card gains [Swiftness] as long as you control a basic wind magic stone.",
+   "text": "Continuous\n\nThis card gains [+100/+100] for each wind magic stone you control.\n\nContinuous\n\nThis card gains [Swiftness] as long as you control a basic wind magic stone.\n\nPut target fire or darkness resonator on top of its owner's deck.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1243,7 +1258,7 @@
    "race": "Fairy Tale",
    "artist": "haniwa",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: Put a growth counter on this card.",
+   "text": "Automatic\n\nWhen the third or subsequent growth counter is put on this card >>> Banish it. If you do, search your deck for a resonator and put it into the field. Then shuffle your deck.\n\nActivate\n\nRest a recovered J/ruler you control: Put a growth counter on this card.",
    "flavor_text": "The sky is very close for those who know about this shortcut.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1266,7 +1281,7 @@
    "race": "Fairy Tale, Spirit",
    "artist": "Kelvin",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Put target magic stone from your graveyard into the field rested.",
+   "text": "[Flying]\n\nActivate\n\n[Rest]: Put target magic stone from your graveyard into the field rested.",
    "flavor_text": "The power of the magic stones gives power to all living beings.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1286,7 +1301,7 @@
    "race": "Elf",
    "artist": "Tsukumi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nBanish this card: Target magic stone you control becomes a [1000/1000] resonator until end of turn. It's still a magic stone.",
+   "text": "Activate\n\nBanish this card: Target magic stone you control becomes a [1000/1000] resonator until end of turn. It's still a magic stone.",
    "flavor_text": "Prayers and dedications can put a soul into the soulless.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1309,7 +1324,7 @@
    "race": "Fairy Tale, Wanderer",
    "artist": "noki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> You may search your deck for an addition or resonator with total cost 1 or less and put it into the field. If this card was awakened, you may search for both instead. Then shuffle your deck.",
+   "text": "Automatic\n\n[Enter] >>> You may search your deck for an addition or resonator with total cost 1 or less and put it into the field. If this card was awakened, you may search for both instead. Then shuffle your deck.\n\n[Awakening] Rest a recovered J/ruler you control.",
    "flavor_text": "With Welser's help, Scheherazade sealed Wolfgang away, but at the terrible cost of Welser's life, severe injuries, and fairy tales running rampant in this world.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1330,6 +1345,7 @@
    "type": "Chant",
    "artist": "Yosuke Adachi + Studio Encount,K.K",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Search your deck for a resonator with total cost X or less and put it into the field. If this card was awakened, search for two resonators with total cost X or less instead. Then shuffle your deck.\n\n[Awakening] Rest a recovered card named \"Fiethsing\" you control.",
    "flavor_text": "\"Let me show you what I am really capable of!\" ーFiethsing",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1347,7 +1363,7 @@
    "type": "Addition",
    "artist": "hatarisu",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: Put a Fairy Tale resonator with total cost 1 or less from your graveyard into your hand.",
+   "text": "Automatic\n\n[Enter] >>> Draw a card.\n\nActivate\n\nRest a recovered J/ruler you control: Put a Fairy Tale resonator with total cost 1 or less from your graveyard into your hand.",
    "flavor_text": "Some parts of the history of the Magic Stone War have not been told, yet.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1368,6 +1384,7 @@
    "type": "Chant",
    "artist": "noki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Look at the top four cards of your deck. Reveal a card from among them and put it into your hand. If the revealed card is a Fairy Tale with total cost 3 or less, you may put it into the field instead. Then shuffle your deck.",
    "flavor_text": "Nemesis of the demonic invaders.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1393,7 +1410,7 @@
    "race": "Spirit",
    "artist": "SIGMAN",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Cancel target resonator spell unless its controller pays [1]. If this card was awakened, cancel the chosen target instead.",
+   "text": "[Quickcast] [Flying]\n\nAutomatic\n\n[Enter] >>> Cancel target resonator spell unless its controller pays [1]. If this card was awakened, cancel the chosen target instead.\n\n[Awakening] Rest a recovered wind J/ruler you control.",
    "flavor_text": "Fiethsing tried to make friends with like-minded spirits.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1419,7 +1436,7 @@
    "race": "Human, Wizard",
    "artist": "Yuko Nagasaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Return target spell to its owner's hand. If this card was put into the field by the effect of its \"His Last Lecture\" part, remove this card from the game and put two [+100/+100] counters on each J/ruler you control.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] >>> Return target spell to its owner's hand. If this card was put into the field by the effect of its \"His Last Lecture\" part, remove this card from the game and put two [+100/+100] counters on each J/ruler you control.\n\n[Quickcast]\n\nRecover a ruler you control. If it is a Six Sages, put this card's \"Welser, Master of the Six Sages\" part into the field instead of putting this card into its owner's graveyard.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1440,6 +1457,7 @@
    "type": "Chant",
    "artist": "Shirono Muku",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nChoose one, if this card was awakened, choose up to two instead;\n\n- Banish a magic stone. This card deals 1000 damage to target J/resonator.\n\n- Put target magic stone from your graveyard into the field rested.\n\n[Awakening] Rest a recovered J/ruler you control.",
    "flavor_text": "\"Stones away!\" ーFiethsing",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1460,6 +1478,7 @@
    "type": "Chant",
    "artist": "muranako",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Choose one, you may choose an additional one for each recovered J/ruler you control;\n\n- Put target resonator from your graveyard into your hand.\n\n- Your opponent discards a card.\n\n- Resonators your opponent controls gain [-200/-200] for each different name among all magic stones you control until end of turn.",
    "flavor_text": "\"Zero, show me your power.\" \"Yes, Sir! I ... believe I can be a full member now.\" ーGrusbalesta & Zero",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1480,6 +1499,7 @@
    "type": "Chant",
    "artist": "Haruki Komai",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Destroy all non-Cthulhu resonators with total cost 3 or less.",
    "flavor_text": "The invasion came suddenly and without warning, trying to engulf everything.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1511,7 +1531,7 @@
    "race": "Wizard",
    "artist": "gozz / Tom",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nResonators entering the field under your opponent's control don't cause their own abilities to trigger.",
+   "text": "Continuous\n\nResonators entering the field under your opponent's control don't cause their own abilities to trigger.\n\n[Quickcast]\n\nDestroy all resonators with total cost 2 or less.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1529,6 +1549,7 @@
    "type": "Chant",
    "artist": "Shosuke",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nTarget J/resonator gains [-600/-600] until end of turn.\n\n[Revenge] - Destroy the chosen target instead.",
    "flavor_text": "There is no way to resist the real threat.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1546,6 +1567,7 @@
    "type": "Chant",
    "artist": "Shirono Muku",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nRemove any number of magic stones you control and/or in your graveyard from the game. Produce [D] for each magic stone removed this way.",
    "flavor_text": "Grusbalesta wondered why the invaders would want the power of the magic stones, but so far, the truth is still out there.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1568,7 +1590,7 @@
    "race": "Spirit",
    "artist": "SIGMAN",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Put target resonator from your graveyard into your hand. If this card was awakened, put the chosen target from your graveyard into the field instead.",
+   "text": "[Flying] [Bane]\n\nAutomatic\n\n[Enter] >>> Put target resonator from your graveyard into your hand. If this card was awakened, put the chosen target from your graveyard into the field instead.\n\n[Awakening] Rest a recovered darkness J/ruler you control.",
    "flavor_text": "It appeared in a dark night and continues to protect the darkness.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1588,7 +1610,7 @@
    "race": "Elf, Wizard",
    "artist": "Nakaba Higurashi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control, remove a magic stone in your graveyard from the game: Produce one will of any attribute.",
+   "text": "Automatic\n\n[Enter] >>> Put the top card of your deck into your graveyard. Recover a ruler you control.\n\nActivate\n\nRest a recovered J/ruler you control, remove a magic stone in your graveyard from the game: Produce one will of any attribute.",
    "flavor_text": "Grusbalesta asked a talented wizard for help extracting magical power from magic stones, for research purposes.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1602,7 +1624,7 @@
    "race": "Human, Six Sages",
    "artist": "fzwrAym",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Banish a magic stone. Put the top card of your magic stone deck into the field rested.",
+   "text": "[Judgment] [D][D][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nContinuous\n\nIf you would call your first magic stone this game, you may search your magic stone deck for a card and put it into the field instead. If you do, shuffle your magic stone deck.\n\nAutomatic\n\nWhenever a magic stone is put into the field by the call of a J/ruler you control >>> It gains \"[Rest]: Produce [M] or one will of any attribute.\" until end of turn.\n\nActivate\n\n[Rest]: Banish a magic stone. Put the top card of your magic stone deck into the field rested.",
    "flavor_text": "Grusbalesta, coming from a long family line of excellent researchers, is the main scientist of the Six Sages.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1616,7 +1638,7 @@
    "race": "Human, Six Sages",
    "artist": "fzwrAym",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[Rest]: Banish a magic stone. Put the top card of your magic stone deck into the field rested.",
+   "text": "[Judgment] [D][D][1]\n\n[Tag] (Six Sages) - You may start the game with this ruler and another ruler with [Tag] (Six Sages) that doesn't share a name with this card. Put both in your ruler area.\n\nContinuous\n\nIf you would call your first magic stone this game, you may search your magic stone deck for a card and put it into the field instead. If you do, shuffle your magic stone deck.\n\nAutomatic\n\nWhenever a magic stone is put into the field by the call of a J/ruler you control >>> It gains \"[Rest]: Produce [M] or one will of any attribute.\" until end of turn.\n\nActivate\n\n[Rest]: Banish a magic stone. Put the top card of your magic stone deck into the field rested.",
    "flavor_text": "Grusbalesta, coming from a long family line of excellent researchers, is the main scientist of the Six Sages.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1645,7 +1667,7 @@
    "race": "Human",
    "artist": "Kusanagi Tyouen",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nWhen this card is put into the field by the effect of its \"Awakening of the Nine-Tailed Fox\" part >>> Put nine [+100/+100] counters on this card.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] >>> Destroy target damaged J/resonator.\n\nAutomatic\n\nWhen this card is put into the field by the effect of its \"Awakening of the Nine-Tailed Fox\" part >>> Put nine [+100/+100] counters on this card.\n\n[Quickcast]\n\nThis card deals 900 damage to each J/resonator. If you control three or more magic stones with different names, put this card's \"Lilias Petal\" part into the field instead of putting this card into its owner's graveyard.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1665,7 +1687,7 @@
    "race": "Beast",
    "artist": "hatarisu",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: This card deals 100 damage to target player or J/resonator.",
+   "text": "[Drain]\n\nActivate\n\nRest a recovered J/ruler you control: This card deals 100 damage to target player or J/resonator.",
    "flavor_text": "Communication with Lilias Petal is usually done through this fox.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1683,7 +1705,7 @@
    "type": "Addition",
    "artist": "Nekobayashi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: Target resonator you control gains [Bane] until end of turn.",
+   "text": "Automatic\n\n[Enter] >>> Destroy target resonator with total cost 2 or less.\n\nActivate\n\nRest a recovered J/ruler you control: Target resonator you control gains [Bane] until end of turn.",
    "flavor_text": "Grusbalesta went to visit Lilias Petal, his most peculiar friend.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1704,6 +1726,7 @@
    "type": "Chant",
    "artist": "Nekobayashi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Banish any number of magic stones. Draw X cards, then put the top X cards of your magic stone deck into the field rested, where X is the number of magic stones banished this way.",
    "flavor_text": "The magical power of the magic stones was increasing day by day, as if they were resonating with something. Grusbalesta was sure that it was a bad sign.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1726,7 +1749,7 @@
    "race": "Spirit",
    "artist": "Shosuke",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nWhenever a J/ruler you control is recovered >>> This card gains [+200/+200] until end of turn.",
+   "text": "Automatic\n\nWhenever a J/ruler you control is recovered >>> This card gains [+200/+200] until end of turn.",
    "flavor_text": "Spirits became ghosts, and started spreading negative emotions.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1749,7 +1772,7 @@
    "race": "Wizard",
    "artist": "yua",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> You may banish up to two magic stones. For each magic stone banished this way, your opponent banishes a resonator and you put a card from the top of your magic stone deck into the field rested.",
+   "text": "Continuous\n\nYou may pay [1] less to play this card for each different name among all magic stones you control.\n\nAutomatic\n\n[Enter] >>> You may banish up to two magic stones. For each magic stone banished this way, your opponent banishes a resonator and you put a card from the top of your magic stone deck into the field rested.",
    "flavor_text": "\"The teacher seems to have something on his mind lately, but what is he thinking about?\"",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1770,6 +1793,7 @@
    "type": "Chant",
    "artist": "Yosuke Adachi + Studio Encount,K.K",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nYou may pay [2] less to play this card for each different name among all magic stones you control.\n\nMagic stones you control become [1000/1000] resonators until end of turn. They are still magic stones. If this card was awakened, they gain [Swiftness], [Eternal] and [Barrier] until end of turn.\n\n[Awakening] Rest a recovered card named \"Grusbalesta\" you control.",
    "flavor_text": "\"I don't like battles, but this time I have no choice.\" ーGrusbalesta",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1789,7 +1813,7 @@
    "race": "Human, Cthulhu",
    "artist": "Shosuke",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Your opponent discards a card. Your opponent loses 400 life.",
+   "text": "Automatic\n\n[Enter] >>> Your opponent discards a card. Your opponent loses 400 life.",
    "flavor_text": "Cthulhus can reshape their existence.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1812,7 +1836,7 @@
    "race": "Golem",
    "artist": "suranaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Destroy all J/resonators your opponent controls with ATK less than the ATK of this card.",
+   "text": "[Precision] [Pierce]\n\nContinuous\n\nYou may pay [2] less to play this card for each different name among all magic stones you control.\n\nAutomatic\n\n[Enter] >>> Destroy all J/resonators your opponent controls with ATK less than the ATK of this card.",
    "flavor_text": "The prime incarnation of the resonance of magic stones.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1836,6 +1860,7 @@
    "type": "Chant",
    "artist": "yuko",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "You may pay [R] less to play this card if you control a card named \"Milest\".\n\nYou may pay [B] less to play this card if you control a card named \"Moojdart\".\n\nSearch your deck for a fire Spirit and/or a water Spirit, reveal them and put the first into your hand and the second into your graveyard. Then shuffle your deck. Recover a ruler you control.",
    "flavor_text": "With the sacrifice of words and memories, they gained the power to resist the Cthulhus as spirits.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1858,7 +1883,7 @@
    "race": "Cthulhu",
    "artist": "Sadui/JCREATiON",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Draw two cards, then discard a card. If this card was awakened, look at your opponent's hand and choose a card. They remove it from the game.",
+   "text": "[Bane]\n\nAutomatic\n\n[Enter] >>> Draw two cards, then discard a card. If this card was awakened, look at your opponent's hand and choose a card. They remove it from the game.\n\n[Awakening] [B][D]",
    "flavor_text": "Death is a part of the cycle of life, but for the Cthulhus, death means breaking the cycle of life.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1881,7 +1906,7 @@
    "race": "Cthulhu",
    "artist": "Saiko Takaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Search your deck for a card named \"Deeper Ones\", reveal it, and put it into your hand. Then shuffle your deck.",
+   "text": "Continuous\n\nYou may have any number of copies of this card in your deck.\n\n[Pierce]\n\nContinuous\n\nThis card gains [+200/+200] for each Cthulhu in your graveyard.\n\nAutomatic\n\n[Enter] >>> Search your deck for a card named \"Deeper Ones\", reveal it, and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"No matter how many I kill, they just keep coming! What are they?!\" ーZero",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1904,7 +1929,7 @@
    "race": "Cthulhu",
    "artist": "Saiko Takaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Cancel target spell or ability that targets a Cthulhu you control. If this card was awakened, you may copy the target before canceling it instead. You may choose new targets for the copy.",
+   "text": "[Quickcast]\n\nAutomatic\n\n[Enter] >>> Cancel target spell or ability that targets a Cthulhu you control. If this card was awakened, you may copy the target before canceling it instead. You may choose new targets for the copy.\n\n[Awakening] [B][R]",
    "flavor_text": "Power breeds madness, madness breeds power.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1925,7 +1950,7 @@
    "type": "Addition",
    "artist": "Sadui/JCREATiON",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: Remove all cards in your opponent's graveyard from the game.",
+   "text": "Automatic\n\n[Enter] >>> Banish a magic stone. Put the top card of your magic stone deck into the field.\n\nContinuous\n\nJ/resonators you control gain [+200/+200] for each different name among all magic stones you control.\n\nActivate\n\nRest a recovered J/ruler you control: Remove all cards in your opponent's graveyard from the game.",
    "flavor_text": "The Magic Stone Research Institute, founded by Elixir ages ago, still exists in this world, although it changed its shape.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1948,7 +1973,7 @@
    "race": "Spirit, Fairy Tale, Human",
    "artist": "Pisuke",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\nRest a recovered J/ruler you control: Put two [+100/+100] counters on each Spirit and/or Fairy Tale J/resonator you control.",
+   "text": "Activate\n\nRest a recovered J/ruler you control: Put two [+100/+100] counters on each Spirit and/or Fairy Tale J/resonator you control.",
    "flavor_text": "The story becomes reality, all through her voice.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1972,7 +1997,7 @@
    "type": "Addition",
    "artist": "Sadui/JCREATiON",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nCthulhu you control gain [+400/+400].",
+   "text": "Continuous\n\nYou may pay [R][B] less to play this card if your ruler is \"Wolfgang, Exiled Demon Prince\". If you do, put a madness counter on your ruler.\n\nContinuous\n\nNon-J/resonator entities your opponent controls lose all [Enter] abilities.\n\nContinuous\n\nCthulhu you control gain [+400/+400].",
    "flavor_text": "\"I am quite certain that you would be much happier NOT knowing what is written inside my Necronomicon.\" ーWolfgang, Exiled Demon Prince",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -1995,7 +2020,7 @@
    "race": "Cthulhu",
    "artist": "Sadui/JCREATiON",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nWhenever this card destroys a resonator >>> Put two [+100/+100] counters on it.",
+   "text": "[Precision]\n\nAutomatic\n\nWhenever this card destroys a resonator >>> Put two [+100/+100] counters on it.\n\n[Awakening][R][D]: [Enter] >>> Destroy up to two target J/resonators your opponent controls. Players cannot chase to this ability.",
    "flavor_text": "The war inside Nyarlathotep ended when she entered this world.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2024,7 +2049,7 @@
    "race": "God, Illusion",
    "artist": "IWAO / tetsuya koizumi",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nWhile you are searching your deck, you may play this card from your deck by paying its cost. You may play either part of this alternative card.",
+   "text": "Automatic\n\n[Enter] >>> Remove two madness counters from your ruler.\n\nContinuous\n\nWhile you are searching your deck, you may play this card from your deck by paying its cost. You may play either part of this alternative card.\n\n[Quickcast]\n\nThis card deals 800 damage to target J/resonator. Players cannot chase to this card.",
    "flavor_text": "ー",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2047,7 +2072,7 @@
    "race": "Cthulhu",
    "artist": "Saiko Takaki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Search your deck for a Cthulhu, reveal it, and put it into your hand. Then shuffle your deck. If this card was awakened, produce [R][D].",
+   "text": "Continuous\n\nIf a fire chant you control would deal damage, it deals that much plus 400 instead.\n\nDarkness chants you control gain [Drain].\n\nAutomatic\n\n[Enter] >>> Search your deck for a Cthulhu, reveal it, and put it into your hand. Then shuffle your deck. If this card was awakened, produce [R][D].\n\n[Awakening] [R]",
    "flavor_text": "The gate to the demonic world was opened, and this world began to burn.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2070,7 +2095,7 @@
    "race": "Spirit",
    "artist": "Misa Tsutsui",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nThis card gains \"Prevent the first damage that would be dealt to this card each turn.\" as long as you control a card named \"Moojdart\".",
+   "text": "Continuous\n\nThis card gains [+400/+400] as long as you control a card named \"Milest\".\n\nContinuous\n\nThis card gains [Quickcast] in all zones as long as you control a card named \"Moojdart\".\n\nContinuous\n\nThis card gains \"Prevent the first damage that would be dealt to this card each turn.\" as long as you control a card named \"Moojdart\".",
    "flavor_text": "Fire burns wildly, water calms down.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2097,6 +2122,7 @@
    "type": "Chant",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "Return all non-magic stone, non-J-ruler entities to their owners' hand. If this card was awakened, you may put a Spirit and/or a Fairy Tale from your hand into the field.\n\n[Awakening] Rest a recovered J/ruler you control.",
    "flavor_text": "A breathtaking symphony of spirits and fairy tales.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2117,6 +2143,7 @@
    "type": "Chant",
    "artist": "gekko",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nYou may rest a recovered card named \"Milest\" or \"Moojdart\" you control rather than pay this card's cost.\n\nChoose one, if you control a card named \"Milest\" and a card named \"Moojdart\", choose both instead;\n\n- This card deals 700 damage to target player or J/resonator.\n\n- Draw a card.",
    "flavor_text": "Both are tied by trust and love, but each of them already senses the tragedy that will happen to them.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2142,7 +2169,7 @@
    "race": "Cthulhu",
    "artist": "Haruki Komai",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Continuous\nYou may play this card from your removed area.",
+   "text": "Activate\n\nRemove this card in your hand from the game: Produce [R], [B], or [D]. Spend this will only to play Cthulhu cards.\n\nContinuous\n\nYou may play this card from your removed area.\n\n[Awakening] [R][B][D]: [Enter] >>> Put target resonator from your opponent's graveyard into the field under your control.",
    "flavor_text": "Only chaos and madness can go through this gate.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2156,7 +2183,7 @@
    "race": "Demonic",
    "artist": "Sadui/JCREATiON",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\nAt end of turn >>> If there are five or more madness counters on this card, you lose the game.",
+   "text": "Continuous\n\nYou may have only darkness and/or Cthulhu cards in your deck.\n\nContinuous\n\nYou may put a madness counter on this card rather than pay an [Awakening] cost of a Cthulhu spell you control.\n\nAutomatic\n\nAt end of turn >>> If there are five or more madness counters on this card, you lose the game.",
    "flavor_text": "\"Residents of this world, don't be alarmed. I don't want to be here, but I need the power of the magic stones.\"",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2177,6 +2204,7 @@
    "type": "Chant",
    "artist": "SAGAWA ASUKA",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Quickcast]\n\nYour opponent banishes a resonator. Put the top X cards of your deck into your graveyard, where X is the total cost of the resonator banished this way.\n\nIf this card was awakened, you may play up to two Cthulhu from your graveyard without paying their cost until end of turn. If you do, at the next end of turn >>> Their controller banishes them.\n\n[Awakening] [R][D]",
    "flavor_text": "Pain is only for the moment, domination is forever.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2199,7 +2227,7 @@
    "race": "Cthulhu",
    "artist": "Sadui/JCREATiON",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> This card gains [+1000/0] until end of turn. If this card was awakened, resonators you control gain [+1000/0] and [Pierce] until end of turn instead.",
+   "text": "Continuous\n\nCthulhu resonators you control gain [Swiftness].\n\nAutomatic\n\n[Enter] >>> This card gains [+1000/0] until end of turn. If this card was awakened, resonators you control gain [+1000/0] and [Pierce] until end of turn instead.\n\n[Awakening] [B][R]",
    "flavor_text": "True hunger is never stilled, no matter how many enemies you defeat.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2212,7 +2240,7 @@
    "type": "Special Magic Stone",
    "artist": "noki",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Activate\n[rest]: Produce [M] or [W].",
+   "text": "Activate\n\n[rest]: Produce [M] or [W].",
    "flavor_text": "Light shines down from above.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2225,6 +2253,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
+   "text": "[Rest]: Produce [D].\n\n[Rest]: Produce [R] or [B]. Spend this will only to play cards with multiple attributes and no other attributes than [R], [B] or [D].",
    "flavor_text": "This magic stone from the Demonic World can awaken fear and chaos.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   },
@@ -2237,7 +2266,7 @@
    "type": "Special Magic Stone",
    "artist": "jugemt",
    "expansion": "Saga Cluster 2nd 「The Magic Stone War - Zero」",
-   "text": "Automatic\n[Enter] >>> Recover a ruler you control.",
+   "text": "Automatic\n\n[Enter] >>> Recover a ruler you control.\n\n[Rest]: Produce [1].\n\n[Rest]: Produce one will of any attribute. Play this ability only if you control a recovered J/ruler.",
    "flavor_text": "This magic stone was created by Welser as a special gift for the Six Sages.",
    "all_sets": "Saga Cluster 2nd 「The Magic Stone War - Zero」"
   }

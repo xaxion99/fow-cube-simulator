@@ -1,24 +1,51 @@
 "card_url","card_name","card_image","card_number","card_rarity","card_type","card_race","card_expansion","card_text","card_all_sets","card_cost_attribute","card_att_def"
-"http://www.fowtcg.com/card/4448","Aramaki","http://d12h0em1d7ppg.cloudfront.net/items/44/4448/image_en/e5079a9f-c6b3-4aa6-a1c9-c794e44dad47.jpg","GITS2045SD-001","RR","Ruler","Human","GHOST IN THE SHELL SAC_2045 Starter Deck","Continuous
+"http://www.fowtcg.com/card/4448","Aramaki","http://d12h0em1d7ppg.cloudfront.net/items/44/4448/image_en/e5079a9f-c6b3-4aa6-a1c9-c794e44dad47.jpg","GITS2045SD-001","RR","Ruler","Human","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+[Energize] [1]
+Activate
+[Rest]: Remove target card in a graveyard from the game.
+Continuous
 You may pay [1] less to play cards not from your hand. When you play a card this way, draw a card.","GHOST IN THE SHELL SAC_2045 Starter Deck","",""
-"http://www.fowtcg.com/card/4449","Batou & Kusanagi Motoko","http://d12h0em1d7ppg.cloudfront.net/items/44/4449/image_en/4aeda84a-04bb-4a64-a4c1-7480b57f9bcd.jpg","GITS2045SD-002","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Automatic
+"http://www.fowtcg.com/card/4449","Batou & Kusanagi Motoko","http://d12h0em1d7ppg.cloudfront.net/items/44/4449/image_en/4aeda84a-04bb-4a64-a4c1-7480b57f9bcd.jpg","GITS2045SD-002","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+[Swiftness]
+Activate
+[Dive][1]: Target resonator gains [Swiftness] until end of turn. (Pay [1] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)
+Automatic
 [Enter] ⇒ Destroy target resonator with total cost 4 or less.","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/05.png","1200 / 1000"
-"http://www.fowtcg.com/card/4450","Batou, the Motoko's Buddy","http://d12h0em1d7ppg.cloudfront.net/items/44/4450/image_en/06e3a73e-4521-4ec6-a6ce-38c54b22768b.jpg","GITS2045SD-003","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Continuous
+"http://www.fowtcg.com/card/4450","Batou, the Motoko's Buddy","http://d12h0em1d7ppg.cloudfront.net/items/44/4450/image_en/06e3a73e-4521-4ec6-a6ce-38c54b22768b.jpg","GITS2045SD-003","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+Activate
+[Dive][1]: Search your deck for a card with ""Kusanagi Motoko"" in its name, reveal it, and put it into your hand. Then shuffle your deck. (Pay [1] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)
+Continuous
 This card cannot attack unless you control a card with ""Kusanagi Motoko"" in its name.","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","1000 / 1000"
-"http://www.fowtcg.com/card/4451","Bombarding","http://d12h0em1d7ppg.cloudfront.net/items/44/4451/image_en/b71d2af2-88f4-41eb-a8c1-c2e1cc07b225.jpg","GITS2045SD-004","","Chant","","GHOST IN THE SHELL SAC_2045 Starter Deck","","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png",""
-"http://www.fowtcg.com/card/4452","Ishikawa, the Competent Supporter","http://d12h0em1d7ppg.cloudfront.net/items/44/4452/image_en/6de33b0c-b479-4693-91e0-7dd8e75bea94.jpg","GITS2045SD-005","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Automatic
+"http://www.fowtcg.com/card/4451","Bombarding","http://d12h0em1d7ppg.cloudfront.net/items/44/4451/image_en/b71d2af2-88f4-41eb-a8c1-c2e1cc07b225.jpg","GITS2045SD-004","","Chant","","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+You may rest a recovered Machine resonator you control rather than pay this card's cost.
+This card deals 1000 damage to target resonator.","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png",""
+"http://www.fowtcg.com/card/4452","Ishikawa, the Competent Supporter","http://d12h0em1d7ppg.cloudfront.net/items/44/4452/image_en/6de33b0c-b479-4693-91e0-7dd8e75bea94.jpg","GITS2045SD-005","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+Automatic
 Whenever you play an activate ability with [Dive] ⇒ Copy it. You may choose new targets for the copy.","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 400"
-"http://www.fowtcg.com/card/4453","Kusanagi Motoko, in Bodysuit","http://d12h0em1d7ppg.cloudfront.net/items/44/4453/image_en/2f2b7768-45c2-45c5-83db-f64ee1d99d55.jpg","GITS2045SD-006","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Continuous
+"http://www.fowtcg.com/card/4453","Kusanagi Motoko, in Bodysuit","http://d12h0em1d7ppg.cloudfront.net/items/44/4453/image_en/2f2b7768-45c2-45c5-83db-f64ee1d99d55.jpg","GITS2045SD-006","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+Activate
+[Dive][2]: Return target resonator to its owner's hand. (Pay [2] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)
+Continuous
 This card cannot be blocked.","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/04.png","800 / 800"
-"http://www.fowtcg.com/card/4454","Kusanagi Motoko, in Relax","http://d12h0em1d7ppg.cloudfront.net/items/44/4454/image_en/dda1e738-14be-45f7-a269-0b716c766a21.jpg","GITS2045SD-007","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400"
-"http://www.fowtcg.com/card/4455","Optical Camouflage","http://d12h0em1d7ppg.cloudfront.net/items/44/4455/image_en/402a8006-28dd-427d-8d2c-1b5a6e6513a5.jpg","GITS2045SD-008","","Chant","","GHOST IN THE SHELL SAC_2045 Starter Deck","Activate
-[Quickcast]","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png",""
-"http://www.fowtcg.com/card/4456","Purin Esaki, the Elite","http://d12h0em1d7ppg.cloudfront.net/items/44/4456/image_en/b24db8ff-ec6d-400b-97e5-5eb97628096f.jpg","GITS2045SD-009","","Resonator","Human","GHOST IN THE SHELL SAC_2045 Starter Deck","Activate
+"http://www.fowtcg.com/card/4454","Kusanagi Motoko, in Relax","http://d12h0em1d7ppg.cloudfront.net/items/44/4454/image_en/dda1e738-14be-45f7-a269-0b716c766a21.jpg","GITS2045SD-007","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","400 / 400"
+"http://www.fowtcg.com/card/4455","Optical Camouflage","http://d12h0em1d7ppg.cloudfront.net/items/44/4455/image_en/402a8006-28dd-427d-8d2c-1b5a6e6513a5.jpg","GITS2045SD-008","","Chant","","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+Activate
+[Quickcast]
+Return target resonator to its owner's hand.","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png",""
+"http://www.fowtcg.com/card/4456","Purin Esaki, the Elite","http://d12h0em1d7ppg.cloudfront.net/items/44/4456/image_en/b24db8ff-ec6d-400b-97e5-5eb97628096f.jpg","GITS2045SD-009","","Resonator","Human","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+Activate
 [Rest]: Remove a card in your hand from the game with a cyberbrain counter on it.","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/01.png","0 / 700"
-"http://www.fowtcg.com/card/4457","Stan, a Former Army Infantry","http://d12h0em1d7ppg.cloudfront.net/items/44/4457/image_en/a6ca7e7e-7034-4fe0-866a-2ecfc30d3a1e.jpg","GITS2045SD-010","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Activate
+"http://www.fowtcg.com/card/4457","Stan, a Former Army Infantry","http://d12h0em1d7ppg.cloudfront.net/items/44/4457/image_en/a6ca7e7e-7034-4fe0-866a-2ecfc30d3a1e.jpg","GITS2045SD-010","","Resonator","Human/Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+Activate
 [Dive][1]: Target resonator gains [+400/+400] until end of turn. (Pay [1] and reveal this card from your hand to play this ability. Then remove this card from the game and put a cyberbrain counter on it. You may play this card from your removed area as long as there is a cyberbrain counter on it.)","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/02.png","600 / 500"
-"http://www.fowtcg.com/card/4458","Tachikoma C","http://d12h0em1d7ppg.cloudfront.net/items/44/4458/image_en/7aef0ff6-354d-45a2-aa02-5c574efd1642.jpg","GITS2045SD-011","","Resonator","Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Automatic
+"http://www.fowtcg.com/card/4458","Tachikoma C","http://d12h0em1d7ppg.cloudfront.net/items/44/4458/image_en/7aef0ff6-354d-45a2-aa02-5c574efd1642.jpg","GITS2045SD-011","","Resonator","Machine","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+[Quickcast]
+Automatic
 [Enter] ⇒ This card deals 600 damage to target resonator.","GHOST IN THE SHELL SAC_2045 Starter Deck","http://d12h0em1d7ppg.cloudfront.net/docs/icons/cost/03.png","600 / 600"
-"http://www.fowtcg.com/card/4459","Beverly Hills","http://d12h0em1d7ppg.cloudfront.net/items/44/4459/image_en/bb29554d-e626-4a48-8725-9a9ba091a404.jpg","GITS2045SD-012","","Special Magic Stone","","GHOST IN THE SHELL SAC_2045 Starter Deck","","GHOST IN THE SHELL SAC_2045 Starter Deck","",""
-"http://www.fowtcg.com/card/4460","Gated Town","http://d12h0em1d7ppg.cloudfront.net/items/44/4460/image_en/39668df4-c219-47cd-a09a-5ec44aff1f15.jpg","GITS2045SD-013","","Special Magic Stone","","GHOST IN THE SHELL SAC_2045 Starter Deck","","GHOST IN THE SHELL SAC_2045 Starter Deck","",""
-"http://www.fowtcg.com/card/4461","Palm Springs","http://d12h0em1d7ppg.cloudfront.net/items/44/4461/image_en/4068fdf6-06c0-4098-97e7-5d1023c63c15.jpg","GITS2045SD-014","","Special Magic Stone","","GHOST IN THE SHELL SAC_2045 Starter Deck","","GHOST IN THE SHELL SAC_2045 Starter Deck","",""
+"http://www.fowtcg.com/card/4459","Beverly Hills","http://d12h0em1d7ppg.cloudfront.net/items/44/4459/image_en/bb29554d-e626-4a48-8725-9a9ba091a404.jpg","GITS2045SD-012","","Special Magic Stone","","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+[Rest]: Produce [1].","GHOST IN THE SHELL SAC_2045 Starter Deck","",""
+"http://www.fowtcg.com/card/4460","Gated Town","http://d12h0em1d7ppg.cloudfront.net/items/44/4460/image_en/39668df4-c219-47cd-a09a-5ec44aff1f15.jpg","GITS2045SD-013","","Special Magic Stone","","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+[Rest]: Produce [1].
+[4], [Rest]: Draw a card.","GHOST IN THE SHELL SAC_2045 Starter Deck","",""
+"http://www.fowtcg.com/card/4461","Palm Springs","http://d12h0em1d7ppg.cloudfront.net/items/44/4461/image_en/4068fdf6-06c0-4098-97e7-5d1023c63c15.jpg","GITS2045SD-014","","Special Magic Stone","","GHOST IN THE SHELL SAC_2045 Starter Deck","Card Text
+[Rest]: Produce [1].","GHOST IN THE SHELL SAC_2045 Starter Deck","",""

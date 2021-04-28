@@ -16,6 +16,7 @@
    "race": "Angel",
    "artist": "Tsukumi",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\n[Enter] ⇒ Look at the top four cards of your deck. You may reveal an Angel resonator from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.",
    "flavor_text": "\"Knowledge is the source of all power.\"",
    "all_sets": "New Dawn Rises"
   },
@@ -38,6 +39,7 @@
    "race": "Wererabbit",
    "artist": "Misa Tsutsui",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\n[Rest]: Return this card to its owner's hand.\n\n[Enter] ⇒ You gain X00 life, where X is the number of runes revealed from your rune area.",
    "flavor_text": "\"Alright, another peaceful day! Hmm?! What was that just now?! Just my imagination?\"",
    "all_sets": "New Dawn Rises"
   },
@@ -61,6 +63,7 @@
    "type": "Chant",
    "artist": "Hayama Kohei",
    "expansion": "New Dawn Rises",
+   "text": "Destroy all rested resonators.",
    "flavor_text": "Be it a brief moment, Siegfried isn't so kind to overlook a vulnerability in his enemies' defense.",
    "all_sets": "New Dawn Rises"
   },
@@ -81,6 +84,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "Mad",
    "expansion": "New Dawn Rises",
+   "text": "You may pay [w] less to play this card from a rune area.\n\nJ/resonators you control gain [+200/+200] and \"At end of turn ⇒ Recover this card.\" until end of turn.",
    "flavor_text": "The people of Minerva believe all life comes from the sun.",
    "all_sets": "New Dawn Rises"
   },
@@ -103,6 +107,7 @@
    "race": "Human",
    "artist": "Tomomi TOMIDA",
    "expansion": "New Dawn Rises",
+   "text": "[Awakening][3]: [Enter] ⇒ Put four [+100/+100] counters on this card.",
    "flavor_text": "The will of the hero has been entrusted to the next generation.",
    "all_sets": "New Dawn Rises"
   },
@@ -125,6 +130,7 @@
    "race": "Human",
    "artist": "KAZTO FURUYA",
    "expansion": "New Dawn Rises",
+   "text": "[First Strike]\n\nOther J/resonators you control gain [First Strike].",
    "flavor_text": "In Minerva, the commander is the one who stands on the front lines.",
    "all_sets": "New Dawn Rises"
   },
@@ -145,6 +151,7 @@
    "type": "Addition",
    "artist": "jugemt",
    "expansion": "New Dawn Rises",
+   "text": "Resonators you control gain [Eternal] during your turn.",
    "flavor_text": "As long as the sun doesn't fade, life shall continue for all eternity.",
    "all_sets": "New Dawn Rises"
   },
@@ -170,6 +177,7 @@
    "race": "Valkyrie",
    "artist": "Haruichi Kido",
    "expansion": "New Dawn Rises",
+   "text": "[Precision]\n\nThis card cannot be attacked.",
    "flavor_text": "The souls of the enemy shall be annihilated by Eir's spear.",
    "all_sets": "New Dawn Rises"
   },
@@ -195,6 +203,7 @@
    "race": "Angel",
    "artist": "BANAMONS*",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\n[Enter] ⇒ Search your deck for an addition, reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "\"Will this help?\"",
    "all_sets": "New Dawn Rises"
   },
@@ -212,6 +221,7 @@
    "type": "Chant/Rune(Divinity 1)",
    "artist": "Saiko Takaki",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nYou may pay [w] less to play this card from a rune area.\n\nYou gain [Barrier](Chant) until end of turn.",
    "flavor_text": "A curtain of light blocking all threats.",
    "all_sets": "New Dawn Rises"
   },
@@ -232,6 +242,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "New Dawn Rises",
+   "text": "Angels you control gain [+200/+200].",
    "flavor_text": "As long as the moon doesn't fade, the angel's song shall never cease.",
    "all_sets": "New Dawn Rises"
   },
@@ -254,6 +265,7 @@
    "race": "Angel",
    "artist": "Fukuzo Katsura",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\n[Enter] ⇒ Foresee 1.",
    "flavor_text": "This girl holds a great power and is able to foresee everything. However, her timid nature prevents her from looking into some matters.",
    "all_sets": "New Dawn Rises"
   },
@@ -276,6 +288,7 @@
    "race": "Valkyrie",
    "artist": "SO",
    "expansion": "New Dawn Rises",
+   "text": "Card Text",
    "flavor_text": "Those eyes are able to ascertain the worth of one's soul.",
    "all_sets": "New Dawn Rises"
   },
@@ -301,6 +314,7 @@
    "race": "Angel",
    "artist": "Shindo Saeko",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\n[Enter] ⇒ Search your deck for an Angel not named \"Ophiel, Angel of Guidance\" with total cost X or less, where X is the number of light runes revealed from your rune area, and put it into the field. Then shuffle your deck.",
    "flavor_text": "Ophiel's commands are carried to each and every corner of Lunar Heaven.",
    "all_sets": "New Dawn Rises"
   },
@@ -318,6 +332,7 @@
    "type": "Chant",
    "artist": "Tatsuki Mutou",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nPlay this card only during your opponent's turn.\n\nTarget resonator gains [+800/+800] and [Barrier] until end of turn. Players cannot chase to this card.",
    "flavor_text": "When danger approaches the people of Lunar Heaven, they pray to the angels. In return, the angels offer their protection.",
    "all_sets": "New Dawn Rises"
   },
@@ -343,6 +358,7 @@
    "race": "Human",
    "artist": "Hayama Kohei",
    "expansion": "New Dawn Rises",
+   "text": "[Rune][w][w] - If this card would be dealt damage, prevent 200 of it.\n\n[Rune][w][w][w][w] - This card gains [+200/+200] and [Barrier](Chant).\n\n[Awakening][w][w][1]: [Enter] ⇒ Search your deck for a card named \"Balmung\", reveal it and put it into your hand. Then shuffle your deck. You may play a card named \"Balmung\" from your hand without paying its cost.",
    "flavor_text": "A hundred years is too short a period to live, yet too long a period to fight.",
    "all_sets": "New Dawn Rises"
   },
@@ -365,6 +381,7 @@
    "race": "Valkyrie",
    "artist": "JURI",
    "expansion": "New Dawn Rises",
+   "text": "Whenever this card attacks ⇒ Produce [w].",
    "flavor_text": "\"Oh? So it's going to be like that, huh?\"",
    "all_sets": "New Dawn Rises"
   },
@@ -385,6 +402,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "kawaryu",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nYou pay [2] more to play this card from a rune area.\n\nThis card deals damage equal to the highest ATK among J/resonators you control to target J/resonator. If you control a Valkyrie, you gain that much life.",
    "flavor_text": "A soul piercing blow.",
    "all_sets": "New Dawn Rises"
   },
@@ -404,6 +422,7 @@
    "race": "Wererabbit",
    "artist": "Tsukumi",
    "expansion": "New Dawn Rises",
+   "text": "Card Text",
    "flavor_text": "It's been a hundred years since the two sages from another world appeared and saved this country. For now, Lunar Heaven is at peace.",
    "all_sets": "New Dawn Rises"
   },
@@ -424,6 +443,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "BANAMONS*",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nYou may pay [2] less to play this card from a rune area.\n\nYou gain 800 life. Draw a card.",
    "flavor_text": "The pleasure of the heart becomes the healing of the body.",
    "all_sets": "New Dawn Rises"
   },
@@ -458,6 +478,7 @@
    "race": "Ascendant",
    "artist": "Azusa",
    "expansion": "New Dawn Rises",
+   "text": "You may pay [1] less to play this card for each fire rune revealed from your rune area.\n\nIf a card would be put into your opponent's graveyard from anywhere, remove it from the game instead.\n\n[Enter] ⇒ This card deals 1500 damage divided as you choose to any number of target resonators.",
    "flavor_text": "\"Judgment... It's the death penalty for you!\"",
    "all_sets": "New Dawn Rises"
   },
@@ -480,6 +501,7 @@
    "race": "Beast",
    "artist": "Nanami Lusia",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]",
    "flavor_text": "All who oppose the fire are burned to ash.",
    "all_sets": "New Dawn Rises"
   },
@@ -499,6 +521,7 @@
    "race": "Beast",
    "artist": "Rumie",
    "expansion": "New Dawn Rises",
+   "text": "[0]: This card gains [Flying] until end of turn. It deals 200 damage to you. Play this ability only once per turn.",
    "flavor_text": "\"Master, I'm going to start flying now. Make sure you hold on.\"",
    "all_sets": "New Dawn Rises"
   },
@@ -516,6 +539,7 @@
    "type": "Chant",
    "artist": "AKI",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nRemove all resonators in your opponent's graveyard from the game. If five or more cards are removed this way, search your deck for a card named \"Anubis, Administrator of the Hounds\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "Burial is an important ceremony to the people of Sandora.",
    "all_sets": "New Dawn Rises"
   },
@@ -538,6 +562,7 @@
    "race": "Beast",
    "artist": "Shirono Muku",
    "expansion": "New Dawn Rises",
+   "text": "When this card is put into a graveyard from the field ⇒ Draw a card, then discard a card.",
    "flavor_text": "To add burden, one must remove burden elsewhere.",
    "all_sets": "New Dawn Rises"
   },
@@ -560,6 +585,7 @@
    "race": "Dragon",
    "artist": "gajumaru",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\nDiscard a card: This card gains [+500/0] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Sometimes the letters arrive singed. But that's alright, it simply means an enemy was foolish enough to try and intercept them.",
    "all_sets": "New Dawn Rises"
   },
@@ -580,6 +606,7 @@
    "type": "Chant/Rune(Divinity 3)",
    "artist": "tokiwa",
    "expansion": "New Dawn Rises",
+   "text": "You pay [r][1] more to play this card from a rune area.\n\nResonators your opponent controls cannot block until end of turn.",
    "flavor_text": "\"Bind them together!\" -Pang Tong",
    "all_sets": "New Dawn Rises"
   },
@@ -600,6 +627,7 @@
    "type": "Addition",
    "artist": "mita kura",
    "expansion": "New Dawn Rises",
+   "text": "When a J/resonator you control is targeted by a chant spell or ability your opponent controls ⇒ You may banish this card. If you do, cancel that chant spell or ability.",
    "flavor_text": "While it certainly is real, from outside the city of Sandora appears as if a mirage.",
    "all_sets": "New Dawn Rises"
   },
@@ -625,6 +653,7 @@
    "race": "Beast",
    "artist": "TAKUMI",
    "expansion": "New Dawn Rises",
+   "text": "[Barrier][r]",
    "flavor_text": "Withstanding the harsh heat for so long has allowed it to control fire slightly.",
    "all_sets": "New Dawn Rises"
   },
@@ -647,6 +676,7 @@
    "race": "Human",
    "artist": "Retro",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ This card deals 900 damage to target J/resonator your opponent controls.",
    "flavor_text": "Her explosion is the signal for the start of the battle.",
    "all_sets": "New Dawn Rises"
   },
@@ -667,6 +697,7 @@
    "type": "Chant",
    "artist": "Saiko Takaki",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nThis card cannot be cancelled if you control \"Shen Gongbao, Taoist of Kunlun\".\n\nThis card deals 600 damage to target J/resonator. If this card was awakened, it deals 600 damage to up to one second target J/resonator.\n\n[Awakening][r][2]",
    "flavor_text": "The lightning spews forth before forking towards separate targets.",
    "all_sets": "New Dawn Rises"
   },
@@ -690,6 +721,7 @@
    "type": "Addition",
    "artist": "Kotakan",
    "expansion": "New Dawn Rises",
+   "text": "Fire resonators you control gain [+300/+300].",
    "flavor_text": "As long as Fu Xi's ambitions still last, the fires of Kunlun will never go out.",
    "all_sets": "New Dawn Rises"
   },
@@ -715,6 +747,7 @@
    "race": "Ascendant",
    "artist": "touge369",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ This card gains [Swiftness] unless your opponent discards a card.\n\nWhen this card is put into a graveyard from the field ⇒ You may discard two cards. If you do, put this card into the field under its owner's control.",
    "flavor_text": "Coil him in new wrappings and Osiris shall be reborn anew.",
    "all_sets": "New Dawn Rises"
   },
@@ -732,6 +765,7 @@
    "type": "Chant/Rune(Divinity 1)",
    "artist": "SAO",
    "expansion": "New Dawn Rises",
+   "text": "You may pay [r] less to play this card from a rune area.\n\nThis card deals 200 damage to each resonator your opponent controls.",
    "flavor_text": "To small beings, even a small sandstorm is a harsh tribulation.",
    "all_sets": "New Dawn Rises"
   },
@@ -752,6 +786,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "kakiken",
    "expansion": "New Dawn Rises",
+   "text": "You pay [2] more to play this card from a rune area.\n\nThis card deals 700 damage to target player or J/resonator.",
    "flavor_text": "\"There's no point in living a life without a great ambition.\"-Fu Xi",
    "all_sets": "New Dawn Rises"
   },
@@ -769,6 +804,7 @@
    "type": "Chant/Rune(Divinity2)",
    "artist": "Mad",
    "expansion": "New Dawn Rises",
+   "text": "You pay [1] more to play this card from a rune area.\n\nTwo target resonators gain [+400/0] until end of turn.",
    "flavor_text": "Don't be afraid to ride the scorching winds.",
    "all_sets": "New Dawn Rises"
   },
@@ -791,6 +827,7 @@
    "race": "Taoist",
    "artist": "Rumie",
    "expansion": "New Dawn Rises",
+   "text": "You may pay [1] less to play cards named \"Heaven Thundering Strike\".\n\nThis card gains [+100/+100] and [Swiftness] as long as you control a Beast.\n\n[Awakening][1]: [Enter] ⇒ Search your deck for a card named \"Black Spot Tiger\", and put it into the field. Then shuffle your deck.\n\n[Awakening][1]: [Enter] ⇒ Search your deck for a card named \"Heaven Thundering Strike\", reveal it and put it into your hand. Then shuffle your deck.",
    "flavor_text": "A great number of taoists have come to Kunlun to serve Fu Xi.",
    "all_sets": "New Dawn Rises"
   },
@@ -816,6 +853,7 @@
    "race": "Human",
    "artist": "kawaryu",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: This card deals 200 damage to target J/resonator.",
    "flavor_text": "\"Throw sand on those who do you wrong.\" -Teachings of Sandora",
    "all_sets": "New Dawn Rises"
   },
@@ -835,6 +873,7 @@
    "race": "Insect",
    "artist": "SAO",
    "expansion": "New Dawn Rises",
+   "text": "[Swiftness]\n\nIf this card would deal damage to a resonator, it deals double that much instead.",
    "flavor_text": "The toxins of the desert come with a terrible burning sensation.",
    "all_sets": "New Dawn Rises"
   },
@@ -857,6 +896,7 @@
    "race": "Invention",
    "artist": "gekko",
    "expansion": "New Dawn Rises",
+   "text": "[Awakening][5]: [Enter] ⇒ This card gains [+1200/-800] and [Swiftness] until end of turn.\n\nWhen this card is put into a graveyard from the field ⇒ It deals 800 damage to target resonator your opponent controls.",
    "flavor_text": "An envoy from another world introduced this innovation to this country, greatly pleasing Fu Xi.",
    "all_sets": "New Dawn Rises"
   },
@@ -874,6 +914,7 @@
    "type": "Chant",
    "artist": "SO",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nCancel target automatic ability of a resonator. If this card was awakened, destroy that resonator.\n\n[Awakening][u][2]",
    "flavor_text": "Freeze and smash.",
    "all_sets": "New Dawn Rises"
   },
@@ -891,6 +932,7 @@
    "type": "Addition",
    "artist": "gozz",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Look at the top four cards of your deck. You may reveal a Fairy Tale from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.\n\n[Rest], [2], banish this card: Put target Fairy Tale resonator with total cost 6 or less from your graveyard into the field.",
    "flavor_text": "The forest appears to change shape as one wanders within.",
    "all_sets": "New Dawn Rises"
   },
@@ -913,6 +955,7 @@
    "race": "Giant",
    "artist": "Moopic",
    "expansion": "New Dawn Rises",
+   "text": "When this card is targeted by a spell ⇒ Banish it.",
    "flavor_text": "The mist takes the form of a giant, perhaps the forest's way of discouraging invaders.",
    "all_sets": "New Dawn Rises"
   },
@@ -941,6 +984,7 @@
    "race": "Fairy Tale",
    "artist": "mie",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Gain control of a resonator your opponent controls chosen at random.",
    "flavor_text": "Is it time to pay the piper?",
    "all_sets": "New Dawn Rises"
   },
@@ -964,6 +1008,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "noki",
    "expansion": "New Dawn Rises",
+   "text": "You may pay [1] less to play this card from a rune area.\n\nSearch your deck for a card and put it into your hand. Then shuffle your deck.",
    "flavor_text": "The more distorted the world, the easier it is to enter...and the harder it is to leave.",
    "all_sets": "New Dawn Rises"
   },
@@ -989,6 +1034,7 @@
    "race": "Fairy Tale/Witch",
    "artist": "douzen",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Return target resonator your opponent controls to its owner's hand. Draw a card.",
    "flavor_text": "A deep, mysterious power dwells within the cauldron. Not even the witch knows where it comes from.",
    "all_sets": "New Dawn Rises"
   },
@@ -1008,6 +1054,7 @@
    "race": "Beast",
    "artist": "Retro",
    "expansion": "New Dawn Rises",
+   "text": "This card gains [+500/+500] for each growth counter on it.\n\nWhenever this card attacks ⇒ You may remove a gluttony counter from it. If you do, remove target resonator your opponent controls from the game.\n\n[Awakening][2]: This card enters the field with a growth counter.\n\n[Awakening][w]: This card enters the field with a gluttony counter.\n\nBanish a water magic stone: Put a growth counter or a gluttony counter on this card. Play this ability only during your turn and only once per turn.",
    "flavor_text": "\"Don't eat too much or I won't be able to keep you at home!\" -Loki",
    "all_sets": "New Dawn Rises"
   },
@@ -1030,6 +1077,7 @@
    "race": "Machine",
    "artist": "kakotomirai",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Put a [+100/+100] counter on each Machine resonator you control.\n\nRemove three [+100/+100] counters from a resonator you control: Destroy target resonator.\n\nRemove a total of ten [+100/+100] counters from any number of resonators you control: J/resonators your opponent controls lose all abilities until end of turn. Destroy all resonators your opponent controls.",
    "flavor_text": "The last thing Lancelot's enemies see is their own reflection on the glass.",
    "all_sets": "New Dawn Rises"
   },
@@ -1055,6 +1103,7 @@
    "race": "Fairy Tale",
    "artist": "yuhki lily",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Draw two cards, then discard two cards.",
    "flavor_text": "A cat from another world, unlike those seen in Kouga, beckoned Loki to come closer. As she did, the fairy tales appeared and greeted her.",
    "all_sets": "New Dawn Rises"
   },
@@ -1075,6 +1124,7 @@
    "type": "Chant/Rune(Divinity 3)",
    "artist": "Retro",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nYou may pay [1] less to play this card from a rune area.\n\nProduce [u][u][u]. Spend this will only to pay [Awakening] costs.",
    "flavor_text": "\"Everyone grow nice and strong!\" -Loki",
    "all_sets": "New Dawn Rises"
   },
@@ -1094,6 +1144,7 @@
    "race": "Machine",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "New Dawn Rises",
+   "text": "As long as there are no [+100/+100] counters on this card, it doesn't recover during its controller's recovery phase.",
    "flavor_text": "This one's still short a screw.",
    "all_sets": "New Dawn Rises"
   },
@@ -1119,6 +1170,7 @@
    "race": "Machine",
    "artist": "suranaki",
    "expansion": "New Dawn Rises",
+   "text": "[Awakening][X]: [Enter] ⇒ Search your deck for a Machine with total cost X+2 or less and put it into the field. Then shuffle your deck.",
    "flavor_text": "\"Arthur, we must continue to fight. For this is the role granted upon us by our creator, Deus Ex Machina.\"",
    "all_sets": "New Dawn Rises"
   },
@@ -1141,6 +1193,7 @@
    "race": "Beast",
    "artist": "Mad",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\n[Awakening][4]: [Enter] ⇒ Your opponent banishes a resonator.",
    "flavor_text": "Loki listened to the screams as if they were a most wonderful symphony.",
    "all_sets": "New Dawn Rises"
   },
@@ -1161,6 +1214,7 @@
    "type": "Chant/Rune(Divinity 3)",
    "artist": "Mad",
    "expansion": "New Dawn Rises",
+   "text": "You may pay [2] less to play this card from a rune area.\n\nAs an additional cost to play this card, remove X Machines in your graveyard from the game.\n\nLook at the top X cards of your deck. Put a Machine with total cost of X or less from among them into the field. Put the rest on the bottom of your deck in a random order.",
    "flavor_text": "The site of the battle is brimming with parts for new machines.",
    "all_sets": "New Dawn Rises"
   },
@@ -1183,6 +1237,7 @@
    "race": "Machine",
    "artist": "kakiken",
    "expansion": "New Dawn Rises",
+   "text": "Card Text",
    "flavor_text": "Guardians that specialize in protection.",
    "all_sets": "New Dawn Rises"
   },
@@ -1205,6 +1260,7 @@
    "race": "Machine",
    "artist": "M ganzy",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Put a [+100/+100] counter on another target Machine resonator you control.",
    "flavor_text": "He's desperately trying to find the owner of the screw he found.",
    "all_sets": "New Dawn Rises"
   },
@@ -1226,6 +1282,7 @@
    "race": "Machine",
    "artist": "Shinichi Chiba",
    "expansion": "New Dawn Rises",
+   "text": "Machines you control gain [+100/+100].\n\nWhenever a Machine resonator enters the field under your control ⇒ Put a [+100/+100] counter on it.",
    "flavor_text": "The Knights of Sky Round are the protectors of the skies. For that very reason, other factions perceive them a threat.",
    "all_sets": "New Dawn Rises"
   },
@@ -1246,6 +1303,7 @@
    "type": "Chant/Rune(Divinity 1)",
    "artist": "Haruki Komai",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nYou may pay [1] less to play this card from a rune area.\n\nTarget resonator cannot attack this turn. Draw a card.",
    "flavor_text": "As the fog clears the landscape begins to take shape.",
    "all_sets": "New Dawn Rises"
   },
@@ -1266,6 +1324,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "Moopic",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nYou pay [1] more to play this card from a rune area.\n\nReturn target resonator to its owner's hand. If you control a Machine resonator, put it on top of its owner's deck instead.",
    "flavor_text": "One cannot fight against the wave of energy.",
    "all_sets": "New Dawn Rises"
   },
@@ -1285,6 +1344,7 @@
    "race": "Machine/Fairy",
    "artist": "KEIICHIRO ITO",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\nWhenever another Machine enters the field under your control ⇒ Put a [+100/+100] counter on this card.\n\nRemove two [+100/+100] counters from this card: Rest target resonator.",
    "flavor_text": "Load and release.",
    "all_sets": "New Dawn Rises"
   },
@@ -1310,6 +1370,7 @@
    "race": "Mimi Tribe",
    "artist": "Yuko Nagasaki",
    "expansion": "New Dawn Rises",
+   "text": "Discard a chant: This card gains [+800/0] until end of turn. Play this ability only once per turn.",
    "flavor_text": "Knowledge can also be used to strike.",
    "all_sets": "New Dawn Rises"
   },
@@ -1329,6 +1390,7 @@
    "race": "Cat/Ninja",
    "artist": "kawaryu",
    "expansion": "New Dawn Rises",
+   "text": "When this card is put into a graveyard from the field ⇒ Put a [100/100] wind Cat resonator token into the field.",
    "flavor_text": "Reconnaissance relies on stealth, a skill cats are adept at.",
    "all_sets": "New Dawn Rises"
   },
@@ -1351,6 +1413,7 @@
    "race": "Oni",
    "artist": "Retro",
    "expansion": "New Dawn Rises",
+   "text": "[Awakening][g][g][2]: [Enter] ⇒ Put five [+100/+100] counters on this card.",
    "flavor_text": "The people of Kouga are a cheerful bunch, perhaps a reflection of their creator's personality?",
    "all_sets": "New Dawn Rises"
   },
@@ -1368,6 +1431,7 @@
    "type": "Chant/Rune(Divinity3)",
    "artist": "Shirono Muku",
    "expansion": "New Dawn Rises",
+   "text": "You may pay [g] less to play this card from a rune area.\n\nLook at the top five cards of your deck. You may reveal a wind resonator from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.",
    "flavor_text": "The explorers of the Mimi tribe gathered and set forth towards uncharted territory.",
    "all_sets": "New Dawn Rises"
   },
@@ -1390,6 +1454,7 @@
    "race": "Beast",
    "artist": "Moopic",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]",
    "flavor_text": "The Mimi tribe is in a constant battle of life and death against the ecosystem of the Lost Isles.",
    "all_sets": "New Dawn Rises"
   },
@@ -1410,6 +1475,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "yua",
    "expansion": "New Dawn Rises",
+   "text": "You pay [1] more to play this card from a rune area.\n\nThis card deals 800 damage to target resonator. If you control a Bushido, destroy that resonator instead.",
    "flavor_text": "Clear your mind of all unneeded thoughts. Focus only on your opponent's vitals and strike.",
    "all_sets": "New Dawn Rises"
   },
@@ -1432,6 +1498,7 @@
    "race": "Youkai",
    "artist": "haniwa",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]",
    "flavor_text": "Calmly fluttering in the wind.",
    "all_sets": "New Dawn Rises"
   },
@@ -1457,6 +1524,7 @@
    "race": "Cat/Bushido",
    "artist": "AKI",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Choose one - Destroy target special magic stone; or this card deals 1200 damage to target resonator; or destroy target addition.",
    "flavor_text": "\"A true swordsman is one free from obstructive thought.\"",
    "all_sets": "New Dawn Rises"
   },
@@ -1482,6 +1550,7 @@
    "race": "Youkai",
    "artist": "Nem",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast][Flying][Barrier](Chant)\n\nThis card cannot be cancelled.",
    "flavor_text": "The tengu are the proud protectors of these lands. Some of them, like Karura, prefer to remain hidden until the time is right.",
    "all_sets": "New Dawn Rises"
   },
@@ -1504,6 +1573,7 @@
    "race": "Cat/Ninja",
    "artist": "kurisu",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\n[Enter] ⇒ Produce [w], [r], [u], [g], or [b]. Spend this will only to play chants.",
    "flavor_text": "\"Feel the power of my ninjutsu!... Oh, um, where's that scroll at?\"",
    "all_sets": "New Dawn Rises"
   },
@@ -1526,6 +1596,7 @@
    "race": "Mimi Tribe",
    "artist": "Yukie TAJIMA",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Put two fling counters on this card. If there are two or more wind runes revealed from your rune area, put four fling counters on this card instead.\n\nRemove a fling counter from this card: This card gains [+1000/0] until end of turn. Play this ability only once per turn.\n\n[g][1], remove two fling counters from this card: Destroy target resonator.",
    "flavor_text": "The only member of the Mimi tribe able to freely manipulate the boomerang is Lemuria.",
    "all_sets": "New Dawn Rises"
   },
@@ -1543,6 +1614,7 @@
    "type": "Chant",
    "artist": "Yukie TAJIMA",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nChoose one - Target resonator gains [Flying] until end of turn; or return target resonator you control to its owner's hand; or this card deals 400 damage to target resonator.",
    "flavor_text": "The Mimi tribe's magic is a combination of skill and brute strength.",
    "all_sets": "New Dawn Rises"
   },
@@ -1565,6 +1637,7 @@
    "race": "Mimi Tribe",
    "artist": "hatarisu",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Look at the top three cards of your deck. You may reveal a Mimi Tribe from among them and put it into your hand. Put the rest on the bottom of your deck in any order.",
    "flavor_text": "The explorers of the Mimi tribe aren't an organized bunch. The majority of their time is spent bickering over who will lead for that day.",
    "all_sets": "New Dawn Rises"
   },
@@ -1587,6 +1660,7 @@
    "race": "Beast",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "New Dawn Rises",
+   "text": "[g]: This card gains [Barrier] until end of turn.",
    "flavor_text": "The river makes an excellent refuge.",
    "all_sets": "New Dawn Rises"
   },
@@ -1610,6 +1684,7 @@
    "type": "Chant/Rune(Divinity 1)",
    "artist": "Shirono Muku",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nYou pay [1] more to play this card from a rune area.\n\nCancel target spell.",
    "flavor_text": "This song invokes nostalgia in the listener, stopping them, even in the midst of battle.",
    "all_sets": "New Dawn Rises"
   },
@@ -1633,6 +1708,7 @@
    "type": "Chant",
    "artist": "AKI",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nDestroy all resonators with [Flying].",
    "flavor_text": "Wherever the tengu appear, the sky becomes the most dangerous location to be.",
    "all_sets": "New Dawn Rises"
   },
@@ -1653,6 +1729,7 @@
    "type": "Addition",
    "artist": "gozz",
    "expansion": "New Dawn Rises",
+   "text": "Mimi Tribes you control gain [+200/+200].",
    "flavor_text": "For those who can survive, Lost Isles is a paradise.",
    "all_sets": "New Dawn Rises"
   },
@@ -1675,6 +1752,7 @@
    "race": "Mimi Tribe",
    "artist": "Misa Tsutsui",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ You may discard a card. If you do, you gain 1000 life.",
    "flavor_text": "Taste is secondary when cooking a meal.",
    "all_sets": "New Dawn Rises"
   },
@@ -1692,6 +1770,7 @@
    "type": "Addition",
    "artist": "ComamitsuZaki",
    "expansion": "New Dawn Rises",
+   "text": "[1], [Rest]: Remove target resonator you control from the game.\n\n[g][g], [Rest]: Put a resonator from a removed area that was removed by this card into the field under its owner's control.",
    "flavor_text": "Kouga is a village hidden from the outside world. Those who wander in lost are said to be \"spirited away\" by the gods.",
    "all_sets": "New Dawn Rises"
   },
@@ -1715,6 +1794,7 @@
    "type": "Chant/Rune(Divinity 3)",
    "artist": "SIE NANAHARA",
    "expansion": "New Dawn Rises",
+   "text": "You may pay [g] less to play this card from a rune area.\n\nSearch your deck for up to two Youkai with total cost X or less and put them into the field. Then shuffle your deck.",
    "flavor_text": "The festival of the youkai is a lively one, lasting from dusk to dawn.",
    "all_sets": "New Dawn Rises"
   },
@@ -1737,6 +1817,7 @@
    "race": "Human",
    "artist": "Nagi-nyan",
    "expansion": "New Dawn Rises",
+   "text": "Card Text",
    "flavor_text": "The devil smiles upon those willing to die for him.",
    "all_sets": "New Dawn Rises"
   },
@@ -1762,6 +1843,7 @@
    "race": "Fallen Angel",
    "artist": "Nakaba Higurashi",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\nYou may pay [2] less to play this card if your opponent has one or less cards in their hand.\n\n[Enter] ⇒ Choose one - Look at the top two cards of your deck. Put a card from among them into your hand and the rest in your graveyard; or target two resonators your opponent controls. Your opponent banishes one of them.",
    "flavor_text": "\"Don't worry. I shall free you from your suffering now.\"",
    "all_sets": "New Dawn Rises"
   },
@@ -1790,6 +1872,7 @@
    "race": "Fallen Angel",
    "artist": "Fukuzo Katsura",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\nIf your life is 1000 or less, you may pay [3] less to play this card.\n\n[Enter] ⇒ Destroy all non-Fallen Angel resonators.\n\nWhenever a resonator is put into a graveyard from the field ⇒ This card deals 100 damage to your opponent.",
    "flavor_text": "\"The wicked need a messiah to show them the way. Yes... Someone like me.\"",
    "all_sets": "New Dawn Rises"
   },
@@ -1813,6 +1896,7 @@
    "type": "Addition",
    "artist": "Saiko Takaki",
    "expansion": "New Dawn Rises",
+   "text": "This card enters the field with three abyss counters.\n\nAt the end of your turn ⇒ Put the top card of your deck into your graveyard. Put a [100/100] darkness Skeleton resonator token into the field. Remove an abyss counter from this card.\n\nWhen the last abyss counter is removed from this card ⇒ Banish it. If you do, put a [X00/X00] darkness Lich resonator token into the field, where X is the number of resonators in your graveyard.",
    "flavor_text": "This hole was created after the war of the gods. In it is the lament and legacies of the gods, forever abandoned to rest in the Abyss.",
    "all_sets": "New Dawn Rises"
   },
@@ -1835,6 +1919,7 @@
    "race": "Zombie",
    "artist": "Hayama Kohei",
    "expansion": "New Dawn Rises",
+   "text": "When this card enters the field from a graveyard ⇒ It deals 200 damage to each resonator.",
    "flavor_text": "Zombies love making new friends.",
    "all_sets": "New Dawn Rises"
   },
@@ -1860,6 +1945,7 @@
    "race": "Zombie/Wizard",
    "artist": "Kotakan",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Put target Zombie with total cost 2 or less from your graveyard into the field.",
    "flavor_text": "A corpse gives life to another corpse.",
    "all_sets": "New Dawn Rises"
   },
@@ -1883,6 +1969,7 @@
    "type": "Chant/Rune(Divinity 3)",
    "artist": "kakiken",
    "expansion": "New Dawn Rises",
+   "text": "You pay [b][1] more to play this card from a rune area.\n\nYour opponent loses 1000 life. You gain 1000 life.",
    "flavor_text": "Tolerance is taboo.",
    "all_sets": "New Dawn Rises"
   },
@@ -1905,6 +1992,7 @@
    "race": "Beast/Zombie",
    "artist": "Nanami Lusia",
    "expansion": "New Dawn Rises",
+   "text": "[Bane]",
    "flavor_text": "\"In this land, even a scratch can spell death. Focus on avoiding your battles instead of fighting them.\" -Atom Seikhart",
    "all_sets": "New Dawn Rises"
   },
@@ -1930,6 +2018,7 @@
    "race": "Zombie",
    "artist": "tokiwa",
    "expansion": "New Dawn Rises",
+   "text": "[B］, remove three darkness cards in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.",
    "flavor_text": "Accept this taint and rise again.",
    "all_sets": "New Dawn Rises"
   },
@@ -1952,6 +2041,7 @@
    "race": "Vampire",
    "artist": "gajumaru",
    "expansion": "New Dawn Rises",
+   "text": "[Flying]\n\nWhenever this card deals damage ⇒ Put a [+100/+100] counter on it.",
    "flavor_text": "Blood is best fresh.",
    "all_sets": "New Dawn Rises"
   },
@@ -1974,6 +2064,7 @@
    "race": "Demon",
    "artist": "yuhki lily",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Your opponent loses 200 life. You gain 200 life.",
    "flavor_text": "Despair gradually eats away at the heart.",
    "all_sets": "New Dawn Rises"
   },
@@ -1994,6 +2085,7 @@
    "type": "Chant",
    "artist": "lack",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nIf a resonator you control was put into a graveyard from the field this turn, you may pay [2] less to play this card.\n\nDestroy target resonator.",
    "flavor_text": "That blade severs the boundary between life and death.",
    "all_sets": "New Dawn Rises"
   },
@@ -2011,6 +2103,7 @@
    "type": "Chant",
    "artist": "TAKUMI",
    "expansion": "New Dawn Rises",
+   "text": "Look at your opponent's hand. Choose a card with total cost 4 or less. They discard that card. If this card was awakened, also choose a card with total cost 5 or more. They discard that card.\n\n[Awakening][B］[1］",
    "flavor_text": "\"If you can't resist, then obey. Obedience is a virtue.\" -Belial, the Evil from the Scriptures",
    "all_sets": "New Dawn Rises"
   },
@@ -2034,6 +2127,7 @@
    "type": "Chant/Rune(Divinity 3)",
    "artist": "RYUEMON",
    "expansion": "New Dawn Rises",
+   "text": "You pay [1] more to play this card from a rune area.\n\nDestroy target non-darkness resonator.",
    "flavor_text": "As long as one is living, this miasma remains deadly.",
    "all_sets": "New Dawn Rises"
   },
@@ -2059,6 +2153,7 @@
    "race": "Human/Wizard",
    "artist": "Mad",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ Resonators your opponent controls gain [-500/-500] until end of turn.",
    "flavor_text": "The cries of the wicked plants fear into the heart.",
    "all_sets": "New Dawn Rises"
   },
@@ -2081,6 +2176,7 @@
    "race": "Vampire",
    "artist": "lack",
    "expansion": "New Dawn Rises",
+   "text": "[Enter] ⇒ You may banish a resonator. If you do, put a fresh blood counter on this card.\n\nThis card gains [+200/+200] and [Flying] as long as there is a fresh blood counter on it.\n\nWhenever this card attacks ⇒ You may banish a resonator. If you do, target resonator gains [-400/-400] until end of turn.\n\n[Awakening][b][b][b][b]: [Enter] ⇒ Destroy all J-rulers.",
    "flavor_text": "\"Only ten percent of the power that wind sage stole has returned... but that's adequate enough.\"",
    "all_sets": "New Dawn Rises"
   },
@@ -2098,6 +2194,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "haniwa",
    "expansion": "New Dawn Rises",
+   "text": "[Quickcast]\n\nYou pay [1] more to play this card from a rune area.\n\nPut three [-100/-100] counters on target resonator.",
    "flavor_text": "The rain weighs down on the soul.",
    "all_sets": "New Dawn Rises"
   },
@@ -2121,6 +2218,7 @@
    "type": "Addition",
    "artist": "jugemt",
    "expansion": "New Dawn Rises",
+   "text": "Non-darkness resonators gain [-200/-200].\n\nDarkness resonators gain [+200/+200].",
    "flavor_text": "The angels that were excommunicated with Satan continued to weep over this land. Those tears became rain, transforming this once holy sanctuary into ruins.",
    "all_sets": "New Dawn Rises"
   },
@@ -2146,6 +2244,7 @@
    "race": "Skeleton",
    "artist": "kakiken",
    "expansion": "New Dawn Rises",
+   "text": "When this card is put into a graveyard from the field ⇒ Put two [100/100] darkness Skeleton resonator tokens into the field.",
    "flavor_text": "Destroy one and two more shall rise.",
    "all_sets": "New Dawn Rises"
   },
@@ -2166,6 +2265,7 @@
    "type": "Chant/Rune(Divinity 2)",
    "artist": "Miko Yamazaki",
    "expansion": "New Dawn Rises",
+   "text": "You pay [1] more to play this card from a rune area.\n\nDraw two cards. You lose 500 life.",
    "flavor_text": "You are fated to die. One way or another.",
    "all_sets": "New Dawn Rises"
   },
@@ -2178,6 +2278,7 @@
    "type": "Special Magic Stone",
    "artist": "gozz",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [g].\n\n[Rest], [g]: Target Mimi Tribe gains [+200/+200] until end of turn.",
    "flavor_text": "Shiva called for a pure-hearted destroyer.",
    "all_sets": "New Dawn Rises"
   },
@@ -2190,6 +2291,7 @@
    "type": "Special Magic Stone",
    "artist": "Yuko Nagasaki",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [u].\n\n[Rest], banish this card: Produce [u][u]. Spend this will only to pay [Awakening] costs.",
    "flavor_text": "Loki simply wants a world of Chaos.",
    "all_sets": "New Dawn Rises"
   },
@@ -2202,6 +2304,7 @@
    "type": "Special Magic Stone",
    "artist": "Moopic",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [b].\n\n[Rest], [b][b], banish this card: Your opponent discards a card. Play this ability only during main timing. (Main timing is anytime you can play a non-[Quickcast] card.)",
    "flavor_text": "Satan desired to corrupt the pure.",
    "all_sets": "New Dawn Rises"
   },
@@ -2214,6 +2317,7 @@
    "type": "Special Magic Stone",
    "artist": "touge369",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [u].\n\n[Rest]: Put a [+100/+100] counter on target Machine that was put into the field this turn.",
    "flavor_text": "Deus Ex Machina yearned to hear the cheers of the audience.",
    "all_sets": "New Dawn Rises"
   },
@@ -2226,6 +2330,7 @@
    "type": "Special Magic Stone",
    "artist": "MATSUMOTO EIGHT",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [r].\n\n[Rest]: Produce [r][r]. Spend this will only to play activate abilities of J-rulers you control.",
    "flavor_text": "Atum asked the warriors to prove their strength.",
    "all_sets": "New Dawn Rises"
   },
@@ -2238,6 +2343,7 @@
    "type": "Special Magic Stone",
    "artist": "Sa-Dui",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [w]. If you spend this will to play a Human or Valkyrie, it cannot be cancelled.",
    "flavor_text": "Odin demanded subordination from all those beneath him.",
    "all_sets": "New Dawn Rises"
   },
@@ -2250,6 +2356,7 @@
    "type": "Special Magic Stone",
    "artist": "AshesBomber",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [w].\n\n[Rest], [1]: Produce [r], [u], [g], or [b]. Spend this will only to play runes.",
    "flavor_text": "Zeus sought to obtain all the knowledge of the world.",
    "all_sets": "New Dawn Rises"
   },
@@ -2262,6 +2369,7 @@
    "type": "Special Magic Stone",
    "artist": "Kusanagi Tyouen",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [r].\n\n[Rest], banish this card: Target Dragon gains [Swiftness] until end of turn.",
    "flavor_text": "Genshi Tenson sought to find his own path.",
    "all_sets": "New Dawn Rises"
   },
@@ -2274,6 +2382,7 @@
    "type": "Special Magic Stone",
    "artist": "Zionenciel",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [b].\n\n[Rest]: Put the top card of your deck into your graveyard.",
    "flavor_text": "Hel longed for a world of the undead.",
    "all_sets": "New Dawn Rises"
   },
@@ -2286,6 +2395,7 @@
    "type": "Special Magic Stone",
    "artist": "Miko Yamazaki",
    "expansion": "New Dawn Rises",
+   "text": "[Rest]: Produce [g].\n\n[Rest]: Recover target Ninja. Play this ability only during an end phase.",
    "flavor_text": "Bastet wished for the peace of the world.",
    "all_sets": "New Dawn Rises"
   },
@@ -2298,6 +2408,7 @@
    "race": "Avatar",
    "artist": "SAGAWA ASUKA",
    "expansion": "New Dawn Rises",
+   "text": "[Divinity]7\n\n[Judgment][4]\n\nAt the beginning of the game ⇒ Put a limited counter on this card.\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "An arcana with memories of the beginning.",
    "all_sets": "New Dawn Rises"
   },
@@ -2311,6 +2422,7 @@
    "race": "Avatar",
    "artist": "Haruichi Kido",
    "expansion": "New Dawn Rises",
+   "text": "[Divinity]7\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "\"In the beginning, the gods came to Valhalla and the world was good. It was then, a now forgotten god foolishly asked 'amongst us, who's the strongest?'. Upon hearing this question that no one could answer, each god returned to their territories and raised an army. This was the beginning of the never ending war.\"",
    "all_sets": "New Dawn Rises"
   },
@@ -2323,6 +2435,7 @@
    "race": "Avatar",
    "artist": "SAGAWA ASUKA",
    "expansion": "New Dawn Rises",
+   "text": "[Divinity]6\n\n[Judgment][4]\n\nAt the beginning of the game ⇒ Put two limited counters on this card.\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "An arcana with memories of the war.",
    "all_sets": "New Dawn Rises"
   },
@@ -2336,6 +2449,7 @@
    "race": "Avatar",
    "artist": "AKI",
    "expansion": "New Dawn Rises",
+   "text": "[Divinity]6\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "\"As the never ending war continued, the collapse of Valhalla had eventually neared. The gods powers were too grand, tearing the world at its seams. The gods thought it best to continue their war another way. Together they created a miniature world and agreed to continue their war through proxy using its denizens. And so, Valhalla had avoided annihilation... yet the proxy war continued with no end in sight.\"",
    "all_sets": "New Dawn Rises"
   },
@@ -2348,6 +2462,7 @@
    "race": "Avatar",
    "artist": "SAGAWA ASUKA",
    "expansion": "New Dawn Rises",
+   "text": "[Divinity]5\n\n[Judgment][4]\n\nAt the beginning of the game ⇒ Put three limited counters on this card.\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "An arcana with memories of the downfall.",
    "all_sets": "New Dawn Rises"
   },
@@ -2361,6 +2476,7 @@
    "race": "Avatar",
    "artist": "Shosuke",
    "expansion": "New Dawn Rises",
+   "text": "[Divinity]5\n\n[1], remove a limited counter from this card: Produce [w], [r], [u], [g], or [b].",
    "flavor_text": "\"The proxy war continued for eons. Grown tired of watching, the gods became restless and started to fight again. As the war raged on Valhalla reached the point of collapse and disappeared from the universe. The chief gods faded from existence, their essence scattered into the void. But the miniature world they created still remained. The people of this world still continued to fight, for gods that had long lost form. As time came to pass, they began to call their own world 'Valhalla'.\"",
    "all_sets": "New Dawn Rises"
   }
